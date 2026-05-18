@@ -1,0 +1,105 @@
+import sys
+from pathlib import Path
+import xml.etree.ElementTree as ET
+
+l_coordinates(kml_path):
+    ns = {"kml": "http://www.opengis.net/kml/2.2"}
+    tree = ET.parse(kml_path)
+    root = tree.getroot()
+    groups = []
+
+    for node in root.findall(".//kml:coordinates", ns):
+        if not node.text:
+            continue
+
+        pts = []
+        for item in node.text.strip().split():
+            parts = item.split(",")
+            if len(parts) >= 2:
+                lon = float(parts[0])
+                lat = float(parts[1])
+                x, y = to_tm.transform(lon, lat)
+                pts.append((x, y))
+
+        if pts:
+            groups.append(pts)
+
+    return groups
+
+def kml_to_dxf(input_file, output_file):
+    groups = parse_kml_coordinates(input_file)
+
+    doc = ezdxf.new()
+    msp = doc.modelspace()
+
+    for pts in groups:
+        if len(pts) == 1:
+            x, y = pts[0]
+            msp.add_circle((x, y), radius=2)
+        else:
+            closed = pts[0] == pts[-1]
+            msp.add_lwpolyline(pts, close=closed)
+
+    doc.saveas(output_file)
+
+def dxf_to_kml(input_file, output_file):
+    doc = ezdxf.readfile(input_file)
+    msp = doc.modelspace()
+
+    kml = simplekml.Kml()
+
+    for e in msp:
+        if e.dxftype() == "LWPOLYLINE":
+            coords = []
+            for p in e.get_points():
+                x, y = p[0], p[1]
+                lon, lat = to_wgs.transform(x, y)
+                coords.append((lon, lat))
+
+            if coords:
+                line = kml.newlinestring(name="DXF Polyline")
+                line.coords = coords
+
+        elif e.dxftype() == "LINE":
+            start = e.dxf.start
+            end = e.dxf.end
+
+            lon1, lat1 = to_wgs.transform(start.x, start.y)
+            lon2, lat2 = to_wgs.transform(end.x, end.y)
+
+            line = kml.newlinestring(name="DXF Line")
+            line.coords = [(lon1, lat1), (lon2, lat2)]
+
+        elif e.dxftype() == "CIRCLE":
+            center = e.dxf.center
+            lon, lat = to_wgs.transform(center.x, center.y)
+
+            point = kml.newpoint(name="DXF Point")
+            point.coords = [(lon, lat)]
+
+    kml.save(output_file)
+
+def main():
+    if len(sys.argv) < 4:
+        print("사용법:")
+        print("python scripts/cad_kml_convert.py kml_to_dxf uploads/input.kml outputs/output.dxf")
+        print("python scripts/cad_kml_convert.py dxf_to_kml uploads/input.dxf outputs/output.kml")
+        sys.exit(1)
+
+    mode = sys.argv[1]
+    input_file = Path(sys.argv[2])
+    output_file = Path(sys.argv[3])
+
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+
+    if mode == "kml_to_dxf":
+        kml_to_dxf(input_file, output_file)
+    elif mode == "dxf_to_kml":
+        dxf_to_kml(input_file, output_file)
+    else:
+        raise ValueError("mode는 kml_to_dxf 또는 dxf_to_kml 이어야 합니다.")
+
+    print(f"변환 완료: {output_file}")
+
+if __name__ == "__main__":
+    main()

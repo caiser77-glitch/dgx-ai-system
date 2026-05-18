@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>DXF Polyline</name>
+            <LineString id="2">
+                <coordinates>126.72166908181998,37.4016679845623,0.0 126.722467303664,37.4018265128435,0.0 126.72254239641002,37.401367230857,0.0 126.721744174871,37.4012087025698,0.0 126.72166908181998,37.4016679845623,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="______">
+	<name>인천</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<Schema name="C:/Users/yes/Desktop/인천.kml" id="______.schema">
+		<SimpleField type="float" name="FID">
+		</SimpleField>
+	</Schema>
+	<Placemark id="______.1">
+		<ExtendedData>
+			<SchemaData schemaUrl="#______.schema">
+				<SimpleData name="FID">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				126.72166908182,37.4016679845623,0 126.722467303664,37.4018265128435,0 126.72254239641,37.401367230857,0 126.721744174871,37.4012087025698,0 126.72166908182,37.4016679845623,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

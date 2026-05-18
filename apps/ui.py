@@ -69,12 +69,12 @@ def create_report_ppt(title, ocr_text, ai_result, out_path):
 
     prs.save(out_path)
 
-def run_all(file):
+def run_ocr_ai_ppt(file):
     src = Path(file)
     path = BASE / "uploads" / src.name
     shutil.copy(src, path)
 
-    subprocess.run(["python", str(BASE/"scripts/ocr_run.py"), str(path)], check=True)
+    subprocess.run(["python", str(BASE / "scripts/ocr_run.py"), str(path)], check=True)
 
     ocr_txt_path = BASE / "outputs" / f"{path.stem}_ocr.txt"
     ocr_img_path = BASE / "outputs" / f"{path.stem}_processed.png"
@@ -90,18 +90,88 @@ def run_all(file):
 
     return str(ocr_txt_path), str(ocr_img_path), ai_result, str(ai_file), str(ppt_file)
 
+def run_excel(file):
+    src = Path(file)
+    path = BASE / "uploads" / src.name
+    shutil.copy(src, path)
+
+    subprocess.run(["python", str(BASE / "scripts/excel_summary.py"), str(path)], check=True)
+
+    out = BASE / "outputs" / f"{path.stem}_summary.xlsx"
+    return str(out)
+
+def run_ppt():
+    subprocess.run(["python", str(BASE / "scripts/ppt_create.py")], check=True)
+    return str(BASE / "outputs" / "test_presentation.pptx")
+
+def run_cad_test():
+    subprocess.run(["python", str(BASE / "scripts/cad_create_dxf.py")], check=True)
+    return str(BASE / "outputs" / "test_drawing.dxf")
+
+def auto_convert_cad_kml(file):
+    src = Path(file)
+    path = BASE / "uploads" / src.name
+    shutil.copy(src, path)
+
+    ext = path.suffix.lower()
+
+    if ext == ".kml":
+        mode = "kml_to_dxf"
+        out = BASE / "outputs" / f"{path.stem}.dxf"
+    elif ext == ".dxf":
+        mode = "dxf_to_kml"
+        out = BASE / "outputs" / f"{path.stem}.kml"
+    else:
+        raise ValueError("지원하지 않는 파일입니다. .kml 또는 .dxf 파일만 업로드하세요.")
+
+    result = subprocess.run(
+        ["python", str(BASE / "scripts/cad_kml_convert.py"), mode, str(path), str(out)],
+        capture_output=True,
+        text=True
+    )
+
+    if result.returncode != 0:
+        raise RuntimeError(result.stderr)
+
+    log = f"변환 완료: {path.name} → {out.name}\n\n{result.stdout}"
+    return str(out), log
+
 with gr.Blocks() as app:
-    gr.Markdown("# DGX AI 자동 분석 시스템")
+    gr.Markdown("# DGX 작업 콘솔")
 
-    file = gr.File(label="이미지 업로드", type="filepath")
-    btn = gr.Button("OCR + AI + PPT 실행")
+    with gr.Tab("OCR → AI → PPT"):
+        file = gr.File(label="이미지 업로드", type="filepath")
+        btn = gr.Button("OCR + AI 분석 + PPT 생성")
 
-    ocr_txt = gr.File(label="OCR 결과")
-    ocr_img = gr.Image(label="전처리 이미지")
-    ai_text = gr.Textbox(label="AI 분석", lines=12)
-    ai_file = gr.File(label="AI 결과 파일")
-    ppt_file = gr.File(label="PPT 리포트")
+        ocr_txt = gr.File(label="OCR 결과")
+        ocr_img = gr.Image(label="전처리 이미지")
+        ai_text = gr.Textbox(label="AI 분석", lines=12)
+        ai_file = gr.File(label="AI 결과 파일")
+        ppt_file = gr.File(label="PPT 리포트")
 
-    btn.click(run_all, file, [ocr_txt, ocr_img, ai_text, ai_file, ppt_file])
+        btn.click(run_ocr_ai_ppt, file, [ocr_txt, ocr_img, ai_text, ai_file, ppt_file])
+
+    with gr.Tab("Excel"):
+        excel_file = gr.File(label="엑셀 파일 업로드", type="filepath")
+        excel_btn = gr.Button("엑셀 분석 실행")
+        excel_out = gr.File(label="엑셀 분석 결과")
+        excel_btn.click(run_excel, excel_file, excel_out)
+
+    with gr.Tab("CAD / KML 자동 변환"):
+        cad_kml_file = gr.File(label="KML 또는 DXF 파일 업로드", type="filepath")
+        cad_kml_btn = gr.Button("자동 변환")
+        cad_kml_out = gr.File(label="변환 결과 파일")
+        cad_kml_log = gr.Textbox(label="처리 로그", lines=6)
+        cad_kml_btn.click(auto_convert_cad_kml, cad_kml_file, [cad_kml_out, cad_kml_log])
+
+    with gr.Tab("PPT 테스트"):
+        ppt_btn = gr.Button("PPT 생성")
+        ppt_out = gr.File(label="생성된 PPT")
+        ppt_btn.click(run_ppt, None, ppt_out)
+
+    with gr.Tab("CAD 테스트"):
+        cad_btn = gr.Button("DXF 테스트 도면 생성")
+        cad_out = gr.File(label="생성된 DXF")
+        cad_btn.click(run_cad_test, None, cad_out)
 
 app.launch(server_name="0.0.0.0", server_port=7861)
