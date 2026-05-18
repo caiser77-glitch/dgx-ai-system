@@ -11,13 +11,10 @@ BASE = Path("/home/caiser77/dgx_workspace")
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OPEN_WEBUI_URL = "http://100.98.149.128:3000/"
 
-# AURUM 모델 구성
 MODEL_FAST = "qwen2.5:14b"
 MODEL_BIG = "qwen2.5:72b"
-MODEL_ALT_BIG = "llama3.1:70b"
 MODEL_IMAGE = "llava:latest"
 MODEL_LIGHT = "mistral:latest"
-MODEL_GEMMA = "gemma2:27b"
 
 
 def call_ollama(model, prompt, temperature=0.2, timeout=600):
@@ -27,10 +24,7 @@ def call_ollama(model, prompt, temperature=0.2, timeout=600):
             "model": model,
             "prompt": prompt,
             "stream": False,
-            "options": {
-                "temperature": temperature,
-                "top_p": 0.8,
-            },
+            "options": {"temperature": temperature, "top_p": 0.8},
         },
         timeout=timeout,
     )
@@ -49,40 +43,20 @@ def get_weather():
 
 def select_aurum_route(question):
     q = question.lower()
-    length = len(question)
 
-    weather_keywords = ["날씨", "기온", "비", "눈", "미세먼지", "weather"]
-    image_keywords = ["이미지", "사진", "그림", "ocr", "캡처", "스캔", "도면 이미지"]
-    code_keywords = [
-        "python", "파이썬", "코드", "스크립트", "함수", "에러", "오류",
-        "traceback", "syntaxerror", "module", "api", "docker", "linux",
-        "bash", "git", "vscode", "터미널"
-    ]
-    document_keywords = [
-        "요약", "문서", "보고서", "분석", "정리", "ppt", "엑셀",
-        "계약서", "리포트", "표", "자료", "환경영향평가", "생물", "조사구"
-    ]
-    realtime_keywords = ["오늘", "지금", "현재", "실시간", "뉴스", "환율", "주가"]
-
-    if any(k in q for k in weather_keywords):
+    if any(k in q for k in ["날씨", "기온", "비", "눈", "weather"]):
         return "WEATHER_API", "날씨 질문으로 판단"
 
-    if any(k in q for k in image_keywords):
-        return MODEL_IMAGE, "이미지/OCR 관련 질문으로 판단"
+    if any(k in q for k in ["이미지", "사진", "ocr", "그림", "캡처"]):
+        return MODEL_IMAGE, "이미지/OCR 관련 질문"
 
-    if any(k in q for k in code_keywords):
-        return MODEL_FAST, "코드/개발/에러 관련 질문으로 판단"
+    if any(k in q for k in ["python", "코드", "에러", "오류", "git", "docker", "vscode", "터미널"]):
+        return MODEL_FAST, "코드/시스템 질문"
 
-    if any(k in q for k in document_keywords) or length > 1500:
-        return MODEL_BIG, "문서 분석/긴 질문으로 판단"
+    if any(k in q for k in ["요약", "문서", "보고서", "분석", "ppt", "엑셀", "환경영향평가"]):
+        return MODEL_BIG, "문서/보고서 분석"
 
-    if any(k in q for k in realtime_keywords):
-        return "REALTIME_UNSUPPORTED", "실시간 정보 질문으로 판단"
-
-    if length < 200:
-        return MODEL_LIGHT, "짧은 일반 질문으로 판단"
-
-    return MODEL_FAST, "일반 질문으로 판단"
+    return MODEL_LIGHT, "일반 질문"
 
 
 def aurum_answer(question):
@@ -92,38 +66,27 @@ def aurum_answer(question):
     route, reason = select_aurum_route(question)
 
     if route == "WEATHER_API":
-        weather = get_weather()
-        return f"[AURUM]\n선택 도구: WEATHER_API\n선택 이유: {reason}", weather
-
-    if route == "REALTIME_UNSUPPORTED":
-        return (
-            f"[AURUM]\n선택 도구: REALTIME\n선택 이유: {reason}",
-            "이 질문은 실시간 정보가 필요합니다. 현재 AURUM에는 뉴스/환율/주가 API가 아직 연결되어 있지 않습니다."
-        )
+        return f"[AURUM]\n선택 도구: WEATHER_API\n선택 이유: {reason}", get_weather()
 
     prompt = f"""
-너는 'AURUM(아우룸)' 통합 AI 시스템이다.
-AURUM은 DGX 로컬 서버에서 여러 LLM을 목적별로 선택해 사용하는 업무용 AI 콘솔이다.
+너는 AURUM(아우룸) 통합 AI 시스템이다.
+DGX 로컬 서버에서 OCR, Excel, CAD, KML, PPT 자동화를 지원한다.
 
-현재 선택된 모델: {route}
+선택 모델: {route}
 선택 이유: {reason}
 
 답변 원칙:
-- 한국어로 답변
+- 한국어
+- 실무 중심
 - 초보자도 따라할 수 있게 설명
-- 실행 명령이 필요하면 복붙 가능한 형태로 제공
-- 불확실한 내용은 단정하지 않기
-- 현재 DGX / OCR / Excel / CAD / KML / PPT 자동화 맥락을 우선 고려
-- 너무 장황하지 않게 핵심부터 설명
+- 명령어는 복붙 가능하게 제공
+- 불확실하면 단정하지 않기
 
 사용자 질문:
 {question}
 """
-
     answer = call_ollama(route, prompt)
-
-    model_info = f"[AURUM]\n선택 모델: {route}\n선택 이유: {reason}"
-    return model_info, answer
+    return f"[AURUM]\n선택 모델: {route}\n선택 이유: {reason}", answer
 
 
 def ask_llm_for_ocr(text):
@@ -132,18 +95,14 @@ def ask_llm_for_ocr(text):
 아래 OCR 결과는 여러 OCR 엔진 결과가 합쳐진 원문일 수 있다.
 
 중요 지시:
-- [TESSERACT_RESULT]와 [EASYOCR_RESULT]가 있으면 둘을 비교해서 먼저 최종 보정본을 만들어라.
+- [TESSERACT_RESULT]와 [EASYOCR_RESULT]가 있으면 둘을 비교해서 최종 보정본을 먼저 만들어라.
 - OCR 오타는 문맥상 가능한 범위에서 보정해라.
 - 확실하지 않은 내용은 "추정"이라고 표시해라.
-- 결과는 반드시 한국어 실무 보고서 형식으로 작성해라.
-
-출력 형식:
+- 결과는 한국어 실무 보고서 형식으로 작성해라.
 
 [최종 보정본]
-- OCR 결과를 사람이 읽기 좋게 정리
 
 [문서 유형]
-- 이 문서/이미지가 무엇인지 한 줄로 추정
 
 [핵심 요약]
 1.
@@ -151,7 +110,6 @@ def ask_llm_for_ocr(text):
 3.
 
 [상세 분석]
-- 항목별 의미 설명
 
 [실행할 작업]
 1.
@@ -159,8 +117,6 @@ def ask_llm_for_ocr(text):
 3.
 
 [주의할 점]
-- OCR 인식이 불확실한 부분
-- 사람이 직접 확인해야 할 부분
 
 OCR 원문:
 {text}
@@ -185,7 +141,7 @@ def create_report_ppt(title, ocr_text, ai_result, out_path):
 
     slide = prs.slides.add_slide(prs.slide_layouts[1])
     slide.shapes.title.text = "다음 작업"
-    slide.placeholders[1].text = "1. OCR 보정본 확인\n2. AI 분석 내용 검토\n3. 필요 시 원본 파일 개선\n4. 결과 리포트 저장 및 공유"
+    slide.placeholders[1].text = "1. OCR 보정본 확인\n2. AI 분석 검토\n3. 필요 시 원본 개선\n4. 리포트 저장 및 공유"
 
     prs.save(out_path)
 
@@ -195,10 +151,7 @@ def run_ocr_ai_ppt(file):
     path = BASE / "uploads" / src.name
     shutil.copy(src, path)
 
-    subprocess.run(
-        ["python", str(BASE / "scripts/ocr_run.py"), str(path)],
-        check=True,
-    )
+    subprocess.run(["python", str(BASE / "scripts/ocr_run.py"), str(path)], check=True)
 
     ocr_txt_path = BASE / "outputs" / f"{path.stem}_ocr.txt"
     ocr_img_path = BASE / "outputs" / f"{path.stem}_processed.png"
@@ -220,10 +173,7 @@ def run_excel(file):
     path = BASE / "uploads" / src.name
     shutil.copy(src, path)
 
-    subprocess.run(
-        ["python", str(BASE / "scripts/excel_summary.py"), str(path)],
-        check=True,
-    )
+    subprocess.run(["python", str(BASE / "scripts/excel_summary.py"), str(path)], check=True)
 
     out = BASE / "outputs" / f"{path.stem}_summary.xlsx"
     return str(out)
@@ -258,19 +208,39 @@ def auto_convert_cad_kml(file):
     return str(out), log
 
 
+def aurum_auto(file):
+    src = Path(file)
+    ext = src.suffix.lower()
+
+    try:
+        if ext in [".png", ".jpg", ".jpeg", ".webp", ".bmp", ".tif", ".tiff"]:
+            ocr_txt, ocr_img, ai_text, ai_file, ppt_file = run_ocr_ai_ppt(file)
+            log = f"이미지 파일 감지: {src.name}\n처리: OCR → AI 분석 → PPT 생성 완료"
+            return log, ocr_txt, ocr_img, ai_text, ai_file, ppt_file, None
+
+        if ext in [".xlsx", ".xls"]:
+            excel_out = run_excel(file)
+            log = f"엑셀 파일 감지: {src.name}\n처리: Excel 분석 완료"
+            return log, None, None, "", None, None, excel_out
+
+        if ext in [".kml", ".dxf"]:
+            converted, cad_log = auto_convert_cad_kml(file)
+            log = f"CAD/KML 파일 감지: {src.name}\n{cad_log}"
+            return log, None, None, "", None, None, converted
+
+        raise ValueError("지원하지 않는 파일입니다. 이미지, 엑셀, KML, DXF만 지원합니다.")
+
+    except Exception as e:
+        return f"오류 발생: {e}", None, None, "", None, None, None
+
+
 def run_ppt():
-    subprocess.run(
-        ["python", str(BASE / "scripts/ppt_create.py")],
-        check=True,
-    )
+    subprocess.run(["python", str(BASE / "scripts/ppt_create.py")], check=True)
     return str(BASE / "outputs" / "test_presentation.pptx")
 
 
 def run_cad_test():
-    subprocess.run(
-        ["python", str(BASE / "scripts/cad_create_dxf.py")],
-        check=True,
-    )
+    subprocess.run(["python", str(BASE / "scripts/cad_create_dxf.py")], check=True)
     return str(BASE / "outputs" / "test_drawing.dxf")
 
 
@@ -278,13 +248,27 @@ with gr.Blocks(title="AURUM") as app:
     gr.Markdown("# AURUM / 아우룸")
     gr.Markdown("### DGX 통합 AI 작업 콘솔")
 
-    with gr.Tab("AURUM 자동 질문"):
-        gr.Markdown("## 질문을 입력하면 AURUM이 모델 또는 도구를 자동 선택합니다.")
-        question = gr.Textbox(
-            label="질문 입력",
-            lines=8,
-            placeholder="예: 이 에러 왜 나는지 설명해줘 / 이 문서 요약해줘 / 오늘 날씨는 어때 / CAD KML 변환 방식 설명해줘"
+    with gr.Tab("AURUM AUTO"):
+        gr.Markdown("## 파일 하나를 업로드하면 AURUM이 자동으로 처리합니다.")
+        auto_file = gr.File(label="파일 업로드", type="filepath")
+        auto_btn = gr.Button("AURUM AUTO 실행")
+
+        auto_log = gr.Textbox(label="처리 로그", lines=6)
+        auto_ocr_txt = gr.File(label="OCR 결과")
+        auto_ocr_img = gr.Image(label="전처리 이미지")
+        auto_ai_text = gr.Textbox(label="AI 분석 결과", lines=12)
+        auto_ai_file = gr.File(label="AI 분석 파일")
+        auto_ppt_file = gr.File(label="PPT 리포트")
+        auto_result_file = gr.File(label="기타 결과 파일")
+
+        auto_btn.click(
+            aurum_auto,
+            auto_file,
+            [auto_log, auto_ocr_txt, auto_ocr_img, auto_ai_text, auto_ai_file, auto_ppt_file, auto_result_file],
         )
+
+    with gr.Tab("AURUM 자동 질문"):
+        question = gr.Textbox(label="질문 입력", lines=8)
         ask_btn = gr.Button("AURUM 실행")
         model_info = gr.Textbox(label="선택된 모델 / 도구", lines=4)
         answer = gr.Textbox(label="답변", lines=18)
@@ -294,24 +278,18 @@ with gr.Blocks(title="AURUM") as app:
         gr.Markdown("## Open WebUI")
         gr.Markdown(f"[Open WebUI 새 창에서 열기]({OPEN_WEBUI_URL})")
         gr.HTML(f"""
-        <iframe
-            src="{OPEN_WEBUI_URL}"
-            width="100%"
-            height="800"
-            style="border:1px solid #ccc; border-radius:8px;">
-        </iframe>
+        <iframe src="{OPEN_WEBUI_URL}" width="100%" height="800"
+        style="border:1px solid #ccc; border-radius:8px;"></iframe>
         """)
 
     with gr.Tab("OCR → AI → PPT"):
         file = gr.File(label="이미지 업로드", type="filepath")
         btn = gr.Button("OCR + AI 분석 + PPT 생성")
-
         ocr_txt = gr.File(label="OCR 결과")
         ocr_img = gr.Image(label="전처리 이미지")
         ai_text = gr.Textbox(label="AI 분석", lines=12)
         ai_file = gr.File(label="AI 결과 파일")
         ppt_file = gr.File(label="PPT 리포트")
-
         btn.click(run_ocr_ai_ppt, file, [ocr_txt, ocr_img, ai_text, ai_file, ppt_file])
 
     with gr.Tab("Excel"):
