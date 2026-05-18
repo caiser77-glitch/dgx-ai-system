@@ -2,12 +2,15 @@ import shutil
 import subprocess
 import requests
 from pathlib import Path
+
 import gradio as gr
 from pptx import Presentation
 
 BASE = Path("/home/caiser77/dgx_workspace")
 OLLAMA_URL = "http://localhost:11434/api/generate"
 LLM_MODEL = "qwen2.5:14b"
+OPEN_WEBUI_URL = "http://100.98.149.128:3000/"
+
 
 def ask_llm(text):
     prompt = f"""
@@ -45,12 +48,13 @@ OCR 원문:
             "model": LLM_MODEL,
             "prompt": prompt,
             "stream": False,
-            "options": {"temperature": 0.2}
+            "options": {"temperature": 0.2},
         },
-        timeout=300
+        timeout=300,
     )
     r.raise_for_status()
     return r.json().get("response", "")
+
 
 def create_report_ppt(title, ocr_text, ai_result, out_path):
     prs = Presentation()
@@ -68,6 +72,7 @@ def create_report_ppt(title, ocr_text, ai_result, out_path):
     slide.placeholders[1].text = ai_result[:1000]
 
     prs.save(out_path)
+
 
 def run_ocr_ai_ppt(file):
     src = Path(file)
@@ -90,6 +95,7 @@ def run_ocr_ai_ppt(file):
 
     return str(ocr_txt_path), str(ocr_img_path), ai_result, str(ai_file), str(ppt_file)
 
+
 def run_excel(file):
     src = Path(file)
     path = BASE / "uploads" / src.name
@@ -100,13 +106,6 @@ def run_excel(file):
     out = BASE / "outputs" / f"{path.stem}_summary.xlsx"
     return str(out)
 
-def run_ppt():
-    subprocess.run(["python", str(BASE / "scripts/ppt_create.py")], check=True)
-    return str(BASE / "outputs" / "test_presentation.pptx")
-
-def run_cad_test():
-    subprocess.run(["python", str(BASE / "scripts/cad_create_dxf.py")], check=True)
-    return str(BASE / "outputs" / "test_drawing.dxf")
 
 def auto_convert_cad_kml(file):
     src = Path(file)
@@ -127,7 +126,7 @@ def auto_convert_cad_kml(file):
     result = subprocess.run(
         ["python", str(BASE / "scripts/cad_kml_convert.py"), mode, str(path), str(out)],
         capture_output=True,
-        text=True
+        text=True,
     )
 
     if result.returncode != 0:
@@ -136,8 +135,31 @@ def auto_convert_cad_kml(file):
     log = f"변환 완료: {path.name} → {out.name}\n\n{result.stdout}"
     return str(out), log
 
+
+def run_ppt():
+    subprocess.run(["python", str(BASE / "scripts/ppt_create.py")], check=True)
+    return str(BASE / "outputs" / "test_presentation.pptx")
+
+
+def run_cad_test():
+    subprocess.run(["python", str(BASE / "scripts/cad_create_dxf.py")], check=True)
+    return str(BASE / "outputs" / "test_drawing.dxf")
+
+
 with gr.Blocks() as app:
     gr.Markdown("# DGX 작업 콘솔")
+
+    with gr.Tab("Open WebUI"):
+        gr.Markdown("## Open WebUI")
+        gr.Markdown(f"[Open WebUI 새 창에서 열기]({OPEN_WEBUI_URL})")
+        gr.HTML(f"""
+        <iframe
+            src="{OPEN_WEBUI_URL}"
+            width="100%"
+            height="800"
+            style="border:1px solid #ccc; border-radius:8px;">
+        </iframe>
+        """)
 
     with gr.Tab("OCR → AI → PPT"):
         file = gr.File(label="이미지 업로드", type="filepath")
@@ -173,5 +195,6 @@ with gr.Blocks() as app:
         cad_btn = gr.Button("DXF 테스트 도면 생성")
         cad_out = gr.File(label="생성된 DXF")
         cad_btn.click(run_cad_test, None, cad_out)
+
 
 app.launch(server_name="0.0.0.0", server_port=7861)
