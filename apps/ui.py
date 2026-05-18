@@ -70,7 +70,7 @@ def aurum_answer(question):
 
     prompt = f"""
 너는 AURUM(아우룸) 통합 AI 시스템이다.
-DGX 로컬 서버에서 OCR, Excel, CAD, KML, PPT 자동화를 지원한다.
+DGX 로컬 서버에서 OCR, Excel, CAD, KML, PDF, PPT 자동화를 지원한다.
 
 선택 모델: {route}
 선택 이유: {reason}
@@ -168,6 +168,43 @@ def run_ocr_ai_ppt(file):
     return str(ocr_txt_path), str(ocr_img_path), ai_result, str(ai_file), str(ppt_file)
 
 
+def run_taxa_image_ocr(file):
+    src = Path(file)
+    path = BASE / "uploads" / src.name
+    shutil.copy(src, path)
+
+    subprocess.run(
+        ["python", str(BASE / "scripts/taxa_table_ocr.py"), str(path)],
+        check=True,
+    )
+
+    out = BASE / "outputs" / f"{path.stem}_taxa.xlsx"
+    return str(out)
+
+
+def safe_page_name(pages):
+    p = pages.strip() if pages and pages.strip() else "all"
+    return p.replace(",", "_").replace("-", "to").replace(" ", "")
+
+
+def run_taxa_pdf_ocr(file, pages):
+    src = Path(file)
+    path = BASE / "uploads" / src.name
+    shutil.copy(src, path)
+
+    page_text = pages.strip() if pages and pages.strip() else ""
+
+    subprocess.run(
+        ["python", str(BASE / "scripts/taxa_pdf_ocr.py"), str(path), page_text],
+        check=True,
+    )
+
+    out_name = f"{path.stem}_pages_{safe_page_name(page_text)}_taxa.xlsx"
+    out = BASE / "outputs" / out_name
+
+    return str(out)
+
+
 def run_excel(file):
     src = Path(file)
     path = BASE / "uploads" / src.name
@@ -228,7 +265,11 @@ def aurum_auto(file):
             log = f"CAD/KML 파일 감지: {src.name}\n{cad_log}"
             return log, None, None, "", None, None, converted
 
-        raise ValueError("지원하지 않는 파일입니다. 이미지, 엑셀, KML, DXF만 지원합니다.")
+        if ext == ".pdf":
+            log = f"PDF 파일 감지: {src.name}\nPDF는 페이지 지정이 필요하므로 'PDF 분류군 조사표 OCR' 탭에서 처리하세요."
+            return log, None, None, "", None, None, None
+
+        raise ValueError("지원하지 않는 파일입니다. 이미지, 엑셀, KML, DXF, PDF만 지원합니다.")
 
     except Exception as e:
         return f"오류 발생: {e}", None, None, "", None, None, None
@@ -291,6 +332,23 @@ with gr.Blocks(title="AURUM") as app:
         ai_file = gr.File(label="AI 결과 파일")
         ppt_file = gr.File(label="PPT 리포트")
         btn.click(run_ocr_ai_ppt, file, [ocr_txt, ocr_img, ai_text, ai_file, ppt_file])
+
+    with gr.Tab("분류군 조사표 OCR"):
+        taxa_file = gr.File(label="조사표 이미지 업로드", type="filepath")
+        taxa_btn = gr.Button("이미지 표 OCR → Excel 생성")
+        taxa_out = gr.File(label="결과 Excel")
+        taxa_btn.click(run_taxa_image_ocr, taxa_file, taxa_out)
+
+    with gr.Tab("PDF 분류군 조사표 OCR"):
+        pdf_file = gr.File(label="PDF 업로드", type="filepath")
+        page_input = gr.Textbox(
+            label="OCR할 페이지",
+            value="1",
+            placeholder="예: 1,3-5,8 / 전체 페이지는 빈칸"
+        )
+        pdf_btn = gr.Button("지정 페이지 OCR → Excel 생성")
+        pdf_out = gr.File(label="결과 Excel")
+        pdf_btn.click(run_taxa_pdf_ocr, [pdf_file, page_input], pdf_out)
 
     with gr.Tab("Excel"):
         excel_file = gr.File(label="엑셀 파일 업로드", type="filepath")
