@@ -2,8 +2,7 @@ import sys
 import subprocess
 from pathlib import Path
 import pandas as pd
-import fitz  # PyMuPDF
-
+import fitz
 
 BASE = Path("/home/caiser77/dgx_workspace")
 TMP_DIR = BASE / "outputs" / "_pdf_pages"
@@ -11,13 +10,6 @@ TMP_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def parse_pages(page_text, total_pages):
-    """
-    입력 예:
-    1
-    1,3,5
-    2-4
-    1,3-5,8
-    """
     pages = set()
 
     if not page_text.strip():
@@ -39,7 +31,7 @@ def parse_pages(page_text, total_pages):
     return sorted(pages)
 
 
-def render_pdf_pages(pdf_path, pages, dpi=300):
+def render_pdf_pages(pdf_path, pages, dpi=200):
     doc = fitz.open(pdf_path)
     image_paths = []
 
@@ -55,6 +47,7 @@ def render_pdf_pages(pdf_path, pages, dpi=300):
 
         image_paths.append((page_num, out_img))
 
+    doc.close()
     return image_paths
 
 
@@ -76,7 +69,6 @@ def combine_excels(results, output_xlsx):
 
         df = pd.read_excel(xlsx_path)
         df.insert(0, "페이지", page_num)
-        df.insert(1, "원본파일", output_xlsx.stem)
         all_rows.append(df)
 
     if not all_rows:
@@ -86,10 +78,15 @@ def combine_excels(results, output_xlsx):
     final_df.to_excel(output_xlsx, index=False)
 
 
+def safe_page_name(page_text):
+    if not page_text.strip():
+        return "all"
+    return page_text.replace(",", "_").replace("-", "to").replace(" ", "")
+
+
 def main():
     if len(sys.argv) < 3:
-        print("사용법:")
-        print('python scripts/taxa_pdf_ocr.py uploads/sample.pdf "1,3-5"')
+        print('사용법: python scripts/taxa_pdf_ocr.py uploads/sample.pdf "1,3-5"')
         sys.exit(1)
 
     pdf_path = Path(sys.argv[1])
@@ -101,12 +98,10 @@ def main():
 
     pages = parse_pages(page_text, total_pages)
 
-    if not pages:
-        raise RuntimeError("선택된 페이지가 없습니다.")
-
     print(f"선택 페이지: {pages}")
+    print("PDF 렌더링 DPI: 200")
 
-    rendered = render_pdf_pages(pdf_path, pages)
+    rendered = render_pdf_pages(pdf_path, pages, dpi=200)
 
     results = []
     for page_num, image_path in rendered:
@@ -114,7 +109,7 @@ def main():
         xlsx = run_taxa_ocr_on_image(image_path)
         results.append((page_num, xlsx))
 
-    output_xlsx = BASE / "outputs" / f"{pdf_path.stem}_pages_{page_text.replace(',', '_').replace('-', 'to')}_taxa.xlsx"
+    output_xlsx = BASE / "outputs" / f"{pdf_path.stem}_pages_{safe_page_name(page_text)}_taxa.xlsx"
     combine_excels(results, output_xlsx)
 
     print(f"PDF 분류군 OCR 완료: {output_xlsx}")

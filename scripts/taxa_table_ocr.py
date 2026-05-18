@@ -10,7 +10,6 @@ import pytesseract
 from openpyxl import load_workbook
 from openpyxl.styles import Font, Alignment, Border, Side
 
-
 BASE = Path("/home/caiser77/dgx_workspace")
 SPECIES_MAP_PATH = BASE / "data" / "taxa_species_map.csv"
 
@@ -18,8 +17,7 @@ HEADERS = ["학명", "국명", "1차", "2차", "3차", "4차", "5차", "종합",
 
 
 def clean_text(text):
-    text = str(text or "")
-    text = text.replace("\n", " ")
+    text = str(text or "").replace("\n", " ")
     text = re.sub(r"\s+", " ", text).strip()
 
     for w in ["EIASS", "ZAPA", "BASE", "환경영향평가", "정보지원시스템"]:
@@ -30,22 +28,14 @@ def clean_text(text):
 
 def normalize_korean(text):
     text = clean_text(text)
-    text = re.sub(r"[^가-힣A-Za-z0-9]", "", text)
-    return text
-
-
-def normalize_scientific(text):
-    text = clean_text(text).lower()
-    text = re.sub(r"[^a-z0-9().\- ]+", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
+    return re.sub(r"[^가-힣A-Za-z0-9]", "", text)
 
 
 def load_species_map():
     df = pd.read_csv(SPECIES_MAP_PATH, encoding="utf-8-sig")
 
     records = []
-    korean_names = {}
+    exact = {}
 
     for _, row in df.iterrows():
         sci = str(row["scientific_name"]).strip()
@@ -59,30 +49,26 @@ def load_species_map():
             continue
 
         records.append((sci, kor, key))
+        exact.setdefault(key, (sci, kor))
 
-        if key not in korean_names:
-            korean_names[key] = (sci, kor)
-
-    return records, korean_names
+    return records, exact
 
 
 def similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 
-def match_korean_name(raw, records, korean_names):
+def match_korean_name(raw, records, exact):
     raw_clean = clean_text(raw)
     raw_norm = normalize_korean(raw_clean)
 
     if not raw_norm:
         return "", "", raw_clean, 0.0
 
-    # 1. 완전 일치
-    if raw_norm in korean_names:
-        sci, kor = korean_names[raw_norm]
+    if raw_norm in exact:
+        sci, kor = exact[raw_norm]
         return sci, kor, raw_clean, 1.0
 
-    # 2. 유사 매칭
     best_sci = ""
     best_kor = ""
     best_score = 0.0
@@ -90,39 +76,18 @@ def match_korean_name(raw, records, korean_names):
     for sci, kor, kor_norm in records:
         score = similarity(raw_norm, kor_norm)
 
-        # 포함 관계 보정
         if raw_norm in kor_norm or kor_norm in raw_norm:
-            score += 0.15
+            score += 0.12
 
         if score > best_score:
             best_sci = sci
             best_kor = kor
             best_score = score
 
-    # 국명은 너무 낮게 잡으면 엉뚱한 이름 붙음
-    if best_score >= 0.55:
+    if best_score >= 0.58:
         return best_sci, best_kor, raw_clean, min(best_score, 1.0)
 
     return "", "", raw_clean, best_score
-
-
-def is_valid_korean_row(kor, raw, score):
-    if score < 0.55:
-        return False
-
-    if not kor:
-        return False
-
-    raw_norm = normalize_korean(raw)
-
-    if len(raw_norm) < 2:
-        return False
-
-    bad = ["학명", "국명", "비고", "출현종수", "목록", "조사지역", "현지조사"]
-    if any(b in raw for b in bad):
-        return False
-
-    return True
 
 
 def merge_positions(pos, gap=10):
@@ -187,12 +152,10 @@ def crop_cell(image, xs, ys, r, c):
     return image[y1 + pad:y2 - pad, x1 + pad:x2 - pad]
 
 
-def preprocess_text(img, scale=5):
+def preprocess_text(img, scale=3):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-    # 워터마크 약화
-    gray[gray > 175] = 255
-
+    gray[gray > 180] = 255
     gray = cv2.resize(gray, None, fx=scale, fy=scale, interpolation=cv2.INTER_CUBIC)
     gray = cv2.GaussianBlur(gray, (3, 3), 0)
 
@@ -210,7 +173,7 @@ def ocr_korean(img):
     if img is None or img.size == 0:
         return ""
 
-    th = preprocess_text(img, scale=5)
+    th = preprocess_text(img, scale=3)
 
     results = []
     for psm in [7, 6]:
@@ -226,24 +189,19 @@ def ocr_korean(img):
     if not results:
         return ""
 
-    # 국명은 너무 길게 잡힌 것보다 한글 많은 결과 우선
     def score_result(x):
-        return len(re.findall(r"[가-힣]", x)) - abs(len(x) - 6) * 0.2
+        hangul_count = len(re.findall(r"[가-힣]", x))
+        return hangul_count - abs(len(x) - 5) * 0.2
 
     return max(results, key=score_result)
 
 
-def ocr_scientific(img):
+def ocr_scientific_light(img):
     if img is None or img.size == 0:
         return ""
 
-    th = preprocess_text(img, scale=4)
-
-    txt = pytesseract.image_to_string(
-        th,
-        lang="eng",
-        config="--psm 7",
-    )
+    th = preprocess_text(img, scale=3)
+    txt = pytesseract.image_to_string(th, lang="eng", config="--psm 7")
     return clean_text(txt)
 
 
@@ -251,14 +209,8 @@ def ocr_remark(img):
     if img is None or img.size == 0:
         return ""
 
-    th = preprocess_text(img, scale=4)
-
-    txt = pytesseract.image_to_string(
-        th,
-        lang="kor+eng",
-        config="--psm 7",
-    )
-
+    th = preprocess_text(img, scale=3)
+    txt = pytesseract.image_to_string(th, lang="kor+eng", config="--psm 7")
     txt = clean_text(txt)
 
     if "교" in txt:
@@ -277,21 +229,12 @@ def has_dot(img):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     gray[gray > 200] = 255
 
-    _, th = cv2.threshold(
-        gray,
-        120,
-        255,
-        cv2.THRESH_BINARY_INV,
-    )
+    _, th = cv2.threshold(gray, 120, 255, cv2.THRESH_BINARY_INV)
 
     h, w = th.shape
     area_total = h * w
 
-    contours, _ = cv2.findContours(
-        th,
-        cv2.RETR_EXTERNAL,
-        cv2.CHAIN_APPROX_SIMPLE,
-    )
+    contours, _ = cv2.findContours(th, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
     for cnt in contours:
         area = cv2.contourArea(cnt)
@@ -300,19 +243,37 @@ def has_dot(img):
             x, y, cw, ch = cv2.boundingRect(cnt)
             ratio = cw / max(ch, 1)
 
-            # 셀 중앙부에 있는 점만 인정
             cx = x + cw / 2
             cy = y + ch / 2
 
             if 0.45 <= ratio <= 2.2 and cw >= 3 and ch >= 3:
-                if w * 0.15 <= cx <= w * 0.85 and h * 0.15 <= cy <= h * 0.85:
+                if w * 0.12 <= cx <= w * 0.88 and h * 0.12 <= cy <= h * 0.88:
                     return True
 
     return False
 
 
+def is_valid_korean_row(kor, raw, score):
+    if not kor:
+        return False
+
+    if score < 0.58:
+        return False
+
+    raw_norm = normalize_korean(raw)
+
+    if len(raw_norm) < 2:
+        return False
+
+    bad = ["학명", "국명", "비고", "출현종수", "목록", "조사지역", "현지조사"]
+    if any(b in raw for b in bad):
+        return False
+
+    return True
+
+
 def parse_table(image_path, output_xlsx):
-    records, korean_names = load_species_map()
+    records, exact = load_species_map()
 
     image = cv2.imread(str(image_path))
     if image is None:
@@ -335,14 +296,12 @@ def parse_table(image_path, output_xlsx):
         row_cells = [crop_cell(image, xs, ys, r, c) for c in range(9)]
 
         raw_kor = ocr_korean(row_cells[1])
-        sci, kor, raw_kor_clean, score = match_korean_name(raw_kor, records, korean_names)
+        sci, kor, raw_kor_clean, score = match_korean_name(raw_kor, records, exact)
 
         if not is_valid_korean_row(kor, raw_kor_clean, score):
             continue
 
-        # 학명은 사전 기준을 우선 사용하고, 실패 시 OCR 학명을 보조로 사용
-        sci_ocr = ocr_scientific(row_cells[0])
-        final_sci = sci if sci else sci_ocr
+        final_sci = sci if sci else ocr_scientific_light(row_cells[0])
 
         values = [final_sci, kor]
 
@@ -350,7 +309,6 @@ def parse_table(image_path, output_xlsx):
             values.append("●" if has_dot(cell) else "")
 
         values.append(ocr_remark(row_cells[8]))
-
         values.append(raw_kor_clean)
         values.append(round(float(score), 3))
 
@@ -414,7 +372,6 @@ def main():
     out = Path("outputs") / f"{inp.stem}_taxa.xlsx"
 
     parse_table(inp, out)
-
     print(f"완료: {out}")
 
 
