@@ -7,21 +7,143 @@ import gradio as gr
 from pptx import Presentation
 
 BASE = Path("/home/caiser77/dgx_workspace")
+
 OLLAMA_URL = "http://localhost:11434/api/generate"
-LLM_MODEL = "qwen2.5:14b"
 OPEN_WEBUI_URL = "http://100.98.149.128:3000/"
 
+# AURUM 모델 구성
+MODEL_FAST = "qwen2.5:14b"
+MODEL_BIG = "qwen2.5:72b"
+MODEL_ALT_BIG = "llama3.1:70b"
+MODEL_IMAGE = "llava:latest"
+MODEL_LIGHT = "mistral:latest"
+MODEL_GEMMA = "gemma2:27b"
 
-def ask_llm(text):
+
+def call_ollama(model, prompt, temperature=0.2, timeout=600):
+    r = requests.post(
+        OLLAMA_URL,
+        json={
+            "model": model,
+            "prompt": prompt,
+            "stream": False,
+            "options": {
+                "temperature": temperature,
+                "top_p": 0.8,
+            },
+        },
+        timeout=timeout,
+    )
+    r.raise_for_status()
+    return r.json().get("response", "")
+
+
+def get_weather():
+    try:
+        r = requests.get("https://wttr.in/Seoul?format=3", timeout=20)
+        r.raise_for_status()
+        return r.text
+    except Exception as e:
+        return f"날씨 정보를 가져오지 못했습니다: {e}"
+
+
+def select_aurum_route(question):
+    q = question.lower()
+    length = len(question)
+
+    weather_keywords = ["날씨", "기온", "비", "눈", "미세먼지", "weather"]
+    image_keywords = ["이미지", "사진", "그림", "ocr", "캡처", "스캔", "도면 이미지"]
+    code_keywords = [
+        "python", "파이썬", "코드", "스크립트", "함수", "에러", "오류",
+        "traceback", "syntaxerror", "module", "api", "docker", "linux",
+        "bash", "git", "vscode", "터미널"
+    ]
+    document_keywords = [
+        "요약", "문서", "보고서", "분석", "정리", "ppt", "엑셀",
+        "계약서", "리포트", "표", "자료", "환경영향평가", "생물", "조사구"
+    ]
+    realtime_keywords = ["오늘", "지금", "현재", "실시간", "뉴스", "환율", "주가"]
+
+    if any(k in q for k in weather_keywords):
+        return "WEATHER_API", "날씨 질문으로 판단"
+
+    if any(k in q for k in image_keywords):
+        return MODEL_IMAGE, "이미지/OCR 관련 질문으로 판단"
+
+    if any(k in q for k in code_keywords):
+        return MODEL_FAST, "코드/개발/에러 관련 질문으로 판단"
+
+    if any(k in q for k in document_keywords) or length > 1500:
+        return MODEL_BIG, "문서 분석/긴 질문으로 판단"
+
+    if any(k in q for k in realtime_keywords):
+        return "REALTIME_UNSUPPORTED", "실시간 정보 질문으로 판단"
+
+    if length < 200:
+        return MODEL_LIGHT, "짧은 일반 질문으로 판단"
+
+    return MODEL_FAST, "일반 질문으로 판단"
+
+
+def aurum_answer(question):
+    if not question or not question.strip():
+        return "선택 없음", "질문을 입력하세요."
+
+    route, reason = select_aurum_route(question)
+
+    if route == "WEATHER_API":
+        weather = get_weather()
+        return f"[AURUM]\n선택 도구: WEATHER_API\n선택 이유: {reason}", weather
+
+    if route == "REALTIME_UNSUPPORTED":
+        return (
+            f"[AURUM]\n선택 도구: REALTIME\n선택 이유: {reason}",
+            "이 질문은 실시간 정보가 필요합니다. 현재 AURUM에는 뉴스/환율/주가 API가 아직 연결되어 있지 않습니다."
+        )
+
+    prompt = f"""
+너는 'AURUM(아우룸)' 통합 AI 시스템이다.
+AURUM은 DGX 로컬 서버에서 여러 LLM을 목적별로 선택해 사용하는 업무용 AI 콘솔이다.
+
+현재 선택된 모델: {route}
+선택 이유: {reason}
+
+답변 원칙:
+- 한국어로 답변
+- 초보자도 따라할 수 있게 설명
+- 실행 명령이 필요하면 복붙 가능한 형태로 제공
+- 불확실한 내용은 단정하지 않기
+- 현재 DGX / OCR / Excel / CAD / KML / PPT 자동화 맥락을 우선 고려
+- 너무 장황하지 않게 핵심부터 설명
+
+사용자 질문:
+{question}
+"""
+
+    answer = call_ollama(route, prompt)
+
+    model_info = f"[AURUM]\n선택 모델: {route}\n선택 이유: {reason}"
+    return model_info, answer
+
+
+def ask_llm_for_ocr(text):
     prompt = f"""
 너는 회사 업무용 문서 분석 전문가다.
-OCR 결과를 보고 실무 보고서처럼 작성해라.
+아래 OCR 결과는 여러 OCR 엔진 결과가 합쳐진 원문일 수 있다.
+
+중요 지시:
+- [TESSERACT_RESULT]와 [EASYOCR_RESULT]가 있으면 둘을 비교해서 먼저 최종 보정본을 만들어라.
+- OCR 오타는 문맥상 가능한 범위에서 보정해라.
+- 확실하지 않은 내용은 "추정"이라고 표시해라.
+- 결과는 반드시 한국어 실무 보고서 형식으로 작성해라.
+
+출력 형식:
+
+[최종 보정본]
+- OCR 결과를 사람이 읽기 좋게 정리
 
 [문서 유형]
-- 이 문서가 무엇인지 한 줄로 설명
-
-[보정된 핵심 내용]
-- OCR 오류를 자연스럽게 수정해서 정리
+- 이 문서/이미지가 무엇인지 한 줄로 추정
 
 [핵심 요약]
 1.
@@ -29,7 +151,7 @@ OCR 결과를 보고 실무 보고서처럼 작성해라.
 3.
 
 [상세 분석]
-- 의미 설명
+- 항목별 의미 설명
 
 [실행할 작업]
 1.
@@ -37,23 +159,13 @@ OCR 결과를 보고 실무 보고서처럼 작성해라.
 3.
 
 [주의할 점]
-- OCR 오류 가능성
+- OCR 인식이 불확실한 부분
+- 사람이 직접 확인해야 할 부분
 
 OCR 원문:
 {text}
 """
-    r = requests.post(
-        OLLAMA_URL,
-        json={
-            "model": LLM_MODEL,
-            "prompt": prompt,
-            "stream": False,
-            "options": {"temperature": 0.2},
-        },
-        timeout=300,
-    )
-    r.raise_for_status()
-    return r.json().get("response", "")
+    return call_ollama(MODEL_BIG, prompt, timeout=600)
 
 
 def create_report_ppt(title, ocr_text, ai_result, out_path):
@@ -61,7 +173,7 @@ def create_report_ppt(title, ocr_text, ai_result, out_path):
 
     slide = prs.slides.add_slide(prs.slide_layouts[0])
     slide.shapes.title.text = title
-    slide.placeholders[1].text = "DGX 자동 리포트"
+    slide.placeholders[1].text = "AURUM 자동 리포트"
 
     slide = prs.slides.add_slide(prs.slide_layouts[1])
     slide.shapes.title.text = "OCR 원문"
@@ -71,6 +183,10 @@ def create_report_ppt(title, ocr_text, ai_result, out_path):
     slide.shapes.title.text = "AI 분석"
     slide.placeholders[1].text = ai_result[:1000]
 
+    slide = prs.slides.add_slide(prs.slide_layouts[1])
+    slide.shapes.title.text = "다음 작업"
+    slide.placeholders[1].text = "1. OCR 보정본 확인\n2. AI 분석 내용 검토\n3. 필요 시 원본 파일 개선\n4. 결과 리포트 저장 및 공유"
+
     prs.save(out_path)
 
 
@@ -79,19 +195,22 @@ def run_ocr_ai_ppt(file):
     path = BASE / "uploads" / src.name
     shutil.copy(src, path)
 
-    subprocess.run(["python", str(BASE / "scripts/ocr_run.py"), str(path)], check=True)
+    subprocess.run(
+        ["python", str(BASE / "scripts/ocr_run.py"), str(path)],
+        check=True,
+    )
 
     ocr_txt_path = BASE / "outputs" / f"{path.stem}_ocr.txt"
     ocr_img_path = BASE / "outputs" / f"{path.stem}_processed.png"
 
     ocr_text = ocr_txt_path.read_text(encoding="utf-8")
-    ai_result = ask_llm(ocr_text)
+    ai_result = ask_llm_for_ocr(ocr_text)
 
     ai_file = BASE / "outputs" / f"{path.stem}_ai.txt"
     ai_file.write_text(ai_result, encoding="utf-8")
 
     ppt_file = BASE / "outputs" / f"{path.stem}_report.pptx"
-    create_report_ppt("AI 분석 리포트", ocr_text, ai_result, ppt_file)
+    create_report_ppt("AURUM OCR 분석 리포트", ocr_text, ai_result, ppt_file)
 
     return str(ocr_txt_path), str(ocr_img_path), ai_result, str(ai_file), str(ppt_file)
 
@@ -101,7 +220,10 @@ def run_excel(file):
     path = BASE / "uploads" / src.name
     shutil.copy(src, path)
 
-    subprocess.run(["python", str(BASE / "scripts/excel_summary.py"), str(path)], check=True)
+    subprocess.run(
+        ["python", str(BASE / "scripts/excel_summary.py"), str(path)],
+        check=True,
+    )
 
     out = BASE / "outputs" / f"{path.stem}_summary.xlsx"
     return str(out)
@@ -137,17 +259,36 @@ def auto_convert_cad_kml(file):
 
 
 def run_ppt():
-    subprocess.run(["python", str(BASE / "scripts/ppt_create.py")], check=True)
+    subprocess.run(
+        ["python", str(BASE / "scripts/ppt_create.py")],
+        check=True,
+    )
     return str(BASE / "outputs" / "test_presentation.pptx")
 
 
 def run_cad_test():
-    subprocess.run(["python", str(BASE / "scripts/cad_create_dxf.py")], check=True)
+    subprocess.run(
+        ["python", str(BASE / "scripts/cad_create_dxf.py")],
+        check=True,
+    )
     return str(BASE / "outputs" / "test_drawing.dxf")
 
 
-with gr.Blocks() as app:
-    gr.Markdown("# DGX 작업 콘솔")
+with gr.Blocks(title="AURUM") as app:
+    gr.Markdown("# AURUM / 아우룸")
+    gr.Markdown("### DGX 통합 AI 작업 콘솔")
+
+    with gr.Tab("AURUM 자동 질문"):
+        gr.Markdown("## 질문을 입력하면 AURUM이 모델 또는 도구를 자동 선택합니다.")
+        question = gr.Textbox(
+            label="질문 입력",
+            lines=8,
+            placeholder="예: 이 에러 왜 나는지 설명해줘 / 이 문서 요약해줘 / 오늘 날씨는 어때 / CAD KML 변환 방식 설명해줘"
+        )
+        ask_btn = gr.Button("AURUM 실행")
+        model_info = gr.Textbox(label="선택된 모델 / 도구", lines=4)
+        answer = gr.Textbox(label="답변", lines=18)
+        ask_btn.click(aurum_answer, question, [model_info, answer])
 
     with gr.Tab("Open WebUI"):
         gr.Markdown("## Open WebUI")
