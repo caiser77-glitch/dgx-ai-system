@@ -1,3 +1,5 @@
+*LLM*
+001.*
 LLM 설정/
 001. LLM 설정/
 
@@ -6,9 +8,23 @@ uploads/
 
 data/*.db
 data/*.xlsx
+data/indexes/
+data/processed/
 
+# Node modules
+node_modules/
+**/node_modules/
 
+# Python cache
+__pycache__/
+**/__pycache__/
 
+# Logs
+*.log
+ui.log
+
+# Temporary save files
+*.save
 
 # Ignore Smart Environment folder
 .smart-env
