@@ -15,6 +15,8 @@
 
 ## 🛠️ 서브 프로젝트별 지침 (Index)
 작업 중인 특정 하위 프로젝트에 진입하면, 해당 폴더의 `AGENTS.md` 가이드라인을 최우선으로 준수하십시오.
+- 🏢 [002. 회사 NAS 분석 지침](file:///Volumes/caiser77/dgx_workspace/002.%20%E1%84%92%E1%85%AC%E1%84%89%E1%85%A1%20NAS%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8/AGENTS.md): 시놀로지 NAS 마운트 및 실시간 Watchdog 감시 기반 RAG 구축 파이프라인
+- 🤖 [003. NAS 장기 배치 파이프라인 지침](file:///Volumes/caiser77/dgx_workspace/003.%20NAS%20%EC%9E%A5%EA%B8%B0%20%EB%B0%B0%EC%B9%98%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8/AGENTS.md): 10개년 대용량 문서 일자별 증분 슬라이싱 및 자정 크론탭 스케줄러 자동 배치 연동
 - 📊 [Fauna_Dashboard 지침](file:///Users/nams/AI_BASE/Fauna_Dashboard/AGENTS.md): FastAPI 백엔드 및 Vite+React 프론트엔드 빌드/실행/규칙
 - 🤖 [telegram_bridge 지침](file:///Users/nams/AI_BASE/telegram_bridge/AGENTS.md): 텔레그램 봇 브릿지 실행 및 전용 설정
 - 🧠 [hermes-agent 지침](file:///Users/nams/AI_BASE/hermes-agent/AGENTS.md): Hermes 에이전트 대화 쉘 실행 및 규칙
