@@ -1,0 +1,25 @@
+LLM 설정/
+001. LLM 설정/
+
+outputs/
+uploads/
+
+data/*.db
+data/*.xlsx
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
+
+# macOS metadata
+.DS_Store
+._*
+
+# Python virtual environment
+venv/
+
+# Obsidian metadata and trash
+.obsidian/
+.trash/

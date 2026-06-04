@@ -32,7 +32,7 @@ tess_text = pytesseract.image_to_string(
 ).strip()
 
 # 2) EasyOCR
-reader = easyocr.Reader(["ko", "en"], gpu=True)
+reader = easyocr.Reader(["ko", "en"], gpu=False)
 easy_results = reader.readtext(binary)
 
 easy_lines = []
