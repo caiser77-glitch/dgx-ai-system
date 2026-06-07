@@ -39,3 +39,15 @@ venv/
 # Obsidian metadata and trash
 .obsidian/
 .trash/
+# Project generated data
+**/data/indexes/
+**/data/processed/
+**/logs/
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+
+# Nested Obsidian runtime state
+obsidian/.obsidian/
+obsidian/.trash/

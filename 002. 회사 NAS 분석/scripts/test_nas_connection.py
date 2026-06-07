@@ -1,17 +1,23 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import os
 import sys
+
 import smbclient
 
 def test_connection():
-    username = 'kwon-incheon01'
-    password = 'aurum2026!'
-    server_ip = '100.94.64.83'
-    share_name = 'dgxbackup'
+    username = os.environ.get("NAS_SMB_USERNAME", "kwon-incheon01")
+    password = os.environ.get("NAS_SMB_PASSWORD", "")
+    server_ip = os.environ.get("NAS_SMB_SERVER", "100.94.64.83")
+    share_name = os.environ.get("NAS_SMB_SHARE", "dgxbackup")
     
+    if not password:
+        print("NAS_SMB_PASSWORD is not set.")
+        return False
+
     print(f"Connecting to NAS ({server_ip}) via smbclient as user '{username}'...")
-    
+
     try:
         # 세션 등록
         smbclient.register_session(server_ip, username=username, password=password)

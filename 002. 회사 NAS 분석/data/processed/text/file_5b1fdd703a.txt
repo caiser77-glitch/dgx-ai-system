@@ -1,5 +1,0 @@
-source_name: 아우름생태연구소.xlsx
-source_type: xlsx
-sheet: 작성규칙, rows: 12, columns: 5
-sheet: 참여분야, rows: 9, columns: 2
-sheet: 현장조사자 정보, rows: 7, columns: 11

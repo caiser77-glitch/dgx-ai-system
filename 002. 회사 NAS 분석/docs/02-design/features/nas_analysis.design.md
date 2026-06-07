@@ -56,7 +56,7 @@ flowchart TD
    보안 유출을 방지하기 위해 마운트 구문에 패스워드를 노출하지 않고, 크레덴셜 파일을 생성하여 참조합니다.
    ```text
    username=kwon-incheon01
-   password=aurum2026!
+   password=<별도 보안 채널>
    domain=WORKGROUP
    ```
 2. **마운트 유닛 / fstab 영구 마운트 설정**

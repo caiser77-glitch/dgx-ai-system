@@ -1,0 +1,65 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-06-05T12:35:00Z",
+  "activeFeatures": [
+    "hermes-nas-classifier"
+  ],
+  "primaryFeature": "hermes-nas-classifier",
+  "features": {
+    "hermes-nas-classifier": {
+      "phase": "design",
+      "matchRate": null,
+      "iterationCount": 1,
+      "documents": {
+        "plan": "docs/01-plan/features/hermes-nas-classifier.plan.md",
+        "design": "docs/02-design/features/hermes-nas-classifier.design.md"
+      },
+      "taskChain": [
+        {
+          "phase": "plan",
+          "status": "completed",
+          "createdAt": "2026-06-05T12:31:00Z",
+          "completedAt": "2026-06-05T12:32:00Z"
+        },
+        {
+          "phase": "design",
+          "status": "in_progress",
+          "createdAt": "2026-06-05T12:35:00Z"
+        }
+      ],
+      "timestamps": {
+        "started": "2026-06-05T12:31:00Z",
+        "lastUpdated": "2026-06-05T12:35:00Z"
+      }
+    }
+  },
+  "pipeline": {
+    "currentPhase": 2,
+    "level": "Dynamic",
+    "phaseHistory": [
+      {
+        "phase": "plan",
+        "completedAt": "2026-06-05T12:32:00Z"
+      }
+    ]
+  },
+  "session": {
+    "startedAt": "2026-06-05T12:31:00Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-06-05T12:35:00Z"
+  },
+  "history": [
+    {
+      "feature": "hermes-nas-classifier",
+      "from": "none",
+      "to": "plan",
+      "timestamp": "2026-06-05T12:32:00Z"
+    },
+    {
+      "feature": "hermes-nas-classifier",
+      "from": "plan",
+      "to": "design",
+      "timestamp": "2026-06-05T12:35:00Z"
+    }
+  ]
+}

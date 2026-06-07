@@ -7,7 +7,7 @@
 ## 🔌 연동 인프라 환경 매핑 (Infrastructure Details)
 
 * **아톰(Atom) 서버 IP**: **`100.98.149.127`** (Tailscale) / **`192.168.219.100`** (사무실 내부)
-  - SSH 사용자 계정: `caiser77` (sudo 패스워드: `aurum2026!!`)
+  - SSH 사용자 계정: `caiser77` (sudo 패스워드: `별도 보안 채널 보관`)
   - 로컬 가상환경 경로: `/home/caiser77/dgx_workspace/venv`
 * **회사 NAS (Synology) IP**: **`100.94.64.83`** (Tailscale)
   - 삼바(SMB) 전용 계정: `aurum-rag` / 패스워드: `Aurum2026!!`

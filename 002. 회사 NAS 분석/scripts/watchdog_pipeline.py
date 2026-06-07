@@ -426,7 +426,7 @@ def main():
         Path(args.index_dir),
     )
     observer = PollingObserver() if args.observer == 'polling' else Observer()
-    observer.schedule(handler, str(watch_path), recursive=False)
+    observer.schedule(handler, str(watch_path), recursive=True)
     observer.start()
     logger.info("watch_started path=%s device=%s", watch_path, args.device_name)
     update_state(

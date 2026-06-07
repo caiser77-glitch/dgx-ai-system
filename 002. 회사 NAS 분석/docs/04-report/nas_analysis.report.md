@@ -31,8 +31,8 @@
 - **예방 설계**: `/etc/fstab`에 `x-systemd.automount` 옵션이 설정되어 있어, 백그라운드 watchdog 데몬이 `/mnt/dgxbackup` 디렉토리에 접근을 시도하는 즉시 OS 레벨에서 삼바 자동 재연결을 시도합니다.
 - **수동 재연결**: 만약 자동 연동이 먹통이 될 경우, 아톰 서버 내부에서 아래 명령을 실행합니다.
   ```bash
-  # caiser77 패스워드는 'aurum2026!!'
-  echo 'aurum2026!!' | sudo -S mount -a
+  # caiser77 패스워드는 별도 보안 채널에서 확인
+  sudo -S mount -a  # 비밀번호는 프롬프트에 직접 입력
   ```
 
 ### B. 감시 데몬 프로세스 관리
