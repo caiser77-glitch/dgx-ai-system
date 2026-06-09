@@ -1,0 +1,4166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321516,
+          37.634058
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "수달",
+        "scientificName": "Lutra lutra",
+        "traces": "D",
+        "count": 2,
+        "protected": "멸종위기 Ⅰ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328058,
+          37.628943
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "고라니",
+        "scientificName": "Hydropotes inermis",
+        "traces": "V",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.325219,
+          37.634603
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "너구리",
+        "scientificName": "Nyctereutes procyonoides",
+        "traces": "F",
+        "count": 1,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320056,
+          37.651611
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "삵",
+        "scientificName": "Prionailurus bengalensis",
+        "traces": "D",
+        "count": 1,
+        "protected": "멸종위기 Ⅱ급"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.319358,
+          37.631709
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "멧토끼",
+        "scientificName": "Lepus coreanus",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.318847,
+          37.638619
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "다람쥐",
+        "scientificName": "Eutamias sibiricus",
+        "traces": "V",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31245,
+          37.640058
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "멧돼지",
+        "scientificName": "Sus scrofa",
+        "traces": "T",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.329009,
+          37.640698
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "족제비",
+        "scientificName": "Mustela sibirica",
+        "traces": "S",
+        "count": 1,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.326298,
+          37.641454
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "두더지",
+        "scientificName": "Mogera robusta",
+        "traces": "D",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.315965,
+          37.634181
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "포유류",
+        "species": "등줄쥐",
+        "scientificName": "Apodemus agrarius",
+        "traces": "T",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321655,
+          37.634159
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "원앙",
+        "scientificName": "Aix galericulata",
+        "traces": "V",
+        "count": 15,
+        "protected": "천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.311752,
+          37.641418
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "붉은머리오목눈이",
+        "scientificName": "Suthora webbiana",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.315389,
+          37.627214
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "참새",
+        "scientificName": "Passer montanus",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.322338,
+          37.624812
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "까치",
+        "scientificName": "Pica serica",
+        "traces": "V",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321193,
+          37.643344
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "왜가리",
+        "scientificName": "Ardea cinerea",
+        "traces": "V",
+        "count": 6,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32903,
+          37.635245
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "쇠백로",
+        "scientificName": "Egretta garzetta",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.324641,
+          37.63423
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "꾀꼬리",
+        "scientificName": "Oriolus chinensis",
+        "traces": "S",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.325785,
+          37.628142
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "뻐꾸기",
+        "scientificName": "Cuculus canorus",
+        "traces": "S",
+        "count": 1,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321108,
+          37.627922
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "박새",
+        "scientificName": "Parus cinereus",
+        "traces": "V",
+        "count": 18,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.323104,
+          37.633282
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "곤줄박이",
+        "scientificName": "Sittiparus varius",
+        "traces": "V",
+        "count": 7,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.324202,
+          37.642242
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "딱새",
+        "scientificName": "Phoenicurus auroreus",
+        "traces": "V",
+        "count": 4,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31464,
+          37.634014
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "조류",
+        "species": "직박구리",
+        "scientificName": "Hypsipetes amaurotis",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321653,
+          37.634214
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "피라미",
+        "scientificName": "Zacco platypus",
+        "traces": "V",
+        "count": 150,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32152,
+          37.633868
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "버들치",
+        "scientificName": "Rhynchocypris oxycephalus",
+        "traces": "V",
+        "count": 90,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321729,
+          37.63415
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "돌고기",
+        "scientificName": "Pungtungia herzi",
+        "traces": "V",
+        "count": 45,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321424,
+          37.63384
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "모래무지",
+        "scientificName": "Pseudogobio esocinus",
+        "traces": "V",
+        "count": 20,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321581,
+          37.634034
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "참붕어",
+        "scientificName": "Pseudorasbora parva",
+        "traces": "V",
+        "count": 80,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321687,
+          37.634133
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "붕어",
+        "scientificName": "Carassius auratus",
+        "traces": "V",
+        "count": 25,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321424,
+          37.634209
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "메기",
+        "scientificName": "Silurus asotus",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321544,
+          37.633986
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "밀어",
+        "scientificName": "Rhinogobius brunneus",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321563,
+          37.634095
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "갈겨니",
+        "scientificName": "Zacco temminckii",
+        "traces": "V",
+        "count": 120,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3217,
+          37.633924
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "꺽지",
+        "scientificName": "Coreoperca herzi",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321377,
+          37.63382
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "쉬리",
+        "scientificName": "Coreoleuciscus splendidus",
+        "traces": "V",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321691,
+          37.63388
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "가시납지리",
+        "scientificName": "Acheilognathus chankaensis",
+        "traces": "V",
+        "count": 35,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321563,
+          37.634207
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "줄납자루",
+        "scientificName": "Acheilognathus yamatsutae",
+        "traces": "V",
+        "count": 28,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321585,
+          37.633993
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "긴몰개",
+        "scientificName": "Squalidus gracilis majimae",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321445,
+          37.634141
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "어류",
+        "species": "대륙종개",
+        "scientificName": "Orthrias nudus",
+        "traces": "V",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.314407,
+          37.629335
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "참개구리",
+        "scientificName": "Pelophylax nigromaculatus",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.317978,
+          37.641067
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "청개구리",
+        "scientificName": "Dryophytes japonica",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.315348,
+          37.6294
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "무당개구리",
+        "scientificName": "Bombina orientalis",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.325594,
+          37.642003
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "옴개구리",
+        "scientificName": "Glandirana rugosa",
+        "traces": "V",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.316908,
+          37.636516
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "두꺼비",
+        "scientificName": "Bufo gargarizans",
+        "traces": "V",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.331532,
+          37.627802
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "유혈목이",
+        "scientificName": "Rhabdophis tigrinus",
+        "traces": "V",
+        "count": 1,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.326098,
+          37.625921
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "살모사",
+        "scientificName": "Gloydius brevicaudus",
+        "traces": "V",
+        "count": 1,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31175,
+          37.634824
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "줄장지뱀",
+        "scientificName": "Takydromus wolteri",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321641,
+          37.634104
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "남생이",
+        "scientificName": "Mauremys reevesii",
+        "traces": "V",
+        "count": 1,
+        "protected": "멸종위기 Ⅱ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321675,
+          37.634147
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "양서파충류",
+        "species": "자라",
+        "scientificName": "Pelodiscus maackii",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321375,
+          37.633862
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "다슬기",
+        "scientificName": "Semisulcospira libertina",
+        "traces": "V",
+        "count": 400,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321384,
+          37.634201
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "재첩",
+        "scientificName": "Corbicula fluminea",
+        "traces": "V",
+        "count": 60,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321461,
+          37.634012
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "물달팽이",
+        "scientificName": "Radix auricularia",
+        "traces": "V",
+        "count": 100,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32159,
+          37.633953
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "옆새우",
+        "scientificName": "옆새우 sp.",
+        "traces": "V",
+        "count": 200,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321551,
+          37.634138
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "줄날도래",
+        "scientificName": "Hydropsyche kozhantschikovi",
+        "traces": "V",
+        "count": 80,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321405,
+          37.633992
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "강도래",
+        "scientificName": "Kamimuria tibialis",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321689,
+          37.633868
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "하루살이 유충",
+        "scientificName": "하루살이 유충 sp.",
+        "traces": "V",
+        "count": 500,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321711,
+          37.634073
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "소라부치",
+        "scientificName": "소라부치 sp.",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32147,
+          37.633852
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "장구애비",
+        "scientificName": "Laccotrephes japonensis",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321342,
+          37.634092
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "class": "저서무척추",
+        "species": "게아재비",
+        "scientificName": "Ranatra chinensis",
+        "traces": "V",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321532,
+          37.634083
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "수달",
+        "scientificName": "Lutra lutra",
+        "traces": "F",
+        "count": 4,
+        "protected": "멸종위기 Ⅰ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320056,
+          37.651611
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "삵",
+        "scientificName": "Prionailurus bengalensis",
+        "traces": "F",
+        "count": 2,
+        "protected": "멸종위기 Ⅱ급"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.317136,
+          37.625406
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "고라니",
+        "scientificName": "Hydropotes inermis",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.331182,
+          37.629473
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "너구리",
+        "scientificName": "Nyctereutes procyonoides",
+        "traces": "D",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.322506,
+          37.641929
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "멧돼지",
+        "scientificName": "Sus scrofa",
+        "traces": "F",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32552,
+          37.640779
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "다람쥐",
+        "scientificName": "Eutamias sibiricus",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.319955,
+          37.640194
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "멧토끼",
+        "scientificName": "Lepus coreanus",
+        "traces": "D",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.319132,
+          37.633506
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "족제비",
+        "scientificName": "Mustela sibirica",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32377,
+          37.643595
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "등줄쥐",
+        "scientificName": "Apodemus agrarius",
+        "traces": "T",
+        "count": 25,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328333,
+          37.633341
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "포유류",
+        "species": "집쥐",
+        "scientificName": "Rattus norvegicus",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321754,
+          37.636906
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "쇠백로",
+        "scientificName": "Egretta garzetta",
+        "traces": "V",
+        "count": 20,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328577,
+          37.6377
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "왜가리",
+        "scientificName": "Ardea cinerea",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328955,
+          37.628794
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "중대백로",
+        "scientificName": "Ardea alba",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320106,
+          37.639428
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "해오라기",
+        "scientificName": "Nycticorax nycticorax",
+        "traces": "V",
+        "count": 4,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32511,
+          37.628938
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "꾀꼬리",
+        "scientificName": "Oriolus chinensis",
+        "traces": "V",
+        "count": 6,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.316117,
+          37.635964
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "파랑새",
+        "scientificName": "Eurystomus orientalis",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.323849,
+          37.642198
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "제비",
+        "scientificName": "Hirundo rustica",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.316205,
+          37.625968
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "물까치",
+        "scientificName": "Cyanopica cyanus",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.324779,
+          37.641224
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "딱새",
+        "scientificName": "Phoenicurus auroreus",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.326749,
+          37.624628
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "조류",
+        "species": "멧새",
+        "scientificName": "Emberiza cioides",
+        "traces": "V",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32142,
+          37.634163
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "피라미",
+        "scientificName": "Zacco platypus",
+        "traces": "V",
+        "count": 300,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3217,
+          37.633909
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "갈겨니",
+        "scientificName": "Zacco temminckii",
+        "traces": "V",
+        "count": 250,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321663,
+          37.634198
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "돌고기",
+        "scientificName": "Pungtungia herzi",
+        "traces": "V",
+        "count": 100,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321525,
+          37.633862
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "긴몰개",
+        "scientificName": "Squalidus gracilis majimae",
+        "traces": "V",
+        "count": 60,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321396,
+          37.633943
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "미꾸리",
+        "scientificName": "Misgurnus anguillicaudatus",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321423,
+          37.63416
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "동자개",
+        "scientificName": "Pseudobagrus fulvidraco",
+        "traces": "V",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321671,
+          37.633974
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "메기",
+        "scientificName": "Silurus asotus",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321581,
+          37.634208
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "가시납지리",
+        "scientificName": "Acheilognathus chankaensis",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321736,
+          37.63399
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "줄납자루",
+        "scientificName": "Acheilognathus yamatsutae",
+        "traces": "V",
+        "count": 45,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321424,
+          37.634048
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "각시붕어",
+        "scientificName": "Rhodeus uyekii",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321495,
+          37.634181
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "밀어",
+        "scientificName": "Rhinogobius brunneus",
+        "traces": "V",
+        "count": 80,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321504,
+          37.634132
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "잉어",
+        "scientificName": "Cyprinus carpio",
+        "traces": "V",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321461,
+          37.633926
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "붕어",
+        "scientificName": "Carassius auratus",
+        "traces": "V",
+        "count": 35,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321546,
+          37.633961
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "누치",
+        "scientificName": "Hemibarbus labeo",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321678,
+          37.633966
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "어류",
+        "species": "끄리",
+        "scientificName": "Opsariichthys uncirostris amurensis",
+        "traces": "V",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.316805,
+          37.640693
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "참개구리",
+        "scientificName": "Pelophylax nigromaculatus",
+        "traces": "V",
+        "count": 150,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.312248,
+          37.634177
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "황소개구리",
+        "scientificName": "Lithobates catesbeianus",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.312706,
+          37.633751
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "옴개구리",
+        "scientificName": "Glandirana rugosa",
+        "traces": "V",
+        "count": 45,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.329014,
+          37.631669
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "무당개구리",
+        "scientificName": "Bombina orientalis",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.322512,
+          37.633406
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "쇠살모사",
+        "scientificName": "Gloydius ussuriensis",
+        "traces": "V",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.319522,
+          37.634808
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "누룩뱀",
+        "scientificName": "Elaphe dione",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31772,
+          37.6245
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "줄장지뱀",
+        "scientificName": "Takydromus wolteri",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.324174,
+          37.627663
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "도마뱀",
+        "scientificName": "Scincella vandenburghi",
+        "traces": "V",
+        "count": 4,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321597,
+          37.633836
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "자라",
+        "scientificName": "Pelodiscus maackii",
+        "traces": "V",
+        "count": 6,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321477,
+          37.634047
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "남생이",
+        "scientificName": "Mauremys reevesii",
+        "traces": "V",
+        "count": 4,
+        "protected": "멸종위기 Ⅱ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321553,
+          37.634198
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "양서파충류",
+        "species": "금개구리",
+        "scientificName": "Pelophylax chosenicus",
+        "traces": "V",
+        "count": 2,
+        "protected": "멸종위기 Ⅱ급"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321365,
+          37.634197
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "다슬기",
+        "scientificName": "Semisulcospira libertina",
+        "traces": "V",
+        "count": 900,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321703,
+          37.63387
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "물자라",
+        "scientificName": "Appasus japonicus",
+        "traces": "V",
+        "count": 25,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321701,
+          37.633951
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "물땡땡이",
+        "scientificName": "Hydrophilus (Hydrophilus) acuminatus",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32155,
+          37.634087
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "소금쟁이",
+        "scientificName": "Aquarius paludum paludum",
+        "traces": "V",
+        "count": 150,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321502,
+          37.633909
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "송장헤엄치개",
+        "scientificName": "송장헤엄치개 sp.",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321344,
+          37.634083
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "줄날도래 유충",
+        "scientificName": "줄날도래 유충 sp.",
+        "traces": "V",
+        "count": 300,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321444,
+          37.63407
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "날도래",
+        "scientificName": "날도래 sp.",
+        "traces": "V",
+        "count": 60,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321694,
+          37.634002
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "잠자리 유충",
+        "scientificName": "잠자리 유충 sp.",
+        "traces": "V",
+        "count": 100,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32144,
+          37.634068
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "우렁이",
+        "scientificName": "우렁이 sp.",
+        "traces": "V",
+        "count": 80,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321648,
+          37.634164
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "class": "저서무척추",
+        "species": "논우렁이",
+        "scientificName": "Cipangopaludina chinensis malleata",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32151,
+          37.634076
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "수달",
+        "scientificName": "Lutra lutra",
+        "traces": "D",
+        "count": 6,
+        "protected": "멸종위기 Ⅰ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320425,
+          37.635277
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "고라니",
+        "scientificName": "Hydropotes inermis",
+        "traces": "V",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320056,
+          37.651611
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "삵",
+        "scientificName": "Prionailurus bengalensis",
+        "traces": "D",
+        "count": 2,
+        "protected": "멸종위기 Ⅱ급"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.323492,
+          37.626206
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "너구리",
+        "scientificName": "Nyctereutes procyonoides",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328226,
+          37.62422
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "멧돼지",
+        "scientificName": "Sus scrofa",
+        "traces": "T",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.316166,
+          37.642439
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "다람쥐",
+        "scientificName": "Eutamias sibiricus",
+        "traces": "V",
+        "count": 20,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.325789,
+          37.630087
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "멧토끼",
+        "scientificName": "Lepus coreanus",
+        "traces": "V",
+        "count": 6,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.327932,
+          37.641544
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "족제비",
+        "scientificName": "Mustela sibirica",
+        "traces": "D",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.324698,
+          37.627866
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "등줄쥐",
+        "scientificName": "Apodemus agrarius",
+        "traces": "T",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.314528,
+          37.63638
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "포유류",
+        "species": "멧쥐",
+        "scientificName": "멧쥐 sp.",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.313756,
+          37.639701
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "흰뺨검둥오리",
+        "scientificName": "Anas zonorhyncha",
+        "traces": "V",
+        "count": 200,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.315626,
+          37.629368
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "큰기러기",
+        "scientificName": "Anser fabalis",
+        "traces": "V",
+        "count": 300,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328029,
+          37.629607
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "쇠오리",
+        "scientificName": "Anas crecca",
+        "traces": "V",
+        "count": 80,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.313432,
+          37.638385
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "가창오리",
+        "scientificName": "Sibirionetta formosa",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.326417,
+          37.656222
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "독수리",
+        "scientificName": "Aegypius monachus",
+        "traces": "V",
+        "count": 2,
+        "protected": "멸종위기 Ⅱ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.317361,
+          37.653056
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "매",
+        "scientificName": "Falco peregrinus",
+        "traces": "V",
+        "count": 1,
+        "protected": "멸종위기 Ⅰ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.327444,
+          37.641043
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "말똥가리",
+        "scientificName": "Buteo japonicus",
+        "traces": "V",
+        "count": 4,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.309194,
+          37.648611
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "황조롱이",
+        "scientificName": "Falco tinnunculus",
+        "traces": "V",
+        "count": 5,
+        "protected": "천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328862,
+          37.642475
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "까마귀",
+        "scientificName": "Corvus corone",
+        "traces": "V",
+        "count": 150,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.323382,
+          37.639572
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "떼까마귀",
+        "scientificName": "Corvus frugilegus",
+        "traces": "V",
+        "count": 500,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.325916,
+          37.637846
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "쑥새",
+        "scientificName": "Emberiza rustica",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.313634,
+          37.633543
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "멧새",
+        "scientificName": "Emberiza cioides",
+        "traces": "V",
+        "count": 20,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.314122,
+          37.634412
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "박새",
+        "scientificName": "Parus cinereus",
+        "traces": "V",
+        "count": 25,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.318266,
+          37.641631
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "직박구리",
+        "scientificName": "Hypsipetes amaurotis",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.318057,
+          37.627357
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "조류",
+        "species": "까치",
+        "scientificName": "Pica serica",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321478,
+          37.634085
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "모래무지",
+        "scientificName": "Pseudogobio esocinus",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321502,
+          37.634083
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "참붕어",
+        "scientificName": "Pseudorasbora parva",
+        "traces": "V",
+        "count": 150,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32165,
+          37.633955
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "잉어",
+        "scientificName": "Cyprinus carpio",
+        "traces": "V",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321739,
+          37.634208
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "붕어",
+        "scientificName": "Carassius auratus",
+        "traces": "V",
+        "count": 60,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321453,
+          37.633855
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "누치",
+        "scientificName": "Hemibarbus labeo",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321714,
+          37.633977
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "강준치",
+        "scientificName": "Erythroculter erythropterus",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321706,
+          37.634128
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "끄리",
+        "scientificName": "Opsariichthys uncirostris amurensis",
+        "traces": "V",
+        "count": 20,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321701,
+          37.63413
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "피라미",
+        "scientificName": "Zacco platypus",
+        "traces": "V",
+        "count": 250,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32143,
+          37.634198
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "갈겨니",
+        "scientificName": "Zacco temminckii",
+        "traces": "V",
+        "count": 180,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321599,
+          37.634074
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "돌고기",
+        "scientificName": "Pungtungia herzi",
+        "traces": "V",
+        "count": 120,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321602,
+          37.634137
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "쉬리",
+        "scientificName": "Coreoleuciscus splendidus",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321461,
+          37.633893
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "꺽지",
+        "scientificName": "Coreoperca herzi",
+        "traces": "V",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321642,
+          37.634025
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "긴몰개",
+        "scientificName": "Squalidus gracilis majimae",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321707,
+          37.634047
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "미꾸리",
+        "scientificName": "Misgurnus anguillicaudatus",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321564,
+          37.634073
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "어류",
+        "species": "동자개",
+        "scientificName": "Pseudobagrus fulvidraco",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.315427,
+          37.62916
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "참개구리",
+        "scientificName": "Pelophylax nigromaculatus",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.316071,
+          37.633624
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "청개구리",
+        "scientificName": "Dryophytes japonica",
+        "traces": "V",
+        "count": 20,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320321,
+          37.638022
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "무당개구리",
+        "scientificName": "Bombina orientalis",
+        "traces": "V",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.329542,
+          37.629188
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "유혈목이",
+        "scientificName": "Rhabdophis tigrinus",
+        "traces": "V",
+        "count": 4,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321419,
+          37.640725
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "살모사",
+        "scientificName": "Gloydius brevicaudus",
+        "traces": "V",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.313803,
+          37.627431
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "쇠살모사",
+        "scientificName": "Gloydius ussuriensis",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.331334,
+          37.638582
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "줄장지뱀",
+        "scientificName": "Takydromus wolteri",
+        "traces": "V",
+        "count": 8,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321453,
+          37.63389
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "남생이",
+        "scientificName": "Mauremys reevesii",
+        "traces": "V",
+        "count": 2,
+        "protected": "멸종위기 Ⅱ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321689,
+          37.634131
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "자라",
+        "scientificName": "Pelodiscus maackii",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.324255,
+          37.629826
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "양서파충류",
+        "species": "도마뱀",
+        "scientificName": "Scincella vandenburghi",
+        "traces": "V",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321512,
+          37.63388
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "다슬기",
+        "scientificName": "Semisulcospira libertina",
+        "traces": "V",
+        "count": 500,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321608,
+          37.63404
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "물달팽이",
+        "scientificName": "Radix auricularia",
+        "traces": "V",
+        "count": 200,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321689,
+          37.634172
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "재첩",
+        "scientificName": "Corbicula fluminea",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.32143,
+          37.633884
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "옆새우",
+        "scientificName": "옆새우 sp.",
+        "traces": "V",
+        "count": 150,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321611,
+          37.633862
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "하루살이 유충",
+        "scientificName": "하루살이 유충 sp.",
+        "traces": "V",
+        "count": 300,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321506,
+          37.63387
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "강도래 유충",
+        "scientificName": "강도래 유충 sp.",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321516,
+          37.634074
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "장구애비",
+        "scientificName": "Laccotrephes japonensis",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321401,
+          37.634133
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "게아재비",
+        "scientificName": "Ranatra chinensis",
+        "traces": "V",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321681,
+          37.634035
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "우렁이",
+        "scientificName": "우렁이 sp.",
+        "traces": "V",
+        "count": 45,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321544,
+          37.633949
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "class": "저서무척추",
+        "species": "논우렁이",
+        "scientificName": "Cipangopaludina chinensis malleata",
+        "traces": "V",
+        "count": 35,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.319656,
+          37.643929
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "멧돼지",
+        "scientificName": "Sus scrofa",
+        "traces": "F",
+        "count": 25,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.319046,
+          37.633132
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "멧돼지",
+        "scientificName": "Sus scrofa",
+        "traces": "D",
+        "count": 1,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321355,
+          37.633861
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "수달",
+        "scientificName": "Lutra lutra",
+        "traces": "D",
+        "count": 8,
+        "protected": "멸종위기 Ⅰ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321725,
+          37.634016
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "수달",
+        "scientificName": "Lutra lutra",
+        "traces": "V",
+        "count": 1,
+        "protected": "멸종위기 Ⅰ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320056,
+          37.651611
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "삵",
+        "scientificName": "Prionailurus bengalensis",
+        "traces": "D",
+        "count": 4,
+        "protected": "멸종위기 Ⅱ급"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321474,
+          37.630473
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "너구리",
+        "scientificName": "Nyctereutes procyonoides",
+        "traces": "F",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.312008,
+          37.634624
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "고라니",
+        "scientificName": "Hydropotes inermis",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328346,
+          37.633363
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "멧토끼",
+        "scientificName": "Lepus coreanus",
+        "traces": "F",
+        "count": 12,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.311811,
+          37.632494
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "족제비",
+        "scientificName": "Mustela sibirica",
+        "traces": "T",
+        "count": 2,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328964,
+          37.629826
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "등줄쥐",
+        "scientificName": "Apodemus agrarius",
+        "traces": "T",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.325205,
+          37.628261
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "집쥐",
+        "scientificName": "Rattus norvegicus",
+        "traces": "D",
+        "count": 4,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.313383,
+          37.628327
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "포유류",
+        "species": "멧쥐",
+        "scientificName": "멧쥐 sp.",
+        "traces": "F",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.326417,
+          37.656222
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "독수리",
+        "scientificName": "Aegypius monachus",
+        "traces": "V",
+        "count": 30,
+        "protected": "멸종위기 Ⅱ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320916,
+          37.641938
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "청둥오리",
+        "scientificName": "Anas platyrhynchos",
+        "traces": "V",
+        "count": 800,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.327894,
+          37.633208
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "흰뺨검둥오리",
+        "scientificName": "Anas zonorhyncha",
+        "traces": "V",
+        "count": 400,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.328957,
+          37.63991
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "큰기러기",
+        "scientificName": "Anser fabalis",
+        "traces": "V",
+        "count": 1200,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321967,
+          37.63692
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "쇠오리",
+        "scientificName": "Anas crecca",
+        "traces": "V",
+        "count": 150,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.329953,
+          37.642789
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "비오리",
+        "scientificName": "Mergus merganser",
+        "traces": "V",
+        "count": 45,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.330078,
+          37.630595
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "논병아리",
+        "scientificName": "Tachybaptus ruficollis",
+        "traces": "V",
+        "count": 20,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.325901,
+          37.631058
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "재갈매기",
+        "scientificName": "Larus vegae",
+        "traces": "V",
+        "count": 80,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.323515,
+          37.643942
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "까마귀",
+        "scientificName": "Corvus corone",
+        "traces": "V",
+        "count": 300,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.313778,
+          37.628674
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "쑥새",
+        "scientificName": "Emberiza rustica",
+        "traces": "V",
+        "count": 100,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.313773,
+          37.63189
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "말똥가리",
+        "scientificName": "Buteo japonicus",
+        "traces": "V",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.330194,
+          37.658667
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "조류",
+        "species": "참매",
+        "scientificName": "Accipiter gentilis",
+        "traces": "V",
+        "count": 1,
+        "protected": "멸종위기 Ⅱ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321686,
+          37.63382
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "잉어",
+        "scientificName": "Cyprinus carpio",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321346,
+          37.633894
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "붕어",
+        "scientificName": "Carassius auratus",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321366,
+          37.634069
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "메기",
+        "scientificName": "Silurus asotus",
+        "traces": "V",
+        "count": 3,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321673,
+          37.634048
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "누치",
+        "scientificName": "Hemibarbus labeo",
+        "traces": "V",
+        "count": 10,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321557,
+          37.633886
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "피라미",
+        "scientificName": "Zacco platypus",
+        "traces": "V",
+        "count": 80,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321708,
+          37.634077
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "버들치",
+        "scientificName": "Rhynchocypris oxycephalus",
+        "traces": "V",
+        "count": 60,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321514,
+          37.634129
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "돌고기",
+        "scientificName": "Pungtungia herzi",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321711,
+          37.633925
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "참붕어",
+        "scientificName": "Pseudorasbora parva",
+        "traces": "V",
+        "count": 40,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321511,
+          37.634104
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "모래무지",
+        "scientificName": "Pseudogobio esocinus",
+        "traces": "V",
+        "count": 25,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321661,
+          37.634039
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "어류",
+        "species": "미꾸리",
+        "scientificName": "Misgurnus anguillicaudatus",
+        "traces": "V",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321559,
+          37.634019
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "양서파충류",
+        "species": "자라",
+        "scientificName": "Pelodiscus maackii",
+        "traces": "D",
+        "count": 1,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321407,
+          37.634125
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "양서파충류",
+        "species": "남생이",
+        "scientificName": "Mauremys reevesii",
+        "traces": "D",
+        "count": 1,
+        "protected": "멸종위기 Ⅱ급 / 천연기념물"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321426,
+          37.634009
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "다슬기",
+        "scientificName": "Semisulcospira libertina",
+        "traces": "D",
+        "count": 100,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321618,
+          37.634181
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "옆새우",
+        "scientificName": "옆새우 sp.",
+        "traces": "V",
+        "count": 50,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321431,
+          37.634066
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "줄날도래 유충",
+        "scientificName": "줄날도래 유충 sp.",
+        "traces": "V",
+        "count": 80,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321579,
+          37.633939
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "물달팽이",
+        "scientificName": "Radix auricularia",
+        "traces": "V",
+        "count": 30,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321422,
+          37.633907
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "하루살이 유충",
+        "scientificName": "하루살이 유충 sp.",
+        "traces": "V",
+        "count": 120,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321638,
+          37.63388
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "강도래 유충",
+        "scientificName": "강도래 유충 sp.",
+        "traces": "V",
+        "count": 35,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321342,
+          37.633972
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "소라부치",
+        "scientificName": "소라부치 sp.",
+        "traces": "V",
+        "count": 5,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321438,
+          37.634186
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "재첩",
+        "scientificName": "Corbicula fluminea",
+        "traces": "D",
+        "count": 15,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321444,
+          37.634142
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "우렁이",
+        "scientificName": "우렁이 sp.",
+        "traces": "D",
+        "count": 25,
+        "protected": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.321494,
+          37.633833
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "class": "저서무척추",
+        "species": "게아재비",
+        "scientificName": "Ranatra chinensis",
+        "traces": "D",
+        "count": 3,
+        "protected": false
+      }
+    }
+  ]
+}

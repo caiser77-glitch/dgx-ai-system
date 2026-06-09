@@ -1,0 +1,929 @@
+--- 
+source: RUIZ-OLMO - Mediterranean.pdf
+--- 
+
+OTTERS IN THE MEDITERRANEAN COUNTRIES 
+ 
+Jordi RUIZ-OLMO 
+ 
+Departament de Medi Ambient i Habitatge, Generalitat de Catalunya, Dr. Roux 80, 08017 – Barcelona, Spain  
+email: ajruiol@gencat.net  
+ 
+ 
+Abstract:  The Eurasian otter is a semi aquatic Mustelid, distributed across the Mediterranean region. 
+Countries, including those habitats (Portugal, Spain, France, Italy, Slovenia, Croatia, Montenegro, Albania, 
+Greece, Cyprus, Malta, Turkey, Lebanon, Israel, Palestine, Syria, Jordan, Libya, Tunisia, Algeria, Morocco and 
+some small states or territories such as Andorra, Gibraltar, Monaco or San Marino), have experienced severe 
+declines in otter numbers and distribution during the 20th century.  In this work we collect information on the 
+distribution and threats for otters in these countries, we try to establish trends in these populations, and we 
+include information about otters in the Mediterranean Sea and islands. 
+ 
+Keywords: Eurasian otters, Lutra lutra, Mediterranean, status, conservation 
+ 
+ 
+1   INTRODUCTION 
+ 
+The Eurasian otter (Lutra lutra L.) is a semi aquatic Mustelid, distributed across the 
+Palaearctic region (MASON AND MACDONALD, 1986; FOSTER-TURLEY, MACDONALD AND 
+MASON, 1990).  Throughout much of its range, the species experienced a dramatic decline 
+during the second half of the 20th century. 
+Its morphology and lifestyle are well adapted to its dependence of the aquatic 
+environment (MASON AND MACDONALD, 1986; POLECHLA, 1991; DE SILVA, 1991; KRUUK, 
+1995; RUIZ-OLMO, 1995; DUNSTONE, 1998).  Otters need water to maintain their water and 
+energetic balance, to walk, move and swim in an energetically efficient way, to look for and 
+to catch aquatic, amphibian and semi-aquatic prey.  In the southernmost part of its European 
+range, however, as in some North African countries, L. lutra inhabits dry and semiarid 
+regions, poor in water availability (MASON AND MACDONALD, 1986; JIMÉNEZ AND LACOMBA, 
+1991; RUIZ-OLMO AND DELIBES, 1998; RUIZ-OLMO, 2001; RUIZ-OLMO ET AL., 2002).  In such 
+situations, otters must develop ecological and behavioural mechanisms to survive during 
+periods of water and/or food shortages (RUIZ-OLMO ET AL., 2002; PRENDA, LÓPEZ-NIEVES AND 
+BRAVO, 2001).  In such habitats, there is supplementary ecological stress for the survival of 
+the species. 
+ 
+Countries, including those in the Mediterranean area, have also experienced severe 
+declines in otter numbers and distribution (MASON AND MACDONALD, 1986; MACDONALD 
+AND MASON, 1994).  In some cases, the trend seems to have reached its nadir, and otters are 
+slowly recovering (RUIZ-OLMO AND DELIBES, 1998; TRINDADE, FARINHA AND FLORENCIO, 
+1998). There are other areas, however, where very little is known about the current status of 
+the species, or it is continuing to decline.   
+ 
+The objectives of the present work were: 
+  
+1) 
+To collect information on the distribution of otters in the countries around the  
+       
+Mediterranean Sea. 
+2)    
+To establish trends in these populations. 
+3) 
+To try and understand why the species inhabits some countries and islands of the     
+            Mediterranean Sea but not others and to identify the factors affecting this. 
+
+
+2   THE MEDITERRANEAN BIOCLIMATIC AREA 
+ 
+The European, North African and Middle East Mediterranean area is well defined, with most 
+of the lands experiencing a Mediterranean climate (BACCARIA, 1999; BLONDEL AND 
+ARONSON, 1999).  Summers are warm (average temperatures over 20oC), and winters 
+moderate (average temperatures above 0oC), with only exceptional snowy or frozen days.  
+Rain is often maximum in spring and autumn, and minimal during summer and winter.  For 
+this reason, rivers also have maximum flows in spring and autumn (often with catastrophic 
+floods), and minimum in summer, with the streams and other water bodies often drying out, 
+and water remaining only in pools (RUIZ-OLMO ET AL., 2002).  In mountains and continental 
+areas the weather is colder in winter, with snow and periods of prolonged frost and the rivers 
+regime in these areas is nivo-pluvial. 
+ 
+We can find the large Mediterranean ecosystem in a part or the whole of Portugal, 
+Spain, France, Italy, Slovenia, Croatia, Montenegro, Albania, Greece, Cyprus, Malta, Turkey, 
+Lebanon, Israel, Palestine, Syria, Jordan, Libya, Tunisia, Algeria, Morocco and some small 
+states or territories such as Andorra, Gibraltar, Monaco or San Marino (Figure 1). There are 
+25 countries in total, but otters are present only in more the continental ones, the species being 
+absent from Libya, Malta, Cyprus, Monaco and San Marino (MASON and MACDONALD, 
+1986). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1:  Trends in otter status and distribution in the Mediterranean countries 
+ 
+ 
+Animal and plant communities are well adapted to water shortages, high summer 
+temperatures, high evaporation and evapotranspiration, and large fluctuations in resources 
+(MARGALEF, 1974; HILL, 1980; BLONDEL AND ARONSON, 1999).  The presence of mammals in 
+these communities is largely influenced by man and his activities, with many species 
+introduced between Europe and North Africa. L. lutra, however, is a species native to both 
+sides of the Mediterranean Sea. 
+Europe
+Africa
+24 countries
+?
+?
+?
+ 
+X
+?
+?
+=
+?
+=
+?
+?
+?
+?
+=
+= 
+
+
+3   TRENDS IN OTTER POPULATIONS IN MEDITERRANEAN COUNTRIES 
+ 
+There are no general studies on the specific status of the otter in the Mediterranean area. They 
+tend to be incorporated in wider European reviews (MASON AND MACDONALD, 1986; 
+MACDONALD AND MASON, 1994; CONROY AND CHANIN, 2002).  These studies, and those upon 
+which they are based, proved the decline of the otter in most of these countries, being 
+practically extinct during the 1980s within the Mediterranean area, from France, Italy, 
+Algeria, Tunisia, Jordan and Israel, and becoming extinct in Andorra, Monaco and San 
+Marino.  Large otter populations have only survived in Portugal, Spain, Albania, Greece, 
+Turkey and Morocco.  
+ 
+There are no studies or reviews, however, updating and summarising what the current 
+status is, what is happening, what are the causes of changes in the otter populations, as well as 
+identifying any new threats.  In an attempt to update the situation in the Mediterranean area, 
+an analysis of published works up to 2003, was made. The following were examined: 
+ 
+• 
+Early studies: DJULIC AND MIRIC (1967), BLAS-ARITIO (1970, 1978), CAGNOLARA ET 
+AL. (1975), FERRAN DE ALMEIDA (1987), SPAGNESI (1980), BOUCHARDY (1984), 
+TURAN (1984)  
+• 
+National otter surveys: MACDONALD AND MASON (1982a & b: 1983a & b: 1984, 
+1985), ELLIOT (1983), LILES AND JENKINS (1984), MACDONALD, MASON AND DE SMET 
+(1985), MACDONALD, MASON AND SHALMON (1986), PRIGIONI, BOGLIANI AND 
+BARBIERI (1986), GAETHLICH (1988), DELIBES (1990), SHALMON (1992), PAUNOVIĆ 
+AND MILENKOVIĆ (1996), ROSOUX, TOURNEBIZE AND MAURIN (1996), RUIZ-OLMO 
+AND DELIBES (1998), TRINDADE, FARINHA AND FLORENCIO. (1998), REUTHER ET AL.  
+(2000a), DOLEV ET AL. (2005). 
+• 
+Other reviews: RUIZ-OLMO ET AL. (2002) 
+• 
+Local otter surveys: BROYER ET AL. (1984), TAYLOR ET AL. (1984), FERRAN DE 
+ALMEIDA (1987), ILHAANI (1987, 1988), BEJA (1989), RUIZ-OLMO AND GOSÁLBEZ 
+(1988), DELAKI ET AL. (1989), HÖNIGSFELD (1998), JIMÈNEZ AND LACOMBA (1991), 
+GRÉMILLET (1993), ANDURAIN, BERTRAND AND MÉRARD (1995), FONDERFLIK ET AL. 
+(1995), MICHELOT AND BENDELÉ (1995), EROGLU (1996), REGIANI ET AL. (1997), 
+BUENO AND BRAVO (1998), CORTÉS ET AL. (1998), URBAN (1998), REUTHER AND 
+DOLEV (2000), RUIZ-OLMO (2001), RUIZ-OLMO, SAAVEDRA AND JIMÉNEZ  (2001), 
+PARDE (2003), JANSSENS ET AL (2005) 
+• 
+Other works: AUGLANIER (1985), LAPINI (1985), BOUCHARDY (1986), CASSOLA 
+(1986), FOSTER-TURLEY, MACDONALD AND MASON (1990), LE BERRE (1990), EROGLU 
+(1994), KOWALSKI AND RZEBIK-KOWALSKA (1991), KRANZ (1994), MACDONALD AND 
+MASON (1994), TRINDADE (1994), FASANO AND MAGLIO (1995), GRÉMILLET (1995), 
+JACOBY AND WILLIAMS (1995), OTTINO, PRIGIONI AND VIGNA TAGLIANTI  (1995), 
+RUIZ-OLMO AND DELIBES (1996), WILLIAMS AND JACOBY (1995), PAUNOVIĆ AND 
+MILENKOVIĆ (1996), SANTOS-REIS, TRINDADE AND BEJA (1996), PRIGNIONI (1997), 
+REGIANI ET AL. (1997), CONROY, MELISCH AND CHANIN (1998), JACQUES (1998), 
+KNOLLSEISEN (1998), SAAVEDRA AND SARGATAL (1998), URBAN (1998), REUTHER ET 
+AL.  (2000a & b ), CLAVERO ET AL. (2002), RUIZ-OLMO (2002),  RUIZ-OLMO ET AL. 
+(2004), SMET AND LYMERAKIS (2003), AMIT ET AL. (2005), BOUCHARDY, ROSOUX AND 
+GREEN (2005), KALBY ET AL. (2005), THOL-SCHMITZ (2005). 
+
+
+In addition, additional information was gathered from Michaela Bodner, Carlos Bravo, Félix 
+Bueno, Amit Dolev, Xavier Grémillet, Jean Michel Parde, Milan Paunović, Rafael Romero, 
+Renné Rosoux and Margarida Santos-Reis.  
+ 
+ 
+All these data have permitted an update of the information on the current otter 
+distribution and/or status within the Mediterranean countries towards 2001-2003 (Figure 1).  
+While the species still seems to be present in all the countries, there is no new information 
+about the general status from North Africa and the majority of the countries in the Middle 
+East, in particular Lebanon, Palestine, Syria and most of Turkey: 
+ 
+Iberian Peninsula (Spain, Portugal and Andorra). Otters are largely recovering in the Iberian 
+Peninsula, and are well distributed throughout most of Portugal and Spain (RUIZ-OLMO AND 
+DELIBES, 1998; TRINDADE, FARINHA AND FLORENCIO, 1998; RUIZ-OLMO ET AL., 2004), with 
+the species returning even to formerly polluted areas, such as much of Catalonia, Madrid, 
+Asturias or the Basque Country.  
+ 
+In the Iberian Peninsula, the otter currently occupies almost half of all the freshwater 
+areas in the west, from the sea level to the mountains (up to 2,400 m in summer time), and a 
+significant part of the east.  Otters occupy practically every river or watercourse in Portugal, 
+Galicia, Extremadura, Western Andalucia and Rioja, for example, and are recovering in many 
+other areas.  The species can normally be found even in large cities such as Girona, Lleida, 
+Logroño, Manresa, Teruel or Zaragoza.  Presently, L. lutra is even approaching the much 
+larger cities such as Barcelona, Madrid or Seville, which could be recolonised during the next 
+five to ten years. 
+   
+Even if the species is recovering, otters are still not returning to a large part of the 
+Mediterranean facade, in, for example, Tarragona, Castellón, Valencia, Alacant or Murcia 
+Provinces. The main limiting factor is the availability of, and demand for, water (RUIZ-OLMO 
+ET AL, 2004) and human use of water resources is envisaged as the main danger for otters on 
+the Iberian Peninsula in a foreseeable future. 
+ 
+In Andorra the otter became extinct during the latter half of the 20th century. Two 
+surveys carried out in 2000 and 2002 for the new Otter Action Plan (J. RUIZ-OLMO, 
+unpublished data), provided only negative records.  The species has also returned to the 
+neighbouring rivers of Catalonia, Spain (RUIZ-OLMO, 2001), one animal being found dead 
+during 2003 (D. GUIXÉ, personal communication).  However, major habitat alteration, 
+pollution and, very importantly, the lack of food in lower stretches make it difficult for the 
+species to maintain a regular presence. Occasional dispersing otters may be detected in future. 
+   
+France and Monaco.  Although otters are recovering in some parts of France including the 
+west and in the Massif Centrale (ROSOUX, TOURNEBIZE AND MAURIN, 1996; BOUCHARDY, 
+ROSOUX AND GREEN, 2005), in the Mediterranean area, the process is much slower than in 
+other parts of Europe (PARDE, 2003; JANSSENS ET AL., 2005; M. TESSIER, in litt.).  Otters are 
+still absent from many areas of the middle Garonne basin in the vicinity of Toulouse (this 
+despite being common in the upper river and its tributaries such as the Neste), a large part of 
+the Pyrennees and the Roîne basin.   However, there is evidence of recolonisation in many 
+areas, for example, the upper Cèze and other Mediterranean rivers in the area of Cevennes 
+(JANSSENS ET AL., 2005) where the species is now found on the Mediterranean slope, and in 
+the eastern Pyrenees, where otters which were re-introduced into Spain are now entering 
+France and occupying rivers such as the Tech (Department of Pyrénnées-Orientales). Otters 
+are still absent from Monaco. 
+ 
+Italian Peninsula (Italy, San Marino).  Otters are still rare in Italy as they were during the 20th 
+century (CAGNOLARA ET AL., 1975, SPAGNESI, 1980; MACDONALD AND MASON, 1983a).  
+
+
+However, a recovery is happening in some areas.  In the south, in the Mediterranean region, 
+the species has occupied new rivers in the Basilicata, Campania, Calabria and Puglia regions.  
+The population is also recovering in some areas of northern Italy (REUTHER ET AL, 2000a; 
+KALBY ET AL., 2005).  The central area (Toscana, Lazio) seems to be showing less of a 
+recovery than elsewhere.  
+ 
+The origin of the recolonisation could be mainly by animals from Slovenia (despite no 
+signs being found along the Italian side of the border in the middle of the 1990s (A. GUTLEB, 
+personal communication), and in expansion from the remaining populations in catchments of 
+the Sele, Fiora and Crati in west central Italy, and Calore, in the south.  
+ 
+Balkan Peninsula (Slovenia, Croatia, Montenegro, Albania, Greece). Otters were proved as a 
+common species in Greece, Albania and former Yugoslavia (DJULIC AND MIRIC, 1967; 
+MACDONALD AND MASON, 1982b; LILES AND JENKINS, 1984; TAYLOR ET AL., 1984; 
+MACDONALD, MASON AND DE SMET, 1985; PRIGNIONI, BOGLIANI AND BARBIERI, 1986; 
+GAETHLICH, 1988; DELAKI ET AL., 1989). However, no new publications on the species from 
+this area could be found. Nevertheless, some information indicates that otters are still 
+common in the region, as they were in the 1990s (PAUNOVIĆ AND MILENKOVIĆ, 1996).  In 
+Slovenia, the species was suggested as having a rare status (HÖNIGSFELD, 1998).  
+ 
+Anatolian Peninsula (Turkey.)  Little is know about the Anatolian otters (EROGLU, 1996; 
+KRANZ, 1994; KNOLLSEISEN, 1996; CONROY, MELISCH AND CHANIN, 1998; THOL-SCHMITZ, 
+2005).  Poaching apparently continues and there is significant habitat loss (mainly along the 
+coast, because of pressures from tourism and human demographic increases).  Despite this, 
+the species seem to be present in large areas of the country. 
+ 
+Middle East (Syria, Lebanon, Israel, Palestina, Jordan).  Otters are still present in this very 
+arid region. The more recent studies, carried out in Israel and West Jordan, showed L. lutra 
+restricted to the Jordan catchment, with only occasional records in the west of Israel, near 
+Haifa and on one small stream of the coastal plain (REUTHER ET AL. 2000b; DOLEV ET AL., 
+2005).  The species is still found in the area of the Golan Heights to the Dead Sea. 
+ 
+In Israel, otters use largely artificial habitats such as reservoirs and fishponds, because 
+natural rivers have problems with subsistence.  Also, corridors connecting west Israel and the 
+River Jordan catchments are being destroyed and changed, making it more and more difficult 
+for otters to move from one part of the area to another. 
+ 
+The species seems to be present in Syria, but are very rare (JACQUES, 1998) and, 
+according to their distribution in Israel, they should also be present in Lebanon and the 
+remainder of Jordan (see also, CONROY, MELISCH AND CHANIN, 1998). 
+ 
+The main problem in this area is the demand for, and shortage of, water (including 
+progressive desertification) and a process of isolation of otters into small basins.  The 
+connection between Turkey and these more southerly neighbours is endangered. 
+ 
+North Africa (Morocco, Algeria, and Tunisia).  There are very few new data about the status 
+of the otter in North Africa (MACDONALD AND MASON, 1983b, 1984; MASON AND 
+MACDONALD, 1986; BROYER ET AL., 1984), and this is mostly from Morocco (JACOBY AND 
+WILLIAMS, 1995; F. CASADESÚS, personal communication), where the species still lives in 
+some areas.  Intensive agricultural, increasing water demand and pollution are the main 
+threats.   
+ 
+Little is known about the Algerian and Tunisian otter populations since the 1980s.  
+Their present status is also unknown because they were very concentrated in small lowland 
+areas. 
+
+
+4.  CAUSES FOR THE CURRENT CHANGES IN OTTER DISTRIBUTION 
+ 
+There are important differences between countries: 
+ 
+• 
+In some countries, the species is recovering or stable, coinciding mainly with those of 
+the European Union and the northern part of the Mediterranean Sea: Portugal, Spain, 
+France, Italy and almost certainly Greece. It is very probable that Slovenia, Croatia, 
+Montenegro and Albania belong to this group. 
+• 
+In other countries, or at least parts of countries, there is evidence of a continuing 
+decline, e.g., in Israel (stable at the Jordan catchment).   
+• 
+In countries, mostly in North Africa and the Middle East, there are few or no new data 
+on the status or distribution of the species. These include Morocco, Algeria, Tunisia, 
+Jordan, Palestine, Syria, Lebanon and Turkey.    
+• 
+The otter is extinct in Andorra, Monaco and San Marino. 
+ 
+The main causes attributed to the recovery of the otter are the legal and effective protection of 
+the species, improvement in the management of its habitats and specially the decline in 
+pollutant levels (RUIZ-OLMO ET AL., 2002).  
+ 
+The following are seen as the causes for the decline (or future possible decline, in 
+southern and eastern Spain, southern Italy, Greece and Turkey): 
+ 
+• 
+Water demand for human activities (JIMÉNEZ AND LACOMBA, 1991; RUIZ-OLMO ET AL., 
+2002). Northern Mediterranean countries use 90 m3 of water per person per year 
+compared with only 45 m3 in the southern area.  In 2025, the projection is for 110 and 
+65 m3/year/person respectively, and the human population is forecast to more or less 
+double twice (BACCARIA, 1999).  In 1998 Morocco and Tunisia were using more than 
+50% of the water available to humans for agriculture.  The corresponding figure for 
+Italy was 65%, while for Algeria and Spain it was 85-95%.    
+• 
+Continued habitat destruction (KRANZ, 1994). For example, in 1998, 43.5% of the 
+46,000 kilometres of the Mediterranean coast was urbanised (BACCARIA, 1999). 
+• 
+Otter persecution and poaching (EROGLU, 1994; KRANZ, 1994; JACQUES, 1998; 
+CONROY, MELISCH AND CHANIN, 1998) 
+• 
+Pollution: Existing pollution levels as well as newly developed substances (GUTLEB, 
+2002; RUIZ-OLMO ET AL., 2002). 
+ 
+ 
+5.  OTTERS ALONG THE MEDITERRANEAN SEA AND ITS ISLANDS 
+ 
+There are healthy otter populations living in coastal habitats (Figure 2) of north eastern Spain 
+(Galicia and Asturias) and Portugal (Minho), and in south western Spain (Andalucía) and 
+Portugal (Algarve and Baixo Alenteijo) (BEJA, 1989; DELIBES, 1990; RUIZ-OLMO AND 
+DELIBES, 1998; TRINDADE, FARINHA AND FLORENCIO, 1998; CLAVERO ET AL, 2002, in press).  
+BEJA (1995, 1996) described how otters used the coast of Portugal from studies of four radio-
+tracked females.  He found that the presence of abundant freshwater made a permanent 
+presence possible (BEJA, 1996), as in parts of northern Europe (KRUUK, 1995). 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2:  Coastal otter populations in the Atlantic sea and Mediterranean island otter populations. No data 
+from the Atlantic coast of Moroccoand a part of Portugal. In Catalonia, Corfu, the otters reach the sea, but they 
+are not coastal populations 
+ 
+Differing from the Atlantic seaboard, where otters live permanently on the coast and offshore 
+islands while feeding in the sea (even in Portugal and Spain), there are only a few such otter 
+populations in the Mediterranean Sea. These are: 
+ 
+• 
+The part of the Mediterranean sea lying within the Atlantic biogeographic range, 
+which extends more or less 50-70 kilometres into the Mediterranean (Figure 2). There, 
+as in the Atlantic Ocean (BEJA, 1989, 1996), otters use very small and short coastal 
+rivers and streams as well as the marine habitat (RUIZ-OLMO AND DELIBES, 1998; 
+CLAVERO ET AL., 2002; in press). This is, however, one of the busiest tourist areas in 
+Spain (Costa del Sol), which means that a large section of the coast has lost it ‘natural 
+habitat’ making otters movements along the coast more difficult.  
+• 
+On the islands of Corfu and Euboea in Greece (and possibly some Turkish islands; 
+KRANZ, 1994; KNOLLSEISEN, 1996), where there are also inland otter populations 
+(GAETHLICH, 1998; GRÉMILLET, 1988, 1995; URBAN, 1998; J. RUIZ-OLMO, 
+Unpublished data), reaching the sea. 
+• 
+Otters that live primarily in freshwater ecosystems but can travel to the sea during 
+their movements.  RUIZ-OLMO ET AL. (2001b) and SAAVEDRA (2002) confirmed this by 
+radio tracking several individuals.  
+ 
+KRANZ (1994) and KNOLLSEISEN (1996) also found otters living near Akcarpinar on the south 
+west coast of Turkey feeding largely on estuarine fish.  No evidence of sea foraging was 
+found and more information should therefore be gathered.  
+Occasionally otters are seen in the Mediterranean Sea (in Italy, R. FASANO, personal 
+communication; KNOLLSEISEN, 1996) and in Israel (A. DOLEV, personal communication).  
+However, RUIZ-OLMO ET AL. (2001b) and SAAVEDRA (2002) radio tracked otters along a 
+Europe
+Africa
+Geographic 
+boundary 
+Biogeographic 
+boundary 
+?
+X
+X
+?
+X
+X
+ 
+X
+?
+?
+?
+
+
+number of rivers and streams reaching the Mediterranean Sea in Girona Province (north east 
+Spain) and found tracks on the beaches.  No animals have been seen to use the coast for their 
+dens, foraging or even moving any distance.  Also, RUIZ-OLMO AND ORO (1993) studied the 
+presence of otter and monk seal (Monachus monachus) in the coastal habitats of Catalonia 
+(north east Spain) before the otter re-introduction in 1995 by interviewing 288 professional 
+fishermen.  Despite the seal being considered extinct since around 1950, 6.6% of fishermen 
+said they had seen this species between 1900 and 1950.  In contrast, none reported having 
+seen any otters between 1900 and 1985, when the last otter was detected in this area (before 
+its re-introduction). 
+ 
+So otters in the Mediterranean area make far less use of coastal habitats than in the 
+Atlantic Ocean. Some causes and differences in the Mediterranean Sea could explain such 
+differences: 
+ 
+• 
+Very small tidal area and no kelp forests. 
+• 
+Lower productivity and production in the majority of Mediterranean waters 
+(phytoplankton estimates by satellite according to the US Global Ocean Flux Study 
+Programme from NSF/NASA). 
+• 
+Higher water salinity (36.5 – 40 mg/l in the Mediterranean Sea compared with < 33 - 
+36.5 mg/l in the Atlantic (MARGALEF, 1974). 
+• 
+Higher water and air temperatures (BACCARIA, 1999). 
+• 
+Less (No) freshwater pools and small streams along the coast, because of less 
+precipitation and higher evaporation. Under such conditions, otters can only wash 
+their fur, as was proposed for KRUUK (1995) and BEJA (1996), at river mouths, lakes, 
+etc.  Thus otters are always dependent on the presence of rivers, streams or marshes. 
+• 
+The Mediterranean Sea was not (or less) covered by ice during glaciations, so otters 
+were less able to colonise big/distant islands (with enough habitat to support viable 
+populations).  For this reason, there are few continental fish species on these islands.  
+Otters are lacking from the Balearic Islands, Corsica, Sardinia, Sicily, Malta and 
+Cyprus.  Lately, SMET AND LYMERAKIS (2003) reported otter spraints on the island of 
+Crete. None had been detected in previous surveys carried out.  In 1990, we could not 
+finnd evidence of the species at ten surveyed sites (J. RUIZ-OLMO, unpublished data).  
+Considering the potential importance of such findings, they should be confirmed as 
+soon as possible. 
+ 
+Two special cases are Corfu and Euboea Islands, in Greece (GAETHLICH, 1988; GRÉMILLET, 
+1988, 1995; URBAN, 1998; our findings).  The former has been more intensively surveyed, 
+showing that there is still a small and endangered otter population (Figure 3).  The species 
+was only detected in inland rivers and lakes, at the mouths of rivers, and was found to be 
+more common in the north and east (no evidence of otters in the western part).  In summer 
+2003, M. BODNER (personal communication) surveyed some areas on the island of Corfu. 
+Otters were found on Korisia Lagoon, and Rivers Mesongi, Ropas and Potamos, confirming 
+its presence. However, otters were undetected at Lefkimmi Saltworks, one of the Gavrolomni 
+lakes and Andinioti Lagoon. 
+ 
+Corfu is only two kilometres from the Albanian coast, so immigration is possible, as 
+BLUNDELL ET AL. (2002) found similar movements for Lontra canadensis between Alaskan 
+islands.  However humans could also have brought otters to Corfu, as has been suggested as 
+probably being the case in Shetland, where the Vikings may have taken otters from 
+Scandinavia, over 1,000 years ago (J.W.H. CONROY, personal communication).   
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3:  Distrubution of the Otter in Corfú island (Greece) 
+ 
+Despite there being no “coastal otters” in the Mediterranean Sea, individuals must move along 
+the shoreline and, perhaps, may have swum across the short sea distance from Albania.  These 
+otters should be studied carefully and protected, because they are highly endangered 
+(GRÉMILLET, 1995) and might be the only otters inhabiting islands within the Mediterranean 
+Sea. 
+ 
+In the Atlantic Ocean otters more or less regularly travel between islands, as is the 
+case of the Islands of Cies and Ons in Galicia (north west Spain) (DELIBES, 1990; RUIZ-OLMO 
+and DELIBES, 1998; R. ROMERO, Unpublished data). 
+ 
+ 
+6   AN ESTIMATION OF OTTER NUMBERS 
+ 
+If there are difficulties in determining the actual distribution of the otter in the Mediterranean 
+area, it is even more difficult, even impossible, to establish the number of otters and the 
+population sizes.  There are only local estimates on density for some stretches, mainly for 
+Catalonia and Eastern Aragón in north east Spain (RUIZ-OLMO, 1995, 1998, 2001, 
+ 
+ 
+1985-86 
+M. Gaethlich, 1988  
+ 
+ 
+1990 
+J. Ruiz-Olmo, unpubl. 
+ 
+ 
+1992 
+ 
+X. Gémillet, 
+
+
+Unpublished data; RUIZ-OLMO, LÓPEZ-MARTÍN AND PALAZÓN, 2001a), and on a river in 
+central Spain (BRAVO, BUENO AND SÁNCHEZ-AGUADO, 1998).  Otter abundance is very 
+closely related to of resource fluctuations for the same locality, habitats and altitude. Densities 
+normally vary from 0.1 to 0.9 otters per kilometre, but in some cases exceed these values.  
+According to these precedent references, in oligotrophic and high altitude rivers, numbers can 
+vary between 0.1 and 0.2 otters per kilometre while along more productive rivers, densities 
+can be as high as 0.2-0.9 otters per kilometre, or even more. 
+ 
+ 
+7   OTTER DISTRIBUTION AND ALTITUDE 
+ 
+Otters inhabiting areas above 1,500 and 2,000 metres (up to 2,400 metres in the Pyrenean 
+mountains; RUIZ-OLMO AND GOSÁLBEZ, 1988) are rare in Europe (RUIZ-OLMO, 1998), and 
+unknown in North Africa and the Middle East.  Such a situation is not common and is 
+dependent on food availability and water body mass characteristics (RUIZ-OLMO, 1998; 
+MORALES ET AL., 1998).  In Figure 4, the main areas within the Mediterranean region where 
+otters live at altitude are shown, corresponding in Spain to the Spanish Pyrenean Mountains, 
+the León Mountains (Sanabria Lake etc), the central Mountains (including Gredos and 
+Guadarrama), the Iberic, Segura and probably, the Sierra Nevada Mountains.  In Portugal, the 
+Sierra d’Estrela and, in Morocco, possibly parts of the Atlas Mountains. 
+Conservation of such otter population, mainly those living over 2,000 metres is 
+needed.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Europe
+Africa
+
+
+ 
+ 
+ 
+ 
+ 
+Figure 4:  Altitude otter populations (over 1,800 – 2,000 m) in the Mediterranean area (in dark grey) in front of 
+areas over 2000 m a.s.l. (clear grey). In the Atlas Mountains, the otter could reach higher altitudes 
+ 
+ 
+ 
+8   CONCLUSIONS 
+ 
+In general otters living in the Mediterranean region seem to be out of immediate danger. 
+There are healthy and increasing populations in south western Europe (Portugal, Spain, Italy 
+and large areas of France).  It is assumed  that this is also the situation in Slovenia, Croatia, 
+Montenegro, Albania, Greece and Turkey, although, there have been no actual otter surveys 
+from there for a number of years.  In most countries in the Middle East and North Africa there 
+have been very few studies of otters.  Their situation in such a special large biogeographical 
+area can best be summarised as: 
+ 
+• 
+There is evidence of the recovery or stability in otter distribution over most of the 
+territory of the European Union 
+• 
+Actual information on the otter’s status in North Africa, Mediterranean habitats of 
+western Asia, Croatia, Montenegro and Albania is lacking. 
+• 
+This is especially important if the presence of the L. l. splendida (= L.l angustifrons) 
+and L. l. seistin are confirmed in future. So an effort should be made to investigate 
+this.  
+• 
+As happened before in south west Europe, there are very isolated populations in North 
+Africa, and probably in Israel, Jordan, Syria and Palestine, while information from 
+Lebanon and Syria is lacking 
+• 
+Otter surveys for these areas/countries are needed urgently. 
+• 
+Otters do not inhabit the Mediterranean coasts (except where they reach the sea by 
+moving downriver), but there are good populations along the Mediterranean coast 
+immediately adjacent to the Atlantic Ocean (considered as a biogeographical 
+approach) and small populations on two Greek islands (Corfu and Euboea) and 
+possibly also on some Turkish islands.  The status on Crete should be checked as soon 
+as possible. 
+• 
+There are no good and rigorous estimations of otter numbers or population sizes in this 
+area, except for some relatively small regions.  Researches should be encouraged to 
+develop standard methods to establish such values. 
+• 
+The overuse of water resources, important changes in rivers, lakes and coastal 
+structures, and increasing human activities are considered the main threat factors in the 
+countries of the Mediterranean region.  This is especially true in economically 
+developing areas or in the driest regions. Conservation actions and planning must be 
+developed in order to ensure otter conservation, as this is a bioindicator and flagship 
+species. 
+• 
+There are ecological situations, in which otters are involved and which need special 
+conservation actions because of their vulnerability:  natural protected spaces (in 
+Europe Union within the Nature 2000 network) for Atlantic coastal areas and its small 
+coastal streams otter populations, populations living at altitudes above 1,500 metres, 
+
+
+Mediterranean isolated lake populations, Mediterranean islands populations or very 
+isolated stream populations, among others. 
+• 
+Research on adaptation of otters to droughts, catastrophic floods, food shortages, 
+pollution, tourism, among others, must be undertaken. 
+ 
+9   REFERENCES 
+ 
+AMIT, D., GUTER, A., SALTZ, D. & KRONFELD-SCHOR, N. 2005. Israel’s otter (Lutra lutra) population, status 
+and future conservation. (In: The Return of the Otter in Europe – where and how? Sabhal Mor Ostaig, Isle of 
+Skye 30 June – 5 July 2003. (Edited by Conroy, J.W.H., Yoxon, G., Gutleb, A.C. & Ruiz-Olmo, J.) xx-xx.  
+International Otter Survival Fund, Broadford, Isle of Skye.   
+ANDURAIN, P D’, BERTRAND, A & MÉRARD, P. 1995. Statut de la loutre dans la Région Midi-Pyrénées. In: La 
+loutre et le vison d'Europe. Acts XVII Internationale Mammalogie Colloquium, Niort 23-25 Octobre 1993 Edited 
+by Gautier, J.Y., Libois, R. & Rosoux, R.) Cahiers d'Ethologie, 15: 239-244. 
+AUGLANIER, S. 1985. Morocco. IUCN Otter Specialist Group Bulletin, 2: 4-5. 
+BACCARIA, J. (CO-ORDINATOR). 1999. Environmental Atlas of the Mediterranean. The Structure of the 
+Territory and the Landscape. Pòrtic, Ed. Barcelona. 
+BEJA, P.R. 1989. Coastal otters in south west Portugal. IUCN Otter Specialist Group Bulletin, 4: 2-7. 
+BEJA, P.R. 1995. Patterns of Availability and use of Resources by Otters (Lutra lutra L.) in south west Portugal. 
+Ph.D. Thesis. University of Aberdeen, Aberdeen.  
+BEJA, P.R. 1996. Temporal and spatial patterns of rest-site use by four female otters Lutra lutra along the south 
+west coast of Portugal. Journal of Zoology, London. 239: 741-753. 
+BLAS-ARITIO, L. 1970. Vida y Costumbres de los Mustélidos Españoles. Servicio de Pesca Continental, Caza y 
+Parques Nacionales, Madrid.  
+BLAS-ARITIO, L.  1978. Informe sobre la situación de la nutria en España. In: Otters: Proceedings of the First 
+Working Meeting of the Otter Specialist Group (Edited by Duplaix, N.) Pp. 140-142. IUCN, Morges. 
+BLONDEL, J. & ARONSON, J. 1999. Biology and Wildlife of the Mediterranean Region. Oxford University Press, 
+Oxford. 
+BLUNDELL,, G.M., BEN-DAVID, M., GROVES, P., BOWYER. R.T. & GEFFEN, E. 2002. Characteristics of sex-
+biased dispersal and gene flow in coastal river otters: implications for natural recolonisation of extirpated 
+populations. Molecular Ecology, 11: 289-303. 
+BOUCHARDY, C. 1984. La Loutre Lutra lutra. In: Atlas des Mammifères Sauvages de France. Société Française 
+pour l’Étude et la Protection des Mammifères, Paris. Pp. 118-119. 
+BOUCHARDY, C.. 1986. La Loutre. Ed. Sang de la Terre, París. 
+BOUCHARDY, C., ROSOUX, R & GREEN, R. 2005. The otter Lutra lutra in France. An update of the 
+recolonisation of otters from the Massif Central and Atlantic coast populations. . (In: The Return of the Otter in 
+Europe – where and how? Sabhal Mor Ostaig, Isle of Skye 30 June – 5 July 2003. (Edited by Conroy, J.W.H., 
+Yoxon, G., Gutleb, A.C. & Ruiz-Olmo, J.) xx-xx.  International Otter Survival Fund, Broadford, Isle of Skye.    
+BROYER, J., AULAGNIER, S., DESTRE, R. & GASCHIRNAD, O. 1984. La loutre Lutra lutra splendida dans le sud 
+du Maroc. Bulletin Groupe Loutres, 18: 12-20. 
+BRAVO, C., BUENO, F. & SÁNCHEZ-AGUADO, F. 1998. Censo visual de nnutria (Lutra lutra) y visón Americano 
+(Mustela vison) en el Parque Natural de las Hoces del Río Duratón (Segovia). Galemys, 10 (número special): 89-
+96. 
+BUENO, F. & BRAVO, C. 1998. Comentarios sobre la evolución de las poblaciones de nutria (Lutra lutra) en dos 
+zonas del centro de España. Galemys, 10 (núm special): 151-161. 
+CAGNOLARO, L., RUSO, D., SPAGNESI, M. & VENTURI, B. 1975. Inchiesta sulla distribuzzione della lontra 
+(Lutra lutra) in Italia e nei Cantoni Ticino e Grigioni (Svizzera) 1971-1973. Laboratorio di  Zoologia  Applicata 
+a la caccia. Biologia della Selvagina, 63: 1-120. 
+CASSOLA,, F. 1986. La lontra in Italia. Censimento, Distribuzione e Problemi di Conservazione di una Specia 
+Minacciata. Serie Atti e Studie. WWF, Roma. 
+CLAVERO, M., PRENDA, J., BLANCO, P., REBOLLO, A.,VALLE, J., NARVÁEZ, M. BARRIOS, L. & DELIBES, M. 
+2002. Tesoros naturales de los ríos del Campo de Gibraltar. Quercus, 193: 14-19. 
+CLAVERO, M., PRENDA, J., NARVÁEZ, M., BARRIOS, L., VALLE, J., REBOLLO, A., BLANCO, P. & DELIBES, M. 
+in press. Distribución y dieta de la nutria en ambientes áltamente heterogéneos del Campo de Gibraltar. 
+Almoraima. 
+CONROY, J.W.H. & CHANIN, P.R.F. 2002. The status of the Eurasian otter (Lutra lutra) in Europe- A review. 
+In: Proceedings of the First Otter Toxicology Conference, Skye, September 2000 (Edited by Conroy, J.W.H., 
+
+
+Yoxon, P. & Gutleb, A.C.) Journal of the International Otter Survival Fund, 1: 7-18.  International Otter 
+Survival Fund, Broadford, Skye. 
+CONROY, J. W.H., MELISCH & CHANIN, P.R.F. 1998. The distribution and status of the Eurasian otter (Lutra 
+lutra) in Asia. IUCN Otter Specialist Group Bulletin, 15: 15- 30.  
+CORTÉS, Y., FERNÁNDEZ-SALVADOR, R., GARCÍA, F.J., VIRGÓS, E. & LLORENTE, M. 1998. Changes in otter 
+Lutra lutra distribution in Central Spain in the 1964-1995 period. Biological Conservation, 86: 179-183. 
+DELAKI, E.-E., KOTZAGEORGIS, G.,  IONNIDOU, V. &  STAMOPOULOS, A. 1989. A study of otters in Lake 
+Mikri Prespa, Greece. IUCN Otter Specialist Group Bulletin, 3: 12-16. 
+DELIBES, M. 1990. La Nutria (Lutra lutra) en España. Serie Tècnica. ICONA,  
+DOBSON, M. 1998. Mammal distribution in the western Mediterranean: the role of human intervention. Mammal 
+Review, 28: 77-88. 
+DE SILVA P.K. 1991. Aspects of behaviour and ecology of old world otters. A review. In: Proceedings of the 
+Fifth International Otter Colloquium, Hankensbüttel 1989. (Edited by Reuther, C. & Röchert, R.) Habitat, 6: 95-
+106. 
+DJULIC, B. & MIROC, D.J. 1967. Catalogus Faunae Jugoslaviae. Mammalia (Ljubljana), 4: 1-46.  
+DOLEV, A., GUTER, A., SALTZ, D. & KRONFELD-SCHNOR, N.  2005. Israel’s Otter (Lutra lutra) population, 
+status and future conservation. . (In: The Return of the Otter in Europe – where and how? Sabhal Mor Ostaig, 
+Isle of Skye 30 June – 5 July 2003. (Edited by Conroy, J.W.H., Yoxon, G., Gutleb, A.C. & Ruiz-Olmo, J.) xx-
+xx.  International Otter Survival Fund, Broadford, Isle of Skye.    
+DUNSTONE, N. 1998. The Mink. Poyser Natural History, London. 
+ELLIOT, K.M. 1983. The otter Lutra lutra in Spain. Mammal Review, 13: 25-34. 
+EROGLU, M. 1994. The status and habitat destruction of the otter (Lutra lutra L.) in the eastern Black Sea region 
+of Turkey. In: Seminar of the Conservation of the European otter (Lutra lutra), Leewarden, the Netherlands, 7-
+11 June 1994. Council of Europe, pp. 81-83.  
+FASANO, R. & MAGLIO, G. 1995. Presenza della contra (Lutra lutra) nei Monti Lattari (Campania). In: Biology 
+and Conservation of Mustelids.  Proceedings of the II Italian Symposium on Carnivores, Pavia, 20-22 Octobre 
+1993,  (Edited by Prignioni, C.).  Hystrix (n.s.), 7: 243-245. 
+FERRAN DE ALMEIDA, F. 1987. A propòs de la distribution de la loutre au Portugal. Ciênc. Bioo. Ecol. Syst. 
+(Portugal), 7: 11-15. 
+FONDERFLIK, J., DE KERMABON, J., LIBOIS, R., BAFFIE, P., ROSOUX, R. & TOURNEBIZE, T. 1995. Evolution 
+récente du statut de la loutre dnas le Parc Nacional de Cévennes. Cahier d’Ethologie, 15: 233-238. 
+FOSTER-TURLEY, P., MACDONALD, S.M. & MASON, C.F. (Editors) 1990. Otters. An Action Plan for their 
+Conservation. IUCN, Gland, Switzerland. 
+GAETHLICH, M. 1988. Otters in western Greece and Corfu. IUCN Otter Specialist Group Bulletin. 3: 17-23. 
+GRÉMILLET, X, 1993. Field survey of Lutra lutra in Corfu island (Greece). IUCN Otter Specialist Group 
+Bulletin, 8: 39-42. 
+GRÉMILLET, X.. 1995. Proposals for the conservation of otters Lutra lutra on Corfu island (Ionian Sea, Greece). 
+In: Biology and Conservation of Mustelids.  Proceedings of the II Italian Symposium on Carnivores, Pavia, 20-
+22 Octobre 1993,  (Edited by Prignioni, C.) Hystrix (n.s.), 7: 219-222. 
+GUTLEB, A.C. 2002. The role of pollutants in the decline of the otter. . In: The Proceedings of the First Otter 
+Toxicology Conference, Skye, September 2000 (Edited by Conroy, J.W.H., Yoxon, P. & Gutleb, A.C.) Journal of 
+the International Otter Survival Fund, 1: 29-40. International Otter Survival Fund, Broadford, Skye 
+HILL, R.W. 1980. Comparative Physiology of Animals and Environmental Approach. Harper & Row, 
+Publishing, New York.  
+HÖNIGSFELD, M. 1998. New threats to continuous viable otter populations in the north eastern part of Slovenia. 
+Poster presented at  the Seventh  International Otter Colloquium, Trebon, Czech Republic, 14-19 March 1998. 
+ILHAANI, G. 1987. The last otters on the coastal plain. Israel Land Naturalist, 14: 245. 
+ILHAANI, G. 1988. Otters still alive on the Golan Heights. Israel Land Naturalist, 14: 245. 
+JACOBY, M.C. & WILLIAMS, J.L.R. 1995. Recent otter records from central Morocco. IUCN Otter Specialist 
+Group Bulletin, 12: 11-12. 
+JACQUES, H. 1998. Eurasian otter (Lutra lutra) still present in Syria. IUCN Otter Specialist Group Bulletin, 15: 
+112-113. 
+JANSSENS, X., DE KERMABON, J., BARET, P. & DEFOURNY, P. 2005. Space-time analysis of the recolonisation 
+of hydrographical networks by the Eurasian otter (Lutra lutra L.) in the Cevennes. (In: The Return of the Otter in 
+Europe – where and how? Sabhal Mor Ostaig, Isle of Skye 30 June – 5 July 2003. (Edited by Conroy, J.W.H., 
+Yoxon, G., Gutleb, A.C. & Ruiz-Olmo, J.) xx-xx. International Otter Survival Fund, Broadford, Isle of Skye.    
+JIMÉNEZ,  J. & LACOMBA, I. 1991. The influence of water demands on otter (Lutra lutra) distribution in 
+Mediterranean Spain. In: Proceedings of the Fifth International Otter Colloquium, Hankensbüttel 1989. (Edited 
+by Reuther, C. & Röchert, R.) Habitat: 249-255. 
+
+
+KALBY, M., CANNETIELLO, M., DI BELLO, S., VORRASI, A. & MILONE, M. 2005. A historical analysis of otter 
+distribution (Lutra lutra) in the fluvial basins of the Campania and Basilicata Regions (southern Italy). In: The 
+Return of the Otter in Europe - where and how? Sabhal Mor Ostaig, Isle of Skye 30 June – 5 July 2003. (Edited 
+by Conroy, J.W.H., Yoxon, G., Gutleb, A.C. & Ruiz-Olmo, J.) xx-xx.  International Otter Survival Fund, 
+Broadford, Isle of Skye.   
+KNOLLSEISEN, M. 1998. Some aspects of the feeding ecology of otters (Lutra lutra) in Turkey. IUCN Otter 
+Specialist Group Bulletin, 13: 20-26. 
+KOWALSKI,, K. & RZEBIK-KOWALSKA, B.1991. Mammals of Algeria. Polish Academy of Sciences, Wroclaw, 
+Warszawa and Kraków. 
+KRANZ, A. 1994. Some comments on the otter (Lutra lutra) in Turkey.  IUCN Otter Specialist Group Bulletin, 
+10: 30-31. 
+KRUUK, H. 1995. Wild Otters. Predation and Populations. Oxford University Press, Oxford. 
+LAPINI, L. 1985. La Lontra. Carlo Lorentini Editore, Udine. 
+LE BERRE, M. 1990. Faune du Sahara. 2. Mammifères. Raymond Chavaud Lechevalier, Paris. 
+LILES, G. & JENKINS, L. 1984. A field survey for otters (Lutra lutra) in Yugoslavia. Journal of Zoology. 
+London, 203: 282-284. 
+MACDONALD, S.M. & MASON, C.F. 1982a. The otter Lutra lutra in central Portugal. Biological Conservation. 
+22: 207-215. 
+MACDONALD, S.M. & MASON, C.F. 1982b. Otters in Greece. Oryx, 16: 240-244. 
+MACDONALD, S.M. & MASON, C.F. 1983a. The otter Lutra lutra in southern Italy. Biological Conservation., 
+25: 95-101. 
+MACDONALD, S.M. & MASON, C.F. 1983b. The otter (Lutra lutra) in Tunisia. Mammal Review, 13: 35-37. 
+MACDONALD, S.M. & MASON, C.F. 1984. Otters in Morocco. Oryx, 18: 157-159. 
+MACDONALD, S.M. & MASON, C.F. 1985. Otters, their habitat and conservation in north east Greece. Biological 
+Conservation, 32: 191-210. 
+MACDONALD, S.M. & MASON, C.F. 1994. Status and Conservation needs of the Otter (Lutra lutra) in the 
+Western Palearctic. Council of Europe. Strasbourg. 
+MACDONALD, S.M., MASON, C.F. & DE SMET, K. 1985. The otter (Lutra lutra) in north-central Algeria. 
+Mammalia, 49: 215-219. 
+MACDONALD, S.M., MASON, C.F. & SHALMON, B. 1986. A survey for otters in Israel. Oryx, 20: 233-236. 
+MASON, C.F. & MACDONALD, S.M. 1986. Otters. Ecology and Conservation. Cambridge University, Press, 
+Cambridge. 
+MARGALEF, R. 1974. Ecología. Omega Ed., Barcelona. 
+MICHELOT, J.-L. & BENDELÉ, R. 1995. Statut de la loutre dans le basin du Rhône et le département de 
+l’Ardèche. In: La loutre et le vison d'Europe. Acts XVII Internationale Mammalogie Colloquium, Niort 23-25 
+Octobre 1993. (Edited by Gautier, J.Y., Libois, R. & Rosoux, R.) Cahiers d'Ethologie, 15:  223-232. 
+MORALES, J.J., RUIZ-OLMO, J., LIZANA, M. & GUTIÉRREZ, J. 1998. Diferencias en la ocupación por la nutria 
+Paleártica (Lutra lutra) de lagunas y embalses de altitud en el centro y norte de la Península Ibérica. Galemys, 10 
+(número special): 253-264. 
+OTTINO, P., PRIGIONI, C., & VIGNA TAGLIIANTI, A. 1995. Idoneità ambientale per la contra (Lutra lutra) di 
+alcuni fiumi dell’Abruzzo. In: Biology and Conservation of Mustelids.  Proceedings of the II Italian Symposium 
+on Carnivores, Pavia, 20-22 Octobre 1993, (Edited by Prignioni, C.). Hystrix (n.s.) 7: 265-268. 
+PARDE, J.M. 2003. Étude de la Loutre, Lutra lutra L., dans le Bassin Hydrographyque Garonne-Amont en 2002-
+Début 2003. Rapport for the Ministère de l’Ecologie et du Développement Durable, Direction Régionale de 
+l’Environnement de Midi-Pyrénnées, Fos. 
+PAUNOVIĆ, M. & MILENKOVIĆ, M. 1996. The current status and distribution of the otter Lutra lutra L., 1758 in 
+Serbia and Montenegro. IUCN Otter Specialist Group Bulletin, 13: 71-76. 
+POLECHLA, P.J. 1991. A Preliminary Review of the Anatomy and Physiology of the Otters (Carnivora; 
+Mustelidae; Lutrinae). In: Proceedings of the Fifth International Otter Colloquium, Hankensbüttel 1989. (Edited 
+by Reuther, C. & Röchert, R.) Habitat, 6: 85-94. 
+PRENDA , J., LÓPEZ-NIEVES, P. & BRAVO, R. 2001. Conservation of the otter Lutra lutra in a Mediterranean 
+area: the importance of habitat quality and temporal variation in water availability. Aquatic Conservation: 
+Marine and Freshwater Ecosystems, 11: 343-355. 
+PRIGIONI, C. 1997. La lontra, una Vita Silenziosa Negli Ambienti Acquatici. Edagricole, Bologna. 
+PRIOIONI, C., BOGLIANI, G. & BARBIERI, F. 1986. The otter Lutra lutra in Albania. Biological Conservation, 
+36: 375-383.  
+REGIANI, G., CIUCCI,, P., BOITANI, L. & ROCCA, F. 1997. Un approccio multicriteri alla conservazione della 
+Lontra (Lutra lutra) in Italia. Supplementi della Ri ccercia sulla Biologia Selvaggina XX-VII: 751-758.   
+RUETHER, C. & DOLEV, A. 2000. New findings of otters (Lutra lutra) in Israel. IUCN Otter Specialist Group 
+Bulletin, 13): 80-82. 
+
+
+REUTHER C., DOLCH, D., GREEN, R., JAHRL, J., JEFFERIES, D.J., KREKEMEYER, A., KUCEROVA, M., 
+MADSEN, A.B.,  ROMANOWSKI, J., ROCHE, K., RUIZ-OLMO, J. TRINDADE, A. 2002a. Surveying and 
+monitoring distribution and population trends of the Eurasian otter (Lutra lutra). Guidelines and evaluation of 
+the standard method surveys as recommended by the European Section of the IUCN/SSC Otter Specialist Group. 
+Habitat, 12: 1-148. 
+REUTHER, C., RIFAI, L., QARCAS, M., ABU BAKER, M. & AMR, Z.S. 2000b. Results of an initial field survey 
+for otters (Lutra lutra) in Jordan. IUCN Otter Specialist Group Bulletin, 17: 75-79. 
+ROSOUX, R., TOURNEBIZE,, T. & MAURIN, H. 1996. Etude de la répartition de la loutre d'Europe (Lutra lutra) 
+en France. Actualisation 1993. In: La loutre et le vison d'Europe. Acts XVII Internationale Mammalogie 
+Colloquium, Niort 23-25 Octobre 1993. (Edited by Gautier, J.Y., Libois, R. & Rosoux, R.) Cahiers d'Ethologie, 
+15: 195-206. :  
+RUIZ-OLMO, J. 1995. Estudio Bionómico de la  Nutria (Lutra lutra L., 1758) en el N.E. de la Península Ibérica. 
+Ph. D. Thesis, University of Barcelona, Barcelona. 
+RUIZ-OLMO, J.  1998. Influence of altitude on the distribution, abundance and ecology of the otter (Lutra lutra). 
+In Behaviour and Ecology of Riparian Mammals. (Edited by Dunstone, N. and Gorman, M.). Symposia of the 
+Zoological Society of London, 71:159-176. 
+RUIZ-OLMO, J.  2001. Pla de Conservació de la Llúdriga a Catalunya: Biologia Iconservació.  Generalitat de 
+Catalunya, Departament de Medi Ambient, Documents dels Quaderns del Medi Ambient 6: 1-87. 
+RUIZ-OLMO, J. & DELIBES, M. 1996. Recherches sur la loutre (Lutra lutra) et son status en Espagne. In: La 
+loutre et le vison d'Europe. Acts XVII Internationale Mammalogie Colloquium, Niort 23-25Octobre 1993 (Edited 
+by Gautier, J.Y., Libois, R. & Rosoux, R.) Cahiers d'Ethologie, 15: 169-180.  
+RUIZ-OLMO, J. & DELIBES, M. 1998. La Nutria en España ante el Horizonte Delaño 2000. SECEM, Málaga.   
+RUIZ-OLMO, J. & GOSÁLBEZ, J. 1988. Distribution of the otter, (Lutra lutra L. 1758) in the NE of the Iberian 
+Peninsula. Publicacions del Departament de Zoologia de Barcelona, 14: 121-132.  
+RUIZ-OLMO, J. & ORO, D. 1993. La nutria en las zonas húmedas litorales de Cataluña (N.E. de la Península 
+Ibérica). Butlletí del Parc Natural del Delta de l’Ebre, 8: 36-41. 
+RUIZ-OLMO, J., LAFONTAINE, L., PRIGIONI, C., LÓPEZ-MARTÍN, J.M. & SANTOS-REIS, M. 2002. Pollution 
+and its effects on Otter populations in south western Europe. In: The Proceedings of the First Otter Toxicology 
+Conference, Skye, September 2000 (Edited by Conroy, J.W.H., Yoxon, P. & Gutleb, A.C.) Journal of the 
+International Otter Survival Fund, 1: 63-82. International Otter Survival Fund, Broadford, Skye 
+RUIZ-OLMO, J., LÓPEZ-MARTÍN, J.M. & PALAZÓN, S. 2001. The influence of fish abundance on the otter 
+(Lutra lutra) populations in Iberian Mediterranean habitats. Journal of Zoology. London,  254: 325-336. 
+RUIZ-OLMO, J., SAAVEDRA, D. & JIMÉNEZ,  J.  2001. Testing the otter surveys and visual and track censuses in 
+the Eurasian otter (Lutra lutra). Journal of Zoology. London, 235: 359-369. 
+RUIZ-OLMO, J., JIMÉNEZ,  J., PALAZÓN. & LÓPEZ-MARTÍN, J.M. 2002. Ecologie et conservation de la loutre 
+(Lutra lutra) et du vison d’Europe (Mustela lutreola) aux milieux Mediterranèes. In L’Etude et la Conservation 
+des Carnivores. (Edited by Chapron, G. and Moutou, F.) Pp. 104-112.  Société Française pour l’Étude et la 
+Protection des Mammifères: Paris 
+RUIZ-OLMO, J., JIMÉNEZ,  J., PALAZÓN, S. & BATET, A. 2004. La nutria intenta reconquistar las cuencas 
+mediterráneas. Quercus, 216: 24-31. 
+SAAVEDRA, D. 2002. Re-introduction of the Eurasian Otter (Lutra lutra) in Muga and Fluvià Basins (north east 
+Spain): Viability, development, monitoring and trends of the new population. Ph. D. Thesis. University of 
+Girona, Girona, Spain. 
+SAAVEDRA, D. & SARGATAL, J. 1998. Re-introduction of the Otter (Lutra lutra) in north east Spain (Girona, 
+province). Galemys, 10 (número special): 191-200.89-96. 
+SANTOS-REIS, M., TRINDADE,, A. & BEJA, P.R. 1995. Situation et état des recherches sur la loutre au Portugal. 
+In: La loutre et le vison d'Europe. Acts XVII Internationale Mammalogie Colloquium, Niort 23-25 Octobre 1993. 
+(Edited by Gautier, J.Y., Libois, R. & Rosoux, R.) Cahiers d'Ethologie, 15:  1-14. 
+SHALMON, B. 1992. Status of the otter in Israel. IUCN Otter Specialist Group Bulletin, 7: 42. 
+SMET, K. DE & LYMERAKIS, P. 2003. Eurasian Otters (Lutra lutra) in Crete? IUCN Otter Specialist Group 
+Bulletin, 20: 72. 
+SPAGNESI, M. 1980. Das Vorkommen des Fischotters in Italien. In: Der Fischotter in Europa: Verbreitung, 
+Bedrohung, Erhaltung (Edited by Reuther, C & Festetics, A.) Pp. 211-214.  Selbstverlag, Oderhaus, Göttingen. 
+TAYLOR, I.R., JEFFERIES, M.J., ABBOT, S.G., HUABERT, I.A.R. & VIRDEE, S.R.K. 1984. Distribution, habitat 
+and diet of the otter Lutra lutra in the Drina catchment, Yugoslavia. Biological Conservation, 45: 109-119. 
+THOL-SCHMITZ, H.  2005. Notes on the status on otter population:  Conservation, research and projects in 
+Turkey. In: The Return of the Otter in Europe – where and how? Sabhal Mor Ostaig, Isle of Skye 30 June – 5 
+July 2003. (Edited by Conroy, J.W.H., Yoxon, G., Gutleb, A.C. & Ruiz-Olmo, J.) xx-xx.  International Otter 
+Survival Fund, Broadford, Isle of Skye.    
+
+
+TRINDADE, A. 1994. Monitoring Lutra lutra Habitats in Portugal: a Conceptual Plan. IUCN Otter Specialist 
+Group Bulletin, 10: 41-46. 
+TRINDADE, A., FARINHA, N.  & FLORENCIO, E. 1998. A Distribuiçao da Lontra (Lutra lutra) em Portugal. 
+Situaçao em 1995. Instituto da Conservaçao da Natureza. Ministério do Ambiente, Lisboa. 
+TURAN, N. 1984. The hunting of wild animals of Turkey: mammals. Ongun Kardesler Matbaacilik Sanayii, 
+Ankara. Pp. 100-101. 
+URBAN, P. 1998. Eurasian otter (Lutra lutra L.) in the north western Greece – contribution to distribution, 
+limiting factors and conservation measures. Vydra, 8: 44-47. 
+WILLIAMS, J.L.R. & JACOBY, M.C. 1995. Otters in south west Andalucia, Spain – August 1995. IUCN Otter 
+Specialist Group Bulletin, 12: 13-14. 
+. 
+ 
+ 
+ 

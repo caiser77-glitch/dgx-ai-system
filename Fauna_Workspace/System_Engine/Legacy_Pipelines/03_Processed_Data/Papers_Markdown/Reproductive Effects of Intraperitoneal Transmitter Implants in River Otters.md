@@ -1,0 +1,353 @@
+--- 
+source: Reproductive Effects of Intraperitoneal Transmitter Implants in River Otters.pdf
+--- 
+
+Reproductive Effects of Intraperitoneal Transmitter Implants in River Otters
+Donald G. Reid; Wayne E. Melquist; James D. Woolington; John M. Noll
+The Journal of Wildlife Management, Vol. 50, No. 1. (Jan., 1986), pp. 92-94.
+Stable URL:
+http://links.jstor.org/sici?sici=0022-541X%28198601%2950%3A1%3C92%3AREOITI%3E2.0.CO%3B2-%23
+The Journal of Wildlife Management is currently published by Alliance Communications Group.
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/about/terms.html. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained
+prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in
+the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/journals/acg.html.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+The JSTOR Archive is a trusted digital repository providing for long-term preservation and access to leading academic
+journals and scholarly literature from around the world. The Archive is supported by libraries, scholarly societies, publishers,
+and foundations. It is an initiative of JSTOR, a not-for-profit organization with a mission to help the scholarly community take
+advantage of advances in technology. For more information regarding JSTOR, please contact support@jstor.org.
+http://www.jstor.org
+Thu Jul 19 03:44:29 2007
+
+
+REPRODUCTIVE EFFECTS OF INTRAPERITONEAL TRANSMITTER 
+IMPLANTS IN RIVER OTTERS 
+DONALD G. REID, Department of Biology, University of Calgary, Calgary, Alberta T2N 1N4, Canada 
+WAYNE E. MELQUIST,' Idaho Cooperative Wildlife Research Unit, University of Idaho, Moscow, ID 83843 
+JAMES D. WOOLINGTON, Alaska Cooperative Wildlife Research Unit, University of Alaska, Fairbanks, AK 99708 
+JOHN M. NOLL, Alaska Cooperative Wildlife Research Unit, University of Alaska, Fairbanks, AK 99708 
+Abstract: Data on 7 instrumented adult female river otters (Lutra canadensis) from 3 study areas in 
+western North America were used to evaluate the effects of intraperitoneal radio transmitter implants on 
+reproductive performance. Based on our observations, all stages of the breeding cycle can proceed success- 
+fully with a radio package implanted in the abdominal cavity. 
+The use of radio transmitters designed for 
+intraperitoneal implantation is a relatively re-
+cent advancement in wildlife biotelemetry 
+(Smith and Whitney 1977). In many cases, im- 
+planted radio packages are more desirable than 
+collars or harnesses when studying animals with 
+streamlined body form or with aquatic or fos- 
+sorial habits (Melquist and Hornocker 1979b). 
+Researchers often have failed to address the 
+potential effects that intraperitoneal radio 
+transmitters have on the study animals. Repro- 
+ductive performance is 1 critical process that 
+might be affected, and the objective of our study 
+was to evaluate the reproductive success of in- 
+strumented female river otters. The reproduc- 
+tive cycle in female river otters includes spring 
+breeding, immediate development of the egg(s) 
+to blastocysts, a delay of implantation for 9-10 
+months, and intrauterine implantation with a 
+61-63 day development of the embryo-fetus to 
+term (Liers 1951, Hamilton and Eadie 1964, 
+Tabor and Wight 1977, Mowbray et al. 1979, 
+Hill and Lauhachinda 1980). 
+The research in Alberta was funded by the 
+Alberta Fish and Wildl. Div.; the Can. Wildl. 
+Serv.; the Boreal Inst. North. Stud.; the Alberta 
+Recr., Parks and Wildl. Found.; and the Arctic 
+Inst. North Am. P. deNooij and M. Schoonder- 
+woerd performed the surgery, and T. E. Code 
+and J. Etzkorn provided field assistance. The 
+research in Idaho was conducted from the Ida- 
+ho Coop. Wildl. Res. Unit, Univ. Idaho. Major 
+funding was provided by the U.S. Fish and 
+Wildl. Serv. The Idaho Dep. Fish and Game 
+and the Univ. Idaho provided additional finan- 
+cial support. The YACC program of the U.S. 
+' Present address: Idaho Department of Fish and 
+J. WILDL. MANAGE. 50(1):92-94 
+Fish and Wildl. Serv. provided employees, op- 
+erating funds, and equipment. C. M. Mack and 
+R. R. Whitman assisted in the field during this 
+phase of the research. The research in Alaska 
+was funded by the Alaska Dep. Fish and Game, 
+the Alaska Coop. Wildl. Res. Unit, the Alaska 
+Logger's Assoc., the U.S. Fish and Wildl. Serv., 
+and the U.S. For. Serv. R. B. Bauder performed 
+the surgery. Field assistance was provided by 
+K. T. Bovee, S. G. Buck, J. S. Hawkings, and 
+N. M. Grimmond. 
+METHODS 
+Melquist and Hornocker (1979~) developed 
+the surgical technique and 1st used intraperi- 
+toneal implants to study river otters in west- 
+central Idaho. Subsequent and ongoing studies 
+of river otters in Alberta (Reid 1984) and Alas- 
+ka (Larsen 1983; Woolington 1984; J. M. Noll, 
+unpubl. data) have made use of the technique 
+on a variety of age and sex classes. The trans- 
+mitters (Telonics Inc., Mesa, Ariz.; Wildl. Ma- 
+terials Inc., Carbondale, Ill.) were cylindrical 
+(9.5 x 3.3 cm) and weighed from 80 to 100 g. 
+They were encapsulated in a physiologically in- 
+ert material. 
+We equipped 7 adult female river otters with 
+intraperitoneal radio implants in 3 study areas 
+in western North America. Surgery, using ke- 
+tamine hydrochloride as the anesthetic, usually 
+was performed at some time during pregnancy, 
+a period that lasts nearly 12 months. Four op- 
+erations were performed in autumn, during the 
+period of delayed implantation; 3 were per-
+formed in spring, during fetal development and 
+very late pregnancy; and 1was performed dur- 
+ing lactation (Table 1). 
+We inferred a successful breeding cycle when 
+Game, 600 S. Walnut, P.O. Box 25, Boise, ID 83707. 
+juvenile otter(s) were observed traveling and 
+12 
+
+
+J. Wildl. Manage. 50(1):1986 
+OTTERRADIOIMPLANTSReid et al. 
+93 
+Table 1. Observed reproductive performance of adult female river otters with intraperitoneal radio implants, western North 
+America, 1979-83. 
+Reproductive performance 
+Parturition 
+Time since 
+Study 
+Date of 
+Copulatory 
+surgery 
+area 
+N 
+surgery 
+behavior 
+Estimated date 
+(weeks) 
+Postpartum 
+Subsequent behavior 
+Idaho 
+1 
+4 Nov 
+Observed 
+Early Apr 
+21 
+Weaned 3 pups 
+(west-
+1979 
+24 Apr 
+1980 
+1980 
+central) 
+(1st) 
+1988 
+2 May 
+Early Apr 
+49 
+Weaned 1pup 
+1980 
+1981 
+1981 
+(2nd) 
+Alberta 
+2 
+16 Sept 
+Late Apr 
+26 
+Weaned 2 pups 
+No natal be-
+(north-
+1980 
+1981 
+1981 
+havior 1982 
+eastern) 
+18 Oct 
+No natal behav-
+1981 
+ior 1982 
+Alaska 
+4 
+30 Mar 
+Spring 
+1 6  
+Weaned pups 
+Uncertain 
+(south-
+1982 
+1982 
+1983 
+eastern) 
+2 Apr 
+Spring 
+<6 
+Uncertain 
+Uncertain 
+1982 
+1982 
+1982 
+1983 
+27 Apr 
+Spring 
+<2 
+Weaned pups 
+1982 
+1982 
+1982 
+Spring 
+approx. 
+Weaned pups 
+1983 
+54 
+1983 
+9 Aug 
+Spring 
+approx. 
+Weaned pups 
+1982 
+1983 
+36 
+1983 
+a Melquist and Hornocker 1983 
+interacting with the radio-marked adult fe-
+male but with no other adults present. Because 
+the number of observations of each radio-
+marked animal varied greatly between individ-
+uals and between studies, the data reported may 
+be incomplete. Observations of unmarked fe-
+males, with or without juveniles, were infre-
+quent. Consequently, information on the pro-
+portion of adult females breeding annually in 
+each study population was unavailable. There-
+fore, we could not determine how the observed 
+number of successful pregnancies compared to 
+the expected number. 
+RESULTS AND DISCUSSION 
+Seven adult females instrumented with func-
+tional transmitters passed through a total of 12 
+possible pregnancies (Table 1).Six of these fe-
+males successfully gave birth, 4 with 1litter and 
+2 with 2 litters. All 6 would have bred prior to 
+the initial implantation of the radio packages 
+and passed through the latter stages of preg-
+nancy with the implanted radios. Two subse-
+quently completed another successful repro-
+ductive cycle with the radios already implanted. 
+One of these was observed copulating. 
+Our ability to report litter size is compro-
+mised by the difficulties of observing otters and 
+by observations of radio-marked females and 
+unmarked pups in social groups with possibly 
+> 1  adult female. In 2 instances (Alberta and 
+Idaho) we are sure that litters from radio-
+marked females were of average size. 
+The Idaho female successfully weaned a lit-
+ter of 3 pups that she whelped only weeks be-
+fore her 2nd surgery, performed on 2 May 1980 
+while she was lactating (Melquist and Hornock-
+er 1983). On 19 April 1981 she was observed 
+with only 1pup from her subsequent pregnan-
+cy. The stresses of capture and surgery, when 
+combined with the recent stress of parturition 
+(late Mar-early Apr 1980)and concurrent stress 
+of lactation, may have affected the develop-
+ment of new blastocysts conceived by breeding 
+in late April 1980. 
+Neither female in Alberta exhibited natal 
+denning behavior in spring 1982. Although ra-
+dio implantation may have had an effect, other 
+explanations include unsuccessful breeding in 
+
+
+94 
+OTTERRADIOIMPLANTSReid et al. 
+J. Wildl. Manage. 50(1):1986 
+spring 1981 or neonatal mortality. We are un-
+certain whether 3 of the 7 possible pregnancies 
+in Alaska resulted in successful births. In 1 of 
+these cases the female exhibited natal denning 
+behavior, but young were not observed. In the 
+2 other cases juveniles were observed in the 
+home ranges of the adult females but were not 
+necessarily the offspring of that instrumented 
+female. 
+CONCLUSIONS AND 
+RECOMMENDATIONS 
+Based on our observations of transmitter-im-
+planted otters, all stages of the breeding cycle 
+(including copulation, embryonic and fetal de-
+velopment, and lactation) can proceed success-
+fully with a radio package in the abdominal 
+cavity. Surgery to implant the radio transmitter 
+should be timed to avoid periods when stress 
+from capture or anesthesia may be greatest. Ke-
+tamine hydrochloride is not known to induce 
+abortion, but it does cross the placenta and pro-
+duce anesthetic effects in the fetuses (Fowler 
+1978). This or any other drug may affect fetal 
+development and subsequent survival of the 
+offspring. We do not recommend live capture 
+and surgery on adult females during late stages 
+of pregnancy and lactation. 
+LITERATURE CITED 
+FOWLER,M. E. 1978. Restraint and handling of 
+wild and domestic animals. Iowa State Univ. 
+Press, Ames. 332pp. 
+HAMILTON,
+W. J., AND W. R. EADIE. 1964. Repro-
+duction in the otter, Lutra canadenski. J. Mam-
+mal. 45:242-252. 
+HILL,E. P., AND V. LAUHACHINDA.
+1980. Repro-
+duction in river otters from Alabama and Geor-
+gia. Pages 478-486 in J. A. Chapman and D. 
+Pursley, eds. Proc. worldwide furbearer confer-
+ence. Worldwide Furbearer Conf., Inc., Frost-
+burg, Md. 
+LARSEN,D. N. 
+1983. Habitats, movements and 
+foods of river otters in coastal southeastern Alas-
+ka. M.S. Thesis, Univ. Alaska, Fairbanks. 149pp. 
+LIERS,E. E. 1951. Notes on the river otter (Lutra 
+canadensis).J. Mammal. 32:l-9. 
+MELQUIST,W. E., AND M. G. HORNOCKER.1979a. 
+Development and use of a telemetry technique 
+for studying river otter. Proc. Int. Conf. Wildl. 
+Biotelem. 2:104-114. 
+, AND -. 1979b. Methods and tech-
+niques for studying and censusing river otter 
+populations. Univ. Idaho For., Wildl. and Range 
+Exp. Stn. Tech. Rep. 8. 17pp. 
+, AND -. 1983. Ecology of river otters 
+in west central Idaho. Wildl. Monogr. 83. 60pp. 
+MOWBRAY,
+E. E., D. PURSLEY,
+AND J. A. CHAPMAN. 
+1979. The status, population characteristics and 
+harvest of the river otter in Maryland. Md. Wildl. 
+Adm. Publ. Wildl. Ecol. 2. 16pp. 
+REID,D. G. 1984. Ecological interactions of river 
+otters and beavers in a boreal ecosystem. M.S. 
+Thesis, Univ. Calgary, Calgary, Alberta. 210pp. 
+SMITH,H. R., AND G. D. WHITNEY.1977. Intra-
+peritoneal transmitter implants-their biological 
+feasibility for studying small mammals. Proc. Int. 
+Conf. Wildl. Biotelem. 1:109-117. 
+TABOR,J. E., AND H.M. WIGHT. 1977. Population 
+status of river otter in western Oregon. J. Wildl. 
+Manage. 41692-699. 
+WOOLINGTON,
+J. D. 1984. Habitat use and move-
+ments of river otters at Kelp Bay, Baranof Is-
+land, Alaska. M.S. Thesis, Univ. Alaska, Fair-
+banks. 147pp. 
+Received 12 September 1984. 
+Accepted 18 April 1985. 

@@ -1,0 +1,1566 @@
+--- 
+source: otter_breeding.pdf
+--- 
+
+Otter Breeding Sites
+Conservation and management
+Conserving Natura 2000 Rivers
+Conservation Techniques Series No. 5
+
+
+Otter Breeding Sites
+Conservation and Management
+Conserving Natura 2000 Rivers Conservation Techniques Series No. 5
+Geoff Liles
+For more information on this document, contact:
+English Nature
+Northminster House
+Peterborough
+PE1 1UA
+Email: enquiries@english-nature.org.uk
+Tel: +44 (0) 1733 455100
+Fax: +44 (0) 1733 455103
+This document was produced with the support of the European Commission’s LIFE Nature Programme. It
+was published by Life in UK Rivers, a joint venture involving English Nature (EN), the Countryside
+Council for Wales (CCW), the Environment Agency (EA), the Scottish Environment Protection Agency
+(SEPA), Scottish Natural Heritage (SNH), and the Scotland and Northern Ireland Forum for Environmental
+Research (SNIFFER).
+© (Text only) EN, CCW, EA, SEPA, SNH & SNIFFER 2003
+ISBN 1 85716  753 8
+A full range of Life in UK Rivers publications can be ordered from:
+The Enquiry Service
+English Nature
+Northminster House
+Peterborough
+PE1 1UA
+Email: enquiries@english-nature.org.uk
+Tel: +44 (0) 1733 455100
+Fax: +44 (0) 1733 455103
+This document should be cited as: Liles G (2003). Otter Breeding Sites. Conservation and Management.
+Conserving Natura 2000 Rivers Conservation Techniques Series No. 5. English Nature, Peterborough.
+Technical Editor: Lynn Parr
+Series Ecological Coordinator: Ann Skinner
+Cover design: Coral Design Management, Peterborough.
+Printed by Astron Document Services, Norwich, on Revive, 75% recycled post-consumer waste paper,
+Elemental Chlorine Free. 1M.
+
+
+Conserving Natura 2000 Rivers
+This report on conservation and management of breeding sites for the otter (Lutra lutra) has been
+produced as part of Life in UK Rivers, a project to develop methods for conserving the wildlife and
+habitats of rivers within the Natura 2000 network of protected European sites.The project's focus has
+been the conservation of rivers identified as Special Areas of Conservation (SACs) and of relevant
+habitats and species listed in annexes I and II of the European Union Directive on the Conservation of
+Natural Habitats and of Wild Fauna and Flora (92/43/EEC) (the Habitats Directive).
+One of the main products is a set of methods for monitoring species and habitats, while a
+complementary series contains the best available information on their ecological requirements. Each
+report has been compiled by ecologists who are studying these species and habitats in the UK, and has
+been subject to peer review, including scrutiny by a Technical Advisory Group established by the project
+partners. In the case of the monitoring techniques, further refinement has been accomplished by field-
+testing and by workshops involving experts and conservation practitioners.
+Conservation strategies have also been produced for seven different SAC rivers in the UK. In these,
+you can see how the statutory conservation and environment agencies have developed objectives for
+the conservation of the habitats and species, and drawn up action plans with their local partners for
+achieving favourable conservation status.
+This report on identifying, creating and managing otter breeding sites is part of the project’s series of
+publications on conservation techniques.The series also deals with reintroduction methods for the
+white-clawed crayfish (Austropotamobius pallipes), siltation assessment and management,
+geomorphological surveying for river conservation, and captive breeding of the freshwater pearl mussel
+(Margaritifera margaritifera).
+Life in UK Rivers is very much a demonstration project, and although the reports have no official
+status in the implementation of the directive, they are intended as a helpful source of information for
+organisations trying to set conservation objectives and to monitor for 'favourable conservation status'
+for these habitats and species.They can also be used to help assess plans and projects affecting Natura
+2000 sites, as required by Article 6.3 of the directive.
+Titles in the monitoring and ecology series are listed inside the back cover of this report, and copies of
+these, together with other project publications, are available on the project website:
+www.riverlife.org.uk.
+Otter Breeding Sites
+1
+
+
+Conserving Natura 2000 Rivers
+2
+
+
+Otter Breeding Sites
+3
+Contents
+1. Introduction
+5
+1.1 Outline
+5
+1.2 Background
+5
+1.3 Scope 
+5
+1.4 Sources of information
+6
+1.5 Limitations
+6
+2.The timing of otter breeding in Wales and England 
+7
+3. Otter breeding requirements
+8
+3.1 Introduction
+8
+3.2 Breeding sites
+9
+3.3 Natal dens
+12
+3.4 Food availability
+14
+4. Locating likely and potential breeding sites
+15
+4.1 Introduction
+15
+4.2 Aim
+15
+4.3 Identifying breeding sites
+15
+4.4 Identifying natal dens
+19
+5.A strategic approach to breeding-site conservation
+20
+5.1 Introduction
+20
+5.2 Breeding-site conservation at the catchment and sub-catchment level 
+21
+6. Management guidelines for protecting and creating otter breeding sites
+21
+6.1 Introduction
+21
+6.2 Existing breeding sites – protection and management
+22
+6.3 Creating new breeding sites
+22
+7. Recommendations for future work
+24
+Acknowledgements
+25
+References
+26
+Appendix A: Otter breeding sites in Wales
+28
+Appendix B: Otter breeding sites in England
+34
+
+
+Conserving Natura 2000 Rivers
+4
+
+
+1 Introduction
+1.1 Outline
+This report provides information on identifying the physical and ecological requirements of the otter
+(Lutra lutra) during breeding.
+The main aims are to:
+z Establish the ecological requirements for otter breeding sites.
+z Develop a methodology to locate and identify breeding sites.
+z Develop management guidelines for creating or enhancing breeding sites.
+1.2 Background
+Conservation work for otters in the UK has been carried out since the mid-1970s, and has involved
+many organisations.This work has included otter and habitat surveys (for example, Jenkins 1982),
+changes to legislation to protect otters, and practical habitat management schemes. Research into otter
+ecology in the UK started in the mid-1950s with the publication of the Otter Report (Stephens 1957).
+Much of the practical habitat management conservation work carried out for otters has concentrated
+on the protection or enhancement of riparian habitats (for example,Vincent Wildlife Trust 1985), often
+in conjunction with the Environment Agency. A particular focus for work in England and Wales has
+been the protection of otter resting sites, and the creation of suitable habitats or sites in areas not yet
+colonised by otters (RSNC 2001). Very little work has been directed specifically towards identifying
+and protecting, or creating, otter breeding sites, due mainly to a lack of information on local otter
+breeding activity.
+The protection of otter breeding sites has often received only passing comment in many of the
+publications that discuss otter conservation issues (for example, Mason & Macdonald 1986; Foster-
+Turley et al. 1990; Chanin 1993; Kruuk 1995).This lack of emphasis by conservationists on the
+protection of breeding sites is likely to be due to a number of factors, including a lack of knowledge
+about such sites and difficulty locating them, and the fact that for much of the last 20 years, otter
+populations have been absent or restricted in many parts of England and Wales (Andrews & Crawford
+1986; Andrews et al. 1993; Strachan et al.1990).The significance to otter conservation of protecting
+breeding sites has been identified in research by Taylor & Kruuk (1990) and Durbin (1996), and is
+acknowledged in Article 12 of the European Commission Habitats Directive (1992) and in a UK
+context (JNCC1996).
+1.3 Scope
+This report focuses on otter breeding in freshwater environments within Special Areas of Conservation
+(SACs). It is essentially a data collation exercise, with some fieldwork undertaken to collect data on
+variables to develop a methodology for identifying breeding sites from field signs. Much of the fieldwork
+focused on three SAC rivers in Wales: the River Teifi, the Western Cleddau, and the River Wye in the
+Welsh Marches – areas where the author has worked on otters for the last 20 years, and where
+information on otter breeding activity and sites already exists (G. Liles, unpub.).
+Otter Breeding Sites
+5
+
+
+1.4 Sources of information
+Primary information sources on otter breeding activity and sites were:
+z Published research on the otter – for example Green et al. (1984), Durbin (1996) and 
+Elmeros & Madsen (1999).
+z Other publications, such as Mason & Macdonald (1986) and Kruuk (1995).
+z Otter road casualty records, collated by Bradshaw & Slater (1999) and Simpson (1998), and 
+other records held by the author.
+z Otter breeding site descriptions (G. Liles, unpub.).
+z Unpublished records for otter breeding (for example, K. O’Hara pers. comm., D. Glenn, pers 
+comm., N. Mott, pers comm., G.Woodroffe pers comm.).
+z Otter sightings records (G. Liles, unpub. data).
+Information on food availability for otters is taken from published research and from data provided by
+fisheries and conservation staff in the Environment Agency Wales.
+1.5 Limitations
+The wide variety of sites used by otters as daytime resting places is well documented (Green et al.
+1984, Mason & Macdonald 1986) and includes underground sites such as tree root systems and rock
+cavities, and above-ground sites, such as couches (Hewson 1969) in scrub thickets and timber piles. A
+couch is a mat or platform of vegetation created by otters that can be 1m or more in diameter. Some
+resting sites are in relatively exposed locations (Green et al. 1984, G. Liles, pers. obs.), and appear to
+offer little protection from disturbance.
+In contrast, information on otter breeding and breeding sites (particularly in freshwater habitats) is rare
+(Durbin 1996) with most of the published research carried out in Scotland. Much of the research into
+otter breeding ecology carried out in the rest of Europe (for example in Norway) has concentrated on
+marine environments. Examples of breeding sites used in this report are mainly in freshwater locations,
+with marine examples used if they can help to shed light on aspects of breeding ecology in freshwater
+systems.
+A major difficulty exists, therefore, when attempting to draw firm conclusions about habitat
+requirements for otter breeding sites. Despite the amount of effort put into otter surveys,
+conservation and research in the last 40 years, remarkably few breeding sites have been found and
+described. In published research, for example, only five papers refer to breeding sites or natal dens
+(Macdonald & Mason 1980; Harper 1981; Green et al. 1984;Taylor & Kruuk 1990; Durbin 1996). A
+request for information from colleagues working throughout Europe was published in the Otter Bulletin
+(IUCN Otter Spec. Group Bull. 18 (1)/2001) but no responses were received.
+In order to reach even tentative conclusions about sites on which conservation action can be based, it
+has been necessary to include information on sites where field signs or direct observations of animals
+strongly suggest that otter breeding has occurred (for example, Hewson 1969).The obvious problems
+with using such information are acknowledged. For example, as Taylor & Kruuk (1990) point out, female
+otters are known to move cubs from the natal den so that evidence of cubs in a holt does not
+necessarily mean that they were born there.
+The unpublished information on specific sites used in this report is described in Appendix A. Every
+effort has been made to use only information from reputable sources.
+Although the broad conclusions of the project are intended to be relevant to a wide range of SAC
+river catchments, it should be noted that most of the data is derived from south-west, mid- and
+northern England, and Wales. Some conclusions may not be relevant to lowland catchments in eastern
+England.
+Conserving Natura 2000 Rivers
+6
+
+
+2 The timing of otter breeding in Wales and England
+A better understanding of the timing of cub births in Wales and England is important for conservation
+as it may help to identify a particularly important seasonal food resource and inform site protection
+and management decisions.
+Although otters apparently have no specific breeding season, and cub births have been recorded in
+every month in different parts of their range, several studies have identified seasonal peaks in births. In
+Shetland, for example, Kruuk et al. (1987) found that otters have a definite breeding season around
+June. On the coast of Norway, the main birth peak is in late summer and autumn (Heggberget &
+Christensen 1994). In freshwater habitats in Denmark, most births were also recorded during summer
+and autumn (Elmeros & Madsen 1999), with the highest frequency of births from July to September.
+In Britain, it is generally accepted that there is no birth peak, and that cub births are distributed evenly
+throughout the year (Stephens 1957, Mason & Macdonald 1986). However, data collected for this
+project suggest that there may be a bias towards autumn and winter births, at least in Wales.
+Data from three sources were used to estimate birth months or seasons:
+z Otter road casualties and other mortalities.
+z Orphaned otters.
+z Reported otter sightings.
+Records of otter road casualties and other otter mortality incidents have been kept systematically in
+Wales (Liles & Colley 2000) and parts of England since 1980, with many carcasses collected for autopsy
+(Bradshaw & Slater 1999, Simpson 1998). From 1980 to 2000 a total of 261 otter road deaths were
+recorded in the Environment Agency Wales region, and of these 39 were pregnant or lactating females
+and cubs. In addition, nine cubs died from other causes.
+Birth months can be calculated with some accuracy from pregnant females and cubs of known weight
+(Stephens 1957). Estimating birth months from lactating females is more problematic, because the
+period of lactation in otters is unknown and may continue for up to eight months (Kruuk et al. 1991).
+Seventeen orphaned otter cubs have been retrieved in Wales, usually by the Otters and Rivers Project
+(G. Liles, pers. obs) or the RSPCA (A. Grogan, pers. comm.), and 11 in England (A. Grogan, pers comm).
+An estimate of birth months for these animals was based on weight and size, and on whether they
+were weaned.
+Reported otter sightings in Wales have been recorded by the author since 1980. From a total of almost
+300 otter sighting records, 36 records involve cubs or families. An estimate of birth month or season
+has been calculated based on:
+z An assumption that cubs that are seen out of the natal den will be at least 2+ months old 
+(Kruuk et al. 1991, Durbin 1996).
+z The size and description of cubs in relation to adults and from the behaviour of cubs.
+Sightings were reported by naturalists (for example, Mathew 1992), people who live next to rivers and
+lakes, and by walkers and anglers. Everyone reporting cub sightings was interviewed to verify the
+record, and to gain maximum information.
+Based solely on the more reliable data derived from mortality and orphan otter records, results show a
+clear peak in cub births during autumn and winter (as shown in Figure 1), with 37% of the total birth
+records in each of these two seasons (G adj. = 9.37, df = 3, p>0.05), and only 14% and 12%  for spring
+and summer respectively.The sightings data (Figure 2), also shows a peak, but for the winter months
+only (58% of the total birth records).
+Very little recent information on otter birth dates in England is available, although dates of cub sightings
+and tracks were collected in Yorkshire between 1991 and 2002 following otter releases in the early
+1990s (G.Woodroffe, pers comm.). Post mortem studies by Simpson (1998) in the southwest of England
+appear to show evidence of breeding during the winter although the author points out that the sample
+Otter Breeding Sites
+7
+
+
+size (six females) is very small. Eleven orphaned otter cubs collected in England by the RSPCA since
+January 1999 were from Cumbria,Yorkshire, Norfolk, Somerset, Devon, and Cornwall, and numbers per
+month are spread evenly from July to January (A. Grogan pers comm.)       
+The existence of a clearly defined breeding season for otters in some parts of their range has been
+linked to food availability during the period of highest energetic demands on the female (Kruuk et al.
+1987). Studies in Sweden by Heggerberget & Christensen (1994) and in Denmark by Elmeros & Madsen
+(1999) support this theory.The apparent autumn/winter peak in births in Wales may also be related to
+food availability, and this is discussed in Section 3.4.
+3 Otter breeding requirements
+3.1 Introduction
+It is generally assumed that a female chooses a breeding site within her home range that is undisturbed,
+away from flooding and close to a good food supply (Mason & Macdonald 1986, Chanin 1993, 2003).
+The following discussion and initial conclusions on habitat requirements are drawn from published
+Conserving Natura 2000 Rivers
+8
+Fig 1. Seasonal distribution of cub births in Wales, based on RTA and orphan cub records (n = 57).
+Fig 2. Seasonal distribution of cub births in Wales  based on sightings (n=36).
+
+
+descriptions of otter breeding sites and unpublished descriptions of sites from colleagues, and the
+author’s own experience while studying otters in Wales.
+It is important to note that a distinction is made between the breeding site and the natal den.The term
+breeding site is used to describe an area of land, whereas the natal den is taken to be the small space
+occupied by the female when she gives birth and where the cubs stay for up to three months.
+In terms of conservation the identification and protection of the breeding site should be treated as a
+priority. Natal dens are obviously important but their existence and security will often depend on the
+integrity of the wider breeding site in which they are found.
+3.2 Breeding sites
+The term breeding site is used here to describe an area of land, or open water and land, large enough
+to provide a breeding otter with:
+z Security from disturbance.
+z One or more potential natal den sites.
+z Play areas for cubs.
+z No risk of flooding.
+z Access to a good food supply.
+Where several discrete areas of suitable cover exist within a few kilometres of a river, it is possible that
+two or more breeding sites may be available within the home range of a single breeding female.
+Although a few descriptions of natal dens are found in the literature, there are no details given of the
+area, or larger block of cover (the breeding site) in which they were found, although breeding sites can
+sometimes be inferred from descriptions of natal dens.
+For the purposes of conservation, a distinction is made between breeding sites that are optimal and
+those that are sub-optimal.
+Optimal breeding sites 
+Experience of otter breeding activity in Wales suggests that optimal breeding sites providing all the
+conditions described above can be used by otters over a period of many years. At Site 1 (Appendix A)
+for example, evidence from sightings, surveys and a cub mortality record suggests that the site has been
+used for breeding for at least 30 years. At the lakes in Pembrokeshire (Appendix A, Site 5) a bitch with
+very young cubs was first recorded in 1987, and since then sightings of young cubs have been recorded
+frequently in most years. Evidence for breeding over a number of years has also been recorded at Sites
+3 and 4 (Appendix A).
+Sub-optimal breeding sites
+Although there is little information available on otters breeding at sites that do not provide all the ideal
+conditions, it is likely that some females (particularly sub-dominant or inexperienced individuals) may
+give birth at sites that are sub-optimal. At Site 2 (Appendix B), for example, a seemingly suitable natal
+den site in a hollow tree in which cubs had been born was flooded during the time when the very
+young cubs would have been inside.
+The location of breeding sites within catchments and factors likely to influence the quality of sites are
+discussed below.
+3.2.1 Location within river catchments
+Otter breeding sites in freshwater situations described in the literature (inferred from the discovery of
+natal dens) are generally located on tributary streams (widths 0.7 m to 4 m).With the exception of the
+lowland lake and dense conifer scrub site situated in the upper section of the River Earn described by
+Otter Breeding Sites
+9
+
+
+Green et al. (1984), there is no reference to their location within the river system.
+In Wales breeding sites have been found in all parts of river catchments. For example:
+z The upper reaches of a 3 m wide stream (Appendix A, Site 1), and a watershed marsh (J.
+Higgins, pers comm.).
+z The middle reaches (Appendix A, Site 3).
+z The lower part of the catchment on the main river (Appendix A, Site 4).
+z Close to the coast, on an estuary (Appendix 1, Site 2), and on lakes immediately behind a 
+coastal bay (Appendix A, Site 5).
+The two sites in England are in the lower middle reaches of the catchment (Appendix B, Site 2), and on
+a flood relief channel within 1 km of the coast (Appendix B, Site 1).
+It seems that otter breeding sites can be located anywhere within river systems from estuaries to the
+upper reaches, and on large rivers as well as small streams.They are not restricted to small streams as
+suggested by Jenkins (1980).
+3.2.2 Size
+The extent of habitat required to provide optimal conditions for breeding is likely to vary from site to
+site, and to be influenced by a range of factors including the type(s) and quality of habitat available and
+the level of disturbance.
+Information on site size from both the literature and the two sites in England can only be inferred from
+brief descriptions. For example, Durbin (1996) describes the block of cover holding the natal den as a
+narrow (20 m wide) strip of deciduous woodland, and no more than a broad hedgerow (Durbin, pers
+comm.) but no length of woodland strip is given.The natal dens described by Harper (1981) are in
+woodland and willow carr, but again the size of the woodland is not given. Similarly, no area is given for
+the marsh and reedbed in which Taylor & Kruuk (1990) carried out their investigation of the natal den
+couch.
+In Wales, the areas of land considered by the author to constitute discrete breeding sites vary greatly in
+size, and range from 2 ha to 50 ha.The sites are:
+z 4 ha of neglected agricultural land (Appendix A, Site 1).
+z 50 ha of wetland dominated by Phragmites spp. reed beds (Appendix A, Site 2).
+z A 2.1 ha lake (Appendix A, Site 3).
+z 3.7 ha of woodland and scrub (Appendix A, Site 4).
+z A 30 ha lake system (Appendix A, Site 5).
+Although very different in size, all these are discrete blocks of cover or areas of habitat that can be
+identified as being separate from and different to adjacent or surrounding habitats.
+The 4 ha area of scrub and rough grassland at Site 1 (Appendix A) for example, is part of a very much
+larger area of cover that extends upstream from the site. However, while most of the habitat upstream
+is dominated by Molinia spp., the 4 ha breeding site is a patchwork of dense blackthorn (Prunus spinosa),
+bramble (Rubus fruticosus) and gorse (Ulex spp). Surveys indicate that natal dens and intensive otter
+activity (sprainting, pathways through vegetation) are confined to the 4 ha block.
+3.2.3 Habitat
+The major habitat types associated with otter breeding sites (based on present information) are:
+z Extensive reed beds (for example, Appendix A, Site 2, & Taylor and Kruuk 1990).
+z Ponds and lakes (for example,Appendix A, Site 3, and the lowland lake in Green et al 1984).
+z Deciduous woodlands (ranging in size from a 20 m wide strip to several hectares).
+Conserving Natura 2000 Rivers
+10
+
+
+z Young conifer plantations (for example, Green et al. 1984).
+z Extensive areas of scrub (for example, Appendix A, Site1).
+None of the breeding sites in the published papers referred to, or known in Wales and England, is in an
+area of cover separate to and distant from a watercourse. Natal dens have been found some distance
+from water (Green et al. 1984), but the site furthest away (100 m or more) appears to be in habitat
+that extends down to water and would provide the female with unbroken cover.
+3.2.4 Disturbance
+A lack of disturbance at breeding sites is an important feature commonly referred to by authors
+(Mason & Macdonald 1986; Chanin 1993). Most of the known breeding sites in Wales are similarly free
+from disturbance. However, there are sites described in the literature where a level of disturbance has
+been noted, but where females appear to be tolerant to it. Durbin (1996) recorded potential
+disturbance near to a boulder-pile natal den, from a wood-cutting shed, main road, and driveway at
+distances of 80 m, 120 m and 15 m.
+Apart from disturbance by people, the most likely threat is the presence of dogs, especially at breeding
+sites where natal dens are in above-ground cover such as scrub and reed beds.
+Sites 2 and 5 (Appendix A) are open to the public, with well-defined footpaths, and walkers and dogs
+are often in close proximity to swimming otters (G. Liles, pers obs.; B. Haycock, pers.comm.;
+Henshilwood 1981). It may be significant that both sites are very large (approximately 70 ha and 40 ha
+respectively) and both have extensive areas of undisturbed dense cover.
+The situation at the lake at Site 3 (Appendix A) would appear to present a high level of disturbance to
+the breeding female.The house is, in effect, in the middle of the lake, and the natal den is immediately
+adjacent to the garage. From the many sightings of bitch and cubs reported by the owners, and the
+length of time that the otter family spend on the lake, it is evident that this level of disturbance does
+not cause a problem. It is noticeable, however, that the couple living at the house had a relatively quiet
+lifestyle and were keen not to disturb the otters.
+One of the factors that may need to be considered when assessing levels of disturbance that can be
+accepted by a breeding female is the type of natal dens available to her, and the level of security that
+they provide. For example, the breeding female at Site 3 (Appendix A) may have been able to tolerate
+some disturbance because the natal den is underground in the root system of a felled elm.Where
+otters are giving birth above ground in wetland areas, or in scrub such as at Site 1 (Appendix A) and
+underground enclosed sites are not available, even low levels of disturbance may prevent breeding at
+the site.
+Few descriptions exist of incidents involving disturbance to breeding females. However, Jefferies (1987)
+recounts an incident that he witnessed on the Scottish island of South Uist, when a female otter
+reacted to his presence close to a ‘breeding holt’ by returning to the ‘secure rock holt, some 130 m
+away’, and removing ‘a single, very young cub’.
+3.2.5 Flooding
+The requirement for breeding sites to be away from flood risk is a very important factor identified by
+most authors. All the sites in the literature at which breeding has taken place, and the optimal breeding
+sites known to the author in Wales, are above flood levels.
+3.2.6 Natal dens
+Investigations carried out over a period of three years or more at breeding sites in Wales suggest that:
+z At sites where only above-ground cover is available (for example scrub and reed beds) a 
+different natal den may be used each year. At Site 1 (Appendix A) for example, a natal den 
+was found in 1983 under a thicket of gorse (Ulex europaeus) and bramble (Rubus fruticosus). In 
+subsequent years, field signs suggested that natal dens were located within dense blackthorn 
+Otter Breeding Sites
+11
+
+
+thickets. In 1990, another natal den was found in a sparse bramble clump, approximately 30 m 
+downstream from the natal den found in 1983.
+z Underground or enclosed natal dens (for example tree root systems and boulder caves) can 
+be used repeatedly (although not necessarily over consecutive years). At Site 3 (Appendix A),
+for example, the natal den is in the roots of a very large felled elm stump surrounded by 
+dense rhododendron. A female with young cubs was seen by the resident owner of the site 
+to emerge from the natal den in each of the five years between 1995 and 1999. No records 
+are available before or after this period.
+z Because breeding sites vary in size and in the range and quality of habitats, some will provide 
+many potential natal den sites whilst at others only one suitable site will be available.
+Natal dens are discussed in more detail in Section 3.3.
+3.2.7 Other factors
+Cub predation
+It is not known whether predation of young otters in the natal den occurs, particularly by foxes (Vulpes
+vulpes), badgers (Meles meles), or American mink (Mustela vison).
+Otter cubs in above-ground natal dens, when left unattended, could be susceptible to predation.There
+are many instances of adult badgers killing fox cubs (Neal & Cheeseman 1996), but no records of them
+killing otters (C. Cheeseman, pers comm.). Interestingly, in work on badgers in County Kerry, Ireland,
+Sleeman et al.. (2001) have suggested that otters may be killing badger cubs, although this hypothesis
+needs to be tested. As reported in the description of Site 1 (Appendix A) the appearance of badger
+activity within the breeding site has coincided with the abandonment of otter breeding, and this too
+requires further investigation.
+Domestic dogs could also take unattended cubs, especially those left in above-ground natal dens and in
+enclosed, underground dens with large entrances.Terriers are known to go into occupied badger setts
+and remove very young badger cubs (G. Liles, pers. obs).
+3.3 Natal dens
+The natal den is the small space used by the female to give birth and where the young cubs will remain
+for up to three months. Although relatively few natal dens have been described, some tentative
+conclusions can be presented on the range of cover and features used; use of bedding; proximity to
+water; field signs present; and their use over the long term.
+3.3.1 Types and location of natal dens
+The four types of natal den found during radio-telemetry studies on otters (mainly in freshwater
+systems) and the natal den exposed during tree management (Site 2,Appendix B) are very different and
+include enclosed and above-ground sites.
+The natal den found by Durbin (1996) in a large pile of boulders (60 m2 and 2.5 m high) had six
+entrances into crevices, and the boulder pile was in ‘scrub-like’ vegetation of nettles, etc. (Durbin, pers
+comm.). A boulder pile natal den (located as a result of many sightings and field signs) is also known on
+the main Afon Tywi in Wales (Mathew 1992; G. Liles, pers obs.).
+In contrast, a reed couch den was described by Taylor & Kruuk (1990) as being 0.95 m long, 0.75 m
+wide and 0.4 m high, with a wad of reeds forming a roof. A covered couch similar to that described by
+Taylor & Kruuk was found recently in a Molinia-dominated wetland in Wales (J. Higgins, pers comm.).
+Green et al.. (1984) discovered a natal den with several entrances in an exposed rock face.
+Another type of den is represented by Site 2 (Appendix B) where cubs were found in the hollow trunk
+of a large elm (Ulmus spp.) growing on the bank edge of a stream. Otter access to the den was through
+Conserving Natura 2000 Rivers
+12
+
+
+a 30 cm hole in the root plate. A natal den has also been located in peat tunnels (Moorhouse 1988) in
+a coastal situation.
+In Wales, 10 natal dens have been located, based on evidence from field signs and comparisons with
+confirmed natal dens in the literature, and reliable anecdotal information. At two sites (sites 1 and 5) it
+was possible to describe the shape and dimensions of the natal dens. For the other sites, dimensions
+were not measured because of on-going studies, or where enclosed situations prevent such reporting.
+Four of these natal dens are above ground in scrub thickets and one in a stand of greater tussock
+sedge (Carex paniculata). Each of the natal dens found in scrub had a structure similar to that of the two
+natal dens found at Site 1 (Appendix A). For example, the den at Site 1 has an overall size of 1.2 m
+long, 0.68 m wide and 0.37 m high (similar in dimensions to the reed couch den described by Taylor &
+Kruuk 1990), with a short (0.30 m long) latrine tunnel off the main chamber area. A hollow trunk was
+used as a natal den at Site 5 (Appendix A) for at least two years, though not consecutively.The natal
+den was inside the 5 m long trunk, and there were at least three entrances into it.
+3.3.2 Bedding
+Bedding material has been recorded in most of the natal dens where it could be described, and consists
+of grass (Durbin 1996); grass and sedge (Appendix B, Site 2); dry fragments of fern (Appendix A, Site 1);
+and Phragmites reeds (Taylor & Kruuk 1990), although in this latter case, the bedding itself formed the
+natal den. Bedding, in the form of a couch built in a cavity in peaty soil (on an island in a lake), was also
+used for a litter of three small young otters found by Hewson (1969). At one of the two natal dens
+discovered at Site 1 (Appendix A) no evidence of bedding was found, and the den floor was compacted
+earth.
+Bedding has also been recorded in daytime otter resting sites (Green et al. 1984, Moorhouse 1988), so
+its use is not unique to natal dens.
+3.3.3 Proximity to water
+With the exception of the two natal dens referred to by Green et al. (1984), natal dens described in
+the literature, those recorded in Wales and reported here from England are either at the water’s edge
+(Appendix A, Site 3, and Appendix B, Site 2) or are within 3.5 m of water (for example, Appendix A,
+sites 1 and 5, and Durbin 1996).The den sites described by Green et al. (1984) were 40 m from a lake
+edge, and the other was assumed to be at least 100 m from the nearest stream in a young conifer
+plantation.The reedbed couch natal den reported by Taylor & Kruuk (1990) is described as being ‘close
+to an open-water ditch’, although no distance is given. A couch is a mat or platform of vegetation
+created by otters that can be 1m or more in diameter.
+3.3.4 Field signs associated with natal dens
+Spraint
+Available information on the presence of spraint close to natal dens (from radio-telemetry studies, and
+investigations at a known natal den in Scotland and sites in Wales) appears to be contradictory.
+In two radio-telemetry studies of breeding females, sprainting activity decreased greatly during the
+period when the bitch and cubs were resident in the natal den (Green et al. 1984, Durbin 1996). In the
+first study referred to, only one spraint was found beside the breeding holt, and seven within 100 m of
+it.Taylor & Kruuk (1990), however, found a heavily used sprainting station 1m away from a natal den.
+Similar heavily used ‘sprainting stations’ have been found by the author at presumed natal den sites in
+Wales (see Appendix A), and two of these were in short ‘latrine tunnels’ that led from the natal den
+itself.
+Pathways
+Well-used and very obvious pathways, usually from water to the natal den, have been recorded at most
+of the natal den sites in Wales (Appendix A, sites 1, 2, 4, and 5), and through a reedbed to a natal den,
+by Taylor & Kruuk (1990). Again, this is in contrast to the radio-telemetry studies referred to above.
+Otter Breeding Sites
+13
+
+
+The absence of obvious pathways to some natal dens may be explained by differences in the substrate
+across or through which the female has to travel.
+Play areas  
+Except for the three cub play areas at natal dens in Scotland described by Green et al. (1984), and the
+three play areas described by the author from breeding sites in Wales (Appendix A), descriptions of cub
+playgrounds are absent from published research.All the playgrounds described are characterised by a
+large area of flattened vegetation (for example, 20 m2 at one site in Scotland) with tunnels and paths
+centred around either a fallen or standing tree.
+3.3.5 Year-to-year use of natal dens
+Surveys at Site 1 (Appendix A) over a period of five consecutive years in the 1980s and in two further
+years in the early 1990s suggest that a different natal den site may be used each year at some breeding
+sites.The breeding site at Site 1 (Appendix A) covers about 4 ha of neglected agricultural land, and is a
+patchwork of scrub and tussock grass habitats providing several potential natal den sites. By contrast,
+Leon Durbin (pers comm.) considers that the boulder pile within the narrow woodland breeding site
+was the only obvious place for a natal den. However, it is not known whether this site was used in
+subsequent years.
+Anecdotal evidence from Site 3 (Appendix A) suggests that a suitable natal den site can be used in
+subsequent years (R. & J. Johnston, pers comm.). At this particular breeding site, the tree root natal den
+beneath the rhododendron is the only available site.
+3.4 Food availability
+Authors working in different parts of the otter’s range, and in both freshwater and marine
+environments, have demonstrated that seasonal peaks in cub births coincide with the availability of
+maximum fish biomass at the time when energetic demands on the mother (during lactation when cubs
+start to receive solid food) are greatest (Kruuk et al. 1987; Heggberget & Christensen 1994; Elmeros &
+Madsen 1999).The abundance and availability of food at that time is not only likely to dictate the
+nutritional status of the cubs, but also the mother’s periods of absence from the natal den (Durbin
+1996) and her own nutritional status. A poor nutritional status may result in the female deliberately
+abandoning a cub to reduce litter size (Kruuk et al. 1991).
+The apparent peak in otter births in Wales in the autumn and winter months (see Section 2.2) would
+mean that the greatest energetic demand on breeding females is between January and May.These five
+months coincide with three events that could provide otters with potentially abundant and readily
+available prey.
+The common frog (Rana rana) is widespread throughout Wales and is known to gather in large
+numbers in suitable habitats to breed from January to March.The appearance of amphibians in the
+otter’s diet, and particularly in the winter and spring, is well documented (Mason & Macdonald 1986).
+A study on the seasonal exploitation of amphibians by otters (Weber 1990) estimates frog populations
+during spawning in marshy areas within north-east Scotland to be in the region of 114 individuals per
+hectare, with 60 individuals per hectare in grassy areas. For one particular marsh, where otters were
+known to feed on amphibians during the winter and spring, an estimate of 480 frogs per hectare was
+calculated.Very heavy predation of frogs has been observed over a period of weeks at a spawning pond
+in south Wales (G. Liles, pers obs).
+The presence of large numbers of frogs in a relatively small area could provide female otters with
+abundant and easily caught prey. In addition, the types of habitat that support significant frog
+populations (marshes, ponds and lakes) may also provide ideal otter breeding sites.
+A second event is the movement of large salmon and sea trout as they continue their migration upriver
+during autumn and winter floods. During this time, very large fish get into tributaries less than 2 m
+Conserving Natura 2000 Rivers
+14
+
+
+wide (D. Scranney, Environment Agency Wales, pers comm.). In January, salmon finish spawning and many
+die as kelts.
+A third event occurs from April to May in Wales, when the main smolt migration for salmon and sea
+trout starts.These fish are between 12 and 16 cm and accumulate in pools ready for mass migration
+down to the sea during the night. Otter predation on smolts during the day in May has been reported
+by Environment Agency Wales staff (D. Scranney, pers comm.).
+4. Locating likely and potential breeding sites 
+4.1 Introduction
+The ability to locate and protect otter breeding sites and key feeding resources associated with them is
+likely to play an increasingly important role in maintaining or restoring otter populations on SAC rivers
+at favourable conservation status, as required in the EC Habitats Directive (43/93/EEC).
+However, locating and confirming that a site is used for breeding is not straightforward. A few breeding
+sites have been found during radio-telemetry studies on otters (Section 3.2 above) but very few sites
+have been located and confirmed by colleagues carrying out routine otter surveys on rivers that
+support widespread otter populations. Following a request for information on breeding sites to
+colleagues in the Wildlife Trusts Otter Project, only two (N. Mott & K. O’Hara) were able to document
+suspected or known otter breeding sites.The failure to confirm breeding at sites during surveys is likely
+to be due mainly to the fact that otters often breed in secure, well-hidden sites (see Section 3.2.4). It is
+also possible that field signs associated with breeding are overlooked.
+It may be possible to confirm otter breeding by carrying out surveys to identify natal dens from field
+signs, and a methodology for this is suggested below. However, because the methodology is still being
+developed and is time-consuming, it is not included in the procedure for locating otter breeding sites.
+4.2 Aim
+The aim of the procedure is to identify sites that are:
+z The likely breeding site(s) associated with a known otter breeding event.
+z Potential breeding sites where no otter breeding records exist.
+The procedure is based on the author’s experience of surveying otters in Wales and, in particular, on
+surveys carried out over several years at sites where otter breeding was suspected or confirmed.
+The information collected on likely and potential breeding sites should be sufficient to carry out
+conservation action (protecting, enhancing and creating breeding sites). If time and resources are
+available the methodology to identify natal dens can be used at selected sites.
+4.3  Identifying breeding sites
+The main actions in the procedure are:
+z Locate an otter breeding activity site.
+z Identify potential otter breeding sites likely to be associated with the breeding activity.
+z Identify likely major food resource(s) associated with the breeding site.
+If time and resources are available the methodology to identify natal dens can be used at likely breeding
+sites (see Section 4.4).
+Otter Breeding Sites
+15
+
+
+Action 1: Locate an otter breeding activity site
+The first task is to establish where in the catchment otter breeding has taken place.
+Step 1.Interrogate otter records from relevant organisations for evidence of pregnant and
+lactating females, and cubs 
+Several organisations in the UK are likely to hold otter breeding activity records, including the Wildlife
+Trusts; the Environment Agency; English Nature; Countryside Council for Wales; the Royal Society for
+the Prevention of Cruelty to Animals (RSPCA); and Scottish Natural Heritage.
+Other types of otter record can provide information that indicates where in a catchment breeding has
+occurred:
+z Otter road casualty records. Otter road casualty data for Wales are collated by the 
+Environment Agency Wales for the Roads and Otters Steering Group. In England the data are 
+collected within Environment Agency regions.
+z Records of young orphan otters (approximately < 4 months). Information on the location of 
+orphaned otters should be treated with some caution. Although some cubs will be found 
+close to where they were abandoned or near where the female has been killed, there may be 
+instances (for example, when rivers are in spate), where cubs may be found several kilometres 
+from where they originated.
+z Otter sightings reports.
+Information from these records usually provides a precise location (for example, a six-figure grid
+reference) for otter breeding activity. For some cSAC rivers supporting widespread otter populations, a
+mechanism for collecting and recording this information may already exist.
+Where records are scarce or absent a procedure to gather data on otter road mortalities and sightings
+should be established (Step 2).
+Step 2. Set up procedures to gather data on otter road mortalities and sightings
+A mechanism to collect and collate otter road mortality information should already exist (Note Step
+1). For collecting recent historical and contemporary information on sightings of cubs and orphans
+three approaches can be used:
+z A general approach to the public through media publicity.
+z A targeted campaign aimed at people living near cSAC rivers. Many people see otters but do 
+not report the sighting to conservation organisations unless they are requested to do so. In a 
+well-publicised campaign to record otter sightings in Wales (called Have you seen an otter?) 
+over 250 otter sightings were reported between 1985 and 1998, and many of these were 
+corroborated sightings of cubs (G. Liles, unpub. data).As part of this project, farms and houses 
+close to the middle and upper reaches of the main Afon Teifi were visited to ask owners for 
+information on otter sightings. Out of 27 farms and houses visited, 23 (85%) reported seeing 
+otters, and seven of those (30%) were cub sightings.
+z A request for information from anglers through local angling clubs.
+z A request for information from the RSPCA.
+Action 2. Identify potential breeding sites 
+Steps 1 and 2 above should provide a point location for otter breeding at a particular place within the
+river catchment. For most of these records it is assumed that the location of the animal found or seen
+is relatively close to the breeding site, or at the very least, is within the breeding female’s home range.
+The aim of the next three steps is to locate blocks or areas of cover that lie within the likely home
+range of a breeding female that can provide potential habitat for a breeding site.The three steps are:
+z
+Step 3. Establish a search area.
+Conserving Natura 2000 Rivers
+16
+
+
+z
+Step 4. Identify likely or potential breeding site(s).
+z
+Step 5. Confirm potential breeding sites through field surveys.
+Steps 3 and 4 are accomplished through a desk study. Step 5 requires field surveys to determine the
+potential of habitats as breeding sites based on factors such as habitat quality and levels of disturbance.
+Step 3. Establish a search area (desk study)
+The precise location of known otter breeding activity provides a point around which an approximate
+home range for a breeding female can be calculated. It is within this geographical area that a search is
+made for potential breeding sites.
+Establish the boundary of the search area on a 1:25000-scale map by selecting the stretches of
+watercourse and areas of wetland likely to be used by the breeding female associated with the otter
+breeding activity site.The amount of waterway encompassed within the search area is based on either
+the total length of waterway (15 km) or the area of water (20 ha) thought to constitute a female home
+range. Calculating 20ha of water may be possible using GIS mapping software such as MapInfo.
+Although the location of the known otter breeding activity provides a point around which the search
+area can be calculated, it does not necessarily form the centre point of the search area. For ease of
+reference, boundaries of the polygon are drawn to coincide with 10 km national grid lines.
+Step 4. Identify likely or potential breeding sites (desk study)
+Habitats likely to provide suitable cover for breeding include:
+z
+Extensive reed beds.
+z
+Lakes and ponds.
+z
+Deciduous woodland.
+z
+Young conifer plantations.
+z
+Extensive areas of scrub.
+z
+Features such as large areas of blockstone or boulders, and buildings/structures immediately 
+adjacent to watercourses.
+Based on present knowledge, it is likely that most otter breeding sites will be adjacent and linked to a
+watercourse, wetland or waterbody (even if natal dens are some distance from the water’s edge).
+However, in view of the paucity of information on breeding sites available, potential sites that are not
+directly connected to water should be considered. Locate areas of cover within the search area likely
+to provide breeding habitat, using:
+z
+OS Explorer or other large-scale maps.
+z
+Phase 1 habitat maps. These are available for much of England and Wales, and are held by 
+English Nature and the Countryside Council for Wales.The maps, at a large scale, show the 
+type of habitat in each parcel of land identified using a standard colour and symbol code.
+z
+Aerial photograph. Digital aerial photographs are usually available at 1:10000 scale, and can be 
+used either in conjunction with Phase 1 maps (to ensure that areas of suitable cover are not 
+overlooked), or instead of them, where Phase 1 maps are not available. Organisations that 
+old copies of aerial photographs include English Nature; the Countryside Council for Wales;
+county councils and national parks.
+z
+UK Environment Agency River Corridor Surveys.
+z
+Information from local Otter Projects. Detailed assessments of habitat availability and 
+potential refuge sites for otters exist for some catchments, such as the Thames (G. Scholey,
+pers comm.).
+Check whether any areas have nature reserve or similar status, and gather relevant information on
+sites, using information from organisations such as the Wildlife Trusts, RSPB, English Nature and the
+Countryside Council for Wales.
+Otter Breeding Sites
+17
+
+
+Check whether any sites are subject to flooding using the Environment Agency Geophysical Information
+System (GIS) Indicative Flood Plain Mapping. Maps are compiled by the Environment Agency to identify
+areas at risk from flooding (see Plate 5).The likelihood and frequency of flooding at potentially
+important sites should be checked with local Environment Agency flood defence engineers. Floodplain
+areas should not automatically be excluded as they may support breeding sites.
+Step 5. Confirm potential breeding site through field surveys
+The aim of the survey is to determine whether areas of cover selected in Step 4 satisfy the
+requirements for otter breeding sites.
+It may be reasonable to carry out the survey at a time of year when otter breeding at the site has been
+recorded previously. However, caution should be exercised in adopting this strategy since breeding
+activity may take place outside this period. In many instances, there will be no previous breeding site
+records. Landowner permission for surveys is vital.
+The following survey methodology is intended to provide a brief assessment of cover and the
+likelihood of disturbance within the potential breeding site.
+Survey methodology
+General
+z All watercourses within the site should be walked, including very small streams.
+z Ideally, surveys should be conducted along river or stream beds (using waders), in order to 
+reduce disturbance and damage to bankside habitats.
+z A range of photographs should be taken to show important features.
+During the survey the following information should be recorded and mapped (using large-scale maps):
+z Habitat types and land use (within and immediately surrounding the site).
+z Size and description of watercourses, wetlands and waterbodies.
+z Specific habitat features that could provide natal dens, such as very dense scrub, large boulder 
+piles and areas of tussock sedge.
+z Disturbance – extent, levels, and type (for example, people, dogs and livestock).
+Action 3. Identify major food resource(s) associated with the breeding site
+Although the distances from breeding sites to feeding areas travelled by breeding females with
+dependant young are not known, it is assumed that an abundant food supply will be located within a
+few kilometres of optimal breeding sites so that time away from cubs, and energy demands on the
+female are kept to a minimum.
+Step 6. Locate likely food resource(s) 
+Sites most likely to provide an abundant food supply include:
+z Watercourses with known good fish populations.
+z Estuaries and coastline.
+z Amphibian breeding sites (ponds, lakes and wetlands).
+z Fish farms and still water fisheries.
+Information on fish distribution and population densities in England and Wales is available from the
+Environment Agency.
+Little information is available on the location of amphibian breeding sites, although some sites may be
+recorded by the Countryside Council for Wales, English Nature and the Wildlife Trusts.
+Potential significant amphibian breeding sites may be identified from large-scale maps, Phase 1 maps and
+River Corridor Surveys.
+Conserving Natura 2000 Rivers
+18
+
+
+Fish farms and still-water fisheries can be located through the Environment Agency and are often
+shown on large-scale maps. Otter predation incidents for some sites may have been recorded by the
+Environment Agency and the local otter project.
+The value to otters of potential amphibian sites and fish farms/still water fisheries can be verified
+through surveys carried out at the appropriate time of the year.
+4.4 Identifying natal dens
+Experience of surveying otter breeding sites in Wales (G. Liles, pers. obs) and evidence from some
+published research (for example, Moorhouse 1988,Taylor & Kruuk 1990) suggests that, where substrate
+and cover allows, natal dens can be located together with recognisable field signs. Field signs include:
+z The sudden appearance of a heavily used path or paths, from the water, usually into dense 
+cover or an enclosed structure, such as a tree root system or a hollow trunk.
+z A natal den, usually only visible at above-ground sites such as scrub thickets and reed beds.
+z A latrine containing a very large number of spraints at the natal den, and usually within 1 to 
+2 m of it.
+z A cub play area – for example, a well-worn path around a tree or in a circle up and down the 
+bank.
+At breeding sites that are used over a period of many years, some features such as cub play areas can
+be visible throughout the year (see Appendix A, Site 1).
+It should be stressed that the methodology outlined below is still being developed. Information from
+radio-telemetry studies at breeding sites and natal dens provides conflicting evidence regarding the
+presence or absence of field signs at natal dens (Green et al. 1984,Taylor & Kruuk 1990), and further
+research into this aspect of otter breeding ecology is needed.The methodology is included here in the
+hope that it can be tested at some sites as a final part of the procedure to locate potential otter
+breeding sites.
+Survey methodology
+General
+z All watercourses within potential breeding sites should be searched, including small streams.
+z Ideally, surveys should be conducted along river or stream beds (using waders) to reduce 
+disturbance and damage to bankside habitats.
+z Photographs should be taken to show important features.
+Survey timetable
+The timing of surveys at potential breeding sites is critical, and should be organised so that the site is
+not disturbed from the period immediately before assumed breeding all the way through to the time
+when cubs leave the natal den.
+A survey should be carried out in each of the seasons leading up to the assumed month of breeding
+activity (based on the date of the original breeding activity report), and again three months after
+breeding is assumed to occur. So, for example, if the assumed breeding month is December, the survey
+programme (with survey months underlined) would be:
+December  January  February  
+March  April May 
+June  July August 
+September October November
+Information to be recorded and mapped (using large-scale maps), during the survey should include:
+Otter Breeding Sites
+19
+
+
+z Otter activity
+ Location and description of all sprainting sites, and numbers of spraints (recorded as 
+‘fresh’,‘recent’ and ‘old’).
+ Size of otter prints.
+ Otter resting sites, including a detailed description of evidence for past and present use.
+ Evidence of otter play areas, such as paths around trees,‘slides’ down banks, and a 
+description of the evidence for past or present use.
+z Mammal activity
+ Mammal pathways (and species if known) within 10 m of the water. Particular attention 
+should be given to paths that lead from the water onto the bank. Detailed descriptions of 
+these are needed, including width of path, height of bank, habitat into which path leads,
+evidence for past or present use.
+ Mammal signs, especially those of badgers, mink and dogs.
+z Additional information
+ If signs of breeding activity are found in any of the surveys, additional information is 
+needed – spraints at latrines should be collected for analysis.
+ Natal dens (and otter access paths), should be recorded on sketch maps with dimensions 
+noted.
+ Cub play areas should be recorded and sketched, with dimensions.
+5 A stategic approach to breeding-site conservation
+5.1 Introduction
+One of the main aims for otter conservation in SACs is to ensure that otter populations in the
+catchment can be sustained at a favourable conservation status. For this to be achieved, suitable
+breeding sites must be available throughout river catchments from estuaries to headwaters, and
+including main rivers and small streams.
+It is proposed that the conservation of otter breeding sites should be tackled at the river catchment or
+sub-catchment level.
+Three conservation actions are likely to be required in order to ensure that breeding sites are
+available:
+z Protecting existing breeding sites (both actual and potential).
+z Creating or enhancing new sites for otter breeding.
+z Protecting or creating feeding sites associated with breeding sites.
+All three actions are likely to be required in most river catchments, but it will be important to establish
+priorities for the catchment that identify the type and location of work required.The procedure
+outlined below is designed to provide an overview of habitats suitable for otter breeding and feeding so
+that priorities can be established.
+Conserving Natura 2000 Rivers
+20
+
+
+5.2 Breeding-site conservation at the catchment and sub-
+catchment level 
+The procedure for identifying priorities for otter breeding site conservation described below can be
+used for all SAC catchments regardless of the present status of otters. Although the procedure as
+described assumes that otters are present, it can be applied to catchments where otters are absent or
+in very low numbers by omitting Section 5.2.1 (l).
+5.2.1 Identifying priorities
+I.
+Locate and map all likely breeding sites associated with breeding activity records within the 
+catchment or sub-catchment using the procedure described in Section 4.
+2. Identify potential breeding sites on parts of the catchment where no breeding activity 
+records exist, using Phase 1 Habitat Surveys, River Corridor Surveys, aerial photographs, and 
+information from otter project surveys.
+3. Use information from l and 2 above to identify parts of the catchment where cover for 
+breeding sites is scarce or absent.
+4. Identify parts of the catchment where fish populations are poor, using Environment Agency 
+fishery data.
+5.2.2 Conservation action
+Steps l to 4 above provide an overview of both the distribution of available breeding sites within the
+catchment or sub catchment, and parts of the catchment where breeding habitat and feeding sites are
+scarce or absent.
+To ensure that suitable breeding sites are available throughout catchments, it is recommended that:
+z All likely and confirmed breeding sites and feeding sites associated with breeding 
+activity records are protected (by extending the boundaries of SACs where necessary).
+z A selection of the best potential breeding sites and feeding sites are protected.
+z Breeding sites are created in parts of the catchment where likely and potential sites are 
+absent or very scarce to ensure that suitable habitat is available throughout the catchment.
+Overall priority for conservation action should be given to the protection and management of likely or
+confirmed breeding sites and associated feeding sites. It should be noted, however, that some of the
+habitats that provide breeding cover (for example, the early years of a newly planted conifer plantation)
+will have a limited lifespan.The long-term protection of these sites may not be appropriate.
+Recommendations for practical management work at specific sites are described in Section 6.
+6 Management guidelines for protecting and
+creating otter sites 
+6.1 Introduction
+These guidelines cover:
+z The protection and management of existing breeding sites (likely, confirmed and potential).
+z The creation of new breeding sites.
+Otter Breeding Sites
+21
+
+
+6.2 Existing breeding sites – protection and management
+6.2.1 General guidance
+z Likely, confirmed and potential breeding sites should be protected from 
+destruction, damage and disturbance.The aim should be to protect the entire site.
+z Practical management within the breeding site should normally take place outside the 
+breeding period.
+z Depending on the range and quality of habitats within the breeding site, some practical 
+habitat management may be necessary to maintain its value as a breeding site – for example 
+at breeding sites where opportunities for otters to establish natal dens are limited, and where 
+existing suitable sites or cover deteriorates, work may be needed to replace or improve 
+habitats.
+6.2.2 Practical habitat management options
+z A rise in water levels in wetlands may reduce areas of dry land.Water levels can be 
+manipulated to maintain dry ‘islands’ (although consent may be required).
+z Some natal den structures (for example, hollow tree trunks, piles of timber) have a limited 
+lifespan and will eventually collapse.Where alternative opportunities for natal dens are poor,
+suitable replacements can be created (for example through scrub planting) or constructed,
+such as logpile holts, which will last for approximately 10 years (G. Liles, unpub. data).
+z Livestock trampling can damage and destroy dense cover and open up areas to disturbance. It 
+may be necessary to erect or repair stock-proof fencing.
+z Blackthorn and gorse thickets can provide very dense secure cover when young, but become 
+tall and ‘leggy’ with age. Coppice management can be used to regenerate dense cover at 
+ground level.
+z On some river catchments rhododendron and laurel thickets provide the best cover for 
+otters and may constitute vital cover in some breeding sites.The reduction and elimination of 
+these alien species should be carried out in stages, replacing with native scrub to provide 
+cover within breeding sites.
+z Natal dens within the root system of large, mature trees growing on the banks of 
+watercourses and waterbodies and leaning over the water may be vulnerable to collapse or 
+tree management. Coppicing or pollarding can help to ensure that the tree will not topple 
+over, and may greatly increase the lifespan of the natal den. Care must be taken to ensure that 
+the den is not in use when management is to be carried out.
+z Some areas of land already protected as nature reserves and established to protect habitats 
+and species other than otters, may also provide otter breeding sites. Habitat management of 
+these sites (for example, the removal of scrub from extensive reedbeds to encourage 
+bitterns) can conflict with the interests of otters. It is likely that only relatively small areas 
+within the nature reserve (for example, 10 m x 10 m patches of dense scrub or logpile holts) 
+need to be maintained in order to provide potential natal dens for otters.
+6.3 Creating new breeding sites
+6.3.1 General guidance
+A number of factors should be considered when deciding where to create a new otter breeding site.
+z The site must be free from any risk of flooding, and in an undisturbed area (or where the 
+large size of the site means that public and livestock access can be controlled).
+Conserving Natura 2000 Rivers
+22
+
+
+z Breeding sites can be created on any part of the river catchment (regardless of the size of the 
+watercourse) but a major consideration must be the proximity of the site to a likely food 
+supply.
+z Where possible, preference should be given to enhancing sub-optimal sites. Existing nature 
+reserves and land already managed for wildlife in agri-environment schemes (such as Tir Gofal 
+in Wales) may provide ideal habitat enhancement opportunities.
+z Sites should be as large as possible, and contain a range of habitat types and features that can 
+provide potential natal dens.
+z Care should be taken to avoid creating breeding sites on watercourses where females and 
+cubs are likely to be vulnerable to road traffic.Typical situations where this may occur are:
+
+At bridges and culverts that are impassable to otters at high water.
+
+At watersheds that are bisected by a road.
+
+Where otters are likely to take a short-cut while travelling, or to reach a feeding site.
+z In situations where these threats cannot be avoided, it may be possible to build-in mitigation 
+measures (for example, dry otter culverts or bolt-on ledges, and otter fencing), to reduce the 
+threat. For further information on road mitigation measures see Grogan et al. (2001), and 
+Liles & Colley (2000).
+z Breeding sites should not be created within 10 km of a fish farm or stocked lake unless the 
+fishery owner has been consulted and agreement reached on the acceptance of likely losses 
+of fish to otters, or the construction of an otter barrier such as fencing. For further details on
+excluding otters from fisheries, see Liles (1999).
+6.3.2 Design and construction
+The following suggestions for the design and construction of otter breeding sites are relevant for
+enhancing sub-optimal sites and creating new breeding sites.
+The design aim should be to create a mosaic of habitats (that can be based on one dominant habitat
+type) to maximise the variety of natal den sites that are available. Examples are:
+z Woodland. Mature woodlands with sparse ground cover often have little value for otters,
+partly because there are few natal den sites, and because open woodlands are easily 
+disturbed.The aim should be to create woodlands with a widespread scrub layer, and specific 
+features that can provide potential natal den sites.Two possible features are areas devoid of 
+trees and dominated by dense scrub (using 10 m x 10 m as a minimum area), especially 
+bramble (Rubus fruticosus), dog rose (Rosa canina), and gorse (Ulex europaeus); and logpile holts.
+Ideally, features should be within a few metres of water (including very small streams and 
+ditches).The woodland scrub layer should be maintained by coppice management to ensure 
+dense cover at ground level.
+z Scrub. Large areas of scrub, or rank grassland with scrub, are likely to provide good breeding 
+sites because natal den sites are often abundant, and human access is difficult. An advantage 
+of creating a scrub breeding site is that, where water tables are suitable, amphibian ponds can 
+also be established to provide otter feeding sites.
+z Wetlands.Where wetlands are created, the mosaic of habitats can be achieved by, for 
+example, building up dry islands on which local scrub species can be planted or a logpile holt 
+constructed, and by creating areas of open water. In very big sites it may be possible to create 
+a network of 2 m wide waterways that link areas of open water. Specific features that provide 
+natal dens sites (such as dry islands) can be situated close to open water or a watercourse.
+Otter Breeding Sites
+23
+
+
+7 Recommendations for future work
+Further research is urgently needed into all aspects of otter breeding ecology and behaviour. In
+particular, far more information is needed on individual breeding sites. Although there are many
+problems inherent in studying breeding sites, work on the present project has identified two potential
+opportunities:
+z All natal dens and breeding sites previously identified through research, and confirmed 
+through field evidence and sightings, should be investigated for recent evidence of breeding 
+and studied in detail where appropriate.
+z Evidence for otter breeding and breeding sites is occasionally discovered by chance by 
+colleagues working on other aspects of otter conservation and research. A mechanism to 
+rapidly provide funding and personnel to take advantage of this opportunity to investigate 
+breeding sites in detail could be established.
+Specific topics for investigation are outlined below:
+z The differences between optimal and sub-optimal breeding sites.
+z The size that breeding sites need to be to offer ideal conditions for otter breeding in relation 
+to levels of disturbance.
+z The role that disturbance plays in determining where otters will breed, particularly in relation 
+to proximity to disturbance, type of disturbance, the habitat structure of the breeding site,
+and the types and location of natal dens.
+z Predation of otter cubs by mammals such as badgers, foxes and dogs is not known to occur.
+However, otter cubs born in above-ground sites could be vulnerable to predation.
+z Bedding has been recorded in natal dens but is also found in daytime resting sites. As part of 
+a study to investigate otter use of logpile holts (G. Liles, unpub. data) bedding was removed 
+from several holts and mammal hair was extracted and identified (Cowell et al. 2001). Many 
+otter hairs were found in the bedding. However, there appears to be no method for 
+identifying adult from cub hair.The ability to identify very young (<3 months old) cub hair 
+would provide a valuable tool for confirming otter breeding.
+z Eels (Anguilla anguilla) are an important part of the otter’s diet in most habitats, and may be 
+particularly important during breeding. However, very little is known about trends in eel 
+populations.
+z The proposed methodology for identifying natal dens should be tested in different types of 
+habitat.
+z The provision of otter breeding sites in areas where natural sites are scarce or absent may be 
+especially important for some river catchments. SAC rivers that support good otter 
+populations offer the ideal opportunity to experiment with management techniques to 
+enhance or create breeding sites. Monitoring of results will be essential.
+Conserving Natura 2000 Rivers
+24
+
+
+Acknowledgements
+I would like to thank the Life in UK Rivers Ecological Co-ordinator, Ann Skinner, for all her help,
+support and patience throughout this work.
+Many colleagues very kindly provided information on a range of otter breeding related topics, such as
+the timing of and evidence for otter breeding. I am especially grateful to Adeline Bradshaw, Jim and
+Rosie Green, Gordon Woodroffe,Adam Grogan, Jamie Bevan, Rob Colley, Brian Dove,Tom Fairfield,
+Jonathan Gilpin, Duncan Glenn, Chris Hall, Bob Haycock , Jenny Higgins, Sylvia Jay, Jimmy Jones, Chris
+Lawrence, Neil Mathew, David Mackinnon-Wood, Nick Mott, Jane O’Dwyer, Kevin O’Hara, Nina
+Pritchard, Fred Slater, Graeme Smart, Jonathan Stone, Dave Welton, James Williams, Laura Winter, and to
+Paddy Sleeman for information on badgers and otters.
+Thanks also to Ben Wilson, Dan Forman and Adeline Bradshaw for their help with the production of
+maps and graphs, and to Dave Scranney and Ben for their advice and information on fish distribution
+and behaviour.
+Several landowners kindly gave me permission to survey, but special thanks are due to Ray and Judy
+Johnstone, Eileen Haddow, Mr Absalom and Mr and Mrs Morgan for their cooperation and information.
+Finally my thanks to Graham Scholey and Ruth Warren for their very helpful comments on the report.
+Otter Breeding Sites
+25
+
+
+References
+Andrews EM & Crawford AK (1986). Otter survey of Wales 1984–85.The Vincent Wildlife Trust, London.
+Andrews E, Howell P & Johnson K (1993). Otter Survey of Wales 1991.The Vincent Wildlife Trust,
+London.
+Bradshaw AV & Slater FM (1999). Dead otters: Post mortems and Tissue Analysis. R&D Technical Interim
+Report. Llysdinam Field Centre, Cardiff School of Biosciences, Cardiff.
+Chanin PRF (1993). Otters.Whittet Books, London.
+Chanin, PRF (2003). Ecology of the European Otter Lutra lutra. Conserving Natura 2000 Rivers Ecology
+Series No. 10. English Nature, Peterborough.
+Cowell D,Thomas G, Liles G, Bradshaw A., Midgley L, Slater F. (2001). Monitoring the use of artificial log
+pile otter holts using hair analysis from bedding. IUCN Otter Specialist Group Bulletin 18, 1.
+Durbin l (1996). Some changes in the habitat use of a free-ranging female otter Lutra Lutra during
+breeding. J. Zool. Lond. 240, 761–764.
+Elmeros M & Madsen AB (1999). On the reproduction biology of otters (Lutra lutra) from Denmark. Z.
+Saugetierkunde 64, 193–299.
+Foster-Turley P, Macdonald SM, and Mason CF (1990). Otters, an action plan for conservation. International
+Union for the Conservation of Naure, Gland.
+Green J, Green R, and Jefferies DJ (1984). A radio-tracking survey of otters Lutra lutra on a Perthshire
+river system. Lutra 27, 85–145.
+Harper RJ (1981). Sites of three otter (Lutra lutra) breeding holts in freshwater habitats. J. Zool. Lond.
+195, 554–556.
+Heggberget TM & Christensen H (1994). Reproductive timing in Eurasian otters on the coast of
+Norway. Ecography 17, 339–348.
+Henshilwood DA (1981). Status and diet of the otter (Lutra lutra) at Bosherston Lakes, Dyfed. unpublished
+report, Nature Conservancy Council, Peterborough.
+Hewson R (1969). Couch building by otters Lutra lutra. J. Zool. Lond. 159, 524–527.
+Jefferies DJ (1987).The effects of angling interests on otters with particular reference to disturbance. In:
+Maitland PS & Turner AK (eds). Angling and Wildlife in Fresh Waters. Institute of Terrestrial Ecology,
+Grange-over-Sands, 23–30.
+Jenkins AL (1982). Otter distribution on the Western Cleddau.Vincent Wildlife Trust/Nature Conservancy
+Council,Aberystwyth. 91pp.
+Jenkins D (1980). Ecology of otters in northern Scotland. 1. Otter (Lutra lutra) breeding and dispersion
+in mid-Deeside,Aberdeenshire, in 1974–79. J. Anim. Ecol. 49, 713–735.
+Kruuk H (1995). Wild Otters. Predation and Populations. Oxford University Press, Oxford.
+Kruuk H, Conroy JWH & Moorhouse A (1987). Seasonal reproduction, mortality and food of otters
+(Lutra lutra L.) in Shetland. Symp. Zool. Soc. Lond. 58, 263–278.
+Kruuk H, Conroy JWH & Moorhouse A (1991). Recruitment to a population of Lutra lutra in Shetland,
+in relation to fish abundance. J. Applied Ecol. 28, 95–101.
+Liles G. (1999). Otter (Lutra lutra) predation at still water fisheries: Guidance notes for Advisors.The Wildlife
+Trusts, Lincoln.
+Liles G & Colley R (2000) Otter Lutra lutra road deaths in Wales: Identification of accident blackspots and
+establishment of mitigation measures. Environment Agency Wales,Aberystwyth.
+Mason CF & Macdonald SM (1986). Otters: Ecology and Conservation. Cambridge University Press,
+Cambridge.
+Conserving Natura 2000 Rivers
+26
+
+
+Mathew NR (1992). Some observations of the otter (Lutra lutra) on the River Tywi at Llandeilo. Llanelli
+Naturalists Newsletter. Summer 1992, 23–39.
+Neal E & Cheeseman C (1996). Badgers.T & AD Poyser Natural History, London.
+RSNC [Royal Society for Nature Conservation] (2001). Otters Return. A review of the Water UK and
+The Wildlife Trusts Otters & Rivers Project: 1998–2001. RSNC, Newark).
+Simpson VR (1998). A Post Mortem Study of Otters (Lutra lutra) Found Dead in South West England. R & D
+Technical Report W148 Environment Agency, Bristol.
+Stephen MN (1957). The Otter Report. Universities Federation for Animal Welfare, Potters Bar, London.
+Strachan R, Birks JDS, Chanin PRF & Jeffries DJ (1990). Otter Survey of England 1984-1986. Nature
+Conservancy Council, Peterborough.
+Taylor PS & Kruuk H (1990).A record of an otter (Lutra lutra) natal den. J. Zool. Lond. 222, 689–692.
+Weber J-M (1990). Seasonal exploitation of amphibians by otters (Lutra lutra) in north-east Scotland. J.
+Zool. Lond. 220, 641–651.
+Vincent Wildlife Trust (1985).The Vincent Wildlife Trust Report, 1985. Vincent Wildlife Trust, London.
+Otter Breeding Sites
+27
+
+
+Appendix A: Otter breeding sites in Wales
+Site 1. Cleddau cSAC
+Location
+The site lies on the upper reaches of the River Cleddau in the Western Cleddau catchment, and is
+south of Fishguard in west Wales.
+Description
+The breeding site is an area of almost 4 ha of neglected agricultural land that is about 520 m long and
+between 60 m and 100 m wide, bordered on two long sides by the River Cleddau (3 m wide), and the
+Fishguard to Haverfordwest railway line.The ends are marked by a hedge and grazed field, and a ditch
+with Molinia wetland (see Map 1). A tributary of the River Cleddau, the Nant y Bugail, also flows
+through part of the site and joins the Cleddau about halfway along the breeding site.
+The habitat is a patchwork of dense bramble and gorse thickets, woodland, dense blackthorn thickets,
+tall rough grassland (mainly Phalaris, Molinia and Deschampsia spp.), and wetland dominated by Juncus
+spp.The site is ungrazed and undisturbed.
+The Cleddau is de-silted on a bi-annual basis by the Environment Agency to maintain drainage for
+agricultural fields on the opposite bank.
+Evidence for breeding
+The site was first surveyed by the author in 1979, and was surveyed regularly throughout the 1980s
+and the early 1990s. In August 1983, a dead otter cub (approximate age 4 months), was found in tall
+emergent vegetation within the stream channel close to a blackthorn thicket. A play tree that was
+found on the first visit was heavily used during a few months of each of the 12 years when surveys
+were carried out.
+A female with otter cub was seen in the breeding site in the early 1970s (Bernie Davies, pers comm.),
+and it is therefore possible that this has been a breeding site for at least 30 years.
+Further evidence is described below.
+Natal den(s)
+What is assumed to be the natal den was found on the banks of the Nant y Bugail in 1983.The natal
+den consisted of an area of bare flattened earth (approximately 1m), under a small gorse and bramble
+thicket. Leading from the chamber were two short latrine tunnels (each approximately 40 cm long),
+with very large piles of spraint (all recent, and covering an area of approximately 225 cm2, in each.
+Some fresh spraints were found nearby.The natal den was at the top of a 1 m high bank, and was
+situated about 1 m from the bank edge. A very well-used path led from the water up the bank and
+into the den.
+By September 1983, the natal den and path into it was still recognisable, but there were no signs of
+recent use. Evidence of regular use was found at the play tree, with many fresh spraints and paths
+radiating from the tree into surrounding grassland and scrub vegetation.
+Monthly surveys continued, and in March 1984, two very well-used paths suddenly appeared, leading
+from the water into a blackthorn thicket on the Nant y Bugail. Many fresh and recent spraints were
+found in a pile on the path immediately at the top of the stream bank, and many more old and recent
+spraints were found on the well-flattened area under the blackthorn adjacent to the paths. The play
+tree was well-used, with many spraints.
+In November 1987, a lactating bitch was killed on the A40 next to the Cleddau, and only 2 km
+upstream from the Llangwarren breeding site.
+Conserving Natura 2000 Rivers
+28
+
+
+During the survey in April 1990, another presumably natal den was found on the Nant y Bugail close to
+its confluence with the River Cleddau. Measurements and descriptions were taken during a subsequent
+visit with Stephen Evans (Nature Conservancy Council), and Roger Pratt (National Rivers Authority) in
+May 1990.The natal den was an oval of compacted earth (120 cm long and 68 cm wide) with a
+covering of dry fragments of ferns under a small, sparse bramble clump (maximum height of 37 cm),
+that had a very open canopy.The chamber was situated 2 m from the stream bank edge, and connected
+to it by a 15 cm wide path (Figure A1). Leading from the side of the chamber furthest away from the
+stream was a single short latrine tunnel, 30 cm long and 15 cm wide, with a very large pile of old
+spraints. Much of this spraint was collected for analyses, and showed that amphibians were the
+dominant prey item.
+Other features
+Year-to-year use of dens
+It was noticeable that a different natal den site was used in each of the years that surveys were carried
+out. As well as the two natal dens in bramble, and bramble and gorse described above, field signs
+suggested that, in other years, natal dens had been established in different parts of the extensive
+blackthorn thickets within the breeding site.
+Play area 
+During the period when breeding was recorded at the site, otters made regular use of an alder as a
+play area.The alder is on the top and edge of the stream bank, surrounded by tussock grass with
+bramble and blackthorn thickets beyond.The play area around the tree consisted of slides on each side
+of the trunk (and about 1.5 m from it), with a broad semi-circle of low, lush grass around the trunk and
+connecting the two slides.The play area was always clearly visible (because of the contrast between
+very green low grass and the surrounding tall, brown-stemmed grass), even when not in use.When in
+use, the greener grass became flattened, with many spraints scattered around, and the slides appeared
+muddy, with otter prints and scratch marks.
+Otter paths
+The triangular area of rough grassland between the Cleddau and the Nant y Bugail was well used by
+otters for travelling between the two watercourses. Many otter paths were visible (usually with spraint
+at intervals on tussocks), and could be clearly seen from the air.
+Possible disturbance from badgers
+Surveys in recent years have shown no evidence of breeding at the site. Spraint is still found along the
+Cleddau and Nant y Bugail, but there are no signs of intensive use, and the flattened area around the
+play tree and slides are overgrown. If breeding has ceased at this site, the reasons are unclear.The site
+remains undisturbed; fish populations have not changed; and habitats appear to be suitable. However, a
+change that may be significant is that badger activity on the site (first recorded in 1998) has increased.
+Site 2. River Teifi SAC
+Location
+This site is located in the lower reaches of the river about 4 km from the mouth of the estuary.
+Description
+The breeding site is an area of almost 50 ha of wetland, dominated by Phragmites reedbeds.Within the
+wetland are areas of dry land created by slate waste.The marsh lies alongside 1000 m of a tidal stretch
+of the Afon Teifi, and is fed by a small stream (the Piliau). A tidal flap at the Piliau confluence was re-
+instated in 2001.The site is owned by the Wildlife Trust West Wales, and is managed as a nature
+reserve. Areas of open water have been created within the reedbeds.
+The site is dominated by reedbeds, with a large area of elevated wooded land close to the upstream
+Otter Breeding Sites
+29
+
+
+end of the site, and a very small raised area covered in scrub at the downstream end. Although there
+are footpaths within the reserve, the reedbeds and the wooded, elevated area are not accessible to the
+public.
+Evidence for breeding
+Otter cubs are sighted each year by visitors to the reserve (C. Lawrence, pers. comm.). On January 1
+2002, two cubs were seen by R. Colley and T. McOwat (pers. comm.) in the Teifi at the upstream end of
+the marsh.The cubs were described as ‘half-size’, and noticeably buoyant.
+An interesting piece of circumstantial evidence was provided by David Mackinnon-Wood (pers. comm.).
+From mid-May to mid-July 1992, he walked his dog each evening along the banks of the Teifi
+immediately downstream (and in view of) the marshes reserve. Based on very regular sightings (about
+four each week), he discovered that an otter had established a regular pattern of behaviour.The animal
+emerged from the marshes (from the River Piliau), about 20 minutes before dark, and travelled slowly
+downstream, hunting in the same deep pools on each trip. On one occasion, Mackinnon-Wood
+watched the otter make 40 to 50 dives in one pool, eating on the surface after each dive.The otter
+also usually investigated a raft that was anchored to the river bed, often climbing out onto it and
+urinating before continuing on its way.
+Mackinnon-Wood  also watched the otter rolling on the raft after urinating, and witnessed the same
+behaviour in grass next to the river.This behaviour was also witnessed by the author in July 1992.
+As a follow-up to these sightings, investigations were made at a potential natal den site next to the
+River Piliau and close to its confluence with the River Teifi (found by the author during previous
+surveys of the marshes). Signs suggested that there was present or very recent heavy use of the site by
+otters (see below).
+Natal den(s)
+The possible natal den in use in spring/summer 1992 was a small ‘island’ of raised, dry ground
+(approximately 20 m diameter), covered by a dense blackthorn thicket and surrounded by extensive
+reedbed. A very obvious, well-used path led from a small ditch alongside the island up into the
+blackthorn thicket .A few spraints were found where the path entered the thicket.To avoid
+disturbance, no further investigations were carried out.
+Site 3. River Wye SAC
+Location
+The lake is on the Dulais Brook, a small tributary of the River Wye in its middle to upper reaches, 3 km
+north of the town of Builth Wells.
+Description
+The lake and its bankside habitats constitute the breeding site.The lake is 400 m long and relatively
+narrow, with a typical width of 50 to 60 m. At the eastern end of the lake a house is situated on a
+small peninsula of land. A small stream flows into the lake, and leaves via a small dam.
+The long south bank of the lake is managed mainly for access for walking and occasional fishing, and is
+bordered by areas of reed and mown grass.The north bank slopes up gently to a grazed field, with a
+narrow strip of woodland (approximately 160 m long) at the western end of the lake.
+Brown trout were introduced into the lake in 1989 and are now breeding freely. Eels are also plentiful,
+and there are enormous shoals of minnows. Bullhead and possibly stone loach are present.
+Evidence for breeding
+The previous owners have watched bitch and cubs many times, beginning in June 1995, and their
+Conserving Natura 2000 Rivers
+30
+
+
+sightings (dates and descriptions) are well documented and held by the author. In 1996, two adults
+were seen together on the lake from April to May, and on June 6, a female and two cubs emerged from
+a holt under the garage.The owners watched this family group regularly until the end of June.
+In 1997, two otters were seen together on the lake, and in the second week of February, a female
+emerged from the garage holt with two cubs.The three otters remained on the lake for most of the
+summer, and were seen playing in the weed on most nights.The owner described them as being
+“oblivious to us and our dog”.The otters left the lake in the first week of September.
+On the August 8, 1998, a female with a single, very small cub (8–10 inches long), emerged from the
+garage holt at midday, and the cub followed the female around the lake,“shrieking”. It was also heard
+shrieking on the following day, after which both animals disappeared.
+In 1999, two adults were seen together in early June, and at the end of June a female and two cubs
+appeared, and stayed on the lake until the end of July, always using the garage holt as the daytime lying-
+up site. Again, the otters appeared to have little fear of the presence of the owners.
+Natal den(s)
+The assumed natal den at this site is the beneath the garage.The garage itself is a separate building
+from the house. Between the back wall of the garage and the lake edge there is a 3 m wide strip of
+land dominated by a large, dense rhododendron bush. Beneath the rhododendron is the felled stump of
+a very large tree (possibly elm), with visible entrance holes.The area at the back of the garage is not
+used by the owners and is consequently undisturbed.
+Other features
+During the time when bitch and cubs were active on the lake, a small area of the bankside within the
+strip of low woodland on the north bank became very well trampled, with paths into the water. As this
+coincided with the presence of bitch and cubs, it is assumed that this site was used as a play area for
+the cubs.
+Site 4. Cleddau SAC
+Location
+This site is on the banks of the Western Cleddau in its lower reaches about 5 km north of the town of
+Haverfordwest, in west Wales.
+Description
+The breeding site covers 3.7 ha of mainly alder and willow woodland (100 m wide), along a 420 m long
+stretch of the main river (see map below). Most of the woodland is on a 45º slope, with a 20–30 m
+wide terrace of flat land immediately adjacent to the river.A short (almost 100 m long) backwater near
+to the mid-point of the site forms an ‘island’ of dense bramble and Phalaris with occasional trees. Land
+use on the opposite bank of the Western Cleddau is permanent grassland.
+The Western Cleddau supports good populations of salmonids and eels, and there are wetlands and
+ponds within 2 km of the site that support breeding frog populations.
+Evidence for breeding
+Field signs that provided circumstantial evidence for breeding were found initially in April 1986 during
+an otter survey carried out by the author (see below).
+Further evidence was provided by a local poacher who used cage traps to capture very young otter
+cubs at the site in the 1960s with the intention of training them to catch salmon (J. Jones, pers comm.).
+Cubs were caught in the spring, with cage traps set on the island close to holes that were assumed to
+be the natal den by Mr Jones. Mr Jones showed the author photographs of cubs in the trap, and on his
+Otter Breeding Sites
+31
+
+
+knee while he fed them.The estimated age of the cubs, based on their size in the photographs, was two
+months.
+Natal den(s)
+The assumed natal den that was found during surveys in April 1986 was located on the edge of the
+backwater (and about 1 m from the water’s edge), in a disused badger tunnel under a large, old, fallen
+alder.There was a very-well-worn path from the water into the tunnel, with many otter prints. Outside
+the entrance, and under the fallen tree trunk, was an accumulation of recent and fresh spraints.
+The possible natal dens at which Mr Jones set his cage traps were about 15 m from the assumed natal
+den described above, and were in a group of five disused badger setts, all of which were within 2 m of
+the main riverbank (riverbank height is 1.5 m).The dominant habitat immediately surrounding the dens
+was bramble with scattered alders, and a line of alders and willows along the river bank edge.
+Site 5. A lake SAC
+Location
+The lakes are situated close to the south Pembrokeshire coast (with their outflow into a bay)
+southwest of Pembroke town.
+Description
+The lakes (part of the Stackpole National Nature Reserve) are artificial, and formed by three flooded
+narrow limestone valleys.The area of water is 30 ha, and there is a very long lake edge of about 9 km.
+The width of the lakes varies from 200 m down to 60 m, and they are generally uniformly shallow –
+between 1.5 and 2 m deep.The lakes are fed by two small streams and many subterranean
+watercourses and springs from the surrounding limestone hills.
+The lakes are bordered by deciduous woodland on valley slopes, with extensive Phragmites reedbeds at
+the upper end of one of the arms of the lake.
+The lakes support significant populations of coarse fish – mainly eels, roach, pike and perch.
+Evidence for breeding
+A possible natal den site was found in  autumn 1981 by the (then) lakes warden during an otter survey
+of the lake system, and was shown to the author at that time (see below).
+Most of the evidence for otter breeding within the lake system is based on sightings. Since the first
+recorded sighting of four cubs by the present Countryside Council for Wales warden (Bob Haycock), in
+June 1987, and of two cubs in January 1988 (H. Garlick, pers comm.), otter families have been recorded
+in most years to the present (G. Liles, pers. obs., B. Haycock, pers. comm.).Views of otters at the lakes
+are usually very clear, partly because animals can often be seen close to the shore (at distances of
+between 5 and 30 m).The earliest estimated age of cubs seen by the author is 2 to 3 months. From the
+frequency of sightings through the spring and summer, it is possible that females with cubs are resident
+on the lakes during most of the period of cub rearing.
+Another relevant observation is provided by Bob Haycock, who watched an encounter between two
+otters in which one animal indulged in vigorous tail slapping on the ground.Tail slapping by a male as
+part of courtship behaviour has been recorded during a radio-telemetry study on otters, and has also
+been observed in captive males when sexually aroused (Green et al. 1984).
+Natal den
+The possible natal den site, found in 1981, was in a hollow, rotten tree trunk (Populus spp.) that had
+fallen onto a small dry island (about 80 m long and 15 m wide) in the upper section of the lake system,
+Conserving Natura 2000 Rivers
+32
+
+
+and separated from the rest of the lake by a stone bridge.The area around the island covers 4 ha, is
+heavily silted and dominated by dense Phragmites-Typha swamp.The island itself supported a range of
+tree species, including sycamore, holly, beech, holm oak, and horse chestnut, with a moderately dense
+ground cover of bramble. Access onto the island was difficult due to a dense shrub layer (dogwood)
+and a deep ditch.
+The tree trunk was approximately 5 m long and 40 cm diameter, and was covered with ivy. Part of the
+trunk lay in shallow water in the dense Phragmites and Sparganium. At least three entrances were
+visible, and a chamber at one end of the trunk had been lined with broken pieces of bur reed and hart’s
+tongue fern to form a substantial nest, and with a large depression consistent with an animal lying-up
+on the vegetation.Well-defined pathways led from the edge of the island to the tree trunk. A latrine
+was found at the base of an adjoining tree about 3m from the trunk, and this held a solid mass of old
+spraints that was 3 cm deep and 15 cm in diameter.
+The possible natal den was again found to be in use in 1987, when the site was surveyed by B. Haycock
+and K. Pyke. Similar signs of use were recorded, with pond sedge (Carex riparia) used as the bedding
+material.
+Other features
+During the visit to the site by the author in 1981, it was noticeable that an alder on the island had an
+obvious mammal path on the ground around the base of the tree. All vegetation in the area (covering
+about 8 m2), had been flattened and several fresh spraints were found on ivy leaves close to the log.
+Otter Breeding Sites
+33
+
+
+Appendix B. Otter breeding sites in England
+Site 1.Yorkshire 
+Information from Brian Dove and Gordon Woodroffe.
+Location
+The breeding site is on a flood-relief channel that flows into Scalby Beck (part of the River Derwent
+system) north of Scarborough.The site is less than 1 km from the sea.
+Description
+The breeding site is on a high, steeply sloping, wooded valley side, with housing along the top of the
+valley slope. Little information is available on dimensions of the site.
+The relief channel itself is stocked with brown trout each March by the local angling club, and there are
+many eels. In addition, because the site is less than 1 km from the sea, a variety of marine fish are likely
+to be available to otters.
+Evidence for breeding
+Information on breeding is provided by Brian Dove, who watched otter families in two years. In 1993, a
+female had two cubs that were first seen in May.The female was seen to return to the natal den with
+an eel to feed the cubs. In spring 1995, a single cub was seen with a female.The cub was very small, and
+was seen to support its head on its mother’s back when in the water.
+Natal den
+The possible natal den that was used in 1993 and 1995 was in a pile of old timber and garden rubbish,
+about 20 m up the steep bank. A track leading from the water up the slope to the pile of timber was
+visible. Although there were houses and gardens at the top of the slope, the woodland itself was
+inaccessible to people, and was undisturbed (B. Dove, pers. comm.).
+Site 2. River Tweed
+Natal den destruction incident
+Information for this site is available because a natal den, containing two very young male cubs, was
+discovered during riverside tree management operations.The information is provided by Duncan Glen,
+with additional details from Jim Green.
+Location
+The site is on the Bowmont Water, a tributary of the River Tweed in Northumberland, about 350m
+downstream from a road bridge on the B6351.
+Description
+The area surrounding the natal den was sparse mature broadleaved woodland on a steep bank, with a
+few bank-side willow bushes and reed canary-grass (Phalaris arundinacea) along the stream margins.The
+woodland ground flora was mainly butterbur (Petasites hybridus) which was about knee-high at the time
+of the incident.
+Evidence for breeding
+The two male cubs found in the natal den weighed 210 and 240 g (J. Green, pers. comm.), and so were
+very young (birth weights of otters are between 135–145 g).There are no records of otters breeding
+at this site before or after this incident.
+Conserving Natura 2000 Rivers
+34
+
+
+Natal den
+The natal den was inside a hollow elm tree growing on the riverbank.The tree had fallen into the
+stream and was angled downstream by floods so that it rested about 45º to the bank.The trunk was
+lying almost horizontal and about 1 m above normal water level.The root plate was exposed at the
+bank.
+The nest was carefully constructed of grass and sedge, and otter access into the holt was through a 30
+cm hole in the root plate.
+The cubs were left in the natal den for a night in the hope that the female would return, but had to be
+rescued the following day.Two days later, the river was in flood, and the natal den was underwater.
+Otter Breeding Sites
+35
+
+
+Conserving Natura 2000 Rivers
+Ecology Series
+1
+Ecology of the White-clawed Crayfish, Austropotamobius pallipes
+2
+Ecology of the Freshwater Pearl Mussel, Margaritifera margaritifera
+3
+Ecology of the Allis and Twaite Shad, Alosa alosa and A. fallax
+4
+Ecology of the Bullhead, Cottus gobio
+5
+Ecology of the River, Brook and Sea Lamprey, Lampetra fluviatilis, L. planeri and Petromyzon marinus
+6
+Ecology of Desmoulin’s Whorl Snail, Vertigo moulinsiana
+7
+Ecology of the Atlantic Salmon, Salmo salar
+8
+Ecology of the Southern Damselfly, Coenagrion mercuriale
+9
+Ecology of the Floating Water-plantain, Luronium natans
+10
+Ecology of the European Otter, Lutra lutra
+11
+Ecology of Watercourses Characterised by Ranunculion fluitantis and Callitricho-Batrachion Vegetation
+Monitoring Series
+1
+A Monitoring Protocol for the White-clawed Crayfish, Austropotamobius pallipes
+2
+A Monitoring Protocol for the Freshwater Pearl Mussel, Margaritifera margaritifera
+3
+A Monitoring Protocol for the  Allis and Twaite Shad, Alosa alosa and A. fallax
+4
+A Monitoring Protocol for the Bullhead, Cottus gobio
+5
+A Monitoring Protocol for the River, Brook and Sea Lamprey, Lampetra fluviatilis, L. planeri and 
+Petromyzon marinus
+6
+A Monitoring Protocol for Desmoulin’s Whorl Snail, Vertigo moulinsiana
+7
+A Monitoring Protocol for the Atlantic Salmon, Salmo salar
+8
+A Monitoring Protocol for the Southern Damselfly, Coenagrion mercuriale
+9
+A Monitoring Protocol for the Floating Water-plantain, Luronium natans
+10
+A Monitoring Protocol for the European Otter, Lutra lutra
+11
+A Monitoring Protocol for Watercourses Characterised by Ranunculion fluitantis and 
+Callitricho-Batrachion Vegetation
+These publications can be obtained from:
+The Enquiry Service
+English Nature
+Northminster House
+Peterborough
+PE1 1UA
+Email: enquiries@english-nature.org.uk
+Tel: +44 (0) 1733 455100
+Fax: +44 (0) 1733 455103
+They can also be downloaded from the project website: www.riverlife.org.uk
+
+
+Information on Conserving Natura 2000 Rivers 
+and the Life in UK Rivers project can be found at
+www.riverlife.org.uk
+This document was produced with the support of the European Commission’s LIFE Nature
+Programme and published by the Life in UK Rivers project - a joint venture involving English
+Nature, the Countryside Council for Wales, the Environment Agency, the Scottish Environment
+Protection Agency, Scottish Natural Heritage and the Scotland and Northern Ireland Forum
+for Environmental Research.
+The Life in UK Rivers project was established to develop methods for
+conserving the wildlife and habitats of rivers within the Natura 2000
+network of protected European sites.
+Set up by the UK statutory conservation bodies and the European
+Commission’s LIFE Nature programme, the project has sought to identify
+the ecological requirements of key plants and animals supported by river
+Special Areas of Conservation.
+In addition, monitoring techniques and conservation strategies have been
+developed as practical tools for assessing and maintaining these
+internationally important species and habitats.
+As a top predator, the otter is an important
+species in European rivers and streams.
+In many areas, the otter is showing signs of
+recovery from a dramatic decline in 
+numbers following the introduction of 
+pesticides in the 1950s.
+This report provides information on 
+identifying the ecological and physical 
+habitat requirements of the otter during
+breeding, with the aim of encouraging 
+projects to develop or enhance breeding
+sites.

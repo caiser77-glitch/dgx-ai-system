@@ -1,0 +1,259 @@
+--- 
+source: CHANIN.pdf
+--- 
+
+ 
+OTTERS IN SACS – IS THIS THE WAY FORWARD? 
+ 
+Paul R.F. CHANIN 
+  
+North View Cottage, Union Rd, Crediton, Devon, EX17 3AL, England, UK 
+email: mammals@chaninweb.co.uk  
+ 
+ 
+Abstract: The purpose, extent and implications of the designation of SACs in the UK are described in relation to 
+the needs for otter conservation.  It is suggested that the scheme is too limited in scope to be of significant 
+benefit to otters which are recovering in numbers throughout the UK.  The otter population is likely to continue 
+to recolonise areas in which it became extinct in the 1960s and 1970s but continued monitoring is essential. 
+ 
+Key words: Eurasian otter, Lutra lutra, Special Area of Conservation, SAC, Habitats Directive 
+ 
+ 
+1   INTRODUCTION 
+ 
+Special Areas of Conservation (SACs) are areas of land which have been designated under the 
+European Union’s Habitats Directive and form part of a  
+ 
+“European network of important high-quality conservation sites that will make a significant ontribution to 
+conserving the 169 habitat types and 623 species identified in Annexes I and II of the [Habitats] Directive” 
+(MCLEOD ET AL., 2002).   
+ 
+SACs, together with Special Protection Areas (designed for bird protection) form the Natura 
+2000 Network. 
+Many SACs protect a range of habitats and species and of course those designated for 
+one species or habitat are very likely to be of value to others.  This is particularly the case for 
+otters where any ‘aquatic’ or wetland SAC will be of value provided there is sufficient food 
+for them. 
+ 
+ 
+2   SACS IN THE UK 
+ 
+Table 1 shows the number of SACs in each country in the United Kingdom together with the 
+area covered by SACs and what this represents as a proportion of the total land area.  Overall, 
+approximately 6.5% of the land area of the UK has been proposed for designation and in 60% 
+of this area (or 28% of SACs numerically) otters are recognised as a feature of interest. 
+ 
+Table 1:  Number and size of SACs in each country. 
+ 
+ 
+All SACs 
+SACs with otters 
+ 
+No. 
+Area (km2) 
+% Land* 
+No. 
+Area (km2) 
+% Land 
+England 
+217 
+9,111 
+5.4% 
+31 
+3,625 
+2.2% 
+Scotland 
+231 
+8,460 
+7.9% 
+97 
+6,635 
+6.2% 
+Wales 
+89 
+5,933 
+6.8% 
+23 
+3,813 
+4.4% 
+N. Ireland 
+51 
+651 
+3.9% 
+13 
+377 
+2.2% 
+Total 
+588 
+24,155 
+6.5% 
+164 
+14,450 
+3.9% 
+ 
+* % Land is the proportion of the total area of land in each country represented by SACs. 
+
+
+ 
+ 
+2.1 Size of individual SACs 
+Otter home ranges vary greatly in length but on the basis of studies by GREEN, GREEN AND 
+JEFFERIES (1984), KRUUK ET AL. (1993), ROCHE ET AL. (1995) and COXON ET AL. (1999), 40 
+kilometres may be used as an approximation for the size of male ranges, with females’ being 
+approximately half as long. 
+Figure 1 shows the size distribution of river SACs in which otters are a feature of 
+interest.  Note that the majority (64%) are within the first two size categories, no more than 80 
+kilometres in length which suggests that the numbers of resident otters ‘protected’ in most 
+SACs is very small and would not constitute a viable population. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.  Size frequency of SACs on UK rivers 
+ 
+2.2 Consequences of designating a SAC 
+Once SACs have been designated, member states of the European Union have a number of 
+obligations to fulfil in order to maintain the quality and integrity of the Natura 2000 network 
+(MCLEOD ET AL., 2002).  Obligations include a need to: 
+ 
+• 
+establish conservation measures which correspond to the ecological requirements of the 
+habitats and species present on the site; 
+• 
+take appropriate steps to avoid deterioration of the natural habitats and habitats of 
+species, as well as significant disturbance of species, for which the site is designated; 
+• 
+carry out appropriate assessment of the implications of any plans or projects that are 
+likely to have a significant effect on the site in view of the site’s conservation objectives. 
+ 
+In addition there is an obligation to monitor SACs. Not only in terms of the numbers of the 
+species and extent of the habitats concerned but also the ‘condition’ of the habitat in relation 
+to the species’ ecological requirements. 
+ 
+2.3 SACs and otter conservation 
+Is a site-based conservation strategy appropriate for a wide ranging carnivore like the otter 
+which can exploit a wide range of ecological conditions (CHANIN, 2003)? 
+This problem is recognised by the Joint Nature Conservation Committee which, in a report 
+on the selection of SACs (MCLEOD ET AL., 2002) points out that: 
+0
+5
+10
+15
+20
+40
+120
+200
+280
+360
+440
+520
+600
+680
+760
+840
+Approx. length in Km
+N
+
+
+ 
+ 
+‘However, most habitats and species are more widely distributed, and only a proportion of the total national and 
+Community resource will be protected within SACs.  For these interest features, maintaining or achieving 
+favourable conservation status will require a complementary mix of site-based conservation measures and 
+actions to be taken outside the SAC network.’ 
+ 
+Clearly most of the otters in Britain are, and always will be, outside the SAC network, 
+particularly in England.  Does this matter?   We could not designate a substantial area of the 
+otter’s range in the UK without increasing the area under SAC designation by an order of 
+magnitude which is clearly impractical.  
+On the other hand it would not be considered acceptable to only secure the conservation 
+status of otters on the 4% of Britain’s surface covered by otter SACs.  This is certainly far less 
+ambitions than the objective of the Otter Species Action Plan (THE UK BIODIVERSITY 
+STEERING GROUP, 1995) which aims to:  
+ 
+‘By 2010, restore breeding otters to all catchments and coast areas where they have been recorded since 1960’. 
+ 
+2.4 Historical perspective 
+In England the otter population declined almost to extinction in the 1960s and 1970s but over 
+the past 25 years has made a substantial recovery throughout a large part of its former range.  
+The failure to recolonise some areas yet can still be explained by distance and time since areas 
+close to residual populations and places where otters have been re-introduced are colonised 
+first.  As yet, there is no substantial evidence to suggest that otters will fail to recolonise any 
+part of the UK.   
+Provided no new toxic chemicals which affect otters are introduced and the food 
+supply is adequate, it seems likely that the otter population will continue to spread through 
+England and Wales until it is present more or less throughout the countries.  However, this 
+process may take several more decades in England.  
+One thing is essential - to continue the monitoring of the otter population in a way that 
+will enable us to detect not only a decline in the population but also a significant slowing 
+down in the rate of recovery.  It is therefore important to ensure that resources invested in 
+monitoring otters in SACs do not detract from those available for national monitoring and 
+surveillance. 
+ 
+ 
+3   SO… ARE SACS THE WAY FORWARD FOR OTTER CONSERVATION? 
+ 
+For species which have very specific habitat requirements, move comparatively short 
+distances and have a limited or rapidly declining distribution (such as freshwater pearl 
+mussels, Desmoulin’s whorl snail or the white clawed crayfish) the SAC network has the 
+potential to provide a sound basis for conservation by ensuring that populations are given a 
+high level of protection in some areas at least.  However, for an adaptable species like the 
+otter, which has a home range measured in tens of kilometres and is currently increasing its 
+range, legislation and directives which have a direct impact on water quality are more likely 
+to be important. 
+ 
+ 
+4   REFERENCES 
+ 
+CHANIN, P.  2003.  Ecology of the European Otter Lutra lutra.  Conserving Natura 2000 Rivers Ecology Series No. 
+10.  Peterborough, English Nature. 
+
+
+ 
+COXON, K., CHANIN, P., DALLAS, J.F. & SYKES, T. 1999. The use of DNA fingerprinting to study the population 
+dynamics of otters (Lutra lutra) in southern Britain: a feasibility study. Environment Agency, R&D Technical 
+Report W202, Swindon. 
+GREEN, J.R., GREEN, R. & JEFFERIES, D.J. 1984. A radio-tracking survey of otters Lutra lutra on a Perthshire 
+river system. Lutra 27: 85-145. 
+KRUUK, H., CARSS, D.N., CONROY, J.W.H. & DURBIN, L. 1993. Otter (Lutra lutra L) numbers and fish 
+productivity in rivers in north east Scotland. Symposia of the Zoological Society of London, 65: 171-191. 
+MCLEOD, C.R., YEO, M., BROWN, A.E., BURN, A.J., HOPKINS, J.J., & WAY, S.F. (EDITORS.) 2002. The 
+Habitats Directive: selection of Special Areas of Conservation in the UK. Joint Nature Conservation Committee, 
+Peterborough.[2nd edition] www.jncc.gov.uk/SACselection 
+ROCHE, K., HARRIS, R., WARRINGTON, S. & COPP, G.H. 1995. Home range and diet of re-introduced European 
+otters Lutra lutra (L) in Hertfordshire rivers. Aquatic Conservation: Marine and Freshwater Ecosystems,  5: 87-
+96. 
+THE UK BIODIVERSITY STEERING GROUP 1995. Biodiversity: The UK Steering Group Report - Volume II: 
+Action Plans (Annex G - Species Action Plans, Habitat Action Plans and Habitat Statements). HMSO, London. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

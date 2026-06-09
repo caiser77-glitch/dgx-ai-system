@@ -1,0 +1,77 @@
+--- 
+source: MAZET & BERNY - Pesticide poisoning.pdf
+--- 
+
+PESTICIDE POISONING IN OTTERS IN FRANCE:  DATA FROM THE SAGIR NETWORK 
+ 
+A. MAZET & P. BERNY 
+ 
+Ecole Nationale Veterinaire de Lyon, Laboratoire de Toxicologie, PB83, 69280 Marcy l’Etoile, France. 
+ email:  alexmazet@yahoo.fr 
+ 
+ 
+OBJECTIVE 
+ 
+The purpose of this poster is to present cases of pesticide poisoning in otters collected in 
+France. The toxicology laboratory of the veterinary college is part of a nation-wide disease 
+surveillance network (SAGIR), under the supervision of the National Hunting and Wildlife 
+Office (ONCFS). The laboratory receives between 300 and 800 samples for suspected 
+poisoning in wildlife per year. 
+ 
+ 
+MATERIAL AND METHODS 
+ 
+Case collection: The study comprised cases spontaneously submitted to the toxicology 
+laboratory, through a collaborative network (SAGIR), but also samples collected by the 
+European mink network and sent for analysis by GREGE and collaborating veterinarians 
+involved in wildlife pathology submitted cases.  
+Laboratory analysis methods: for each case submitted, analyses were performed 
+according to lesions and information available on signs or local use of pesticides. 
+Organophosphates and carbamate insecticides were analysed according to BERNY ET AL. A 
+specific method for anticoagulant (AVK) rodenticides is also available (BERNY ET AL., 1995). 
+Poisoning is confirmed when a product is detected at a high concentration and 
+associated with lesions compatible with acute poisoning. 
+ 
+ 
+RESULTS AND DISCUSSION 
+ 
+- 18 otters were analysed among the 3078 cases of suspected poisoning received between 
+1997 and 2002 (0.6% of all cases) 
+- Poisoning was confirmed in 5 cases (2 AVK, 3 Insecticides), i.e.  27.8% of otter cases 
+- Poisoning is confirmed in 55.5% of all wildlife cases 
+- In most instances, very little information is available on circumstances of death and lesions 
+- Secondary poisoning is described in many predator species with bromadiolone, but there is 
+no report of bromadiolone poisoning in Mustelids like otters. Bromadiolone, as with most 
+AVK, is accumulated in the liver and may kill rodents after a single feed but only after a few 
+days.  Therefore poisoned rodents may be weakened and easily predated before they 
+eventually die of AVK poisoning (BERNY ET AL., 1997; SHORE ET AL, 1999). 
+- In areas where otter populations are scarce, the use of bromadiolone against Coypu may be a 
+threat to the population 
+ 
+ 
+CONCLUSION AND PROSPECT 
+ 
+- This poster shows that acute poisoning may be a potential problem in some areas. 
+
+
+- AVK poisoning occurs as a secondary poisoning problem, probably due to the ingestion of 
+young coypu poisoned by bromadiolone or by scavenging carcasses. 
+- The use of AVK or any pesticide should be weighed against its benefits in areas where 
+endangered species co-exist.  
+ 
+ 
+REFERENCES 
+ 
+BERNY P., BURONFOSSE T. & LORGUE G., 1995. A new simple high performance thin layer chromatographic 
+technique (HPTLC) for the simultaneous determination of eight anticoagulant compounds in the liver of animals.  
+Journal of  Analytical Toxicology, 19: 576-580.  
+BERNY P., BURONFOSSE T., LAMARQUE F. & LORGUE G., 1997. Field evidence of secondary poisoning of 
+foxes (Vulpes vulpes) and buzzards (Buteo buteo) by bromadiolone: a 4-year survey. Chemosphere, 35: 1817-
+1829 
+BOUCHARDY C., MAURIN H., ROSOUX R. & TOURNEBIZE T., 1993. Evolution de la répartition de la loutre 
+d’Europe (Lutra lutra) en France. S.F.E.P.M. Groupe Loutre, M.N.H.N., Paris. 
+HUGUET X. 1998. Intoxication par la bromadiolone. Thèse Doctorat Vétérinaire, Université Cl Bernard, Lyon I, 
+pp 111. 
+SHORE R.F., BIRKS J.D.S. & FREESTONE P. 1999. Exposure of non-target vertebrates to second-generation 
+rodenticides in Britain, with particular reference to the polecat (Mustela putorius). New Zealand Journal of 
+Ecology. 23:  199-206 

@@ -1,0 +1,507 @@
+--- 
+source: Reintroduction of the otter in Northeast Spain(191-199).pdf
+--- 
+
+ Reintroduction of the otter in NE Spain
+191
+REINTRODUCTION OF THE OTTER (Lutra lutra) IN
+NORTHEAST SPAIN (GIRONA PROVINCE)
+D. SAAVEDRA Y J. SARGATAL
+Fundació Territori i Paisatge. Provença, 261-265 1er. 08008 Barcelona (dsaavedra@quercus.es)
+ABSTRACT
+The objective of the project is the reintroduction of the otter in the Aiguamolls de l’Empordà Natu-
+ral Park and the Muga and Fluvià basins, and the promotion of river conservation through this emblematic
+species. Since 1995, 32 individuals from Extremadura (SW Spain) and Asturias (NW Spain) have been
+released. They have occupated most of the study area and there are already reproduction data.
+Keywords: NE Spain, otter, radiotracking, reintroduction, translocation.
+RESUMEN
+Reintroducción de la nutria (Lutra lutra) en el nordeste de España (provincia de Girona)
+ Este proyecto tiene como objetivo reintroducir la nutria en el Parque Natural de los Aiguamolls de
+l’Empordà y en las cuencas de los ríos Muga y Fluvià, así como promover la conservación de los ríos a
+través de esta especie emblemática. Desde 1995 se han soltado 32 individuos procedentes de Extremadura
+y Asturias, que se han dispersado por la zona de estudio. Además, se dispone de datos de reproducción.
+Palabras clave: NE España, nutria, radioseguimiento, reintroducción, translocación.
+INTRODUCTION
+The otter disappeared from Girona province (Catalonia, NE Spain) 15 years ago
+due to hunting, pollution and habitat destruction (Delibes 1990; Ruiz-Olmo 1995;
+Saavedra 1995). In 1993, a project was started in order to restore the disappeared
+population because the possibilities of recolonization from other populations were
+extremely low (Ruiz-Olmo and Delibes 1998) and the reintroduction of otters have
+been successful in other countries as USA, UK or Sweden (Serfass et al. 1996, Wayre
+1989, Sjöåsen 1997).
+The reintroduction through translocation of wild animals was choose because
+is desirable (UICN 1998) and there are healthy populations in certain parts of the
+Iberian Peninsula (Delibes and Ruiz-Olmo 1998).
+In 1994, a study was carried out (Saavedra 1995) in order to determine if the
+Otter Project observed the guidelines for reintroductions proposed by the
+International Union for the Conservation of Nature (IUCN 1987; 1998). The
+conclusions were the following:
+
+
+Galemys 10 (nº especial), 1998
+192
+1. The Eurasian otter is classified as Vulnerable for its total distribution (IUCN
+1990) and for Spain (Blanco and González 1992).
+2. The reintroduction has been proposed in the Aiguamolls de l’Empordà Na-
+tural Park and Muga and Fluvià basins, which are part of the original area of
+distribution (Delibes 1990; Ruiz-Olmo and Aguilar 1995; Ruiz-Olmo 1995).
+3. The causes of extinction were persecution (hunting, trapping), pollution and
+habitat destruction (Ruiz-Olmo 1995; Saavedra 1995).
+4. Extinction in the study area has been complete, with the last citation in 1984
+(Delibes 1990). Between Muga and Fluvià basins and the nearest otter
+populations there are several basins without otters, so spontaneous
+recolonization is unlikely to occur (Ruiz-Olmo and Delibes 1998).
+5. The proposed donor populations (from Extremadura, Galicia, Asturias and
+Portugal) are healthy and increasing in number (Farinha et al. 1997, Ruiz-
+Olmo and Delibes 1998).
+6. Though there are no specific studies based on genetics, there are no significant
+morphological differences between the Iberian otters (Ruiz-Olmo 1995). The
+proposed donor populations are the nearest with enough individuals and live
+in comparable mediterranean habitats.
+7. The extension of the study area is 200,000 ha, with more than 600 km of
+river and 3,000 ha of wetlands. Considering the densities found in Catalonia
+(0,1-1,2 otters/km; Ruiz-Olmo 1995), there is enough habitat for a population
+with a range between 60 and 720 animals. As in other mammal
+reintroduction projects, the objective is to release 50 otters, because a
+number smaller disposes a population to inbreeding depression (Gilpin
+1987). Nevertheless, this number implies a isolated population that has been
+decreasing until 50 individuals who are genetically closely related. In our
+case, the 50 otters will come from different populations and will have a much
+higher genetic variance.
+8. The habitat is in good condition. Riparian and marsh vegetation are well
+conserved in a major part of the area (Saavedra 1995). Fish biomass varied
+between 0.6 and 351.9 gr/m2 (n=12) in  Zamora et al. 1996 study, with only
+two sites (17%) with a biomass lower than 8 gr/m2, the minimum value
+calculated to support an otter population in Mediterranean rivers (Ruiz-
+Olmo 1995). The levels of organochlorine compounds in fish of the area are
+in the order of those calculated in rivers of Catalonia (López-Martín et al.
+1995). The levels of PCBs, the main compounds associated with the decline
+of the otter, ranged between 81 and 136.4 µg/kg wet weight (95% CI, n=37),
+with 41% of the sites with values higher than 110 µg/kg ww (Mateo et al.
+
+
+ Reintroduction of the otter in NE Spain
+193
+1995). The fishes with levels lower than this ‘level of concern’ live in
+catalonian rivers with healthy otter populations (Ruiz-Olmo 1995, Ruiz-
+Olmo and López-Martín 1994).
+ 9. The human local population is mainly in favour of the reintroduction, because
+the otter does not negatively affect the interests of any economic group in the
+area (Saavedra 1995). In Spain it’s a fully protected species from 1973.
+10. The project has the permission and support of the government agencies.
+The main objectives of the Otter Project are:
+- The restoration of an erradicated population.
+- The promotion of river and wetland conservation through an emblematic
+species.
+STUDY AREA AND METHODS
+The reintroduction project is being carried out in the Muga and Fluvià river
+basins, a territory which includes aproximately 2,000 km2. Both are low headwaters
+Mediterranean rivers with irregular water regime, fed by surface waters (rainfall)
+and lower flow typified by a low absolute volume. The Muga basin presents a surface
+of 853.78 km2 and a average flow of 2.44 m2/seg. The total length of its main branch
+is 64.7 km. The Fluvià river is 97.2 km long, with a mean flow of 1.27 m2/seg and a
+basin surface of 1123.58 km2 (Brusi 1992). Both rivers flow into Aiguamolls de
+l’Empordà wetlands, with 4,800 ha protected as Natural Park and 800 ha as Strict
+Reserve (figure 1).
+The riparian forests include Populus alba, Fraxinus angustifolia and Alnus glu-
+tinosa, but in many places has been replaced with plantations of trees, with Populus
+nigra and Platanus x hybrida. Helophitic and halophil vegetation (Phragmites sp.,
+Typha sp., Arthrocnemum sp.) occurs on the wetlands and coastal zones (Folch and
+Franquesa 1984).
+The fish community is mainly represented by Ciprinidae, with a great proportion
+of introduced species (Carp, Roach, Rudd) and Anguillidae (Eel). In the upper course
+Trout is found and near the mouth of both rivers and in the wetlands some marine
+species (Mullet, Sea bass) are common (Zamora et al. 1996).
+The density of population is c.60 habitants/km2, but increases in the coast
+during the summer period. The main activities in the study area are the agriculture
+and the tourism, with more than 400,000 tourist places. The main roads pass
+through the area from north to south, connecting Spain with the rest of Europe.
+(Cals 1987, El País 1993).
+
+
+Galemys 10 (nº especial), 1998
+194
+Figure 1. Geographical area of the reintroduction program
+Área geográfica del programa de reintroducción
+The only semi-aquatic mustelid present in the area is the polecat (Mustela
+putorius) though there are some observations of American mink (Mustela vison),
+coming from a nearby population (Ruiz-Olmo and Aguilar 1995, Ruiz-Olmo et al. 1997).
+The reintroduction protocol was agreed between the government and a group
+of biologists and veterinaries. The project is coordinated by a biologist. The protocol
+is similar to the Pennsylvania River Otter Reintroduction Project (Serfass 1996) and
+has the following steps:
+1. Identification of suitable places to set the traps.
+2. Trapping using leghold traps (1.5 Softcatch Traps, Woodstream Corporation, USA).
+Every time an otter is captured:
+3. Anesthesia injection through a blowpipe. Anesthesics used are ketamine (0.05
+mg/kg) and metedomidine (0.05 mg/kg).
+4. Trap removal, sex determination, wound inspection and treatment, antibiotic
+injection and body condition calculation. The body condition is used to
+
+
+ Reintroduction of the otter in NE Spain
+195
+choose the animals prepared to resist the stress of handling and implanting,
+collecting generally the otters with K≥0.90. The old individuals and pregnant
+or lactating females are immediately released.
+Kmale  = Weight(kg) / 5.91 TotalLenght(m) 2.76
+Kfemale  = Weight(kg) / 5.36 Total Lenght(m) 2.61  (Ruiz-Olmo 1995)
+5. Neuroleptic injections (Haloperidol and Trilafon)
+6. Reversal by Antisedans (0.05 ml/kg) and introduction into the transport cage.
+7. Transport to Barcelona Zoo by car during the night or by airplane.
+8. Two-four weeks stay in Barcelona Zoo veterinary services where veterinary
+evaluations and the intraperitoneal implantation of a transmitter are done,
+following the protocols described in Fernandez et al. 1997 and Hoover 1984.
+9. Release in the study area.
+10. Radiotracking. The transmitters used are from Advanced Telemetry Systems
+(100 and 300 days), Telonics (one year) and Wagener (one year), with frequencies
+between 150.000 and 151.999 MHz. The receivers used are from Advanced
+Telemetry Systems (R4000 and R2100). The individuals are radiolocalised at
+least once every two weeks until the animal is lost or found dead.
+RESULTS
+Until 31/12/98 32 otters have been released, 13 males and 19 females. The
+implantation of transmitters in most of the otters (94%,n=32) has been essential for
+supplying knowledge about the new population’s adaptation, movements and
+mortality (table 1). The mean radiotracking period was 131 days (2-597 days, n=
+30). At least two females have bred (Saavedra and Sargatal 1996, 1997), in one case
+the animal’s transmitter still worked and in the other a direct observation of an otter
+with a cub was made. Post-release mortality has been caused (19%, n=6) mainly by
+car crashing (n=3), but also drowned in fyke nets (n=1) or irrigation channels syphons
+(n=1)  (Ruiz-Olmo et al. 1997).
+The otters reintroduced have occuped in three years most of Aiguamolls Natu-
+ral Park, most of Fluvià and Muga rivers and many tributaries (table 2, figures 2, 3
+and 4). Some animals have travelled from one basin to the other using Aiguamolls
+wetlands as a corridor and one animal reached a basin out of the reintroduction
+area. Dispersal and establishment pattern has been similar to swedish reintroduction
+project, with different movements depending on wether other otters where present
+or absent (Sjöåsen 1997). Female home ranges after establishment are usually
+smaller than male’s and are included in male’s home range. Core areas tend to be
+segregated and any disappearance is quickly occupied (Saavedra et al. 1997).
+
+
+Galemys 10 (nº especial), 1998
+196
+TABLE 1
+Otters released in the study area
+Nutrias liberadas en la zona de estudio
+The first studies of feeding habits (using spraint contents) have shown that otters
+main prey are fish (Angullidae, Cyprinidae and Mugilidae) and crayfish
+(Procambarus clarkii).
+The Environmental Education Program is essential for the achievement of the
+Otter Project’s second objective: the promotion of the conservation of rivers and
+wetlands using an emblematic species.
+The program began with the creation of a tale for children (The Return of the
+Otter, Saavedra et al. 1995) along with other pedagogical tools.
+Since the end of 1998, 5000 schoolboys and girls have been visited by the Otter
+Project educators, bringing the message of river and wetlands conservation using
+the otter and the following reasoning: “If the otter can live in this river, it is surely in
+good enough condition for the other animals, for the plants and for the people. But
+people need work in order to have their rivers clean and healthy again”.
+For this reason we are promoting the creation of local groups (on every village
+in the area) called “Otter Groups”, which act voluntarily to conserve and restore
+their nearest stretch of river, removing rubbish, planting trees, preparing exhibitions
+Sex
+Sexo
+Captured
+Capturado
+Released
+Soltado
+Died
+Muerto
+Lost
+Perdido
+Tracking period
+Periodo seguim.
+Remarks
+Observaciones
+F
+16/10/95
+14/11/95
+18/12/95
+ 35 days
+drowned in fyke net
+M
+21/10/95
+01/12/95
+09/07/97
+587 days
+M
+05/11/95
+01/12/95
+27/06/96
+210 days
+unknown causes
+F
+06/02/96
+01/03/96
+19/10/96
+233 days
+breed in august’96
+F
+06/03/96
+21/03/96
+16/10/97
+597 days
+breed in autumn’97
+F
+21/09/96
+21/10/96
+13/12/96
+ 53 days
+M
+02/10/96
+21/10/96
+25/07/97
+279 days
+F
+09/10/96
+28/10/96
+13/06/97
+229 days
+M
+18/10/96
+04/11/96
+19/05/97
+194 days
+M
+23/10/96
+11/11/96
+30/04/97
+170 days
+F
+26/10/96
+11/11/96
+17/12/96
+ 37 days
+F
+01/11/96
+02/12/96
+25/01/97
+ 55 days
+runned over
+F
+01/11/96
+02/12/96
+13/12/96
+ 12 days
+Cub (2.6kg)
+F
+01/11/96
+02/12/96
+10/12/96
+  9 days
+Cub (2.3kg)
+M
+03/11/96
+26/11/96
+17/12/96
+ 22 days
+M
+20/11/96
+10/12/96
+11/12/96
+  2 days
+runned over
+M
+22/11/96
+14/07/97
+without transmitter
+M
+25/11/96
+27/12/96
+30/05/97
+155 days
+F
+25/11/96
+27/12/96
+13/01/97
+ 18 days
+drowned in a irrigation channel siphon
+M
+08/05/97
+21/06/97
+without transmitter
+F
+25/02/97
+08/05/97
+13/06/97
+53 days
+M
+04/11/97
+10/12/97
+08/01/98
+31 days
+M
+16/11/97
+16/12/97
+17/02/98
+63 days
+M
+13/05/98
+08/06/98
+207 days
+(until 31/12/98)
+F
+26/08/98
+18/09/98
+105 days
+(until 31/12/98)
+F
+25/08/98
+18/09/98
+105 days
+(until 31/12/98)
+F
+02/09/98
+18/09/98
+105 days
+(until 31/12/98)
+F
+01/09/98
+02/10/98
+91 days
+(until 31/12/98)
+F
+27/08/98
+05/10/98
+88 days
+(until 31/12/98)
+F
+24/09/98
+15/10/98
+08/11/98
+25 days
+runned over
+F
+24/09/98
+15/10/98
+78 days
+(until 31/12/98)
+F
+27/09/98
+15/10/98
+78 days
+(until 31/12/98)
+
+
+ Reintroduction of the otter in NE Spain
+197
+and events about nature protection and so on. All these activities have the economic
+support of private sponsorship.
+TABLE 2
+Dispersal of the new otter population in Aiguamolls Natural park and Muga and Fluvià basins
+Dispersión de la población de nutria en el Parque Natural de los Aiguamolls y en las cuencas de los ríos
+Muga y Fluvià
+Figure 2. Dispersal of the new otter population (number of released otters)
+Dispersión de la nueva población de nutrias (número de nutrias liberadas)
+Figure 3. Dispersal of the new otter population (kilometers of river)
+ Dispersión de la nueva población de nutrias (kilómetros de río)
+Period
+Periodo
+number of days
+número de días
+number of released otters
+número de nutrias soltadas
+kilometers of river
+kilómetros de río
+hectares of wetland
+hectáreas de marisma
+14/11/95-31/12/95
+47
+3
+0
+500
+14/11/95-31/12/96
+413
+18
+135
+940
+14/11/95-31/12/97
+778
+23
+290
+2200
+14/11/95-31/12/98
+1143
+32
+320
+2500
+
+
+Galemys 10 (nº especial), 1998
+198
+Figure 4. Dispersal of the new otter population (hectares of wetland)
+Dispersión de la nueva población de nutrias (hectareas de humedales)
+DISCUSSION
+Until now, the reintroduction project has been successful because practically
+all the otters translocated  have acclimated to the new habitat and the post-release
+mortality has been due to accidents and no by human persecution.
+In the next months the release of otters will continue, until a total of 50
+individuals, all implanted with transmitters. The creation of Otter Groups will
+continue and so the restoration activities in rivers, lakes and marshes. The end of
+the project is planned for the year 2000, but the evolution of the new population
+(through otter surveys and visual censuses) will continue some more years.
+REFERENCES
+BLANCO, J. C. AND J. L. GONZÁLEZ (1992). Libro rojo de los vertebrados de España. ICONA. Madrid.
+BRUSI, D. (1992). Les aigües. In: El medi natural. (Pallí, L. & Brusi, D. eds). Diputació de Girona
+– Universitat de Girona. Girona.
+CALS, J. (1987). L’Alt Empordà: recursos i estructura econòmica. Caixa d’Estalvis de Catalunya.
+Barcelona.
+EL PAÍS (1993). Atlas de España. Diario El País. Barcelona.
+FARINHA, N., E. FLORENCIO AND A. TRINDADE (1997). Distribuiçao da lontra em Portugal continental.
+Actas de las III Jornadas Españolas de Conservación y Estudio de Mamíferos: 96. SECEM.
+FERNÁNDEZ, J., D. SAAVEDRA AND J. RUIZ-OLMO (1997). Aspectos veterinarios en el programa de
+reintroducción de la nutria en los Aiguamolls de l’Empordà (NE de Girona). Ponencias y
+comunicaciones del I Congreso Internacional de Medio Ambiente y Veterinaria: 401-406.
+Colección Monografías. Junta de Extremadura. Mérida.
+FOLCH, R. AND T. FRANQUESA (1984). Història Natural dels Països Catalans, vol. 7 Vegetació.
+Enciclopèdia Catalana. Barcelona.
+
+
+ Reintroduction of the otter in NE Spain
+199
+GILPIN, E. (1987). Spatial structure and population vulnerability. In: Viable populations for
+conservation. (Soulé,M. E. ed.). Cambridge University Press. UK.
+HOOVER, J. P. (1984). Surgical implantation of radiotelemetry devices in American river otters.
+JAVMA, 185 (11): 1317-1320.
+IUCN (1987). The IUCN position statement on translocation of living organisms. Gland,
+Switzerland.
+IUCN (1990). 1990 IUCN Red List of Threatened Animals. IUCN, Gland, Switzerland and
+Cambridge, UK.
+IUCN (1998). IUCN Guidelines for re-introductions. Gland, Switzerland.
+LÓPEZ-MARTÍN,J. M., J. RUIZ-OLMO AND A. BORRELL (1995). Levels of organochlorine compounds
+in freshwater fish from Catalonia, NE Spain. Chemosphere, 31(6): 3523-3535.
+MATEO, R., D. SAAVEDRA AND R. GUITART (1995). Organochlorine residues in fish from Fluvià and
+Muga rivers, Catalonia, NE Spain: implications for Otter Lutra lutra reintroduction.
+Unpublished.
+RUIZ-OLMO, J. (1995). Estudio bionómico de la nutria (Lutra lutra) en aguas continentales de la
+Península Ibérica. Thesis. University of Barcelona.
+RUIZ-OLMO, J. AND A. AGUILAR (1995). Els grans mamífers de Catalunya. Lynx edicions. Barcelona.
+RUIZ-OLMO, J. AND M. DELIBES (1998). La nutria (Lutra lutra) en España: sondeo de 1994-96.
+SECEM. Málaga.
+RUIZ-OLMO, J., M. DELIBES, D. SAAVEDRA AND S. C. ZAPATA (1997). Morfometría externa, demografía
+y causas de mortalidad de la nutria en la Península Ibérica. Actas de las III Jornadas
+Españolas de Conservación y Estudio de Mamíferos: 109.
+RUIZ-OLMO, J. AND J. M. LÓPEZ-MARTÍN (1994). Otters and pollution in North-east Spain. In:
+Seminar on the conservation of the European Otter (Lutra lutra): 144-146. Council of
+Europe, Strasbourg.
+RUIZ-OLMO, J., S. PALAZÓN, F. BUENO, C. BRAVO, I. MUNILLA AND R. ROMERO (1997). Distribution, status
+and colonization of the American mink Mustela vison in Spain. Journal of Wildlife
+Research, 2(1): 30-36.
+SAAVEDRA, D. (1995). Estudio de viabilidad de la reintroducción de la nutria en los Aiguamolls
+de l’Empordà y cuencas de los ríos Muga y Fluvià. Unpublished report of the Aiguamolls
+de l’Empordà Natural Park.
+SAAVEDRA, D., J. SARGATAL AND T. LLOBET (1995). El retorn de la llúdriga. Publication of Department
+of Environment, Government of Catalonia. Barcelona.
+SAAVEDRA, D. AND J. SARGATAL (1996). Memoria de la reintroducción piloto de nutrias (Lutra lutra)
+en los Aiguamolls de l’Empordà. Unpublished report of the Aiguamolls de l’Empordà
+Natural Park.
+SAAVEDRA, D. AND J. SARGATAL (1997). Reintroducción de la nutria en la provincia de Girona. Actas
+de las III Jornadas Españolas de Conservación y Estudio de Mamíferos: 113.
+SERFASS, T. L., R. P. BROOKS, T. J. SWIMLEY, L. M. RYMON AND A. H. HAYDEN (1996). Considerations for
+capturing, handling and translocating river otters. Wildlife Society Bulletin, 24 (1): 25-
+31.
+SJÖÅSEN, T. (1997). Movements and establishment of reintroduced European otters Lutra lutra.
+Journal of Applied Ecology, 34: 1070-1080.
+ZAMORA, L., D. SAAVEDRA AND R. MORENO (1996). Stock assesment, biomass and fish production
+in two mediterranean basins (NE Spain). Limnética:12 (1):47-58.

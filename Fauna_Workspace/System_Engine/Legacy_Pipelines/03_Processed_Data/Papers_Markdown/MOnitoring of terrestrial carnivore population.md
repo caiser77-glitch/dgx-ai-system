@@ -1,0 +1,1047 @@
+--- 
+source: MOnitoring of terrestrial carnivore population.pdf
+--- 
+
+Wildlife Damage Management, Internet Center for
+USDA National Wildlife Research Center -
+StaﬀPublications
+University of Nebraska - Lincoln
+Year 
+Monitoring of terrestrial carnivore
+populations
+Eric M. Gese
+This paper is posted at DigitalCommons@University of Nebraska - Lincoln.
+http://digitalcommons.unl.edu/icwdm usdanwrc/576
+
+
+Monitoring of terrestrial carnivore populations 
+ERIC M. GESE 
+INTRODUCTION 
+There is increasing concern about the status and distribution of terrestrial 
+carnivore populations throughout the world (Schaller, 1996). Changes in 
+land-use practices, habitat loss and fragmentation, sanctioned human per- 
+secution, declines in natural prey, disease, illegal poaching, and increased 
+competition within carnivore guilds have brought about a general decline 
+in several carnivore populations with some species now occupying a frag- 
+ment oftheir former range. The continued loss of suitable habitat due to an 
+ever expanding human population has placed the issue of conservation and 
+protection of some carnivores as a top environmental priority and/or con- 
+troversy for many agencies and organizations. Paramount to carnivore re- 
+covery, reintroduction, or development of management plans and policies, 
+is having reliable and accurate information regarding the status, health, 
+and well-being of the carnivore population of concern. One of the most 
+commonly asked questions when dealing with carnivore conservation is: 
+where are the animals, how many are there, and what is the population 
+trend? These questions often place biologists and managers in the difficult 
+position of determining the status of a carnivore population. Biologists 
+need reliable methods that provide accurate data on the distribution, abun- 
+dance, and population trend of a species in order to make informed deci- 
+sions and recommendations to policy makers. Many carnivores are 
+secretive, nocturnal, far-ranging, live in densely vegetated habitats or re- 
+mote areas, or exist at extremely low densities, making censusing and 
+monitoring a carnivore population very difficult, if not sometimes seeming- 
+ly impossible. 
+Monitoring of a carnivore population may be performed at various 
+levels of resolution. First, biologists may only need to know where a particu- 
+lar carnivore occurs (i.e., species distribution). Second, the biologist may 
+need to know how many animals are in an area (i.e., species abundance). 
+
+
+Monitoring of terrestrial carnivore populations 1 373 
+Animal abundance may be assessed in two ways: relative and absolute 
+abundance. Relative abundance uses indices of animal abundance (e.g., 
+track counts, scent-post visitation rates) that can be compared over time or 
+between areas, but of itself does not estimate animal numbers. In contrast, 
+absolute abundance involves using methods to actually count animals and 
+then estimate the number or density of animals in the population. With 
+repeated sampling over time, both relative indices and absolute estimates 
+of animal abundance can be used to monitor population trends. For many 
+carnivore species this amount of information may be adequate. However, if 
+the population trend indicates an increasing or declining population, then 
+it may be important for the biologist to ask: why is the population chang- 
+ing? This final question involves examining the demographic processes of 
+birth, death, emigration, and immigration that determines the persistence 
+of a population. 
+The objective of this chapter is to describe the techniques that have been 
+developed to census and monitor terrestrial carnivores and a discussion of 
+the advantages and disadvantages of each technique. Many of the tech- 
+niques described herein still need an in-depth evaluation as they pertain to 
+accuracy and reliability in monitoring population trends of carnivores. This 
+chapter will focus on terrestrial carnivores only (suborder Fissipedia); inclu- 
+sion of aquatic carnivores would require an entire chapter to itself. Capture, 
+handling, or immobilization procedures will not be discussed; the volume 
+of literature is enormous and species specific (readers should consult Pond 
+& O'Gara, 1994; Schemnitz, 1994, and references therein). Current 
+methods for censusing or surveying wild carnivores range across the gradi- 
+ent of accuracy, reliability, and cost. I have included references of several 
+studies that used, or attempted to use, a technique to determine species 
+distribution or abundance. These references are only provided as examples 
+of studies, and are not inclusive of all studies using that specific technique. 
+SOME CONSIDERATIONS BEFORE IMPLEMENTING A 
+MONITORING PROGRAM 
+Before embarking on a large-scale effort to monitor a carnivore population, 
+the biologist or manager should carefully consider what question(s) they 
+are asking, and if an estimate of population size is needed, then one must 
+decide on the precision and accuracy of the estimate required to answer 
+that question (Lancia et al., 1994; Zielinski & Stauffer, 1996). For example, 
+if a biologist is assessing the abundance of a very rare carnivore that numb- 
+ers 50 animals in the wild, then even a slight decline in population size 
+
+
+374 1 E. M. Gese 
+would be critical and surveys would need to be sensitive to even the small- 
+est change in numbers. In contrast, a carnivore population numbering 
+5000 animals could use a survey with less sensitivity because a slight de- 
+cline would not be catastrophic to that population. The precision (the 
+measure of how close an estimate is to the expected value), accuracy (the 
+measure of how close an estimate is to the true population size), power 
+(the probability of rejecting the null hypothesis when it is in fact false and 
+should be rejected), sample size, survey design, and the statistical assump- 
+tions of each method should be considered before implementing a 
+monitoring program (Peterman, 1990; Reed & Blaustein, 1997; Van Strien 
+et al., 1997). Macdonald et al. (1998a) provides a thorough review of statisti- 
+cal considerations when designing a monitoring program. Two major prob- 
+lems that a biologist must typically address when developing a monitoring 
+program is observability or catchability of the animal (the probability is 
+generally < I) and the size of area to be sampled because time and money 
+constrain sampling the entire area (Lancia et al., 1994, Macdonald et al., 
+1gg8a). In addition, the costs, logistics, manpower, and time constraints 
+must all be considered before deciding on the usefulness of a particular 
+method to monitor a carnivore population. These considerations sound 
+quite intuitive and fundamental, but success of the project may hinge on 
+careful examination, prior planning, and development of an appropriate 
+study design (Skalski & Robson, 1992; Macdonald et al., 1gg8a). 
+METHODS EMPLOYED TO DETERMINE SPECIES 
+DISTRIBUTION 
+Often biologists may only need to know if a species is present in an area. 
+This fundamental question is needed to determine the presence and dis- 
+tribution of rare, threatened, or endangered species. Methods typically em- 
+ployed to determine species distribution include habitat mapping, 
+questionnaires, interviews, sighting reports, or confirmation of a sign left 
+by the species in question. Any survey method (direct or indirect measures) 
+that provides an estimate of animal abundance provides distribution infor- 
+mation as well. However, for discussion of those survey methods see under 
+'Methods of estimating animal abundance'. 
+Habitat mapping 
+Biologists should not necessarily race out into the bush and start looking 
+for animals or signs of them. Careful consideration regarding the kind of 
+suitable habitat required for a species followed by examination of habitat 
+
+
+Monitoring of terrestrial carnivore populations 1 375 
+maps or aerial photos (if available) can save time (e.g., Macdonald et al., 
+1998a). Habitat suitability models have been developed for many carnivore 
+species. With the continued development of satellite imagery, remote sens- 
+ing, and Geographic Information Systems (GIs), areas containing suitable 
+habitat for a particular species can be identified allowing for maximization 
+of survey effort. Surveys can then be stratified by habitat types or land 
+classes (Macdonald et al., 1998a). In the UK, use of landscape data from the 
+Countryside Information System (CIS), plus existing mammal records and 
+knowledge of habitat requirements, were used to predict mammal distribu- 
+tion on a national scale (Macdonald et al., 1998a). Use of CIS has also been 
+instrumental in identifying potential habitat for restoration of carnivores 
+(e.g., Mladenoff et al., 1995; Mladenoff & Sickley, 1998). 
+Questionnaires, interviews, and sighting reports 
+One of the simplest methods of determining species distribution, and poss- 
+ibly gaining a subjective estimate of animal abundance, is collecting sight- 
+i n g ~  and general impressions from various people in the field. 
+Questionnaires, interviews, and sighting reports from hunters, trappers, 
+rangers, mail carriers, tourists, guides, and field personnel have been used 
+with some success to measure animal distribution, and sometimes animal 
+abundance, of different species of Canidae (Lemke & Thompson, ~gGo; 
+Allen & Sargeant, 1975; Harris, 1981; W. Clark & Andrews, 1982; Fuller et 
+al., rggza; Fanshawe et al., 1997)~ 
+Felidae (Tewes & Everett, 1982; Erickson, 
+1982)~ Mustelidae (Fortenbery, 1970; Hillman & Linder, 1973; Powell, 
+1982; Strickland & Douglas, 1984; Slough & Smits, 1985; Melquist & Dron- 
+kert, 1987)~ Procyonidae (Kaufman et al., 1976; W. Clark & Andrews, 
+1982), and Ursidae (Kolenosky & Strathearn, 1987). Questionnaires were 
+successfully used in the UK to detect the presence of elusive carnivores, 
+such as pine marten, Martes martes (Strachan et al., 1996)~ western pole- 
+cats, Mustela putorius (Birks & Kitchener, ~ g g g ) ,  
+and wildcats, Felis silvestris 
+(Balharry & Daniels, 1997). 
+More in-depth questionnaires or interviews with persons with intimate 
+knowledge of the area and who spend considerable time in the field (e.g., 
+trappers, game wardens, rangers, guides) not only may provide a range and 
+status report (Kaufman et al., 1976; Fuller et a!., 1992a), but may also be 
+used to obtain a general, subjective estimate of abundance (e.g., Allen & 
+Sargeant, 1975; Harris, 1981). Many agencies compile status reports using 
+this method to access the relative abundance and distribution of carnivores, 
+particularly in countries that are unable to invest the considerable resources 
+more accurate population assessment requires (e.g., Fanshawe et al., 1997). 
+
+
+376 ( E. M. Gese 
+Questionnaires have been used when agencies require a large-scale as- 
+sessment of carnivore distribution (e.g., Fuller et al., ~ggza), 
+or in circum- 
+stances when little is actually known about the biology of the species in 
+question. This is especially useful for rare species that have a wide distribu- 
+tion. For example, surveys by park staff, field workers, and rangers provided 
+a subjective estimate (absent, rare, common, uncommon) ofthe abundance 
+of African wild dogs (Lycaon pictus) throughout the African countries (Fan- 
+shawe et al., 1997). In North America, questionnaires are often sent to 
+trappers and field personnel to monitor trends in furbearer populations (W. 
+Clark & Andrews, 1982; Strickland & Douglas, 1984). Drawbacks of this 
+technique include misidentification of carnivores, low response levels to 
+the questionnaire, and concentration of animal sightings along roads or 
+near human habitation (i.e., rare carnivores inhabiting areas of low human 
+density may go undetected or unreported). 
+Presence of sign 
+Sightings of the carnivore species in question allow for direct confirmation 
+of species presence. Spotlight surveys have been commonly used to detect 
+rare or endangered nocturnal species, such as black-footed ferrets (Mustela 
+nigripes). However, in the absence of visual confirmation of the animal 
+itself, biologists may resort to surveys of animal sign to determine whether 
+a species is present in a given area. Sign surveys have been used to deter- 
+mine species distribution of most carnivore groups, including several felids 
+(Schaller & Crawshaw, 1980; Newman et al., 1985), mustelids (S. Mac- 
+donald & Mason, 1982; Melquist & Hornocker, 1983; Richardson et a!., 
+1985; Melquist & Dronkert, 1987; Macdonald et al., 1gg8a), ursids (Pelton 
+& Marcum, 1977; Kohn, 1982), and canids (Sargeant et al., 1993). Several 
+different methods of sign surveys have been used, including counting 
+tracks, scats, scratches, burrows or dens, and hair samples. For example, 
+diurnal surveys for signs (scat, tracks, fresh dirt diggings) of black-footed 
+ferrets have been conducted throughout the prairie ecosystem to locate 
+remnant populations (Fortenbery, 1970; Hillman & Linder, 1973; Richar- 
+dson et al., 1985). Trained dogs have even been used to search for ferrets 
+and their burrows (Dean, 1979). Tewes & Schmidly (1987) describe the use 
+of predator calls to attract ocelots (Leopardus pardalis) in south Texas. Con- 
+spicuous burrows of American badgers (Taxidea taxus) and European 
+badgers (Meles meles) have been used as an indicator of species presence 
+(Macdonald et al., 1gg8a). Surveys at bridges crossing over rivers have been 
+used to determine presence or absence of river otters, Lutra canadensis 
+(S. Macdonald & Mason, 1982; Melquist & Dronkert, 1987). Sprainting 
+
+
+Monitoring of terrestrial carnivore populations 1 377 
+(defecation) surveys for otters (L. lutra) provide good distribution informa- 
+tion in the UK, but appear to be unrelated to otter abundance (Conroy & 
+French, 1987; Kruuk et al., 1986). Schaller & Crawshaw (1980) identified 
+tracks and scats to determine the presence and movement patterns of jag- 
+uars (Panthera onca). Hairsnares or hair tubes can be used to assess dis- 
+tribution through species identification by characteristics of the hair (e.g., 
+Adorjan & Kolenosky, 1969; Moore et al., 1974) or DNA techniques (Foran 
+et al., 1gg7a,b; Paxinos et al., 1997; Kohn et al., 1999). 
+Track plates 
+The use of track plates to determine carnivore presence is gaining in popu- 
+larity, particularly for the detection of forest carnivores (e.g., Zielinski, 
+1995). This technique provides a reliable measure of species distribution or 
+presence, but may be unreliable for determining relative animal abun- 
+dance. Track counts in prepared beds have been used to estimate the extent 
+of mink (Mustela vison) distribution, but not numbers of mink (Burgess & 
+Bider, 1980; Humphrey & Zinn, 1982). Similarly, smoked track plates have 
+been used to record tracks of weasels (Barrett, 1983; T. Clark & Campbell, 
+1983), marten, Martes arnericana (Barrett, 1983; Zielinski & Truex, 1995)~ 
+and fisher, M. pennanti (Zielinski, 1995). A detailed description of tracking 
+plates and the implementation of both enclosed track-plate boxes and un- 
+enclosed track plates is provided by Zielinski (1995). In general, track surfa- 
+ces may be produced from smoked or carbon-sooted aluminum plates, 
+contact paper (tacky, white paper), chalk, or ink. A visual and/or olfactory 
+lure is used as an attractant to bring the animal to the tracking station and 
+while investigating the attractant the carnivore leaves tracks on the tracking 
+surface. Identification of tracks, getting the animal to step on the plate, 
+transportation of the tracking plates, and protecting the track plates from 
+the weather are all problems that require some prior planning when using 
+this technique (but see Zielinski, 1995 and Zielinski & Truex, 1995 for 
+suggestions). 
+Remote cameras 
+A relatively new method that is gaining popularity is the use of remote 
+cameras set along trails, near bait stations, or nests. Remote cameras have 
+been used successfully to detect several forest carnivores (Kucera et al., 
+1995; Foresman & Pearson, 1998) and elusive or nocturnal felids (Joslin, 
+1982; Rappole et al., 1985). The cameras are commercially available from 
+several manufacturers (see a list in Kucera et al., 1995). They can be set 
+up to be triggered by an animal tripping a line, or activated remotely by 
+, 
+
+
+378 1 E. M. Gese 
+pressure-sensitive plates, motion or heat detectors, or breaking of an in- 
+frared beam. While these camera systems are mostly used to detect the 
+presence of carnivores (Kucera et al., 1995; Naves et al., 1996; Foresman & 
+Pearson, 1gg8), or identify predators at bait stations or nests (Savidge & 
+Seibert, 1988), they could potentially be used to determine animal abun- 
+dance if individuals can be identified by artificial tags (e.g., ear tags, radio 
+collars) or natural features (e.g., pelage characteristics) and then applying 
+mark-recapture estimators. Remote cameras have the added benefit that a 
+permanent photographic record is available for examination by other re- 
+searchers. Disadvantages of remote cameras are expense (although some 
+systems are not too costly), getting animals to trigger the camera (similar to 
+problems associated with track plates), and the time delay between photo 
+acquisition and development of the film (i.e., results are not instan- 
+taneous). However, development of digital cameras that download images 
+into a computer may negate this concern. 
+Some considerations for sign surveys 
+A problem with using sign to determine carnivore distribution is the proper 
+and consistent identification of tracks, scats, burrows, and hair samples. 
+Species identification from scats can be assisted by the use of fecal bile acid 
+patterns detected by thin-layer chromatography (Major et al., 1980; John- 
+son et al., 1981). Examination of hair samples with a light microscope and 
+comparison to a hair key (e.g., Adorjan & Kolenosky, 1969; Moore et al., 
+1974) or reference collection can provide species identification. Recent ad- 
+vances in DNA techniques have opened the door for more accurate assess- 
+ment of species identification and carnivore distribution based upon scat or 
+hair samples (Foran et al., 1gg7a,b; Paxinos et al., 1997; Kohn et al., 1999). 
+It should be emphasized that most sign surveys only provide distribution 
+information. However, these DNA techniques can also be used to identify 
+individual animals allowing for estimation of population size (Kohn et d., 
+1999). The amount of sign left behind by an animal does not appear to 
+correlate with animal density for most carnivores (Messick & Homocker, 
+1981; Melquist & Hornocker, 1983; Messick, 1987). Also, simply because 
+observers fail to find sign does not necessarily indicate species absence. 
+Surveys for species presence used as measures ofanimal abundance 
+The previously discussed sign surveys can serve a dual purpose. In their 
+most rudimentary form they provide distributional information, but with 
+standardization of the methodologies and the amount of effort conducting 
+the survey, sign surveys may also be used as an index of animal abundance. 
+
+
+Monitoring of terrestrial carnivore populations 1 379 
+For example, if certain areas or habitats are repeatedly surveyed over time 
+and the number of hours of searching are recorded, then biologists may 
+standardize their surveys to trackslhour, scats/hour, etc., allowing for trend 
+information over time or comparisons between areas. 
+METHODS FOR ESTIMATING ANIMAL ABUNDANCE 
+Once a biologist has determined that a carnivore is present in a particular 
+area, the next question that may need to be answered is: how many animals 
+are there and what is the trend in abundance? Biologists may monitor ani- 
+mal abundance by direct methods of counting the animals themselves, or 
+indirectly by counting animal sign (Macdonald et al., 1998a). Estimating 
+animal abundance requires consistent and standardized application of a 
+technique to be able to detect changes or differences with some degree of 
+accuracy, precision, and power (Macdonald et al., 1998a). Thus, for any of 
+the following techniques, biologists must maintain a standardized study 
+protocol for the survey or count that is used and consistently apply that 
+protocol to all future surveys to allow for direct comparisons over time. 
+Whether biologists use sign surveys, indices of relative abundance, or 
+measures of absolute animal abundance, caution should be exercised when 
+examining population trends for carnivores. Assessing rates of increase or 
+decrease from trend data should be done carefully, taking into account the 
+precision and accuracy of the methods used to determine population size 
+estimates or indices of relative abundance. Biologists should be aware of the 
+influence of other variables on survey results. Biologists should consider 
+the characteristics of the animals themselves (e.g., behavior, size, color); the 
+topography and vegetation where the survey will be executed; temporal fac- 
+tors; observer experience, ability, and fatigue; and the spatial distribution of 
+the species concerned (i.e., widely distributed versus high density). Before 
+embarking on population trend analyses, biologists and researchers should 
+examine the assumptions and estimate the power of the survey technique 
+in its ability to detect population changes; see Gerrodette (1987), Eberhardt 
+& Simmons (1gg2), and Kendall et al. (1992) for more details. 
+Indirect methods 
+Scent-station surveys 
+One ,of the most common sign surveys utilized for indexing carnivore 
+abundance in North America is scent-post or scent-station surveys. Scent- 
+post surveys have been widely used to estimate the relative abundance of 
+several canids (Linhart & Knowlton, 1975; Roughton, 1979; Sumner & Hill, 
+
+
+380 ( E. M. Gese 
+1980; K. Johnson & Pelton, 1981; Morrison et al., 1981; Roughton & 
+Sweeny, 1982; Conner et al., 1983; Travaini et al., ~ggG; Sargeant et al., 
+1998), cats (Conner et al., 1983), mustelids (Brown, 1969; Lord et al., 1970; 
+Humphrey & Zinn, 1982; Melquist & Dronkert, 1987; Hein & Andelt, 
+~ggs), 
+raccoons (Sumner & Hill, 1980; W. Clark & Andrews, 1982; Conner 
+et al., 1983; Smith et al., 1gg4), and bears (Lindzey et al., 1977; Kohn, 1982). 
+Scent-post or scent-station surveys involve placing a scented tablet (e.g., 
+fermented egg extract, mackerel oil) or other attractant within a I-m circular 
+area of sifted dirt. Tracks left by an animal are identified to species, and 
+presence or absence of the species is recorded. Typically, stations are 
+spaced at a predetermined interval along roads or trails and then visited for 
+three to four consecutive nights to record tracks; the sifted area is swept 
+smooth after each night. Biologists should consider the movement patterns 
+and home-range size of the species of interest when determining the spac- 
+ing of the stations (i.e., close spacing for close-ranging species, increased 
+spacing for larger species). The frequency of animal visitation to operable 
+stations (i.e., not disturbed by wind, rain, vehicles) is used as an index of 
+abundance. For details on this method and its application, see Linhart & 
+Knowlton (1975)~ Roughton (1979)~ and Roughton & Sweeny (1982). Biolo- 
+gists interested in using scent-post surveys should consult Smith et al. 
+(1994) and Sargeant et al. (1998) prior to implementation. While some 
+biologists reported that scent-station surveys reflect changes in raccoon 
+abundance, Smith et al. (1994) found no association between visitation 
+rates and density of raccoons. Knowlton (1984) found a positive correlation 
+(r2 = 0.79) between coyote (Canis latrans) scent-station indices and es- 
+timated coyote density. Seasonal changes in habitat use and visits to 
+multiple stations by a single animal can contribute to invalid correlations of 
+animal density and visitation rates. Sargeant et al. (1998) makes several 
+recommendations regarding sample unit specification and interpretation 
+of scent-station surveys. Misidentification of tracks, problems with the 
+weather (mostly wind and precipitation), wariness of animals in relation to 
+the sifted substrate, and a fairly labor intensive technique are items to be 
+addressed when considering scent-station surveys. 
+A variation of the scent-post survey that has been used to index dingo 
+(C. 
+familiaris dingo) populations is the activity index (Allen & Engeman, 
+1995, Allen et al., ~ggG). 
+This index of animal visitation simply uses a sifted 
+dirt area on a road without any scent or lure to attract animals. The number 
+of track sets crossing the sifted area is used to assess relative abundance 
+and calculate a variance estimate (Engeman et al., 1998). 
+
+
+Monitoring of terrestrial carnivore populations ( 381 
+Scat deposition transects 
+The rate at which scats are deposited along established roadways has been 
+used as an estimate of relative abundance for some canid species, mainly 
+coyotes (Clark, 1972; Davison, 1980; Andelt & Andelt, 1984) and wolves, 
+Canis lupus (Crete & Messier, 1987). The general methodology involves des- 
+ignating transects or routes along a roadway, clearing all scats from the 
+road, then returning and collecting all scats encountered two weeks later. 
+The scat index is computed as the number of scats collected per transect per 
+14-day period (Davison, 1980). If transects vary in length, or the time per- 
+iods vary in the number of days between collections, then the index can be 
+standardized to scatslkmlday. Scat deposition rates for coyotes were found 
+to be correlated (r2 = 0.97) with estimates of animal density derived from 
+mark-recapture techniques using radioisotope tagging of feces (Knowlton, 
+1984). For long-term monitoring, scat transects should be conducted along 
+the same routes at the same time of year to avoid introducing biases asso- 
+ciated with differential prey digestibility (hence differential scat deposition 
+rates) and seasonal changes in food items consumed (Andelt & Andelt, 
+1984). Misidentification of scats and heavy vehicle traffic on roadways can 
+also be problematic when using scat deposition counts. Use of DNA tech- 
+niques for identifying species from scats may alleviate the problems of mis- 
+identification (Foran et al., 1gg7a,b) and identification of individual 
+animals collected during scat deposition transects could potentially be used 
+to estimate population size (Paxinos et al., 1997, Kohn et a!., 1999). 
+Track counts along a transect 
+Tracks left by carnivores along river beds, dry washes, sandy fire breaks or 
+roads, or on snow-covered roads and trails have been used as a relatively 
+simple and inexpensive measure of relative animal abundance for several 
+species of canids (Beasom, 1g74a; CrGte & Messier, 1987; Palomares et al., 
+199 G), felids (Anderson, 1981; Van Dyke et al., 1986; Van Sickle & Lindzey, 
+1991, 1992; Smallwood & Fitzhugh, 1995; Beier & Cunningham, 1996; 
+Stander, 1998), mustelids (Ruff, 1939; Quick, 1944; de Vos, 1952; Coulter, 
+1966; Priklonski, 1970; Fitzgerald, 1977; Powell, 1982; S. Johnson, 1984; 
+Slough & Smits, 1985; Golden, 1986; Melquist & Dronkert, 1987), ursids 
+(Pelton & Marcum, 1977; Stirling et al., 1980; Kohn, 1982; Kendall et a!., 
+19921, and Egyptian mongooses, Herpestes ichneumon (Palomares et al., 
+1996). Carnivores that occupy regions that receive snow have been 
+monitored through the use of counting tracks along established transects 
+within one to two days following fresh snowfall. Winter track counts along 
+standard transects have been routinely used to index the relative abundance 
+
+
+382 1 E. M. Gese 
+and population trends of marten (Slough & Smits, 1989, weasels (Ruff, 
+1939; Quick, 1944; Priklonski, 1970; Fitzgerald, 1977)~ and fisher (de Vos, 
+1952; Coulter, 1966; Powell, 1982; S. Johnson, 1984). Similarly, counts of 
+tracks left by cougars (Puma concolor) along dry washes has been used to 
+index animal abundance (Beier & Cunningham, 1996). Golden (1986) was 
+able to conduct aerial track counts for wolverines (Gulo @lo) in unforested 
+areas of Alaska. Ballard et al. (1995) reported good precision between line- 
+intercept sampling of tracks and estimates of wolf density based upon 
+radiotelemetry. This technique was repeatable, efficient, reasonably accu- 
+rate, and relatively inexpensive. Biologists attempting transect counts of 
+tracks should be aware of some pitfalls. Misidentification of tracks and low 
+power to detect population changes can occur when using track counts 
+(Van Sickle & Lindzey, 1991; Kendall et al., 1992; Ballard et al., 1995; Beier 
+& Cunningham, 1996). Precision can be increased by increasing sampling 
+effort (more transects), or increasing the length of transects if dealing with 
+a far-ranging species (e.g,, cougars: Van Sickle Sc Lindzey, ~ g g ~ ) ,  
+although 
+see Kendall et al. (1992). Much of the power of this estimator is dependent 
+upon a high rate of encountering sign along the transects (Kendall et al., 
+1992). When working in areas with snowfall, variables one must consider 
+include the condition and consistency of the snow, variable depth of snow 
+(i.e., no snow negates data collection), temperature, and time of year. Ob- 
+server experience at interpreting tracks is also crucial for consistent and 
+reliable monitoring. 
+Den and burrow surveys 
+Ground and aerial surveys for active dens have been conducted along tran- 
+sects as a method of indexing relative abundance of some carnivore species. 
+Annual den surveys have been used to monitor populations of arctic fox 
+(Alopex lagopus) in northern dry tundra (Macpherson, 1969; Garrott et al., 
+1983), but appear to have little application in areas of coastal wet tundra 
+(Anthony, 1996). Ground and aerial surveys for dens has been used to 
+monitor kit fox (Vulpes macrotis) populations in desert environments 
+(O'Farrell, 1987) and red fox (V. vulpes) populations on the prairie (Traut- 
+man et al., 1974). The key to this survey technique is relatively open habitat 
+with little vegetative cover and a carnivore species that makes conspicuous 
+dens or burrows. These surveys can be relatively expensive (aerial searches) 
+and/or labor intensive (ground searches), In general, this survey entails 
+personnel walking or flying along a route or transect searching for active 
+dens. The presence of feces or tracks at the burrow or den can assist in 
+species identification. Ground surveys conducted along transects can also 
+
+
+Monitoring of terrestrial carnivore populations 1 383 
+be used to calculate the density of dens if biologists record the perpendicu- 
+lar distance from the transect to the den (Burnham et al., 1980). Conspicu- 
+ous burrows dug by badgers have been used to indicate species presence, 
+but there appears to be no correlation between density of burrows and ani- 
+mal abundance (Messick & Hornocker, 1981; Messick, 1987). This tech- 
+nique would probably not work well for indexing carnivores with large 
+social units. No matter how large the pack, coyotes and wolves typically 
+have one natal den to rear offspring (i.e., a pair of coyotes uses the same 
+number of dens as a pack of seven coyotes). For animals that exist in packs 
+or clans, the number of dens would more likely indicate the number of 
+social units present across an area, but not the number of animals in each 
+social unit. 
+Vocalization response surveys 
+For social carnivores that utilize long-range vocalizations (roars, howls, or 
+whoops) to communicate, biologists have been able to use the response rate 
+to simulated vocalizations as an estimate or index of relative animal abun- 
+dance. Howling surveys for coyotes (Wenger & Cringan, 1977, 1978; 
+Okoniewski & Chambers, 1984) and wolves (Harrington & Mech, 1982; 
+Carbyn, 1982; Fuller & Sampson, 1988), roaring for lions, Panthera leo 
+(Rodgers, 1974; Maddock et al., 1996; Ogutu & Dublin, 1998), and long- 
+distance whoops for hyenas, Crocuta crocuta (Ogutu & Dublin, 1998) have 
+all been used as a technique for estimating animal abundance. Vocalization 
+response surveys typically employ recorded vocalizations, although human 
+imitation of sounds is sometimes effective. Traveling along roads or trails 
+and stopping at predetermined intervals, vocalizations are produced and 
+then observers listen for a specified amount of time for a response from the 
+target species. The biologist may conduct the survey over several nights and 
+use the vocalization response as a means of estimating the relative abun- 
+dance of the carnivore species. Standardization and consistency of this 
+method is needed for reliable and comparable results for trend analyses. 
+Biologists should also be aware ofthe seasonal, social, temporal, and spatial 
+factors that may influence carnivore vocalization rates (Laundrk, 1981; Har- 
+rington & Mech, 1982; Walsh & Inglis, 1989; Gese & Ruff, 1998). For an 
+accurate population census, biologists need to intensively survey the area of 
+interest to obtain adequate coverage (Fuller & Sampson, 1988). In the 
+Masai Mara National Reserve of Kenya, Ogutu & Dublin (1998) estimated 
+that 20% of the study area had to be sampled to acquire reliable estimates 
+of hyena and lion abundance. 
+
+
+384 1 E. M. Gese 
+Frequency of depredation complaints 
+The frequency of livestock depredation complaints may be useful as an 
+indicator of relative abundance and population trend under the general 
+belief that animal abundance is correlated to rates of livestock predation. 
+Because this relationship has not been explicitly tested, biologists should be 
+cautious of this technique as depredation rates are subject to changes in 
+livestock stocking rates, habitat type, size of area used, husbandry practices, 
+and environmental variables (Fritts, 1982; Lindzey, 1987; Mech et al., 
+1988a). 
+Some considerations when using indirect methods 
+Indirect methods provide only relative abundance, not absolute abundance, 
+and must be applied consistently for any reliable comparisons between 
+areas, habitats, or over time. Whenever indices of relative abundance are 
+used, biologists should attempt to learn if the relationship between relative 
+indices and absolute abundance is positively and monotonically related, or 
+if the relationship is nonmonotonic. Is the relationship linear with a con- 
+stant slope, or linear with a variable slope? Indices that are nonmonotonic 
+to animal abundance are of little use in monitoring trends of a carnivore 
+population. Comparison of an inexpensive indirect method to a more ex- 
+pensive direct method could prove worthwhile for calibration of the less 
+expensive technique. During such a calibration, the techniques should be 
+performed concurrently and may need to be conducted on a species-speci- 
+fic, habitat-specific, and seasonal basis. Unfortunately, few indices of rela- 
+tive abundance have been properly tested with a known carnivore 
+population estimate. Of those that have been examined, results are mixed. 
+Knowlton (1984) found positive correlations between scat deposition rates 
+along transects and estimated coyote population density. Scent-post survey 
+indices were also positively related to coyote density. In contrast, Smith et 
+al. (1994) found no association between scent-station visitation rates and 
+density of raccoons. 
+Direct counts 
+Direct counts involve the actual counting of animals themselves, in con- 
+trast to counting sign. These counts may use either dead animals (e.g., 
+mortality samples, road kills, harvest reports) or live animals (e.g., trapping 
+or sightings). The assumptions of direct counts and the estimators used to 
+determine population size should be carefully reviewed (Caughley, 1977; 
+Burnham et al., 1980; Skalski & Robson, 1992). Counts may involve total 
+counts of the area, or a subsample of the area and extrapolation to the rest 
+
+
+Monitoring of terrestrial carnivore populations 1 385 
+of the area of concern. Stratification of subsamples to different habitat types 
+or land classes may increase the validity, usefulness, and precision of the 
+surveys (Macdonald et al., 1gg8a). 
+Harvest reports and pelt registration 
+A method of gaining insight into abundance (and certainly distribution) of 
+a species is examination of harvest and trapping records. Current and his- 
+torical harvest records can be a valuable resource in obtaining a general, if 
+subjective, idea of animal distribution and abundance (Seton, 1909; 
+Hewitt, 1921). In the Canadian provinces, mandatory pelt sealing reports 
+has also been used to estimate furbearer population trends (Novak, 1987). 
+In the UK, a decline in otter numbers was observed through a decrease in 
+hunting success (Strachan & Jefferies, 1996). While detailed information 
+from harvested animals can be used to construct models for population 
+estimation (W. Clark & Andrews, 1982), harvest data alone is generally not 
+a reliable estimate of population trends. Pelt prices, differential harvest 
+methods, and environmental and social factors all influence harvest rates. 
+W, Clark & Andrews (1982) speculated that harvest surveys may indicate 
+population trends of furbearers with low commercial value because harvest 
+trends would be less affected by management actions and fur prices. Other 
+problems associated with the use of harvest records include hunters and 
+trappers not keeping records, trappers having faulty memories, only some 
+hunters submitting reports (usually successful hunters), and sometimes 
+trappers will give inaccurate reports to avoid tax auditors (Sanderson, IggIa; 
+W. Clark & Andrews, 1982). For rare species (e.g., coati, Nasua navica), fur 
+harvest reports are generally unreliable for population trends (Kaufman, 
+1987), while harvest reports for abundant furbearer populations (e.g., long- 
+tailed weasel, Mustelafienata) may be reliable measures of population trend 
+(Hamilton, 1933; Barbour & Davis, 1974). 
+One method for estimating harvest rate and population size of bobcats 
+(Lynx rubs) uses the total number of harvested animals, the sex-specific age 
+distribution of the harvest, and the estimates of harvest effort over the span 
+of years represented in the age distribution (Paloheimo & Fraser, 1981; 
+Rolley, 1987). Interpretation of the sex and age structure of harvested 
+samples is commonly used to assess changes in black bear ( Ursus american- 
+us) populations (Whelan et al., 1978; Lindzey & Meslow, 1980; Kolenosky & 
+Strathearn, 1987). However, when using harvest data, the validity of the 
+underlying assumptions should be carefully evaluated (Gilbert et al., 1978). 
+Population trends of carnivores have been examined in relationship to past 
+and current harvest records for many species of Canidae (Elton, 1942; 
+
+
+386 ( E. M. 
+Gese 
+Chitty, 1950; W. Clark & Andrews, 1982; Erickson, 1982), Felidae (Elton & 
+Nicholson, 1942; Erickson, 1982; Lindzey, 1987; Rolley, 1987; Quinn & 
+Parker, 1987), Mustelidae (Hamilton, 1933; Barbour & Davis, 1974; W. 
+Clark & Andrews, 1982; Powell, 1982; Linscombe et al., 1982; Strickland & 
+Douglas, 1984; Melquist & Dronkert, 1987), Procyonidae (Seton, 1909; 
+Hewitt, 1921; Sanderson, IgsIa; W. Clark & Andrews, 1982; Kaufman, 
+1987; Novak, 1987)~ and Ursidae (Whelan et al., 1978; Lindzey & Meslow, 
+1980; DeMaster et al., 1980; Kolenosky, 1987). However, no in-depth test- 
+ing has been conducted to confirm the relationship between animal popu- 
+lation density and reports of fur or animal harvest statistics. 
+Road mortality samples 
+The frequency of animal carcasses found on roadways has been proposed 
+as a measure of population trend for some carnivore species, usually as an 
+index of relative abundance. For example, the number of raccoons (Procyon 
+lotor) and skunks (Mephitis mephitis) killed along roads have been used as 
+measures of relative abundance (W. Clark & Andrews, 1982; Bartlett & 
+Martin, 1982). While this technique is intuitively simple and appealing, 
+differences in animal behavior and movements, habitat, traffic density, 
+road surface, and road density likely influence kill rates of some carnivores; 
+nor has the relationship between population density and road kill rate been 
+adequately examined. However, Birks & Kitchener (1999) calibrated road 
+kills of polecats with numbers estimated from intensive live trapping. Road 
+mortality samples can be used to confirm species presence. 
+Spotlight surveys 
+Spotlight surveys are a cost effective method typically used for assessing the 
+relative abundance of nocturnal animals. Estimates of relative abundance 
+for nocturnally active carnivores, such as raccoons (Andrews, 1979; 
+Frederickson, 1979; Rybarczyk et a!., 1981; W. Clark & Andrews, 1982), 
+badgers (Hein & Andelt, ~ggs), kit foxes (Ralls & Eberhardt, 1gg7), red 
+foxes (Weber et al., ~ g g ~ ) ,  
+black-footed ferrets (Campbell et al., 1985), and 
+skunks (Schowalter & Gunson, 1982; Rosatte, 1987), have been determined 
+with spotlight surveys. These surveys usually involve two observers stand- 
+ing in the back of a truck being driven slowly (16-24 km/hr) along road- 
+ways, scanning the road and sides for animals using spotlights of 
+> ~ o o o o o  candlepower. When an animal is detected, usually by eye 
+shine, the driver stops the vehicle and the observers identify the animal 
+(using binoculars or a spotting scope). The mileage and time of detection is 
+recorded for each sighting. An index of animals/km is then calculated. 
+
+
+Monitoring of terrestrial carnivore populations 1 387 
+Spotlight counts can be used to estimate population size with line-tran- 
+sect methodology if the perpendicular distance to the sighted animal is 
+recorded (Thompson et al., 1998). Transects need to be fairly lengthy ( > 10 
+km), and because vegetative cover and topography can influence visibility 
+(Whipple et al., 1994; Ralls & Eberhardt, 1997) which influences survey 
+results, these variables should be considered in survey design (Ralls & Eber- 
+hardt, 1997). For a description of this technique in assessing fox abun- 
+dance, see O'Farrell (1987) and Ralls & Eberhardt (1997). Surveys can be 
+conducted over several nights (repeated counts) to obtain a measure of 
+sampling error (Norton-Griffiths, 1975). Large samples with replication are 
+needed to detect changes in population size with any statistical power (Ralls 
+& Eberhardt, 1997). Surveys can be conducted seasonally and annually for 
+population trend analysis. Spotlight counts do not work well in areas con- 
+taining low densities of carnivores. Spotlight counts may also be used to 
+acquire a relative estimate of the abundance of certain prey species at the 
+same time (Barnes & Tapper, 1985; White et al., 1gg6), but Ralls & Eber- 
+hardt (1997) believed that spotlighting was not a sensitive method for as- 
+sessing prey abundance. 
+Catch-per-unit-effort 
+Live trapping certainly gives a positive confirmation of species presence 
+and hence distribution. The number of animals captured per trap-night can 
+also be used as an index of relative abundance of carnivores. Live trapping 
+is expensive and labor intensive, and can be ineffective in areas with low 
+carnivore density. In addition, standardization of capture procedures and 
+variation among individual trappers can cause problems with this method- 
+ology. This technique has been used to assess the relative abundance of 
+coyotes (F. Clark, 1972; Davison, 1980; Knowlton, 1984), island gray foxes, 
+Urocyon littoralis (Crooks, 1gg4), kit foxes (Cypher & Spencer, 1gg8), felids 
+(Rolley, 1987), and some species of mustelids (Lindzey, 1971; Simms, 1979; 
+Bjorge et al., 1981; King, 1981; Hein & Andelt, 1995). For weasels, the 
+number of animals caught per trap-night appears to be linearly related to 
+animal density (Caughley, 1977)~ 
+but few experimental tests have been con- 
+ducted for other carnivore species. 
+Capture-mark-recapture 
+A technique originally developed with small mammals and proving useful 
+for estimating carnivore populations is capture-mark-recapture. While 
+mark-recapture is fairly time consuming, labor intensive, and costly, 
+it does provide a reliable estimate of population size (i.e., absolute 
+
+
+388 1 E. M. 
+Gese 
+abundance) for many carnivore species, including badger (Messick & Hor- 
+nocker, 1981), ringtail (Bassariscus astutus) and coati (Kaufman, 1987)~ 
+mus- 
+telids (Bailey, 1971; King & Edgar, 1977; Messick & Hornocker, 1981; 
+Douglas & Strickland, 1987; Rosatte, 1987; Strickland & Douglas, 1987)~ 
+bears (Pelton et al., 1978; DeMaster et al., 1980; Miller & Ballard, 1982; 
+Kruuk, 1995; Miller et al., 1997), canids (F. Clark, 1972; Todd ct al., 1981; 
+Roemer et al., 1994), felids (Schaller, 1972; Currier et al., 1977; Mills et al., 
+1978; Miller, 1980; Quinn & Parker, 1987), hyenas (Kruuk, 1972b; Sillero- 
+Zubiri & Gottelli, 1993). and raccoons (Sanderson, 1g51b). Mark-recapture 
+can provide relatively accurate estimates of population size if sample sizes 
+are adequate, data collection techniques are unbiased, and the basic as- 
+sumptions for the population estimator are not violated (see Caughley, 
+1977; Wilson et al., 1996; or Thompson et al., 1998; and references therein 
+for assumptions of various estimators). This method involves capturing 
+and marking individuals, then recapturing a number of the marked indi- 
+viduals again and estimating population size based upon the ratio of 
+marked to unmarked animals recaptured using one of several models (Pol- 
+lock, 1981; Seber, 1982; Montgomery, 1987). 
+Marks employed to tag the animal include ear tags, radio collars, dyes, 
+and physiological markers such as radioactive isotopes. 'Recapture' may 
+involve actual physical recapture of the animal, resighting of the animal 
+(Smuts, 1976; Todd et al., 1981; Miller et al., 1997), returns from trappers or 
+hunters (Sanderson, ~ g y b ) ,  
+recapture via fecal analysis for a physiological 
+marker, or a combination of these (e.g., Currier et al., 1977). Kohn et al, 
+(1999) estimated coyote population size by identifying individual animals 
+through fecal DNA analysis combined with mark-recapture methodology. 
+Several different models for population estimation (e.g., Petersen, Jolly- 
+Seber, Schnabel) can then be used to calculate population size (Caughley, 
+1977; Jolly, 1982; Seber, 1982; Thompson et al., 1998). Many of these 
+models are now available on software for use on a computer (e.g., programs 
+CAPTURE by White et al., 1982; NOREMARK by White, 1996; EAGLES by 
+Arnason et al., 1991). If the area of interest or trapping effort is known, then 
+density estimates can be derived. Researchers should review capture-recap- 
+ture methodologies outlined by Caughley (1977) or Thompson et al. (1998) 
+to assist in the study design prior to implementation. Various trapping 
+designs have been used with mark-recapture estimators. Roemer et al. 
+(1994) used a trapping grid to estimate population size of island gray foxes. 
+A trapping web design was used to estimate numbers of Indian mon- 
+gooses, Herpestesjavanicus (Corn & Conroy, 1998). F. Clark (1972) captured 
+and marked coyote pups at dens in the spring then recaptured them during 
+late-summer trapping sessions. 
+
+
+Monitoring of terrestrial carnivore populations ( 389 
+The use of physiological markers has received increased interest as a 
+means of marking animals and then using 'recaptures' of those marks to 
+estimate animal abundance with mark-recapture estimators. The method 
+involves capture of the animal, injection or oral dosing of the animal, then 
+resampling the animal at a later date either by direct recapture and blood 
+sampling, collection of labeled scats, or examination of hunter killed ani- 
+mals. Radioactive isotopes have been used to determine densities of black 
+bears and other carnivores (Pelton & Marcum, 1977; Kruuk et at., 1980). 
+Radioactive zinc has been used to estimate the density of European badgers 
+by injecting the captured individuals, then detecting the isotope in feces 
+and estimating the population size from the ratio of radiolabeled to normal 
+feces (Kruuk et al., 1980; Kruuk & Parrish, 1982). Kruuk et al. (1993) used 
+radioactive isotopes to mark otter spraints and then identify which otter 
+deposited that spraint. With the added responsibility and permitting 
+needed to handle and store radioisotopes, researchers have examined other 
+compounds to serve as individual markers for carnivores. Knowlton et at. 
+(1988) reported that oral doses of iophenoxic acid were detectable or trace- 
+able in coyotes up to IG weeks post-ingestion. Johnston et at. (1998) tested 
+the use of chlorinated benzenes as physiological markers for coyotes and 
+found that injection or ingestion (oral dose) of some compounds were de- 
+tectable up to IOO days later in feces and blood serum. Biomarkers have 
+been used to estimate animal abundance in canids (Davison, 1980; Knowl- 
+ton, 1984), mustelids (Kruuk et al., 1980; Kruuk & Parrish, 1982; Knaus et 
+al., 1983; Melquist & Dronkert, 1987)~ 
+raccoons (Conner et al., 1983; Conner 
+& Labisky, 1985), and bears (Pelton & Marcum, 1977). 
+Direct counts by removal 
+For some species of furbearers, most often species that are considered 
+pests, the removal method has been used to estimate animal abundance. 
+The method has been used to estimate population size mainly on skunks 
+(Skalski et al., 1984; Rosatte, 1987) and raccoons (Twichell & Dill, 1949; 
+Fountain, 1975). Disadvantages of this technique is the lack of knowledge 
+of what proportion of the population was missed or not captured, and how 
+large an area was affected by the removal. Due to the economic importance 
+of the furbearer species, intrinsic values, and/or the social and political 
+ramifications, the removal method is rarely employed. 
+Transect, strip, or area sampling 
+In certain circumstances it may be possible for the biologist to directly 
+count the number of animals along transects, strips, in quadrants, or with- 
+in a defined area and estimate animal population size or density (Gates, 
+
+
+390 1 E. M. 
+Gese 
+1979; Burnham et al., 1980; Rao et al., 1981; Bibby et al., rggza). While 
+transect and quadrant surveys are commonly used for estimating popula- 
+tions of ungulates, some of the larger carnivores may be surveyed with this 
+technique. Trends in relative abundance can be compared from direct 
+counts; absolute abundance may be estimated if correction factors are avail- 
+able to account for problems with sightability (Samuel et al., 1987). Popula- 
+tion estimates can also be calculated by distance methods along line- 
+transects (Burnham et al., 1980). Software programs that will estimate 
+population size using distance data along transects include DISTANCE 
+(Buckland et al., 1993; Laake et al., 1993) and TRANSECT (Burnham et al., 
+1980). Aerial surveys typically require a large carnivore occupying a rela- 
+tively sparsely vegetated habitat that allows for maximum sightabi1ity. Aer- 
+ial surveys have been used to estimate animal abundance of coyotes (Nellis 
+& Keith, 1976; Todd et al., 1981), brown bears, Ursus arctos (Erickson & 
+Siniff, 19G3), and polar bears, Ursus maritimus (Scott et al., 1959; Prevett & 
+Kolenosky, 1982). Air and ship censuses of polar bears have been conduc- 
+ted during the summer when bears are concentrated along the polar ice 
+pack (Larsen, 1972). 
+The number of animals sighted can be affected by weather, vegetation, 
+visibility, and observer experience and fatigue. Miller & Russell (1977) com- 
+pared aerial transect-strip counts and ground counts of wolves and reported 
+that the behavior of the animals, width of the survey strip, and visibility all 
+contributed to unreliable estimates ofwolves using aerial surveys over open 
+tundra habitat. The use of ultraviolet, infrared, or thermal imagery photo- 
+graphy has been proposed for enhancing sightability of polar bears 
+(Lavigne & aritsland, 1974) and cougars (Havens & Sharps, 1998) during 
+aerial surveys. Ground surveys are practical for smaller carnivores or ani- 
+mals that can be readily viewed in open habitats, Population trends for coati 
+were measured by making visual counts along walked transects (Kaufman, 
+1987). Hyenas were sampled by ground transects in Africa (Hanby & By- 
+gott, 1979). In certain situations, the entire area of interest may be sur- 
+veyed, and through repeated sampling and reobservation, the entire 
+population may be counted. For example, the wolves on Isle Royale have 
+been observed and counted for decades, with each wolf pack counted on the 
+island each winter (Jordan et al., 1967; Wolfe & Allen, 1973; Peterson et al,, 
+1998). However, the ability to count all individuals in a defined area is a 
+rare circumstance, but correction factors from a radio-marked sample can 
+be used for determining a more accurate estimation of population size. 
+
+
+Monitoring of terrestrial carnivore populations I 391 
+Identification of individual animals 
+While the opportunity to directly observe carnivores may be considered 
+rare, there are certain species living in national parks or reserves with open 
+habitats that allow for direct observation and identification of all individuals 
+in the study area. This technique has been used successfully in studies of 
+large carnivores in Africa. Biologists studying African lions have been able 
+to identify all individuals by using sketches and photographs so that all 
+lions found could be positively reidentified by a combination of ear notches, 
+vibrissae spot patterns, and other natural features (Pennycuick & Rudnai, 
+1970; Bretram, 1975; Hanby & Bygott, 1979). Similarly, identification of 
+individual hyenas by distinct spot patterns, scars, and ear notches (East & 
+Hofer, 1991) has been used to determine population size (Hofer & East, 
+1995). Throat patches have been used to identify individual European otters 
+(Watt, 1993). Individual coyotes in Yellowstone National Park were identifi- 
+ed through radio collars, ear tags, and unique phenotypic characteristics. 
+Observation of these animals permitted determination of pack size, and 
+hence population size (Gese et al., 19gGa). Maddock & Mills (1993) cen- 
+sused African wild dogs by collecting photographs from tourists and other 
+field personnel. They were able to identify 357 wild dogs from 26 packs by 
+examining over 5000 photographs. 
+Common to studies using identification of individuals is relatively open 
+habitat and a carnivore species that is readily observable and generally toler- 
+ant of human presence. In fact, the animals do not necessarily need to be 
+marked for individual identification, as individuals may be resighted and 
+identified indirectly. Track characteristics of cougars has been used in 
+which tracks of individual animals were separated on the basis of character- 
+istics and location. These individual tracks were then combined to provide a 
+density estimate (Koford, 1976; Ackerman et al., 1981; Van Dyke et al., 
+1986; Smallwood & Fitzhugh, 1993). The main advantage of using charac- 
+teristics of individual tracks for identification was that it entailed less effort 
+than a large-scale trapping program, but the accuracy of this method in 
+relation to changes in population size remains untested (Lindzey, 1987). 
+While individual identification allows for a relatively complete count of ani- 
+mals, the time and effort for this type of monitoring avails itself only to 
+particular situations and is often conducted in conjunction with behavior 
+studies (e.g., East & Hofer, 1991; Gese et al., 1gg6a). Another method that 
+is receiving increasing attention is the use of hairsnares to acquire hair 
+samples from carnivores, then using DNA sequencing to identify individ- 
+uals in the population (Foran et al., 1gg7b; Paxinos et al., 1997; Kohn et al., 
+1999). 
+
+
+392 ( E. M. 
+Gese 
+Radiotelemetry 
+With the introduction of radiotelemetry back in the ~gGos (Cochran & 
+Lord, 1963), the ability to monitor secretive carnivores increased tremen- 
+dously. This method allows researchers to estimate the home-range size or 
+territory size of an animal. Combining territory size (and overlap) with the 
+number of members of the social unit or pack, plus the percentage of radio- 
+collared transients sampled from the population, density estimates can be 
+derived for the population in question. Because canids tend to be highly 
+social with well-defined territories, radiotelemetry is now widely accepted 
+as a method to measure population size and density (e.g., Mech, 1g73a; 
+Fritts & Mech, 1981; Fuller, 1989; Gese et a!., 1989). For more solitary 
+carnivores, estimates of home-range size, the extent of inter- and in- 
+trasexual home-range overlap, and the proportion of transients in the popu- 
+lation are used to estimate population density. This method has been used 
+for felids (Hornocker, 1970; Seidensticker et al., 1973; Hemker, 1982; 
+Rolley, 1987; Quinn & Parker, 1987), mustelids (Melquist & Hornocker, 
+1979; Hornocker & Hash, 1981; Magoun, 1985; Douglas & Strickland, 
+1987; Strickland & Douglas, 1987)~ ringtails and coatis (Lanning, 1976; 
+Trapp, 1978; Russell, 1979; Lacy, 1983), and bears (Kolenosky, 1987). While 
+radiotelemetry is very labor intensive and costly, this technique provides 
+one of the best and reliable estimates of population density for many carni- 
+vores. Long-term studies using radiotelemetry provide the most reliable 
+annual estimates of population density for several secretive, far-ranging, 
+low-density carnivores, such as cougars (Hornocker, 1970; Seidensticker et 
+al., 1973; Hemker, 1982), wolverine (Magoun, 1985), and lynx, Lynx lynx 
+(Quinn & Parker, 1987). With the advent of satellite and GPS technology, 
+more intensive monitoring of large and medium-sized carnivores will be 
+possible (Ballard et al., 1998; Merrill et at., 1998), but systems for smaller 
+carnivore species will require further technological development. 
+MONITORING ANIMAL POPULATION DEMOGRAPHICS 
+The previously described methodologies provide information on how a car- 
+nivore population may be doing numerically, but do not necessarily answer 
+questions of why the population trajectory is up, down, or stationary. In 
+order to do this, one must know the rates of survival, fecundity, immigra- 
+tion, and emigration that influences the persistence of a carnivore popula- 
+tion. Thus, in this section I will attempt to summarize the important 
+features that one may need to measure in order to understand these im- 
+portant demographic processes. There are entire books devoted to the 
+
+
+Monitoring of terrestrial carnivore populations I 393 
+analysis of animal population dynamics (e.g., Caughley, 1977; Royama, 
+1gg2), therefore I will not go into detail of the mathematics involved. Be- 
+cause most of the actual techniques used to measure survival, fecundity, 
+immigration, and emigration are species specific, for the scope of this chap- 
+ter I will only provide a listing of the various measures one may want to 
+monitor. I strongly recommend that readers embarking on a study of carni- 
+vore population dynamics consult Caughley (1g77), Royama (1992)~ 
+Thom- 
+pson et al. (1998), and White & Garrott (1990) during the design and 
+planning stages of studies so as to maximize their effort in collecting the 
+proper data needed for demographic analyses. 
+Fecundity 
+The fecundity rate of a female is the number of offspring she produces over 
+an interval of time (Caughley, 1977). Measuring fecundity or reproduction 
+is fairly involved and time consuming. However, there are several basic 
+questions dealing with fecundity that biologists may wish to ask: (I) when 
+does the breeding season start and how long does it last, both in terms of 
+estrous and gestation?; (2) when are the young born?; (3) what proportion of 
+the females in the population breed?; (4) how many young are produced?; 
+(5) is there one (monestrous) or multiple (polyestrous) breeding seasons in 
+a year?; (6) what is the sex ratio at birth?; and (7) what is the age of first 
+reproduction? There are various techniques to answer these questions. For 
+carnivores, collection of carcasses, recovery of tagged animals, and observa- 
+tions in the field or captivity may address some of the questions. More 
+specifically, examination of ovaries (corpora lutea counts) and placental 
+scar counts from recovered animals or hunter killed animals, the ratio of 
+juveniles to females in harvest counts, and/or observation of litter size in 
+the field will give some measure of reproductive output (e.g., age-specific 
+fecundity). Behavioral observations of animals in the field or captivity, 
+physical examination, or tissue histology may provide information on initi- 
+ation and cessation of the breeding season, and age of first breeding or 
+sexual maturity. 
+Survival 
+Measuring the survival rates of carnivores usually involves construction of a 
+life table or estimation of survival from radiotelemetry data. Pertinent ques- 
+tions a biologist may consider when designing a study to address survival 
+rates are: (I) what is the number of deaths in each age interval?; (2) what 
+is the probability of dying in each age interval?; (3) does mortality vary 
+between seasons?; and (4) what are the causes of mortality? Ages from 
+
+
+394 ( E. M. Gese 
+animals collected from hunters and trappers can be used to construct life 
+tables. Caughley (1977) presents detailed information on various models 
+for life-table construction and survival analysis. Measuring radio-days and 
+numbers of deaths during defined time intervals derived from radio-col- 
+lared animals can be used to calculate daily and interval survival rates 
+(Trent & Rongstad, 1974; Heisey & Fuller, 1985). Application and assump- 
+tions of various survival estimators using radio-collared animals is covered 
+thoroughly in White & Garrott (1990). Popular software programs that will 
+estimate survival rates include SURVIV (White, 1983) and MICROMORT 
+(Heisey & Fuller, 1985). The statistical package SAS (SAS Institute Inc.) 
+will also calculate survival rates using the Kaplan-Meier product limit es- 
+timator (White & Garrott, 1990). 
+Immigration and emigration 
+Measuring emigration and immigration from a carnivore population 
+usually involves the capture and tagging of several individuals and the sub- 
+sequent recapture or radio-tracking of those individuals. Monitoring of the 
+movements of animals out of a marked population (e.g., dispersal) is a 
+simpler task that monitoring movements into the population, because 
+biologists can not predict where immigration will occur from outside the 
+known study population. Thus, biologists typically assume that the rate of 
+movement out (egress) of their study area is equal to the rate of ingress. 
+This assumption is usually violated, particularly if one of the populations is 
+receiving control or some form of management. Whether the population 
+being studied is maintained as a source or sink is pertinent to understand- 
+ing the system and carnivore population in question. 
+DISEASE MONITORING 
+A subject often overlooked when monitoring carnivores is the question per- 
+taining to the role of diseases in population dynamics. With an increasing 
+interface between carnivores and humans and their pets, livestock, and 
+expanding development, the possibility of disease transmission continues 
+to escalate. Rare or endangered carnivores exposed to disease agents can 
+have dire consequences. Canine distemper caused a rapid decline in black- 
+footed ferret numbers and almost caused the species to become extinct 
+(Williams et a!., 1988). Similarly, rabies has been implicated in the decline 
+of African wild dogs (Woodroffe SE Ginsberg, 1gg7b). Biologists beginning 
+a study should investigate the possible need for a disease monitoring pro- 
+
+
+Monitoring of terrestrial carnivore populations I 395 
+gram and handling protocol (for animals and samples collected), especially 
+if dealing with a plan to reintroduce a species, or a rapidly declining carni- 
+vore population. Physical examination of living animals, blood collection 
+for serological analysis, and post-mortem examinations of animals col- 
+lected from trappers or hunters and recovery of telemetered animals can be 
+used in a disease monitoring program. Consultations with wildlife veterin- 
+arians affiliated to a diagnostic lab or university are recommended to recog- 
+nize which diseases should be screened for and then design an appropriate 
+monitoring program. 
+MODELS 
+Computer simulations have been used to model carnivore population dy- 
+namics. Models which take into account different levels or rates of demo- 
+graphic variables, such as survival, fecundity, age structure, etc. have been 
+used to develop computer simulations of population trends of various car- 
+nivore species, including coyotes (Connolly, 1978; Sterling et al., 1983), 
+river otters (Tabor & Wight, 1977; Mowbray et al., 1979). polar bears (Stirl- 
+ing et al., 1976), and black bears (Lindzey 6 Meslow, 1980). These models 
+can then be used to simulate the population response when one or more 
+demographic variables is manipulated. The use of simple population 
+models has now expanded into more sophisticated models and software 
+programs (e.g., VORTEX by Lacy, 1gg3b). Population viability analysis 
+(PVA) and population and habitat viability assessment (PHVA) has been 
+used to evaluate the outcomes of various management actions, environ- 
+mental perturbations, and stochastic events on the population viability of a 
+species over a predetermined period of time (Shaffer, 1981; Boyce, 1992; 
+Reed et al., 1998) using life-history data in relation to environmental factors 
+(e.g., Shaffer, 1983). Biologists using these models should consider the 
+'realism' of these models. A PVA or PHVA is only a model and may not 
+actually reflect or predict population persistence, and thus should not be 
+the primary tool for developing a conservation plan. Macdonald et al. 
+(1998a) recommended that PVAs appear to be most useful to biologists by 
+guiding management actions and identifying practical monitoring 
+methods. The accuracy of the data inputted into the model, levels of uncer- 
+tainty, as well as the sensitivity of the model should be evaluated (Reed et 
+al., 1998). Some PVAs and PHVAs may actually be best used to raise ques- 
+tions and formulate hypotheses for future testing (Macdonald et al., 1gg8a; 
+Reed et al., 1998). 
+
+
+396 ( E. M. 
+Gese 
+SUMMARY 
+In closing, as with all of the techniques mentioned above, personnel utiliz- 
+ing these methodologies should seriously consider what questions need to 
+be answered before starting a monitoring program. Careful thought and 
+planning will save headaches down the road. Logistical, political, ethical, 
+social, and economic considerations should be included in the planning 
+process, Noninvasive techniques are becoming more prevalent for monitor- 
+ing carnivore populations and will continue to be important for monitoring 
+rare, threatened, and endangered species, particularly when capture and 
+handling could jeopardize the health and welfare of a species. I encourage 
+anyone planning to initiate a monitoring program to talk to other re- 
+searchers and gain their insight into what works and what does not work. 
+Regrettably, techniques that fail are usually not published. Often times, 
+field personnel have valuable knowledge about particular aspects of carni- 
+vore monitoring that are not readily available in the published literature. 
+Acknowledgements 
+I greatly appreciate the helpful reviews of the manuscript by Ann Kitchen, 
+Fred Knowlton, Russ Mason, and four anonymous reviewers, plus input 
+and discussions with my graduate students and colleagues. 
+
+
+Published in Carnivore Conservation, edited by 
+John L. Gittleman, Stephan M. Funk, David W. 
+MacDonald, and Robert K. Wayne. Cambridge: 
+Cambridge University Press & The Zoological 
+Society of London, 2001. Pages 372–396. 
+ 
+ 

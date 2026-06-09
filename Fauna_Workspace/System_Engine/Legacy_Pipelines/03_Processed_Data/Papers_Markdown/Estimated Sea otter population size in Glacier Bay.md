@@ -1,0 +1,501 @@
+--- 
+source: Estimated Sea otter population size in Glacier Bay.pdf
+--- 
+
+Estimated Sea Otter Population Size in Glacier Bay
+8-13 May 1999
+J.L. Bodkin
+G.G. Esslinger
+D.M. Monson
+13 December, 1999
+U.S. Geological Survey
+Alaska Biological Science Center
+1011 East Tudor Road
+Anchorage, AK 99503
+
+
+Introduction
+Nearshore marine communities support a wide array of commercially, recreationally
+and culturally valuable resources including plants, invertebrates, birds, and
+mammals.  In order to understand, quantify and attribute cause to changes in these
+communities, it is imperative to understand primary sources of community
+structuring and of natural or background levels of variation in the ecosystem.  The
+sea otter, once nearly extinct, is currently reoccupying previous habitat in much of
+the north Pacific, including Glacier Bay.  The role of sea otters in structuring
+nearshore marine communities is recognized as significant, particularly among
+exposed rocky shorelines.  However, much less is known of the effects of sea otter
+reintroduction into soft sediment habitats.  It is now possible to examine effects of
+sea otter foraging as they begin to recolonize Glacier Bay National Park and
+Preserve in southeast Alaska, a predominantly soft bottom sediment community.
+Various pieces of data are necessary to evaluate changes in nearshore marine
+communities and to allow careful determination of the causal role of sea otters in
+such changes.  Information on the distribution and abundance of sea otters in and
+around Glacier Bay will provide a description of the spatial and temporal process of
+sea otter recolonization and provide the basis for study sites to evaluate changes in
+community structure before and after the effects of sea otters.  
+Surveys from boats and fixed-wing aircraft have been conducted to document sea
+otter distribution and relative abundance.  In 1999, a more intensive survey of
+Glacier Bay was designed in conjunction with methodology developed from
+surveying sea otters in other parts of Alaska.  This aerial survey design has several
+advantages over previous surveys: 1) stratified sampling maximizes sampling
+effort, 2) systematic transects sample evenly across strata, 3) bias is reduced by
+estimating the proportion of sea otters not detected, and 4) replication provides a
+more precise estimate of population size and reduces sampling error.  Results of
+this survey provide a relatively unbiased estimate of population size, that can be
+used as a bench mark to evaluate future changes in population size.  This survey is
+a cooperative project between the USGS/Alaska Biological Science Center and
+Glacier Bay National Park and Preserve.
+Methods
+Aerial survey methods follow those described in detail in Bodkin and Udevitz (1999)
+and consisted of two components: 1) strip transects and 2) intensive search units to
+estimate the probability of detection of otters along strips.  Sea otter habitat was
+sampled in two strata, a high and a low density, distinguished by distance from
+shore and bathymetry.  Survey effort was allocated proportional to expected sea
+otter abundance by systematically adjusting spacing of transects within each
+stratum. Transects 400 m wide were surveyed by a single observer at an airspeed
+
+
+of 65 mph (29 m/sec) and an altitude of 300 ft (91 m).   Strip transect data included
+date, transect number, location, group size and group activity (diving or not diving). 
+A group was defined as one or more otters separated by less than 4 m.  Transect
+end points were identified by latitude/longitude coordinates in Arc Info and
+displayed visually in a aeronautical global positioning system (GPS) in the aircraft. 
+Intensive searches were conducted systematically along strip transects to estimate
+the proportion of animals not detected during strip counts.
+The survey design consisted of 18 strip transect scenarios constructed in a GIS
+(ARC/INFO) consisting of 3 possible high density sets of transects and 6 sets of low
+density transects.  Transects were charted throughout Glacier Bay, but this survey
+focused on the lower bay (Fig. 1) since sea otters do not yet occur in the upper bay. 
+The lower bay survey area included 272 km2 of high density stratum and 274 km2
+of low density stratum.  Five replicates were randomly selected from the 18
+possible and surveyed by a single observer from a Bellanca Scout between 8 and
+13 May 1999.  Both the pilot and the observer had previous experience using the
+survey technique and were familiar with Glacier Bay.  See Appendix A for a
+detailed description of the survey methods used.
+Results
+The five replicate surveys required 35 hours of flight time to complete, including
+transit to and from Bartlett Cove.  The mean of four individual replicates yielded an
+adjusted population size estimate of 384 (SE = 111).  The first replicate was
+excluded because it lacked the minimum amount of data needed to calculate a
+correction factor for sea otters not detected.  Sea otter pups are combined with
+adults for population estimation because large pups are often indistinguishable
+from adults and small pups can be difficult to sight from aircraft.  All group locations
+were digitized by survey into ARC/INFO coverages (Fig. 2).
+Discussion
+Sea otters are more evenly distributed throughout the lower bay than in prior survey
+years with concentrations near Leland Island, Boulder Island, and Point Carolus
+(Fig. 2).  Because lower Glacier Bay encompasses the forefront of an expanding
+sea otter population, immigration and emigration are likely to be the major factors
+driving abundance estimates.  Previous aerial and boat surveys, covering Glacier
+Bay as well as surrounding areas in Icy Strait and Cross Sound, have shown
+evidence of seasonal movements.  This variation may explain why 410 adults and
+73 pups were counted during an August 1998 boat survey in lower Glacier Bay. 
+The current survey design proved highly effective overall, but one component can be
+improved.  High and low density strata were defined by a combination of criteria,
+
+
+including depth and distance from shore (Bodkin and Udevitz 1999).  Although
+these criteria seem to predict sea otter habitat accurately, application of this
+technique in Prince William Sound has shown that strata modifications are
+sometimes necessary to include unique areas.  These areas tend to occur where
+resting sea otters drift far from shore, over deep water.  In Glacier Bay, one such
+area was identified in a triangle formed by South Marble, Leland, and Flapjack
+Islands.  This region should be reclassified as a high density area and sampled
+accordingly in future surveys.
+The number of sea otters occupying Glacier Bay is increasing rapidly, from a count
+of 5 in 1995 to nearly 400 in 1998 (Table 1).  This increase is undoubtedly due to
+both immigration of adults and juveniles as well as reproduction by females in the
+Bay, evidenced by dependent pups.  One adult female tagged in Port Althorp in
+1998 was observed near South Marble Island in July 1999 with a dependant pup. 
+Predation by sea otters on a variety of invertebrates, including several species of
+crab, clams, mussels, and urchins will likely have profound effects on the benthic
+community structure and function of the Glacier Bay ecosystem.  Continuing sea
+otter surveys and studies of benthic communities will provide valuable information to
+those responsible for managing Park resources.
+References
+Bodkin, J.L., and M.S. Udevitz.  1999.  An aerial survey method to estimate sea
+otter abundance.  Pages 13-26 in G.W. Garner et al., editors.  Marine Mammal
+Survey and Assessment Methods.  Balkema, Rotterdam, Netherlands.
+
+
+Table 1.  Sea otter counts from aerial surveys in Cross Sound, Icy Straits and Glacier
+Bay, 1994-1999. Counts are presented as adults/ pups, and a period equals no data. The
+Scout is a Bellanca Scout and the 172 and 185 are Cessnas.  
+                                     
+May 94
+May 95
+Mar 96
+Aug 96
+May 97
+Mar 98
+May 99
+date
+                                
+Scout
+Scout
+172
+172
+Scout
+185
+Scout
+Aircraft
+survey area
+Spencer-Pt Wimbledon
+69/20
+60/9
+31/4
+19/2
+43/3
+8
+6
+Pt Wimbledon-Pt. Dundas
+37/1
+23
+18
+52
+24
+52
+27
+Pt Dundas-Pt Gustavus
+0
+12/1
+41/1
+178/4
+10
+1
+17
+Glacier Bay Proper
+.
+5
+39
+0
+21
+209
+384*
+Excursion Inlet
+.
+.
+.
+.
+.
+7
+1
+Pt Couverdon
+.
+.
+.
+.
+.
+2
+.
+Pt Gustavus-Porpoise Is.
+29/0
+94/1
+73
+2/1
+161
+8
+18
+Cannery Pt-Crist Pt
+0
+0
+0
+0
+0
+0
+0
+Crist Pt-Gull Cove
+55
+15/3
+30/1
+17/1
+92/15
+23
+97/3
+Lemesurier Is.
+33/8
+62/23
+56/2
+47/8
+143/32
+10
+67/17
+Gull Pt-Pt Lavina
+77
+81
+48
+141
+94
+3
+90
+Inian Is.
+31/9
+36/16
+11/1
+30/12
+31/8
+10
+18/4
+Pt Lavina-Column Pt
+100/31
+159/73
+42/3
+94/21
+148/25
+31
+21/7
+Total
+431/69
+547/126
+389/12
+580/49
+767/83
+364
+746/31
+
+
+Appendix A.
+SAMPLING PROTOCOL FOR SEA OTTER AERIAL SURVEYS
+Overview of survey design
+The survey design consists of 2 components: (1) strip transect counts and (2)
+intensive search units.
+1)
+Strip Transect Counts
+Sea otter habitat is sampled in two strata, high density and low density,
+distinguished by distance from shore and depth contour.  The high density stratum
+extends from shore to 400 m seaward or to the 40 m depth contour, whichever is
+greater.  The low density stratum extends from the high density line to a line 2 km
+offshore or to the 100 m depth contour, whichever is greater.  Bays and inlets less
+than 6 km wide are sampled entirely, regardless of depth.  Transects are spaced
+systematically within each stratum.  Survey effort is allocated proportional to
+expected otter abundance in the respective strata.
+Prior to surveying a geographic area (e.g. College Fjord, Prince William Sound),
+the observer will determine which side of the transect lines (N, S, E, or W) has less
+glare.  The side with less glare will be surveyed by a single observer in a fixed-wing
+aircraft.  Transects with a 400 meter strip width are flown at an airspeed of 65 mph
+(29 m/s) and an altitude of 300 feet (91 m).  The observer searches forward as far
+as conditions allow and out 400 m, indicated by marks on the aircraft struts, and
+records otter group size and location on a transect map.  A group is defined as 1 or
+more otters spaced less than 3 otter lengths apart.  Any group greater than 20
+otters is circled until a complete count is made.  A camera should be used to
+photograph any groups too large and concentrated to count accurately.  The number
+of pups in a group is noted behind a slash (eg. 6/4 = 6 adults and 4 pups). 
+Observation conditions are noted for each transect and the pilot does not assist in
+sighting sea otters.
+2)
+Intensive Search Units
+Intensive search units (ISU's) are flown at intervals dependant on sampling
+intensity*, throughout the survey period.  An ISU is initiated by the sighting of a
+group and is followed by 5 concentric circles flown within the 400 m strip
+perpendicular to the group which initiated the ISU.  The pilot uses a stopwatch to
+time the minimum 1 minute spacing between consecutive ISU's and guide the
+circumference of each circle.  With a circle circumference of 1,256 m and an
+airspeed of 65 mph (29 m/s), it takes 43 seconds to complete a circle (e.g. 11
+seconds/quarter turn).  With 5 circles, each ISU takes about 3.6 minutes to
+
+
+Appendix A.
+complete. ISU circle locations are drawn on the transect map and group size and
+behavior is recorded on a separate form for each ISU.  For each group, record
+number observed on the strip count and number observed during the circle counts. 
+Otters that swim into an ISU post factum are not included and groups greater than
+20 otters cannot initiate an ISU. 
+Behavior is defined as "whatever the otter was doing before the plane got there"
+and recorded for each group as either diving (d) or nondiving (n).  Diving otters
+include any individuals that swim below the surface and out of view, whether
+traveling or foraging.  If any individual(s) in a group are diving, the whole group is
+classified as diving.  Nondiving otters are animals seen resting, interacting,
+swimming (but not diving), or hauled-out on land or ice.
+* The targeted number of ISU's per hour should be adjusted according to sea otter
+density.  For example, say we have an area that is estimated to take 25 hours to
+survey and the goal is to have each observer fly 40 "usable" ISU's; an ISU must
+have more than one group to be considered usable.  Because previous data show
+that only 40 to 55% of the ISU's end up being usable, surveyors should average at
+least 4 ISU's per hour.  Considering the fact that, one does not always get 4
+opportunities per hour - especially at lower sea otter densities, this actually means
+taking something like the first 6 opportunities per hour.  However, two
+circumstances may justify deviation from the 6 ISU's per hour plan:
+1)
+ If the survey is not progressing rapidly enough because flying ISU's is
+too time intensive, reduce the minimum number of ISU's per hour
+slightly
+2)
+ If a running tally begins to show that, on average, less than 4 ISU's
+per hour are being flown, increase the targeted minimum number of
+ISU's per hour accordingly.
+The bottom line is this: each observer needs to obtain a preset number of ISU's for
+adequate statistical power in calculation of the correction factor.  To arrive at this
+goal in an unbiased manner, observers must pace themselves so ISU's are evenly
+distributed throughout the survey area. 
+
+
+Appendix A.
+Preflight
+Survey equipment: 
+binder:
+random map set selections
+map sets (observer, pilot, & spare copies)
+strip forms (30)
+ISU forms (60)
+survey protocol
+Trimble GPS procedures
+data entry formats
+laptop computer for data entry
+floppy disk with transect waypoints
+Solidstate data drive with power adaptor & interface cable
+RAM cards with transect waypoints
+RAM card spare batteries
+low power, wide angle binoculars (e.g. 4 X 12)
+clipboards (2)
+pencils
+highlighter pen
+stopwatch for timing ISU circles
+35 mm camera with wide angle lens
+high-speed film
+survival suits
+Airplane windows must be cleaned each day prior to surveying.
+Global Positioning System (GPS) coordinates used to locate transect starting and
+end points, must be entered as waypoints by hand or downloaded from an external
+source via a memory card.  
+Electrical tape markings on wing struts indicate the viewing angle and 400 m strip
+width when the aircraft wings are level at 300 feet (91.5 m) and the inside boundary
+is in-line with the outside edge of the airplane floats.
+The following information is recorded at the top of each transect data form:
+Date - Recorded in the DDMMMYY format.
+Observer - First initial and up to 7 letters of last name.
+Start time - Military format.
+Aircraft - Should always be a tandem seat fixed wing which can safely survey
+at 65-70 mph.
+Pilot - First initial and up to 7 letters of last name.
+
+
+Appendix A.
+Area - General area being surveyed.
+Observation conditions
+Factors affecting observation conditions include wind velocity, seas, swell, cloud
+cover, glare, and precipitation.  Wind strong enough to form whitecaps creates
+unacceptable observation conditions.  Occasionally, when there is a short fetch, the
+water may be calm, but the wind is too strong to allow the pilot to fly concentric
+circles.  Swell is only a problem when it is coupled with choppy seas.  Cloud cover
+is desirable because it inhibits extreme sun-glade.  Glare is a problem that can
+usually be moderated by observing from the side of the aircraft opposite the sun. 
+Precipitation is usually not a problem unless it is extremely heavy.
+Chop (C) and glare (G) are probably the most common and important factors
+effecting observation conditions.  Chop is defined as any deviation from flat calm
+water up to whitecaps.  Glare is defined as any amount of reflected light which may
+interfere with sightability.  After each transect is surveyed, presence is noted as C,
+G, or C/G and modified by a quartile (e.g. if 25% of the transect had chop and
+100% had glare, observation conditions would be recorded as 1C/4G).  Nothing is
+recorded in the conditions category if seas are flat calm and with no glare. 
+Observer fatigue
+To ensure survey integrity, landing the plane and taking a break after every 1 to 2
+hours of survey time is essential for both observer and pilot.  Survey quality will be
+compromised unless both are given a chance to exercise their legs, eat, go to the
+bathroom, and give their eyes a break so they can remain alert.
+Vessel activity
+Areas with fishing or recreational vessel activity should still be surveyed.
+Special rules regarding ISU’s
+1.
+Mistaken identity - When an ISU is mistakenly initiated by anything other
+than a sea otter (e.g. bird, rock, or floating debris), the flight path should continue for
+one full circle until back on transect.  At this point the ISU is to be abandoned as if it
+was never initiated and the normal fight path is resumed.
+2.
+Otters sighted outside an ISU -  Otters sighted outside an ISU which are
+noticed during ISU circles are counted only when the ISU is completed, normal flight
+path has been resumed, and they are observed on the strip.
+ 
+Unique habitat features 
+
+
+Appendix A.
+Local knowledge of unique habitat features may warrant modification of survey
+protocol:
+1.
+Extensive shoaling or shallow water (i.e. mud flats) may present the
+opportunity for extremely high sea otter densities with groups much too large
+to count with the same precision attainable in other survey areas. 
+Photograph only otters within the strip or conduct complete counts, typically
+made in groups of five or ten otters at a time.  Remember, groups >20
+cannot initiate an ISU.
+Example:
+Orca Inlet, PWS.  Bring a camera, a good lens, and plenty of
+film.  Timing is important when surveying Orca Inlet; the survey period should
+center around a positive high tide - plan on a morning high tide due to the
+high probability of afternoon winds and heavy glare. Survey the entire area
+from Hawkin's cutoff to Nelson Bay on the same high tide because sea otter
+distribution can shift dramatically with tidal ebb and flow in this region.  
+2.
+Cliffs - How transects near cliffs are flown depends on the pilot's capabilities
+and prevailing weather conditions.  For transects which intersect with cliff
+areas, including tidewater glaciers, discuss the following options with the
+pilot prior to surveying. 
+In some circumstances, simply increasing airspeed for turning power near
+cliffs may be acceptable. However, in steep/cliff-walled narrow passages
+and inlets, it may be deemed too dangerous to fly perpendicular to the
+shoreline.  In this case, as with large groups of sea otters, obtain complete
+counts of the area when possible.
+In larger steep-walled bays, where it is too difficult or costly to obtain a
+complete count, first survey the entire bay shoreline 400 m out. Then survey
+the offshore transect sections, using the 400 m shoreline strip just surveyed
+as an approach.  Because this is a survey design modification, these data
+will be analyzed separately.
+Example:
+Herring Bay, PWS.  Several high cliffs border this area.
+Example:
+Barry Glacier, PWS.  Winds coming off this and other
+tidewater glaciers may create a downdraft across the face. 
+The pilot should be aware of such unsafe flying conditions and
+abort a transect if necessary.
+3.
+Seabird colonies - Transects which intersect with seabird colonies should
+be shortened accordingly. These areas can be buffered for a certain
+distance in ARC dependant on factors such as colony size, species
+
+
+Appendix A.
+composition, and breeding status.
+Example:
+Kodiak Island.  Colonies located within 500 m of a transect
+AND Black-legged Kittiwakes > 100 OR total murres > 100
+OR total birds > 1,000 were selected from the seabird colony
+catalog as being important to avoid.
+5.
+Drifters - During calm seas, for whatever reason - possibly a combination of
+ocean current patterns and geography - large numbers of sea otters can be
+found resting relatively far offshore, over extremely deep water, miles (up to 4
+miles is not uncommon) from the nearest possible foraging area.
+Example:
+Port Wells, PWS.  Hundreds of sea otters were found
+scattered throughout this area with flat calm seas on 2
+consecutive survey years.  As a result, Port Wells was
+reclassified and as high density stratum. 
+4.
+Glacial moraine - Similar to the drifter situation, sea otters may be found
+over deep water on either side of this glacial feature.
+Example:
+Unakwik, PWS.  Like Port Wells, Upper Unakwik was
+reclassified as high density stratum.
+Planning an aerial survey
+Several key points should be considered when planning an aerial survey:
+1)
+Unless current sea otter distribution is already well known, it is well worth the
+effort to do some reconnaissance.  This will help define the survey area and
+determine the number of observers needed, spacing of ISU's, etc.  
+2)
+Plan on using 1 observer per 5,000 otters.
+3)
+Having an experienced technical pilot is extremely important.  Low level
+flying is, by nature, a hazardous proposition with little room for error; many
+biologists are killed this way. While safety is the foremost consideration, a
+pilot must also be skilled at highly technical flying.  Survey methodology not
+only involves low-level flying, but also requires intimate familiarity with a GPS
+and the ability to fly in a straight line at a fixed heading with a fixed altitude,
+fixed speed, level wings, from and to fixed points in the sky.  Consider the
+added challenge of flying concentric 400 meter circles, spotting other air
+traffic, managing fuel, dealing with wind and glare, traveling around fog
+banks, listening to radio traffic, looking at a survey map, and other
+
+
+Appendix A.
+distractions as well.  Choose the best pilot available.

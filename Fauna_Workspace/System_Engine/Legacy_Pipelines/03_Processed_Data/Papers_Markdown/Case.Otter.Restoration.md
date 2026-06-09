@@ -1,0 +1,494 @@
+--- 
+source: Case.Otter.Restoration.pdf
+--- 
+
+ 
+       
+The Case for River Otter Restoration  
+in New Mexico 
+A Report to the River Otter Working Group 
+ 
+Melissa Savage and Jon Klingel 
+The Four Corners Institute 
+Santa Fe, New Mexico 
+ 
+ 
+     
+ 
+ 
+Bring back the otter 
+ 
+ 
+The river otter dives in a deep clear pool in the stream, a long line of bubbles 
+rising to the surface as she expertly chases a shimmering catfish.  On the bank, two otter 
+cubs roll and tumble in the willow thickets.  In this otter family, only the cubs were born 
+in this place.  The mother was part of a river otter restoration project to return these 
+mammals to places that they inhabited before trapping and other pressures caused their 
+extirpation.  In many states where otters survived or where restoration programs have 
+been initiated, this scene is common along streams and rivers, swamps and wetlands.   
+ 
+For thousands of years, river otters were a part of the natural environment of what 
+is now New Mexico.  As a top predator, the animal at the top of the food chain, otters 
+play an important role in the balance of prey populations in aquatic ecosystems of rivers 
+and streams.  They thrive where there is clean water, abundant food, and protected places 
+to den and rest.   
+ 
+But river otters probably no longer live in New Mexico.  There has been no 
+confirmed evidence of otters in the state since 1953.  Since the animal is large and active, 
+and there is extensive human use of New Mexico’s rivers, it is likely that if there were 
+any otter remaining in the state, they would have been noticed during the past fifty years.  
+River otters have now been restored to every state from which they were extirpated 
+except New Mexico (Raesley 2001).  The time has come to bring the river otter back to 
+the rivers and streams of New Mexico.      
+ 
+Otters in New Mexico 
+
+
+ 
+2
+ 
+The historical distribution and abundance of river otters in the Southwest is 
+largely unknown.  Otters were abundant enough in the rivers and streams of New Mexico 
+to have been documented many times in the diaries and journals of early travelers in the 
+region. Reliable reports in historical documents of river otter in New Mexico exist for the 
+upper and middle Rio Grande, and the Mora, Gila, and Canadian River drainages 
+(Polechla 2000).  Other documents indicate that otters possibly occupied the San Juan 
+River drainage in northwestern New Mexico (Polechla 2000).  
+ 
+The value of beaver pelts throughout the 19th century and the popularity of 
+trapping beaver led to trapping of river otter as well.  So heavily were these animals 
+trapped in New Mexico that even the Mexican authorities took notice.  In 1838 the 
+departmental junta of Chihuahua acted to protect both beaver and river otter along the 
+Rio Grande by declaring a six year moratorium on trapping of the two species (deBuys 
+1985).  deBuys called this act “one of the first conservation measures in the North 
+American West” (1985). 
+ 
+Despite this early attempt to protect furbearers, trapping pressure on them 
+continued throughout the 1800s.  By 1890, beaver were regarded as “practically extinct” 
+in New Mexico (Huey 1956).  The season on beaver trapping was closed in 1897.  The 
+less abundant river otter populations were even more depleted than those of beaver.  By 
+the 1950s, declining beaver pelt prices combined with efforts to recover the population, 
+including transplants and closed trapping seasons, made a beaver comeback possible 
+(Polechla 2000).  But the damage to the river otter populations was done.  River otters 
+apparently had declined to a point of no return.   
+ 
+Over-trapping of otters for their pelts had the earliest and biggest impacts on river 
+otter populations, but other changes in the environment continued to take a toll.  Water 
+quality in the state declined throughout the 20th century, with soil erosion and pollution 
+resulting from overgrazing, timber cutting and mining in some areas.  Water quantity in 
+rivers also dropped in many areas because of agriculture and water development.  
+ 
+The last definite documented evidence of a river otter in New Mexico came in 
+1953 in the Gila River.  ‘Shorty’ Lyon, a government trapper, found a dead otter in a 
+beaver trap he had set on the Gila River southeast of the town of Cliff.  This animal 
+provided the first and last preserved physical evidence of the species in New Mexico.  
+Since then, there have been unverified sightings, but no concrete evidence of otter 
+occupation (Polechla 2000).  Bailey’s 1931 report of river otters in the upper Rio Grande 
+is considered the last reliable evidence for the entire river. 
+ 
+No river otter presence has been confirmed in New Mexico since 1953.  While the 
+possibility exists that there may be a few remaining animals, it is remote.  Considering 
+the extroverted antics of otters and the number of people near streams for fishing and 
+rafting in the state, it is doubtful that there are otter populations that have escaped 
+detection.  Polechla (2000) states, “Either the river otter has a remnant population so 
+small that it can not be detected by the methods used or the population is now 
+
+
+ 
+3
+extirpated.”  Systematic surveys will be needed to document the presence or absence of 
+any relict populations and to confirm the status of river otters in the state. 
+ 
+The Southwestern river otter 
+ 
+The species that inhabits the U.S. and Canada is the North American river otter,  
+Lontra canadensis.  The original populations of the river otter in the Southwest may have 
+been a subspecies, Lontra canadensis sonora.  A subspecies is equivalent to a “race”, 
+which is a population that has unique characteristics that are specifically attuned to the 
+local environment.  Southwestern otter populations were never very abundant, since 
+water is sparse, and only a few specimens from the region have been available for 
+comparison with specimens from elsewhere across the continent. 
+ 
+Based on three otter specimens, all from Arizona, a designation of the subspecies 
+sonora, the Southwestern river otter, was made in 1898 (MacDonald 2002).  The extent 
+of the original distribution of the proposed subspecies in the region is unclear.  The 
+validity of a southwestern subspecies, however, has been questioned based on the small 
+number of specimens from the area.  In the late 1980s, when L. c. sonora was considered 
+for endangered status, Bates (1988) determined that there was insufficient evidence to 
+support the existence of a separate subspecies.  The taxonomic validity of the subspecies 
+designation is currently being tested using DNA analyses on the specimen collected from 
+the Gila River.  The case has not yet been convincingly made that the New Mexican otter 
+is a valid subspecies.   
+ 
+River otters are considered extirpated by the New Mexico Department of Game 
+and Fish.  If surveys in the state were to locate any remaining native animals, the status of 
+river otters would likely change to endangered, and the goals and implementation of a 
+restoration plan would likewise change.  Until actual evidence of otter occurrence is 
+produced, however, the existence of otters in the state remains speculative (Polechla 
+2000) 
+ 
+River Otter Ecology 
+ 
+The river otter is a swift and strong semi-aquatic predator that thrives wherever 
+there is  enough clean water and an adequate food base.  Otters use water for hunting for 
+food, cavorting, traveling,  and as a refuge from danger.  Riparian ecosystems, where 
+willows and other wetland and streamside plants grow, make good homes for otters, 
+whether along desert streams or mountain freshets.  Their lithe, streamlined shape, 
+powerful tails, and webbed feet make them expert swimmers and divers.  Dense, glossy 
+brown fur, with longer guard hairs, keep them warm and dry in icy winter waters.  They 
+are primarily active in the day, and can sometimes be seen playing and hunting in the 
+morning and late afternoon. 
+ 
+Otters thrive in habitat with slow-moving water and deep pools, good riparian 
+vegetation, and abundant fish or crayfish.  They can tolerate relatively low water flow, 
+perhaps as little as 10 cubic feet per second, if other important habitat conditions are 
+
+
+ 
+4
+good, such as the presence of pools, good water depth, ice-free stretches in winter, and 
+access to shoreline (Fitzgerald et al. 1994).  
+ 
+Otters have broad tastes, and eat a wide variety of fare.  Fish are usually the 
+primary food item in the otter diet, but they love crayfish, which can comprise the 
+majority of the otter diet where abundant.  They also may occasionally eat frogs, insects, 
+and aquatic birds (Fitzgerald et al. 1994).  Slow-swimming fish, such as carp, chub, and 
+catfish, are more commonly eaten than faster fish such as trout (Chapman and Feldhamer 
+1982, Fitzgerald et al. 1994).  Otters are successful hunters even in seasonally turbid 
+waters, such as the Dolores River in Colorado (Fitzgerald et al. 1994). 
+ 
+On the banks of their home streams, river otters depend on plant communities to 
+provide protection.  Riparian vegetation, such as willow thickets, cottonwood trees, tree 
+root tangles, downed logs and other debris, rushes and cattails, even non-native plants 
+such as Russian olive and Siberian elm trees, provide places for hiding and denning.  
+Dense brush near streams is used in spring to protect the young from predators.  Branches 
+and other plants that hang over streams shade the water, and produce cooler water 
+temperatures that may be favored by fish on hot summer days (Herreman and Ben-David 
+2002).  A healthy riparian vegetation community is essential for cover when otters are on 
+the bank.  In return, the otter inadvertently fertilizes streamside plant communities by 
+depositing nitrogen from fish in their scat (Ben-David, cited in Crait 2002). 
+ 
+Otters are often found in beaver country.  The river otter shares its river habitat 
+with raccoon and muskrat as well (Polechla 2000), but it is the presence of beavers that is 
+uniquely helpful for otters’ lifestyle.  By damming streams, beaver create the deep, fish-
+rich pools that otters prefer for fishing.  Pools also provide sanctuary for otter when other 
+waters dry up seasonally.  Otters also use abandoned beaver dens, especially abandoned 
+lodges and dens carved into river banks.  Beavers increase the potential for otter success 
+by increasing feeding and denning sites.  As beaver populations have rebounded in the 
+state, they have restored high-quality otter habitat. 
+ 
+There are few predators on river otter in the water, but they are more vulnerable 
+away from the water, where they move in a less fluid, bobbing way.  On dry land, bobcat, 
+coyotes, cougars, foxes, and dogs have been known to kill otters (Chapman and 
+Feldhamer 1982).  Still, otters are remarkably strong and agile for their weight, and can 
+muster a potent defense.  In areas of high human density, otters are primarily killed by 
+dogs and highway traffic (Beck, pers. comm.). 
+ 
+ 
+Otters are social animals, and often remain in family groups that play and hunt 
+together.  They breed in early spring, with litters averaging 2 to 4 pups.  Cubs begin to try 
+the water at around 6 weeks, but must be coaxed into the water and helped to learn to 
+swim by their mothers Chapman and Feldhamer1982).  Cubs and mothers often stay 
+together for over a year (Melquist and Hornocker 1983).   
+ 
+Playfulness is a well-known and appreciated characteristic of river otters.  Otter 
+groups can often be seen frolicking and cartwheeling underwater,  apparently for the 
+sheer pleasure of it.  Tobogganing down slippery banks and on snow slopes on their 
+
+
+ 
+5
+bellies is a famous otter pastime.  Perhaps no other mammal seems to us to play  as 
+intently and as joyfully as the river otter. 
+ 
+ 
+Restoration in other states  
+ 
+By 1980, North American river otters had disappeared from 11 states, and were in 
+severe decline in 9 other states (Raesley 2001).  During that decade, however, a shift 
+occurred in management philosophy, and managing for sustainable river otter populations 
+became the goal in many states.  Twenty-one states implemented otter restoration 
+programs between 1974 and 1998 (Raesley 2001).  In some of these states, there were no 
+remaining river otters when the restoration programs were initiated, but in most, there 
+were small populations of otters still present when releases were made (Raesley 2001).  
+Otters have also been reintroduced on Santee Sioux tribal land in South Dakota (Raesley 
+2001).  
+   
+River otters are highly mobile and when reintroduced into suitable habitat, are 
+often highly successful in repopulating adjacent stretches of river.  They are effective 
+pioneers, and readily move into parts of rivers where habitat is good.  They are even 
+capable of traveling overland for some distance, to disperse into other watersheds.  
+ 
+ Perhaps the most successful river otter restoration program so far in the United 
+States has been in Missouri, where rivers and streams are abundant.  A restoration 
+program in the 1980s and early 1990s resulted in an otter population of over 11,000 
+animals by 1999 (Chambers 2001).  Crayfish have dominated the diet of Missouri otters 
+in summer, and fish in winter, and otter predation may have decreased warm-water game 
+fish populations in smaller streams in the Ozarks (Kruse, pers. comm.).  Fortunately, 
+warm-water fish in New Mexico are found primarily in reservoirs, which otters avoid 
+because of the lack of vegetation cover. 
+ 
+In the Southwest, Colorado, Arizona, and Utah have had otter restoration 
+programs.  In Colorado, between 1976 and 1992,  otters were reintroduced into the 
+headwaters of the Colorado River in Rocky Mountain National Park, and into the 
+Dolores, Gunnison and Piedra Rivers, where they survived and reproduced (Fitzgerald et 
+al. 1994).  Studies conducted in the mid-1990s in Rocky Mountain National Park suggest 
+that otter populations there are now at carrying capacity—the highest possible number of 
+otters given the amount of food and habitat available .  More intensive surveys, 
+conducted in 2001, estimated that there were 18 otters along the Colorado River within 
+the boundaries of the Rocky Mountain National Park (Herreman and Ben-David 2002).  
+ 
+Otters were successfully introduced into the Verde River drainage in Arizona by 
+the Arizona Game and Fish Department, through a reintroduction from 1981 to 1983.  A 
+self-sustaining population now exists in the Verde River watershed (Van Pelt, pers. 
+comm.).  Otters were also released into the Green River in Utah between 1989 and 1990 
+(MacDonald 2002), and there is now a viable population in the Green River above and 
+below Flaming Gorge Dam (Haschlke and Ben-David 2002). 
+ 
+  
+Otters for these southwestern restorations were obtained from widely disparate 
+
+
+ 
+6
+places.  Colorado used otters from a number of states, primarily from Oregon, Minnesota, 
+and Wisconsin, but also from Alaska, Washington, California and Newfoundland.  
+Arizona released otters originating in Louisiana.  The otters released into southwestern 
+states, thus, have not been the proposed subspecies L. c. sonora.    
+ 
+Issues of Concern 
+ 
+ 
+The river otter shares a love of fish with anglers.  Sport fishermen may be 
+concerned that the otter would compete with them for fish, and the otter has sometimes 
+been erroneously blamed for the depletion of game fish, especially trout.  Scientific 
+studies have demonstrated that the bulk of otter diet is nongame fish species (Tesky 
+1993).  Otters take the most leisurely hunting approach, eating the most easily captured 
+fish.  The main stay of otter diet is slow-moving nongame fish such as suckers and carp 
+with occasional faster fish (Melquist and Dronkert 1987).  When available, otter will eat a 
+diet almost entirely composed of crayfish (Chambers 2001).  Where they have been 
+reintroduced into the Dolores River in Colorado, for example, otters have made extensive 
+use of crayfish (Fitzgerald et al. 1994).  In fact, river otters are considered beneficial to 
+game fish in many circumstances, since they eat crayfish and nongame fish that compete 
+with game fish (Chapman and Feldhamer 1982, Tesky 1993). 
+ 
+The protection of endangered fish populations that inhabit portions of the state’s 
+rivers is a priority.  However, two species of concern, the Rio Grande cutthroat and the 
+Gila trout, are fish that typically inhabit the headwaters of streams and rivers (Peroz, pers. 
+comm., Propst, pers. comm.).  The best otter habitat, on the other hand, is downstream 
+from the headwaters, where both water quantity and prey base are more abundant.  
+Potential conflict between otters and spikedace and loach minnow is also unlikely 
+because otters prefer to hunt in deep pools, and these fish inhabit shallow riffles (Propst, 
+pers. comm.).  Any potential issues with other fish species of concern need to be 
+considered and addressed. 
+ 
+Another possible issue is that reintroduced otters might incidentally get caught in 
+traps set for other mammals, particularly beaver.  Trappers need to be assured that the 
+incidental trapping of an otter will not create problems for them, and that there will be a 
+management policy in place to deal with this possibility.  However river segments 
+proposed for otter restoration in New Mexico tend to be remote, such as the upper Gila 
+River and Rio Grande gorge, where the potential for trapping conflict is low.  Accidental 
+trapping of otter can also be reduced by the use of a new trap trigger that allows otters to 
+swim through traps unharmed (Beck, pers. comm.). Fencing of fish hatcheries, now 
+planned for facilities in the state as protection from other threats, would also prevent 
+conflict with river otters. 
+ 
+ 
+Will riparian plant communities need rehabilitation before river otter restoration?  
+The answer to this question is that while otters need streamside cover, they have a wide 
+tolerance for vegetation community type and condition.  Although they spend a lot of 
+time out of the water, using river bank communities for denning and resting, almost any 
+kind of continuous vegetation--willows, tall sedge, rose thickets, cattail sloughs, even 
+exotic non-native plant species communities—provide adequate cover. 
+
+
+ 
+7
+ 
+Benefits of river otter restoration 
+ 
+ 
+The return of the river otter to New Mexico rivers means we will once again share 
+our incomparable natural home again with this rare and delightful animal.  Locals and 
+visitors taking a quiet evening stroll by the banks of the Rio Grande might be surprised 
+and enlivened by the splashing of a family of otters. 
+ 
+ 
+The presence of river otter in our southwestern streams will help restore the 
+biological balance of our rivers.  Crayfish are not native to any of our waterways from the 
+Pecos River west.  Crayfish populations, for example, have become established in the Rio 
+Grande, the San Juan, Gila and San Francisco Rivers to the detriment of native fish and 
+insect populations.  Crayfish harm the natural balance of river faunas by preying on both 
+young fish and fish eggs, and other wildlife, such as Chiricahua leopard frogs and 
+newborn garter snakes (Fernandez and Rosen 1996, Childs 1999).  Where crayfish have 
+been introduced to waterways of Arizona, flora and fauna have been devastated, and 
+water turbidity and siltation have increased (Fernandez and Rosen 1996).   
+ 
+Otters also tend to eat the slower, more abundant fish species, which in the 
+proposed restoration sites, are primarily non-native fish.  The white sucker, for example, 
+a non-native fish in the upper Rio Grande, is the single most abundant fish in that stretch 
+of river.  This undesirable non-native hybridizes with the native Rio Grande sucker, a 
+Forest Service ”sensitive” species.  The most abundant fish species in the proposed 
+restoration site in the upper and lower Gila River and San Francisco River, are non-native 
+as well (Propst, pers. comm.).  In Missouri, restored otters were found to prey heavily on 
+fish in winter and crayfish in summer (Hamilton, pers. comm.).  Otter predation on non-
+native fish and crayfish populations will help create and maintain more natural conditions 
+in aquatic populations.. 
+ 
+The return of the river otter will mean different things to different people.  The 
+fisherman may see a predator that can help restore a balance in the aquatic fauna by 
+reducing the number of non-native fish and crayfish that prey on young native fish 
+species.  River tour guides may see the addition of an elegant, playful animal that will 
+delight and captivate their clients.  The otter is a furbearer, and if restoration efforts are 
+very successful, the otter may in time offer a season to trappers.  The conservationist may 
+see the return of a key ecological component of a healthy river.  The visitor may take 
+away a cherished memory of an afternoon watching the antics of an otter family. 
+ 
+Why river otter restoration now? 
+ 
+This is an excellent time to initiate a river otter restoration program in New 
+Mexico.  The decline of river otter populations in New Mexico was largely due to the 
+effects of human activities in the past, mostly in the distant past.  Uncontrolled trapping 
+no longer occurs here.  The boon compatriot of the otter, the beaver, is again busy in the 
+waterways of the state damming pools and building dens.  Rivers are cleaner as pollution 
+management improves, and overgrazing of grasslands and forests has declined.  Along 
+
+
+ 
+8
+the Rio Grande, and other streams and rivers of the state, riparian communities are being 
+restored to healthier conditions and provide protection for other wildlife species. 
+ 
+A river otter restoration program need not be a complicated task.  Animals for a 
+restoration program are expected to be readily available from abundant populations in 
+other states.  Otters would not need intensive management efforts where potential for 
+conflict with humans is low.  Releases in other nearby states have usually consisted of 
+one-time releases of a number of otters at one or more suitable sites, with relative low 
+program costs.  
+ 
+ 
+Potential otter habitat in the state includes rivers where there is enough water to 
+provide adequate otter habitat, such as the upper Rio Grande, the San Juan River, and the 
+Gila and San Francisco River drainages.  In addition, extensive stretches of those waters 
+are protected by wilderness status, or land management by Forest Service and Bureau of 
+Land Management or tribal governments.  Long continuous stretches of river otter habitat 
+with an adequate water and food supply, exist in New Mexico. 
+ 
+In those places where restoration is being considered, surveys need to be 
+undertaken to identify the best possible otter habitat.  A survey of the upper Rio Grande 
+has already been completed (Polechla 2000), which found that otter populations could 
+indeed live in a long stretch of river from the state border to Espanola.  In Idaho, river 
+otter densities were observed to be one otter per 1.7 to 3.7 river miles (Melquist and 
+Hornocker 1983).  Using these density values, the approximately 265 river miles of 
+suitable habitat within the proposed restoration sites in New Mexico might support an 
+estimated 70 to 160 river otters. 
+ 
+Much of the upper Rio Grande is a good river otter restoration location because it 
+is protected from human disturbance by its remoteness and its deep canyon.  A 48-mile 
+stretch of the Rio Grande was designated as a Wild and Scenic River in 1968, lending an 
+additional level of protection to the area.  Thirty miles of the Chama River, whose 
+confluence with the Rio Grande occurs at Espanola, also provide excellent otter habitat.  
+The Gila and the San Francisco Rivers, in Southwestern New Mexico also appears to 
+have good otter habitat.  Grazing pressure in this watershed has declined in recent years, 
+and riparian areas and water quality are recovering.  The upper stem of the river is 
+protected by wilderness status, while most of the middle and lower Gila River boxes are 
+managed by Forest Service or Bureau of Land Management.  Since nonnative fish and 
+crayfish dominate these systems (Propst, pers. comm.), otter presence may potentially 
+contribute to the integrity of the aquatic ecosystem.  The San Juan River offers a high 
+volume of water, a high density of non-native catfish and carp, which are detrimental to 
+endangered fish recovery, and good riparian cover.  In addition, otters have been restored 
+to the upper reaches of the San Juan River drainage in Colorado.  Most of the proposed 
+restoration segment is remote and runs through Navajo tribal land.  Potential conflict with 
+fish species of concern in the San Juan River is currently being assessed (Propst, pers. 
+comm.).   
+ 
+The decision to restore river otters to New Mexico rests with the State Game 
+Commission, except on tribal lands.  The New Mexico Department of Game and Fish is 
+
+
+ 
+9
+the agency that would plan, implement, and manage a restoration program in the state.  
+Although the responsibility for management of otters ultimately rests in the hands of the 
+Department, the public may also be able to contribute to this program by volunteering to 
+help with surveys and offer other kinds of support for a restoration program. 
+ 
+ 
+A successful restoration of river otters to the state will depend not only on the 
+biological factors, but also on a consensus among the people of the state that the return of 
+river otters will benefit all.  A program such as this will need a broad consensus from 
+many stakeholders, Native Americans, environmentalists and conservationists, fishermen, 
+trappers, river runners, government agencies, river front landowners, scientists, tourists, 
+and local community folks.  
+ 
+River otters are making a remarkable comeback in many parts of their original 
+range in the U.S.  They have proven to be highly adaptable and resilient survivors.  The 
+establishment of this lively native animal into the wilder parts of the state can be a 
+measure of our abilities to sustain the health and integrity of our aquatic and wetland 
+communities.  With luck, the charismatic and playful river otter could soon be back in 
+New Mexico, and back to stay.  
+   
+ 
+ 
+Literature cited 
+ 
+Bailey, V.  1931.  Mammals of the Southwestern United States.  Dover Publication Inc.: NY, NY.    
+ 
+Bates, B.  1988.  Reintroduction of river otter in Utah.  Utah Division of Wildlife Resources.  Unpublished 
+Report. 
+ 
+deBuys, W.  1985.  Enchantment and Exploitation: The Life and Hard Times of a New Mexico Mountain 
+Range.  University of New Mexico Press: Albuquerque, NM. 
+ 
+Chambers, G. D. 2001. The river otter in Missouri.  The River Otter Journal 10(2): 1, 3-4. 
+ 
+Chapman, J.A. and G.A. Feldhamer. 1982. Wild Mammals of North America: Biology, Management and 
+Economics.  Johns Hopkins University Press. 
+ 
+Childs, M.  1999.  Literature review and field and laboratory studies of northern crayfish, Orconectes 
+virilis, in Arizona.  Report to the Heritage Program, Arizona Game and Fish Department. 
+ 
+Crait, J.  2002.  River otters, cutthroat trout, and their future in Yellowstone National Park.  The River Otter 
+Journal 11(2): 1-3. 
+ 
+Fernandez, P.J. and P.C. Rosen.  1996.  Effects of the introduced crayfish Orconectes virilis on native 
+aquatic herptofauna in Arizona.  Final report IIPAM No. I94054, Arizona Game and Fish Department. 
+ 
+Findley, J.S., A.H. Harris, D.E. Wilson, and C. Jones.  1975.  Mammals of New Mexico.  University of 
+New Mexico Press. 
+ 
+Fitzgerald, J. P., C. A. Meaney, and D. M. Armstrong.  1994.  Mammals of Colorado.  Denver Museum of 
+Natural History and University Press of Colorado. 
+ 
+Haschke, J. and M. Ben-David.  2002.  Row..row..row your boat, gently down ‘the Green.’  The River 
+Otter Journal 11 (2): 10-11. 
+
+
+ 
+10
+  
+Herreman, J. and M. Ben-David.  2002.  Population Survey for River Otters in Rocky Mountain National 
+Park..  The River Otter Journal 11 (1): 10-11. 
+ 
+Hoffmeister, D.F. 1986. Mammals of Arizona.  The University of Arizona Press. 
+ 
+Huey, W.S. 1956.  New Mexico Beaver Management.  New Mexico Department of Game and Fish.  
+Bulletin 4: 1-49. 
+ 
+MacDonald, S. O.  2002.  Oughtabe Otters.  Carapace: 6 (2): 7. 
+ 
+Melquist, W.E. and M.G. Hornocker.  1983.  Ecology of river otters in west central Idaho.  Wildlife 
+Monographs 83: 1-60. 
+ 
+Polechla, P.  2000.  Final Report: Ecology of the river otter and other wetland furbearers in the Upper Rio 
+Grande.  Bureau of Land Management, Taos, NM. 
+ 
+Ralls, K.  1990.  Reintroduction. Pages 20-21 in Otters: An action plant for their conservation.  P. Foster 
+Turley, S. Macdonald, and C. Mason, eds.  Kelvyn Press: IL.  
+ 
+Raesley, E.J. 2001.  Progress and status of river otter reintroduction projects in the United States.  Wildlife 
+Society Bulletin 29(3): 856-862. 
+ 
+Tesky, J.L. 1993.  Lutra canadensis.  In W.C. Fischer, complier.  The Fire Effects Information System.  
+Missoula, MT.  USDA Forest Service Intermountain Research Station.   http://www.fs.fed.us/database/feis/ 
+ 

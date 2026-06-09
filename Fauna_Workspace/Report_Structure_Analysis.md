@@ -1,0 +1,3886 @@
+# 📑 Fauna Report Structure Analysis
+
+This document contains the extracted structural patterns from existing completed reports to serve as templates for future automated report generation.
+
+## 📄 Source: (본안) PC-0911_동식물상_아우룸생태연구소 24.07.05.pdf
+- [Page 1] 환경현황조사영향예측평가
+- [Page 1] ,
+- [Page 1] ,
+- [Page 1] ‧
+- [Page 1] 저감방안 및 사후환경영향조사계획9
+- [Page 3] 동식물상
+- [Page 3] 9.1.1
+- [Page 3] ‧
+- [Page 3] - 139 -
+- [Page 3] 제9 장 환경현황조사영향예측평가저감방안 및 사후환경영향조사계획
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ‧
+- [Page 3] 자연생태환경분야
+- [Page 3] 9.1
+- [Page 3] 동
+- [Page 3] 식물상
+- [Page 3] 9.1.1
+- [Page 3] ·
+- [Page 3] 가
+- [Page 3] 현황
+- [Page 3] .
+- [Page 3] 광역조사
+- [Page 3] 1)
+- [Page 3] 가
+- [Page 3] 조사항목
+- [Page 3] )
+- [Page 3] 동
+- [Page 3] 식물상 출현 현황
+- [Page 3] (1)
+- [Page 3] ·
+- [Page 3] ◦육상식물상 및 식생육상동물상육수동
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] 물상 출현 현황
+- [Page 3] 주요종
+- [Page 3] (2)
+- [Page 3] ◦멸종위기 야생생물천연기념물희귀식물특산식물식물
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] 구계학적 특정종 등
+- [Page 3] 주요생물 서식공간
+- [Page 3] (3)
+- [Page 3] ◦생태축
+- [Page 3] 특이식생
+- [Page 3] 습지해안
+- [Page 3] 내륙
+- [Page 3] 인공
+- [Page 3] 분포현황
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] (
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] )
+- [Page 3] 법정보호지역
+- [Page 3] (4)
+- [Page 3] ◦야생생물 특별보호구역
+- [Page 3] 야생생물 보호구역
+- [Page 3] 생태경관 보전지역
+- [Page 3] 시도 생태경관
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ·
+- [Page 3] ,
+- [Page 3] ·
+- [Page 3] ·
+- [Page 3] 보전지역, 생태계 변화관찰지역
+- [Page 3] 습지보호지역
+- [Page 3] 습지주변관리지역
+- [Page 3] 자연공원
+- [Page 3] 산림
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] 유전자원 보호구역, 수산자원 보호구역
+- [Page 3] 백두대간보호구역
+- [Page 3] 해양 보호구역
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] , 천연
+- [Page 3] 보호구역
+- [Page 3] 기타
+- [Page 3] (4)
+- [Page 3] ◦생태자연도 등급 권역
+- [Page 3] 보호수 현황
+- [Page 3] ·
+- [Page 3] 1
+- [Page 3] ,
+- [Page 3] 나
+- [Page 3] 조사범위
+- [Page 3] )
+- [Page 3] ◦사업시행으로 인한 영향예측과 현지조사를 효율적으로 실시하기 위해 광역조사를
+- [Page 3] 실시하였으며
+- [Page 3] 광역조사의 범위는
+- [Page 3] ,
+- [Page 3] 사업하천이 포함되는전국자연환경조사 도엽의
+- [Page 3] 격자범위를 조사하였고
+- [Page 3] 기존 평가서 등을
+- [Page 3] ,
+- [Page 3] 대상으로 실시하였음
+- [Page 3] 다
+- [Page 3] 조사방법
+- [Page 3] )
+- [Page 3] ◦주요종의 분포현황
+- [Page 3] 법정보호지역
+- [Page 3] 주요생물 서식 공간
+- [Page 3] 생태자연도 등을 파악
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ·
+- [Page 3] 하고 현지조사를 실시하여 신뢰성을 높이고자 함
+- [Page 4] 평창강 하천정비사업
+- [Page 4] 개지구
+- [Page 4] 환경영향평가서
+- [Page 4] (2
+- [Page 4] )
+- [Page 4] - 140 -
+- [Page 4] ◦주요종 분포현황은
+- [Page 4] 환경영향평가서등 작성 등에 관한 규정
+- [Page 4] 환경부고시 제
+- [Page 4] ,
+- [Page 4] 2023
+- [Page 4] 「
+- [Page 4] 호에 따라 환경부
+- [Page 4] 지방자치단체
+- [Page 4] 국립환경과학원
+- [Page 4] 국립생물자원관
+- [Page 4] 국립공원
+- [Page 4] -72
+- [Page 4] ,
+- [Page 4] ,
+- [Page 4] ,
+- [Page 4] ,
+- [Page 4] 」
+- [Page 4] 관리공단
+- [Page 4] 산림청
+- [Page 4] 국가유산청 등 정부 및 공공기관의 조사자료
+- [Page 4] 분류군별 대표적인
+- [Page 4] ,
+- [Page 4] ,
+- [Page 4] ,
+- [Page 4] 전문학술지
+- [Page 4] 관련
+- [Page 4] ,
+- [Page 4] 기관 홈페이지와 환경영향평가 정보지원시스템에서 제공되어
+- [Page 4] 지는 것에 한하여 전략환경영향평가서
+- [Page 4] 환경영향평가서
+- [Page 4] 소규모환경영향평가서
+- [Page 4] ,
+- [Page 4] ,
+- [Page 4] ,
+- [Page 4] 사후환경영향조사서등을 대상으로 실시함
+- [Page 4] ◦조사범위는 가장 최신자료를 포함하여 최근
+- [Page 4] 년 이내 자료로 하되
+- [Page 4] 5
+- [Page 4] , 자연환경상
+- [Page 4] 민감한 지역에서 시행하는 사업 등 심도 있는 조사가 필요한 경우에는그 이전의
+- [Page 4] 자료를 포함하였음
+- [Page 4] 표
+- [Page 4] <
+- [Page 4] 9.1.1-1> 광역조사시 활용된 문헌 목록
+- [Page 4] 조사자료
+- [Page 4] 활용 유무
+- [Page 4] 육상 동식물상
+- [Page 4] ·
+- [Page 4] 육수생물상
+- [Page 4] 식물상
+- [Page 4] 포유류
+- [Page 4] 조류
+- [Page 4] 양서파충류
+- [Page 4] ·
+- [Page 4] 육상곤충류
+- [Page 4] 어류
+- [Page 4] 저서성 대형
+- [Page 4] 무척추동물
+- [Page 4] 전국자연
+- [Page 4] 환경조사
+- [Page 4] ①
+- [Page 4] -
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] -
+- [Page 4] -
+- [Page 4] -
+- [Page 4] ②
+- [Page 4] -
+- [Page 4] ●
+- [Page 4] -
+- [Page 4] ●
+- [Page 4] -
+- [Page 4] -
+- [Page 4] -
+- [Page 4] ③
+- [Page 4] -
+- [Page 4] -
+- [Page 4] ●
+- [Page 4] -
+- [Page 4] -
+- [Page 4] -
+- [Page 4] -
+- [Page 4] 수생태
+- [Page 4] 건강성조사
+- [Page 4] ④
+- [Page 4] -
+- [Page 4] -
+- [Page 4] -
+- [Page 4] -
+- [Page 4] -
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] 주변지역
+- [Page 4] 평가서
+- [Page 4] ⑤
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ⑥
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ⑦
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] -
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ⑧
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] -
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ⑨
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] -
+- [Page 4] ●
+- [Page 4] ●
+- [Page 4] 자료: ① 제차 전국자연환경조사
+- [Page 4] 운교도엽번호
+- [Page 4] 환경부
+- [Page 4] 5
+- [Page 4] 2021
+- [Page 4] (
+- [Page 4] : 378101), 2022,
+- [Page 4] -E9
+- [Page 4] 제차 전국자연환경조사
+- [Page 4] 방림도엽번호
+- [Page 4] 환경부
+- [Page 4] 5
+- [Page 4] 2021
+- [Page 4] (
+- [Page 4] : 378102), 2022,
+- [Page 4] -E7
+- [Page 4] ②
+- [Page 4] 제차 전국자연환경조사
+- [Page 4] 평창도엽번호
+- [Page 4] 환경부
+- [Page 4] 4
+- [Page 4] 2018
+- [Page 4] (
+- [Page 4] : 378104), 2019,
+- [Page 4] -E1
+- [Page 4] ③
+- [Page 4] ④ 물환경정보시스템
+- [Page 4] 평창강
+- [Page 4] 지점
+- [Page 4] 년
+- [Page 4] 환경부
+- [Page 4] (https://water.nier.go.kr)-
+- [Page 4] 1-2
+- [Page 4] (2020
+- [Page 4] ),
+- [Page 4] ⑤ 뇌운지구 지표수보강개발사업 소규모환경영향평가서
+- [Page 4] 한국농어촌공사 강원지역본부 원주지사
+- [Page 4] , 2019,
+- [Page 4] ⑥ 여만처리분구 외 개소 하수관로 정비사업 소규모 환경영향평가서
+- [Page 4] 평창군
+- [Page 4] 6
+- [Page 4] , 2021,
+- [Page 4] ⑦ 농어촌도로 평창
+- [Page 4] 호선여만리
+- [Page 4] 확포장공사 소규모환경영향평가서
+- [Page 4] 평창군
+- [Page 4] 301
+- [Page 4] (
+- [Page 4] )
+- [Page 4] , 2019,
+- [Page 4] ․
+- [Page 4] ⑧ 후평지구옥고개
+- [Page 4] 급경사지 붕괴위험지역 정비공사 소규모환경영향평가서
+- [Page 4] 평창군
+- [Page 4] (
+- [Page 4] )
+- [Page 4] , 2022,
+- [Page 4] ⑨평창강 하류권역본류 구간
+- [Page 4] 하천기본계획변경
+- [Page 4] 전략환경영향평가
+- [Page 4] 국도교통부 원주
+- [Page 4] (
+- [Page 4] )
+- [Page 4] (
+- [Page 4] )
+- [Page 4] , 2021,
+- [Page 4] 지방국토관리청
+- [Page 5] 동식물상
+- [Page 5] 9.1.1
+- [Page 5] ‧
+- [Page 5] - 141 -
+- [Page 5] 그림
+- [Page 5] (
+- [Page 5] 9.1.1-1) 문헌조사 위치도
+- [Page 6] 평창강 하천정비사업
+- [Page 6] 개지구
+- [Page 6] 환경영향평가서
+- [Page 6] (2
+- [Page 6] )
+- [Page 6] - 142 -
+- [Page 6] 라
+- [Page 6] 조사결과
+- [Page 6] )
+- [Page 6] ◦광역조사 결과사업하천이 포함되는 총 개 항목이 조사됨
+- [Page 6] ,
+- [Page 6] 8
+- [Page 6] - 전국자연환경조사 도엽의 격자 내에서 조사됨
+- [Page 6] - 멸종위기 야생생물
+- [Page 6] 천연기념물
+- [Page 6] 희귀식물
+- [Page 6] 특산식물
+- [Page 6] 식물구계학적 특정종
+- [Page 6] 습지
+- [Page 6] ,
+- [Page 6] ,
+- [Page 6] ,
+- [Page 6] ,
+- [Page 6] ,
+- [Page 6] ,
+- [Page 6] 생태자연도 등급 권역
+- [Page 6] 보호수
+- [Page 6] ·
+- [Page 6] 1
+- [Page 6] ,
+- [Page 6] ◦위 개 항목은 사업하천 경계로부터
+- [Page 6] 이내에 포함되어 현지조사시 반영함
+- [Page 6] 8
+- [Page 6] 500m
+- [Page 6] 표
+- [Page 6] <
+- [Page 6] 9.1.1-2> 광역조사 총괄표
+- [Page 6] No.
+- [Page 6] 조사항목
+- [Page 6] 조사내용
+- [Page 6] 출현 여부
+- [Page 6] 비고
+- [Page 6] 광역조사지역
+- [Page 6] 사업하천 경계
+- [Page 6] 이내
+- [Page 6] 500m
+- [Page 6] 1
+- [Page 6] 주요종
+- [Page 6] 멸종위기 야생생물
+- [Page 6] ●
+- [Page 6] ●
+- [Page 6] 2
+- [Page 6] 천연기념물
+- [Page 6] ●
+- [Page 6] ●
+- [Page 6] 3
+- [Page 6] 희귀식물
+- [Page 6] ●
+- [Page 6] ▲
+- [Page 6] 4
+- [Page 6] 특산식물
+- [Page 6] ●
+- [Page 6] ▲
+- [Page 6] 6
+- [Page 6] 식물구계학적 특정종
+- [Page 6] ●
+- [Page 6] ▲
+- [Page 6] 7
+- [Page 6] 주요생물
+- [Page 6] 서식공간
+- [Page 6] 생태축정맥
+- [Page 6] (
+- [Page 6] )
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 8
+- [Page 6] 특이식생
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 9
+- [Page 6] 습지해안
+- [Page 6] 내륙
+- [Page 6] 인공
+- [Page 6] (
+- [Page 6] ,
+- [Page 6] ,
+- [Page 6] )
+- [Page 6] ●
+- [Page 6] ●
+- [Page 6] 10
+- [Page 6] 법정
+- [Page 6] 보호지역
+- [Page 6] 야생생물 보호구역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 11
+- [Page 6] 야생생물 특별보호구역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 12
+- [Page 6] 생태경관 보전지역
+- [Page 6] ·
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 13
+- [Page 6] 생태계 변화관찰 지역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 14
+- [Page 6] 자연공원
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 15
+- [Page 6] 백두대간 보호지역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 16
+- [Page 6] 산림유전자원 보호구역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 17
+- [Page 6] 습지보호지역 및 습지주변관리지역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 18
+- [Page 6] 수산자원 보호구역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 19
+- [Page 6] 해양 보호구역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 20
+- [Page 6] 천연기념물 천연보호구역
+- [Page 6] ×
+- [Page 6] ×
+- [Page 6] 21
+- [Page 6] 기타
+- [Page 6] 생태자연도 등급 권역
+- [Page 6] 1
+- [Page 6] ․
+- [Page 6] ●
+- [Page 6] ●
+- [Page 6] 22
+- [Page 6] 보호수
+- [Page 6] ●
+- [Page 6] ●
+- [Page 6] 주
+- [Page 6] 해당됨
+- [Page 6] 위치가 불분명하여 현지조사시 확인 필요
+- [Page 6] 해당 없음
+- [Page 6] )
+- [Page 6] :
+- [Page 6] ,
+- [Page 6] :
+- [Page 6] , X:
+- [Page 6] ●
+- [Page 6] ▲
+- [Page 6] 출현종 현황
+- [Page 6] (1)
+- [Page 6] ◦문헌조사를 통해 조사된 조사항목 및 분류군별 종 조성은 아래와 같음
+- [Page 6] 표
+- [Page 6] 광역조사시 활용된 문헌 목록참조
+- [Page 6] ( <
+- [Page 6] 9.1.1-1>
+- [Page 6] )
+- [Page 6] 「
+- [Page 6] 」
+- [Page 6] 문헌조사에서는 포유류는
+- [Page 6] 과
+- [Page 6] 종
+- [Page 6] 조류는
+- [Page 6] 과
+- [Page 6] 종
+- [Page 6] 양서파충류는
+- [Page 6] 과
+- [Page 6] -
+- [Page 6] 1
+- [Page 6] 5
+- [Page 6] 5
+- [Page 6] ,
+- [Page 6] 24
+- [Page 6] 43
+- [Page 6] ,
+- [Page 6] ·
+- [Page 6] 8
+- [Page 6] 13
+- [Page 6] 종이 확인되었음
+- [Page 7] 동식물상
+- [Page 7] 9.1.1
+- [Page 7] ‧
+- [Page 7] - 143 -
+- [Page 7] 문헌조사에서는 포유류는 과 종
+- [Page 7] 양서파충류는 과 종이 확인되었음
+- [Page 7] -
+- [Page 7] 2
+- [Page 7] 2
+- [Page 7] 2
+- [Page 7] ,
+- [Page 7] ·
+- [Page 7] 4
+- [Page 7] 8
+- [Page 7] 문헌조사에서는
+- [Page 7] -
+- [Page 7] 3
+- [Page 7] 조류는
+- [Page 7] 과
+- [Page 7] 종이 확인되었음
+- [Page 7] 23
+- [Page 7] 40
+- [Page 7] - 문헌조사에서는 어류는 과
+- [Page 7] 종저서성 대형 무척추동물은
+- [Page 7] 과
+- [Page 7] 종이 확인
+- [Page 7] 4
+- [Page 7] 4
+- [Page 7] 12
+- [Page 7] ,
+- [Page 7] 20
+- [Page 7] 24
+- [Page 7] 되었음
+- [Page 7] 문헌조사에서는
+- [Page 7] -
+- [Page 7] 5
+- [Page 7] 식물상은
+- [Page 7] 과
+- [Page 7] 속
+- [Page 7] 종 아종
+- [Page 7] 변종 품종
+- [Page 7] 분류군
+- [Page 7] 65
+- [Page 7] 144
+- [Page 7] 163
+- [Page 7] 3
+- [Page 7] 10
+- [Page 7] 1
+- [Page 7] 177
+- [Page 7] , 포유
+- [Page 7] 류는 과
+- [Page 7] 종조류는
+- [Page 7] 과
+- [Page 7] 종양서파충류는 과
+- [Page 7] 종육상곤충은 과 종
+- [Page 7] 7
+- [Page 7] 10
+- [Page 7] ,
+- [Page 7] 20
+- [Page 7] 33
+- [Page 7] ,
+- [Page 7] ·
+- [Page 7] 6
+- [Page 7] 11
+- [Page 7] ,
+- [Page 7] 3
+- [Page 7] 4
+- [Page 7] ,
+- [Page 7] 어류는 과
+- [Page 7] 종저서성 대형 무척추동물은
+- [Page 7] 과
+- [Page 7] 종이 확인되었음
+- [Page 7] 4
+- [Page 7] 14
+- [Page 7] ,
+- [Page 7] 26
+- [Page 7] 33
+- [Page 7] - 문헌조사에서는 식물상은
+- [Page 7] 과
+- [Page 7] 속
+- [Page 7] 종 변종
+- [Page 7] 분류군포유류는 과 종
+- [Page 7] 6
+- [Page 7] 50
+- [Page 7] 99
+- [Page 7] 116
+- [Page 7] 7
+- [Page 7] 123
+- [Page 7] ,
+- [Page 7] 3
+- [Page 7] 3
+- [Page 7] ,
+- [Page 7] 조류는
+- [Page 7] 과
+- [Page 7] 종
+- [Page 7] 양서파충류는 과 종
+- [Page 7] 육상곤충은
+- [Page 7] 과
+- [Page 7] 종
+- [Page 7] 어류는 과
+- [Page 7] 11
+- [Page 7] 12
+- [Page 7] ,
+- [Page 7] ·
+- [Page 7] 2
+- [Page 7] 3
+- [Page 7] ,
+- [Page 7] 39
+- [Page 7] 81
+- [Page 7] ,
+- [Page 7] 2
+- [Page 7] 종
+- [Page 7] 저서성 대형 무척추동물은
+- [Page 7] 과
+- [Page 7] 종이 확인되었음
+- [Page 7] 6
+- [Page 7] ,
+- [Page 7] 15
+- [Page 7] 18
+- [Page 7] 문헌조사에서는
+- [Page 7] -
+- [Page 7] 7
+- [Page 7] 식물상은
+- [Page 7] 과
+- [Page 7] 속
+- [Page 7] 종 아종 변종
+- [Page 7] 분류군
+- [Page 7] 포유류는
+- [Page 7] 54
+- [Page 7] 113
+- [Page 7] 116
+- [Page 7] 2
+- [Page 7] 8
+- [Page 7] 126
+- [Page 7] ,
+- [Page 7] 과
+- [Page 7] 7
+- [Page 7] 종
+- [Page 7] 조류는
+- [Page 7] 과
+- [Page 7] 종
+- [Page 7] 양서파충류는
+- [Page 7] 과
+- [Page 7] 종
+- [Page 7] 어류는
+- [Page 7] 과
+- [Page 7] 종
+- [Page 7] 저서성
+- [Page 7] 9
+- [Page 7] ,
+- [Page 7] 18
+- [Page 7] 26
+- [Page 7] ,
+- [Page 7] ·
+- [Page 7] 5
+- [Page 7] 6
+- [Page 7] ,
+- [Page 7] 1
+- [Page 7] 3
+- [Page 7] ,
+- [Page 7] 대형 무척추동물은
+- [Page 7] 과
+- [Page 7] 종이 확인되었음
+- [Page 7] 13
+- [Page 7] 15
+- [Page 7] - 문헌조사에서는
+- [Page 7] 8
+- [Page 7] 식물상은
+- [Page 7] 과
+- [Page 7] 속
+- [Page 7] 종 아종 변종
+- [Page 7] 분류군포유류는
+- [Page 7] 42
+- [Page 7] 82
+- [Page 7] 92
+- [Page 7] 2
+- [Page 7] 6
+- [Page 7] 100
+- [Page 7] ,
+- [Page 7] 과
+- [Page 7] 8
+- [Page 7] 종
+- [Page 7] 조류는
+- [Page 7] 과
+- [Page 7] 종
+- [Page 7] 양서파충류는 과 종
+- [Page 7] 어류는 과 종
+- [Page 7] 저서성 대형
+- [Page 7] 11
+- [Page 7] ,
+- [Page 7] 10
+- [Page 7] 14
+- [Page 7] ,
+- [Page 7] ·
+- [Page 7] 6
+- [Page 7] 8
+- [Page 7] ,
+- [Page 7] 1
+- [Page 7] 3
+- [Page 7] ,
+- [Page 7] 무척추동물은
+- [Page 7] 과
+- [Page 7] 종이 확인되었음
+- [Page 7] 19
+- [Page 7] 25
+- [Page 7] 문헌조사에서는
+- [Page 7] -
+- [Page 7] 9
+- [Page 7] 식물상은
+- [Page 7] 과
+- [Page 7] 속
+- [Page 7] 종 아종
+- [Page 7] 변종
+- [Page 7] 분류군
+- [Page 7] 포유류는
+- [Page 7] 79
+- [Page 7] 196
+- [Page 7] 263
+- [Page 7] 5
+- [Page 7] 16
+- [Page 7] 284
+- [Page 7] ,
+- [Page 7] 과
+- [Page 7] 10
+- [Page 7] 종조류는
+- [Page 7] 과
+- [Page 7] 종양서파충류는 과
+- [Page 7] 종어류는 과
+- [Page 7] 종저서성
+- [Page 7] 14
+- [Page 7] ,
+- [Page 7] 33
+- [Page 7] 69
+- [Page 7] ,
+- [Page 7] ·
+- [Page 7] 8
+- [Page 7] 13
+- [Page 7] ,
+- [Page 7] 8
+- [Page 7] 24
+- [Page 7] ,
+- [Page 7] 대형무척추동물은
+- [Page 7] 과
+- [Page 7] 종이 확인되었음
+- [Page 7] 46
+- [Page 7] 98
+- [Page 7] 주요종
+- [Page 7] (2)
+- [Page 7] 가
+- [Page 7] 멸종위기 야생생물
+- [Page 7] 천연기념물
+- [Page 7] (
+- [Page 7] )
+- [Page 7] ,
+- [Page 7] ◦문헌조사시 사업하천 경계를 기준으로 반경
+- [Page 7] 의 범위가 포함되는 전국자연
+- [Page 7] 1㎞
+- [Page 7] 환경조사 도엽의 격자내에서 확인된 주요종은 총
+- [Page 7] 종으로주요종은 수달천멸
+- [Page 7] 14
+- [Page 7] ,
+- [Page 7] (
+- [Page 7] ,
+- [Page 7] )
+- [Page 7] Ⅰ,
+- [Page 7] 삵멸
+- [Page 7] 원앙천
+- [Page 7] 황조롱이천
+- [Page 7] 참매천
+- [Page 7] 멸
+- [Page 7] 흰목물떼새멸
+- [Page 7] 수리부엉이
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ,
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] 천
+- [Page 7] 구렁이
+- [Page 7] 어름치천
+- [Page 7] 멸
+- [Page 7] 묵납자루멸
+- [Page 7] 가는돌고기멸
+- [Page 7] 돌상어
+- [Page 7] (
+- [Page 7] ,
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] )
+- [Page 7] (
+- [Page 7] ,
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] 멸
+- [Page 7] 물방개멸
+- [Page 7] 염주알다슬기멸
+- [Page 7] 가 확인됨
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] )
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] 표
+- [Page 7] 광역조사시 활용된 문헌 목록참조
+- [Page 7] ( <
+- [Page 7] 9.1.1-1>
+- [Page 7] )
+- [Page 7] 「
+- [Page 7] 」
+- [Page 7] 문헌조사에서는 수달천
+- [Page 7] 멸
+- [Page 7] 원앙천
+- [Page 7] 참매천
+- [Page 7] 멸
+- [Page 7] 흰목물떼새멸
+- [Page 7] -
+- [Page 7] 1
+- [Page 7] (
+- [Page 7] ,
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] ,
+- [Page 7] ),
+- [Page 7] (
+- [Page 7] )
+- [Page 7] Ⅰ
+- [Page 7] Ⅱ
+- [Page 7] Ⅱ
+- [Page 7] 종이 확인됨
+- [Page 7] 4
+- [Page 8] 평창강 하천정비사업
+- [Page 8] 개지구
+- [Page 8] 환경영향평가서
+- [Page 8] (2
+- [Page 8] )
+- [Page 8] - 144 -
+- [Page 8] 문헌조사에서는 수달천
+- [Page 8] 멸
+- [Page 8] 종이 확인됨
+- [Page 8] -
+- [Page 8] 2
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ) 1
+- [Page 8] Ⅰ
+- [Page 8] 문헌조사에서는 흰목물떼새멸
+- [Page 8] 종이 확인됨
+- [Page 8] -
+- [Page 8] 3
+- [Page 8] (
+- [Page 8] ) 1
+- [Page 8] Ⅱ
+- [Page 8] 문헌조사에서는
+- [Page 8] -
+- [Page 8] 4
+- [Page 8] 묵납자루멸
+- [Page 8] 종이 확인됨
+- [Page 8] (
+- [Page 8] ) 1
+- [Page 8] Ⅱ
+- [Page 8] 문헌조사에서는
+- [Page 8] -
+- [Page 8] 5
+- [Page 8] 수달천
+- [Page 8] 멸
+- [Page 8] 삵멸
+- [Page 8] 흰목물떼새멸
+- [Page 8] 구렁이
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] Ⅰ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] 멸
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] Ⅱ
+- [Page 8] 어름치천
+- [Page 8] 멸
+- [Page 8] 묵납자루멸
+- [Page 8] 종이 확인됨
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ) 6
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] - 문헌조사에서는 수달천멸
+- [Page 8] 묵납자루멸
+- [Page 8] 가는돌고기멸
+- [Page 8] 종이 확인됨
+- [Page 8] 6
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ) 3
+- [Page 8] Ⅰ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] - 문헌조사에서는 수달천멸
+- [Page 8] 흰목물떼새멸
+- [Page 8] 묵납자루멸
+- [Page 8] 종이 확인됨
+- [Page 8] 7
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ) 3
+- [Page 8] Ⅰ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] 문헌조사에서는
+- [Page 8] -
+- [Page 8] 8
+- [Page 8] 수달천
+- [Page 8] 멸
+- [Page 8] 삵멸
+- [Page 8] 구렁이멸
+- [Page 8] 종이 확인됨
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ) 3
+- [Page 8] Ⅰ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] - 문헌조사에서는  수달천
+- [Page 8] 멸
+- [Page 8] 삵멸
+- [Page 8] 원앙천
+- [Page 8] 황조롱이천
+- [Page 8] 흰목물떼새
+- [Page 8] 9
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] Ⅰ
+- [Page 8] Ⅱ
+- [Page 8] 멸
+- [Page 8] 수리부엉이천
+- [Page 8] 멸
+- [Page 8] 구렁이멸
+- [Page 8] 어름치천
+- [Page 8] 멸
+- [Page 8] 묵납자루멸
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] 가는돌고기멸
+- [Page 8] 돌상어멸
+- [Page 8] 물방개멸
+- [Page 8] 염주알다슬기멸
+- [Page 8] 종이 확인됨
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ),
+- [Page 8] (
+- [Page 8] ) 13
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] Ⅱ
+- [Page 8] 표
+- [Page 8] <
+- [Page 8] 9.1.1-3> 광역조사시 확인된 멸종위기 야생생물 및 천연기념물 목록
+- [Page 8] 분류군
+- [Page 8] 국 명
+- [Page 8] 문헌조사 법정보호종
+- [Page 8] ①
+- [Page 8] ②
+- [Page 8] ③
+- [Page 8] ④
+- [Page 8] ⑤
+- [Page 8] ⑥
+- [Page 8] ⑦
+- [Page 8] ⑧
+- [Page 8] ⑨
+- [Page 8] 포유류
+- [Page 8] 수달천
+- [Page 8] 멸
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] )
+- [Page 8] Ⅰ
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] 삵멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] 조류
+- [Page 8] 원앙천
+- [Page 8] (
+- [Page 8] )
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] 황조롱이천
+- [Page 8] (
+- [Page 8] )
+- [Page 8] ●
+- [Page 8] 참매천
+- [Page 8] 멸
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] 흰목물떼새멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] 수리부엉이멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] 양서파충류
+- [Page 8] ·
+- [Page 8] 구렁이멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] 어류
+- [Page 8] 어름치천
+- [Page 8] 멸
+- [Page 8] (
+- [Page 8] ,
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] 묵납자루멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] 가는돌고기멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] ●
+- [Page 8] 돌상어멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] 저서성 대형
+- [Page 8] 무척추동물
+- [Page 8] 물방개멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] 염주알다슬기멸
+- [Page 8] (
+- [Page 8] )
+- [Page 8] Ⅱ
+- [Page 8] ●
+- [Page 8] 합계종수
+- [Page 8] (
+- [Page 8] )
+- [Page 8] 4
+- [Page 8] 1
+- [Page 8] 1
+- [Page 8] 1
+- [Page 8] 6
+- [Page 8] 3
+- [Page 8] 3
+- [Page 8] 3
+- [Page 8] 13
+- [Page 8] 14
+- [Page 8] 주) 멸
+- [Page 8] 멸종위기 야생생물
+- [Page 8] 급천천연기념물
+- [Page 8] ·
+- [Page 8] :
+- [Page 8] ·
+- [Page 8] ,
+- [Page 8] :
+- [Page 8] ⅠⅡ
+- [Page 8] ⅠⅡ
+- [Page 8] 자료: ① 제차 전국자연환경조사
+- [Page 8] 운교도엽번호
+- [Page 8] 환경부
+- [Page 8] 5
+- [Page 8] 2021
+- [Page 8] (
+- [Page 8] : 378101), 2022,
+- [Page 8] -E9
+- [Page 8] 제차 전국자연환경조사
+- [Page 8] 방림도엽번호
+- [Page 8] 환경부
+- [Page 8] 5
+- [Page 8] 2021
+- [Page 8] (
+- [Page 8] : 378102), 2022,
+- [Page 8] -E7
+- [Page 8] ②
+- [Page 8] 제차 전국자연환경조사
+- [Page 8] 평창도엽번호
+- [Page 8] 환경부
+- [Page 8] 4
+- [Page 8] 2018
+- [Page 8] (
+- [Page 8] : 378104), 2019,
+- [Page 8] -E1
+- [Page 8] ③
+- [Page 8] ④ 물환경정보시스템
+- [Page 8] 평창강
+- [Page 8] 지점
+- [Page 8] 년
+- [Page 8] 환경부
+- [Page 8] (https://water.nier.go.kr)-
+- [Page 8] 1-2
+- [Page 8] (2020
+- [Page 8] ),
+- [Page 8] ⑤ 뇌운지구 지표수보강개발사업 소규모환경영향평가서
+- [Page 8] 한국농어촌공사 강원지역본부 원주지사
+- [Page 8] , 2019,
+- [Page 8] ⑥ 여만처리분구 외 개소 하수관로 정비사업 소규모 환경영향평가서
+- [Page 8] 평창군
+- [Page 8] 6
+- [Page 8] , 2021,
+- [Page 8] ⑦ 농어촌도로 평창
+- [Page 8] 호선여만리
+- [Page 8] 확ㆍ포장공사 소규모환경영향평가서
+- [Page 8] 평창군
+- [Page 8] 301
+- [Page 8] (
+- [Page 8] )
+- [Page 8] , 2019,
+- [Page 8] ⑧ 후평지구옥고개
+- [Page 8] 급경사지 붕괴위험지역 정비공사 소규모환경영향평가서
+- [Page 8] 평창군
+- [Page 8] (
+- [Page 8] )
+- [Page 8] , 2022,
+- [Page 8] ⑨ 평창강 하류권역본류 구간
+- [Page 8] 하천기본계획변경
+- [Page 8] 전략환경영향평가
+- [Page 8] (
+- [Page 8] )
+- [Page 8] (
+- [Page 8] )
+- [Page 8] , 2021, 국도교통부
+- [Page 8] 원주지방국토관리청
+- [Page 9] 동식물상
+- [Page 9] 9.1.1
+- [Page 9] ‧
+- [Page 9] - 145 -
+- [Page 9] 나
+- [Page 9] 희귀식물농림축산식품부 지정
+- [Page 9] (
+- [Page 9] )
+- [Page 9] (
+- [Page 9] )
+- [Page 9] ◦광역조사시 총 종의 희귀식물이 조사되었으며
+- [Page 9] 문헌조사별 출현종은 다음과 같음
+- [Page 9] 6
+- [Page 9] ,
+- [Page 9] 표
+- [Page 9] 광역조사시 활용된 문헌 목록참조
+- [Page 9] ( <
+- [Page 9] 9.1.1-1>
+- [Page 9] )
+- [Page 9] 「
+- [Page 9] 」
+- [Page 9] - 문헌조사에서는 취약종 등급
+- [Page 9] 주목
+- [Page 9] 종
+- [Page 9] 약관심종 등급
+- [Page 9] 뻐꾹나리
+- [Page 9] 종이
+- [Page 9] 5
+- [Page 9] (VU)
+- [Page 9] 1
+- [Page 9] ,
+- [Page 9] (LC)
+- [Page 9] 1
+- [Page 9] 조사되어
+- [Page 9] 총 종이 확인됨
+- [Page 9] ,
+- [Page 9] 2
+- [Page 9] - 문헌조사에서는
+- [Page 9] 6
+- [Page 9] 취약종등급
+- [Page 9] 주목 종
+- [Page 9] (VU)
+- [Page 9] 1
+- [Page 9] 이 확인됨
+- [Page 9] - 문헌조사에서는
+- [Page 9] 7
+- [Page 9] 취약종등급
+- [Page 9] 주목 종
+- [Page 9] (VU)
+- [Page 9] 1
+- [Page 9] 이 확인됨
+- [Page 9] - 문헌조사에서는
+- [Page 9] 8
+- [Page 9] 멸종위기종 등급
+- [Page 9] 목련 종이 확인됨
+- [Page 9] (CR)
+- [Page 9] 1
+- [Page 9] - 문헌조사에서는
+- [Page 9] 9
+- [Page 9] 멸종위기종 등급
+- [Page 9] 왕벚나무
+- [Page 9] 종
+- [Page 9] (CR)
+- [Page 9] 1
+- [Page 9] , 취약종등급
+- [Page 9] 주목
+- [Page 9] 종
+- [Page 9] (VU)
+- [Page 9] 1
+- [Page 9] ,
+- [Page 9] 약관심종 등급(LC) 히어리측백나무 종이 조사되어
+- [Page 9] ,
+- [Page 9] 2
+- [Page 9] , 총 종이 확인됨
+- [Page 9] 4
+- [Page 9] 표
+- [Page 9] <
+- [Page 9] 9.1.1-4> 광역조사시 확인된 희귀식물 목록
+- [Page 9] 등급
+- [Page 9] 국 명
+- [Page 9] 문헌조사 출현종
+- [Page 9] ⑤
+- [Page 9] ⑥
+- [Page 9] ⑦
+- [Page 9] ⑧
+- [Page 9] ⑨
+- [Page 9] CR
+- [Page 9] 목련
+- [Page 9] ○
+- [Page 9] 왕벚나무
+- [Page 9] ○
+- [Page 9] VU
+- [Page 9] 주목
+- [Page 9] ○
+- [Page 9] ○
+- [Page 9] ○
+- [Page 9] ○
+- [Page 9] LC
+- [Page 9] 뻐꾹나리
+- [Page 9] ○
+- [Page 9] 히어리
+- [Page 9] ○
+- [Page 9] 측백나무
+- [Page 9] ○
+- [Page 9] 멸종위기종 (CR)
+- [Page 9] -
+- [Page 9] -
+- [Page 9] -
+- [Page 9] 1
+- [Page 9] 1
+- [Page 9] 취약종 (VU)
+- [Page 9] 1
+- [Page 9] 1
+- [Page 9] 1
+- [Page 9] -
+- [Page 9] 1
+- [Page 9] 약관심종 (LC)
+- [Page 9] 1
+- [Page 9] -
+- [Page 9] -
+- [Page 9] -
+- [Page 9] 2
+- [Page 9] 합계
+- [Page 9] 2
+- [Page 9] 1
+- [Page 9] 1
+- [Page 9] 1
+- [Page 9] 4
+- [Page 9] 자료: ⑤ 뇌운지구 지표수보강개발사업 소규모환경영향평가서
+- [Page 9] 한국농어촌공사 강원지역본부 원주지사
+- [Page 9] , 2019,
+- [Page 9] ⑥ 여만처리분구 외 개소 하수관로 정비사업 소규모 환경영향평가서
+- [Page 9] 평창군
+- [Page 9] 6
+- [Page 9] , 2021,
+- [Page 9] ⑦ 농어촌도로 평창
+- [Page 9] 호선여만리
+- [Page 9] 확포장공사 소규모환경영향평가서
+- [Page 9] 평창군
+- [Page 9] 301
+- [Page 9] (
+- [Page 9] )
+- [Page 9] , 2019,
+- [Page 9] ․
+- [Page 9] ⑧ 후평지구옥고개
+- [Page 9] 급경사지 붕괴위험지역 정비공사 소규모환경영향평가서
+- [Page 9] 평창군
+- [Page 9] (
+- [Page 9] )
+- [Page 9] , 2022,
+- [Page 9] ⑨ 평창강 하류권역본류 구간
+- [Page 9] 하천기본계획변경
+- [Page 9] 전략환경영향평가
+- [Page 9] (
+- [Page 9] )
+- [Page 9] (
+- [Page 9] )
+- [Page 9] , 2021, 국도교통부
+- [Page 9] 원주지방국토관리청
+- [Page 10] 평창강 하천정비사업
+- [Page 10] 개지구
+- [Page 10] 환경영향평가서
+- [Page 10] (2
+- [Page 10] )
+- [Page 10] - 146 -
+- [Page 10] 다
+- [Page 10] 특산식물
+- [Page 10] (
+- [Page 10] )
+- [Page 10] ◦광역조사시 총 종의 특산식물이 조사되었으며
+- [Page 10] 문헌조사별 출현종은 다음과 같음
+- [Page 10] 7
+- [Page 10] ,
+- [Page 10] 표
+- [Page 10] 광역조사시 활용된 문헌 목록참조
+- [Page 10] ( <
+- [Page 10] 9.1.1-1>
+- [Page 10] )
+- [Page 10] 「
+- [Page 10] 」
+- [Page 10] 문헌조사에서는 병꽃나무
+- [Page 10] 회양목
+- [Page 10] 은사시나무
+- [Page 10] 개나리 종이 확인됨
+- [Page 10] -
+- [Page 10] 5
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] 4
+- [Page 10] 문헌조사에서는
+- [Page 10] -
+- [Page 10] 6
+- [Page 10] 회양목은사시나무키버들오동나무 종이 확인됨
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] 4
+- [Page 10] 문헌조사에서는
+- [Page 10] -
+- [Page 10] 7
+- [Page 10] 회양목개나리 종이
+- [Page 10] ,
+- [Page 10] 2
+- [Page 10] 확인됨
+- [Page 10] 문헌조사에서는
+- [Page 10] -
+- [Page 10] 8
+- [Page 10] 회양목은사시나무 종이
+- [Page 10] ,
+- [Page 10] 2
+- [Page 10] 확인됨
+- [Page 10] 문헌조사에서는
+- [Page 10] -
+- [Page 10] 9
+- [Page 10] 병꽃나무회양목은사시나무키버들능수버들 종이
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] 5
+- [Page 10] 확인됨
+- [Page 10] 표
+- [Page 10] <
+- [Page 10] 9.1.1-5> 광역조사시 확인된 특산식물 목록
+- [Page 10] 국 명
+- [Page 10] 문헌조사 출현종
+- [Page 10] ⑤
+- [Page 10] ⑥
+- [Page 10] ⑦
+- [Page 10] ⑧
+- [Page 10] ⑨
+- [Page 10] 병꽃나무
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] 회양목
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] 은사시나무
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] 키버들
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] 능수버들
+- [Page 10] ○
+- [Page 10] 개나리
+- [Page 10] ○
+- [Page 10] ○
+- [Page 10] 오동나무
+- [Page 10] ○
+- [Page 10] 합계
+- [Page 10] 4
+- [Page 10] 4
+- [Page 10] 2
+- [Page 10] 2
+- [Page 10] 5
+- [Page 10] 자료: ⑤ 뇌운지구 지표수보강개발사업 소규모환경영향평가서
+- [Page 10] 한국농어촌공사 강원지역본부 원주지사
+- [Page 10] , 2019,
+- [Page 10] ⑥ 여만처리분구 외 개소 하수관로 정비사업 소규모 환경영향평가서
+- [Page 10] 평창군
+- [Page 10] 6
+- [Page 10] , 2021,
+- [Page 10] ⑦ 농어촌도로 평창
+- [Page 10] 호선여만리
+- [Page 10] 확포장공사 소규모환경영향평가서
+- [Page 10] 평창군
+- [Page 10] 301
+- [Page 10] (
+- [Page 10] )
+- [Page 10] , 2019,
+- [Page 10] ․
+- [Page 10] ⑧ 후평지구옥고개
+- [Page 10] 급경사지 붕괴위험지역 정비공사 소규모환경영향평가서
+- [Page 10] 평창군
+- [Page 10] (
+- [Page 10] )
+- [Page 10] , 2022,
+- [Page 10] ⑨ 평창강 하류권역본류 구간
+- [Page 10] 하천기본계획변경
+- [Page 10] 전략환경영향평가
+- [Page 10] (
+- [Page 10] )
+- [Page 10] (
+- [Page 10] )
+- [Page 10] , 2021, 국도교통부
+- [Page 10] 원주지방국토관리청
+- [Page 11] 동식물상
+- [Page 11] 9.1.1
+- [Page 11] ‧
+- [Page 11] - 147 -
+- [Page 11] 라
+- [Page 11] 식물구계학적 특정종
+- [Page 11] (
+- [Page 11] )
+- [Page 11] ◦광역조사시 총
+- [Page 11] 종의 식물구계학적 특정종이 조사되었으며
+- [Page 11] 문헌조사별 출현종은
+- [Page 11] 25
+- [Page 11] ,
+- [Page 11] 다음과 같음
+- [Page 11] 표
+- [Page 11] 광역조사시 활용된 문헌 목록참조
+- [Page 11] ( <
+- [Page 11] 9.1.1-1>
+- [Page 11] )
+- [Page 11] 「
+- [Page 11] 」
+- [Page 11] 문헌조사에서는
+- [Page 11] -
+- [Page 11] 5
+- [Page 11] 식물구계학적특정종
+- [Page 11] 총 종이 확인됨
+- [Page 11] 8
+- [Page 11] ․
+- [Page 11] 등급
+- [Page 11] 뻐꾹나리사철나무회양목
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] Ⅰ
+- [Page 11] 종
+- [Page 11] 3
+- [Page 11] 등급
+- [Page 11] 전나무잣나무주목 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 3
+- [Page 11] ․ Ⅱ
+- [Page 11] 등급
+- [Page 11] 고광나무향나무
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ․ Ⅲ
+- [Page 11] 종
+- [Page 11] 2
+- [Page 11] 문헌조사에서는
+- [Page 11] -
+- [Page 11] 6
+- [Page 11] 식물구계학적 특정종 총 종이 확인됨
+- [Page 11] 9
+- [Page 11] 등급
+- [Page 11] 회양목가래나무느릅나무 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 3
+- [Page 11] ․ Ⅰ
+- [Page 11] 등급
+- [Page 11] 마가목전나무낫나무주목 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 4
+- [Page 11] ․ Ⅱ
+- [Page 11] 등급
+- [Page 11] 좁쌀풀단풍나무 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] 2
+- [Page 11] ․ Ⅲ
+- [Page 11] 문헌조사에서는
+- [Page 11] -
+- [Page 11] 7
+- [Page 11] 식물구계학적 특정종 총 종이 확인됨
+- [Page 11] 6
+- [Page 11] 등급
+- [Page 11] 오갈피나무회양목계요등 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 3
+- [Page 11] ․ Ⅰ
+- [Page 11] 등급
+- [Page 11] 잣나무주목 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] 2
+- [Page 11] ․ Ⅱ
+- [Page 11] 등급
+- [Page 11] 단풍나무 종
+- [Page 11] :
+- [Page 11] 1
+- [Page 11] ․ Ⅲ
+- [Page 11] 문헌조사에서는
+- [Page 11] -
+- [Page 11] 8
+- [Page 11] 식물구계학적 특정종 총 종이 확인됨
+- [Page 11] 6
+- [Page 11] 등급
+- [Page 11] 오갈피나무회양목개비자나무 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 3
+- [Page 11] ․ Ⅰ
+- [Page 11] 등급
+- [Page 11] 잣나무 종
+- [Page 11] :
+- [Page 11] 1
+- [Page 11] ․ Ⅱ
+- [Page 11] 등급
+- [Page 11] :
+- [Page 11] ․ Ⅲ
+- [Page 11] 단풍나무 1종
+- [Page 11] 등급
+- [Page 11] 목련 종
+- [Page 11] :
+- [Page 11] 1
+- [Page 11] ․ Ⅴ
+- [Page 11] 문헌조사에서는
+- [Page 11] -
+- [Page 11] 9
+- [Page 11] 식물구계학적 특정종 총
+- [Page 11] 종이 확인됨
+- [Page 11] 14
+- [Page 11] 등급
+- [Page 11] 줄사초회양목노랑어리연느릅나무뚜껑덩굴 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 5
+- [Page 11] ․ Ⅰ
+- [Page 11] 등급
+- [Page 11] 질경이택사물옥잠잣나무주목 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 4
+- [Page 11] ․ Ⅱ
+- [Page 11] 등급
+- [Page 11] 좁쌀풀단풍나무 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] 2
+- [Page 11] ․ Ⅲ
+- [Page 11] 등급
+- [Page 11] 히어리왕벚나무측백나무 종
+- [Page 11] :
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 3
+- [Page 11] ․ Ⅳ
+- [Page 12] 평창강 하천정비사업
+- [Page 12] 개지구
+- [Page 12] 환경영향평가서
+- [Page 12] (2
+- [Page 12] )
+- [Page 12] - 148 -
+- [Page 12] 표
+- [Page 12] <
+- [Page 12] 9.1.1-6> 광역조사시 확인된 식물구계학적 특정종 목록
+- [Page 12] 등급
+- [Page 12] 국 명
+- [Page 12] 특정종 출현여부
+- [Page 12] ⑤
+- [Page 12] ⑥
+- [Page 12] ⑦
+- [Page 12] ⑧
+- [Page 12] ⑨
+- [Page 12] Ⅰ
+- [Page 12] 줄사초
+- [Page 12] ●
+- [Page 12] 뻐꾹나리
+- [Page 12] ●
+- [Page 12] 오갈피나무
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] 사철나무
+- [Page 12] ●
+- [Page 12] 회양목
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] 가래나무
+- [Page 12] ●
+- [Page 12] 계요등
+- [Page 12] ●
+- [Page 12] 노랑어리연
+- [Page 12] ●
+- [Page 12] 느릅나무
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] 뚜껑덩굴
+- [Page 12] ●
+- [Page 12] 개비자나무
+- [Page 12] ●
+- [Page 12] Ⅱ
+- [Page 12] 질경이택사
+- [Page 12] ●
+- [Page 12] 물옥잠
+- [Page 12] ●
+- [Page 12] 마가목
+- [Page 12] ●
+- [Page 12] 전나무
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] 잣나무
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] 주목
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] Ⅲ
+- [Page 12] 좁쌀풀
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] 고광나무
+- [Page 12] ●
+- [Page 12] 단풍나무
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] ●
+- [Page 12] 향나무
+- [Page 12] ●
+- [Page 12] Ⅳ
+- [Page 12] 히어리
+- [Page 12] ●
+- [Page 12] 왕벚나무
+- [Page 12] ●
+- [Page 12] 측백나무
+- [Page 12] ●
+- [Page 12] Ⅴ
+- [Page 12] 목련
+- [Page 12] ●
+- [Page 12] 식물구계학적 특정종
+- [Page 12] 등급
+- [Page 12] Ⅰ
+- [Page 12] 3
+- [Page 12] 3
+- [Page 12] 3
+- [Page 12] 3
+- [Page 12] 5
+- [Page 12] 식물구계학적 특정종
+- [Page 12] 등급
+- [Page 12] Ⅱ
+- [Page 12] 3
+- [Page 12] 4
+- [Page 12] 2
+- [Page 12] 1
+- [Page 12] 4
+- [Page 12] 식물구계학적 특정종
+- [Page 12] 등급
+- [Page 12] Ⅲ
+- [Page 12] 2
+- [Page 12] 2
+- [Page 12] 1
+- [Page 12] 1
+- [Page 12] 2
+- [Page 12] 식물구계학적 특정종
+- [Page 12] 등급
+- [Page 12] Ⅳ
+- [Page 12] -
+- [Page 12] -
+- [Page 12] -
+- [Page 12] -
+- [Page 12] 3
+- [Page 12] 식물구계학적 특정종
+- [Page 12] 등급
+- [Page 12] Ⅴ
+- [Page 12] -
+- [Page 12] -
+- [Page 12] -
+- [Page 12] 1
+- [Page 12] -
+- [Page 12] 합계
+- [Page 12] 8
+- [Page 12] 9
+- [Page 12] 6
+- [Page 12] 6
+- [Page 12] 14
+- [Page 12] 자료: ⑤ 뇌운지구 지표수보강개발사업 소규모환경영향평가서
+- [Page 12] 한국농어촌공사 강원지역본부 원주지사
+- [Page 12] , 2019,
+- [Page 12] ⑥ 여만처리분구 외 개소 하수관로 정비사업 소규모 환경영향평가서
+- [Page 12] 평창군
+- [Page 12] 6
+- [Page 12] , 2021,
+- [Page 12] ⑦ 농어촌도로 평창
+- [Page 12] 호선여만리
+- [Page 12] 확포장공사 소규모환경영향평가서
+- [Page 12] 평창군
+- [Page 12] 301
+- [Page 12] (
+- [Page 12] )
+- [Page 12] , 2019,
+- [Page 12] ․
+- [Page 12] ⑧ 후평지구옥고개
+- [Page 12] 급경사지 붕괴위험지역 정비공사 소규모환경영향평가서
+- [Page 12] 평창군
+- [Page 12] (
+- [Page 12] )
+- [Page 12] , 2022,
+- [Page 12] ⑨ 평창강 하류권역본류 구간
+- [Page 12] 하천기본계획변경
+- [Page 12] 전략환경영향평가
+- [Page 12] (
+- [Page 12] )
+- [Page 12] (
+- [Page 12] )
+- [Page 12] , 2021, 국도교통부
+- [Page 12] 원주지방국토관리청
+- [Page 13] 동식물상
+- [Page 13] 9.1.1
+- [Page 13] ‧
+- [Page 13] - 149 -
+- [Page 13] 주요생물 서식공간
+- [Page 13] (3)
+- [Page 13] ◦광역조사시 확인된 주요생물 서식공간은 습지해안
+- [Page 13] 내륙
+- [Page 13] 인공로 확인됨
+- [Page 13] (
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] )
+- [Page 13] 가
+- [Page 13] 습지해안
+- [Page 13] 내륙
+- [Page 13] 인공
+- [Page 13] (
+- [Page 13] )
+- [Page 13] (
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] )
+- [Page 13] ◦광역조사시 확인된 습지는
+- [Page 13] 개소이며 모두 내륙습지인 것으로 조사되었으며
+- [Page 13] 2
+- [Page 13] ,
+- [Page 13] 모두 사업하천 내 제외지에서 확인되었음
+- [Page 13] 내륙습지는
+- [Page 13] 습지보전법에 따라 습지 보전정책의 기초자료 활용을 위해
+- [Page 13] - “
+- [Page 13] ”
+- [Page 13] 「
+- [Page 13] 」
+- [Page 13] 환경부에서 조사하는 지역임
+- [Page 13] 표
+- [Page 13] <
+- [Page 13] 9.1.1-7> 광역조사시 확인된 습지현황
+- [Page 13] 번호
+- [Page 13] 습지유형
+- [Page 13] 습지명
+- [Page 13] 지정면적
+- [Page 13] (
+- [Page 13] )
+- [Page 13] ㎡
+- [Page 13] 이격거리
+- [Page 13] (
+- [Page 13] )
+- [Page 13] ㎞
+- [Page 13] 1
+- [Page 13] 내륙습지
+- [Page 13] 다수습지
+- [Page 13] 124,556
+- [Page 13] 제외지 내
+- [Page 13] 2
+- [Page 13] 여만습지
+- [Page 13] 397,664
+- [Page 13] 자료
+- [Page 13] 에코뱅크
+- [Page 13] :
+- [Page 13] (https://www.nie-ecobank.kr)
+- [Page 13] 법정보호지역
+- [Page 13] (4)
+- [Page 13] ◦광역조사시 확인된 법정보호지역은 없음
+- [Page 13] 기타
+- [Page 13] (5)
+- [Page 13] 가
+- [Page 13] 생태
+- [Page 13] 자연도 등급 권역
+- [Page 13] (
+- [Page 13] )
+- [Page 13] ·
+- [Page 13] 1
+- [Page 13] ◦광역조사시 사업하천은 대부분 생태자연도
+- [Page 13] 등급 권역에
+- [Page 13] ·
+- [Page 13] 2, 3
+- [Page 13] 해당하나
+- [Page 13] 일부
+- [Page 13] ,
+- [Page 13] 생태자연도 등급 권역으로 지정된 지역이 있음
+- [Page 13] ·
+- [Page 13] 1
+- [Page 13] 나
+- [Page 13] 보호수 및 노거수
+- [Page 13] (
+- [Page 13] )
+- [Page 13] ◦광역조사시 확인된 보호수는 총 주이며
+- [Page 13] 2
+- [Page 13] ,
+- [Page 13] 이상 이격되어 위치하고 있는 것
+- [Page 13] 200m
+- [Page 13] 으로 조사됨
+- [Page 13] 표
+- [Page 13] <
+- [Page 13] 9.1.1-8> 광역조사시 확인된 보호수 현황
+- [Page 13] 구분
+- [Page 13] 수종
+- [Page 13] 소재지
+- [Page 13] 흉고둘레(
+- [Page 13] )
+- [Page 13] ㎝
+- [Page 13] 수고(m)
+- [Page 13] 이격거리(m)
+- [Page 13] 1
+- [Page 13] 느릅나무
+- [Page 13] 강원특별자치도 평창군 평창읍 향동리 4
+- [Page 13] 610
+- [Page 13] 25
+- [Page 13] 700
+- [Page 13] 2
+- [Page 13] 느릅나무
+- [Page 13] 강원특별자치도 평창군 평창읍 하리 산1
+- [Page 13] 310
+- [Page 13] 15
+- [Page 13] 200
+- [Page 13] 자료
+- [Page 13] 공공데이터
+- [Page 13] :
+- [Page 13] 포털(https://www.data.go.kr/)
+- [Page 14] 평창강 하천정비사업
+- [Page 14] 개지구
+- [Page 14] 환경영향평가서
+- [Page 14] (2
+- [Page 14] )
+- [Page 14] - 150 -
+- [Page 14] 표
+- [Page 14] <
+- [Page 14] 9.1.1-9> 광역조사시 확인된 주요종 서식 특성 및 조사 반영 여부
+- [Page 14] 구분
+- [Page 14] 주요종 서식 특성 및 조사 반영 여부
+- [Page 14] 식물구계학적 특정종,
+- [Page 14] 희귀식물
+- [Page 14] 특산식물
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 특별산림보호 대상종
+- [Page 14] ◦광역조사시 확인된 종들은 주로 식재종이거나 산림
+- [Page 14] 초지
+- [Page 14] 습지 등
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 다양한 서식지에서 분포함
+- [Page 14] ◦사업하천을 포함한 주변으로 생태자연도
+- [Page 14] 등급 권역이 분포하고
+- [Page 14] ·
+- [Page 14] 1
+- [Page 14] 있으며
+- [Page 14] 다양한 식물 서식조건이 갖추어진 곳들이 분포하고 있음
+- [Page 14] ,
+- [Page 14] ◦사업하천제외지내에 대한 출현을 정확히 확인할 수 없으나
+- [Page 14] (
+- [Page 14] )
+- [Page 14] , 생태자연도
+- [Page 14] ·
+- [Page 14] 등급 권역이 제외지 내에 분포하고 있으며
+- [Page 14] 사업하천 내 출현이
+- [Page 14] 1
+- [Page 14] ,
+- [Page 14] 예상
+- [Page 14] 되는 바
+- [Page 14] 계획에 반영함
+- [Page 14] ,
+- [Page 14] 수달
+- [Page 14] ◦수상형 동물로 수계를 따르는 직선형 서식지를 가지고, 수변부에 갈대나
+- [Page 14] 식생이 풍부하고 먹잇감이 많은 하천이나호숫가에 서식
+- [Page 14] 하는 야행성
+- [Page 14] 동물이며광역조사시 사업하천 내에서 다수 확인된
+- [Page 14] ,
+- [Page 14] 종임
+- [Page 14] ◦사업하천을 중점조사 지역으로 선정하여 조사 계획을수립
+- [Page 14] 삵
+- [Page 14] ◦산림지대의 계곡
+- [Page 14] 바위굴
+- [Page 14] 연안
+- [Page 14] 관목으로 덮인 산골짜기
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 개울가에서 주로
+- [Page 14] 서식하는 야행성 동물이며광역조사시 사업하천 및 주변지역에서 확인됨
+- [Page 14] ,
+- [Page 14] ◦사업하천및 주변지역반경
+- [Page 14] (
+- [Page 14] 500m)에 분포하는 산림, 초지
+- [Page 14] 경작지
+- [Page 14] ,
+- [Page 14] , 하천
+- [Page 14] 일대를 중점조사 지역으로 선정하여 조사 계획을 수립
+- [Page 14] 원앙
+- [Page 14] ◦산지 계곡
+- [Page 14] 저수지
+- [Page 14] 강
+- [Page 14] 호수 등지에서 서식하며
+- [Page 14] 냇가와 인접한 오래된
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 나무위나 바위틈에서 번식하는 텃새로 광역조사시 주변지역에서 확인됨
+- [Page 14] ◦사업하천 및 주변지역반경
+- [Page 14] 을
+- [Page 14] (
+- [Page 14] 500m)
+- [Page 14] 중점조사 지역으로 선정하여 조사
+- [Page 14] 계획을수립
+- [Page 14] 황조롱이
+- [Page 14] ◦전국의 들판
+- [Page 14] 초원
+- [Page 14] 숲
+- [Page 14] 농경지
+- [Page 14] 강이나 하천변
+- [Page 14] 도시의 공원
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 등에서
+- [Page 14] 서식하는 흔한 텃새로
+- [Page 14] 광역조사시 주변지역에서 확인됨
+- [Page 14] ,
+- [Page 14] ◦사업하천 및 주변지역반경
+- [Page 14] (
+- [Page 14] 500m)에 분포하는 산림, 초지
+- [Page 14] 경작지
+- [Page 14] ,
+- [Page 14] , 하천
+- [Page 14] 일대를 중점조사 지역으로 선정하여 조사 계획을 수립
+- [Page 14] 참매
+- [Page 14] ◦겨울철 전역의 산야
+- [Page 14] 평지
+- [Page 14] 하천변 등에서 볼 수 있는 겨울
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 철새 또는
+- [Page 14] 일부 텃새로 광역조사시 사업하천 주변지역에서 확인됨
+- [Page 14] ◦사업하천 및 주변지역반경
+- [Page 14] (
+- [Page 14] 500m)에 분포하는 산림, 초지
+- [Page 14] 경작지
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 하천일대를 중점조사 지역으로 선정하여 조사 계획을 수립
+- [Page 14] 흰목물떼새
+- [Page 14] ◦천과 냇가의 자갈밭
+- [Page 14] 논
+- [Page 14] 산지의 물가
+- [Page 14] 하구의 삼각지
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] , 해안의 모래밭
+- [Page 14] 등에 서식하는 종으로
+- [Page 14] 광역조사시 사업하천 내에서
+- [Page 14] ,
+- [Page 14] 확인됨
+- [Page 14] ◦사업하천을 중점조사 지역으로 선정하여 조사 계획을수립
+- [Page 14] 수리부엉이
+- [Page 14] ◦산림만으로 이루어진 산지보다 개활지 및 수변이 인접한 암벽지대나
+- [Page 14] 바위산에서 주로 서식하는 종으로 사업하천 및 주변지역반경
+- [Page 14] 에
+- [Page 14] (
+- [Page 14] 500m)
+- [Page 14] 서식처로 고려되는 지역을 중심으로 조사 계획을 수립
+- [Page 15] 동식물상
+- [Page 15] 9.1.1
+- [Page 15] ‧
+- [Page 15] - 151 -
+- [Page 15] 계속
+- [Page 15] (
+- [Page 15] )
+- [Page 15] 구분
+- [Page 15] 주요종 서식 특성 및 조사 반영 여부
+- [Page 15] 구렁이
+- [Page 15] ◦산림지역
+- [Page 15] 호수
+- [Page 15] 하천
+- [Page 15] 경작지
+- [Page 15] 민가 주변을 비롯하여 해안과 섬에서
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] 주로 관찰되는 종이며
+- [Page 15] 광역조사시 사업하천 내에서 확인된
+- [Page 15] ,
+- [Page 15] 종임
+- [Page 15] ◦사업하천을 중점조사 지역으로 선정하여 조사 계획을수립
+- [Page 15] 어름치
+- [Page 15] ◦임진강
+- [Page 15] 한강
+- [Page 15] 금강 중상류의 물이 맑고 자갈이 깔려있는 깊은 곳에
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] ·
+- [Page 15] 서식하며 다슬기류와 수서곤충류를 주로 먹음
+- [Page 15] ◦사업하천을 중점조사 지역으로 선정하여 조사 계획을수립
+- [Page 15] 묵납자루
+- [Page 15] ◦하천 중상류에 서식하며 비교적 유속이 완만하고 하상이 큰 돌과
+- [Page 15] ·
+- [Page 15] 자갈로 이루어진 소와 같은 곳을 선호함
+- [Page 15] 북한의 대동강
+- [Page 15] 압록강 등에
+- [Page 15] .
+- [Page 15] ,
+- [Page 15] 서식하는 것으로 알려져 있으며
+- [Page 15] 국내에는 한강 수계에 분포함
+- [Page 15] ,
+- [Page 15] .
+- [Page 15] ◦사업하천을 중점조사 지역으로 선정하여 조사 계획을수립
+- [Page 15] 가는돌고기
+- [Page 15] ◦하천 중상류의 암반이나 큰 돌이 깔린 맑은 여울에 서식함
+- [Page 15] 우리나라
+- [Page 15] ·
+- [Page 15] .
+- [Page 15] 고유종으로 한강과 임진강 중상류의 일부 지역에 서식한다고 보고됨
+- [Page 15] ·
+- [Page 15] ◦사업하천을 중점조사 지역으로 선정하여 조사 계획을수립
+- [Page 15] 돌상어
+- [Page 15] ◦물이 깨끗하고 유속이 빠른 수역의 바닥에 큰 돌이 깔린 매우 빠른
+- [Page 15] 여울에 서식함
+- [Page 15] 우리나라 고유종으로 과거 임진강과 한강
+- [Page 15] 금강의 중
+- [Page 15] .
+- [Page 15] ,
+- [Page 15] ·
+- [Page 15] 상류 지역에 널리 서식했으나 최근 임진강
+- [Page 15] 홍천강
+- [Page 15] 섬강
+- [Page 15] 남한강
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] 금강의 일부 지역에만 서식하는 것으로 조사되었음
+- [Page 15] 물방개
+- [Page 15] ◦하천
+- [Page 15] 연못
+- [Page 15] 늪지 등 수초가 많은 곳에서 생활함
+- [Page 15] 해외에는 중국
+- [Page 15] 일본
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] .
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] 러시아극동지역
+- [Page 15] 및 대만 등지에 분포함
+- [Page 15] 국내에는 과거 한반도
+- [Page 15] (
+- [Page 15] )
+- [Page 15] .
+- [Page 15] 전역에 광역 분포 하였으나 근래에 감소하여 관찰이 쉽지 않은 종으로
+- [Page 15] 광역조사시 사업하천 하류에서 확인됨
+- [Page 15] ◦사업하천을 중점조사 지역으로 선정하여 조사 계획을수립
+- [Page 15] 염주알다슬기
+- [Page 15] ◦수질이 양호하고 수심이 다소 깊은 하천의 상류지역의 유속이 빠른
+- [Page 15] 곳에 서식함
+- [Page 15] 우리나라 고유종으로 남한강 상류와 임진강
+- [Page 15] 한탄강 등
+- [Page 15] .
+- [Page 15] ,
+- [Page 15] 국내 중북부 하천에 분포하는 종으로 광역조사시 사업하천 하류에서
+- [Page 15] ·
+- [Page 15] 확인됨
+- [Page 15] ◦사업하천 대상지역을 중점조사 지역으로 선정하여 조사 계획을수립
+
+---
+## 📄 Source: (본안) 고흥-09110_동식물상(259-478).pdf
+- [Page 1] 제장
+- [Page 1] 9
+- [Page 1] 환경현황조사예측평가
+- [Page 1] ,
+- [Page 1] ·
+- [Page 1] 저감방안 및 사후환경영향조사계획
+- [Page 1] 자연생태환경분야
+- [Page 1] 9.1
+- [Page 1] 대기환경분야
+- [Page 1] 9.2
+- [Page 1] 수환경분야
+- [Page 1] 9.3
+- [Page 1] 토지환경분야
+- [Page 1] 9.4
+- [Page 1] 생활환경분야
+- [Page 1] 9.5
+- [Page 1] 사회경제환경분야
+- [Page 1] 9.6
+- [Page 1] ․
+- [Page 3] 동식물상
+- [Page 3] 9.1.1
+- [Page 3] ‧
+- [Page 3] - 261 -
+- [Page 3] 제9 장 환경현황조사예측평가저감방안 및 사후환경영향조사계획
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ‧
+- [Page 3] 자연생태환경 분야
+- [Page 3] 9.1
+- [Page 3] 동식물상
+- [Page 3] 9.1.1
+- [Page 3] ‧
+- [Page 3] 가
+- [Page 3] 현황
+- [Page 3] .
+- [Page 3] 표
+- [Page 3] <
+- [Page 3] 9.1.1-1> 조사항목별 현지조사결과 총괄
+- [Page 3] 구 분
+- [Page 3] 세부항목
+- [Page 3] 조사결과
+- [Page 3] 육상식물상
+- [Page 3] 관속식물 현황
+- [Page 3] 99
+- [Page 3] ◦
+- [Page 3] 과
+- [Page 3] 속
+- [Page 3] 종 아종
+- [Page 3] 변종 품종
+- [Page 3] 분류군
+- [Page 3] 232
+- [Page 3] 292
+- [Page 3] 4
+- [Page 3] 19
+- [Page 3] 1
+- [Page 3] 316
+- [Page 3] 주요식생 현황
+- [Page 3] ◦시설지 및 나지경작지묘포장과수원초지관목림솜대
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] 군락
+- [Page 3] 이대군락
+- [Page 3] 고로쇠나무식재지
+- [Page 3] 식재림개 유형
+- [Page 3] 이차림
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] (1
+- [Page 3] ),
+- [Page 3] 개 유형
+- [Page 3] (9
+- [Page 3] )
+- [Page 3] 식생보전등급
+- [Page 3] 등급으로 평가됨
+- [Page 3] “
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ,
+- [Page 3] ”
+- [Page 3] ◦Ⅱ
+- [Page 3] Ⅲ
+- [Page 3] Ⅳ
+- [Page 3] Ⅴ
+- [Page 3] 법정보호종
+- [Page 3] 녹나무희귀식물
+- [Page 3] 낙지다리희귀식물
+- [Page 3] 옥녀꽃대
+- [Page 3] (
+- [Page 3] , LC),
+- [Page 3] (
+- [Page 3] , LC),
+- [Page 3] ◦
+- [Page 3] 자료부족종
+- [Page 3] (
+- [Page 3] , DD)
+- [Page 3] 보호수
+- [Page 3] 노거수
+- [Page 3] ,
+- [Page 3] 보호수 개 지점
+- [Page 3] 노거수 느티나무 주가 확인됨
+- [Page 3] 2
+- [Page 3] ,
+- [Page 3] 1
+- [Page 3] ◦
+- [Page 3] 육상동물상
+- [Page 3] 포유류
+- [Page 3] 과
+- [Page 3] 종
+- [Page 3] 10
+- [Page 3] 11
+- [Page 3] ◦
+- [Page 3] 조  류
+- [Page 3] 양서류
+- [Page 3] 과 종
+- [Page 3] 파충류
+- [Page 3] 과 종
+- [Page 3] : 3
+- [Page 3] 4
+- [Page 3] ,
+- [Page 3] : 4
+- [Page 3] 9
+- [Page 3] ◦
+- [Page 3] 양서파충류
+- [Page 3] ‧
+- [Page 3] 과
+- [Page 3] 종
+- [Page 3] 39
+- [Page 3] 77
+- [Page 3] ◦
+- [Page 3] 육상곤충류
+- [Page 3] 과
+- [Page 3] 종
+- [Page 3] 68
+- [Page 3] 154
+- [Page 3] ◦
+- [Page 3] 법정보호종
+- [Page 3] 수달천연기념물
+- [Page 3] 멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] (
+- [Page 3] ,
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅰ
+- [Page 3] 삵멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 황조롱이천연기념물
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] 새호리기멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 물수리멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 벌매멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 새매멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] 천연기념물
+- [Page 3] (
+- [Page 3] ,
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 두견이천연기념물
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] 소쩍새천연기념물
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] 팔색조멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] 천연기념물
+- [Page 3] (
+- [Page 3] ,
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 긴꼬리딱새멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 구렁이멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 육수생물상
+- [Page 3] 어  류
+- [Page 3] 과
+- [Page 3] 종
+- [Page 3] 8
+- [Page 3] 15
+- [Page 3] ◦
+- [Page 3] 저서성 대형 무척추동물
+- [Page 3] 과
+- [Page 3] 종
+- [Page 3] 37
+- [Page 3] 54
+- [Page 3] ◦
+- [Page 3] 법정보호종
+- [Page 3] 기수갈고둥멸종위기 야생생물
+- [Page 3] 급
+- [Page 3] (
+- [Page 3] )
+- [Page 3] ◦
+- [Page 3] Ⅱ
+- [Page 3] 생태자연도
+- [Page 3] ‧
+- [Page 3] 사업지구는 생태자연도
+- [Page 3] 등급 권역으로 고시됨
+- [Page 3] “2, 3
+- [Page 3] ”
+- [Page 3] ◦
+- [Page 3] ‧
+- [Page 3] 광역조사 현황
+- [Page 3] ◦다도해상국립공원인접
+- [Page 3] 산림유전자원보호구역
+- [Page 3] 이격
+- [Page 3] (
+- [Page 3] ),
+- [Page 3] (0.71
+- [Page 3] ),
+- [Page 3] ㎞
+- [Page 3] 특정도서
+- [Page 3] 이격
+- [Page 3] 천연기념물 고흥 외나로도 상록수림
+- [Page 3] (4.05
+- [Page 3] ),
+- [Page 3] ㎞
+- [Page 3] 이격
+- [Page 3] 상수원보호구역
+- [Page 3] 이격
+- [Page 3] 분포
+- [Page 3] (1.47
+- [Page 3] ),
+- [Page 3] (0.71
+- [Page 3] )
+- [Page 3] ㎞
+- [Page 3] ㎞
+- [Page 4] 고흥 우주발사체 국가산업단지 환경영향평가서
+- [Page 4] - 262 -
+- [Page 4] 조사항목
+- [Page 4] 1)
+- [Page 4] 가
+- [Page 4] 육상식물상
+- [Page 4] )
+- [Page 4] 식물상
+- [Page 4] (1)
+- [Page 4] ◦식물상 현황 및 식물상의 생활형 분석
+- [Page 4] ◦관속식물
+- [Page 4] 귀화식물
+- [Page 4] 생태계교란 생물식물
+- [Page 4] 식물구계학적 특정식물
+- [Page 4] 한국특산
+- [Page 4] ,
+- [Page 4] ,
+- [Page 4] (
+- [Page 4] ),
+- [Page 4] ,
+- [Page 4] 식물
+- [Page 4] 희귀식물 분포현황
+- [Page 4] ,
+- [Page 4] ◦보호수 및 노거수
+- [Page 4] 법정보호종멸종위기 야생생물
+- [Page 4] 분포현황
+- [Page 4] ,
+- [Page 4] (
+- [Page 4] )
+- [Page 4] 현존식생
+- [Page 4] (2)
+- [Page 4] ◦보존 가치가 있는 식물군락의 분포 여부
+- [Page 4] ◦현존식생도 작성
+- [Page 4] 식생보전등급
+- [Page 4] (3)
+- [Page 4] ◦식생보전등급 분포현황
+- [Page 4] 나
+- [Page 4] 육상동물상
+- [Page 4] )
+- [Page 4] 포유류
+- [Page 4] (1)
+- [Page 4] ◦포유류 분포현황
+- [Page 4] 조류
+- [Page 4] (2)
+- [Page 4] ◦조류 분포현황 및 군집지수 등
+- [Page 4] 양서파충류
+- [Page 4] (3)
+- [Page 4] ․
+- [Page 4] ◦양서파충
+- [Page 4] ․
+- [Page 4] 류 분포현황 및 법정보호종 생태특성
+- [Page 4] 육상곤충류
+- [Page 4] (4)
+- [Page 4] ◦육상곤충류 분포현황 및 분류군별 출현비율 등
+- [Page 4] 다
+- [Page 4] 육수생물상
+- [Page 4] )
+- [Page 4] 어류
+- [Page 4] (1)
+- [Page 4] ◦조사지점 현황 및 어류 분포현황
+- [Page 4] 군집지수 등
+- [Page 4] ,
+- [Page 4] 저서성 대형 무척추동물
+- [Page 4] (2)
+- [Page 4] ◦조사지점 현황 및 저서성 대형 무척추동물분포현황
+- [Page 4] 군집지수 등
+- [Page 4] ,
+- [Page 4] 라
+- [Page 4] 법정보호종
+- [Page 4] )
+- [Page 4] ◦천연기념물 및 멸종위기 야생생물 분포현황
+- [Page 5] 동식물상
+- [Page 5] 9.1.1
+- [Page 5] ‧
+- [Page 5] - 263 -
+- [Page 5] 마
+- [Page 5] 생태자연도 및 기타 보호지역 현황
+- [Page 5] )
+- [Page 5] ․
+- [Page 5] ◦생태자연도 분포고시 현황
+- [Page 5] ·
+- [Page 5] ․
+- [Page 5] ◦환경영향평가서등 작성 등에 관한 규정
+- [Page 5] 기후에너지환경부고시 제
+- [Page 5] 호에
+- [Page 5] ,
+- [Page 5] 2025-49
+- [Page 5] 「
+- [Page 5] 」
+- [Page 5] 의거한기타 보호지역 현황
+- [Page 5] 조사범위
+- [Page 5] 2)
+- [Page 5] ◦중점조사지역
+- [Page 5] 사업지구면적
+- [Page 5] :
+- [Page 5] (
+- [Page 5] : 1,519,660
+- [Page 5] )
+- [Page 5] ㎡
+- [Page 5] ◦평가조사지역
+- [Page 5] 사업시행에 따라 직간접적인 영향이 예상되는 사업지구 및 경계
+- [Page 5] :
+- [Page 5] ·
+- [Page 5] 로부터
+- [Page 5] 이내조류의 경우
+- [Page 5] 이내를 중점조사 대상지역으로 선정하여 조사를
+- [Page 5] 500m
+- [Page 5] (
+- [Page 5] 1
+- [Page 5] )
+- [Page 5] ㎞
+- [Page 5] 수행하였음
+- [Page 5] 현지조사시 조사시기상
+- [Page 5] 환경영향평가서등 작성 등에 관한 규정
+- [Page 5] 기후에너지
+- [Page 5] -
+- [Page 5] ,
+- [Page 5] 「
+- [Page 5] 환경부고시 제
+- [Page 5] 호를 따름
+- [Page 5] 2025-49
+- [Page 5] 」
+- [Page 5] ◦광역조사범위
+- [Page 5] 사업지구가 포함된 격자를 포함하여
+- [Page 5] 개 격자 내에 있는 전국자연
+- [Page 5] :
+- [Page 5] 9
+- [Page 5] 환경조사 자료 및 주변 기 수행된 환경영향평가서 등 문헌자료를 대상으로 실시함
+- [Page 5] 조사시기 및 조사지점
+- [Page 5] 3)
+- [Page 5] 가
+- [Page 5] 현지조사
+- [Page 5] )
+- [Page 5] ◦각 분류군별 조사시기 및 조사지점은 다음 표 및 그림과 같음
+- [Page 5] 표
+- [Page 5] <
+- [Page 5] 9.1.1-2> 육상 및 육수 동식물상별 조사시기
+- [Page 5] ‧
+- [Page 5] 분류군
+- [Page 5] 조사시기
+- [Page 5] 식물상
+- [Page 5] 및 식생
+- [Page 5] 포유류
+- [Page 5] 조류
+- [Page 5] 양서·
+- [Page 5] 파충류
+- [Page 5] 육상
+- [Page 5] 곤충류
+- [Page 5] 어류
+- [Page 5] 저서성 대형
+- [Page 5] 무척추동물
+- [Page 5] 동계 조류
+- [Page 5] 2025.02.25
+- [Page 5] 28
+- [Page 5] ∼
+- [Page 5] -
+- [Page 5] -
+- [Page 5] ◎
+- [Page 5] -
+- [Page 5] -
+- [Page 5] -
+- [Page 5] -
+- [Page 5] 차 조사
+- [Page 5] 1
+- [Page 5] 2025.03.24
+- [Page 5] 27
+- [Page 5] ∼
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] 차 조사
+- [Page 5] 2
+- [Page 5] 2025.06.16
+- [Page 5] 19
+- [Page 5] ∼
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] 양서파충류
+- [Page 5] ‧
+- [Page 5] 법정보호종
+- [Page 5] 2025.07.17
+- [Page 5] 18
+- [Page 5] ∼
+- [Page 5] ◎
+- [Page 5] 차 조사
+- [Page 5] 3
+- [Page 5] 2025.09.01
+- [Page 5] 04
+- [Page 5] ∼
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] ◎
+- [Page 5] 조사범위
+- [Page 5] 사업지구 경계
+- [Page 5] (
+- [Page 5] )
+- [Page 5] 500m
+- [Page 5] 1㎞
+- [Page 5] 500m
+- [Page 5] 상하류 500m
+- [Page 5] ․
+- [Page 5] 주
+- [Page 5] 조사범위
+- [Page 5] 환경영향평가서등의 작성 등에 관한 안내서
+- [Page 5] 구환경부
+- [Page 5] 참조
+- [Page 5] )
+- [Page 5] :
+- [Page 5] (2025. (
+- [Page 5] )
+- [Page 5] )
+- [Page 6] 고흥 우주발사체 국가산업단지 환경영향평가서
+- [Page 6] - 264 -
+- [Page 6] 그림
+- [Page 6] (
+- [Page 6] 9.1.1-1) 동
+- [Page 6] 식물상 조사경로 및 조사지점도
+- [Page 6] ·
+- [Page 7] 동식물상
+- [Page 7] 9.1.1
+- [Page 7] ‧
+- [Page 7] - 265 -
+- [Page 7] 나
+- [Page 7] 문헌조사
+- [Page 7] )
+- [Page 7] ◦문헌조사는
+- [Page 7] 환경영향평가서등
+- [Page 7] 작성
+- [Page 7] 등에
+- [Page 7] 관한
+- [Page 7] 규정
+- [Page 7] 기후에너지환경부고시
+- [Page 7] ,
+- [Page 7] 「
+- [Page 7] 제
+- [Page 7] 호의
+- [Page 7] 2025-49
+- [Page 7] 」
+- [Page 7] 분류군별로 최소한 참조해야 할 문헌 목록 및 사업지구 인근
+- [Page 7] 지역에서 조사된 환경영향평가서 및 전국자연환경조사 등 최근에 조사된 문헌자료를
+- [Page 7] 인용함
+- [Page 7] 표
+- [Page 7] <
+- [Page 7] 9.1.1-3> 문헌조사 목록
+- [Page 7] 문헌
+- [Page 7] 식물상
+- [Page 7] 포유류
+- [Page 7] 조류
+- [Page 7] 양서․
+- [Page 7] 파충류
+- [Page 7] 육상
+- [Page 7] 곤충류
+- [Page 7] 어류
+- [Page 7] 저서성 대형
+- [Page 7] 무척추동물
+- [Page 7] 비고
+- [Page 7] 1
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] E2, 3, 5, 6, 9
+- [Page 7] 2
+- [Page 7] -
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] -
+- [Page 7] -
+- [Page 7] -
+- [Page 7] E1, 4, 7
+- [Page 7] 3
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] -
+- [Page 7] -
+- [Page 7] -
+- [Page 7] 4
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] -
+- [Page 7] 5
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] -
+- [Page 7] 6
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] 나로도지구
+- [Page 7] 7
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] ◎
+- [Page 7] 자료
+- [Page 7] 문헌
+- [Page 7] 제차 전국자연환경조사
+- [Page 7] 외라노외라도
+- [Page 7] 국립생태원
+- [Page 7] :
+- [Page 7] 1  -
+- [Page 7] 5
+- [Page 7] ,
+- [Page 7] (
+- [Page 7] )(E2, 3, 5, 6, 9), 2022,
+- [Page 7] 제차 전국자연환경조사
+- [Page 7] 외라노외라도
+- [Page 7] 국립생태원
+- [Page 7] -
+- [Page 7] 3
+- [Page 7] ,
+- [Page 7] (
+- [Page 7] )(E2, 3, 5, 6, 9), 2011,
+- [Page 7] 문헌
+- [Page 7] 제차 전국자연환경조사
+- [Page 7] 예내
+- [Page 7] 국립생태원
+- [Page 7] 2  -
+- [Page 7] 5
+- [Page 7] ,
+- [Page 7] (E1, 4, 7), 2022,
+- [Page 7] 문헌
+- [Page 7] 고흥군 봉래면 외초리 양식장건설 신축공사 소규모환경영향평가
+- [Page 7] 어업회사
+- [Page 7] 3  -
+- [Page 7] , 2019,
+- [Page 7] 법인주식회사 불루젠코리아
+- [Page 7] 문헌
+- [Page 7] 우주센터 환경영향평가서
+- [Page 7] 한국항공우주연구원
+- [Page 7] 4  -
+- [Page 7] , 2013,
+- [Page 7] 문헌
+- [Page 7] 민간 소형발사체 발사장 구축 환경보전방안검토서
+- [Page 7] 한국항공우주연구원
+- [Page 7] 5  -
+- [Page 7] , 2022,
+- [Page 7] 문헌
+- [Page 7] 다도해해상국립공원 자연자원조사육상분야
+- [Page 7] 나로도지구
+- [Page 7] 국립공원공단
+- [Page 7] 6  - 2018
+- [Page 7] (
+- [Page 7] )-
+- [Page 7] , 2019,
+- [Page 7] 국립공원연구원
+- [Page 7] 문헌
+- [Page 7] 고흥 우주랜드 조성사업 전략환경영향평가
+- [Page 7] 고흥군
+- [Page 7] 7  -
+- [Page 7] , 2014,
+- [Page 7] 주
+- [Page 7] 고흥 우주랜드 조성사업 소규모환경영향평가
+- [Page 7] 고흥군는 문헌과 동일 조사결과임
+- [Page 7] ) “
+- [Page 7] , 2014,
+- [Page 7] ”
+- [Page 7] 7
+- [Page 8] 고흥 우주발사체 국가산업단지 환경영향평가서
+- [Page 8] - 266 -
+- [Page 8] 그림
+- [Page 8] (
+- [Page 8] 9.1.1-2) 문헌조사 위치도
+- [Page 9] 동식물상
+- [Page 9] 9.1.1
+- [Page 9] ‧
+- [Page 9] - 267 -
+- [Page 9] 조사방법
+- [Page 9] 4)
+- [Page 9] 가
+- [Page 9] 식물상 및 식생
+- [Page 9] )
+- [Page 9] 식물상
+- [Page 9] (1)
+- [Page 9] ◦식물상은 조사지역을 군락별로 구분한 후
+- [Page 9] 도보로 이동하면서 관찰된 식물종을
+- [Page 9] ,
+- [Page 9] 양치식물도감
+- [Page 9] 양치식물연구회
+- [Page 9] 새로운 한국식물도감
+- [Page 9] 이영노
+- [Page 9] , 2005,
+- [Page 9] ,
+- [Page 9] , 2007,
+- [Page 9] ,
+- [Page 9] 「
+- [Page 9] 」
+- [Page 9] 「
+- [Page 9] 」
+- [Page 9] 원색 대한식물도감
+- [Page 9] 이창복
+- [Page 9] 한국식물검색집
+- [Page 9] 이상태
+- [Page 9] 등을
+- [Page 9] , 2006,
+- [Page 9] ,
+- [Page 9] , 2007,
+- [Page 9] 「
+- [Page 9] 」
+- [Page 9] 「
+- [Page 9] 」
+- [Page 9] 참고하여 동정함
+- [Page 9] ◦학명과 국명표기는 국가생물종목록을 기준으로 작성함
+- [Page 9] 「
+- [Page 9] 」
+- [Page 9] ◦현지조사 자료와 문헌조사 자료를 기초로 하여 귀화식물
+- [Page 9] 식물구계학적 특정식물
+- [Page 9] ,
+- [Page 9] 제차 전국자연환경조사 지침서
+- [Page 9] 국립생태원
+- [Page 9] 특산식물수목원정원의
+- [Page 9] 6
+- [Page 9] , 2023,
+- [Page 9] ,
+- [Page 9] 「
+- [Page 9] 」
+- [Page 9] 「
+- [Page 9] ･
+- [Page 9] 조성 및 진흥에 관한 법률 시행규칙 별표
+- [Page 9] 의
+- [Page 9] 특산식물제조제항 관련
+- [Page 9] [
+- [Page 9] 1
+- [Page 9] 4]
+- [Page 9] (
+- [Page 9] 2
+- [Page 9] 4
+- [Page 9] )」
+- [Page 9] 희귀
+- [Page 9] ,
+- [Page 9] 식물「수목원정원의 조성 및 진흥에 관한 법률 시행규칙 별표
+- [Page 9] 의
+- [Page 9] 희귀식물
+- [Page 9] [
+- [Page 9] 1
+- [Page 9] 3]
+- [Page 9] ･
+- [Page 9] 제조
+- [Page 9] (
+- [Page 9] 2
+- [Page 9] 제항 관련
+- [Page 9] 3
+- [Page 9] )」
+- [Page 9] 기후에너지환경부지정 멸종위기 야생생물
+- [Page 9] 문화재청지정 천연
+- [Page 9] ,
+- [Page 9] ,
+- [Page 9] 기념물등의 분포현황을 파악함
+- [Page 9] ◦귀화식물은
+- [Page 9] 세밀화와 사진으로 보는 한국의 귀화식물
+- [Page 9] 박수현을 참고
+- [Page 9] , 2009,
+- [Page 9] 「
+- [Page 9] 」
+- [Page 9] 하였으며
+- [Page 9] 다음과 같은 방법으로 도시화지수 및 귀화율을 산정함
+- [Page 9] ,
+- [Page 9] 표
+- [Page 9] <
+- [Page 9] 9.1.1-4> 식물구계학적 특정식물의 등급평가기준
+- [Page 9] 등 급
+- [Page 9] 분  포  역
+- [Page 9] Ⅴ
+- [Page 9] 국내에서 고립되어 분포하거나 불연속적으로 분포하는 분류군
+- [Page 9] Ⅳ
+- [Page 9] 북방계 또는 남방계 식물로서 일반적으로 개의 아구에 분포하는 분류군
+- [Page 9] 1
+- [Page 9] Ⅲ
+- [Page 9] 북방계 또는 남방계 식물로서 일반적으로 개의 아구에 분포하는 분류군
+- [Page 9] 2
+- [Page 9] Ⅱ
+- [Page 9] 비교적 전국적으로 분포하나 일반적으로
+- [Page 9] 이상 지역에 분포하는 분류군
+- [Page 9] 1,000m
+- [Page 9] Ⅰ
+- [Page 9] 북방계 또는 남방계 식물로서 일반적으로 개 아구에 분포하는 분류군
+- [Page 9] 3
+- [Page 9] 자료
+- [Page 9] 한국산 최신 식물구계학적 특정종
+- [Page 9] 국립생태원
+- [Page 9] :
+- [Page 9] , 2018,
+- [Page 9] 표
+- [Page 9] <
+- [Page 9] 9.1.1-5> 도시화지수 및 귀화율 산출
+- [Page 9] 구      분
+- [Page 9] 내         용
+- [Page 9] 도시화지수
+- [Page 9] UI = S/N×100
+- [Page 9] 해당조사지역 귀화식물 종수
+- [Page 9] 남한의 귀화식물
+- [Page 9] 종
+- [Page 9] (S:
+- [Page 9] , N:
+- [Page 9] 321
+- [Page 9] )
+- [Page 9] 귀화율
+- [Page 9] (PN)
+- [Page 9] PN = S/N’ × 100
+- [Page 9] 해당 조사지역의 귀화식물 종수
+- [Page 9] 해당조사지역의 관속식물 종수
+- [Page 9] (S:
+- [Page 9] , N’:
+- [Page 9] )
+- [Page 9] 입지별 평균귀화율(PN)
+- [Page 9] 언덕
+- [Page 9] 주택지
+- [Page 9] 밭
+- [Page 9] 시가지
+- [Page 9] 평지
+- [Page 9] 주택지
+- [Page 9] 논
+- [Page 9] 냇가
+- [Page 9] 계단식
+- [Page 9] 논
+- [Page 9] 풀밭
+- [Page 9] 숲
+- [Page 9] 48.8
+- [Page 9] 32.1
+- [Page 9] 27.7
+- [Page 9] 18.1
+- [Page 9] 14.5
+- [Page 9] 13.3
+- [Page 9] 7.2
+- [Page 9] 4.9
+- [Page 9] 4.4
+- [Page 9] 자료
+- [Page 9] 한국의 귀화식물
+- [Page 9] 김준민
+- [Page 9] :
+- [Page 9] , 2000,
+- [Page 10] 고흥 우주발사체 국가산업단지 환경영향평가서
+- [Page 10] - 268 -
+- [Page 10] ◦또한현지조사 자료를 기초로 하여
+- [Page 10] 의 생활형으로 구분하여 분석함
+- [Page 10] ,
+- [Page 10] Raunkiær s(1934)
+- [Page 10] ˋ
+- [Page 10] 그림
+- [Page 10] (
+- [Page 10] 9.1.1-3) Raunkiaerˋ 의 생활형 분포 모식도
+- [Page 10] s
+- [Page 10] 현존식생도
+- [Page 10] (2)
+- [Page 10] ◦현존식생도는 우점종에 의한 상관을 근거로 유형화한 군락을 지형도상에 기입해
+- [Page 10] 상관식생도를 작성하였으며
+- [Page 10] 식생면적이 협소하여
+- [Page 10] 의 지형도상에 표기가
+- [Page 10] ,
+- [Page 10] 1/5,000
+- [Page 10] 어려운 군락은 무시하거나 인접군락에 포함하여 작성하였음
+- [Page 10] ◦현지에서 사업지구 내 분포하는 식분에 대하여
+- [Page 10] 의 전추정법에
+- [Page 10] Braun-Blanquet(1964)
+- [Page 10] 따라 피도를 측정하여 기록함
+- [Page 10] ◦현존식생도는 항공사진과 지형도를 참고하여 식생구조와 기능이 뚜렷이 구별되는
+- [Page 10] 식생형에 따라 구분하여 작성하였으며
+- [Page 10] 실제면적이 협소한
+- [Page 10] 이하의 식생형에
+- [Page 10] ,
+- [Page 10] 100㎡
+- [Page 10] 대해서는 주변의 우점식생과 동일하게 나타냄
+- [Page 10] ◦또한 조사의 신뢰성 향상을 위하여 사업지구 및 주변지역을 대상으로 드론을
+- [Page 10] 이용한 항공촬영을 실시하여 현존식생도에 참고함
+- [Page 10] 표
+- [Page 10] <
+- [Page 10] 9.1.1-6> 우점도의 판정기준(Braun-Blanquet, 1964)
+- [Page 10] 계 급
+- [Page 10] 피도산정 내용
+- [Page 10] r
+- [Page 10] 대단히 드물게 출현
+- [Page 10] +
+- [Page 10] 소수이며 피도는 대단히 낮음
+- [Page 10] 1
+- [Page 10] 다수이며 피도는 낮음
+- [Page 10] 또는 소수이나 피도는 약간 높음
+- [Page 10] .
+- [Page 10] 2
+- [Page 10] 대단히 다수피도는
+- [Page 10] 이하
+- [Page 10] 또는 피도가
+- [Page 10] 개체수는 임의
+- [Page 10] (
+- [Page 10] 1/10
+- [Page 10] )
+- [Page 10] 1/10-1/4(
+- [Page 10] )
+- [Page 10] 3
+- [Page 10] 피도가
+- [Page 10] 로 개체수는 임의
+- [Page 10] 1/4-1/2
+- [Page 10] 4
+- [Page 10] 피도가
+- [Page 10] 로 개체수는 임의
+- [Page 10] 1/2-3/4
+- [Page 10] 5
+- [Page 10] 피도는
+- [Page 10] 이상으로 개체수는 임의
+- [Page 10] 3/4
+- [Page 10] 자료 : Pflanzensoziologie Grundzuge der Vegetation der Vegetation 3, 1964, Braun-Blanquet J
+- [Page 11] 동식물상
+- [Page 11] 9.1.1
+- [Page 11] ‧
+- [Page 11] - 269 -
+- [Page 11] 식생보전등급
+- [Page 11] (3)
+- [Page 11] ◦자연환경조사 방법 및 등급분류기준 등에 관한 규정기후에너지환경부훈령
+- [Page 11] (
+- [Page 11] 「
+- [Page 11] 」
+- [Page 11] 제
+- [Page 11] 호의 식
+- [Page 11] 1656
+- [Page 11] )
+- [Page 11] 생보전등급 분류기준에 준하여 사정함
+- [Page 11] 보호수 및 노거수
+- [Page 11] (4)
+- [Page 11] ◦보호수 및 보호가치가 있는 수목의 확인을 위하여 문헌조사
+- [Page 11] 현지조사
+- [Page 11] 탐문
+- [Page 11] ,
+- [Page 11] ,
+- [Page 11] 조사를 병행하여 실시하였음
+- [Page 11] 표
+- [Page 11] <
+- [Page 11] 9.1.1-7> 식생보전등급 평가항목 및 평가요령
+- [Page 11] 평  가  항  목
+- [Page 11] 평       가       요       령
+- [Page 11] 가
+- [Page 11] 분포 희귀성
+- [Page 11] .
+- [Page 11] 평가 대상이 되는 식물군락이 한반도 내에서 분포하는 패턴으로 평가
+- [Page 11] (1)
+- [Page 11] 분포면적이 국지적으로 좁으면 높게
+- [Page 11] 전국적으로 분포하면 낮게 평가
+- [Page 11] (2)
+- [Page 11] ,
+- [Page 11] 나
+- [Page 11] 식생복원
+- [Page 11] .
+- [Page 11] 잠재성
+- [Page 11] 평가 대상이 되는 식물군락식분이 형성되는데 소요되는 기간잠재 자연
+- [Page 11] (1)
+- [Page 11] (
+- [Page 11] )
+- [Page 11] (
+- [Page 11] 식생의 형성기간으로 평가
+- [Page 11] )
+- [Page 11] 오랜 시간이 요구되면 높게
+- [Page 11] 짧은 시간에 형성되는 식물군락은 낮게 평가
+- [Page 11] (2)
+- [Page 11] ,
+- [Page 11] 다
+- [Page 11] 구성식물종
+- [Page 11] .
+- [Page 11] 온전성
+- [Page 11] (1) 평가 대상이 되는 식물군락의 구성식물종진단종군이 해당 입지에 잠재적
+- [Page 11] (
+- [Page 11] )
+- [Page 11] 으로 형성되는 식물사회의 구성식물종인가에 대한 평가
+- [Page 11] 이는 입지의 자연식생의 구성종을 엄밀히 파악하는 것으로 삼림의 경우
+- [Page 11] (2)
+- [Page 11] ,
+- [Page 11] 흔히 천이 후기종극상종으로 구성되면 높게
+- [Page 11] 초기종의 구성비가 높으면
+- [Page 11] (
+- [Page 11] )
+- [Page 11] ,
+- [Page 11] 낮게 평가
+- [Page 11] 라
+- [Page 11] 식생구조
+- [Page 11] .
+- [Page 11] 온전성
+- [Page 11] 평가 대상이 되는 식물군락이 해당입지에 전형적으로 발달하는 식생구조
+- [Page 11] (1)
+- [Page 11] 층위구조가 얼마나 원형에 가까운가를 가지고 평가
+- [Page 11] (
+- [Page 11] )
+- [Page 11] (2) 삼림식생은 일반적으로
+- [Page 11] 층교목
+- [Page 11] 층
+- [Page 11] 아교목
+- [Page 11] 층
+- [Page 11] 관목
+- [Page 11] 층
+- [Page 11] 4
+- [Page 11] (
+- [Page 11] (
+- [Page 11] )
+- [Page 11] ,
+- [Page 11] (
+- [Page 11] )
+- [Page 11] ,
+- [Page 11] (
+- [Page 11] )
+- [Page 11] 喬木
+- [Page 11] 亞喬木
+- [Page 11] 灌木
+- [Page 11] ,
+- [Page 11] 초본
+- [Page 11] 층의 식생구조를 가지며
+- [Page 11] 각 층위는 고유의 식생고
+- [Page 11] 와
+- [Page 11] (
+- [Page 11] )
+- [Page 11] )
+- [Page 11] ,
+- [Page 11] (height)
+- [Page 11] 草本
+- [Page 11] 식피율
+- [Page 11] 을 가지고 있으므로 층위구조가 온전하면 보전생태학적
+- [Page 11] (coverage)
+- [Page 11] 으로 높게 평가
+- [Page 11] 마
+- [Page 11] 중요종 서식
+- [Page 11] .
+- [Page 11] 식물군락은 식물종의 구성으로 이루어지므로 식물종 자체에 대한 보전
+- [Page 11] (1)
+- [Page 11] 생태학적 가치를 평가
+- [Page 11] (2) 그 분포면적이 좁거나
+- [Page 11] 중요한 식물종멸종위기야생식물
+- [Page 11] ,
+- [Page 11] (
+- [Page 11] Ⅰ․
+- [Page 11] 급 또는
+- [Page 11] Ⅱ
+- [Page 11] 식물구계학적 특정종이 포함되면 더욱 높게 평가
+- [Page 11] )
+- [Page 11] 바
+- [Page 11] 식재림
+- [Page 11] .
+- [Page 11] 흉고직경
+- [Page 11] 식재림의 경우 가장 큰 개체
+- [Page 11] 보통 개체의 흉고직경
+- [Page 11] 을 기록
+- [Page 11] ,
+- [Page 11] (DBH)
+- [Page 11] 자료 : 자연환경조사 방법 및 등급분류기준 등에 관한 규정별표
+- [Page 11] 훈령 제
+- [Page 11] 호
+- [Page 11] 구환경부
+- [Page 11] [
+- [Page 11] 1], 2024.7.24.(
+- [Page 11] 1656
+- [Page 11] ), (
+- [Page 11] )
+- [Page 12] 고흥 우주발사체 국가산업단지 환경영향평가서
+- [Page 12] - 270 -
+- [Page 12] 표
+- [Page 12] <
+- [Page 12] 9.1.1-8> 식생보전등급 분류기준
+- [Page 12] 등급구분
+- [Page 12] 분   류   기   준
+- [Page 12] 가
+- [Page 12] 등급
+- [Page 12] . Ⅰ
+- [Page 12] 식생천이의 종국적인 단계에 이른 극상의 삼림식생 또는 그와 유사한 자연식생
+- [Page 12] (1)
+- [Page 12] 가
+- [Page 12] 식생구조가 안정되어 있고
+- [Page 12] 종 조성이 해당지역의 잠재자연식생을 충분히 반영
+- [Page 12] (
+- [Page 12] )
+- [Page 12] ,
+- [Page 12] 하고 있음
+- [Page 12] 나
+- [Page 12] 숲의 형성역사가 오래되어 희소가치가 높은 안정된 식생
+- [Page 12] (
+- [Page 12] )
+- [Page 12] 다
+- [Page 12] 국지적으로 분포하고 안정된 식생
+- [Page 12] (
+- [Page 12] )
+- [Page 12] (2) 삼림식생 이외의 특수한 입지 등에 형성된 식생이하 특이식생
+- [Page 12] 중 인위적 간섭의
+- [Page 12] (
+- [Page 12] )
+- [Page 12] 영향을 거의 받지 않아 자연성이 우수한 식생
+- [Page 12] 가
+- [Page 12] 해안사구
+- [Page 12] 단애지
+- [Page 12] 자연호소
+- [Page 12] 하천습지
+- [Page 12] 습원
+- [Page 12] 염습지
+- [Page 12] 석회암지대
+- [Page 12] 아고산초원
+- [Page 12] (
+- [Page 12] )
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] 자연암벽 등에 형성된 식생
+- [Page 12] 다만
+- [Page 12] 이와 같은 식생유형은 규모가 크고 절대보전
+- [Page 12] .
+- [Page 12] ,
+- [Page 12] 가치가 있을 경우에만 지도에 표시하고
+- [Page 12] 보고서 등에 기재 사유를 상세히 기술
+- [Page 12] ,
+- [Page 12] 하여야 함
+- [Page 12] 특이사항에 의해 보전등급을 상향 조정한 경우
+- [Page 12] (3)
+- [Page 12] 나
+- [Page 12] 등급
+- [Page 12] . Ⅱ
+- [Page 12] 자연식생이 교란된 후
+- [Page 12] 차 천이에 의해 다시 자연식생에 가까울 정도로 거의 회
+- [Page 12] (1)
+- [Page 12] 2
+- [Page 12] 복된 상태의 삼림식생
+- [Page 12] 가
+- [Page 12] 식생구조가 안정되어 있고
+- [Page 12] 종 조성이 해당지역의 잠재 자연식생을 어느 정도
+- [Page 12] (
+- [Page 12] )
+- [Page 12] ,
+- [Page 12] 반영하고 있음
+- [Page 12] 나
+- [Page 12] 등급에 비해 숲의 형성 역사 및 자연성이 다소 낮은 식생
+- [Page 12] (
+- [Page 12] ) Ⅰ
+- [Page 12] 특이식생 중 인위적 간섭의 영향을 약하게 받고 있는 식생
+- [Page 12] (2)
+- [Page 12] 특이사항에 의해 보전등급을 상하향 조정한 경우
+- [Page 12] (3)
+- [Page 12] ·
+- [Page 12] 다
+- [Page 12] 등급
+- [Page 12] . Ⅲ
+- [Page 12] 자연식생이 교란된 후
+- [Page 12] 차 천이의 진행에 의하여 회복단계에 들어섰거나 인간에
+- [Page 12] (1)
+- [Page 12] 2
+- [Page 12] 의한 교란이 지속되고 있는 삼림식생
+- [Page 12] 가
+- [Page 12] (
+- [Page 12] ) 식생구조가 불안정하고
+- [Page 12] 종 조성이 해당지역의 잠재자연식생을 충분히 반영하지
+- [Page 12] ,
+- [Page 12] 못함
+- [Page 12] 나
+- [Page 12] 조림기원 식생이지만 자연식생에 가깝게 방치되어 회복단계에 있는 경우
+- [Page 12] (
+- [Page 12] )
+- [Page 12] 특이식생 중 인위적 간섭의 영향을 강하게 받고 있는 식생
+- [Page 12] (2)
+- [Page 12] 해당 지역에 맞는 식생생태학적 특성을 고려한 식재의 경우
+- [Page 12] (3)
+- [Page 12] 특이사항에 의해 보전등급을 상하향 조정한 경우
+- [Page 12] (4)
+- [Page 12] ·
+- [Page 12] 라
+- [Page 12] 등급
+- [Page 12] . Ⅳ
+- [Page 12] 인위적으로 조림된 식재림
+- [Page 12] 마
+- [Page 12] 등급
+- [Page 12] . Ⅴ
+- [Page 12] 차적으로 형성된 키가 큰 초원식생묵밭이나 훼손지 등의 억새군락이나 기타
+- [Page 12] (1) 2
+- [Page 12] (
+- [Page 12] 잡초군락 등)
+- [Page 12] 차적으로 형성된 키가 낮은 초원식생골프장
+- [Page 12] 공원묘지
+- [Page 12] 목장 등
+- [Page 12] (2) 2
+- [Page 12] (
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] )
+- [Page 12] 과수원이나 유실수 재배지역 및 묘포장
+- [Page 12] (3)
+- [Page 12] 논밭 등의 경작지
+- [Page 12] (4)
+- [Page 12] ･
+- [Page 12] 주거지 또는 시가지
+- [Page 12] (5)
+- [Page 12] 강
+- [Page 12] 호수
+- [Page 12] 저수지 등에 식생이 없는 수변과 그 하안 및 호안
+- [Page 12] (6)
+- [Page 12] ,
+- [Page 12] ,
+- [Page 12] 주) 1. 식재림은 인위적으로 조림된 수종 또는 자연적
+- [Page 12] 차림으로 형성되었다 하더라도 아까시나무
+- [Page 12] (2
+- [Page 12] )
+- [Page 12] 등의 조림기원 도입종이나 개량종에 의해 식피율이
+- [Page 12] 이상인 식물군락으로 함
+- [Page 12] 다만
+- [Page 12] 녹
+- [Page 12] 70%
+- [Page 12] .
+- [Page 12] ,
+- [Page 12] 화목적으로 적지적수가 식재된 경우에는 식재림으로 보지 않음
+- [Page 12] 평가항목 및 평가요령과 연계하여 보전등급을 평가하여야 함
+- [Page 12] 2. ‘
+- [Page 12] ’
+- [Page 12] 자료 : 자연환경조사 방법 및 등급분류기준 등에 관한 규정별표
+- [Page 12] 훈령 제
+- [Page 12] 호
+- [Page 12] [
+- [Page 12] 1], 2024.7.24.(
+- [Page 12] 1656
+- [Page 12] ),
+- [Page 12] 구환경부
+- [Page 12] (
+- [Page 12] )
+- [Page 13] 동식물상
+- [Page 13] 9.1.1
+- [Page 13] ‧
+- [Page 13] - 271 -
+- [Page 13] 나
+- [Page 13] 육상동물
+- [Page 13] )
+- [Page 13] ◦본 사업시행으로 인하여 영향이 미칠 것으로 판단되는 사업지구 및 조사 지역을
+- [Page 13] 중심으로 포유류
+- [Page 13] 양서파충류
+- [Page 13] 조류
+- [Page 13] 육상곤충류의 분포상황을 현지조사 및 문헌
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ･
+- [Page 13] 조사를 통하여 실시함
+- [Page 13] 포유류
+- [Page 13] (1)
+- [Page 13] ◦포유류의 조사는 조사경로를 따라 구거
+- [Page 13] 산지
+- [Page 13] 경작지
+- [Page 13] 나대지 등을 구분하여
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 선정된 경로를 따라 이동도보 및 차량하며 직간접 확인법 조사와 지역주민
+- [Page 13] (
+- [Page 13] )
+- [Page 13] ·
+- [Page 13] 을
+- [Page 13] 대상으로 하는 탐문조사를 병행하여 실시함
+- [Page 13] ◦또한
+- [Page 13] 설치류 등의 서식여부를 확인하기 위하여 조사지역 내 생포트랩
+- [Page 13] 을
+- [Page 13] ,
+- [Page 13] (Live trap)
+- [Page 13] 개소개소 당 개총
+- [Page 13] 개를 설치하여 출현현황을 확인하였음
+- [Page 13] 2
+- [Page 13] (1
+- [Page 13] 5
+- [Page 13] ,
+- [Page 13] 10
+- [Page 13] )
+- [Page 13] ◦사업지구 내 주요 동물이동지역을 대상으로 무인카메라총
+- [Page 13] 개소를 설치하였고
+- [Page 13] (
+- [Page 13] 3
+- [Page 13] )
+- [Page 13] ,
+- [Page 13] 출현현황을 확인하기 위하여 운영 중임
+- [Page 13] ◦조사된 결과는
+- [Page 13] 한국고유생물종 도감
+- [Page 13] 구환경부
+- [Page 13] 야생동물 흔적도감
+- [Page 13] , 2005, (
+- [Page 13] )
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 「
+- [Page 13] 」
+- [Page 13] 「
+- [Page 13] 최 외 명
+- [Page 13] 국가생물종목록
+- [Page 13] 등을 참고하여 동정 및 정리함
+- [Page 13] 2007,
+- [Page 13] 1
+- [Page 13] ,
+- [Page 13] 」「
+- [Page 13] 」
+- [Page 13] ◦기본적인 분류체계 및 학명은 「Mammal Species of the World(3rd Ed.), 2005,
+- [Page 13] 와
+- [Page 13] Don E. Wilson」
+- [Page 13] 국가생물종목록를 참고함
+- [Page 13] ◦직접 확인법목견법
+- [Page 13] 선정된 경로를 따라 이동하면서 목견된 종을 기록하고
+- [Page 13] (
+- [Page 13] ) :
+- [Page 13] 번식지 유무서식  환경개체수고도 등과 같은 생태적 정보를 파악하는 방법임
+- [Page 13] ·
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ◦간접 확인법
+- [Page 13] 방법
+- [Page 13] 대부분의 포유류는 야행성으로 목견법만으로는
+- [Page 13] (Field sign
+- [Page 13] ) :
+- [Page 13] (
+- [Page 13] )
+- [Page 13] 확인이 힘든 바
+- [Page 13] 서식흔적 족적
+- [Page 13] 배설물
+- [Page 13] 식흔 등으로 확인하는 방법임
+- [Page 13] ,
+- [Page 13] (
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] )
+- [Page 13] 조류
+- [Page 13] (2)
+- [Page 13] ◦조류는 육지에 살고 있는 동물 중에서 이동성이 가장 강한 동물로서 산림,
+- [Page 13] 경작지 등 관찰관측이 용이한 지역에서 정점센서스
+- [Page 13] 와 선조사법
+- [Page 13] ·
+- [Page 13] (spot census)
+- [Page 13] 에 따라 육안
+- [Page 13] 쌍안경 및 망원경 등을 이용하여 조사를 실시함
+- [Page 13] (line census)
+- [Page 13] ,
+- [Page 13] ◦또한
+- [Page 13] 신뢰성과 객관성을 증진하고자
+- [Page 13] ,
+- [Page 13] 청음생물탐지장치
+- [Page 13] 를
+- [Page 13] 개소
+- [Page 13] (Song-Meter)
+- [Page 13] 1
+- [Page 13] 설치하여 운영 중임
+- [Page 13] ◦동정은
+- [Page 13] 한국의 조류
+- [Page 13] 원병오
+- [Page 13] 야외원색도감 한국의 새
+- [Page 13] 이우신
+- [Page 13] , 1996,
+- [Page 13] ,
+- [Page 13] , 2000,
+- [Page 13] ,
+- [Page 13] 「
+- [Page 13] 」
+- [Page 13] 「
+- [Page 13] 구태회
+- [Page 13] 박진영
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 」
+- [Page 13] 형태로 찾아보는 우리 새 도감
+- [Page 13] 김남일
+- [Page 13] 박지환
+- [Page 13] 김대환
+- [Page 13] , 2013,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 「
+- [Page 14] 고흥 우주발사체 국가산업단지 환경영향평가서
+- [Page 14] - 272 -
+- [Page 14] 박운남
+- [Page 14] 박헌우
+- [Page 14] 정진문
+- [Page 14] 최순규
+- [Page 14] 등을 참고
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 」
+- [Page 14] 로 하였으며
+- [Page 14] 분류
+- [Page 14] ,
+- [Page 14] 체계는 한국조류
+- [Page 14] 목록을 참고하였고, 학명 및 국명은 국가생물종목록를 참고함
+- [Page 14] ◦선조사법(Line Transect Method) : R
+- [Page 14] 로 불리는 조사방법으로
+- [Page 14] oad-side Census
+- [Page 14] 시속
+- [Page 14] 정도로 걸으면서
+- [Page 14] 1.5
+- [Page 14] 2.0
+- [Page 14] ∼
+- [Page 14] ㎞
+- [Page 14] 관찰너비를 좌우
+- [Page 14] 혹은
+- [Page 14] 로 하여
+- [Page 14] 25m
+- [Page 14] 50m
+- [Page 14] 양쪽에서 조류의 소리 및 실제 관찰 등에 의해 출현한 모든 조류의 종과 개체수를
+- [Page 14] 기록하는 방법임
+- [Page 14] ◦정점조사법
+- [Page 14] 주
+- [Page 14] (Point Census Method) :
+- [Page 14] 로 넓은 행동권을 가지고 생활하는 조류나
+- [Page 14] 큰 무리를 형성하여 이동하는 철새들의 개체수를 파악하는데 이용하며 넓은 조사
+- [Page 14] 구역 내에서 관찰이 용이하고 사방을 한 눈에 볼 수 있는 여러 장소를 정점으로
+- [Page 14] 정하고 종과 개체수를 기록하거나 또는 일정한 거리 간격으로 정점을 설정하여
+- [Page 14] 조류의 소리 및 관찰 등으로 확인하여 종과 개체수를 기록하는 것임
+- [Page 14] 양서파충류
+- [Page 14] (3)
+- [Page 14] ‧
+- [Page 14] ◦조사지역
+- [Page 14] 내에
+- [Page 14] 생리생태적인
+- [Page 14] 습성을
+- [Page 14] 고려하여
+- [Page 14] 선정한
+- [Page 14] 지역을
+- [Page 14] 이동하며
+- [Page 14] ·
+- [Page 14] 조사자가 종과 개체를 확인하는 직접 조사포획
+- [Page 14] 관찰와 간접확인방법탐문
+- [Page 14] (
+- [Page 14] ,
+- [Page 14] )
+- [Page 14] (
+- [Page 14] ),
+- [Page 14] 지역주민을 대상으로 하는 탐문조사를 병행하여 실시함
+- [Page 14] ◦양서파충류의 분류 및 동정은
+- [Page 14] 한국 동식물도감양서파충류
+- [Page 14] 강 과 윤
+- [Page 14] ·
+- [Page 14] (
+- [Page 14] ),
+- [Page 14] ,
+- [Page 14] 「
+- [Page 14] ‧
+- [Page 14] ‧
+- [Page 14] 한국
+- [Page 14] 1975 ,
+- [Page 14] 」
+- [Page 14] 「
+- [Page 14] 양서파충류 생태도감
+- [Page 14] 이 외
+- [Page 14] 명
+- [Page 14] 한국 양서류 생태
+- [Page 14] ·
+- [Page 14] ,
+- [Page 14] 2
+- [Page 14] , 2011 ,
+- [Page 14] 」
+- [Page 14] 「
+- [Page 14] 도감
+- [Page 14] 이 와 박
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 의
+- [Page 14] 2016」
+- [Page 14] 분류 체계를 참조하여 분류 동정하였으며
+- [Page 14] 학명 및
+- [Page 14] ,
+- [Page 14] 국명은
+- [Page 14] 국가생물종목록
+- [Page 14] 2024
+- [Page 14] 「
+- [Page 14] 구
+- [Page 14] , 2024, (
+- [Page 14] )환경부를 참고함
+- [Page 14] 」
+- [Page 14] ◦또한
+- [Page 14] 신뢰성과 객관성을 증진하고자 야간조사를 병행하여 실시하였고
+- [Page 14] ,
+- [Page 14] , 청음생물
+- [Page 14] 탐지장치
+- [Page 14] 를 설치하여 조사하였음
+- [Page 14] (Song-Meter)
+- [Page 14] 가
+- [Page 14] 양서류
+- [Page 14] (
+- [Page 14] )
+- [Page 14] ◦무미목개구리류은 조사지역 주변의 접근이 가능한 지역을 따라 이동 중인
+- [Page 14] (
+- [Page 14] )
+- [Page 14] 개체와 바위틈 혹은 계곡
+- [Page 14] 수로
+- [Page 14] 저습지
+- [Page 14] 초지에서 뜰채망목
+- [Page 14] 망목
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] (
+- [Page 14] 5×5
+- [Page 14] , 3m,
+- [Page 14] ㎜
+- [Page 14] 를 이용하여 포획동정 후 방사함
+- [Page 14] 1×1
+- [Page 14] , 30
+- [Page 14] )
+- [Page 14] ·
+- [Page 14] ㎜
+- [Page 14] ㎝
+- [Page 14] ◦유미목도롱뇽류은 하천내 유속이 완만한 곳에서 작은 바위를 들추어 뜰채
+- [Page 14] (
+- [Page 14] )
+- [Page 14] 망목
+- [Page 14] 를 이용하여 유생을 확인하거나
+- [Page 14] 웅덩이에 산란한 알을
+- [Page 14] (
+- [Page 14] 1×1
+- [Page 14] , 30
+- [Page 14] )
+- [Page 14] ,
+- [Page 14] ㎜
+- [Page 14] ㎝
+- [Page 14] 찾아 종을 확인하였고
+- [Page 14] 성체는 계곡
+- [Page 14] 하천
+- [Page 14] 습지 근처의 바위
+- [Page 14] 돌
+- [Page 14] 고목 등을
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] ,
+- [Page 14] 들추어 포획동정 후 방사함
+- [Page 14] ·
+- [Page 15] 동식물상
+- [Page 15] 9.1.1
+- [Page 15] ‧
+- [Page 15] - 273 -
+- [Page 15] 나
+- [Page 15] 파충류
+- [Page 15] (
+- [Page 15] )
+- [Page 15] ◦도마뱀류장지뱀류는 하천변
+- [Page 15] 묵정밭
+- [Page 15] 목초지
+- [Page 15] 묘지 등 햇볕이 잘 드는 곳과
+- [Page 15] (
+- [Page 15] )
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] 계곡변에 쌓여있는 돌과 낙엽 등을 들추어 확인하거나
+- [Page 15] 이동 중인 개체는 곤충
+- [Page 15] ,
+- [Page 15] 채집용 포충망을 이용하여 포획동정 후 방사함
+- [Page 15] ·
+- [Page 15] ◦뱀류는 산림 임연부 일대
+- [Page 15] 묵정밭
+- [Page 15] 습지
+- [Page 15] 하천
+- [Page 15] 묘지 주변에서 이동 중인 개체와
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] 제방, 석축
+- [Page 15] 돌담
+- [Page 15] 고목 등을 들추어 뱀집게
+- [Page 15] 와 곤충채집용 포충망을 이용하여
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] (1m)
+- [Page 15] 포획동정
+- [Page 15] ·
+- [Page 15] 후 방사함
+- [Page 15] 육상곤충류
+- [Page 15] (4)
+- [Page 15] ◦육상곤충류의
+- [Page 15] 채집은
+- [Page 15] 포충망을
+- [Page 15] 이용한
+- [Page 15] 쓸어잡기
+- [Page 15] 와
+- [Page 15] 채어잡기
+- [Page 15] (sweeping)
+- [Page 15] 방법을
+- [Page 15] (brandishing)
+- [Page 15] 주로 하였으며
+- [Page 15] 기주식물을 관찰하거나 육안으로 확인하고
+- [Page 15] ,
+- [Page 15] 채집하였음
+- [Page 15] ◦채집한 육상곤충류는
+- [Page 15] 한국 곤충 총 목록
+- [Page 15] 백문기 외
+- [Page 15] 한국곤충
+- [Page 15] ,
+- [Page 15] 17, 2010 ,
+- [Page 15] 「
+- [Page 15] 」
+- [Page 15] 「
+- [Page 15] 대도감
+- [Page 15] 박규택 외
+- [Page 15] 등을 참조하여 분류 및 동정하였으며
+- [Page 15] ,
+- [Page 15] 12, 2012
+- [Page 15] ,
+- [Page 15] 」
+- [Page 15] 학명 및
+- [Page 15] 국명은 국가생물종목록를 참고함
+- [Page 15] ◦또한
+- [Page 15] 트랩말레이즈 트랩
+- [Page 15] 버킷라이트 트랩
+- [Page 15] 핏폴트랩
+- [Page 15] ,
+- [Page 15] (
+- [Page 15] ,
+- [Page 15] ,
+- [Page 15] , 야간유인등을 설치운영
+- [Page 15] )
+- [Page 15] ·
+- [Page 15] 하여 조사함
+- [Page 15] 가
+- [Page 15] 말레이즈 트랩
+- [Page 15] (
+- [Page 15] )
+- [Page 15] (Malaise Trap)
+- [Page 15] ◦말레이즈 트랩은 주행성 곤충을 매쉬트랩 안으로 유도하여 비행 곤충을 포획
+- [Page 15] 하는데 사용하는 장치임
+- [Page 15] ◦조사지역 내에서
+- [Page 15] 규격 말레이즈 트랩을
+- [Page 15] 개 지점에 설치하여
+- [Page 15] L1.7m×W1.2m
+- [Page 15] 1
+- [Page 15] 채집된 곤충류를 회수하여 분석하였음
+- [Page 15] 나
+- [Page 15] 버킷라이트 트랩
+- [Page 15] (
+- [Page 15] )
+- [Page 15] (Bucket Light Trap)
+- [Page 15] ◦유아등은 일자형 8 watt
+- [Page 15] 에
+- [Page 15] 휴대용건전지를 이용하여 전력을
+- [Page 15] Black light
+- [Page 15] 12V
+- [Page 15] 공급하였고
+- [Page 15] 타이머를 설치
+- [Page 15] ,
+- [Page 15] 하여 일몰후 일정시간에 점등되며
+- [Page 15] 시간 후에는 소등
+- [Page 15] 4
+- [Page 15] 되도록 하여 채집이 되도록하였음
+- [Page 15] ◦달의 밝기가 야간 곤충의 활동에 영향을미침으로 보름달이 있는 날은 피하였음
+- [Page 15] (Yela and Holyoak, 1997)
+
+---

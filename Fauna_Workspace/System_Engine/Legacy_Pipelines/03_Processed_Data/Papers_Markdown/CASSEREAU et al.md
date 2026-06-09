@@ -1,0 +1,495 @@
+--- 
+source: CASSEREAU et al.pdf
+--- 
+
+ 
+1
+CONTAMINATION BY SELECTED TRACE ELEMENTS (CD, CU, HG, SE AND ZN) OF 
+THE EURASIAN OTTER (LUTRA LUTRA) FROM WESTERN FRANCE 
+ 
+Gaëlle CASSEREAU 1, Paco BUSTAMANTE 1, RenÉ ROSOUX 2, Pierre MIRAMAND 1, Florence 
+CAURANT 1 
+ 
+1.  Laboratoire de Biologie et Environnement Marins, FRE 2727 du CNRS, Université de La Rochelle, 22, 
+Avenue Michel Crépeau, F-17042 La Rochelle Cedex, France 
+2.  Muséum des Sciences Naturelles, 6 rue Marcel Proust, F-45000 Orléans, France.  email:belrose@9online.fr 
+ 
+Abstract: Forty-two otters were collected in the western wetlands of France. Demographic characteristics and 
+health status of the otter population were determined. Several trace elements – Cd, Cu, Hg, Se and Zn - were 
+analysed by atomic absorption spectrometry, in liver, kidney and muscle tissue samples. Fur and brain were also 
+analysed for Hg. No effect of sex was observed for the body distribution of all the elements. Cd and Hg 
+concentrations in tissues were significantly higher (P< 0.05) in adults than in yearlings. These two metals are 
+the most likely to give rise to toxicological effects in top predators. However for all the individuals, Cd and Hg 
+concentrations in the different organs and tissues were much lower than tissue levels inducing clinical signs of 
+intoxication, with maximum values reaching 0.52 µg Cd.g-1 fresh weight in kidney and 4.36 µg Hg.g-1 fresh 
+weight in liver. Highly significant (P<0.05) correlation between Hg concentrations in fur and the internal 
+tissues strongly suggest the excretion of this metal through hairs. 
+ 
+Keywords: Eurasian otter, Lutra lutra, heavy metals, bioaccumulation, body distribution, top predator, wetlands, 
+France 
+ 
+ 
+1   INTRODUCTION 
+Otter populations have declined since the beginning of the 20th century in most European 
+regions.  This has been typically attributed to the degradation and modification of their 
+habitats, but pollution of the environment could also have affected this predator at the top of 
+the food chain.  Organic and metallic pollutants are therefore of concern for Eurasian otters 
+(Lutra lutra) in all European countries. 
+In France, two otter populations have remained stable since the animal was classified 
+as a protect species in 1976.  The first occupies the Massif Central and the second, the 
+wetlands along the Atlantic Coast.  However, these populations represent only a few thousand 
+individuals (ROSOUX ET AL., 1996). 
+The aim of this study was to determine the concentrations of selected heavy metals 
+and their distribution in the organs and tissues of Eurasian otters from the wetlands of western 
+France.  Cadmium (Cd), Copper (Cu), Mercury (Hg), Selenium (Se) and Zinc (Zn) were 
+analysed to evaluate their impact on otter health. Biological and ecological factors affecting 
+the trace element concentrations were also considered. 
+ 
+ 
+2   MATERIALS AND METHODS 
+2.1 Sampling and sample preparation 
+Forty-two adult otters were collected in the western part of France between 1993 and 2001 
+(Figure 1).  All were found dead, most being road-kills.  Necropsies were carried out to 
+collect biometrical and pathological information, determine body weight and length, collect 
+tissues samples (liver, kidney, brain, muscles) and hair for toxicological investigations, and 
+teeth for age determination (Table 1). 
+ 
+
+
+ 
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Location of the Eurasian otters collected in the western wetlands of France between 1993 and 2001. 
+ 
+ 
+Lay
+♂ 
+♀ 
+♀ 
+Sèvre Niortaise
+Curé
+Boutonne
+Arnoult
+Charente
+Seugne
+Seudre
+Dordogne
+Garonne
+Carcans pond
+Lacanau pond
+Oléron Island
+Ré Island
+Female
+Male
+♂ 
+♂ 
+♂ 
+♂ 
+♀ 
+♀ 
+♀ 
+♀ 
+♀ 
+♀ 
+♂ 
+♂ 
+♂ 
+♂ ♂ 
+♀ ♀ 
+♂ 
+♂ 
+♀ 
+♀ 
+♀ 
+♀ 
+♀ 
+♂ 
+3 ♀ 
+2♀ + 2 ♂
+1♂ 
+2 ♀ + 1 ♂ 
+Sampling areas 
+Legend : 
+♂ 
+♂ 
+Charente Maritime 
+wetlands
+Poitevin 
+wetlands 
+Bay of 
+Biscay 
+See beside 
+♂ 
+♀
+♂ 
+♂ 
+
+
+ 
+3
+These tissues were then freeze-dried and reduced to a homogenous powder.  Samples 
+of fur were cleaned in series of three-10 minute acetone-water-acetone baths (PINEAU, 1987) 
+and then dried at 50°C over a few hours. 
+ 
+Table 1. Numbers, sex and age structure of Eurasian otters collected in western France 
+ 
+Sex 
+ 
+Juvenile 
+Sub-adults 
+Adults 
+Non-determined 
+Total 
+Female 
+N 
+5 
+4 
+12 
+1 
+22 
+ 
+% 
+11.9 
+9.5 
+28.6 
+2.4 
+52.3 
+Male 
+N 
+3 
+3 
+14 
+0 
+20 
+ 
+% 
+7.1 
+7.1 
+33.3 
+0 
+47.7 
+Totals 
+N 
+8 
+7 
+26 
+1 
+42 
+ 
+% 
+19.0 
+16.7 
+61.9 
+2.4 
+ 
+ 
+Age classes are : juveniles (<1.5 years); sub-adults (1.5 to 3 years); adults (>3 years)  
+N = sample size. 
+2.2 Analytical procedures 
+Two aliquots of approximately 200 milligrams of dry tissue were digested by 3.5 millilitres of 
+suprapure, 65 per cent nitric acid at 60°C until the solution was clear.  Trace elements were 
+analysed by Atomic Absorption Spectrophotometry. Cadmium, copper, selenium and zinc 
+concentrations were determined in liver, kidney and muscle samples with a Varian 
+spectrophotometer Spectra 250 Plus using deuterium background correction.  Mercury was 
+analysed in the same tissues as well as in fur and brain with Altec spectrophotometer AMA 
+254.  Standard samples (n=5 per standard) from the NRCC, DOLT-2 (dogfish liver) and 
+DORM-2 (dogfish muscle) were also analysed following the same procedure as the samples.  
+Recoveries of the metals were 99% (Cd), 95% (Cu), 99% (Hg), 93% (Se) and 99% (Zn).  
+Metal concentrations in organs and tissues are reported in µg.g-1 wet weight, except for fur 
+(µg.g-1 dry weight). 
+ 
+2.3 Statistical analysis 
+Differences between trace element concentrations were determined by ANOVA models to test 
+effect of sex and age with the Minitab 13.1 software.  However, non-parametric Kruskal-
+Wallis test was used when variance equality was not verified. Linear correlations between 
+trace elements were performed with the Pearson test.  The significance level for statistical 
+analyses was always set at α =0.05.  
+ 
+ 
+3   RESULTS AND DISCUSSION 
+ 
+Statistical analyses have shown that trace element concentrations in the different organs and 
+tissues did not differ significantly between male and female.  Regarding essential elements, 
+the liver was the main organ of bioaccumulation for Cu and Zn, although the highest Zn 
+concentration was found in muscle (Table 2).  Kidneys displayed higher Se concentrations 
+than liver. 
+ 
+Table 2. Mean ± SD of trace elements concentrations (µg.g-1 wet weight) in the organs and tissues collected 
+from 42 Eurasian otters from western France. 
+ 
+Tissue 
+N 
+ 
+Cd 
+Cu 
+Hg 
+Se 
+Zn 
+Liver 
+34 
+Mean± SD 
+0.037 ± 0.04 
+8.48 ± 4.23 
+2.27 ± 1.21 
+1.36 ± 0.51 
+31.6 ± 13.1 
+ 
+ 
+Range 
+0.004 – 0.200 
+1.54 – 23.1 
+0.431 – 4.36 
+0.566 – 2.82 
+16.3 – 82.0 
+Kidney 
+35 
+Mean± SD 
+0.093 ± 0.10 
+2.85 ± 0.53 
+1.19 ± 0.75 
+1.55 ± 0.32 
+17.1 ± 5.4 
+
+
+ 
+4
+ 
+ 
+Range 
+0.007 – 0.515 
+1.84 – 4.49 
+0.208 – 3.18 
+0.750 – 2.16 
+11.8 – 39.8 
+Muscle 
+42 
+Mean± SD 
+0.004 ± 0.002 
+1.94 ± 0.33 
+0.686 ± 0.40 
+< 0.2 
+33.7 ± 5.8 
+ 
+ 
+Range 
+0.002 – 0.019 
+1.02 – 2.61 
+0.218 – 2.19 
+- 
+22.7 – 53.3 
+Brain 
+21 
+Mean± SD 
+ND 
+ND 
+0.359 ± 0.23 
+ND 
+ND 
+ 
+ 
+Range 
+ 
+ 
+0.051 – 0.956 
+ 
+ 
+Fur 
+40 
+Mean± SD 
+ND 
+ND 
+15.5 ± 10.4a 
+ND 
+ND 
+ 
+ 
+Range 
+ 
+ 
+1.22 – 43.1 a 
+ 
+ 
+ 
+a: results expressed in µg.g-1 dry weight 
+N : sample size ; ND = non determined 
+ 
+Globally, the distribution and concentrations of Cu and Zn in French otters were in 
+agreement with existing data about mammals in general and Mustelidae in particular.  Indeed, 
+Mustelidae typically exhibit higher Zn concentrations in muscle than in liver, which is 
+unusual for mammals.  Similar results have been reported for the Canadian river otter Lontra 
+canadensis and American mink Mustela vison (HALBROOK ET AL., 1996).  However, Cu, Se 
+and Zn had low coefficients of variation (<50%), suggesting homeostatic regulation.  The 
+only otters considerably exceeding the mean concentrations of Cu or Zn were in very poor 
+condition, with loss of weight, amyotrophy and clinical signs of chronic disorders.  Thus, 
+variations in the essential element concentrations should therefore be attributed to the 
+physiological status.  However, variations between populations from different European areas 
+may be due to soil characteristics (GUTLEB ET AL., 1998; MASON AND STEPHENSON, 2001). 
+With regard to concentrations of non-essential elements, the highest levels of Hg were 
+found in fur and the lowest in brain, while kidney showed the highest Cd concentrations 
+among organs and tissues (Table 2).  Cd concentrations in the different tissues exhibited a 
+great variability among otters from western France.  Nevertheless, the values remained 
+relatively low, with a maximum of 0.52 µg.g-1 wet weight in kidney.  This value is close to 
+the maximum reported in kidney of European otters from the United Kingdom and central 
+Europe (MASON, LAST AND MACDONALD, 1986; MASON AND MACDONALD, 1986; MASON 
+AND REYNOLDS, 1988; GUTLEB ET AL., 1998; MASON AND STEPHENSON, 2001).  However, Cd 
+concentrations in both liver and kidney are at far lower toxic levels as determined for other 
+mammals (20 and 50 µg.g-1 wet weight in liver and in kidney, respectively (ELINDER AND 
+JÄRUP, 1996) probably because the otters analysed were relatively young (<5 years old).  
+Moreover, exposure to Cd through fish consumption appears to be very low since these prey 
+generally displayed very low Cd body burden. 
+In contrast to Cd, which was accumulated significantly (P<0.05) with age only in 
+liver, Hg concentrations were higher in adults for liver, kidney and muscle (F = 5.31, P = 
+0.030; F = 7.78, P = 0.010; F = 4.79, P = 0.036 respectively).  The maximum value was 4.36 
+µg.g-1 wet weight which is below concentrations reported for England (20.5 µg.g-1 wet 
+weight.), Orkney Islands (20.3 µg.g-1 wet weight) or Czech Republic (55.6 µg.g-1 dry weight.) 
+(MASON, LAST AND MACDONALD, 1986, MASON AND REYNOLDS, 1988; GUTLEB ET AL., 1998).  
+Thus, Hg in French otters did not reach toxic concentrations, which are close to 25-30 µg.g-1 
+wet weight in liver or kidney, and exceed 5 µg.g-1 wet weight in muscle or brain (AULERLICH, 
+RINGER AND IWAMOTO, 1974).  High Hg concentrations in fur indicates that moult may be a 
+good way for its elimination. This hypothesis is strongly supported by highly significant 
+correlation between Hg concentrations in fur and internal organs (e.g. R = 0.748, P <0.0005 
+and R = 0.632, P = 0.002, for liver and brain, respectively) (Figure 2).  Interest for analysis of 
+heavy metals, particularly Hg, in fur has already been demonstrated as a non-invasive method 
+for biomonitoring (EVANS ET AL., 1998, 2000). However, several individuals of our study 
+displayed higher Hg concentrations in liver than in fur (Figure 2). This may reveal a recent 
+and high exposure to Hg, not yet eliminated in fur. These observations suggest that otters may 
+
+
+ 
+5
+achieve relatively high Hg accumulation at least for short period of time, which may affect 
+resistance to others pollutants. 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+0
+10
+20
+30
+40
+50
+Hg in fur (µg.g-1 dwt)
+Hg in liver (µg.g-1 dwt)
+R=0.75
+ 
+Figure 2. Correlation between Hg concentrations (µg.g-1 dwt) in fur and liver of Eurasian otters from western 
+France 
+Ellipse notices animals having higher Hg concentrations in liver than in fur. 
+ 
+ 
+4   CONCLUSIONS 
+ 
+Otters from the wetlands of western France displayed heavy metal concentrations in their 
+tissues far below the toxic concentrations reported for other mammal species.  However, 
+effects of micro-doses of toxic metals are still to be investigated.  Furthermore, heavy metal 
+interactions with persistent organic pollutants such as PCBs or DDT should also be of concern 
+for these endangered animals. 
+ 
+ 
+5   ACKNOWLEDGEMENTS  
+ 
+We are grateful to W. Dabin for age determination. This study was supported financially by 
+the SFEPM (Société Française pour l’Etude et la Protection des Mammifères), the DIREN 
+Poitou-Charentes, the Conseil Régional Poitou-Charentes and the MHNLR (Muséum 
+d’Histoire Naturelle de La Rochelle). 
+ 
+6   REFERENCES  
+AULERICH, R.J., RINGER, R.K. & IWAMOTO, S. 1974. Effects of dietary mercury on mink. Archives of 
+Environmental Contamination and Toxicology, 2: 43-51. 
+ELINDER, C. & JÄRUP, L. 1996. Cadmium exposure and health risk : recent findings. Ambio, 25: 370-373. 
+EVANS, R.D., ADDISON, E.M., VILLENEUVE, J.Y., MACDONALD, K.S. & JOACHIM, D.G. 1998. An 
+examination of spatial variation in mercury concentrations in otter (Lutra canadensis) in south-central Ontario. 
+The Science of the Total Environment, 213: 239-245. 
+
+
+ 
+6
+EVANS, R.D., ADDISON, E.M., VILLENEUVE, J.Y., MACDONALD, K.S. & JOACHIM, D.G. 2000. Distribution of 
+inorganic and methyl mercury among tissues in mink (Mustela vison) and otter (Lutra canadensis). 
+Environmental Research, 84: 133-139. 
+GUTLEB, A.C., KRANZ, A., NECHAY, G. & TOMAN, A. 1998. Heavy metal concentrations in livers and kidneys 
+of the otter (Lutra lutra) from Central Europe. Bulletin of Environmental Contamination and Toxicology, 60: 
+273-279. 
+HALBROOK, R.S., WOOLF, A., HUBERT, G.I., ROSS, J.R.S. & BASELTON, W.E. 1996. Contaminant 
+concentrations in Illinois mink and otter. Ecotoxicology, 5: 103-114. 
+MASON, C.F. & MACDONALD, S.M. 1986. Otters, Ecology and Conservation. Cambridge University Press, 
+Cambridge. 
+MASON, C.F. & REYNOLDS, P. 1988. Organochlorine residues and metals in otters from the Orkney Islands. 
+Marine Pollution Bulletin, 19: 80-81. 
+MASON, C.F. & STEPHENSON, A. 2001. Metals in tissues of European otter (Lutra lutra) from Denmark, Great 
+Britain and Ireland. Chemosphere, 44: 351-353. 
+MASON, C.F., LAST, N.I. & MACDONALD, S.M. 1986. Mercury, cadmium and lead in British otters. Bulletin of 
+Environmental Contamination and Toxicology, 37: 844-849. 
+PINEAU, A. 1987. Contribution à l'Étude de l'Élimination des Éléments Traces par les Produits de la Sécrétion 
+Pilaire. Ph.D. Thesis, University of Nantes, France. 
+ROSOUX, R., TOURNEBIZE, T., MAURIN, H. & BOUCHARDY, C. 1996. Étude de la répartition de la loutre 
+d'Europe (Lutra lutra L.) en France. In: La loutre et le vison d'Europe. Acts XVII Internationale Mammalogie 
+Colloquium, Niort 23-25 Octobre 1993 (Edited by Gautier, J.Y., Libois, R. & Rosoux, R.) Cahiers d'Ethologie, 
+15: 195-205. 
+ 
+ 
+ 
+ 
+ 

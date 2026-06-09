@@ -1,0 +1,1003 @@
+--- 
+source: JEFFERIES et al.pdf
+--- 
+
+RE-INTRODUCTIONS AS A TOOL IN OTTER CONSERVATION 
+ 
+Don J. JEFFERIES1, Philip WAYRE2, Jeanne WAYRE2 AND Richard SHUTER2 
+                 
+1  The Nature Conservancy Council, Peterborough, England, UK. 
+2.  The Otter Trust, Earsham, Bungay, Suffolk, NR35 2AF, England, UK. 
+ 
+ 
+Abstract. The otter populations of eastern England were almost eliminated by the agricultural use of 
+organochlorine insecticides in the late 1950s following earlier persecution and the few survivors were separated 
+from the larger recovering populations of the west by an area largely devoid of otters. The western otters are 
+moving eastwards at a rate of only 3.6 km/year so sustaining recruitment to the east could not occur for many 
+years, by which time the few remaining eastern otters would have died and their ‘gene pool’ would have been 
+lost. These eastern populations were rebuilt from 1983 to 1998 by the release of 87 captive-bred otters to East 
+Anglia and the East Midlands by the Otter Trust and 41 rehabilitated otters to north eastern England by the 
+Vincent Wildlife Trust. The successful techniques used are described and the rate of re-occupation of eastern 
+rivers is demonstrated by the results of spraint surveys. 
+   
+Keywords: Eurasian otter, Lutra lutra, re-introductions, conservation, England 
+ 
+ 
+1   INTRODUCTION 
+ 
+Surveys had shown that the British otter Lutra lutra population was very low and still 
+decreasing rapidly in the east of England in the late 1970s and early 1980s, even though the 
+causal agents (organochlorines and persecution) had been tackled and reduced (JEFFERIES, 
+1996).  Thus, conservationists had their ‘backs to the wall’. Had the population decreased to 
+such a critical point that recovery was now unlikely?  All potential conservation techniques 
+were considered by the Joint Otter Group (JOG) of necessity and with some urgency 
+(O’CONNOR ET AL., 1979) (the JOG was a group of academic and government research 
+zoologists who were charged with looking at the seriousness of the otter problem and what 
+could be done about it). 
+ 
+Consequently, after the initial research (JEFFERIES AND MITCHELL-JONES, 1982; 
+JEFFERIES, 1984a; J JEFFERIES AND WAYRE, 1984; JEFFERIES ET AL., 1986; WAYRE, 1989) the 
+technique of releasing groups of otters into the field was first used as a conservation tool in 
+Britain as early as 1983.  This was the first successful, systematic and monitored use of the 
+technique on otters anywhere in Europe. Technically, these first releases of captive-bred stock 
+to eastern England by the Otter Trust were not re-introductions but were re-stocking or 
+reinforcement exercises.  Isolated fragments of the original wild population still existed as 
+‘islands’ at the time and the release groups were introduced between the fragments, as shown 
+by survey, in order to reinforce them by interbreeding.  In this way it was hoped to repopulate 
+the areas concerned. 
+ 
+The original idea of releasing captive-bred stock was put forward to the JOG by Philip 
+Wayre (PW) (Chairman/Founder) and Jeanne Wayre (JW) (Director) of the Otter Trust in the 
+late 1970s.  At the time of the programmes’ inception Don Jefferies (DJJ) was Head of Wild 
+Mammals Section, their research and conservation over Great Britain, in the Chief Scientists 
+Team of the Governments Nature Conservancy Council and a member of JOG as well as the 
+Council of the Otter Trust.  Consequently, the planning and method of release, together with 
+the radio-tracking of the initial releases fell to him. Richard Shuter (RS), the Otter Trusts 
+Conservation Officer since 1994, is the last of a series of conservation officers who have 
+
+
+continued the original programme, selecting the new release sites, liaising with site owners, 
+building the release pens and releasing the otters. 
+ 
+The programme of captive-bred releases by the Otter Trust was completed in 1999 
+(JEFFERIES, WAYRE AND SHUTER, 2001) and its success as a conservation tool is evaluated 
+here with particular reference to East Anglia but covering the experimental releases elsewhere. 
+ 
+A second, later series of releases were made to eastern England by the Vincent 
+Wildlife Trust (VWT) from 1990 to 1993 (STRACHAN AND JEFFERIES, 1996; GREEN, 1997).  
+These were carried out further north than those of the Otter Trust and tested the use of 
+rehabilitated otters (accident victims, reared orphaned cubs) largely from Scotland, rather than 
+captive-bred animals.  The numbers, areas and success of this variant technique have been 
+detailed previously (WOODROFFE, 1993, 1996; GREEN, 1997) and are covered in Section 11 
+(below).  
+ 
+ 
+2   BACKGROUND: THE ‘CRASH’ OF THE BRITISH OTTER POPULATION 
+ 
+CHANIN AND JEFFERIES (1978) analysed the record books of the various otter hunts over 
+England, Wales and southern Scotland and determined that the ‘crash’ of the British otter 
+population had started suddenly in 1957.  Also, it occurred all over the country at the same 
+time but was most severe in the south and east of England.  The decline was undoubtedly (on 
+timing, area of greatest effect and chemical analysis of bodies) caused by the agricultural use 
+of the persistent cyclodiene organochlorine insecticides, particularly aldrin and dieldrin 
+(JEFFERIES AND HANSON, 2002).  Their use as cereal seed dressings in the east and sheep dips 
+in the west and north started in 1956.  However, it was considered that the ‘crash’ was 
+exacerbated by the low and stressed status of the otter population due to years of persecution 
+(JEFFERIES, 1989a; STRACHAN AND JEFFERIES, 1996).  Dieldrin and aldrin were also the cause 
+of the concurrent declines of the peregrine falcon (Falco peregrinus) and sparrowhawk 
+(Accipiter nisus) in Britain. Research on their environmental effects and contamination levels 
+in the 1960s, particularly that by the Toxic Chemicals and Wildlife Section of the Nature 
+Conservancy under Professor Norman Moore at Monks Wood (which included DJJ at that 
+time), eventually led to a series of bans on their uses in 1962, 1966, 1975, 1981 and 1983.  
+The peregrine and sparrowhawk began to recover and the way should also have been open for 
+the recovery of the otter population in Britain. 
+ 
+It had become essential that conservationists should be able to measure the strength of 
+the otter population following the ‘crash’.  Status, distribution and density of site occupation 
+needed to be determined by structured survey in order to lay down a baseline from which to 
+measure future trends.  Only then could we be sure that the situation was indeed improving or 
+even declining further.  Consequently, DJJ designed, co-ordinated and analysed the first 
+national otter surveys starting in 1977.  The first survey of England over 1977-1979 indicated 
+an appalling situation with only 5.9% of the 2,940 survey sites still occupied by otters 
+(LENTON, CHANIN AND JEFFERIES, 1980).  The population of eastern England was fragmented 
+into small groups with individuals many miles apart (JEFFERIES, 1989c).  What is more, far 
+from recovering, these fragments were dying out one by one.  Indeed, by the time of the 
+second national survey over 1984-86, although there were the first signs of a slow recovery in 
+the larger population of the west, the East Anglian population had declined even further from 
+its low 3.2% occupation at the first survey (STRACHAN ET AL., 1990).  The figures for the 
+Norfolk and Suffolk wild populations were 10.1% and 1.7%, respectively, in 1977-79 and 
+0.6% and 0% in 1984-86.  It was considered that the Suffolk population in particular was 
+likely to disappear completely by 1986.  The decline had progressed too far in the Anglian 
+
+
+Region and the population was now considered too small and too fragmented to recover 
+unaided. 
+ 
+Faced with this situation, the conservationists of the Joint Otter Group considered 
+several immediate measures (O’CONNOR ET AL., 1979).  One was legal protection, and a case 
+for the species to be placed on Schedule 1 of the Conservation of Wild Creatures and Wild 
+Plants Act 1975 was prepared by DJJ and put forward by the Nature Conservancy Council in 
+1978.  The otter received legal protection in England and Wales in the same year against 
+considerable opposition in the House of Lords. Legal protection in Scotland under the 
+Wildlife and Countryside Act 1981 followed in 1982.  This is the first basic requirement for 
+any conservation plan.  One must increase the chances of survival to breeding of all remaining 
+stock.  The second of the practical measures then considered was the idea of Philip Wayre, 
+that of the release of captive-bred otters from the Otter Trust. Legal protection is, of course, a 
+basic requirement for this technique as well.  There would not have been any point in 
+releasing otters for the otter hounds to hunt. Subsequently, the JOG asked DJJ in 1979 to look 
+into the feasibility of the proposition, to devise a method of release, and then to test its success 
+in the field.   
+ 
+ 
+3   METHODS  
+ 
+3.1 Radio-tracking 
+The first prerequisite of the planned release project was that we should be able to follow the 
+otters after release, (a) to watch their behaviour and see how well they fitted into the wild and 
+caught fish for the first time, and (b) to make sure that they survived long enough to breed.  
+Otherwise, releasing them and remaining in the dark as to their whereabouts, survival and the 
+success of the project, could have been a waste of labour and animals. 
+ 
+As otters had not been successfully radio-tracked in Britain at that time, the first 
+research project concentrated on a method of attaching the radio-transmitter to the otter.  This 
+had to be non-invasive and short-lived, dropping off the animal after a few weeks, rather than 
+having to be carried around for the rest of its life.  Otters provide problems here as the usual 
+neck collars are unsuitable.  The otter’s head is narrower than its neck, so they can work them 
+off.  Hence, PW provided a male and female otter in 1980 so that DJJ and Tony Mitchell-
+Jones could carry out practical trials.  The latter designed and made a soft leather harness to 
+carry the radio package.  The rusting of rivets allowed the harness to disintegrate after a short 
+period of time (MITCHELL-JONES ET AL., 1984).  This was found to work perfectly and the first 
+otter was tracked for 50 days before the harness came off and the radio was retrieved for re-
+use. 
+ 
+Radio-tracking of the male in the release group was carried out for the first two Otter 
+Trust releases.  The successful adaptation to the new conditions of the wild environment was 
+so rapid that it was considered no longer essential for the later releases. 
+ 
+3.2  Derivation of otters 
+ 
+3.2.1 Captive breeding. The young otters for the releases were to be captive-bred at the Otter 
+Trust using the methods devised and experience gained over many years (WAYRE, 1989).  
+They were, in fact, the first people to breed Lutra lutra in captivity since A.H. Cocks in 1881. 
+The use of captive breeding allows the number of the original stock held to be ‘multiplied’ 
+before release.  Also, the resulting progeny may be taken safely past the age of first 
+independence before having to encounter and survive the dangers of the field. 
+
+
+ 
+3.2.2 Genetic considerations. The foundation breeding stock at the Otter Trust originated from 
+Norfolk and Suffolk.  These were bought from the coypu (Myocastor coypus) trappers who 
+occasionally caught otters in their live traps during the first control campaign of the 1950s and 
+1960s.  This was long before legal protection of the otter in 1978.  Eight of these otters were 
+kept for the foundation stock and the rest released (WAYRE in JESSOP AND CHEYNE, 1993).  
+This was a major reason for choosing East Anglia for the initial release project (Section 
+3.4.1).  The ‘gene pool’ was widened to avoid inbreeding by the continuous ‘injection’ of 
+orphaned and reared cubs (WAYRE AND WAYRE, 2000; JEFFERIES, in press) from throughout 
+Scotland; there being few such animals from England. 
+ 
+There is a further factor which could have an effect on the success of any re-
+introduction project and that is outbreeding depression.  This occurs by the disruption of 
+groups of interacting genes which have evolved together within the same species to fit it by 
+natural selection for existence in different environments within the one distribution (LACY, 
+PETRIC AND WARNEKE, 1993).  The use and interbreeding of several cryptic geographical 
+races for stock for release programmes could cause such a disruption.  The only way round 
+this would have been to use only the animals derived from East Anglia or only from one 
+homogeneous area of Scotland.  However, it would have been difficult then to obtain 
+sufficient stock without running into the (possibly more severe) problem of inbreeding. 
+ 
+ 
+
+
+ 
+In practice the conundrum of which of the two forms of stock selection should be used 
+was overcome by use of both.  There was no alternative.  Thus, the wider Scottish ‘gene pool’ 
+should avoid the possibility of inbreeding and the narrow East Anglian stock should avoid 
+outbreeding.  Close examination of the release groups, their progeny and casualties (JEFFERIES 
+ET AL., 1985; JEFFERIES AND HANSON, 1988, 1991) showed no overt detrimental abnormalities 
+which could have been due to inbreeding depression and the end results described in this 
+paper speak for themselves (Figure 1). 
+ 
+The bloodstock for the releases of rehabilitated otters (Section 11) came from all over 
+Scotland so only the problem of outbreeding remains.  The problems of inbreeding and 
+outbreeding depressions as they apply to otters and re-introduction programmes are covered 
+more fully in a further paper (JEFFERIES, in press).  
+ 
+3.3  Practicalities of release 
+ 
+3.3.1 Pre-release management of otters. The age at removal of the cubs from the mother and at 
+release is critical.  The Otter Trust cubs were not separated from the mother until the 
+completion of the ‘natural’ dependence period, which is about ten months, when the mother 
+may come into oestrus.  Also, it was considered in 1982, when preparing the stock for the first 
+release, that the highest rate of successful transition to the wild and survival could be expected 
+if the otters were about 18 months old at release and the release took place in summer.  This 
+eliminates two periods of high mortality, (a) when first attaining independence from the 
+mother, and (b) the first winter following independence. In addition, this age reduces the 
+length of time before first breeding can be achieved in the field (at around two years of age) 
+and the new population focus is consolidated, i.e. the release group has less time to separate. 
+ 
+There has been some recent research which strongly supports this extended period 
+before release.  Thus, SJÖÅSEN (1996), carrying out releases of captive-bred and wild-caught 
+otters in Sweden, demonstrated that the captive-bred stock suffered a significantly higher 
+mortality and early death in the field than did the wild-caught animals.  However, as the two 
+groups were treated very differently in these experiments and the captive-bred animals were 
+all less than 12 months old at release, whereas the wild-caught animals were much older (i.e. 
+over 12 months) the tests provide a good demonstration of the value of using older, 
+experienced stock, with a longer period of independence as released in Britain.  Indeed, radio-
+tracked groups of captive-bred otters of >18 months of age did not show this reported high 
+early mortality (JEFFERIES ET AL., 1986).  The length of maternal care too is of considerable 
+importance.  SJÖÅSEN showed that the least successful otters after release were those separated 
+from their mothers only 50-98 days before their early release.  Those with longer periods of 
+maternal care, on the other hand, had similar success to the wild-caught animals. 
+ 
+The animals forming each release group need to be unrelated but reared together as it 
+is important that the group stays together if the formation of a breeding unit is to be achieved 
+in the field.  It was thought that the release group should be made up of two females and one 
+male.  This was usual in the early days and approximates to the situation seen in the field in 
+Britain, when a mature male may have at least two breeding-aged females within his home 
+range (GREEN, GREEN AND JEFFERIES, 1984).  Releasing two males of the same age could 
+result in territorial fighting, but, on the other hand, the death of the only male in a road 
+accident renders the release sterile.  We had to release a second male at one site (Minsmere) 
+after the first had been killed in such an accident (JEFFERIES AND HANSON, 1988).  There is 
+also the problem of what to do with the excess males if only one is released, as the sex ratio at 
+birth is one to one.  These concerns led to the usual release group being made up of two 
+females and two males during and after 1994 and there has been no evidence of territorial 
+
+
+disputes during the early period of a release exercise, though they did occur later when the 
+population was established (JEFFERIES AND HANSON, 1991).  The use of more males in release 
+groups was eventually validated by the discovery of a higher rate of road mortality in this sex 
+(Section 12.4). 
+ 
+It was planned that the requisite group of unrelated cubs should be transferred to a 
+large pre-release pen on removal from their mothers at around ten months.  This pre-release, 
+or ‘quiet’, pen (one for each group and sized 1,200 square metres) had a pool and sleeping 
+boxes.  Food was placed under cover so that they could feed unwatched and undisturbed; the 
+idea was that these units should have little contact with man so that the otters would remain 
+untamed and would hide from people rather than approach them.  Here they were to remain 
+until, aged about 18 months, they were taken to the release site.  This also acted as a long 
+quarantine period so that no diseases were released to the field.  Again, it is necessary to have 
+as large a pre-release pen as possible. The small pens used by SJÖÅSEN (1996) may have 
+contributed to the high mortality experienced in the captive-bred stock at release.  The use of 
+large pens encourages much more nocturnal activity and so fitness in the pre-release stock and 
+so contributes to its survivability. 
+ 
+3.3.2 Preparation of otters for release.  Before being taken to the release site the otters were 
+given a final veterinary examination (JEFFERIES ET AL., 1985).  Also, a tiny identification tag or 
+microtransponder was implanted in the upper hindquarters (for identification if killed on the 
+road or recaptured later) and a blood sample taken for DNA analysis (later releases only).  At 
+that time, when anaesthetised, a radio harness was fitted to the male of the group (first two 
+releases only). 
+ 
+3.3.3 The release technique. The so-called ‘soft’ release technique was considered best for 
+these captive-bred animals.  For this, a small escape-proof release pen (9 x 15 metres) was 
+built alongside the chosen river or stream and within ten metres of its bank.  The first pen was 
+built on an island (JEFFERIES, 1984a).  An area with much vegetation cover was chosen, if 
+possible.  Two sleeping boxes were placed in the pen, with a covered feeding trough so that 
+they could continue to feel secure.  The first release pens were expensive structures with 
+heavy, wooden fence posts, strong chain-link netting and steel overhangs to prevent climbing 
+out.  Later releases used a much cheaper and re-usable electric fence which was found to be 
+just as effective and enabled a larger (20 x 15 metres) pen to be built (WOODROFFE, 1993). 
+ 
+The release groups remained in this release pen alongside the river for a period of 
+three, later reduced to two, weeks.  It was considered that this would increase the chances of 
+the animals feeling ‘at home’ on a river that they could smell and hear and thus would be 
+more likely to settle down rather than scatter.  The second reason for the release pen is that 
+food could be placed in it for 12 days after opening the door, in case their fishing ability was 
+not adequate in the initial period after release. 
+ 
+3.4  Area and release site selection 
+ 
+3.4.1 Selection of the area for releases.  East Anglia was chosen for the main release scheme 
+for several reasons:  
+(a) The necessity to secure this rapidly decreasing population as soon as possible.  
+(b) There had been several spraint surveys of the area so we knew where the surviving 
+remnants of the wild population were.  
+(c) It is close to the Otter Trust, and  
+
+
+(d) Many of the otters in the Otter Trust’s breeding stock were of East Anglian origin 
+(Section 3.2.2).  
+ 
+3.4.2 Selection of release sites. Release sites needed to be as undisturbed and unpolluted as 
+possible, with a good food supply, plenty of cover and potential holts. Also, each release 
+needs to have the support of all the local riparian landowners and angling clubs.  The job of 
+liaison has always been carried out by the conservation officer of the Trust.  With these 
+criteria in mind, the individual release sites, with their breeding units of otters, should be 
+inserted in the gaps between those few sites still occupied by the remaining wild otter stock.  
+These were known for Norfolk and Suffolk from several previous spraint surveys.  It was 
+hoped, and considered likely, that the progeny from these captive-bred foci would expand 
+their range and coalesce, both with other inserts and with the remaining wild stock. 
+ 
+ 
+On the other hand, however carefully the release site is chosen, it has to be said 
+that when it comes to the final choice of position, the otter selects its own.  Although the 
+position chosen by the conservationists may look ‘just right’ and be in the right position 
+regarding future contact with the few remaining ‘wild’ otters, the released otters are quite 
+capable of shifting position over many kilometres (JEFFERIES, 1989b).  Thus, CRAWFORD 
+(2003) noted that in the north Norfolk area of Anglian Region where six otters had been 
+released by the Otter Trust between 1987 and 1992, only one positive site with spraints was 
+found out of 17 surveyed (in the surveys of 1991-1994 and 2000-2002).  This was due almost 
+certainly to a change in watershed by both groups to the much larger Bure system to the east.  
+No bodies were found and the disappearance from the River Glaven coincided with the 
+occurrence of spraints on a nearby stretch of the River Bure (JESSOP AND CHEYNE, 1993).  
+Also, otters are known to move between the Wensum and the Bure watersheds (JEFFERIES, 
+1989b).  It should be remembered too, that the chosen release site is just the initial site.  This 
+needs to be excellent, of course, in order to provide a good ‘send-off’’ but soon becomes 
+irrelevant as the otters move out and feed over 39km of waterway (JEFFERIES ET AL., 1986). 
+ 
+3.4.3 Selection of the initial release site. A survey of potential rivers and release sites was 
+made in the early 1980s and the River Black Bourn, a tributary of the Little Ouse on the 
+Norfolk/Suffolk border was chosen as the best.  It was not inhabited by otters but wild otters 
+were present in an adjacent area.  Cover was very good with several alder carrs and the 
+riparian landowners were extremely co-operative.  There was a good food supply with 
+abundant coarse fish, such as chub (Leuciscus cephalus), dace (L. leuciscus) and pike (Esox 
+lucius).  Also, the water appeared clear and unpolluted.  Nevertheless, a sample of chub was 
+caught and analysed by gas-liquid chromatography (JEFFERIES AND FREESTONE, 1985).  Low 
+concentrations of gamma BHC (lindane), pp-DDE (the metabolite of DDT), PCBs and 
+mercury were found, but no dieldrin (the cause of the otters decline in the first place; 
+JEFFERIES AND HANSON, 2002).  However, most waterways flowing through agricultural East 
+Anglia would, at that time, have contained some pollution with agricultural chemicals and, as 
+these residues were considered low from previous experience, it was decided that they did not 
+outweigh the advantages of the site. 
+ 
+ 
+4   THE INITIAL RELEASE IN 1983 
+ 
+The release pen door was fixed open at 20.00 h. (GMT) on 5 July 1983 and the otters left that 
+night.  The Otter Trust conservation officer, Rowena Jessop, took turns with DJJ and Tony 
+Mitchell-Jones in the nightly radio-tracking.  The otters were almost completely nocturnal, 
+
+
+emerging within an hour either side of sunset and retiring around 06.00 h. (GMT) (JEFFERIES 
+ET AL., 1986).  They returned to the release pen to feed during nights 2, 3, 5, 6 and 7, but after 
+that food was untouched and the pen neglected.  It was thought from the appearance of 
+spraints, that they were catching wild fish from day four (analysis of the spraints from the 
+second release group showed that they fed on cyprinids, eels (Anguilla anguilla) and pike 
+soon after release (MACGUIRE, 1989)). 
+ 
+The group were radio-tracked through the male for a period of 50 days until 24 
+August, when the harness disintegrated and was retrieved (JEFFERIES ET AL., 1986).  After that, 
+their expanding range was tracked by spraints and footprints.  At 50, 94, 163 and 350 days the 
+total known linear home range was 15.33, 25.63, 35.51 and 39.20 km, respectively (a final 
+total of ca. 39 kilometres [24.4 miles]).  Breeding was confirmed on 13 August 1984, when 
+cub prints were found with those of the parent female at a distance of 3.15 km from the 
+release site (JEFFERIES, 1984b).  The descendants of the first released otters are still present on 
+the River Black Bourn, which has not been empty of otters since the first one was released 21 
+years ago (long after the original otters would have died of old age or accident). 
+ 
+ 
+5   LATER RELEASES 
+ 
+5.1  Releases of captive-bred otters to East Anglia by the Otter Trust 
+The first release was followed by 23 others making a total of 58 otters released to the 
+originally planned area of reinforcement of remnant wild stock by captive-bred animals.  
+These consisted of 27 males and 31 females with 34 going to Norfolk, 14 to Suffolk and four 
+to east Essex, with another six on the Hertfordshire/West Essex border.  All these were 
+released between 1983 and 1996 (Table 1). 
+
+
+ 
+ 
+5.2  Releases of captive-bred otters to the East Midlands by the Otter Trust 
+Although not an original part of the planned release experiment, the Otter Trust released a 
+further 29 otters to the East Midland counties of Cambridgeshire (4 otters), Bedfordshire (10), 
+Northamptonshire (8) and Rutland (7) between 1994 and 1998.  These counties border the 
+East Anglian counties to the west and have been largely devoid of otters for many years, 
+though small fragments remained on the Rivers Nene and Great Ouse (LENTON, CHANIN AND 
+JEFFERIES, 1980) (Table 1). 
+ 
+5.3  Releases of captive-bred otters to southern English counties by the Otter Trust 
+A total of 13 captive-bred otters were released to rivers (Wylye, Bybrook, Stour and Itchen) in 
+southern England (Wiltshire, Dorset, Hampshire) between 1989 and 1994 in advance of the 
+natural expansion from the west (Table 1). 
+ 
+5.4  Release of captive-bred otters to the Upper Thames by the Otter Trust 
+The Thames Region had remained empty of otters since the early days following the 
+population crash of 1957.  Seventeen otters were released by the Otter Trust in 1999 (the last 
+of the release programme) to the upper Thames area being studied by the WildCRU team 
+from Oxford University (Table 1). 
+ 
+5.5  Total captive-bred otters released 
+The Otter Trust released a total of 117 captive-bred otters to southern and south eastern 
+England in a series of 38 release groups between 1983 and 1999 (Table 1 & JEFFERIES, 
+WAYRE AND SHUTER, 2001). 
+ 
+
+
+ 
+6   BREEDING 
+ 
+Breeding was determined by cubs being seen or their footprints found at nearly all of the 
+release sites used.  At many sites, e.g. the River Black Bourn, sightings of females with cubs 
+were made every year.  Sometimes it could be seen that both released females had bred 
+(JEFFERIES AND HANSON, 1988; RIDDING and SMITH, 1988).  Many records of breeding have 
+been catalogued in detail by JESSOP AND CHEYNE (1993) and STRACHAN AND JEFFERIES 
+(1996).  The Otter Trust had recorded 55 incidents of breeding from 36 of their release groups 
+and subsequent generations by the end of 1996 (WAYRE in GREEN, 1997). 
+ 
+ 
+7   MORTALITY 
+ 
+At the time of the first releases, e.g. Minsmere in 1985, the individuals, their breeding success 
+and their accidental deaths could be followed quite easily as they were the only otters in the 
+immediate area (JEFFERIES AND HANSON, 1988, 1991).  During these early years, when 55 had 
+been released up to 1993, the numbers of known casualties were low. JESSOP AND CHEYNE 
+(1993) and STRACHAN AND JEFFERIES (1996) listed six as traffic accidents (11%), two as fyke 
+net casualties (4%) and one due to fighting.  Later, when the population was starting to 
+recover and increase with merging of the releases and progeny of earlier releases, deaths could 
+not be attributed so easily to particular release groups unless a body was scanned with a 
+microchip reader and found to be positive.  We are aware of around 70 other otter deaths 
+(besides the above nine) in the whole release area (East Anglia & East Midlands) since the 
+start of the programme in 1983.  None were tagged.  All but four of these were caused by road 
+traffic accidents.  Two of the others were cubs seen floating down a flooded river and 
+drowned while the last two were senile.  It is likely that many or most of this 70 would have 
+been the progeny (F1, F2 and later generations) of the released animals.  Many recent bodies 
+have been analysed in respect to their DNA and in due course it is hoped that this work will 
+provide the concluding evidence.  Only five otter bodies have been recovered containing 
+microtransponder tags since 1993 (i.e. part of the original release stock) and all these were 
+from road casualties at different sites on the Upper Thames.  These all derive from the 1999 
+release of 17 otters to that area. 
+ 
+The problem of road traffic mortality, not only to release programmes but to the otter 
+population at large, is of much concern.  SHUTER (1996) has reported the rapidly increasing 
+incidence of road traffic accidents to otters in East Anglia.  These increases are indicative of a 
+rapidly increasing otter population (and so a successful release programme) as well as 
+increasing traffic density. 
+ 
+ 
+8   SUCCESS IN EAST ANGLIA 
+   
+ 
+The only real criterion for the success of any release programme is the measurable long-term 
+presence of breeding populations occupying the chosen release area with some expansion at 
+its conclusion over the Region as a whole.  There is no doubt that most of the released otters 
+have bred successfully and that nearly all of the chosen release sites are still occupied (some 
+after 21 years).  There are also the easily visible signs of expansion, particularly southwards 
+
+
+into Essex, which received few releases.  They may even have crossed the Thames estuary 
+into Kent. 
+ 
+8.1  Success in terms of percentage occupation of sites 
+The decline of the East Anglian otter population, the timing of its nadir and the extremely 
+rapid recovery can be followed for the counties of Norfolk, Suffolk and Essex with some 
+accuracy and in some detail.  This is due to a series of county spraint and bridge surveys 
+carried out by the Suffolk Naturalists Society, Essex University and the Otter Trust from 1969 
+to 1989 (WEST, 1975; MACDONALD AND MASON, 1976; CLAYTON AND JACKSON, 1981; 
+JESSOP, 1985; JESSOP AND MACGUIRE, 1990), the three national spraint surveys of 1977-79, 
+1984-86 and 1991-94 (LENTON, CHANIN AND JEFFERIES, 1980; STRACHAN ET AL., 1990; 
+STRACHAN AND JEFFERIES, 1996) and, more recently, the comprehensive surveys of the three 
+counties carried out in 1997 (BULLION, 1997; MACDONALD AND MASON, 1997; YAXLEY, 
+1997). 
+ 
+Together, these provide a remarkable series (Figure 1).  They show the decline in 
+Norfolk to the point in 1985 when in the national survey only one of Norfolk’s two positive 
+sites was of wild-born stock (on the River Wissey), whilst the other derived from the Otter 
+Trust’s release on the River Thet in 1984.  Thus, the Norfolk population had declined to 
+virtual extinction on the surveyed rivers by 1984-86. The following remarkably sudden and 
+rapid recovery from this low point to 34.0% occupation in 1997 can be seen quite clearly.  The 
+start of this recovery coincides with the start of releases. 
+ 
+In Suffolk, the Otter Trust’s bridge survey of 1984 showed no occupied sites in the 
+whole county at that date (JESSOP, 1985).  However, as with Norfolk, there followed a rapid 
+recovery to 21.8% occupation in 1997, the start of which again coincided with the release 
+scheme in that county. 
+ 
+No occupied sites were found in Essex in the 1984-86 national survey but by that of 
+1991-94 otter presence had risen to 10.4%, partly from the single release [4 otters to Hamford 
+Water in 1996 (JEFFERIES, WAYRE AND SHUTER, 2001)] and partly by movement across the 
+county border from Suffolk.  By 1997 occupation had risen to 35.1% over the whole county. 
+ 
+The fourth otter survey of England was carried out over 2000-2002 by 25 surveyors 
+and analysed by CRAWFORD (2003) in terms of percentage occupation of sites in the old 
+National Rivers Authority (NRA) Regions and in LEAP (Local Environment Agency Plan) 
+Areas.  The county percentage occupation data are not available but the high percentage 
+occupation of important LEAP areas strongly suggests that otter occupation was still 
+increasing in the East Anglian release areas into the 21st century.  Thus, the ‘Broadland 
+Rivers’ LEAP area on the Norfolk/Suffolk border showed 26/71 = 37% occupation (19% in 
+1991-1994) and the ‘East Suffolk’ LEAP area showed 24/60 = 40% occupation (17% in 1991-
+1994).  It should be remembered that the national survey only covered alternate 50 kilometre 
+squares of the national grid in each county, whereas the 1997 surveys covered the whole 
+counties and would give a greater degree of accuracy concerning the whole picture. 
+ 
+8.2  Success in terms of numbers present 
+A method of estimating numbers of otters inhabiting Regions and countries at various times in 
+the past was developed by DJJ using data from the national surveys (percentage site 
+occupation), the lengths of waterway available (HARRIS ET AL., 1995) and from radio-tracking 
+studies (minimum polygons/waterway lengths inhabited) (GREEN, GREEN AND JEFFERIES, 
+1984; JEFFERIES ET AL., 1986).  This has been detailed by JEFFERIES, STRACHAN AND 
+STRACHAN (2003b). Calculations made by using this method suggested that the total 
+population of adult otters in England was around 228, 359, 977 and 1600 in 1977-1979, 1984-
+
+
+1986, 1991-1994 and 2000-2002, respectively.  Similar calculations of the numbers of adult 
+otters present in the National Rivers Authority (NRA) Anglian Region (which includes 
+Norfolk, Suffolk and Essex, together with Lincolnshire and part of the East Midlands, 
+Cambridgeshire, Northamptonshire and Bedfordshire) at these dates suggested totals of 29, 
+decreasing to 12 in 1984-1986 (only 7 of these being ‘wild’ natives), increasing to 75 with 
+releases and then expanding to 241 by 2000-2002.  The calculated total of seven ‘wild’ otters 
+in the largest NRA Region of England (around 27,000 square kilometres and over 20% of the 
+country) shows how low the Anglian population had become before attempts were made to 
+reinforce it.  What was left was fragmented into a few well-separated ‘islands’ and was 
+obviously non-viable being too dispersed to make contact. 
+ 
+The total number of Otter Trust otters released to the old NRA Anglian Region 
+between 1983-1998 was 81, together with 16 rehabilitated otters from the Vincent Wildlife 
+Trust (VWT) (to Lincolnshire) in 1994 and 1995 and two otters from the RSPCA released to 
+north Essex in 2000, making 99 in all (JEFFERIES, WAYRE AND SHUTER, 2001; CRAWFORD, 
+2003).  If the possible seven original ‘wild’ otters are included from 1984, this would make 
+106 known otters multiplying by 2.27 to produce the calculated 241 otters in a median release 
+time of around eight years (1983 to 2000 divided by 2).  This may seem a very low and slow 
+return but it is actually slightly greater than that achieved by the recovering and re-occupying 
+‘wild’ population of the west.  Thus, the percentage occupation of survey sites (and so the area 
+occupied) in England approximately doubled every seven years between surveys; 5.8% to 
+9.7% to 23.4% between 1977-1979 to 1984-1986 to 1991-1994 (STRACHAN AND JEFFERIES, 
+1996).  Also, doubling the calculated 228 adult otters in England in 1977-1979 every seven 
+years to 456 (1984-1986), to 912 (1991-1994) and 1824 (1998-2000) again approximates to 
+the numbers actually calculated as being present.  It is possible that the recovery rate in 
+Anglian Region was slightly greater than in the west.  Indeed, the calculated Anglian 
+percentage of the national population increased from 7.7% to 15.1% of the total between 
+1991-1994 and 2000-2002.  The above similarities in the numbers, known and calculated, 
+increase confidence in the method used.   
+ 
+ 
+9   SUCCESS IN THE EAST MIDLANDS 
+ 
+The releases of 29 captive-bred otters to the East Midland counties of Rutland, 
+Northamptonshire, Bedfordshire and Cambridgeshire were made between the national otter 
+surveys of 1991-1994 and 2000-2002.  The subsequent changes in site occupation at the latter 
+survey were very marked.  Thus, occupation of sites in the Welland, Nene, Ely Ouse and 
+Bedford Ouse LEAPS increased from 1/26 to 16/26, from 5/24 to 14/24, from 10/30 to 14/30 
+and from 1/45 to 11/45, respectively (CRAWFORD, 2003).  Rivers like the Welland, Gwash and 
+Chater were occupied for the first time in three decades.  Overall, otter presence increased 
+from 17/125 sites (13.6% occupation) to 55/125 sites (44.0% occupation) that is over three 
+times the earlier level in only ten years, compared to the national increase from 22.1% to 
+34.2% occupation in the same time (CRAWFORD, 2003). 
+ 
+Areas immediately to the west of these newly occupied rivers are still empty of otters 
+so the increase could only have been generated by the released otters and the few relicts.  It is 
+likely that the release of otters to the adjacent counties to the main East Anglian release area, 
+albeit at a lower density, actually formed an integral part of that release programme.  It would 
+have contributed greatly to the success of the main project in that the presence of otters to the 
+west would have prevented the young otters bred in Norfolk, Suffolk and Essex from leaking 
+
+
+away in that direction.  It would have helped concentrate them where they could best increase 
+the occupation density in the east. 
+ 
+ 
+10   SUCCESS IN SOUTHERN ENGLAND 
+ 
+The small scale experimental placing or seeding of four release groups in the path of the 
+expanding ‘front’ has shown some sign of success.  Thus, the sudden increase in the rate of 
+recovery in part of Wessex Region between the national surveys of 1984-1986 and 1991-1994 
+appears to have been due to the addition of this stock (STRACHAN AND JEFFERIES, 1996).  As 
+the ‘front’ too ‘leapfrogs’ forward more than the usual 3.6km in a year, this is one of the few 
+working techniques for speeding up the ‘natural’ rate of reoccupation.  The released otters 
+could have been taken from behind the front to achieve this same increase in rate, rather than 
+captive-bred releases, thus eliminating any genetic changes. 
+ 
+ 
+11   THE VARIANT RELEASE OF REHABILITATED OTTERS TO NORTH EASTERN 
+ENGLAND BY THE VWT 
+ 
+As reported in the Introduction, the VWT release programme used rehabilitated otters rather 
+than captive-breeding.  Their main effort was concentrated in North Yorkshire, where 21 
+animals were released to the River Derwent and a further four to the River Esk between 1990 
+and 1993 (STRACHAN AND JEFFERIES, 1996; GREEN, 1997; CRAWFORD, 2003).  The whole 
+Yorkshire Region had been only 2.22% occupied at the national survey of 1984-1986.  This 
+increased to 10.37% in 1991-1994 during the period when the releases started and reached 
+23.94% in 2000-2002 (STRACHAN ET AL., 1990; STRACHAN AND JEFFERIES, 1996; CRAWFORD, 
+2003).  Detailed surveying of the whole area since the survey of 1991-1994 has shown that the 
+otters have now spread and colonised the whole 2,057 square kilometres of the River Derwent 
+Catchment and beyond.  The whole 42 kilometre length of the River Esk is also occupied 
+(WOODROFFE, 1996).  Otters have recently been seen swimming out of the Esk to sea at 
+Whitby Harbour and their occupation of the Esk LEAP area has increased from 3/25 sites 
+(12%) in 1991-1994 to 20/25 sites (80%) in 2000-2002 (CRAWFORD, 2003).  The improved 
+situation in the Derwent, and to a lesser extent the Esk, is probably wholly due to the VWT 
+restocking programme (STRACHAN AND JEFFERIES, 1996). 
+ 
+A further total of 16 rehabilitated otters were released by the VWT to the county of 
+Lincolnshire within the Anglian Region in 1994 and 1995 (GREEN, 1997; CRAWFORD, 2003).  
+Occupation of sites in the Louth Coastal LEAP area increased from 0/50 sites in 1991-1994 to 
+24/50 sites (48%) in 2000-2002 (CRAWFORD, 2003). 
+ 
+The source of these otters was largely Scotland, and again they were released at a 
+mean age of 18.3 months.  Considerable publicity and much searching produced only a few 
+bodies of microtransponder-tagged otters.  Two males were drowned in a single illegally set 
+fyke net in 1992 (WOODROFFE, 1993).  This is an easily avoided but common cause of death 
+(JEFFERIES, GREEN AND GREEN, 1984).  A female was killed in a road traffic accident.  A 
+fourth was the victim of trauma.  One plus point of releasing rehabilitated otters, of course, is 
+that it uses to advantage and returns otters to the field which otherwise would have died.  
+Concentrating their positions of release means that their environmental effect can be 
+maximised.  
+ 
+ 
+
+
+ 
+12    CONCLUSIONS 
+ 
+12.1  The national value of restocking and re-introduction of otters 
+The re-building of the East Anglian otter population by the Otter Trust in the 1980s and 1990s 
+ranks as one of the very few instances when the progeny from a captive breeding programme 
+have actually been released into the field as intended and successfully fulfilled the original 
+aims.  Indeed, the eminent ecologist Graeme Caughley wrote in 1994 that the Otter Trust 
+releases represent one of only five such captive breeding programmes successfully returning 
+an endangered species to the wild at that time. 
+ 
+There is no doubt that the Otter Trust bred otters were the instrument which re-built 
+the eastern population as there was nowhere else from which recruitment could have come.  
+The national surveys showed that the Midlands and Thames watershed were largely 
+unoccupied by otters in the mid 1980s.  The three independent surveyors for the 1996-97 
+Norfolk, Suffolk and Essex surveys agree with this in their reports (YAXLEY, 1997; BULLION, 
+1997; MACDONALD AND MASON, 1997).  Also, the rate of population expansion here was 
+much greater than in those areas which depended solely on local breeding of the few 
+remaining wild otters alone. 
+ 
+The full positive effect of the releases on the East Anglian otter population can be 
+measured by its comparison with the history of an area where releases have not been carried 
+out, i.e. Kent and Sussex in the south eastern ‘corner’ of Southern Region.  This area was in a 
+similar position to that of East Anglia at the time of the 1984-1986 survey.  Here, there is a 
+large gap between the very few occupied sites and the next ones at the far western end of the 
+Region.  So, natural recolonisation has not happened yet and is still unlikely for many years 
+despite the ‘crash’ having occurred 47 years ago! There were 3/169 (1.78%) occupied sites in 
+1984-1986 (STRACHAN ET AL., 1990) and still only 4/169 (2.37%) in 2000-2002 (CRAWFORD, 
+2003).  The number of occupied areas is probably the same as two of the four recent occupied 
+sites are close together making three widely dispersed occupied areas.  So, the situation, 
+unlike that of East Anglia, is poor and unchanged. As the two surveys are 16 years apart, 
+survival so far is surprising and in the long term doubtful.  The level of inbreeding must be 
+very high if there is more than one survivor per site. 
+ 
+In addition to the worthwhile conservation success in re-populating East Anglia we 
+have demonstrated that the technique works and it does not need vast numbers of otters.  It 
+can be held in reserve for the next time that the British population is threatened.  Nobody can 
+foresee when or from which direction such future problems may arrive.  One of the 
+conservation reasons for releasing otters is to hasten the end point of a recovered population.  
+While a population remains abnormally small, unevenly distributed and recovering as slowly 
+as that of the southern British otter population, it is vulnerable to any new negative factor such 
+as a disease epizootic.  The faster the population recovers the better. 
+ 
+With regard to the supposed problems of using this conservation tool it can be said of 
+the British experience that: 
+ 
+(1) Inbreeding in the captive-bred stock can be avoided and is much less than that 
+occurring in the field in the remnant population fragments (JEFFERIES, in press). 
+ 
+(2) No otters or their progeny were known to have died from environmental 
+contamination in any of these release programmes although many were post mortemed and 
+analysed (JEFFERIES, 1985; JEFFERIES AND HANSON, 1988, 1991, 2002). 
+ 
+(3) All the techniques used here involved prolonged maintenance of the release stock 
+in captivity to 18 months.  This allows a very long quarantine period which, together with 
+
+
+veterinary examination just before release, greatly reduces or eliminates the possibility of 
+introducing a communicable disease into the field. 
+ 
+(4) Road mortality is a serious problem in the ‘wild’ otter population of the west and 
+there is no indication that it is worse in the captive-bred and released otters. 
+ 
+12.2  A controversial subject 
+The above success was achieved against pressure from detractors, who said that releases 
+would not work and that the East Anglian rivers were still too polluted for otters to survive 
+and breed in the 1980s (MASON, 1991, 1992, 1995).  However, a long (from 1962 onwards) 
+series of analyses of British otter bodies for organochlorine insecticides and PCBs (JEFFERIES 
+AND HANSON, 2002) had shown a considerable decline in the levels of the most toxic 
+materials, aldrin and dieldrin, and that otter contamination with PCBs was lower in East 
+Anglia than anywhere else in Britain.  To check the potential pollution problem any otter 
+bodies found in the release area were analysed (JEFFERIES, 1985; JEFFERIES AND HANSON, 
+1988, 1991) as well as fish from the release site (JEFFERIES AND FREESTONE, 1985).  Much 
+past experience (DJJ) in the Nature Conservancy’s Toxic Chemicals and Wildlife Section 
+suggested that the levels found during the Otter Trust release programme were not going to be 
+detrimentally harmful to individuals or populations.  Indeed, the initial release had extra value 
+as a successful test ‘probe’ (Section 12.4). 
+   
+It was also said that otters from the south west and Wales would soon have moved 
+across Britain and re-populated the eastern counties ‘naturally’, so making the release scheme 
+unnecessary.  However, it should be remembered that when the project was first mooted, 
+planned and started, conservationists only had the results of the first, 1977-79, survey to hand 
+and this showed only a very small English population and no sign of recovery anywhere.  
+Also, local surveys showed clearly that the East Anglian population was still declining 
+rapidly.  By the time that the second national survey of 1984-86 was completed and analysed 
+and some recovery in the west was demonstrated, the Otter Trust release project had already 
+started and was shown to be successful in 1983.  By the time of the third national survey in 
+1991-94 we could see that the western breeding population was indeed moving eastwards, but 
+only at a rate of 3.6 km a year (STRACHAN AND JEFFERIES, 1996) and over a considerable 
+distance.  For example, the whole of Thames Region, to the south west of Anglian Region, 
+remained empty of otters until a few were shown to be present at the western end in 1992.  If 
+we had not released otters to East Anglia, that population would have disappeared in 1986 
+together with all traces of its original genetic constitution built up over millennia.  There could 
+still be no otters in Norfolk, Suffolk and Essex at the time of writing (2004). 
+ 
+12.3 The wider discussion 
+The subject of re-introductions, and even reinforcements, has always been a controversial one 
+for conservationists.  Should one do it or accept the loss, natural or not?  There has been much 
+discussion regarding the otter in western continental Europe (DE JONGH, 1998, REUTHER, 
+1998, KRANZ, 1999) where the decline, fragmentation and crash of some national populations 
+in the 20th century has perhaps been more severe than in Britain (MITCHELL-JONES ET AL., 
+1999; REUTHER ET AL., 2000).  The need for re-introduction exercises seems to us to be even 
+more obvious on the continent than it was in eastern England.  The very large gaps between 
+remnants, albeit large remnants, and the extremely slow rates of increase and re-occupation 
+(reference this paper and STRACHAN AND JEFFERIES, 1996) for the species render recovery of 
+its original distribution by natural expansion impossibly distant into the future.  The necessary 
+time could perhaps be measured more in centuries than decades.  True, the European otter is 
+perhaps no longer a “high priority” species (KRANZ, 1999) because of hard work in the past by 
+
+
+conservationists, and most of the continental “populations are large enough to survive without 
+having contact” (KRANZ, 1999), but where does one draw the line each time on the level of 
+depreciation which is acceptable.  The spectre of the next serious threat to the species 
+occurring long before full recovery from the last is ever present.  The stronger the population 
+at that point, the more likely is it to survive any new threat. 
+ 
+Perhaps a true ‘precautionary tale’ about the red squirrel (Sciurus vulgaris) may 
+illustrate the point.  This species became extinct in Ireland and southern Scotland by the early 
+18th century and became rare in the Scottish Highlands by the late 18th and early 19th centuries.  
+This was probably due to years of low seed yields becoming synchronised in important food 
+trees.  It was later re-introduced from England by early conservationists to ten sites in 
+Scotland between 1772 and 1782 and to ten sites in Ireland between 1815 and 1856.  The 
+species then became very abundant between 1890 and 1910 throughout the British Isles.  The 
+subsequent decline of the red squirrel population starting between 1910 and 1930 and the 
+gradual extinction over most of England and Wales during the mid to late 20th century is well 
+known (GURNELL, 1991).  Without the timely foresight of those pioneer re-introductionists 
+over 230 years ago the species and its British gene pool could have been completely lost to 
+Britain by now.  Could the conservationists of 2234 say the same of the continental otter? 
+ 
+One of the conservation reasons for releasing otters is to hasten the end point of a 
+recovered population.  While a population remains abnormally small, unevenly distributed 
+and recovering as slowly as that of the southern British otter population, it is vulnerable to any 
+new negative factor such as a disease epizootic.  The faster the population recovers the better. 
+ 
+In addition to this worthwhile success we have demonstrated that the technique works.  
+It is the only way, other than by releasing rehabilitated or captured animals, that much of 
+western and central Europe can be re-populated with otters.  Also, it can be held in reserve for 
+the next time that the British population is threatened.  No one body can foresee when or from 
+which direction future problems may arrive. 
+ 
+12.4  Secondary information gained 
+It is worthwhile noting that the Otter Trust release scheme and its results threw new light on 
+several interesting facets of otter biology and conservation: 
+ 
+(a) First, the initial release also acted incidentally as a test ‘probe’, as suggested by 
+CAUGHLEY (1984).  It showed, as early as 1983, that the rivers of Norfolk and Suffolk, 
+although still polluted, were even then clean enough to support otters again.  The only reason 
+they did not have any was that, because of the fragmentation of the remnant population, there 
+were no otters about to re-occupy them.  This was invaluable information to conservationists 
+at the time.   
+ 
+(b) Secondly, the release programme showed that the East Anglian population could 
+be re-built by the addition of only 52 individual otters over 14 years (1983 to 1996) (Table 1).  
+When we started this programme we did not know how many otters it might take to reinforce 
+and repopulate the three counties, which appeared almost empty at the time.  Indeed, Figure 1 
+shows that the turn round from decline to increase and a ‘healthy’ population had already been 
+reached as early as 1993 (11 years) with the addition of only 37 new animals.  This is a 
+remarkably small number and well below the number predicted to be necessary by detractors 
+of the programme.  The large effect of placing a mere 37 young otters into East Anglia over 
+11 years provides a useful insight into the potential effect of removing 123 adult otters over 
+only ten years, as occurred when the Eastern Counties Otter Hounds killed this number in 
+Norfolk and Suffolk out of a small and rapidly dwindling population between 1957 and 1966.  
+The 37 place this mortality in its correct perspective and add weight to the concern expressed 
+over the rapidly rising mortality from road traffic accidents (Section 12.5). 
+
+
+ 
+(c) In addition to its value for otter conservation the releasing of otters provided 
+valuable evidence of the side-effects of their absence and presence on Britain’s other native 
+and alien riparian fauna by acting as unplanned, natural experiments.  Earlier otter survey 
+results (STRACHAN AND JEFFERIES, 1996) had suggested that populations of introduced 
+American mink (Mustela vison) were reduced or eliminated by incoming otters. However, this 
+was demonstrated unequivocably by the insertion of eight otters to the River Nene and 
+tributaries in Northamptonshire (in the Otter Trust East Midland releases) over 1994 and 
+1995.  The sudden presence of a ‘ready-made’ high density riverine otter population in the 
+area caused an equally sudden disappearance of the mink population (JEFFERIES, STRACHAN 
+AND STRACHAN, 2000).  This was confirmed by a second release of an even larger group of 17 
+otters to the upper River Thames by the Otter Trust in 1999 (Section 5.4) (JEFFERIES, 
+STRACHAN AND STRACHAN, 2003a).  The reduction of the mink population is important 
+because this species is presently eliminating the remnants of the water vole (Arvicola 
+terrestris) population from British rivers by predation (STRACHAN AND JEFFERIES, 1993). 
+ 
+12.5  Road mortality losses 
+It is clear that road traffic accidents are the greatest cause of otter deaths today, though, of 
+course, these are the most easily found bodies.  Thus, the above (Section 7) known road 
+mortality of around 66 otters in the whole East Anglian and East Midlands release area during 
+the second half of the Otter Trust release programme suggests that their loss was the main 
+reason for the slow rate of population expansion experienced (i.e. x 2.27 in 8 years; Section 
+8.2) and emphasises the size of the problem. It is a problem, not only for any re-introduction 
+programme (it increases the numbers which have to be released) but for the recovery of the 
+otter population at large and is of much concern. 
+ 
+SHUTER (1996) has reported the increasing incidence of road traffic accidents to otters 
+in East Anglia.  This increase is an indicator of a rapidly increasing otter population (i.e. a 
+successful release project, as otters have to be there to be killed) as well as of increasing 
+traffic density.  However, there are worrying indications that as the otter density has increased 
+over the years in East Anglia then the proportion of the population killed on the roads appears 
+to have increased too.  Thus, only 4% (1/25 released up to 1993) of the early VWT releases in 
+North Yorkshire between 1990 and 1993 were road traffic victims (Section 11; STRACHAN 
+AND JEFFERIES, 1996) and 11% (6/55 released up to 1993) of the Otter Trust releases were 
+killed on the road in the first ten years to 1993 (Section 7).  After 1993, however, there was an 
+increasing annual mortality (SHUTER, 1996) leading to a total of around 66 (i.e. 70 - 4 other 
+causes) casualties in the overall Otter Trust East Anglia/East Midlands release area by 1999 
+(Section 7).  If this number is related to the estimated regional otter population of 241 by 2000 
+(Section 8.2; JEFFERIES, STRACHAN AND STRACHAN, 2003b) this makes a road mortality rate 
+of 27%.  By 1999 the release of 17 otters within a small area of the Upper Thames resulted in 
+29% casualties (5/17; Sections 7 & 5.4). 
+ 
+Is this increasing proportion simply a problem of traffic density increasing at a greater 
+rate than the otter population, or is there a secondary reason, i.e. perhaps otters moved about 
+less when their density was very low in the release area in the 1980s?  Perhaps greater otter 
+densities stimulate greater movement by the shifting of juveniles out of the natal area.  A 
+probable example of this resulting in a road casualty was seen in the Minsmere release area in 
+1990 (JEFFERIES AND HANSON, 1991).  Again, some support for this theory is provided by the 
+fact that there is a preponderance of males in otter road casualty data (MACDONALD, PHOLCOX 
+AND GROGAN, 1999; PAL, 2004) and males move more and greater distances than females 
+(GREEN, GREEN AND JEFFERIES, 1984). 
+
+
+ 
+Despite this high, and possibly increasing, road mortality the otter population is still 
+increasing, both in East Anglia (JEFFERIES, WAYRE AND SHUTER, 2001) and nationally 
+(JEFFERIES, STRACHAN AND STRACHAN, 2003b; CRAWFORD, 2003).  Whether this would still 
+be so if the proportion of the otter population dying on the road increases beyond a critical 
+level is not known.  A decreasing differential between otter road mortality and otter 
+productivity could be the reason for the lower than calculated (STRACHAN AND JEFFERIES, 
+1996) potential increase in site occupation between the 1991-1994 and 2000-2004 
+(CRAWFORD, 2003) surveys.  However, although large numbers of otters are killed on the 
+roads of Shetland, where they live at their highest densities in Britain, the population has 
+remained viable (J.W.H. CONROY, Personal communication).  
+ 
+Some support for the above worryingly high estimated road accident rates for otters is 
+given by the badger (Meles meles) in Britain, in which a rate of 20% (50,000 casualties/year) 
+was calculated for 1992 from a larger data base (HARRIS ET AL., 1992).  This mustelid too is 
+able to cope with this level of road casualties and still have a rapidly increasing population 
+(CRESSWELL, HARRIS AND JEFFERIES, 1990; WILSON, HARRIS AND MCLAREN, 1997).  
+However, wherever possible it would seem advisable to set otter re-introduction projects in 
+countryside with low road and traffic densities in order to maximise useful productivity in the 
+valuable early years of a release scheme.  This was the case for the first 1983 release in 
+Suffolk (Section 4) in which no known road casualties occurred and is still one of the most 
+successful recolonisation projects (JEFFERIES ET AL., 1986)  
+ 
+ 
+13   REFERENCES 
+ 
+BULLION, S. 1997. East Anglian Otter Survey: The Suffolk Rivers 1996-1997. Suffolk Wildlife Trust, The 
+Environment Agency, Ipswich. 
+CAUGHLEY, G. 1984. Directions in conservation biology. Journal of Animal Ecology, 63: 215-244. 
+CHANIN, P.R.F. & JEFFERIES, D.J. 1978. The decline of the otter Lutra lutra L. in Britain: an analysis of 
+hunting records and discussion of causes. Biological Journal of the Linnean Society, 10: 305-328. 
+CLAYTON, C.J. & JACKSON, M.J. 1981. Norfolk Otter Survey 1980-1981. Journal of the Otter Trust, 1 (4) 
+1980: 16-22. 
+CRAWFORD, A. 2003. Fourth Otter Survey of England 2000-2002. The Environment Agency, Bristol. 
+CRESSWELL, P., HARRIS, S. & JEFFERIES, D.J. 1990. The History, Distribution, Status and Habitat 
+Requirements of the Badger in Britain. Nature Conservancy Council, Peterborough. 
+DE JONGH, A.W.J.J. 1998. Re-introduction of otters - support or risk for otter conservation? IUCN Otter 
+Specialist Group Bulletin, 15: 80-86. 
+GREEN, R. 1997. Re-introduction of otters - a successful conservation strategy? IUCN Otter Specialist Group 
+Bulletin, 14: 62-74. 
+GREEN, J., GREEN, R. & JEFFERIES, D.J. 1984. A radio-tracking survey of otters Lutra lutra on a Perthshire 
+river system. Lutra, 27: 85-145. 
+GURNELL, J. 1991. Red Squirrel Sciurus vulgaris. In: The Handbook of British Mammals. [3rd edition] (Edited 
+by Corbet, G.B. & Harris, S.) Pp 177-186. Blackwell. Oxford. 
+HARRIS, S., CRESSWELL, W., REASON, P. & CRESSWELL, P. 1992. An integrated approach to monitoring 
+badger (Meles meles) population changes in Britain. In: Wildlife 2001: Populations. (Edited by McCullough, 
+D.R. & Barrett, R.H.) Pp 945-953. Elsevier Applied Science, London. 
+HARRIS, S., MORRIS, P., WRAY, S. & YALDEN, D. 1995. A Review of British Mammals: Estimates and 
+Conservation Status of British Mammals other than Cetaceans. Joint Nature Conservation Committee, 
+Peterborough. 
+JEFFERIES, D.J. 1984a. The otters return. Natural World, 11: 10-12. 
+JEFFERIES, D.J. 1984b. Otters update. Natural World, 12: 37. 
+JEFFERIES, D.J. 1985. An otter casualty from Breydon Water, Norfolk. Journal of the Otter Trust, 1 (8) 1984: 
+23-24. 
+JEFFERIES, D.J. 1989a. The changing otter population of Britain 1700-1989. Biological Journal of the Linnean 
+Society, 38: 61-69. 
+
+
+JEFFERIES, D.J. 1989b. Otters crossing watersheds. Journal of the Otter Trust, 2 (2) 1988: 17-19. 
+JEFFERIES, D.J. 1989c. Fragmentation of the English otter population and its effect on viability. Journal of the 
+Otter Trust, 2 (2) 1988: 20-22. 
+JEFFERIES, D.J. 1996. Decline and recovery of the otter - a personal account. British Wildlife, 7: 353-364. 
+JEFFERIES, D.J. in press. Rebuilding a wild population of the European otter by releasing captive-bred stock: Is 
+there a problem with inbreeding and outbreeding? Journal of the Otter Trust. 
+JEFFERIES, D.J. & FREESTONE, P. 1985. Chemical analysis of some coarse fish from a Suffolk river carried out 
+as part of the preparation for the first release of captive-bred otters. Journal of the Otter Trust, 1 (8) 1984: 17-22. 
+JEFFERIES, D.J., GREEN, J. & GREEN, R. 1984. Commercial Fish and Crustacean Traps: a Serious Cause of 
+Otter Lutra lutra (L.) Mortality in Britain and Europe. Vincent Wildlife Trust, London.   
+JEFFERIES, D.J. & HANSON, H.M. 1988. The Minsmere otter release and information gained from a detailed 
+examination and analysis of the two casualties. Journal of the Otter Trust, 2 (1) 1987: 19-29. 
+JEFFERIES, D.J. & HANSON, H.M. 1991. Evidence of fighting in a juvenile male otter road casualty bred from 
+the otters released at Minsmere in 1985 and 1987. Journal of the Otter Trust, 2 (4) 1990: 13-24.  
+JEFFERIES, D.J. & HANSON, H.M. 2002. The role of dieldrin in the decline of the otter (Lutra lutra) in Britain: 
+The Analytical data. In: The Proceedings of the First Otter Toxicology Conference, Skye, September 2000 
+(Edited by Conroy, J.W.H., Yoxon, P. & Gutleb, A.C.) International Otter Survival Fund, Broadford, Skye. 
+Journal of the International Otter Survival Fund, No. 1, 95-144. 
+JEFFERIES, D.J. & MITCHELL-JONES, A.J. 1982. Preliminary research for a release programme for the 
+European otter. Journal of the Otter Trust, 1 (5) 1981: 13-16. 
+JEFFERIES, D.J., STRACHAN, C. & STRACHAN, R. 2000. The water vole: marked changes in status in 
+Northamptonshire and Peterborough during the twentieth century. Wildlife of Northamptonshire and the Soke of 
+Peterborough, 1: 33-38. 
+JEFFERIES, D.J., STRACHAN, R. & STRACHAN, C. 2003a. Interactions between the three species. In: The Water 
+Vole and Mink Survey of Britain 1996-1998 with a History of the Long-term Changes in the Status of Both 
+Species and their Causes. (Edited by Jefferies, D.J.) Pp 165-187. The Vincent Wildlife Trust, Ledbury. 
+JEFFERIES, D.J., STRACHAN, C. & STRACHAN, R. 2003b.  Estimated numbers of the three interacting riparian 
+mammals in Britain using survey data. In: The Water Vole and Mink Survey of Britain 1996-1998 with a History 
+of the Long-term Changes in the Status of Both Species and their Causes. (Edited by Jefferies, D.J.)  Pp 188-
+199. The Vincent Wildlife Trust, Ledbury. 
+JEFFERIES, D.J. & WAYRE, P. 1984. Re-introduction to the wild of otters bred in captivity. Journal of the Otter 
+Trust, 1 (7) 1983: 20-22. 
+JEFFERIES, D.J., WAYRE, P., JESSOP, R.M., MITCHELL-JONES, A.J. & MEDD, R. 1985. The composition, age, 
+size and pre-release treatment of the groups of otters Lutra lutra used in the first releases of captive-bred stock in 
+England. Journal of the Otter Trust, 1 (8) 1984: 11-16. 
+JEFFERIES, D.J., WAYRE, P., JESSOP, R.M. & MITCHELL-JONES, A.J. 1986.  Reinforcing the native otter Lutra 
+lutra population in East Anglia: an analysis of the behaviour and range development of the first release group. 
+Mammal Review, 16: 65-79. 
+JEFFERIES, D.J., WAYRE, P. & SHUTER, R. 2001. A brief history of the Otter Trust’s successful programme of 
+repopulating lowland England with otters bred in captivity with a special emphasis on East Anglia. Journal of the 
+Otter Trust, 3 (4) 2000: 105-117. 
+JESSOP, R.M. 1985. Status and conservation of the otter in Norfolk and Suffolk. Norfolk Bird and Mammal 
+Report, 1984, 27: 144-149.   
+JESSOP, R.M. & CHEYNE, D.L. 1993. The re-introduction of the European otter Lutra lutra into lowland 
+England carried out by the Otter Trust 1983-1992: A progress report. In: Proceedings of the National Otter 
+Conference, Cambridge, September, 1992. (Edited by Morris, P.) Pp 12-16. The Mammal Society, Bristol. 
+JESSOP, R.M. & MACGUIRE, F. 1990. Norfolk Otter Survey 1988/89. Implications for the status of the otter. 
+Journal of the Otter Trust, 2 (3) 1989: 9-12. 
+KRANZ, A. 1999. Re-introduction of otters: A reply. IUCN Otter Specialist Group Bulletin, 16: 8-10. 
+LACY, R.C., PETRIC, A. & WARNEKE, M. 1993. Inbreeding and outbreeding in captive populations of wild 
+animal species. In: The Natural History of Inbreeding and Outbreeding. (Edited by Thornhill, N.W.) Pp 352-
+374. University of Chicago Press, Chicago. 
+LENTON, E.J., CHANIN, P.R.F. & JEFFERIES, D.J. 1980. Otter Survey of England 1977-79. Nature Conservancy 
+Council, London. 
+MACDONALD, D.W., PHILCOX, C.K. & GROGAN, A.  1999. Patterns of otter (Lutra lutra) road mortality in 
+Britain. Journal of Applied Ecology, 36: 748-762. 
+MACDONALD, S. & MASON, C.F. 1976. The status of the otter (Lutra lutra L.) in Norfolk. Biological 
+Conservation, 9: 199-124. 
+
+
+MACDONALD, S.M. & MASON, C.F. 1997.  Otter Survey of Essex: First and Second Reports. World Wide Fund 
+for Nature, London. 
+MACGUIRE, F.A.S. 1989. Analysis of spraints of the second group of otters re-introduced by the Otter Trust. 
+Journal of the Otter Trust, 2 (2) 1988: 8-10. 
+MASON, C.F. 1991. Otter re-introductions: does theory match practice? In: Proceedings of the Fifth 
+International Otter Colloquium, Hankensbüttel 1989. (Edited by Reuther, C. & Röchert, R.) Habitat, 6: 213-217. 
+MASON, C.F. 1992. Do otter releases make sense? The experience in Great Britain. In: Otterschutz in 
+Deutschland. (Edited by Reuther, C.), Habitat, 7: 157-161. 
+MASON, C.F. 1995. Impact of pollution on the European otter. Cahiers d’Ethologie, 15: 307-320. 
+MITCHELL-JONES, A.J., JEFFERIES, D.J., TWELVES, J., GREEN, J. & GREEN, R. 1984. A practical system of 
+tracking otters Lutra lutra using radio-telemetry and 65 Zn. Lutra, 27: 71-84. 
+MITCHELL-JONES, A.J., AMORI, G., BOGDANOWICZ, W., KRYSTUFEK, B., REIJNDERS, P.J.H., 
+SPITZENBERGER, F., STUBBE, M., THISSEN, J.B.M., VOHRALIK, V. & ZIMA, J. 1999. Atlas of European 
+Mammals. Academic Press, London. 
+O’CONNOR, F.B., CHANIN, P.R.F., JEFFERIES, D.J., JENKINS, D., NEAL, E., RUDGE, J., SANDS, T.S., WEIR, V. 
+& WOODS, M.S. 1979. Otters 1979: A Second Report of the Joint Otter Group. Society for the Promotion of 
+Nature Conservation, Nettleham, Lincoln. 
+PAL, G. 2004. Otterbook. Foundation for Otters, Budapest, Hungary. 
+REUTHER, C. 1998. Re-introduction of otters - support or risk for otter conservation? IUCN Otter Specialist 
+Group Bulletin, 15: 71-79. 
+REUTHER, C., DOLCH, D., GREEN, R., JAHRL, J., JEFFERIES, D., KREKEMEYER, A., KUCEROVA, M., 
+MADSEN, A.B., ROMANOWSKI, J., ROCHE, K., RUIZ-OLMO, J., TEUBNER, J. & TRINDADE, A. 2000. Surveying 
+and monitoring distribution and population trends of the Eurasian otter (Lutra lutra). Habitat, 12: 1-148. 
+RIDDING, M.O. & SMITH, H.D. 1988. Post-release monitoring of the second group of otters. Journal of the 
+Otter Trust, 2 (1) 1987: 30-36. 
+SHUTER, R. 1996. Road deaths as an indicator of the otter’s revival. Journal of the Otter Trust, 2 (9) 1995: 22-
+23. 
+SJÖÅSEN T. 1996. Survivorship of captive-bred and wild-caught re-introduced European otters Lutra lutra to 
+Sweden. Biological Conservation, 76: 161-165. 
+STRACHAN, R. & JEFFERIES, D.J. 1993. The Water Vole (Arvicola terrestris) in Britain 1989-1990: its 
+Distribution and Changing Status. The Vincent Wildlife Trust, London. 
+STRACHAN, R. & JEFFERIES, D.J. 1996. Otter Survey of England 1991-1994. The Vincent Wildlife Trust, 
+London. 
+STRACHAN, R., BIRKS, J.D.S., CHANIN, P.R.F. & JEFFERIES, D.J. 1990. Otter Survey of England 1984-1986. 
+Nature Conservancy Council, Peterborough. 
+WAYRE, P. 1989. Operation Otter. Chatto & Windus, London. 
+WAYRE, P. & WAYRE, J. 2000. The rescuing, rearing and rehabilitation of orphaned otters. Journal of the Otter 
+Trust, 3 (3) 1999: 81-86. 
+WEST, R.B. 1975. The Suffolk Otter Survey. Suffolk Natural History, 16 (6): 378-388. 
+WILSON, G., HARRIS, S. & MCLAREN, G. 1997. Changes in the British Badger Population 1988 to 1997. 
+Peoples Trust for Endangered Species, London. 
+WOODROFFE, G.L. 1993. Mammals. In: Wildlife Reports (Edited by Cleave, A.). British Wildlife, 5: 109-110. 
+WOODROFFE, G. 1996. Reinforcing the otter population in the Yorkshire Derwent - a preliminary report. 
+Internal Report to the Department of Biology, University of York. 
+YAXLEY, R. 1997. Report of the Norfolk Otter, Mink and Water Vole Survey. Norfolk Wildlife Trust, The 
+Environment Agency, Essex & Suffolk Water, Norwich. 
+ 
+ 
+ 

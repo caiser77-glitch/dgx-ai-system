@@ -1,0 +1,526 @@
+--- 
+source: DOLEV et al.pdf
+--- 
+
+ 
+1
+ISRAEL’S OTTER (LUTRA LUTRA) POPULATION - STATUS AND FUTURE 
+CONSERVATION 
+ 
+Amit DOLEV1, 2, Amichai GUTER1,3, David SALTZ2 & Noga KRONFELD-SCHOR3 
+ 
+1.  Israel Mammal Center, Society for the Protection of Nature in Israel, Hashfela 4, Tel Aviv,66183, Israel. 
+2. Mitrani Department for Desert Ecology, Jacob Blaustein Institute for Desert Research, Ben Gurion University 
+of The Negev, Israel. 
+3.  Department of Zoology, Tel Aviv University, Tel Aviv, Israel. 
+email: amit_dol@inter.net.il  
+ 
+ 
+Abstract. Until the middle of the 20th century otters were abundant in Israel on all coastal rivers extending from 
+the Lebanese border to the Tel Aviv area, as well as along the Jordan River basin from its source to the Dead 
+Sea. The Harod and the Yizrael Valleys served as a corridor between the Jordan River and the coastal plain 
+populations. However, during the 1960s the otter population underwent a dramatic decline due to illegal 
+hunting, water pollution, and the drainage of aboveground water sources.  
+The first surveys, conducted in the 1980s and 1990s, illustrated a stable population in the Hula and the 
+Harod Valley; no evidence of otters was found in the southern Jordan River, while along the coastal plain, 
+evidence of only a few individuals were found.  Little information about the current distribution of the otter 
+population in Israel has been published since then until a comprehensive survey was conducted in 2000-2001.  
+This was followed by increased research efforts in the following two years (2001-2003), including distribution 
+surveys every six months. These latest observations confirm that: 
+ 
+1. 
+Otters are present in aquatic habitats and fishponds in the Hula Valley, in the northern Jordan River 
+catchments and the Harod Valley.  
+2. 
+A single record from the Zvulun Valley and Carmel coastal area in 2000 suggests the existence of a 
+remnant population along the coast, which may become extinct. 
+3. 
+New findings have indicated previously undocumented otter activity in the Golan Heights.  
+4. 
+A landscape bottleneck between the Harod and Yisrael Valleys may act as a barrier and prevent the re-
+colonisation of the coastal region. 
+ 
+Keywords: Eurasian otter, Lutra lutra, conservation, population, Israel  
+ 
+ 
+1   INTRODUCTION 
+ 
+Until the middle of the 20th century, Eurasian otters (Lutra lutra) were abundant in Israel on 
+all coastal rivers extending from the Lebanese border in the north to the Soreq River in the 
+south (Tel Aviv area), as well as along the Jordan River basin from its sources to the Dead 
+Sea, including the Hula Lake and the Sea of Galilee.  The Harod and Yizrael Valleys served 
+as a corridor between the Jordan River catchments and the coastal plain populations.  During 
+the 1960s the otter population underwent a dramatic decline due to illegal hunting, water 
+pollution, and the drainage of aboveground water sources (MENDELSON AND YOM-TOV, 
+1999).  
+Since 1964, otters are fully protected in Israel by law, resulting in poaching and 
+culling becoming an insignificant threat.  Despite this legislation, the drastic decline in otter 
+numbers and continued degradation of otter habitats, increase the risk of isolating non-viable 
+sub-populations.  The regional status of the otter has recently been categorised as “Critically 
+Endangered” (DOLEV AND PEREVOLOTSKY, 2003). 
+The connection of the Israel otter population to other Eurasian otter populations 
+depends on continuous freshwater or wetlands areas. The distribution of this habitat in the 
+Middle East extends along the western regions of the Mediterranean Sea, but is limited by the 
+desert from the east and south.  Consequently, the Israeli otter population, with that of Jordan 
+
+
+ 
+2
+(along the Jordan River (REUTHER ET AL., 2000)), forms the south eastern border of the 
+Mediterranean-Arab range of the Eurasian otter.  The only possible connection of this 
+population to the wider European populations is along wetlands in Lebanon and western Syria 
+leading to the Turkish population.  
+Little information about the current distribution of the otter population in Israel has 
+been published since the first initial surveys performed in the 1980s (MACDONALD, MASON 
+AND SHALMON, 1986) and 1990s (SHALMON, 1994).  These surveys illustrated a stable otter 
+population in the Hula and Harod Valleys.  No evidence of otter presence, however, was 
+found along the Jordan River, south of Bet-She’an, to the Dead Sea.  Along the coastal plain, 
+evidence of only a very small population, in the Zvulun Valley (near Haifa) was found.  
+MACDONALD AND MASON (1986) summarised the otter’s situation as:  
+ 
+Virtually extirpated in the coastal regions. Good populations still exist in the river catchments, including Sea of 
+Galilee, but because almost the entire population is concentrated in the one system, it must be considered 
+threatened.  Within the system, otters occur in uplands, agricultural lowlands, and fish ponds. 
+ 
+An unpublished sequential survey from 1994 found no change along the Jordan River 
+catchments (SHALMON, 1994).  It assumed the coastal plain population to be extinct, and no 
+attempt was made to survey it.  
+An extensive survey, carried out in 2000 by the Mammals Research Centre of the 
+Society for the Protection of Nature in Israel, covered most of the historic otter ranges.  No 
+new trends were documented (DOLEV, 2000).  On a complimentary field trip later that year, 
+new findings from the coastal plain were reported (REUTHER AND DOLEV, 2000).  This survey 
+also marked the onset of increased research efforts of otters in Israel. 
+Over the last two years, distribution surveys were conducted every six months.  In this 
+paper we review the results of these surveys, and discuss the current situation of and prospects 
+for the otter population in Israel. 
+ 
+ 
+2   MATERIALS AND METHODS 
+ 
+2.1 Distribution 
+Monitoring the distribution and abundance of populations is of key importance in species 
+conservation.  Since otters are nocturnal and elusive, the distribution and abundance of their 
+population is difficult to determine (MASON AND MACDONALD, 1986).  
+Field surveys, based on a standardised methodology, can be replicated at intervals in 
+order to assess changes in distribution and status over time and compare the status of different 
+populations.  During 2001–2003, we conducted otter surveys in seven regions of northern 
+Israel (Figure 1) every six months, using a standardised methodology based on the use of 
+spraints (MASON AND MACDONALD, 1986).  
+ 
+On each occasion, 17-124 sites were surveyed in these seven regions (Figure 2), 
+totaling some 2000 km2 of wetland areas.  The survey areas included valleys and plateau 
+regions, rich with fishponds and water reservoirs.  Most of the streams along these regions 
+flow only during winter, but serve for otter movement and as sprainting sites year round.  The 
+connection between the regions consists, at most, of one narrow wetland corridor.  These 
+surveys served as the basic tool for identifying changes in otter distribution in Israel over the 
+years.  In addition, all available records of otter observations in Israel were collected.  
+Demographic, temporal and spatial patterns of otter distribution in the country are disc 
+ussed.  
+ 
+ 
+
+
+ 
+3
+ 
+ 
+ 
+Figure 1.  Seven regions studied 
+ 
+ 
+3   RESULTS 
+ 
+The results reflect the distribution of otters in each of the seven regions and indicate changes 
+in it during this period.  
+ 
+f. Coastal 
+plan 
+g. Yisrael 
+e. Zvulun
+d. Harod 
+c. Emek 
+Hayard
+b. Golan
+a. Hula
+
+
+ 
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.  Results from each of the seven regions studied showing negative and positive sites. 
+3.1 Hula Valley and upper Jordan River (Figure 2a)  
+This region is about 200 km2.  In each survey 9-22 sites were checked.  Of these, over 80% 
+were positive (average of four surveys with more than nine sites).  This is the best region for 
+otters in Israel today and includes large areas of fishponds, natural streams and canals, which 
+flow year round and are not subject to industrial pollution.  The origin of several streams in 
+1
+4
+2
+3
+5
+7
+3
+16
+0%
+20%
+40%
+60%
+80%
+100%
+May
+2000
+Oct 2000Oct 2001
+May
+2002
+Oct 2002
+May
+2003
+Golan Heights
+8
+1
+1
+3
+7
+2
+19
+2
+15
+7
+0%
+20%
+40%
+60%
+80%
+100%
+May
+2000
+Oct
+2000
+Oct
+2001
+May
+2002
+Oct
+2002
+May
+2003
+Hula valley
+Negetive
+Positive
+2
+4
+4
+5
+0%
+20%
+40%
+60%
+80%
+100%
+May
+2000
+Oct
+2000
+Oct
+2001
+May
+2002
+Oct
+2002
+May
+2003
+Zvulun valley
+6
+6
+6
+8
+4
+9
+4
+12
+18
+0%
+20%
+40%
+60%
+80%
+100%
+May
+2000
+Oct 2000Oct 2001
+May
+2002
+Oct 2002
+May
+2003
+Harod valley
+10
+1
+1
+1
+1
+7
+9
+14
+0%
+20%
+40%
+60%
+80%
+100%
+May
+2000
+Oct
+2000
+Oct
+2001
+May
+2002
+Oct
+2002
+May
+2003
+Yisrael valley
+7
+8
+1
+2
+8
+2
+2
+12
+12
+0%
+20%
+40%
+60%
+80%
+100%
+May
+2000
+Oct
+2000
+Oct
+2001
+May
+2002
+Oct
+2002
+May
+2003
+Emek Hayarden
+1
+2
+4
+6
+6
+10
+0%
+20%
+40%
+60%
+80%
+100%
+May
+2000
+Oct
+2000
+Oct
+2001
+May
+2002
+Oct
+2002
+May
+2003
+Coastal plain
+a
+d
+g 
+e
+f
+b
+c
+
+
+ 
+5
+the northern part of the Hula Valley is in Lebanon and hence it may serve as a possible 
+corridor to more northern populations. 
+ 
+ 
+3.2 Golan Heights (Figure 2b) 
+This region is about 800 km2.  There are 12 water reservoirs in this area, each of about 1 km2 
+and identified as potential otter habitat based on this characteristic.  In 2002, evidence of otter 
+activity was found in this area for the first time.  Thirty one percent of the 12-19 sites were 
+positive (average of two surveys with more than 12 sites).  Two road-kills were also reported.  
+About five streams can serve as corridors between the Golan Heights and the Hula valley and 
+the Sea of Galilee.  Another possible corridor may also connect this population to adjacent 
+populations in Syria and Jordan. 
+ 
+3.3 Sea of Galilee and the Jordan Valley (Figure 2c) 
+The Sea of Galilee is the biggest natural freshwater lake in Israel.  Otter occupancy was found 
+in all water inlets and in the outlet to the Jordan Valley, a narrow basin (up to one kilometre 
+width of wetland area) along almost 20 kilometres of the southern Jordan River.  Most of the 
+positive sites in this area (61.3% - average of three seasons with more than 10 sites surveyed) 
+were found around the lake.  The narrow Jordan Valley is the only corridor connecting to the 
+southern otter population of the Harod Valley. 
+ 
+3.4 Coastal area (Figure 2f) 
+This region, between Haifa and Tel Aviv, consists of about 400 km2 of wetlands, including 
+polluted rivers, fishponds and water reservoirs.  It seems a suitable area for otters.  However, 
+except for the otter field trip of October 2000, when we found spraints at two sites, we have 
+no evidence of otter occurrence there.  Also, there appears to be no potential connection to 
+other otter populations, except through the Mediterranean Sea to the Zvulun Valley in north 
+Israel, or to coastal regions in Lebanon. 
+ 
+3.5 Zvulun Valley (Figure 2e) 
+This region, along the northern coastline of Israel, covers about 110 km2 and includes 
+fishponds, one small wetland reserve and several heavily polluted rivers.  Otter observations 
+in this area were documented until the end of the 1980s.  However, no signs of otter activity 
+were found in the surveys.  Otter populations in this area could be connected to potential 
+northern populations along the Lebanese coast through the Mediterranean Sea. 
+ 
+3.6 Harod Valley (Figure 2d) 
+This area, the second most important region for otters in Israel, is about 190 km2, with many 
+fishponds, natural springs and canals.  About 63% of the sites were positive (average of four 
+surveys with more than 12 sites).  The western part of the Valley tapers and ends in a narrow 
+passage toward the Yisrael Valley. 
+ 
+3.7 Yisrael Valley (Figure 2g) 
+This region, of about 200 km2, lies between the Harod Valley and the coastal plain.  The 
+valley includes several fishponds and water reservoirs along the main streambed, which flows 
+seasonally. In this region, only two positive observations were made in 2000 and again in 
+2001 at the same site; no other positive records are known.  Furthermore, as far as is known, 
+there are no documentations (skulls, skins, or historical records) of otters from this area in the 
+20th century. 
+ 
+
+
+ 
+6
+4   DISCUSSION 
+ 
+Based on our study it is now clear that otters are present in aquatic habitats and fishponds in 
+the Hula Valley, the northern Jordan River catchments and the Harod Valley.  Otter activity in 
+fishponds represents an alternative to natural habitats, which have disappeared.  In several 
+regions, where only a few natural wetlands remain, otters can no longer find sufficient prey in 
+natural habitats and must rely on fishpond farms.  One record, from the coastal area in 2000, 
+suggests the occasional presence of some otters along the coast, which may become, or 
+already are, extinct.  We assumed a very small otter population existed there up to the end of 
+the 1970s.  It disappeared as a result of a synergistic effect of habitat destruction and isolation 
+from other otter populations (Lebanon coastal population, or Jordan valley population), along 
+with pollution of rivers and streams in this area.    
+Previously undocumented otter habitat was found in the Golan Heights.  These 
+findings may be of high importance, since they may indicate a connection between this 
+population and otters in Syria as well as in Jordan, and thus might serve as a connection 
+between the species in Israel and these northern populations. 
+It appears that the potential otter habitats in Israel are divided into two geographically 
+separated groups.  Four regions are concentrated in the eastern side of the country, mainly 
+along the Jordan River catchments, and still show stable otter activity.  The other three 
+regions are in the western part of Israel along the coastal plain, where otters were abundant in 
+the past but are apparently currently extinct or near extinction.  The only possible connection 
+between the Jordan Rift Valley in the east and the coastal area in the west is the Harod 
+Valley-Yisrael Valley corridor.  The overall size of wetland areas in the eastern part is 
+relatively small.  As a result, the carrying capacity of these regions is also low.  Furthermore, 
+it is unclear whether there is a connection between the population in Israel and other 
+populations in neighboring countries.  The otter population in Israel is therefore in serious 
+danger of isolation.  Population fragmentation is expected to reduce within population genetic 
+polymorphism and increase genetic differentiation.  Loss of polymorphism can reduce 
+potential for adaptation.  At very small sizes, the probability of inbreeding depression 
+increases and combined with reduced polymorphism may hasten the extinction of the 
+population.  Therefore, a minimum level of gene flow is considered important for the viability 
+of small, isolated populations.  
+One possible way to cope with this threat is to expand the otter distribution, thus 
+increasing the otter population size.  The only suitable unoccupied habitat is the one beyond 
+the bottleneck between Harod and Yisrael Valleys, which appears to prevent movement of 
+otters westward, towards the previously populated coastal plain.  It is currently unclear why 
+otters do not occupy or pass through this area.  Understanding what causes this invisible 
+barrier is essential for defining the appropriate mitigation that will enable the spread of the 
+otter population westward.  The distance between the two closest fishponds in these two 
+valleys is only five kilometres, with a narrow strip, about one kilometre in width, of moderate 
+terrain between them.  We suggest that an action aimed at improvement of the habitat in the 
+relevant area around this bottleneck and restoration of wetlands in Yisrael Valley, together 
+with translocation of otters from a remote healthy population, will contribute to the return of 
+otters to its former habitats in the western part of the country (i.e. the coastal plain), thus 
+strengthening the otter population in Israel in general.  Otters were extirpated from wide areas 
+of Europe during the second half of the 20th century.  In the last decade, a moderate return of 
+otters to former habitats was reported.  Recolonisation could be explained by restoration 
+efforts that lead to improvement in the conditions of those habitats (decrease in pollution, 
+poaching and habitat distraction) and by intensive translocations and re-introductions of otters 
+from healthy populations.  During the 1990s, several successful re-introduction projects were 
+
+
+ 
+7
+carried out in Europe; in Spain (SAAVEDRA, 2005), the UK (JEFFERIES ET AL. 2005), the 
+Netherlands (JANSMAN, LAMMERTSMA AND NIEWOLD, 2004), and the Czech Republic 
+(TOMAN, ROCHE AND ROCHE, 2005). 
+Such an action in Israel must be preceded by an intensive restoration project around 
+the release site and educational efforts among the local and the general public. We believe 
+that unless action is taken, otters will disappear from Israel’s landscape.   
+ 
+ 
+5   ACKNOWLEDGEMENTS 
+ 
+We would like to thank the Israel Nature and Parks Authority for their assistance. This work 
+was supported by the Israeli Ministry of the Environment. 
+ 
+ 
+6   REFERENCES 
+ 
+DOLEV, A. 2000. Otter Survey in Israel. Internal report for the Society for the Protection of Nature in Israel 
+(SPNI), Tel Aviv 11pp. [In Hebrew]. 
+DOLEV, A. & PEREVOLOTSKY, A. (Editors) 2003. The Red Data book of Threatened Vertebrates in Israel. 
+Israel Nature and National Parks Protection Authority and Society for the Protection of Nature in Israel Press, 
+Jerusalem. [In Hebrew. English version in press]. 
+JANSMAN, H., LAMMERTSMA, D. & NIEWOLD, F. 2005. Monitoring the re-introduction of the otter in the 
+Netherlands by telemetry and the genetical & hormonal analysis of spraints. In: Eurasian Otter Conference: The 
+Return of the Otter in Europe – Where and How? Sabhal Mor Ostaig, Isle of Skye, 30 June – 5 July 2003. 
+(Edited by Conroy, J.W.H., Yoxon, P., Gutleb, A.C. & Ruiz-Olmo, J) Pp.  xx-xx. International Otter Survival 
+Fund, Broadford, Isle of Skye  
+JEFFERIES, D.J., WAYRE, P., WAYRE, J. & SHUTER., R. 2004. Re-introductions as a tool in otter conservation. 
+In: Eurasian Otter Conference: The Return of the Otter in Europe – Where and How? Sabhal Mor Ostaig, Isle of 
+Skye, 30 June – 5 July 2003. (Edited by Conroy, J.W.H., Yoxon, P., Gutleb, A.C. & Ruiz-Olmo, J.) Pp.  xx-xx. 
+International Otter Survival Fund, Broadford, Isle of Skye. 
+MACDONALD, S.M., MASON, C.F. & SHALMON, B. 1986. A survey for otters in Israel. Oryx, 20: 233-236. 
+MASON, C.F. & MACDONALD S.M. 1986.  Otters: Ecology and Conservation. Cambridge University Press, 
+Cambridge. 
+MENDELSON, H. &YOM-TOV, Y. 1999. Fauna Palaestina Mammalia of Israel. Pp. 159-163. Keter Press, 
+Jerusalem. 
+REUTHER, C., RIFAI, L., QARCAS, M., ABU BAKER, M. & AMR, S.Z. 2000. Results of an initial field survey for 
+otters (Lutra lutra) in Jordan. IUCN Otter Specialist Group Bulletin, 17: 75-79. 
+REUTHER, C.  & DOLEV, A. 2000. New findings of otters (Lutra lutra) in Israel. IUCN Otter Specialist Group 
+Bulletin, 17: 80-82. 
+SAAVEDRA, D. 2004. Re-introduction of the otter in Spain. In: Eurasian Otter Conference: The Return of the 
+Otter in Europe – Where and How? Sabhal Mor Ostaig. Isle of Skye, 30 June – 5 July 2003. (Edited by Conroy, 
+J.W.H., Yoxon, P., Gutleb, A.C. &  Ruiz-Olmo, J.) Pp.  xx-xx. International Otter Survival Fund, Broadford, Isle 
+of Skye  
+SHALMON, B. 1994. Otter Survey in Israel. Internal report for the Society for the Protection of Nature in Israel 
+(SPNI), Tel Aviv, 4pp. [In Hebrew]. 
+TOMAN, A., ROCHE, M. & ROCHE, K. 2005. The introduction of otters (Lutra lutra) in the Czech Republic. In: 
+Eurasian Otter Conference:  The Return of the Otter in Europe – Where and How? Sabhal Mor Ostaig, Isle of 
+Skye, 30 June – 5 July 2003. (Edited by Conroy, J.W.H., Yoxon, P., Gutleb, A.C. & Ruiz-Olmo, J.) Pp.  xx-xx. 
+International Otter Survival Fund, Broadford, Isle of Skye 
+ 

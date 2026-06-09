@@ -1,0 +1,1394 @@
+--- 
+source: YOXON,P.pdf
+--- 
+
+ 
+ 
+ 
+1
+OTTER SURVEYS OF THE NORTH WEST SCOTTISH ISLANDS 
+ 
+Paul YOXON  
+ 
+International Otter Survival Fund, 7 Black Park, Broadford, Isle of Skye, IV49 9DE, Scotland, UK.  
+ email: yoxon@otter.org 
+ 
+Abstract.  Between 1995 and 2003 otter surveys were conducted on 11 islands off the north west coast of Scotland.  
+These located holts in a 100 metre wide strip along the coasts of these islands.  The information was then used to 
+calculate the total number of holts for each island and from that the adult otter population for each island was 
+calculated using the models based on studies in Skye and Shetland.  The diet of marine-foraging otters was 
+assessed from five of these islands using spraint analysis and compared with the diet of otters from other coastal 
+areas in Scotland.  With the exception of the free-swimming saithe, the diet was dominated by small benthic fish, 
+the five key prey species being viviparous blenny, five-bearded rockling, butterfish, sea scorpion and saithe.  
+ 
+Keywords: Eurasian otter, Lutra lutra, Scottish islands, diet, spraint, geology. 
+ 
+ 
+1  INTRODUCTION 
+ 
+Since 1995 the International Otter Survival Fund has undertaken surveys of Eurasian otters 
+(Lutra lutra) on a number of islands off the north west coast of Scotland.  Many, namely 
+Eigg, Muck, Canna, Pabay, Coll and Tiree, had not been surveyed in the National Otter 
+Surveys of Scotland undertaken in 1977-1979, 1984-1985 and 1991-1994 (GREEN AND 
+GREEN, 1980, 1987, 1997).  This paper looks at the otter populations on Skye, Raasay, Pabay, 
+Canna, Eigg, Castle, Muck, Coll, Tiree, South Uist and Barra (Figure 1) and examines the diet 
+of the species on these islands.  
+ 
+ 
+Figure 1:  Islands surveyed from 1995 to 2003 
+S. Uist
+Barra
+Skye
+Raasay
+Pabay
+Canna
+Muck
+Coll
+Tiree
+
+
+ 
+ 
+ 
+2
+2  METHODOLOGY 
+ 
+In Shetland, MOORHOUSE (1988) established a significant correlation between holt (den) and 
+otter numbers, enabling the number of holts to be used as an index for the number of otters 
+(KRUUK ET AL., 1989).  
+Similar significant correlations were found in extensive and intensive studies carried 
+out on Skye over a two year period, (YOXON, 1999).  The extensive study was undertaken on 
+60% of the Skye coastline, while the intensive study covered four smaller areas covering a 
+total of 30 kilometres. It may, therefore, be possible to use occupied holts to estimate otter 
+populations along the coastlines of Skye and the other islands off the west coast of Scotland.  
+For the surveys, each island was divided into 500 metre lengths measured at the high 
+water mark. Such distances are easily manageable for fieldwork, while generally long enough 
+to observe otter activity from a vantage point.  The following factors were examined:  
+ 
+1. 
+Otter observations 
+2. 
+Number of holts and lie-ups 
+3. 
+Number of freshwater pools    
+ 
+2.1 Otter observations 
+Observations, using 10 x 40 binoculars and a x30 telescope, were made from a vantage point 
+in each 500 metre section before a survey of the coastline for sprainting sites and freshwater 
+pools.  30 minutes was spent in each section. 
+ 
+2.2 Holts and Lie-ups 
+Holts:  Sites used by otters as holts are very variable and for the purpose of this study are defined 
+as tunnel systems with signs of regular use by otters (KRUUK ET AL., 1989). The evidence of use 
+consisted of tracks, flattened grass, fresh spraints and the characteristic odour in the holt. On 
+Skye, holts were found predominately in rock piles within 50 metres of the shore. If two holts 
+were more than ten metres apart they were considered separate. Holts are often very 
+conspicuous, with well-marked sprainting points and prominent green grassy areas as a result of 
+the nutrients in the spraint. 
+ 
+Lie-ups: Otters use resting places throughout their range. These are mostly hollows under 
+rocks or within reed/rush beds and usually have a path leading to them and a sprainting point 
+nearby.  
+ 
+2.3 Number of freshwater pools 
+A freshwater pool was defined as an area of standing water with a minimum width or length 
+of 0.5 metres and minimum depth of 0.1 metres. Personal observations indicated that otters do 
+not use smaller pools. All such freshwater pools were counted and measured and it became 
+evident that most, but not all, had sprainting points adjacent to them.  
+ 
+ 
+3  RESULTS 
+ 
+Table 1 details the survey information from the various islands visited.  The total time spent 
+on the surveys was 532 hours.   
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+3
+ 
+Table 1:  Islands surveyed for otters (1995-2003) 
+ 
+Island 
+Year surveyed 
+Number of 500m 
+sections surveyed 
+Percentage of total 
+coastline 
+Skye 
+1995 
+622 
+55% 
+Raasay and other 
+islands off Skye 
+1995 
+75 
+19% 
+Canna 
+1996 
+55 
+79% 
+South Uist 
+1999 
+152 
+45% 
+Pabay 
+2000 
+11 
+100% 
+Barra 
+2000 
+72 
+51% 
+Eigg 
+2001 
+39 
+78% 
+Castle, off Eigg 
+2001 
+6 
+100% 
+Muck 
+2001 
+22 
+100% 
+Coll 
+2002 
+73 
+44% 
+Tiree 
+2003 
+138 
+100% 
+ 
+ 
+3.1 Relationship between numbers of otters and holts 
+In his study, MOORHOUSE (1988) used two methods to identify otters:  individuals could be 
+recognised by characteristic patterns of white and yellow markings on the throat or lips; 
+secondly, 13 individuals were tagged with coloured ear-tags. In each month the number of ear-
+tagged and non ear-tagged otters was recorded and the number of otters present was calculated 
+from the ratio of the number of tagged animals and non-tagged animals (Lincoln index), 
+(SOUTHWOOD, 1966).  The number of occupied holts was then related to the number of resident 
+females and the number of resident females to the numbers males and transient otters. 
+ 
+On Skye, in four study areas it was possible over a 24 month period to identify 
+individuals, and relate this to the number of holts in use at a particular time.  These could be 
+recognised by characteristics such as pink patterns on the nose, "battle scars" (nicks out of ears, 
+scars in fur, etc) and females with cubs could be identified.  
+ 
+Counts were made of otter holts in use in a number of coastal areas on Skye (Figure 2).  
+It was assumed that a holt was in current use if recent spraints were found within 10 metres of 
+the entrance.  In addition to otter observations and other factors mentioned above, the geological 
+nature of the area was identified. 
+ 
+ 
+Four areas were intensively studied (Figure 2): 
+ 
+1. 
+Bogha an t-Sasunnaich to Ard Dorch:  18 kilometres of Torridonian and 
+Mesozoic coastline.   
+2. 
+Camas Malag to Boreraig:  8.5 kilometres of mostly Mesozoic coastline.   
+3. 
+Drumfearn:  4 kilometres of Torridonian coastline.   
+4. 
+Loch na Dal:  3.5 kilometres of Torridonian coastline.  
+ 
+ 
+Each coastal section was visited for a minimum of one hour every month throughout the 24 
+month period.  From April to October the four areas were visited on a weekly basis for a 
+minimum of two hours.  In view of the length of time spent in each section, we can be confident 
+that all the resident otters were counted correctly.  
+ 
+
+
+ 
+ 
+ 
+4
+ 
+Figure 2:  Map showing the four areas used in the intensive study 
+ 
+Certain assumptions are made in this estimate: 
+ 
+a) All holts were counted 
+b) All otters in each area were identified correctly 
+c) The sections sampled were representative of the Skye coastline 
+d) The ratio for the number of otters and number of holts was constant for all geological 
+coastal zones 
+e) The ratio of numbers of females, males, non-residents and cubs was constant 
+ 
+These assumptions and their implications will be discussed in Section 6.  
+ 
+3.3 Numbers of otters and holts 
+Figure 3 shows the relationship between occupied holts per resident female in the 100 metre 
+coastal strip in the four study areas of Torridonian and Mesozoic coastline compared with the 
+number of resident adult females there.  
+ 
+ 
+
+
+ 
+ 
+ 
+5
+ 
+Figure 3:  The relationship between holts per resident female otter range in the 100 metre coastal strip in the four 
+study areas of Torridonian and Mesozoic coastline compared with the number of resident adult females there. 
+ 
+A total of 21 holts were found, with, on average 45% in use at any one time.  There is a 
+strong positive correlation between the two parameters over the four study areas over the two 
+year period (r = 0.93, df = 47, p < 0.001).  These study areas were also used by adult resident 
+males, as well as other adult/juvenile otters.  Male ranges were larger than the resident females 
+and an estimate was made of how many would be present in the study areas.  The mean number 
+of otters and holts being used in each of the four study areas are shown in Table 2. 
+ 
+Table 2:  Mean numbers of otters and holts in the study areas 
+ 
+Area 
+Coastal 
+Length 
+Resident 
+Females 
+Cubs 
+Males 
+Other 
+Unknown * 
+Holts in 
+Use 
+1 
+18km 
+4.8±0.13 
+2.3±0.43 
+1.8±0.12 
+0.5±0.15 
+8.5±0.31 
+2 
+4.3km 
+2 
+1 
+0.7±0.21 
+0.5±0.22 
+4.5±0.22 
+3 
+4km 
+1.1±0.14 
+1.6±0.30 
+0.7±0.18 
+0.57±0.20 
+2.4±0.20 
+4 
+3.5km 
+1 
+0.75±0.13 
+0.25±0.12 
+0.5±0.19 
+1.7±0.25 
+Total 
+29.8km 
+8.9±0.27 
+5.7±0.86 
+3.5±0.63 
+2.1±0.76 
+17.1±0.98 
+ 
+*   Other unknown = mix of males and females whose sex could not be identified 
+ 
+ 
+The mean estimate for the total number of adult otters in all four areas is 14.5 ±1.99 (one 
+otter per 2.1 kilometres of coastline), 8.9 (61%) were resident females (0.52 females per holt), 
+3.5 (24%) resident males, and 2.1 transients. 
+ 
+3.4 Estimating otter numbers 
+Where possible, areas of a particular geological composition were compared with similar 
+areas on Skye. 
+The relationship on Shetland was found to be 0.33 females per holt and the  
+ 
+Total number of otters = 1.83 x number of resident females 
+
+
+ 
+ 
+ 
+6
+The relationship on Skye on four study areas over two years was found to be 0.52 
+females per holt and the  
+ 
+Total number of otters = 1.64 x resident females 
+ 
+Using these relationships an estimate can therefore be made for the otter populations 
+on the islands surveyed (Table 3).   
+ 
+Table 3:  Estimates of numbers of holts and adult otter numbers on the north west Scottish islands. 
+ 
+No 
+Island 
+Number of 
+holts counted 
+Estimate of total 
+holts for each 
+island 
+Estimated otter 
+population based 
+on Yoxon (1999) 
+Estimated otter 
+population based 
+on Kruuk (1995) 
+1 
+Skye 
+117 
+192.2 
+164 
+116 
+2 
+Raasay and 
+other islands 
+off Skye 
+11 
+102.9 
+88 
+62 
+3 
+Canna 
+3 
+3.8 
+3 
+2 
+4 
+South Uist 
+34 
+122 
+104 
+74 
+5 
+Pabay 
+5 
+5 * 
+4 
+3 
+6 
+Barra 
+10 
+27.2 
+23 
+16 
+7 
+Eigg 
+17 
+22 
+19 
+13 
+8 
+Castle 
+2 
+2 * 
+2 
+1 
+9 
+Muck 
+5 
+5 * 
+4 
+3 
+10 
+Coll 
+30 
+62.4 
+53 
+38 
+11 
+Tiree 
+9 
+9* 
+8 
+6 
+ 
+* These are actual holt numbers 
+Notes on islands: 
+ 
+1. 
+Skye:  A relationship existed between the geology of the coastline and the number of otter holts, (YOXON, 
+1999), (χ2  = 32.4, df = 6, p < 0.001).  The Torridonian coastline had the greater number of holts 1.25 per 
+500 metre section with the Tertiary intrusives and basalt having < 0.001 per 500 metre section. These were 
+taken into account when estimating total holt numbers. 
+2. 
+Raasay and other islands off Skye:  As 1 
+3. 
+Canna:  Composed of Tertiary basalt lavas 
+4. 
+South Uist:  Composed of Lewisian gneiss 
+5. 
+Pabay:  The whole island was surveyed and no estimate was made 
+6. 
+Barra:  Composed of Lewisian gneiss 
+7. 
+Eigg:  Again it varies in geology with Jurassic sediments and Tertiary lavas 
+8. 
+Castle Island:  All holts counted 
+9. 
+Muck:  All holts counted 
+10. 
+Coll:  Composed of Lewisian gneiss 
+11. 
+Tiree:  Composed of Lewisian gneiss 
+ 
+3.5 Otters and geology 
+The Isle of Skye was studied for many years and a strong relationship was found between the 
+geology of the coastal zone and otter activity (YOXON, 1999).  
+The island can be divided into seven geological zones, namely: 
+ 
+1. 
+Lewisian/Moine – old Pre-Cambrian rocks to the south of the island 
+2. 
+Torridonian – Pre-Cambrian sediments (mainly sandstones) in south Skye 
+3. 
+Cambrian – limestones and sandstones 
+4. 
+Mesozoics – sediments mainly limestones, sandstones, siltstones 
+5. 
+Tertiary lavas – lava flows to the north west of the island 
+
+
+ 
+ 
+ 
+7
+6. 
+Teriary intrusives – granites and gabbros in the centre of the island 
+7. 
+Landslips – to the north and west Skye 
+ 
+By comparing the variables in the seven geological coastal zones certain predictable 
+patterns emerged with more activity, holt numbers, sprainting points, spraint numbers and 
+freshwater pools being found on the Torridonian coastal zone compared with all others.  Both the 
+Tertiary lavas and Tertiary intrusive showed low numbers of each (Table 4). 
+ 
+Table 4:  Number of 500 metre sections surveyed in each geological coastal zone and the percentage of the total 
+coastal area covered by that particular geological type (Total Geology). 
+ 
+(Activity is number of times otters were observed in 30 minutes of observation in each 500 metre coastal zone.  
+Sprainting points, spraint numbers, holts and pools were found in a 100 metre wide strip along each section).  
+Results show the mean numbers per 500 metre coastal section with the standard error. 
+GEOLOGY 
+SECTIONS 
+SURVEYED 
+%  TOTAL 
+GEOLOGY 
+OTTERS 
+HOLTS 
+SPRAINT 
+POINTS 
+SPRAINTS 
+POOLS 
+LEWISIAN 
+71 
+74 
+0.03±0.02 
+0.13±0.05 
+0.98±0.20 
+2.30±0.71 
+0.42±0.14 
+TORRIDONIAN 
+84 
+62 
+0.23±0.07 
+0.45±0.08 
+2.5±0.28 
+6.3±0.56 
+1.36±0.16 
+CAMBRIAN 
+17 
+100 
+0 
+0.2±0.16 
+1.78±0.68 
+4.6±0.68 
+0.5±0.22 
+MESOZOIC 
+99 
+100 
+0.12±0.05 
+0.29±0.06 
+1.83±0.20 
+4.5±0.54 
+0.69±0.10 
+TERT LAVA 
+206 
+37 
+0 
+0.05±0.02 
+1.51±0.15 
+2.95±0.31 
+0.61±0.07 
+INTRUSIVE 
+104 
+98 
+0.02±0.01 
+0.07±0.03 
+1.11±0.2 
+2.72±0.39 
+0.47±0.10 
+LANDSLIP 
+41 
+21 
+0.05±0.03 
+0.34±0.01 
+2.39±0.45 
+4.49±0.72 
+0.73±0.21 
+ 
+ 
+ 
+Visual observations of otter activity were recorded as otters seen per hour in each 500 
+metre coastal section.  Table 5 shows the significant differences between the otter variables and 
+the geological coastal zones. 
+ 
+Table 5:  Chi-squared tests for the otter variables in relation to geology (*** = p<0.001, ** = p<0.05, ns = p>0.05).  
+The null hypothesis is that no difference in the otter variables between the geological coastal zones can be ascribed 
+to chance. 
+ 
+Variable 
+Χ 
+Df 
+P 
+Otter activity 
+29.1 
+6 
+*** 
+Holts 
+32.4 
+6 
+*** 
+Sprainting points 
+65.0 
+6 
+*** 
+Spraint numbers 
+83.4 
+6 
+*** 
+Freshwater pools 
+59.7 
+6 
+*** 
+ 
+ 
+The greatest number of otters seen was in the Torridonian coastal zone (2.2 otters per 
+hour observation) compared with none in the Tertiary lava and intrusive coastal zones.  Holt 
+numbers were also greater in the Torridonian zone, amounting to 1.3 holts per 500 metre section 
+compared with no holts in the sections surveyed in the Tertiary intrusive and lava coastal zones. 
+
+
+ 
+ 
+ 
+8
+Sprainting points were present in all zones from one per 500 metre section in the Tertiary 
+intrusive zone to six in the Torridonian zone.  Total spraint numbers was greatest in the Landslip 
+and Torridonian zone and lowest in the Tertiary intrusive. 
+ 
+The final variable was the number of freshwater pools available to the otters:  the greatest 
+number available was again found in the Torridonian zone (4.4 per 500 metre coastal section) 
+compared with none found in the Tertiary intrusive zone. 
+ 
+Overall therefore, the Torridonian coastal zone had the greatest number of all otter 
+variables and is the most favoured habitat for otters in this study area 
+ 
+ 
+4  DIET ANALYSIS USING SPRAINTS 
+ 
+In the coastal environment, spraints are found most frequently on rocky shorelines, on well-
+marked sites at the mouths of rivers, on otter runs or, at certain times of the year, at the 
+entrance to holts (CONROY AND FRENCH, 1985, 1987). The droppings add nitrogen to the 
+surrounding area making sprainting points very obvious: grassy areas tend to be very green 
+with a prominent growth of nitrophylous grasses. Rocks may be covered by green algae, and 
+some sprainting areas on the coast are without vegetation exposing soil as a result of the 
+continuous addition of urine (CONROY ET AL., 1993). 
+ 
+4.1  Analysis of spraints 
+Spraints were collected for analysis and stored in labelled plastic bags. In the laboratory, 
+mucus was removed by soaking for 48 hours in Co-op false teeth cleansing solution, and the 
+sample was then washed and passed through a 0.5 millimetre sieve. This method has been 
+used by many workers, including ERLINGE (1967, 1968), WATSON (1978) and BEJA (1995). 
+The bulk of the prey remains consisted of fish bones, with occasional bird feathers, 
+rabbit hair and small mammal bones. The prey was identified by comparing the fish vertebrae 
+with a reference collection and/or published keys (WATSON, 1978;  CONROY ET AL., 1993). 
+No method of expressing the results of spraint analysis describes the diet of otters 
+accurately (WISE ET AL., 1981; KYNE ET AL., 1989; ROWE-ROWE, 1977; JENKINS ET AL., 1980; 
+HEGGBERGET, 1993; CARSS, 1996).  However, the two most commonly used methods are 
+described by CONROY ET AL. (1993): 
+ 
+a) Percentage Frequency of Occurrence, where all the remains of each species in a spraint are 
+taken to represent only one specimen and its frequency is calculated as the number of times it 
+appears in all spraints in the sample.  It is calculated as: 
+ 
+Number of spraints containing a particular prey item      
+x 100 
+Total number of spraints in sample 
+ 
+b) Relative Frequency of Occurrence, where all the bones are identified in every spraint, and 
+the frequency of each species in that spraint determined. It is calculated as: 
+ 
+Number of occurrences of a prey in each spraint      
+x100 
+Total number of all prey items identified in the spraint 
+ 
+These methods, however, have important limitations, which will be considered in the 
+discussion. 
+
+
+ 
+ 
+ 
+9
+In this paper the results of spraint analysis are presented by Percentage Frequency of 
+Occurrence and are shown in Table 6.  To avoid any problems with seasonality all spraint and 
+survey work was undertaken in the months of July and August. 
+ 
+Table 6:  Occurrence of prey items in otter spraints collected, expressed as Percentage Frequency of Occurrence 
+ 
+PREY ITEMS 
+SKYE  
+PABAY 
+BARRA 
+EIGG 
+TIREE 
+COLL 
+N 
+1,480 
+15 
+20 
+139 
+12 
+20 
+Blenny-Viviparous 
+(Zoarces viviparus) 
+29.2 
+22.6 
+20.0 
+  5.0 
+32.0 
+23.0 
+Rockling 
+(Ciliata mustela) 
+18.1 
+19.2 
+23.2 
+12.0 
+15.3 
+23.0 
+Butterfish 
+(Pholis gunnellus) 
+10.0 
+  9.1 
+  8.5 
+12.0   
+14.5 
+10.2 
+Saithe 
+(Pollachius virens) 
+10.8 
+ 10.9 
+12.3 
+  2.0 
+  5.0 
+10.0 
+Sea Scorpion 
+(Myoxocephalus sp.) 
+ 5.5 
+  3.6 
+  2.4 
+11.0 
+  0.0 
+  5.2 
+Flatfish 
+(Pleuronectes sp.) 
+ 5.0 
+  6.4 
+12.0 
+15.0 
+  8.2 
+10.4 
+Common Eel 
+(Anguilla anguilla) 
+ 3.6 
+  4.3 
+  7.5 
+  5.0 
+13.1 
+  3.2 
+Shore Crab 
+(Carcinius maenas) 
+ 3.6 
+  2.7 
+  1.0 
+  9.0 
+  0.0 
+  2.0 
+Conger Eel 
+(Conger conger) 
+ 3.3 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+Sand Eel 
+(Ammodytes sp.) 
+ 2.2 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+  1.0 
+Sea Snail 
+(Liparis sp.) 
+ 1.3 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+Frog 
+(Rana temporaria) 
+ 1.3 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+Birds 
+ 1.1 
+  3.5 
+  1.6 
+18.0 
+  0.0 
+  3.4 
+Sea Stickleback 
+(Gasterosteus aculeatus) 
+ 1.1 
+  0.0 
+  0.0 
+  1.0 
+  0.0 
+  0.0 
+Angler 
+(Lophius piscatorius) 
+ 0.8 
+  0.0 
+  5.0 
+  0.0 
+  4.2 
+  0.0 
+Gobies 
+(Gobius sp.) 
+ 0.5 
+  0.0 
+  0.0 
+  1.0 
+  0.0 
+  0.0 
+Small mammals 
+(Sorex sp., Microtus sp., Apodemus) 
+ 0.9 
+  2.4 
+  6.4 
+  0.0 
+  0.0 
+  0.0 
+Sea Trout 
+(Salmo trutta) 
+ 0.7 
+  0.0 
+  0.1 
+  1.0 
+  0.0 
+  0.0 
+Lumpsucker 
+(Cyclopterus lumpus) 
+ 0.5 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+Rabbit 
+(Oryctolagus cuniculus) 
+ 0.0 
+ 6.5 
+  0.0 
+  8.0 
+  7.7 
+ 9.5 
+Unknown 
+ 0.5 
+  8.8 
+  0.0 
+  0.0 
+  0.0 
+  0.0 
+ 
+4.2  Comparisons with other studies 
+Studies of the diet of coastal otters have been undertaken in Shetland (KRUUK ET AL., 1987; 
+KRUUK AND MOORHOUSE, 1990) in Norway (HEGGBERGET AND MOEID, 1994), on Loch Broom 
+(MASON AND MACDONALD, 1980) on the Isle of Mull (WATT, 1995) and on the Isle of Eigg 
+(HODGSON, 2001).  The results are shown in Tables 7 and 8.  
+ 
+ 
+
+
+ 
+ 
+ 
+10
+Table 7:  Comparing principal prey taxa consumed by otters in four areas of Scotland and Norway.   
+ 
+Data from Skye and Mull are from spraint analysis using Percentage Frequency of Occurrence. Data from Norway 
+and Loch Broom were analysed using Relative Frequency of Occurrence.   Shetland data was from direct 
+observation. n = the number of spraints sampled, or for Shetland the number of prey identified.   The number in 
+brackets is the number of individual vertebrae. 
+ 
+ 
+SPECIES 
+Skye 
+Mull 
+Loch Broom 
+Shetland 
+Pabay 
+Barra 
+Eigg 
+Coll 
+Norway 
+N 
+Occurrences 
+1,480 
+(4,588) 
+958 
+50 
+2028 
+15 
+20 
+139 
+20 
+1074 
+Zoarces 
+viviparous 
+30.5 
+0 
+8.6 
+33.8 
+22.6 
+20 
+5 
+23 
+7.9 
+Chirolophis 
+ascan. 
+0 
+5.1 
+10.7 
+0.1 
+0 
+0 
+0 
+0 
+0 
+Gadidae 
+28.4 
+17.1 
+15.7 
+25.1 
+30.1 
+35.5 
+14 
+33 
+17.5 
+Pholis 
+gunnellus 
+10.8 
+25.8 
+11.4 
+9.9 
+9.1 
+8.5 
+12 
+12 
+12.4 
+Cottids 
+5.9 
+11.8 
+2.1 
+17.5 
+3.6 
+2.4 
+11 
+5.2 
+12.8 
+Flatfish 
+4.4 
+3.1 
+7.9 
+1.9 
+6.4 
+12.0 
+15 
+10.4 
+11.4 
+Anguilla 
+anguilla 
+3.5 
+7.3 
+8.6 
+0.2 
+4.3 
+7.5 
+5 
+3.2 
+1.6 
+Crab 
+3.5 
+7.3 
+17.9 
+0.2 
+5.8 
+1 
+9 
+2 
+1.6 
+Conger conger 
+3.3 
+0.2 
+0 
+0 
+2.4 
+0 
+0 
+0 
+0 
+Spinachia sp 
+0.8 
+0 
+2.1 
+0.2 
+1.7 
+0 
+1 
+0 
+7.7 
+Gobius sp 
+0.7 
+2.6 
+2.1 
+0 
+0 
+0 
+1 
+0 
+4.9 
+Salmonidae 
+0.5 
+0.1 
+2.1 
+0 
+0 
+0 
+0 
+0 
+2.0 
+Other 
+7.7 
+19.6 
+10.8 
+11.1 
+14.0 
+13.1 
+27 
+11.2 
+20.2 
+ 
+Spearman rank correlations were undertaken between these different areas and the results are shown in Table 8. 
+ 
+Table 8:  Spearman Rank Correlation Coefficients (rs) comparing data from Skye, Mull, Loch Broom, Shetland and 
+Norway. 
+ 
+ 
+ 
+Mull 
+Loch Broom 
+Shetland 
+Pabay 
+Barra 
+Eigg 
+Coll 
+Norway 
+Skye 
+Ns 
+** 
+*** 
+*** 
+*** 
+** 
+*** 
+* 
+Mull 
+ 
+Ns 
+Ns 
+Ns 
+Ns 
+* 
+Ns 
+Ns 
+L.Broom 
+ 
+ 
+* 
+** 
+* 
+* 
+** 
+Ns 
+Shetland 
+ 
+ 
+ 
+*** 
+*** 
+* 
+*** 
+** 
+Pabay 
+ 
+ 
+ 
+ 
+*** 
+** 
+*** 
+* 
+Barra 
+ 
+ 
+ 
+ 
+ 
+** 
+*** 
+* 
+Eigg 
+ 
+ 
+ 
+ 
+ 
+ 
+** 
+* 
+Coll 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* 
+ 
+ns=not significant (p>0.05), *=significant (p<0.05), **=highly significant (p<0.01),  ***=very highly significant 
+(p<0.001) 
+ 
+Significant correlations exist between most areas.  Small differences did occur with more rabbits 
+(Oryctolagus cuniculus) being eaten on Pabay and Eigg.   From personal observations, Pabay 
+and Eigg have a lot of rabbits, which are easily available to the otter. Eigg also had a high 
+proportion of gull remains in the spraint, accounting for 18% of the analysis.  Gulls are common 
+on Eigg (60 pairs of common gull (Larus canus), 40 pairs of lesser black backed gulls (Larus 
+fuscus), on Castle Island (just off Eigg), and 100 pairs of herring gulls (Larus argentatus) on 
+Eigg itself (CHESTER, 2000).  In late summer, young gulls will be especially easy prey for an 
+otter.   
+ 
+The study identified the importance of five key prey species [viviparous blenny 
+(Zoarces viviparus), five-bearded rockling (Ciliata mustela), butterfish (Pholis gunnellus), sea 
+scorpion (Taurulus bubalis) and saithe (Pollachius virens)], which dominate the otter’s diet 
+
+
+ 
+ 
+ 
+11
+on all the islands. Flatfish was also an important component of the diet on the islands of 
+Barra, Eigg and Coll. 
+Significant correlations can be seen between the data from Skye, Shetland and Norway 
+and from Shetland and Norway.  There was also a significant correlation between Mull and Loch 
+Broom. 
+ 
+Several differences have emerged in the composition of spraints between Skye and Mull, 
+with viviparous blenny dominating the diet on Skye, but being absent from the diet on Mull 
+(WATT, 1991) even though it is relatively common near the Marine Biological Station, Oban 
+(KOOP, 1987).  In fact, five-bearded rockling were taken in very much lower numbers on Mull 
+than on Skye, where they were one of the dominant prey species.  On Mull, butterfish dominated 
+the diet but were taken in much lower numbers in all the other study areas.  Despite these 
+differences, all these studies have in common that otters were feeding mostly on small benthic 
+prey.  This suggests that even within the food category 'fish', otters are highly selective foragers 
+specialising on easily caught prey species. 
+ 
+ 
+5  DISCUSSION 
+ 
+5.1  Otter population estimates 
+Based on the data, the estimated otter population for these islands has been achieved by working 
+out a relationship between resident females and active holts and a relationship between resident 
+females and other otters. The estimate is however likely to be an underestimate because of otters 
+living in inland freshwater systems.  From personal observations I have seen otters in Loch 
+Suardal, Loch Coruisk and other inland freshwater lochs on Skye.  However work undertaken on 
+freshwater systems on Skye showed that all spraints from freshwater lochs had evidence of 
+marine fish, indicating that otters using the freshwater systems are also utilising the coast 
+(GENTLE, 1999).  
+ 
+The results can be compared with those of KRUUK ET AL. (1989) who found 0.33 resident 
+females per holt and the total number of adult otters was 1.83 x the number of resident females.  
+They estimated the total number of adult otters on Shetland as 718, one otter per 1.2 kilometres 
+of coastline, a similar figure to that found in an earlier study on the islands (WATSON, 1978).   
+ 
+Despite the difficulties of estimating otter numbers and the errors due to the above 
+assumptions, I am confident that these results give a reasonable estimate of otter numbers on 
+these islands.  The figure is lower than that reported by HARRIS ET AL. (1999), who estimated 
+otter numbers of 1,000 for the west coast of Scotland and 1,200 for the Western Isles and 
+Orkney.  The data presented here estimate otter numbers to be much lower, with between 370-
+522 for the Western Isles and 268-380 for the Inner Hebrides.   
+ 
+5.2  Otters and geology 
+Until now, little was known about the relationship between otter utilisation of the coast and 
+geology.  
+ 
+On Shetland, MILNER (1975) categorised major coastal types and identified eight major 
+coastal types using 81 physical and 18 geological attributes.  CONROY AND FRENCH (1985) 
+classified the Shetland coast using over 200 attributes that were grouped into seven headings.  
+Still on Shetland, KRUUK (1989) grouped the coast into six types based on evidence from maps, 
+reports and prior knowledge of the area.  He found a strong relationship between numbers of 
+holts and peaty coasts with little agriculture and no high cliffs and a negative association between 
+holts and tall cliffs.  
+ 
+On Orkney, in sharp contrast to Shetland, there are relatively few otters (KRUUK, 1995).  
+This difference could possibly be attributed to distribution of prey species but it seems likely that 
+
+
+ 
+ 
+ 
+12
+Orkney shores are just as productive as those of Shetland. GREEN AND GREEN (1997) stated, "that 
+despite the productive nature of Orkney's fresh and coastal waters, the otter population was less 
+dense than those of other island regions or parts of mainland Scotland".  A more likely reason for 
+the difference is the geology of the Orkney coast, which makes it a less suitable habitat for otters. 
+The Torridonian sandstone on Skye is impervious and has very low porosity (TIM ASTIN, 
+Department of Geology, Reading University, personal communication), allowing freshwater 
+pools to build up readily on the coastal fringe.  By contrast, Devonian sandstone has a high 
+degree of porosity and permeability, and so it would be difficult for freshwater pools to build up 
+on these rock types in the same numbers as on the Torridonian sandstone.  The Orkney landscape 
+is composed of Devonian sandstone and is well drained with rich farmland.  The low density of 
+otters from Dunnett Head to the Moray Firth could equally be a consequence of the geology of 
+the coastal fringes, which also consist of Devonian sandstone. 
+ 
+5.3  Otter spraint analysis 
+5.3.1  Limitations of Data 
+The study was carried out over eight years from 1995 to 2003, in 11 Scottish islands.  The small 
+size of the mesh of the sieve used for the preparation of the spraint for analysis ensured that all 
+hard remains from commonly eaten prey were identified.   
+ 
+The problems of interpreting data from spraint analysis have been widely discussed in the 
+literature, and it appears that no single method provides a true picture of the importance of the 
+different constituents of the diet (ROWE-ROWE, 1977; WISE ET AL., 1981; KRUUK ET AL., 1993). 
+ 
+Percentage Frequency of Occurrence of prey remains is the most easily applied spraint 
+analysis method, and it has been used in numerous studies (MASON AND MACDONALD, 1986; 
+CARSS, 1996; BEJA, 1991).  However, there seems to be little agreement among authors on 
+precisely how to interpret the results.   
+ 
+ 
+ 
+The Percentage Frequency of Occurrence relies on the presence of undigested hard parts, 
+therefore both soft-bodied prey and large animals, where only the flesh is eaten, will leave no 
+remains in the spraints (PUTMAN, 1984).  Food which has a relatively large proportion of soft 
+material and hard parts of some prey which are broken up or digested will be under-estimated.  
+These methods will therefore only give an indication of what otters have eaten.  As different 
+types of fish have different numbers of bones (WHEELER, 1969), and some bones are more prone 
+to breakage than others (CASTEL, 1976), the relationship between the number of bones counted 
+and the number of fish consumed may be tenuous.  Overall, minor items will be over-estimated 
+and frequently occurring items under-estimated. While many authors accept these limitations, 
+most claim that it gives a reasonable picture of the diet quoting the feeding trials undertaken by 
+ERLINGE (1968).  Erlinge tested the accuracy of Percentage Frequency of Occurrence by giving 
+food of a known composition to captive otters.  Spraints from these otters were then collected 
+and analysed and the relative proportions of the prey categories eaten were in close agreement 
+with the frequency analysis.  However, his results were not tested statistically.  
+ 
+ROWE-ROWE (1977) suggested that the analysis of otter spraints calculated by frequency 
+gave a reasonably true picture of the relative importance of the food taken but he also did not test 
+this statistically.   
+ 
+KRUUK ET AL. (1993) showed similar results from four captive otters with a strong 
+correlation between the percentage of fish fed to the otters and the percentage frequency of 
+identifiable remains found in the spraints (r s= 0.9; p < 0.001).  CARSS (1996) also undertook 
+feeding trials on four captive otters and attempted to put confidence estimates on the analysis 
+of spraints using Percentage Frequency of Occurrence.  He found strong positive correlations 
+between the values obtained for each of the ten prey groups and their true proportions in the 
+diet, but found it gave a poor estimate of the true proportions of prey by number or biomass 
+for the ten prey groups.  (The methods over-estimated the true proportions by 5% to 2,900% 
+
+
+ 
+ 
+ 
+13
+and under-estimated by 12.5% to 50%).  He therefore concluded that for prey which does 
+leave remains, Percentage Frequency of Occurrence allowed dietary items to be ranked with a 
+high degree of accuracy, but gave poor estimates of the true percentage proportions of the 
+various prey groups in the diet.  CARSS (1996) also found that prey was over-estimated if 
+sequentially deposited spraints are collected regularly from frequently used sites. 
+ 
+The assumption that each occurrence of a prey item in different spraints represents a 
+single individual animal is not necessarily true;  CARSS (1996) found the remains of seven fish of 
+a similar size recorded in a single spraint and therefore spraints cannot be assumed to represent a 
+single prey item. 
+ 
+In Shetland, KRUUK AND MOORHOUSE (1990) used direct observations to assess the 
+diet of otters and their results showed close agreement with those undertaken by HERFST 
+(1984) using spraint analysis by Percentage Frequency of Occurrence.  The inaccuracies of 
+this method are therefore assumed to be acceptable within the aims and limitations of this 
+study.  
+ 
+Given these difficulties, Percentage Frequency Analysis has the advantage of being 
+relatively quick compared to more complex and not necessarily more accurate methods of 
+analysis. [Counting all vertebrae and volumetric analysis has not been found to be more accurate 
+(WATT, 1995)].  Any bias which does occur is likely to operate on all the samples equally.  Thus, 
+they should not effect conclusions with regard to seasonal and area-related trends within a taxon 
+(WISE ET AL., 1981) or comparisons with other studies using similar methods of analysis. A 
+further problem could be pseudo-replication whereby one meal contributes to a number of 
+spraints.  It is not inconceivable that some adjacent spraints may have come from the same meal.  
+However, this potential difficulty in statistical analysis has been ignored in this and previous 
+studies. 
+ 
+5.4  Comparisons with other studies 
+Studies of the diet of coastal otters have been undertaken in Shetland (KRUUK ET AL., 1987; 
+KRUUK AND MOORHOUSE, 1990), in Norway (HEGGBERGET AND MOSEID, 1994), on Loch 
+Broom (MASON AND MACDONALD, 1980), the Isle of Mull (WATT, 1995), and on the Isle of 
+Eigg (HODGSON, 2001).  These all show the importance of the same five key prey species 
+(viviparous blenny, five-bearded rockling, butterfish, sea scorpion and saithe) to the diet of 
+the otter population. 
+ 
+ 
+6  ACKNOWLEDGEMENTS 
+ 
+I would like to thank the following people who took part in the surveys over the years and 
+climbed boulders above and beyond the call of duty. Sara Calhim, Dick Collin, the late Alison 
+Collyer, Peter Collyer, Tim Corke, Liz Cornish, Vera Cranmer, Sherry Fuller, Lorraine 
+Gibson, Terry Gibson, Karen Goold, Alex Hardy, Helen Hardy, Margaret Hunter, the late 
+Margaret Hutchinson, Sara Jupp, Tracey King, Dawn Mannerings, Justine Millard, Ruth 
+Moffatt, Ray Morton, John Noorani, Alison Northeast, Clive Northeast, Andy Rothwell, 
+Sylvia Sadler, Mary Taylor, Ruth Thomson, Lisbeth Tuckey, Barbara Wild and Grace Yoxon. 
+ 
+ 
+7  REFERENCES  
+ 
+BEJA, P.R. 1995. Structure and seasonal fluctuations of rocky littoral fish assemblages in south west Portugal. 
+Journal of the Marine Biological Association UK, 75: 833-83 7. 
+CASTEL, R.W. 1976.  Fish remains in archaeology and palaeo-environment studies.  Academic Press.  London. 
+
+
+ 
+ 
+ 
+14
+CARSS, D.N. 1996. Errors associated with otter (Lutra lutra,) faecal analysis. Assessing general diet from 
+spraints. Journal of the Zoological Society, London, 238: 301-3 17. 
+CHESTER, J.  2000. Birds of Eigg Report 2000. Scottish Wildlife Trust. 
+CONROY, J.W.H. AND FRENCH, D.D. 1985. Monitoring otters in Shetland. Shell Oil Terminal Report. 
+CONROY, J.W.H. AND FRENCH, D.D. 1987. The use of spraints to monitor populations of otters (Lutra lutra). 
+Symposium of the Zoological Society of London, 58: 247-262. 
+CONROY, J.W.H., WATT, I., WEBB, J.B. AND JONES, A. 1993. A guide to the identification of prey in otter 
+spraint. Occasional publication  of the Mammal Society, London. 16. 
+ERLINGE, S. 1967. Home range of the otter (Lutra lutra) in southern Sweden. Oikos, 18: 379-97. 
+ERLINGE, S. 1968. Territoriality of the otter (Lutra lutra). Oikos, 19: 81-98. 
+GENTLE, M.E. 1999.  The diet of otters (Lutra lutra) in five freshwater areas on the Isle of Skye, north west 
+Scotland. BSc thesis University of East Anglia. 
+GREEN, J. AND GREEN, R. 1980. Otter Survey of Scotland 1977-1979. Vincent Wildlife Trust. London. 
+GREEN, J. AND GREEN, R. 1987. Otter Survey of Scotland 1984-1985. Vincent Wildlife Trust. London. 
+GREEN, J. AND GREEN, R. 1997. Otter Survey of Scotland 1991-1994. Vincent Wildlife Trust. London. 
+JENKINS, D., WALKER, J.G.K. AND MCCOWAN, D. 1979. Analysis of otter (Lutra lutra) faeces from Deeside, 
+north east Scotland. Journal of the Zoological Society of London, 187: 235-44. 
+HARRIS, S., MORRIS, P., WRAY, S. AND YALDEN, D. 1995. A review of British mammals:  population estimates 
+and conservation status of British mammals other than cetaceans. JNCC Peterborough. 
+HEGGBERGET, T.M. 1993. Marine feeding otters (Lutra lutra) in Norway: Seasonal variation in prey and 
+reproductive timing. Journal of the Marine Biological Association, 73: 297-312. 
+HEGGBERGET, T.M. AND MOSEID, K.E. 1994.  Prey selection of coastal otters (Lutra lutra).  Ecogeography, 17: 
+331-338. 
+HERFST, M.  1984.  Habitat and food of the otter (Lutra lutra) in Shetland.  Lutra, 25: 57-70. 
+HODGSON, K.  2001.  The diet of marine feeding otters (Lutra lutra) on the Isle of Eigg, north west Scotland. 
+BSc Thesis, University of Plymouth. 
+JOLLY, G.M. 1969. The treatment of errors in aerial counts of wildlife populations. East African Agriculture and 
+Forestry Journal, 34: 50-5 5. 
+KOOP, J.  1987.  Aspects of behaviour of marine fishes used by otters (Lutra lutra).  Marine Research 
+Laboratory, Dunstaffinage, by Oban. 
+KRUUK, H., CONROY, J.W.H. AND GILMERTON, U. 1986. The use of spraints to survey populations of otters, 
+(Lutra lutra). Biological Conservation, 35: 187-194. 
+KRUUK, H. AND CONROY, J.W.H. 1987. Surveying otter (Lutra lutra) populations; a discussion of problems 
+with spraints. Biological Conservation, 141: 179-183. 
+KRUUK, H., CONROY, J.W. H. AND MOORHOUSE, A. 1987. Seasonal, reproduction. mortality and food of otters 
+(Lutra lutra) in Shetland. Symposium of the Zoological Society of London, 58: 263-278. 
+KRUUK, H., MOORHOUSE, A., CONROY, J.W.H. AND DURBIN, L. 1989. An estimate of numbers and habitat 
+preferences of otters (Lutra lutra) in Shetland.  Biological Conservation, 49: 241-254. 
+KRUUK, H. AND MOORHOUSE, A.  1990.  Seasonal and spatial differences in food selection by otters (Lutra 
+lutra) in Shetland.  Journal of the Zoological Society of London, 221: 621-637. 
+KRUUK, H. CARRS, D.N, CONROY, J.W.H. AND DURBIN, L.  1993.  Otter (Lutra lutra) numbers and fish 
+productivity in rivers in north east Scotland.  Symposia of the Zoological Society of London, 65: 171-191 
+KYNE, M.J., SMALL, C.M. AND FAIRLEY, I.S. 1989. The food of otters (Lutra lutra) in the Irish midlands and a 
+comparison with that of mink (Mustela vison). Proceedings of the Royal Irish Academy, 89B: 33-46. 
+MASON, C.F. AND MACDONALD, S.M.  1980.  The winter diet of otters (Lutra lutra) on a Scottish sea loch.  
+Journal of the Zoological Society of London, 192, 555-561. 
+MILNER, C.  1975.  The coast of Shetland.  Institute of Terrestrial Ecology.  Banchory 
+MOORHOUSE, A. 1988. Distribution of holts and their utilisation by the European otter (Lutra lutra) in a marine 
+environment. MSc Thesis, University of Aberdeen. 
+PUTMAN, R.J.  1984.  Facts from faeces.  Mammal Review, 14, 79-97. 
+ROWE-ROWE, D.T. 1977. Food ecology of otters in Natal, South Africa. Oikos, 28:         210-219. 
+SOUTHWOOD, T.R.E. 1966. Ecological methods. Chapman and Hall, London and New York 
+STUBBS, M. 1977. Density dependence in the life cycles of animals and the importance in k and r strategies. 
+Journal of Animal Ecology, 46: 677-688. 
+WATT, J.P.  1991.  Prey selection of coastal otters (Lutra lutra) on the Isle of Mull.  PhD thesis, Aberdeen 
+University. 
+WATT, J.P.  1995.  Seasonal and area related variations in the diet of the otter (Lutra lutra) on Mull.  Journal of 
+the Zoological Society of London, 237: 179-184. 
+WATSON, H. 1978. Coastal otters (Lutra lutra) in Shetland. Vincent Wildlife Trust. London. 
+
+
+ 
+ 
+ 
+15
+WISE, M.H., LINN, I.J. AND KENNEDY, C.R. 1981. Comparisons of the feeding biology of mink (Mustela vison) 
+and otter (Lutra lutra). Journal of the Zoological Society of London, 195: 181-213. 
+YOXON, P. AND YOXON G.M. 1986.  Otter survey of the Isle of Canna.  IOSF publication. 
+YOXON, P.  1999. The effect of geology on the distribution of the Eurasian otter (Lutra lutra) on the Isle of 
+Skye. Phd Thesis, Open University, Milton Keynes. 
+YOXON, P. AND YOXON G. M. 1999.  Otter survey of Pabay. Isle of Pabay Web site 
+YOXON, P. AND YOXON G. M. 2000.  Otter Survey of Barra. IOSF publication. 
+YOXON, P. AND YOXON G. M. 2002.  Otter survey of Coll. IOSF publication. 
+YOXON, P. AND YOXON G. M. 2003.  Otter survey of Tiree. IOSF publication. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

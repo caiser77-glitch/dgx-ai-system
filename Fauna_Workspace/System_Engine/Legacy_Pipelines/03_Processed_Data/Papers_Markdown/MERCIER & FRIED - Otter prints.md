@@ -1,0 +1,360 @@
+--- 
+source: MERCIER & FRIED - Otter prints.pdf
+--- 
+
+PRELIMINARY STUDY OF OTTER (LUTRA LUTRA) PRINTS IN CAPTIVITY AS A 
+TOOL FOR FIELD RESEARCH 
+ 
+Laurent MERCIER1 and Guillaume FRIED 
+ 
+1 Otter Re-introduction Centre (Centre de réintroduction des cigognes et des loutres), route de Ribeauvillé, 68 
+150 Hunawihr, France 
+email:  loutremercier@hotmail.com 
+ 
+ 
+1   INTRODUCTION 
+ 
+If it is relatively easy to find otter indices, it is less obvious to individualise individual prints. 
+This could contribute to our knowledge of otter populations in terms of ratio of animals or the 
+size of territories. Nevertheless, prints can present different sizes depending on the way in 
+which the otter has pushed its paw into the ground (depending on its weight) and according to 
+the nature of the substrate. To examine this, an initial study was launched in the summer of 
+2003 at the Breeding Centre of Otter (Lutra lutra) at Hunawihr. 
+On the one hand, the aim of the study was to analyse the influence of the substrate on 
+print size, while on the other, it was interesting to find a non-invasive and easy protocol to 
+allow researchers to make conclusions on footprints in the field.  We hoped to obtain 
+significant information on the sex and the age of the otter. 
+ 
+ 
+2   MATERIAL AND METHODS 
+ 
+Measurements were carried out on captive otters from the breeding and re-introduction Centre 
+of Hunawihr. It is only at such breeding centres that precise and individual data can be 
+obtained. Nine individuals (5 males and 4 females) were involved in the study and 
+measurements were taken with a ruler on three types of substrate: snow, sand and mud. To 
+obtain suitable prints, large vats were placed in the ground containing each substrate regularly 
+humidified. They were placed in strategic places, where otters used to walk: along the fence, 
+near the holt, etc. 
+At the beginning of the study, forefeet and hind feet were measured, totalling 19 
+measurements per print (Figure 1). 
+ 
+- 
+total width and length 
+- 
+length and width of the plantar ball 
+- 
+length of fingers 
+- 
+interfingers distances 
+ 
+
+
+ 
+ 
+Figure 1. The 19 parameters measured for forefeet (FF) and hind feet (BF). 
+ 
+Finally, 128 prints were measured (Table 1).  
+ 
+Table 1.  Data relating to otter prints (origin of prints and its substrate) 
+ 
+Number of prints 
+Name 
+Date of birth 
+Sex 
+snow 
+mud 
+sand 
+TOTAL 
+Forefeet (F) or Hind feet (B) 
+F 
+B 
+F 
+B 
+F 
+B 
+F 
+B 
+Helvet 
+01.06.92 
+M 
+0 
+0 
+0 
+4 
+0 
+0 
+0 
+4 
+Héroïne  
+10.14.92 
+F 
+0 
+0 
+3 
+14 
+0 
+0 
+3 
+14 
+Lady 
+10.23.95 
+F 
+0 
+1 
+0 
+12 
+0 
+0 
+0 
+13 
+Maquette 
+08.22.99 
+F 
+0 
+3 
+6 
+15 
+0 
+8 
+6 
+26 
+Nautilus 
+09.07.97 
+M 
+0 
+6 
+13 
+16 
+0 
+2 
+13 
+24 
+Obélix  
+12.16.98 
+M 
+0 
+0 
+2 
+6 
+0 
+0 
+2 
+6 
+Orphée 
+12.16.98 
+F 
+0 
+5 
+0 
+4 
+0 
+0 
+0 
+9 
+Rex 
+09.10.88 
+M 
+0 
+7 
+0 
+0 
+0 
+0 
+0 
+7 
+Titus 
+or 
+Twister 
+04.14.02 
+M 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+1 
+TOTAL 
+0 
+22 
+24 
+72 
+0 
+10 
+24 
+104 
+ 
+For the analysis of individuals, the hind feet on mud were only used because they represented 
+the most important data (56.25% of the whole prints). 
+To check if a distinction between sexes or among individuals was possible, we used a 
+discriminanting analysis of measurements using STATISTICA software. For each individual 
+analysis we obtain a "classification function": 
+ 
+Y = bo + b1X1 + b2X2 + … + biXi 
+ 
+Where "X1, X2 … Xi" corresponds to the various measurements of the print in the 
+field and "b1, b2 …, bi" are the discriminant coefficients. "b0" is a constant delivered by the 
+software. 
+The aim of this preliminary study was to find a well adapted method for field 
+researchers. The statistical tool makes it possible to distinguish the most relevant parameters 
+among the 19 used (Table 2). 
+
+
+3   RESULTS AND DISCUSSION 
+ 
+3.1 Substrate influence 
+ 
+Having taken many measurements of prints on three different substrates, particularly for two 
+animals (Maquette and Nautilus), we could quantify the influence of soil on the individual 
+print dimensions. 
+The discriminant analysis showed that the dimensions were significantly different 
+among substrates (Maquette: P = 0.0012 < 0.05 and Nautilus: P < 10-4 < 0.05). With 
+important differences it is advisable to be extremely careful on the identification of the soil 
+and its humidity. 
+ 
+3.2 Sex determination 
+ 
+Lutra lutra has a well-marked sexual dimorphism. Through individual weights it is possible to 
+distinguish clearly the print of a male and female (P = 5.11E-19 < 0.05). The male hind foot has 
+an average length of 89.4 millemetres and the female 73.3 millimetres.  
+The discriminant analysis revealed the use of only seven parameters to estimate 
+differences between male and female. 
+ 
+Table 2.  Parameters conserved for the classification function. 
+ 
+Parameters used 
+Discriminating coefficients (b1,… bi) 
+ 
+Male 
+female 
+Total length 
+-10.2915888 
+-7.94367027 
+Total width 
+1.78856003 
+1.49818182 
+Ball width 
+-1.5458498 
+-1.19685888 
+Thumb length 
+1.67097378 
+1.34144676 
+Forefinger length 
+-1.23272276 
+-1.00010705 
+Middle finger length 
+15.5776567 
+12.5073814 
+Little finger length 
+1.52623034 
+1.15367424 
+Constant (b0) 
+-317.205353 
+-227.013809 
+ 
+These parameters included in the classification function gave good results, 97.22% of the 
+prints were accurately classified to the correct sex.  
+Finally, when a hind print is found in mud, the discriminant function given in the first 
+part of this paper with the included discriminanting coefficients given in Table 2 allows the 
+distinction between sexes.  
+To obtain the final result, you must calculate the difference between male and female 
+with their proper discriminant coefficients. The print would be attributed to a male when the 
+subtraction is positive and to a female when negative. The higher the absolute value is, the 
+more its significance.  For example ("number*" are the measurements of a print taken for 
+example): 
+ 
+Y (YM - YF) = [(72.5*-10.2915888) + (55.83*1.,78856003) + (32.17*-1.5458498) 
++ (54.00*1.67097378) + (67.33*-1.23272276) + (72.67*15.5776567) + 
+(56.00*1.52623034) – 317.205353] – [(72.5*-7.94367027) + (55.83*1.49818182) 
++ (32.17*-1.19685888) + (54.00*1.34144676) + (67.33*-1.00010705) + 
+(72.67*12.5073814) + (56.00*1.15367424) – 227.013809] = - 9.32724729 
+ 
+
+
+In this study case, the print belonged to a female. 
+On the one hand, when a track is discovered, the mean value of each parameter for 
+every print would give a more precise indication of the sex. On the other hand, when only one 
+print is found, it is less obvious to obtain a perfect result due to the quality of the print which 
+is rarely the same. 
+One more difficulty is to distinguish a young male from an old female. The Breeding 
+Centre of Hunawihr has no cubs younger than ten months old so it was not possible to 
+determine the age limit at which the distinction first appears. Nevertheless, with Titus and 
+Twister which were 15 months old during the study, we know that their prints had the same 
+sizes than older males (Total length = 82 mm). 
+ 
+3.3 Individualisation 
+ 
+HERTWECK et al. (1998) obtained positive results for the individual identification of prints 
+but it was only for snow tracks with sophisticated material (camera, expensive software…). 
+But here we wanted to know if it was possible to identify individual prints particularly on 
+mud with soft material. 
+The discriminant analysis among individuals of the Hunawihr Breeding Centre is 
+significant (p < 0.05) but this does not mean that each print found in the field could be 
+attributed to a specific individual. Also, only 91.67% of the prints were correctly identified 
+after testing. Figure 2 shows the canonical distribution and diversity of different prints for 
+each individual. 
+ 
+Helvet    
+Héroïne   
+Lady      
+Maquette  
+Nautilus  
+Obélix    
+Orphée    
+Racin1 vs. Racin2
+Racin1
+Racin2
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+ 
+ 
+Figure 2.  Canonical distribution of seven otters prints. 
+ 
+ 
+4   CONCLUSION 
+ 
+This biometrical study based on otter print analysis delivered good indications on sex and 
+weight of the individuals. On the other hand, the possibility of obtaining information allowing 
+individualisation is compromised. 
+
+
+The simple analysis of prints with a meter seems not to be sufficiently precise to 
+distinguish prints of different individuals. Even if 92% of the data were correctly classified, 
+8% of errors is a quite important percentage to promote a correct and precise otter population 
+follow-up.  
+The number of prints (4 to 16 per individual) and the number of individuals (4 females 
+and 3 males) studied were too limited so the results in this unique breeding Centre could 
+reflect genetical dispositions. 
+Nevertheless, it would be very interesting to prolong this study to other breeding 
+facilities. The development of this study and the increased level of sampling would surely 
+make the results more precise and harden the conclusions. 
+ 
+ 
+5   REFERENCES 
+ 
+BANG P. & DAHLSTRÖM P., 1972. Guide des Traces d’Animaux. Delachaux et Niestlé, Lausanne-Paris. 264p. 
+HERTWECK K., KLENKE R. &  HENLE K. 1998. Estimating the density of Otter (Lutra lutra) populations using 
+individual analysis of tracks. VIIth International Otter Colloquium, Trebon. IUCN Otter Specialist Group 
+Bulletin, 19A : 115-119. 
+ 

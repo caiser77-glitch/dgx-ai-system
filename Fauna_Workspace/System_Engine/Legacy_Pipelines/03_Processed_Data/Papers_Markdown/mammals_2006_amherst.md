@@ -1,0 +1,1309 @@
+--- 
+source: mammals_2006_amherst.pdf
+--- 
+
+ 
+ 
+ 
+Carnivore Talks 
+ 
+presented at 
+ 
+ 
+ 
+June 17-21, 2006 
+ 
+University of Massachusetts 
+Amherst, USA 
+
+
+Carnivore Talks - ASM 06 
+ 
+2
+ 
+(3) EVOLUTION AND DEVELOPMENT IN THE SPOTTED HYENA 
+Kay E. Holekamp, Zoology, Michigan State University, East Lansing, MI, USA, (KEH) 
+ 
+I will explore possible roles of external selection pressure and developmental constraint in 
+shaping the evolution of novel patterns of behavior in mammals. Spotted hyenas (Crocuta 
+crocuta) are long-lived, gregarious carnivores exhibiting a peculiar suite of traits that are sex-
+role reversed from mammalian norms; behaviorally, female Crocuta are more aggressive than, 
+and socially dominant to, males. Here I will describe how my colleagues and students and I 
+are testing two hypotheses suggesting explanations for the evolution of role-reversed behavior 
+in female Crocuta. The first hypothesis suggests that female dominance and aggressiveness 
+evolved to ensure adequate nutrition to lactating females and their dependent young during 
+intense contest competition over food. The second hypothesis suggests that, rather than 
+competition alone, a combination of two forces promoted the evolution of dominant, 
+aggressive females in Crocuta; one involved external selection pressure imposed by intensive 
+feeding competition as in the first hypothesis, and the other involved constraints imposed by 
+slow or prolonged development of the complex feeding apparatus found in Crocuta and other 
+bone-cracking hyenas. According to this second hypothesis, skull features that were superb 
+adaptations in a solitary ancestor for scavenging effectively from large carcasses currently 
+handicap young Crocuta during competitive feeding with conspecifics such that they need 
+unusually high levels of maternal aid to feed on both soft and hard foods long after weaning. 
+Thus aggressiveness and social dominance represent compensatory behavioral traits favored 
+in mothers when development of the skull in offspring is refractory to selection pressure 
+imposed by feeding competition. We are testing both these hypotheses with behavioral and 
+morphological data. We anticipate that this research will ultimately teach us a great deal about 
+the interaction of evolutionary forces promoting stasis with those promoting change. 
+ 
+ 
+ 
+(10) HOME RANGES AND ACTIVITY PATTERNS OF ENDANGERED DARWIN’S 
+FOXES AND THEIR SYMPATRIC CONGENERS IN THE NAHUELBUTA 
+MOUNTAINS, SOUTH-CENTRAL CHILE. 
+Elise McMahon, Veronica Farias & Todd K. Fuller, Organismic and Evolutionary Biology, 
+University of Massachusetts Amherst, Amherst, Massachusetts, USA, (EM), Natural 
+Resources Conservation, University of Massachusetts Amherst, Amherst, Massachusetts, 
+USA, (VF,TKF) 
+ 
+Three canid species occur in the Nahuelbuta Mountains of south central Chile. One of them, 
+the Darwin’s fox, (or chilote; Pseudalopex fulvipes), is endemic to and endangered in Chile, 
+and occurs in only one other location. The other two species, the grey fox (or chilla; P. 
+griseus), and the culpeo fox (P. culpaeus) are found throughout Chile and neighboring 
+countries. Because of the Darwin's fox's endangered status, we sought to identify differences 
+in species behaviors that allow for coexistence. Thus, from September 1998 to May 2002 we 
+gathered radio-telemetry data on the home ranges and activity patterns of 23 Darwin’s foxes, 
+17 chilla foxes and 3 culpeo foxes within the 6,800-ha Parque Nacional Nahuelbuta (PNN). 
+We plotted home ranges of both species on vegetation maps to estimate home range overlap 
+within and among species, and to differentiate habitat selection among species. Seasonal 
+activity patterns were estimated for comparison between species, sexes, and geographical 
+area, as well. Preliminary analyses from 5079 independent activity readings for the Darwin’s 
+fox indicate that this species is nocturnal with low levels of activity between 7:00 and 18:00. 
+
+
+Carnivore Talks - ASM 06 
+ 
+3
+Daytime activity for male and female Darwin’s fox increase during Fall/Winter. During 
+Fall/Winter, foxes whose home ranges include areas outside the PNN have a higher daytime 
+activity then those whose home ranges are restricted to PNN. Analyses of 3196 independent 
+activity readings for chilla foxes indicate that this species is active throughout the day and 
+night. Comparison of seasonal activity patterns indicates a drop in activity between 23:00 and 
+10:00 during Fall/Winter. Radio-collared culpeo foxes left the study area shortly after being 
+collared and were only relocated after death, which occurred far outside the park. We were 
+unable to determine home ranges and activity patterns for this species, but our findings 
+indicate that their use of the park is limited. 
+ 
+ 
+ 
+(17) THE EVOLUTION OF POST-CRANIAL ECOMORPHS IN THE MUSTELIDAE 
+Anthony R. Friscia, Sophie Gilbert, Klaus-Peter Koepfli & Blaire Van Valkenburgh, 
+Department of Ecology and Evolutionary Biology, University of California - Los Angeles, 
+Los Angeles, California, USA, (ARF,SG,KPK,BVV) 
+ 
+A recent, comprehensive, molecular-based phylogeny of the Mustelidae allows for the 
+mapping of ecological patterns within an evolutionary framework. The mustelids are a diverse 
+group of mammalian carnivores, especially post-cranially, including semi-fossorial (badgers), 
+arboreal (martens), terrestrial (wolverines) and aquatic taxa (otters), as well as elongate forms 
+with bounding gaits (weasels). This study investigated possible morphological correlates of 
+these locomotor styles by using a breadth of taxa across the mustelid family. The measures 
+included simple vertebral counts as well as ratios of post-cranial measures that were thought 
+to be functionally significant. Multivariate methods were used to explore these variables and 
+find those that were best correlated with the primary locomotor mode of the taxa. These 
+morphological indicators were then mapped to the phylogeny to determine the evolution of 
+these traits, including polarity of transformations and the incidence of convergence across the 
+family. Enhydra (the sea otter) is the most distinctive mustelid, with relatively long limbs, 
+although it does group with other otters (Lutrinae). Both species of Martes used in this study 
+(the fisher and the pine marten) do not group with other arboreal taxa, nor with their closest 
+relatives, but with the similarly elongate Mustela (weasels). The evolution of locomotory 
+styles is complex and driven both by phylogeny and ecology 
+ 
+ 
+ 
+(23) RANK-RELATED PARTNER CHOICE IN THE FISSION-FUSION SOCIETY IN 
+SOCIETY OF SPOTTED HYENAS 
+Jennifer E. Smith, Sandra K. Memenis & Kay E. Holekamp, Zoology, Michigan State 
+University, East Lansing, MI 48824, USA, (JES,SKM,KEH) 
+ 
+Biological market theory predicts that, when social partners vary in their relative value, 
+choosy individuals should compete for partnerships with highly valued partners. In contrast to 
+traditional optimality theory, it further predicts partner choice should be mutual because 
+traders match assortatively within the biological marketplace. Here we tested these 
+predictions in a wild population of spotted hyenas (Crocuta crocuta) in Kenya. Crocuta live in 
+complex, fission-fusion societies structured by dominance hierarchies in which individuals 
+vary greatly in their value as social companions. Because patterns of association among 
+Crocuta reflect social preferences, we calculated Association Indices (AIs) to examine how 
+social rank influences intrasexual partner choice among unrelated adult females. Highest-
+
+
+Carnivore Talks - ASM 06 
+ 
+4
+ranking females were generally most gregarious. Females associated most often with 
+dominant and adjacent-ranking females. Females joined subgroups based on the presence of 
+particular conspecifics such that subordinates joined focal females at higher rates than did 
+dominants. Dominants benefit from associations with subordinates by enjoying priority of 
+access to resources obtained and defended by multiple group members, but the benefits to 
+subordinates are unknown. To investigate this, we tested hypotheses suggesting how 
+subordinate females might benefit from these associations by being harassed less away from 
+food, better tolerated during feeding, and supported more often during coalitionary aggression 
+by the higher-ranking females with whom they associate most often. We found support for the 
+first two hypotheses, but not the third. Overall, our data resemble those documenting patterns 
+of association among cercopithecine primates, and support the predictions of biological 
+market theory. 
+ 
+ 
+ 
+(24) SEX, AGE AND SCENT IN THE SPOTTED HYENA 
+Kevin R. Theis, Anna L. Heckla & Kay E. Holekamp, Department of Zoology, Michigan 
+State University, East Lansing, Michigan, USA, (KRT,ALH,KEH) 
+ 
+An efficient communication system is a critical component of animal societies. In mammals, 
+communication is often achieved via chemical signals that may convey information about the 
+sender’s species, sex, age and individual identity, as well as social, reproductive and 
+motivational condition. Previous research on the functions of mammalian scent-marking has 
+often focused on marking by rodents, particularly adult males. Recent investigators have 
+stressed that the functions of scent-marking vary not only between species, but also among 
+age/sex classes within the same species. We investigated the functions of scent-marking 
+(‘pasting’) in the spotted hyena, Crocuta crocuta. Specifically, we addressed the hypotheses 
+that spotted hyena pasting functions in maintaining territories, advertising social status, male 
+sexual advertisement, communicating female reproductive state, and facilitating recognition 
+as a group member. We used naturalistic observational data to evaluate the social contexts in 
+which pasting occurred, and conducted scent discrimination experiments with free-living 
+hyenas in the Masai Mara National Reserve, Kenya. We confirm that pasting has a territorial 
+function. Our results also suggest that pasting functions in communicating social status for 
+adult males, although it does not appear to do so for adult females. We show that the 
+frequency of adult male pasting behavior is not a predictor of reproductive success, and that 
+adult females do not advertise sexual receptivity via pasting, although information about 
+female reproductive state is clearly available in paste. Additionally, we found that, in contrast 
+to captive female spotted hyenas, free-living adult females responded more strongly to scent 
+from other adult females than from adult males. Lastly, we discuss preliminary evidence 
+suggesting that frequent overmarking by spotted hyena cubs may facilitate their being 
+recognized as group members before they are widely known as individuals.  
+ 
+ 
+ 
+(27) AN EVALUATION OF THE CURRENT DISTRIBUTION AND CONSERVATION 
+STATUS OF THE EASTERN SPOTTED SKUNK (SPILOGALE PUTORIUS) IN KANSAS 
+Shannan K. Nilz & Elmer J. Finck, Department of Biological Sciences, Fort Hays State 
+University, Hays, Kansas, USA, (SKN,EJF) 
+ 
+
+
+Carnivore Talks - ASM 06 
+ 
+5
+The eastern spotted skunk (Spilogale putorius) historically was reported as abundant or 
+common throughout much of the central United States; however, three decades of population 
+declines and limited records of recent occurrence present a need to confirm the current 
+distribution and status of the species within the region. Our research focuses on the 
+conservation issues that pertain to the biology, status, and distribution of the eastern spotted 
+skunk in Kansas. At the onset of our research, our knowledge of the current distribution of the 
+species was limited by a small number of recent voucher specimens and unsolicited sighting 
+reports, which we used as a guideline for selecting our first field verification sites. In 2005, 
+we confirmed the presence of the eastern spotted skunk in Cherokee County in southeastern 
+Kansas, but failed to confirm the presence of the species at other locations within state. We 
+selected the Cherokee County study site based on a voucher specimen from the past year; 
+whereas, our other study sites were selected based on sighting reports from the past year. 
+Because our efforts to confirm the presence of the eastern spotted skunk in all but one of our 
+study areas were unsuccessful and study site selection was restricted to few widely separated 
+locations, we solicited additional sighting information from several target groups. We will use 
+the information from those reports for planning field verification sites and as a preliminary 
+indication of the current distribution of the species within the state. Additional field studies 
+are necessary to determine the distribution and population status of the eastern spotted skunk 
+in Kansas. 
+ 
+ 
+ 
+(41) PRESERVING A PIECE OF THE PRAIRIE: PARTNERSHIPS ARE KEY FOR SWIFT 
+FOX RESTORATION IN SOUTH DAKOTA 
+Francesca J. Ferrara, Kevin M. Honness, Shaun M. Grassel, Doug Albertson, Greg Schroeder 
+& Trudy M. Ecoffey, Biological Research Division, Oglala Sioux Parks and Recreation 
+Authority, Kyle, SD, USA, (FJF,TME), Swift Fox Restoration Project, Turner Endangered 
+Species Fund, Fort Pierre, SD, USA, (KMH), Department of Wildlife, Fish and Recreation , 
+Lower Brule Sioux Tribe, Lower Brule, SD, USA, (SMG), , Badlands National Park, Interior, 
+SD, USA, (DA,GS) 
+ 
+For several decades, the swift fox (Vulpes velox), has experienced population declines 
+throughout most of its range. Once numerous across western South Dakota, they are now 
+listed as state threatened. A coalition of projects including a private landowner, the National 
+Park Service (NPS), and two Native American Tribes are working independently, yet 
+cooperatively, to restore the swift fox. In 2002, the Turner Endangered Species Fund (TESF) 
+released the first cohort of 30 translocated swift fox. In 2003, the Badlands National Park 
+(BNP) followed suit. The Lower Brule Sioux Tribe (LBST) has plans to conduct their first 
+release in the fall of 2006. The Oglala Sioux Tribe (OST) is in the process of completing 
+surveys to determine population status and the feasibility of releases within their borders. As 
+individuals, each project has the potential to make a localized difference but together, 
+managing over 2.2 million acres, they form a stronger whole that completes a broader, 
+regional vision. As with many restoration projects, progress is often slow, yet important 
+scientific and social milestones have been reached. Scientific milestones include 
+documentation of second-generation foxes born in SD and confirmed dispersal between TESF 
+and BNP and remnant SD populations. Our research has provided insights into the success of 
+fox translocation techniques, patterns of fox dispersal, habitat selection, and has initiated four 
+related graduate student projects. Meanwhile, ongoing education outreach and one-on-one 
+landowner contacts have served to foster broad community awareness and support for swift 
+fox, widely considered one of the deciding factors for the success of restoration efforts. 
+
+
+Carnivore Talks - ASM 06 
+ 
+6
+Conserving native species and their attending landscapes increasingly need to be conducted 
+over large scales involving many partners. These efforts provide a valuable model on how 
+groups with diverse backgrounds, but shared values can make a conservation impact. 
+ 
+ 
+ 
+(49) DIETARY RECONSTRUCTION OF CREODONTS AND NICHE OVERLAP WITH 
+CARNIVORANS 
+Amanda C. Hitchcock, Eric W. Dewar & Margery C. Coombs, Department of Biology, 
+University of Massachusetts Amherst, Amherst, Massachusetts, USA, (ACH,MCC), Graduate 
+Program in Organismic and Evolutionary Biology, University of Massachusetts Amherst, 
+Amherst, Massachusetts, USA, (EWD) 
+ 
+Living carnivores fill a range of dietary niches. However, “carnivory” is a broad term that 
+masks a great deal of complex dietary variation. Identifying this kind of variation is important 
+to understanding the ecology and interactions of extinct species. In this study, low-
+magnification dental stereomicroscopy was used to reconstruct the dietary ecology of 
+creodonts, in order to learn about their biology and their place in fossil mammal communities. 
+Creodonts are members of a taxon that is the extinct sister group to the Order Carnivora. To 
+reconstruct diet, we compared the tooth wear of creodonts and fossil carnivorans to that of 
+modern carnivorans. We made more than 100 molds of teeth with high-quality impression 
+compound and used them to create epoxy resin casts which were examined under a 
+stereomicroscope in order to observe the wear features. The averages of these counts directly 
+reflect what an animal was chewing in its last days or weeks. Stereomicroscopy has proven to 
+be a valuable tool to distinguish between different kinds of herbivory in extinct ungulates and 
+primates, but had yet to be applied to creodonts. In this sample, we found a range of 
+carnivorous niches in all species. Didymictis (Carnivora, Viverravidae) had heavy pitting and 
+cross-scratching, which is associated with high amounts of grit or bone in the diet and with 
+complex chewing; however, it also had puncture-pits, indicative of fruit in the diet. 
+Hyaenodon (Creodonta, Hyaenodontidae) had intermediate levels of pitting and little to no 
+cross-scratching, indicating mostly meat and bone with little variability in chewing stroke. 
+Hesperocyon (Carnivora, Canidae) had the softest diet, with the lowest pitting and moderate 
+cross-scratching. 
+ 
+ 
+ 
+(54) ACTIVITY PATTERNS OF TWO SYMPATRIC SKUNK SPECIES (MEPHITIS 
+MEPHITIS AND SPILOGALE GRACILIS) IN TEXAS 
+Sean A. Neiswenter & Robert C. Dowler, Department of Biological Sciences, University of 
+Nevada, Las Vegas, Las Vegas, NV, (SAN), Department of Biology, Angelo State University, 
+San Angelo, TX, (RCD) 
+ 
+We used telemetry data to document and compare activity and movement patterns between 
+Spilogale gracilis, the western spotted skunk, and Mephitis mephitis, the striped skunk, in 
+west-central Texas. Mephitis mephitis had a higher rate of movement than S. gracilis. Both 
+species had highest movement rates during fall, coinciding with dispersal of young. With the 
+exception of summer, M. mephitis was significantly more active than S. gracilis and generally 
+took shorter breaks during nightly activity. We documented statistical differences in activity 
+patterns between the species for all seasons. The height in activity of one species occurred 
+during the lowest activity of the other species, which may indicate avoidance of one species 
+
+
+Carnivore Talks - ASM 06 
+ 
+7
+by the other. Spilogale gracilis may forage for shorter times due to increased foraging 
+efficiency and smaller body size. 
+ 
+ 
+ 
+(59) A SHOT IN THE DARK: THE SEARCH FOR ACCURACY IN ESTIMATING SNOW 
+LEOPARD ABUNDANCE 
+Kyle P. McCarthy, Todd K. Fuller, Thomas M. McCarthy & Ma Ming, Department of Natural 
+Resources Conservation, University of Massachusetts Amherst, Amherst, Massachusetts, 
+USA, (KPM,TKF), , International Snow Leopard Trust, Seattle, Washington, USA, (TMM), 
+Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Xinjiang, 
+Urumqi, China, (MM) 
+ 
+Snow leopards (Uncia uncia) are an important cultural symbol and ecological component of 
+the Central Asian Mountains, but habitat loss, poaching, and retribution killing continue to 
+threaten their survival. Snow leopards’ legendary camouflage and secretive nature historically 
+have made their populations difficult to monitor, and conservation efforts are in need of 
+dependable methods to estimate abundance. Here we assess the concordance of three methods 
+for estimating snow leopard population size: camera capture-recapture estimates, standardized 
+sign surveys, and predator-prey biomass ratios. Camera traps were used to capture 32, 12, and 
+1 snow leopard images, respectively, in three areas of varying environmental conditions in the 
+Tien Shan Mountains of Kyrgyzstan and China. We identified individual snow leopards in 
+photos by their unique pelage patterns and estimated population abundance using a capture-
+recapture statistical model. Densities in two study sites were 1.6 and 1.9 individuals/100 km2, 
+and in the third study site one capture event limited our results to a minimum density of 0.2 
+individuals/100 km2. Average amounts of snow leopard sign (scats and/or scrapes) varied 
+substantially (16-95/km searched), as did concurrent ibex (Capra ibex) counts used to 
+estimate available ibex biomass (766-9,196 kg/100 km2) and thus potential snow leopard 
+abundance (0.1-0.9/100 km2) ; however, neither estimator correlated with photo-trap 
+estimates or with each other. Variance due to low capture rates, biased sign observations, 
+limited sample size, or unknown environmental circumstances may have led to these 
+inconsistent and unexpected results. Regardless of the reason, our results give no indication 
+that any one of these three methods is accurate under short timeframes and standard operating 
+conditions. 
+ 
+ 
+ 
+(70) REMOVAL OF MAMMALIAN PREDATORS REDUCES PREDATION RATE ON 
+ARTIFICIAL BEACH-NESTS ON THE VIRGINIA BARRIER ISLANDS 
+Raymond D. Dueser, Joel D. Martin, John H. Porter & Nancy D. Moncrief, Dept. of Wildland 
+Resources, Utah State University, Logan, UT 84322, (RDD, JDM), Dept. of Environmental 
+Sciences, University of Virginia, Charlottesville, VA 22903, (JHP), Virginia Museum of 
+Natural History, 1001 Douglas Ave. , Martinsville, VA 24112 , (NDM) 
+ 
+Do islands on which mammalian predators have been reduced provide more secure beach-
+nesting habitat than untreated islands? Does predation management reduce overall “predation 
+intensity” on the eggs of beach-nesting birds? We ran a study to estimate “predation intensity” 
+on eggs in artificial beach nests (scrapes) on two of the Virginia (U.S.A.) barrier islands. We 
+compared predation intensity on scrapes on (1) predator-removal (Metompkin) and control 
+(Parramore) islands in August 2003 and (2) on Parramore Island before (2003) and after 
+
+
+Carnivore Talks - ASM 06 
+ 
+8
+(June-July 2004) an intensive predator removal campaign. On each island, we established 100 
+artificial scrapes at randomly-selected points along a 4-km transect oriented parallel to the 
+beach face and located above the high tide line. Each scrape was stocked with a “clutch” of 2 
+eggs, including 1 Japanese quail egg and 1 clay (Plasticene) egg. Each nest was monitored 
+and restocked daily for 4 days. Metompkin was thought to be free of raccoons (Procyon lotor) 
+and red foxes (Vulpes vulpes) in 2003, while Parramore harbored large numbers of both 
+species. Mammalian predation rates on these unattended nests were vastly higher on 
+Parramore (~99% per day) than on Metompkin (~0%). Nevertheless, gulls and ghost crabs 
+depredated ~19% of the nests per day on Metompkin in the absence of mammalian predators. 
+We repeated this trial in June and July 2004, using the same artificial nest stations. 
+Metompkin harbored 1-2 raccoons at this time, while Parramore still harbored both species 
+even after a large number of raccoons and red foxes had been removed in autumn 2003. 
+Mammalian predation rates on Parramore (18% per day) were still higher than on Metompkin 
+(~0% per day), but were down dramatically from 2003. Once again, gulls and ghost crabs 
+depredated ~6% of the nest per day on Metompkin. These results suggest that predation 
+management has significant potential for reducing nest predation on islands. 
+ 
+ 
+ 
+(79) DO TWO SPECIES OF AMERICAN MARTENS EXIST? – A LOOK AT 
+FECUNDITY 
+Sara R. Anglin, Neil Anderson & Karen D. Stone, Department of Biology, Southern Oregon 
+University, Ashland, Oregon, USA, (SRA,KDS), , Montana Fish, Wildlife and Parks, 
+Missoula, Montana, USA, (NA) 
+ 
+Current research has raised questions concerning the taxonomy of the two subspecies groups 
+(lineages) of American marten (Martes americana). These lineages, “americana” and 
+“caurina”, were once recognized as distinct species, M. americana and M. caurina, but were 
+lumped into one species in the 1950’s; however, these lineages have distinctive 
+morphological and genetic differences. Through donations by trappers, we have collected 
+samples from an area of sympatry in western Montana to further explore similarities and 
+differences between these two lineages. Previous researchers studying in this same region 
+identified a difference between fecundity rates of martens from northwestern and 
+southwestern Montana and attributed this difference to ecological factors. However, previous 
+genetic research has shown that the two lineages exist in Montana, “americana” in the 
+northwestern region and a mix of “americana” and “caurina” in the southwestern section. 
+Therefore, we are testing an alternative hypothesis that the difference in fecundity rates is due 
+to genetic differences that exist between the lineages. DNA was extracted and a portion of the 
+cytochrome b gene was amplified. A restriction enzyme digestion generated a diagnostic 
+RFLP pattern for each individual, which was used to identify lineage type. Fecundity was 
+indirectly measured using corpora lutea counts. Approximately 400 samples of both male and 
+female have been collected over the past 6 years. Of these samples, 102 samples have been 
+genotyped with 64 represent the “americana” lineage and 38 represent the “caurina” lineage. 
+Mean corpora lutea counts were 2.85 (N=20) and 2.61 (N=18) for the “americana” and 
+“caurina” lineages, respectively. This information adds to existing morphological and genetic 
+data and should assist in the determination of the proper classification of these lineages. 
+ 
+ 
+ 
+
+
+Carnivore Talks - ASM 06 
+ 
+9
+(82) USE OF NON-INVASIVE SAMPLING TO STUDY RELATIVE PATTERNS OF 
+DISTRIBUTION AND ABUNDANCE OF CANIDS AT MARINE CORPS BASE 
+QUANTICO, VIRGINIA. 
+Christine A. Bozarth, Larry L. Rockwood, Katherine Ralls & Jesus E. Maldonado, 
+Department of Environmental Science and Public Policy, George Mason University, Fairfax, 
+Virginia, USA, (CAB,LLR), Conservation and Research Center, Smithsonian National 
+Zoological Park, Washington, D.C., USA, (KR), Genetics Program, Smithsonian Institution 
+NMNH/NZP, Washington, D.C., USA, (JEM) 
+ 
+Determining presence, distribution and abundance of wild canids is the first step in designing 
+wildlife management plans for these species, particularly in areas where there is potential 
+conflict with human use of the landscape. Non-invasive fecal DNA sampling has the potential 
+to provide a wealth of information necessary for monitoring and managing canid species 
+while eliminating the need to capture, handle or observe individuals. In this project we used 
+non-invasively collected samples from scat to determine the presence and the relative 
+distribution and abundance of wild canids that occur at Marine Corps Base Quantico located 
+in Northern Virginia. We extracted DNA from 300 scat samples and amplified a short 
+fragment of the mtDNA control region using primers specifically designed from North 
+American canids. We demonstrate that these primers consistently amplified PCR products 
+that varied in length for different canid species and confirm that this method is a reliable and 
+quick way to differentiate between sympatric canids using non-invasive methods. Our 
+analysis of 223 scat samples showed that gray foxes (Urocyon cinereoargenteus), red foxes 
+(Vulpes vulpes) and coyotes (Canis latrans) occur sympatrically. Preliminary results suggest 
+that gray foxes have a wider distribution and are more abundant than red foxes and coyotes in 
+this area.  
+ 
+ 
+ 
+(90) PHYLOGEOGRAPHY AND DEMOGRAPHIC HISTORY OF GRAY FOXES 
+(UROCYON CINEREOARGENTEUS) FROM EASTERN NORTH AMERICA 
+Stacey L. Lance, David J. Civitello, Julie L. Weston, Christine Bozarth & Jesus E. 
+Maldonado, Department of Biology, Colby College, Waterville, Maine, USA, (SLL,DJC), 
+Peromyscus Stock Center, Dept. of Biological Sciences, University of South Carolina, 
+Columbia, South Carolina, USA, (JLW), Department of Environmental Science and Policy, 
+George Mason University, Fairfax, Virginia, USA, (CB), Genetics Program, NZP/NMNH, 
+Smithsonian Institution, Washington, District of Columiba, USA, (JEM) 
+ 
+Gray foxes, Urocyon cinereoargenteus, are widely distributed in North America, Central 
+America and northern South America. In spite of their extensive range there is suprisingly 
+little known concerning their basic ecology, demography and phylogeography. In this study 
+we used a phylogeographic approach to analyze gray fox populations along the east coast of 
+North America. We examined mitochondrial DNA variation in 109 foxes from areas 
+distributed throughout the Eastern USA including samples from South Carolina (n=48), 
+Virginia (22), New England (n=19), and New York (n=22). These samples cover the range of 
+two subspecies: U. c. borealis in the northeast, and U. c. cinereoargenteus occurring east of 
+the Mississippi and north of Georgia. Analyses of the mtDNA control region revealed 13 
+haplotypes, each closely linked in a star-shaped phylogenetic network; several of the most 
+frequent haplotypes were internal, while the majority were unique to single populations and 
+presented distal positions in the network. Overall there was a lack of genetic structure 
+amongst populations with most of the variance explained by within population genetic 
+
+
+Carnivore Talks - ASM 06 
+ 
+10
+diversity. Results of a “mismatch distribution analysis” and the deviation from neutrality 
+suggest that the northern populations have experienced a recent rapid demographic/ range 
+expansion. Preliminary analyses of 6 microsatellite loci suggest similar patterns of genetic 
+diversity. Our expansion hypothesis is supported by paleontological evidence that during the 
+last glaciation gray foxes did not extend into the current range of U. c. borealis. Additionally, 
+historical evidence suggests a second southward range shift in the 17th century when they 
+disappeared from Canada at the same time red foxes were introduced. They have since 
+recolonized and extended the previous northernmost limit of their range. We will discuss our 
+results and compare them to studies of other furbearers in eastern North America.  
+ 
+ 
+ 
+(91) DENSITY AND SPATIAL DISTRIBUTION OF BLACK BEARS IN 
+SOUTHEASTERN OKLAHOMA USING HAIR-SNARE SAMPLES 
+Angela G. Brown, Lynne C. Gardner-Santana, Eric C. Hellgren, Ronald A. Van Den Bussche 
+& David M. Leslie, Jr., Oklahoma Cooperative Fish and Wildlife Research Unit, Oklahoma 
+State University, Stillwater, Oklahoma, USA, (AGB,DML), Department of Zoology, 
+Oklahoma State University, Stillwater, Oklahoma, USA, (LCG,RAV), Cooperative Wildlife 
+Research Lab, Southern Illinois University, Carbondale, Illinois, USA, (ECH) 
+ 
+Historically, black bears (Ursus americanus) were present in Oklahoma but extripated in the 
+early 1900s due to habitat loss and unregulated hunting. Reintroduction of black bears in the 
+Ozark and Ouachita national forests of Arkansas between 1958–1968 by the Arkansas Game 
+and Fish Commission successfully reestablished populations in these regions. Recent 
+expansion of this black bear population into eastern Oklahoma has led to management 
+questions regarding abundance and distribution. To learn more about the population in 
+Oklahoma, 128 hair snares were set in 4.8 x 4.8-km grid cells over approximately 3,400 km2 
+of the Ouachita Mountains. The hair snare enclosures consisted of barbed wire stretched 
+around 3–6 trees at a height of 30.5–61.0 cm and baited with sardines and raspberry extract. 
+Hair snares were checked for hair samples and rebaited approximately every 7 days. After 7 
+weeks of sampling in June–August, 2004 and 2005, 650 hair samples were collected. Hair 
+was collected from 57.8% (n=74) hair snare enclosures, averaging 2.87 hair samples/snare in 
+2004 and 2.70 hair samples/snare in 2005. Genetic analysis of 299 samples identified 272 
+(88.9%) unique individuals and 14 (4.6%) recaptures. Initial density estimates indicate a 
+higher density of bears in eastern parts of the study area compared with western parts. 
+ 
+ 
+ 
+(96) PHYLOGENY OF THE AELUROID CARNIVORA 
+Jill A. Holliday, Biological Science, Florida State University, Tallahassee, Florida, (JAH) 
+ 
+Evolutionary relationships within the aeluroid Carnivora ((Felidae, Hyaenidae, Viverridae, 
+Herpestidae) have long been problematic. I present a combined evidence phylogeny of the 
+aeluroid Carnivora, including both molecular and morphological information and both recent 
+and fossil taxa. This combined evidence phylogeny, which includes over 40 recent taxa and 
+over 40 fossil forms, adds significantly to our understanding of patterns of diversification 
+between families and major clades, and adds support to recent hypotheses of relationships. 
+ 
+ 
+ 
+
+
+Carnivore Talks - ASM 06 
+ 
+11
+(104) GRIZZLY BEAR ABUNDANCE ESTIMATION WITH DNA MARK-RECAPTURE 
+IN TAKU RIVER WATERSHED, BRITISH COLUMBIA 
+Kim Heinemeyer & Paul C. Griffin, , Round River Conservation Studies, , (KH), Wildlife 
+Biology Program, University of Montana, , (PCG) 
+ 
+The Taku River is a large, unroaded watershed that supports grizzly bears and wild runs of the 
+5 species of Pacific Salmon. During summer and fall, grizzly bears congregate along the Taku 
+River and its tributaries to feed on salmon, but concern about the population is prompting 
+efforts to estimate current abundance and begin long-term monitoring. Because bears 
+congregate along the river during summer and fall runs of salmon, sampling DNA from bears 
+along the linear river corridor should be an effective and efficient way to estimate abundance 
+within portions of the watershed. Two mainstem river reaches (each ~55 km long) were 
+separately, and repeatedly, sampled during salmon runs in 2000, 2001, and 2003. DNA from 
+hair follicles was genotyped to individual with 6 polymorphic microsatellite loci; sex was 
+determined from the amelogenin gene. In most years, a simple Huggins closed population 
+model with no temporal variation or individual covariates was the most parsimonious for 
+abundance estimation. We determined “bears per river km” by adding a buffer strip based on 
+distances between relocations. The upper reach held ~1.2 grizzlies per km. The lower reach 
+held ~0.3 grizzlies per km. This area was predicted to support high quality bear habitat and 
+indigenous and local knowledge indicates that high numbers of bears have historically used 
+the area, but that population has declined over the last several years. It is possible that high 
+mortality due to increasing human access and/or the collapse of the fall chum populations 
+have reduced grizzly populations. In each reach, the “bears per river km” was relatively 
+consistent across all 3 years. We infer that the population was approximately closed during 
+each summer of sampling based on the short recorded movement distances, and on low 
+movement rate estimates from Pradel models. We conclude that mark-recapture sampling for 
+grizzly DNA along rivers, during salmon runs, appears to be reliable for abundance 
+estimation. 
+ 
+ 
+ 
+(118) INFLUENCE OF INTERNAL PARASITES (BAYLISASCARIS COLUMNARIS) 
+AND FOOD MANIPULATION ON INTERNAL BODY FAT STORES OF CAPTIVE 
+STRIPED SKUNKS (MEPHITIS MEPHITIS). 
+Travis W. Quirk, Serge Lariviere & Douglas P. Chivers, Department of Biology, University 
+of Saskatchewan, Saskatoon, SK, Canada, (TWQ), , Cree Hunters and Trappers Income 
+Security Board, Saint Foy, Quebec, Canada, (SL), Department of Biology, Uni, Saskatoon, 
+SK, Canada, (DPC) 
+ 
+Striped skunks accumulate large amounts of body fat in order to survive the period of winter 
+inactivity and food scarcity. Individuals that accumulate larger body fat reserves have 
+increased survival over the winter season. Energy stores can potentially be influenced by 
+energy intake and energy expenditures. Energy intake in the captive skunks is simplified by 
+feeding the skunks a homogenous commercially prepared diet (that has a consistent energy 
+value. Energy expenditures of the captive skunks are also similar with one possible difference 
+being attributed to costs associated with parasitic infection. Baylisascaris columnaris is a 
+common nematode found in the intestinal tract of skunks. Ivermectin, a drug belonging to the 
+avermectin family that interferes with the nervous system of invertebrates, was tested for 
+efficacy and subsequently used to determine impact of helminthes on storage of body fat in 
+
+
+Carnivore Talks - ASM 06 
+ 
+12
+captive striped skunks. A follow up experiment was performed to determine if there were 
+interactions between food intake and anthelmintic treatment. 
+ 
+ 
+ 
+(125) MECHANISTIC HOME RANGE MODELS CAPTURE SPATIAL PATTERNS AND 
+DYNAMICS OF COYOTE TERRITORIES IN YELLOWSTONE NATIONAL PARK 
+Paul R. Moorcroft, Mark A. Lewis & Robert L. Crabtree, Organismic and Evolutionary 
+Biology Dept., Harvard University, Cambridge, MA, (PRM), Dept. of Mathematics, 
+University of Alberta, Edmonton, AB, (MAL), , Yellowstone Ecosystem Research Center, 
+Bozeman, MT, (RLC) 
+ 
+Patterns of space-use by individuals are fundamental to the ecology of animal populations 
+influencing their social organization, mating systems, demography, and the spatial 
+distribution of prey and competitors. To date, the principal method used to analyze the 
+underlying determinants of animal home range patterns has been Resource Selection Analysis 
+(RSA), a spatially implicit approach that examines the relative frequencies of animal 
+relocations in relation to landscape attributes. In this analysis, we adopt an alternative 
+approach, using a series of mechanistic home range models to analyze observed patterns of 
+territorial space-use by coyote packs in the heterogeneous landscape of Yellowstone National 
+Park. Unlike RSAs, mechanistic home range models are derived from underlying correlated 
+random walk models of individual movement behavior, and yield spatially-explicit 
+predictions for patterns of space-use by individuals. As we show here, mechanistic home 
+range models can be used to determine the underlying determinants of animal home range 
+patterns, incorporating both movement responses to underlying landscape heterogeneities and 
+the effects of behavioral interactions between individuals. Our analysis indicates that the 
+spatial arrangement of coyote territories in Yellowstone is determined by the spatial 
+distribution of prey resources and an avoidance response to the presence of neighboring 
+packs. We then show how the fitted mechanistic home range model can be used to correctly 
+predict observed shifts in the patterns of coyote space-use in response to perturbation. 
+ 
+ 
+ 
+(156) PHYLOGEOGRAPHY OF THE LONG-TAILED WEASEL, MUSTELA FRENATA 
+Larisa E. Harding, Department of Biology, University of New Mexico , Albuquerque, New 
+Mexico, USA, (LEH) 
+ 
+The long-tailed weasel, Mustela frenata, ranges widely throughout North and Central America 
+and extends primarily along the western slopes of the Andes to Bolivia in South America. 
+Although it has the largest distribution of any mustelid in the western hemisphere, it has been 
+poorly studied. This study represents the first attempt to genetically characterize Mustela 
+frenata. Using primarily samples from frozen tissues, I sequenced the complete cytochrome-b 
+gene for 25 of Hall's 42 designated subspecies. In an expanded data set representing 34 
+subspecies, I used DNA extracted from skins of museum specimens to sequence a large 
+portion of the control region (d-loop) for animals collected across the range. Analyses suggest 
+structured clades in each of the Americas. This study also includes the first genetic sequences 
+of a tropical weasel, Mustela africana, for outgroup comparison with M. frenata's sister taxon, 
+Mustela vison. 
+ 
+ 
+
+
+Carnivore Talks - ASM 06 
+ 
+13
+ 
+(158) A GENETIC ANALYSIS OF BOBCATS  LYNX RUFUS IN THE MIDWEST 
+Emily K. Croteau, Edward J. Heist & Clayton K. Nielsen, Department of Zoology, Southern 
+Illinois University, Carbondale, Illinois, USA, (EKC,EJH,CKN) 
+ 
+The bobcat Lynx rufus is a highly adaptable and mobile species, as demonstrated by its 
+expansive distribution ranging from southern Canada to northern Mexico. Prior to European 
+settlement, the Midwest was comprised of a diverse array of land cover types including 
+prairies, forests, and wetlands, much of which was suitable habitat for bobcats. However, 
+during the last century, the Midwest underwent increased urbanization and conversion of 
+suitable bobcat habitat to intensive agricultural land cover. It is unknown whether these 
+landscape changes or other potential dispersal barriers (i.e., the Missouri and Ohio Rivers) 
+have affected gene flow among Midwestern bobcat populations. Therefore, we examined the 
+effects of habitat discontinuities and extent of genetic differentiation among bobcat 
+populations throughout Illinois, Indiana, Kentucky, and Missouri using ten microsatellite 
+markers. Preliminary analysis from 190 bobcats using five microsatellite loci have revealed 
+significant fine scale genetic structure between these areas (global FST = 0.0139, p value = 
+0.004), thus habitat discontinuities or large rivers may be affecting gene flow in Midwestern 
+bobcats. These results will allow wildlife biologists to better assess the management needs of 
+bobcats and indicate how habitat may facilitate or impede gene flow among bobcat 
+populations over large scales.  
+ 
+ 
+ 
+(152) COMPETITION LIMITS THE SOUTHERN DISTRIBUTION OF BOBCATS 
+Víctor Sánchez-Cordero, Sahotra Sarkar, David Stockwell & Howei Liu, Departamento de 
+Zoología, Instituto de Biología, UNAM, Mexico City, (VSC), Section of Integrative Biology, 
+University of Texas at Austin,, Austin, Texas, USA, (SS), San Diego Super Computer Center, 
+University of California , 9500 Gilman Drive, La Jolla, CA 92093, USA., (DS), San Diego 
+Super Computer Center,, University of California , 9500 Gilman Drive, La Jolla, CA 92093, 
+USA., (HL) 
+ 
+Bobcats Lynx rufus are opportunistic felids occurring in a diverse range of habitats and with a 
+widespread distribution from southern Canada to southern Mexico. We modeled the 
+ecological niches of the felid community in southern Mexico to explore why the bobcat 
+distribution stops abruptly at the Isthmus of Tehuantepec (IT). The IT, a lowland region with 
+subtropical swamp habitat, is unlikely to serve as a geographic and ecological barrier to 
+bobcats. Mammal inventories conducted for over a century rejects the hypothesis that bobcats 
+are present but have not yet been recorded south of the IT. No evidence of fossil records south 
+of the IT provides little support for a past presence of bobcats in that region. We show that the 
+ecological niche of bobcats extends south of the IT, suggesting that ecological conditions 
+exist for the establishment of populations in that region. The overlap of the bobcat geographic 
+niche was lowest with margay and ocelot, both felids with similar size and feeding habits. We 
+propose that interspecific competition with other felids limits the southern distribution of 
+bobcats, preventing dispersal to a suitable but geographically reduced niche south of the IT. 
+ 
+ 
+ 
+
+
+Carnivore Talks - ASM 06 
+ 
+14
+(171) EFFECTS OF URBANIZATION AND HABITAT FRAGMENTATION ON 
+RODENT AND CARNIVORE COMMUNITIES IN COASTAL SAGE SCRUB 
+COMMUNITIES 
+Dana J. Morin & Jay E. Diffendorfer, Department of Biology, San Diego State University, 
+San Diego, CA, (DJM), , Illinois Natural History Survey, Champaign, IL , (JED) 
+ 
+Rapid, sprawling urbanization in southern California coastal sage scrub has created fragments 
+of varying sizes within an urban matrix. As urban development and fragmentation continue, it 
+is important for land managers to understand the impacts in order to devise and implement 
+effective conservation plans. Fragmentation resulting in habitat loss and lack of connectivity 
+is credited with altering basic ecological processes as well as population and community 
+dynamics. This study focused on how fragmentation impacts carnivore activity and rodent 
+communities. We sampled over four site types: edges and interiors of large reserves and small 
+and large fragments within urban San Diego. We sampled carnivore activity with remote 
+trigger cameras and rodent populations using mark-recapture. The results show a positive 
+overall edge effect impacting coyote (Canis latrans) activity, an apex mammalian predator in 
+this system. Other carnivore species, excluding bobcat (Felis rufus), were most commonly 
+detected in fragments in relatively low numbers. In addition, rodent richness was higher at 
+edges and lower at small fragments. Rodent abundance was higher at interiors compared to 
+the other three site types and did not vary with carnivore activity. These results suggest 
+habitat fragmentation has an important impact on both carnivores and rodents. Densities or 
+activity levels of coyotes may be artificially high along edges due to allochthynous urban 
+resource subsidies. High rates of coyote activity may negatively impact smaller carnivore 
+species. Rodent species displayed differential responses to the site types indicating resource 
+availability and competition play an important role in species composition. Habitat quality 
+and human influences on edges may strongly affect essential resources and intraguild 
+processes for both groups of mammals. Thus, factors other than overall area must also be 
+considered in management decisions in San Diego’s fragmented landscape.  
+ 
+ 
+ 
+(189) ASSESSING THE HEALTH OF FLORIDA PANTHERS FROM STABLE ISOTOPE 
+GEOCHEMISTRY AND OTHER MEANS 
+Laurie Wilkins, Julie Allen & Shelly Flanagin, Dept. of Natural History, Florida Museum of 
+Natural History, Gainesville, Florida, USA, (LS), Det. of Zoology, University of Florida, 
+Gainesville, Florida, USA, (JA), Dept. Natural History, Florida Museum of Natural History, 
+Gainesville, Florida, USA, (SF) 
+ 
+The Florida Panther (Puma concolor) is the only surviving population of puma in the Eastern 
+U.S. Habitat loss and human persecution once reduced Florida Panther populations to as few 
+as 30 individuals and its distribution to the southernmost (and not necessarily the most 
+productive) regions of Florida. As a result, the Florida Panther has the lowest heterozygosity 
+recorded among panther populations. Monitoring of the Florida Panther has revealed serious 
+health problems associated with malnutrition and inbreeding, including congenital heart 
+defects, cryptorchidism; poor semen quality, and elevated pathogen/parasite loads. Intense 
+recovery efforts, such as genetic enrichment, through the introduction of Texas pumas, as well 
+as land acquisition and new management practices, appear to be reversing these trends. The 
+genetic restoration program has reduced the number of deleterious manifestations of 
+inbreeding unique to Florida Panthers such as cowlicks, kinked tails, cryptorchidism, 
+congenital heart defects, and population numbers have increased to an estimated 80 
+
+
+Carnivore Talks - ASM 06 
+ 
+15
+individuals. However, human population growth, restricted range size, and the landscape 
+features of peninsular Florida continue to limit these efforts. This begs the question, "are the 
+individuals in the population healthier than in the past?" We have examined two distinctly 
+different types of data to assess Florida Panther health. Harris lines are transverse lines 
+through long bones that are associated with arrested bone development, and have been used to 
+document periods of dietary stress in other animals. Stable isotopes can be used to evaluate 
+differences in diet, and can at times be used to indicate periods of dietary stress. Our data 
+consistently show dramatic differences in male and female panther diet as well as small 
+changes associated with habit and age. 
+ 
+ 
+ 
+(206) JAGUAR (PANTHERA ONCA) CURRENT DISTRIBUTION IN TABASCO, 
+WESTERN CAMPECHE AND NORTHERN CHIAPAS, MEXICO 
+Mircea G. Hidalgo-Mihart & Daniela Valera-Aguilar, División Académica de Ciencias 
+Biológicas, Universidad Juárez Autónoma de Tabasco, Villahermosa, Tabasco, México, 
+(MGHM,DVA) 
+ 
+During the Jaguar Conservation Symposium carried out by Wildlife Conservation Society in 
+1999, extensive regions of southern Mexico, such as the state of Tabasco, northern Chiapas 
+and western Campeche were identified as areas where the long term survival of jaguar 
+populations is high. However, only 20% of the original terrestrial ecosystems in the western 
+portion of this area is preserved. In this same region, other areas where human population is 
+almost inexistent were recognized as areas where jaguar population status was unknown, such 
+as the largest wetland system composed mostly by the Laguna de Terminos Wildlife 
+Protection Area (LTWPA) and the Pantanos de Centla Biosphere Reserve (PCBR). To clarify 
+the current jaguar distribution in the area, we looked for reports (skins, skulls, photographs or 
+trustable references) of jaguar presence in the last 10 years. We found 55 jaguar records, most 
+of them distributed around the LTWPA, the PCBR, and the Mexico-Guatemala border. To 
+determine the possible habitat and human population characteristics that allow jaguars to 
+persist in the area, we divided the study area in a 10x10km grid using a GIS, in which terrain, 
+habitat and human population characteristics where obtained for each cell where recent jaguar 
+records were found. Jaguar records were obtained in cells with a mean altitude of 42.5 m a s l 
+(SD=70.8), a mean terrain complexity of 20.5m (SD=58.9), a mean percentage of preserved 
+area of 70.2% (SD=26.5), a mean percentage of protected area of 37.7% (SD=43.8), a mean 
+number of human inhabitants of 724 inhabitants per 100 square km (SD= 1000.4) and a mean 
+road length of 13.5 km per 100 square km (SD 11.6). These results imply that recent jaguar 
+records tend to be present in areas with low elevation, low human population and road density 
+and highly preserved areas but not necessarily associated to protected areas.  
+ 
+ 
+ 
+(209) RUN FASTER; JUMP HIGHER; ANATOMIC VARIATIONS IN THE PAWS OF 
+CLOUDED LEOPARDS (NEOFELIS NEBULOSA) 
+Virginia L. Naples & Christopher Hubbard, Osteoprep Lab, Division of Mammals, 
+Smithsonian Institution, Washington, D. C. , (VLN), Department of Biological Sciences, 
+Northern Illinois University, DeKalb, Illinois, (CH) 
+ 
+The clouded leopard (Neofelis nebulosa) is a medium-sized, highly arboreal cat. In this study 
+the structure of the fore and hind limb paw pads was examined. The metacarpal and 
+
+
+Carnivore Talks - ASM 06 
+ 
+16
+metatarsal pads are covered by a cornified epidermis, beneath which is a supple subcutaneous 
+fat pad that is extensively anchored to the tendon sheaths of the metacarpal and metarsal 
+phalangeal joints, respectively. In the hind paw, three tendinous branches extend from the 
+flexor digitorum superficialis muscle (flexor digitorum superficialis runs deep to the flexor 
+retinaculum) that project through the fat pad and attach to the middle, medial and lateral sides 
+of the paw pad epidermis. Previous reports have described tendinous extensions of the flexor 
+digitorum superficialis muscle (previously known as the palmaris longus muscle) into the 
+forepaw of the domestic cat, but not the hind paw. The combined effect of these tendinous 
+extension insertions and the flexibility of the paw pad may allow contraction of the pad, thus 
+enhancing the animal's ability to grip tree branches more effectively while hunting. 
+ 
+ 
+ 
+(228) ONTOGENETIC CHANGE IN SKULL MORPHOLOGY AND FEEDING 
+PERFORMANCE IN THE SPOTTED HYENA (CROCUTA CROCUTA) 
+Jaime B. Tanner, Barbara L. Lundrigan & Kay E. Holekamp, Department of Zoology, 
+Michigan State University, East Lansing, Michigan, USA, (JBT,BLL,KEH) 
+ 
+Ontogeny in the spotted hyena (Crocuta crocuta) is characterized by dramatic behavioral and 
+morphological change. These large, gregarious carnivores feed in intensely competitive 
+environments in which the ability to consume large quantities of food in a short period of time 
+is highly advantageous. Furthermore, spotted hyenas have a highly durophageous diet in 
+which they must crack open and consume bones of large diameter. Consequently, their skulls 
+are highly specialized for durophagy, with enormous sagittal crests and wide zygomatic 
+arches providing increased attachment area for muscles critical in bite force generation. In this 
+study we used geometric morphometric techniques to quantify ontogenetic changes in skull 
+size and shape in Crocuta crocuta. We analyzed the ventral and lateral views of 65 Crocuta 
+skulls ranging in age from 1 day to 17 years. Although selection should favor rapid 
+improvement in feeding performance in such competitive feeding environments, we found 
+that Crocuta skulls continued to change in size and shape until 30 months of age. This delayed 
+maturation is long after the average weaning age of 14 months and therefore presents 
+limitations on aspects of feeding performance such as feeding speed and bite force generation. 
+Feeding speed continues to increase significantly past 35 months of age, when post-cranial 
+growth reaches its asymptote in both captive and wild hyenas. This delayed development in 
+the feeding apparatus ultimately may provide insight into the adaptive significance of the 
+unusual trait of female dominance in this species. 
+ 
+ 
+ 
+(229) DEVELOPMENTS IN MAMMALIAN DIETARY RECONSTRUCTION OF 
+CARNIVORES USING LOW-MAGNIFICATION STEREOMICROSCOPY OF DENTAL 
+MICROWEAR 
+Eric W. Dewar, Graduate Program in Organismic and Evolutionary Biology, University of 
+Massachusetts Amherst, Amherst, Massachusetts, USA, (EWD) 
+ 
+Living carnivorans have dietary preferences that range from strictly carnivorous to 
+omnivorous and even herbivorous diets. Some of these diets are not predictable from dental 
+form alone. I employed a stereoscopic dental microwear method to examine the use wear of 
+living carnivorans with a range of observed diets. This microwear method has been shown to 
+be a reliable indicator of diet in large, primarily herbivorous mammals, but is applied here to 
+
+
+Carnivore Talks - ASM 06 
+ 
+17
+living carnivores for the first time. I examined dental casts of 242 individuals from 23 species 
+of living carnivorans with known diets in order to relate those diets to microwear patterns. I 
+found that particular carnivoran diets shared common microwear fabrics, and that these 
+fabrics were distinct from those that have been recognized for herbivorous mammals. In 
+contrast to the microwear patterns of ungulates and primates, I found the primary 
+discriminator of diet in carnivorans to be the number of small pits. Bivariate and multivariate 
+statistical analyses of microwear on the first molar reliably separate the larger species (> 8 kg) 
+into meat specialist, meat and bone, omnivore, and tough fibrous groupings. I concluded that 
+the microwear fabrics of larger species had somewhat different functional implications than 
+for medium-sized species (0.5-8 kg), because of the difficulty of distinguishing between 
+pitting caused by chewing skeletal parts of prey and pitting caused by incidentally-ingested 
+environmental grit. Microwear of the slicing carnassial teeth has a similar predominance of a 
+pitting signal, but dietary interpretations are complicated by masticatory differences among 
+species. Finally, an assessment of omnivory uses microwear features most associated with 
+particular food types. The database developed here is being extended to facilitate dietary 
+reconstructions of Paleogene mammals. 
+ 
+ 
+ 
+(230) SEXUAL SHAPE DIMORPHISM AND RENSCH'S RULE IN UROCYON 
+Heidi Schutz, Department of Ecology and Evolutionary Biology, University of Colorado, 
+Boulder, Boulder, Colorado, USA, (HS) 
+ 
+Bernhard Rensch (1960) demonstrated that an allometric relationship exists between sexual 
+size dimorphism (SSD) and body size such that SSD increases with body size in taxa where 
+males are larger than females and decreases with body size in taxa where females are larger. 
+With some exceptions, various studies show support for this phenomenon now known as 
+Rensch’s rule. However, Rensch’s rule has not been tested with regard to sexual shape 
+dimorphism, nor has its effect been contrasted between different body regions. Two species 
+within the genus Urocyon (Urocyon cinereoargenteus and Urocyon littoralis ) provide an 
+excellent vehicle for such an examination given their close phylogenetic relationship and 
+difference in body size due to dwarfism in U. littoralis. Landmark-based morphometric 
+techniques were used to quantify cranial and pelvic shape differences between males and 
+females of each species. 14 cranial and 14 pelvic landmarks, along with centroid size were 
+examined in order to determine: 1) the presence of sexual shape dimorphism in the cranium 
+and pelvis of each species, 2) the effect of body size as a covariate on sexual shape 
+dimorphism, 3) variation in levels of shape dimorphism between the cranium and the pelvis, 
+4) variation in levels of shape dimorphism between U. cinereoargenteus and U. littoralis, and 
+5) to test the application of Rensch’s rule to shape dimorphism. 
+ 
+ 
+ 
+(232) BRAIN SIZE EVOLUTION IN THE CANIFORMIA (CARNIVORA): 
+INCORPORATING DATA FROM FOSSIL TAXA 
+John A. Finarelli & John J. Flynn, Committee on Evolutinary Biology, University of Chicago, 
+Chicago, Illinois, USA, (JAF), Division of Paleontology, American Museum of Natural 
+History, New York, New York, USA, (JJF) 
+ 
+Brain-body size allometries in the order Carnivora have been studied with respect to the 
+pattern and timing of brain size evolution, as well as to correlated aspects of life history, 
+
+
+Carnivore Talks - ASM 06 
+ 
+18
+adaptation, and ecology. However, incorporating fossil data into investigations of brain size 
+evolution has been hindered by a lack of data. Endocasts require special preservation of the 
+interior of the braincase, while CT scanning can be time-consuming and expensive. A method 
+for rapidly, inexpensively, and accurately estimating endocranial volumes from external skull 
+measures, which has not yet been developed for Carnivora, has the potential to greatly 
+increase the understanding of brain size evolution in fossil taxa. Endocranial volumes were 
+estimated for 126 extant terrestrial carnivoran speciesfrom 825 museum specimens, spanning 
+all major monophyletic carnivoran clades. Multiple linear regression combined with an AIC-
+based model averaging was employed to predict endocranial volume from three external skull 
+measures. The AIC-averaged model accurately predicts endocranial volumes for modern 
+carnivoran taxa (R-squared = 0.983), and is robust to potential sampling problems with 
+respect to taxa represented by only a few specimens. Moreover, the results do not reflect 
+phylogenetic autocorrelation nor does it represent correlation induced by general body size 
+scaling. Application of the model equation to fossil taxa, for which endocranial volumes have 
+been directly measured from endocasts, demonstrates that the scaling relationship for modern 
+taxa also pertains to extinct Carnivora. The robustness of this estimator across all Carnivora 
+allows reconstructions of brain volumes for a diverse array of fossil taxa, and explicit testing 
+of hypotheses of brain size evolution across the caniform clade. Preliminary data from an 
+extensive sample of the Canidae reveals a pattern of phylogenetic control over 
+encephalization that is decoupled from simultaneous trends in body size evolution. 
+ 
+ 
+ 
+(240) SPATIAL ASSOCIATION OF RACCOONS AND OPOSSUMS IN ILLINOIS: NO 
+EVIDENCE FOR COMPETITION 
+Edward J. Heske & Tom A. Nelson, Center for Wildlife and Plant Ecology, Illinois Natural 
+History Survey, Champaign, IL 61820, (EJH), Department of Biological Sciences, Eastern 
+Illinois University, Charleston, IL 61920, (TAN) 
+ 
+We examined data from 24 years (1981-2004) of annual spotlight surveys in Illinois to 
+determine if sightings of raccoons (Procyon lotor) and opossums (Didelphis virginiana) 
+showed patterns suggesting avoidance or competition. The 48 spotlight survey routes were 
+stratified across Illinois, sampled following standard protocols each spring before leaf-out, 
+and each 25 mi (40.3 km) long. Raccoons and opossums showed latitudinal gradients, with 
+raccoons more abundant in the north and opossums more abundant in the south. Statewide, 
+sightings of raccoons in surveys doubled since the 1980s, but sightings of opossums changed 
+little. Considering 29 individual survey routes where raccoon sightings increased in number, 
+opossum sightings decreased along only one, increased along five, and did not change along 
+23. Considering 28,276 individual 1-mi segments along survey routes over the 24-yr period, a 
+coefficient of association indicated a slightly positive, but near zero, association between 
+raccoons and opossums. Coyotes (Canis latrans) and red foxes (Vulpes vulpes), which have 
+been shown to interact negatively in several studies, showed inverse population trends since 
+the mid 1980s and a negative association at the scale of 1-mi segments of survey routes in 
+spite of much sparser data, but no clear trend at the scale of the entire survey route. Thus, we 
+found no clear evidence for competition between raccoons and opossums although the 
+patterns revealed for coyotes and red foxes show such evidence can be found when expected. 
+ 
+ 
+ 
+(249) TESTING REMOTE CAMERAS FOR DETECTING CANADA LYNX IN MAINE 
+
+
+Carnivore Talks - ASM 06 
+ 
+19
+Clayton K. Nielsen & Mark McCollough, Cooperative Wildlife Research Lab, Southern 
+Illinois University Carbondale, Carbondale, Illinois, USA, (CKN), Maine Field Office, U.S. 
+Fish and Wildlife Service, Old Town, Maine, USA, (MM) 
+ 
+The Canada lynx Lynx canadensis is a federally-threatened species whose status is of 
+considerable concern throughout their range in North America. Although snow-tracking and 
+hair snares have been used to survey lynx populations, there is considerable interest in 
+devising an alternative, effective technique for surveying lynx that does not face the 
+challenges of previously-used methods. Our goal was to evaluate the use of remote cameras 
+as a potential survey technique for lynx at the township scale. We placed 36 remote cameras 
+(Moultrie Digital GameSpy; 1 camera/section) on an intensive lynx study area near Clayton 
+Lake, Maine, and collected digital images during August-October 2005. Images were 
+evaluated to determine lynx presence and make recommendations regarding the effectiveness 
+of using this technique more widely. A total of 4,651 images were collected in 2,512 camera-
+nights. Of these images, 1,686 contained animals (36%); we suggest many of the blank 
+photographs occurred due to animals just outside of the camera sensor range. Forty-five lynx 
+events were recorded, for a lynx encounter rate of 1%; 1.8 lynx were recorded per 100 
+camera-nights. Lynx were detected in 17 of the 36 sections in the township (47%). We also 
+modeled camera density and camera-days needed to detect lynx presence according to 
+different combinations of cameras placed throughout the township. Finally, we provide 
+recommendations for the proper use of remote cameras for surveying lynx in terms of proper 
+camera placement, set-up, and equipment performance. 
+ 
+ 
+ 
+(255) MORPHOLOGICAL EVIDENCE SUPPORTS THE STATUS OF THE EXTINCT 
+SEA MINK (MAMMALIA:CARNIVORA:MUSTELIDAE) AS A SEPARATE SPECIES 
+Rebecca A. Sealfon, Department of Biology, Duke University, Durham, North Carolina, 
+USA, (RAS) 
+ 
+The sea mink (Neovison macrodon) was probably the most aquatic member of the 
+Mustelinae, and the only musteline restricted to coastal habitats. Its status as a separate 
+species has not been resolved. A larger relative of the American mink (N. vison), it inhabited 
+the shores of New England and possibly southern Canada until the 19th century. Skeletal 
+specimens were not collected by zoologists, but are known from Native American 
+archaeological sites. The hypothesis that the sea mink showed dental divergence from N. 
+vison, an indication of phylogenetic and ecological distinctness, was tested on 111 
+archaeological mink specimens collected from Penobscot Bay, Maine and housed at the 
+Maine State Museum. These were compared with 158 specimens measured for this study and 
+78 others from the published literature, representing 4 subspecies of N. vison and 22 
+additional musteloid genera. A total of 13 dental measurements were taken on all species, and 
+studied using linear regression, principal components analysis and bivariate plots of residuals. 
+In general, the distribution of these measurements was bimodal in the archaeological 
+specimens, with most of the smaller individuals separable into two distinct categories. One 
+category correlated very strongly (r≥0.98) with the mean values for N. vison. The other 
+showed a somewhat weaker correlation with N. vison (r≤0.96), but a high correlation with the 
+larger archaeological specimens. It appears likely that the archaeological specimens included 
+primarily N. macrodon but also N. vison. The dental proportions of the several N. vison 
+subspecies were nearly identical, while pairs of species within the Lutridae and genus Mustela 
+showed divergence comparable to that of N. vison and N. macrodon. This suggests N. 
+
+
+Carnivore Talks - ASM 06 
+ 
+20
+macrodon was sufficiently distinct from N. vison to support its classification as a separate 
+species.  
+ 
+ 
+ 
+(259) RECOVERY OF FISHERS, MARTES PENNANTI, IN EASTERN CANADA 
+Jeff Bowman, Wildlife Research & Development Section, Ontario Ministry of Natural 
+Resources, Peterborough, Ontario, Canada, (JB) 
+ 
+I present an overview of research initiated to understand the recovery of fisher populations in 
+Ontario, Canada. Fishers have recolonized much of this province following widespread 
+extirpation during the 1930s. The research program had several components, including a 
+genetic analysis of 800 fishers from across Ontario; a telemetry study of a putative source 
+population in an untrapped refugium (Algonquin Park); a telemetry study of a population in a 
+settled, agricultural landscape; and an analysis of 10 years of fisher abundance data obtained 
+from 450,000 trap nights. The genetic analysis identified several subpopulations within the 
+small geographic area studied; evidence that historical fragmentation of fishers through 
+overharvest has structured the population. Trapping refugia (Algonquin and Adirondack 
+parks, in particular) have played an important role in providing emigrants to recolonize 
+habitats. Densities were much higher in the agricultural landscape than in Algonquin Park, 
+suggesting that fishers benefitted from the large, diverse food supply of the settled area, and a 
+net flow of migrant fishers from south to north implicated snow depth and food supply as 
+limiting factors. 
+ 
+ 
+ 
+(274) DEN SITE SELECTION BY FEMALE FLORIDA PANTHERS 
+John F. Benson, Fish and Wildlife Research Institute, Florida Fish and Wildlife Conservation 
+Commission, Naples, Florida, USA, (JFB) 
+ 
+The Florida panther (Puma concolor coryi) is listed as an endangered subspecies under the 
+United States endangered species act due to its restricted geographic range and low 
+population numbers. Currently, panthers are restricted to 1 population in south Florida which 
+likely consists of <100 individuals. Habitat loss and fragmentation appear to be among the 
+main threats to persistence, but to date there has not been an adequate assessment of panther 
+habitat preferences. Understanding which habitats are important to panther reproduction is 
+especially critical for the conservation of this subspecies. During 1990-2006, >80 dens of 38 
+female panthers across the occupied range of the subspecies have been visited to monitor 
+reproduction and mark offspring. I will use a Euclidean distance based approach to assess den 
+habitat selection, by comparing the distances between den locations and random sites to 
+habitat types available to panthers within individual home ranges. Additionally, distances 
+from den locations and random sites to landscape features (e.g., roads and habitat edges) will 
+be compared to investigate potential selection or avoidance of these features. These results 
+should identify habitats and landscape features associated with reproduction and kitten rearing 
+and allow for improved habitat management and conservation efforts for this endangered 
+species. 
+ 
+ 
+ 
+
+
+Carnivore Talks - ASM 06 
+ 
+21
+(276) LIVESTOCK GRAZING INFLUENCES DAILY PATTERNS OF ACTIVITY IN THE 
+SPOTTED HYENA 
+Joseph M. Kolowski, Dijana Katan, Kevin R. Theis & Kay E. Holekamp, Department of 
+Zoology, Michigan State University, East Lansing, Michigan, USA, (JMK,DK,KRT,KEH) 
+ 
+Despite the relative rarity of large carnivores in human-altered habitat, behavioral plasticity 
+with respect to use of both time and space has allowed some carnivores to coexist with 
+humans in shared landscapes. Consequently, changes in carnivore activity patterns or 
+movements can potentially be used as early behavioral indicators of the extent and severity of 
+human disturbance. In the Maasai Mara National Reserve, Kenya, human disturbance in the 
+form of livestock grazing and tour vehicle presence occurs at varying intensities throughout 
+the Reserve. From 2002-2004 we monitored the density of both tour vehicles and livestock 
+herds utilizing the territories of three separate social groups of spotted hyenas (Crocuta 
+crocuta) to compare their relative exposure to human disturbance. Over the same period, we 
+used long-term (2-15 hr) follows and behavioral observations of female adult hyenas from 
+these groups to investigate the degree to which these disturbances influenced activity patterns, 
+movement rates and timing of den use. Female hyenas in territories with daily livestock 
+grazing and high tourist visitation rates showed reduced activity and den use relative to 
+hyenas in an undisturbed territory during the times of day when human activity coincided 
+with potential hyena activity. Specific times of day when activity was reduced indicated that 
+livestock grazing, not tourist activity, was probably responsible for observed shifts in activity. 
+We discuss possible indirect costs associated with observed alterations in timing of den use 
+and activity in this species, as well as broader implications for carnivore conservation and 
+management.  
+ 
+ 
+ 
+(279) SOCIAL AND MATERNAL FACTORS INFLUENCE SURVIVAL IN THE 
+SPOTTED HYENA (CROCUTA CROCUTA) 
+Heather E. Watts & Kay E. Holekamp, Department of Zoology, Michigan State University, 
+East Lansing, Michigan, USA, (HEW,KEH) 
+ 
+Understanding survivorship patterns is critical for elucidating selective pressures shaping life 
+histories. Here, we examined two key aspects of survival: ontogenetic variation, and the 
+influence of social and maternal factors, in the spotted hyena (Crocuta crocuta). Spotted 
+hyenas are large, gregarious carnivores that live in complex social groups structured by linear 
+dominance hierarchies. In many mammals, mortality risks are unevenly distributed among 
+life-history stages. We tested hypotheses suggesting that three life-history events (departure 
+from the den, weaning, and first parturition) are particularly dangerous events in the lives of 
+female hyenas. While mortality increased after departure from the den and weaning, there was 
+no evidence of increased mortality associated with first parturition. We next examined 
+whether sex, social rank, litter size, and maternal parity influence survivorship. Sex did not 
+affect survivorship in the first two years of life, but social rank and maternal parity influenced 
+lifelong survival in females. Though litter size influenced early survival, this effect vanished 
+by 6 years of age. Finally, we examined whether social rank affects survival during dangerous 
+ontogenetic transitions. High social rank increased the probability of surviving after weaning, 
+but not after den independence. Our results indicate that social rank has an even greater 
+impact on fitness in this species than previously recognized, and point to at least one 
+mechanism by which rank influences survival. 
+ 
+
+
+Carnivore Talks - ASM 06 
+ 
+22
+ 
+ 
+(293) USING SITE OCCUPANCY MODELS TO DETERMINE THE EFFECTS OF 
+HABITAT FRAGMENTATION AND LANDSCAPE CONTEXT ON MEDIUM-SIZED 
+MAMMALIAN PREDATORS IN NORTHEASTERN NATIONAL PARKS 
+Neil W. Talancy, Allan F. O'Connell Jr. & Thomas P. Husband, Natural Resources Science, 
+University of Rhode Island, Kingston, Rhode Island, USA, (NWT,TPH), , Patuxent Wildlife 
+Research Center, Beltsville, Maryland, USA, (AFO) 
+ 
+Human disturbance is a significant source of land use change around the world, particularly in 
+the northeastern United States, where expanding human populations are causing increased 
+landscape development, habitat fragmentation, and pressure on wildlife populations. The 
+effects of fragmentation on a number of wildlife species have been well-documented, but for 
+species like medium-sized mammalian predators that are often cryptic and elusive, these 
+effects are difficult to evaluate and not well understood. To gain a better understanding of 
+these relationships, we used remote cameras, track plates, and hair traps to collect 
+presence/absence data on 10 mammalian predators within 8 National Park Service (NPS) sites 
+across the northeast. We collected data on environmental variables at multiple spatial scales 
+and modeled the responses of these species using site occupancy models that incorporate the 
+probability of detection. Detection probabilities for the target species varied among time, 
+space, and species, and all were <1 and most frequently <0.4. Using site occupancy models to 
+account for this variation in detection, we determined that landscape scale variables were 
+effective at describing differences in the occurrence of predators. Variables that focused on 
+the amount of human disturbance, such as the amount of landscape development, 
+fragmentation, and distance to the nearest occupied building, were the most important in 
+describing the probability of site occupancy. Our research suggests that landscapes 
+surrounding NPS sites should be considered as important sources of variation in species 
+occurrence and patterns of distribution. Detection is an important parameter to incorporate 
+when sampling wildlife populations because detectability varies over time and space and non-
+detection of a species does not imply absence. 
+ 
+ 
+ 
+(280) INDIVIDUAL PATTERNS OF LATRINE USE BY RACCOONS 
+Suzanne Prange & Stanley D. Gehrt, , Max McGraw Wildlife Foundation and The Ohio State 
+University, Dundee, Illinois, (SP), School of Natural Resourses, The Ohio State University 
+and Max McGraw Wildlife Foundation, Columbus, Ohio, (SDG) 
+ 
+Raccoons (Procyon lotor) defecate at preferred locations, or latrines, which typically occur on 
+fallen logs or stumps. Although latrine use can be of both social and ecological importance 
+due to disease and parasite transmission, little is known regarding raccoon behavior at 
+latrines. In June 2004, we fitted 42 raccoons (20 males, 22 females) within a 20-ha portion of 
+a natural area in northeastern Illinois with proximity detectors. We monitored raccoon 
+behavior at 15 latrines and 21 control logs within our trapping area during a 2-wk period in 
+October 2004 and 2005. Monitoring was accomplished by placing proximity detectors 
+beneath logs such that detection of other collars occurred only if they were above or 
+immediately next to the log. Ten males and 10 females visited latrine logs, whereas 6 males 
+and 9 females visited controls. The number of visits/log was greater for latrine than control 
+logs (P = 0.004), as was time spent at latrine logs (P = 0.045). Individual latrines were visited 
+3 to 20 times (mean = 9.13, SD = 5.26) for a total duration of 17 to 556 sec (mean = 220.93, 
+
+
+Carnivore Talks - ASM 06 
+ 
+23
+SD = 178.82). Up to 6 individuals visited a latrine during a single night. One to 5 unique 
+individuals visited a single latrine over the 2-wk period for both males (mean = 2.13, SD = 
+1.38) and females (mean = 1.93, SD = 1.30). Individual males visited 1 to 8 different latrines 
+(mean = 3.20, SD = 2.31), whereas individual females visited 1 to 6 latrines (mean = 2.90, SD 
+= 1.64) during the 2-wk period. The number of visits to latrines by males and females did not 
+differ (P = 0.935), although time spent at latrines was greater for males (P = 0.026). Typically 
+only 1 or 2 new scats were deposited over the 2-wk period at each latrine (mean = 1.5, SD = 
+0.707). Patterns of latrine visitation during this study suggested that latrines may serve social 
+functions for the local raccoon population. 
+ 
+ 
+ 
+(281) SOCIAL ORGANIZATION AND GROUP FORMATION OF RACCOONS AT THE 
+NORTHERN EDGE OF THEIR DISTRIBUTION 
+Justin A. Pitt, Serge Larivière & Francois Messier, Department of Biology, University of 
+Saskatchewan, Saskatoon, SK, Canada, (JAP,FM), , Cree Hunters and Trappers Income 
+Security Board, Sainte-Foy, Canada, (SL) 
+ 
+We examined the spatial and temporal relationships of 104 radio-collared raccoons at the 
+northern edge of their distribution to test hypotheses regarding social regulation and group 
+formation of adult males. Female social tolerance varied among years, but adult females 
+generally maintained relatively exclusive home ranges (percent overlap ranged from 2.2-
+12.5%) that were dispersed in a uniform pattern throughout the duration of the study (R 
+values ranging from 1.32-1.87). Even though female home ranges were dispersed regularly in 
+the landscape, there were instances where females shared common resources and tolerated 
+overlap. This behavior likely precludes the ability of raccoons to self regulate their densities 
+by spacing behavior. Male social interactions were more complex than previously described 
+for low density populations of raccoons, with most adult males (ca. 80%) forming coalition 
+groups. We identified 15 coalitions that had extensively overlapping home ranges and 
+positively associated nightly movements within group members (overlap indices ranging from 
+85.3-97.3%); while maintaining relatively exclusive territories between groups (annual 
+overlap indices ranging from 0-3.2%). Male coalition groups in carnivores are hypothesized 
+to form in response to aggregations of females, but our data suggests this is not a prerequisite 
+for the formation of male spatial groups. We propose a dominance hierarchy where 
+subordinate males benefit through increased likelihood of territory inheritance while dominate 
+males benefit through increase efficiency of territory defense. 
+ 
+ 
+ 
+(283) SUB-STAND SELECTION OF CANADA LYNX (LYNX CANADENSIS) NATAL 
+DENS IN NORTHWEST MAINE, USA 
+John F. Organ, Jennifer H. Vashon, John E. McDonald, Adam D. Vashon, Shannon Crowley, 
+George J. Matula, Jr., Walter J. Jakubas & Amy Meehan, Division of Wildlife and Sport Fish 
+Restoration, U.S. Fish and Wildlife Service, Hadley, Massachusetts, USA, (JFO,JEM), 
+Wildlife Resource Assessment Section, Maine Dept. of Inland Fisheries and Wildlife, Bangor, 
+Maine, USA, (JHV,SC,GJM,WJJ,AM), Wildlife Services, U.S. Dept. of Agriculture, 
+Augusta, Maine, USA, (ADV) 
+ 
+Canada lynx were listed as threatened in the contiguous United States under the Endangered 
+Species Act in March 2000. Little information on lynx ecology at the southern extent of their 
+
+
+Carnivore Talks - ASM 06 
+ 
+24
+range was available at the time of listing, and no ecological studies had been conducted in 
+eastern USA. A long term ecological study of lynx was initiated in 1999 in Maine in northeast 
+USA. As part of this study, natal den habitat selection was investigated to address questions 
+posed during the listing process as to importance of certain forest conditions to denning 
+requirements. Lynx used both regenerating stands (n=16) and mature stands (n=9) for den 
+sites. Sub stand characteristics of 26 den sites were compared to characteristics of stands 
+containing the dens. We used logistic regression to identify sub stand components that 
+distinguished natal dens from the residual stand and used the information-theoretic approach 
+to select the models that best explained the data. Two models of the fifteen tested were good 
+predictors of den sites. The top ranked model had three variables: tip-up mounds of blown 
+down trees, visual obscurity as measured with a cover pole at 5 meters, and volume of above-
+ground solid coarse woody debris (Wi = 0.39). The second ranked model had visual obscurity 
+and tip-up mounds as the only two variables (Wi = 0.36). Lynx select for structure and cover 
+within stands independent of stand age for natal den sites. 
+ 
+ 
+ 
+(290) POPULATION STRUCTURE OF FISHERS (MARTES PENNANTI) ACROSS NEW 
+YORK AND NEW ENGLAND 
+Paul Rella-Hapeman, Emily K. Latch, Jenny A. Fike, Olin E. Rhodes, Jr. & C. William 
+Kilpatrick, Department of Biology, University of Vermont, Burlington, Vermont, USA, 
+(PSH), Department of Forestry and Natural Resources, Purdue University, West Lafayette, 
+IN, USA, (EKL,JAF,OER), Department of Biology, University of Vermont, Burlington, VT, 
+USA, (CWK) 
+ 
+Population structure was examined in fishers (Martes pennanti) across the northeastern United 
+States using genotypic data (n=433) from 11 microsatellite loci. Both spatial and non-spatial 
+methods of Bayesian clustering of genotypes resulted in the highest posterior probability of K 
+at four populations across the study area. The uppermost level of structuring in the data set 
+was determined to be K = 3 from the method of Evanno et al. (2005) and corresponded 
+geographically to populations in New York, New Hampshire, and Maine & Vermont 
+combined. Bayesian assignment of individuals to each of the three pre-defined populations 
+(NY, NH, and ME & VT) ranged from 73.8-97.9% depending on the method used. 
+Significant deviations from Hardy-Weinberg were detected at a few loci in all populations 
+except Maine. Admixture analysis identified 34 samples with significant admixture, 18 of 
+which were located in the vicinity of population boundaries or in areas of overlap between 
+populations. Significant heterozygote deficiencies and positive FIS values in each population 
+suggests further substructuring exists that was not detected using the Bayesian clustering 
+methods. Both admixture and the Wahlund effect may be contributing to the deviation from 
+Hardy-Weinberg equilibrium at loci in each population. Significant differentiation was 
+detected between all pairs of populations using FST and allelic and genotypic differentiation. 
+Current population structure of fishers in the northeastern United States appears to be derived 
+from recolonization from the three refugial populations (ME, NY, and NH) described by 
+Brander and Books (1973) and appears to have been influenced by the reintroductions of 
+fishers that occurred between 1959 and 1991 at a few locations within the study area. 
+ 
+ 
+ 
+(291) GENETIC STATUS AND ABUNDANCE OF A RECOLONIZING BLACK BEAR 
+(URSUS AMERICANUS) POPULATION IN OKLAHOMA 
+
+
+Carnivore Talks - ASM 06 
+ 
+25
+Lynne C. Gardner-Santana, Ronald A. Van Den Bussche, Eric C. Hellgren & David M. 
+Leslie, Jr., Oklahoma Cooperative Fish and Wildlife Research Unit, Oklahoma State 
+University, Stillwater, Oklahoma, USA, (LCG-S,DML), Department of Zoology, Oklahoma 
+State University, Stillwater, Oklahoma, USA, (RAVDB), Cooperative Wildlife Research Lab, 
+Southern Illinois University, Carbondale, Illinois, USA, (ECH) 
+ 
+Extirpation of black bears (Ursus americanus) in Oklahoma and near extirpation in Arkansas 
+occurred in the early 1900s. The translocation of 254 individuals from Minnesota and Canada 
+during 1958-1968 led to the restoration of black bears to Arkansas by the mid-1990s. Black 
+bears are dispersing west across mountain ridges of the Ouachita Mountains from Arkansas 
+into areas in southeastern Oklahoma devoid of bears since 1915. The situation in which 
+quality habitat is within dispersal range of a large demographically healthy bear population is 
+rare due to increasing spatial limitations on available habitat. Genetic monitoring of this 
+dispersal event provides a unique opportunity to examine characteristics of recolonizing 
+populations. Natural recolonization is valuable as a potential tool for maintenance and 
+enhancement of wildlife populations in the absence of adequate funding and public support, 
+and populations involved can provide sources of novel genetic variation to species. We used 
+noninvasive hair sampling to examine characteristics of the black bear population currently 
+recolonizing its former range in Oklahoma. We collected hair samples from 128 hair snares 
+set at a frequency of 1 trap per 23 km2 across the 3,420 km2 study area to ensure ≥1 trap per 
+female homerange. Hair collection occurred during two 7-week periods from June–August 
+2004 and 2005. We collected 650 hair samples, of which 640 (98.5%) were extracted; 299 
+(46.7%) of these have been successfully sexed and genotyped at ≥7 of 10 microsatellite loci. 
+Of these, 272 (91%) are unique individuals represented by a male-biased sex ratio of 1.4:1, 
+and 14 (4.7%) are recaptures. The remaining 13 are duplicate samples. Genetic diversity in 
+this population (0.77) is similar to its source population in Arkansas (~0.75) as well as other 
+large black bear populations in North America (~0.79). No negative effects from inbreeding 
+or reduced population size are evident. 

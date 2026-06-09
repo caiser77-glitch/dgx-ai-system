@@ -1,0 +1,132 @@
+--- 
+source: OZOLINS.pdf
+--- 
+
+ 
+1
+OTTERS IN LATVIA:  A REVIEW OF STUDIES 
+Jānis OZOLIĥŠ 
+State Forest Service, 13. janvāra iela 15, Riga, LV-1932, Latvia 
+email: Janis.Ozolins@vmd.gov.lv, vmi-riga@latnet.lv 
+ 
+ 
+Looking at status reports on otter populations in Europe a few decades ago, one finds very 
+little information about the status of the species in particular regions of the former Soviet 
+Union (REUTHER, 1980).  Game statistics (KALNIĥŠ, 1943) confirm that before annexation to 
+U.S.S.R., dynamics of the otter population in Latvia were similar to those in other parts of 
+Central Europe.  However, after World War II the population increased rapidly (ORNICĀNS, 
+1996) and was already thriving by the 1980s or somewhat earlier.  Meanwhile, in countries of 
+western and central Europe, the species had become extinct from wide areas, with recovery in 
+some abandoned areas starting much later (BRZEZŃSKI, ET AL., 1996; KRANZ AND TOMAN, 
+2000).  
+Surveys to assess biological reasons for the favourable otter status in Latvia were 
+carried out from 1986 to 1997.  Mapping of spraints (faeces) and the presence of tracks on 
+riverbanks, lakes, beaver ponds, drainage ditches, as well as near river estuaries along the sea 
+coast showed that the species was distributed throughout the country (OZOLIĥŠ AND RANTIĥŠ, 
+1992a,b; OZOLIĥŠ, KRANZ AND TOMAN 1998; OZOLIĥŠ, 1999).  Relative abundance of otters 
+was studied during ice-free periods by simultaneously surveying both banks of rivers and 
+counting all otter signs, regardless of their freshness. Patterns of distribution of secondary 
+signs were obtained along nearly 2,000 kilometres of watercourses in a way similar to a 
+classic study on the River Dee by JENKINS AND BURROWS (1980).  The river sections (one 
+kilometre long) with the comparatively higher numbers of otter signs were considered as otter 
+activity centres and their density per ten kilometres used as an index of population density. No 
+statistically significant differences in densities were found dividing the rivers into large and 
+small according to their width, nevertheless, we estimated that the headwater of a large river 
+was more densely inhabited than lower reaches (OZOLIĥŠ, 1999).  
+We also used a sample (n=113) of otters accidentally killed by beaver trappers 
+(OZOLIĥŠ AND RANTIĥŠ, 1994, 1995) to obtain knowledge on population demography.  
+Trapping bias against gender and age of eliminated specimens was considered as far as 
+possible.  We concluded that the sex ratio in the otter population of Latvia is 1:1, a typical 
+state for this species.  We found that only 38% of adult females held actual evidence of 
+reproduction within a given year.  Breeding has been registered according to various signs, 
+from February to October, however, the majority of records occurred in summer.  The average 
+number of offspring was 2.69 ± 0.26 (n=13).  Taking into account the structure both of the 
+otter population (OZOLIĥŠ, 1999) and suitable habitats (OZOLIĥŠ AND SJÖÅSEN, 1996; 
+OZOLIĥŠ, 1997), it was calculated that on average, 4,000 otters inhabited Latvia.  Accidental 
+killing by beaver trappers is still the main cause of mortality, but this annual rate does not 
+exceed 10-15% of the population and so far is thought to be at a sustainable level. 
+The spraints were collected both during the surveys for abundance indicators as well 
+as by separate visits to certain habitats in certain seasons (OZOLIĥŠ, 1999).  The total sample 
+(n=1,616) was divided and mutually compared among months and the four main habitat 
+types: large rivers, small and medium-sized rivers, lakes, and coastal waters.  Occurrence of 
+prey species was expressed as a percentage of relevant remains in the total identified prey 
+amount (n=3,320).  A peculiarity found, is an extraordinary large proportion of amphibians 
+(up to 90% from November to February, on average 40% during a year) and insects (up to 
+
+
+ 
+2
+20% during months of summer) in the diet (OZOLIĥŠ AND RANTIĥŠ, 1992 a, b; BIRZAKS, 
+OZOLIĥŠ AND ORNICĀNS, 1998; OZOLIĥŠ, KRANZ AND TOMAN, 1998), indicating an example 
+of comprehensive substitution of the main otter prey - fish.  Although the substitution 
+phenomenon seems to be caused by the lack of main prey category (fish), we were not 
+successful in  testing the correlation between the standing stock of fish in Latvia’s rivers and 
+occurrence of fish remains in otter spraint (BIRZAKS, OZOLIĥŠ AND ORNICĀNS, 1998).  It was 
+found that bottom dwelling animals, mostly frogs, but also sedentary and hibernating fish, 
+made up the main share in the diet from November to March. Terrestrial and semi-aquatic 
+animals, to a large extent frogs again, are of high importance in the rest of year, but 
+particularly from June to August.  This seems to be contrary to the evolutionary predicted 
+foraging specialisation of otters and can cause extra mortality by human factors (dogs, traffic 
+etc.) and large predators because otters  move  more often  from the edge of the water.  The 
+safest feeding conditions are in November when not more than 5% of identified prey had been 
+caught on the bank (OZOLIĥŠ, 1999).  
+A reason for the successful recovery of the otter population in Latvia could be a low 
+concentration of toxic pollution, proved by Swedish colleagues (SJÖÅSEN ET AL., 1997).  This 
+study supported the hypothesis that polychlorinated biphenyls (PCBs) are one of the most 
+important agents causing the decline of otter population in Europe (MASON, 1989).  Contrary 
+to their position in food webs, otters, even at a high population density, are scarcely infected 
+by parasitic helminths.  Six helminth species were discovered in otters in Latvia (VISMANIS 
+AND OZOLIĥŠ, 2002).  According to the indices used in parasithological studies, the 
+population is surprisingly little infected and not threatened by parasites. 
+Our conclusion was that none of the preliminary supposed limiting factors are a threat 
+to otters in Latvia; however, several peculiarities exist in that the ecology of the species 
+appears to differ from other populations in Europe.  Otters in Latvia are no longer considered 
+as priority species by conservationists and otter surveys have recently ceased due to the lack 
+of institutional capacity.  Nevertheless, otters need careful monitoring and a well-developed 
+management plan for the future. 
+ 
+REFERENCES 
+ 
+BIRZAKS, J., OZOLINŠ, J. & ORNICĀNS, A. 1998. Otter (Lutra lutra) diet related to abundance of fish in some of 
+Latvia’s rivers. Proceedings of the Latvian Academy of Sciences. Section B, 52: 70-76. 
+BRZEZŃSKI,, M., ROMANOWSKI, J., CYGAN, J.P. & PABIN B. 1996. Otter (Lutra lutra) distribution in Poland. 
+Acta Theriologica, 41: 113-126. 
+JENKINS, D. & BURROWS G.O. 1980. Ecology of otters in northern Scotland. III. The use of faeces as indicators 
+of otter (Lutra lutra) density and distribution. Journal of Animal Ecology, 49: 755-774. 
+KALNIĥŠ, A. 1943. Jäger in Livland, Kurland und Lettgallen. Latvju Gramata, Riga. 
+KRANZ, A. & TOMAN, A. 2000. Otters recovering in man-made habitats in central Europe. In: Mustelids in a 
+Modern World. Management and Conservation Aspects of Small Carnivores: Human Interactions (Edited by 
+Griffiths, H.I.) Pp 163-183. Backhuys Publishers, Leiden. 
+MASON, C.F. 1989. Water pollution and otter distribution: a review. Lutra, 32: 97-131. 
+ORNICĀNS A. 1996. Legal status of the otter in Latvia. In: Seminar on the Conservation of the European Otter 
+(Lutra lutra). Environmental Encounters, No. 24: 87-90. Council of Europe, Strasbourg.  
+OZOLIĥŠ, J. 1997. Field control and description methods of otter (Lutra lutra) habitats in Latvia. In: 
+Proceedings 14th Mustelid Colloquium. (Edited by Toman, A & Hlavač, V.) Pp 7-10. Prague. 
+OZOLIĥŠ, J. 1999. Eurasian Otter (Lutra lutra L. 1758)  in the Freshwater and Riparian Ecosystems in Latvia. 
+(Summary of thesis for doctoral degree in biology.) Latvijas Universitāte, Riga. 
+OZOLINS, J., KRANZ, A.  &  TOMAN, A. 1998. Three men in a boat (to say nothing of the otter in Latvia).  IUCN 
+Otter Specialist  Group Bulletin, 15: 103-108. 
+OZOLIĥŠ, J. & RANTIĥŠ, M. 1992a. Einige Voraussetzungen zur heutigen Bestandsentwicklung und zur 
+Verbreitung des Fischotters Lutra lutra L. in Lettland. In: Semiaquatische Säugetiere (Edited by  Schröpfer, R.  
+Stubbe, M. & Heidecke, D.) Pp 365-384. Wiss. Beitr. Univ. Halle, Halle (Saale). 
+
+
+ 
+3
+OZOLIĥŠ, J. & RANTIĥŠ M. 1992b. The distribution and habitat conditions of the otter (Lutra lutra) in Latvia. 
+In: Proceedings of the First Baltic Theriological Conference. Pp 186-196. Tartu Ülikool, Tartu. 
+OZOLIĥŠ, J., & RANTIĥŠ, M. 1994. Otter survival in relation to beaver trapping in Latvia. Environmental 
+Encounters, No. 17:121-122. Council of Europe, Strasbourg.  
+OZOLIĥŠ, J. & RANTIĥŠ, M. 1995. The data on otter Lutra lutra population provided by beaver trapping in 
+Latvia. Ekologija, 2: 64-69. Vilnius.  
+OZOLIĥŠ, J. & SJÖÅSEN T. 1996. An approach to comparison of European Otter (Lutra lutra) habitats in areas 
+with different status of population. In: Seminar on the Conservation of the European Otter (Lutra lutra). 
+Environmental Encounters, No.  24: 165-168. Council of Europe, Strasbourg.  
+REUTHER, C. 1980. Zur situation des fischotters in Europa. In: Der Fischotter in Europa: Verbreitung, 
+Bedrohung, Erhaltung. (Edited by Reuther, C & Festetics, A.) Pp 71-92.  Selbstverlag, Oderhaus, Göttingen. 
+SJÖÅSEN, T., OZOLIĥŠ, J. GREYERZ, E. &OLSSON, M. 1997. The otter (Lutra lutra) situation in Latvia and 
+Sweden related to PCB and DDT levels. Ambio, 26: 4, 196-201. 
+VISMANIS, K. & OZOLINS, J. 2002. Preliminary data on parasites of European Otter (Lutra lutra) in Latvia. In: 
+Otter Conservation – an Example for a Sustainable Use of Wetlands. Proceedings of the Seventh International 
+Otter Colloquium, Trebon, 14-19 March 1998. (Edited by Dulfer, R., Conroy, J.W.H., Nel, A.J. &  Gutleb, A.C.) 
+IUCN Otter Specialist Group Bulletin, 19A: 374-378. 

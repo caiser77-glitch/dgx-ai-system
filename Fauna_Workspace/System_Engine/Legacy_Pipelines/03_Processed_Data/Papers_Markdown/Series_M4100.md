@@ -1,0 +1,75 @@
+--- 
+source: Series_M4100.pdf
+--- 
+
+           MAMMAL RUMEN IMPLANT         
+Series M4100
+Technical Specifications
+Transmitter type:
+Crystal controlled High Output
+Calibration tolerance:
+± 2.5kHz
+Frequency stability:
+± 2.5kHz, -20°C to 40°C
+Pulse rate and width:
+Typical on time 20ms, off time 1100ms (controlled by uC)
+Pulse rate variation:
+0.01%/volt, ± 0.01% for temperatures −20°C to +40°C
+Battery:
+Lithium
+Activation:
+By removing magnet
+Encapsulation:
+Electrical resin, water-proof, specific gravity: 1.12
+Coated with USP Class VI material
+MODEL
+BATTERY
+WARRANTY LIFE (days)
+DIMENSIONS          
+(mm)
+WEIGHT 
+(grams)
+PRICE
+GROUP
+BATTERY CAPACITY (days)
+35 ppm*
+40 ppm
+55 ppm
+3.5V
+0.15 mA
+0.23 mA
+0.30 mA
+A
+B
+C
+M4110
+C
+3 YR
+6 YR
+2 YR
+4 YR
+1.5 YR
+3 YR
+31
+165
+30
+400
+E
+M4120
+D
+3 YR
+14 YR
+3 YR
+9 YR
+3 YR
+7 YR
+38
+175
+40
+460
+E
+      * 15 ms pulse width
+High Output transmitter limited to 148 to 218 MHz range.
+470 FIRST AVE NO • BOX 398 • ISANTI, MN 55040 USA
+Tel: 763-444-9267 • Fax: 763-444-9384 • e-mail: sales@atstrack.com •  Internet: www.atstrack.com
+8/14/02

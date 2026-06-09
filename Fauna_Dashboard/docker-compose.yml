@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  fauna-dashboard:
+    image: fauna-dashboard:latest
+    container_name: fauna-dashboard
+    restart: unless-stopped
+    ports:
+      - "8005:8005"
+    volumes:
+      # 대시보드 데이터베이스 파일 영구 보관
+      - ./server/database.json:/app/server/database.json
+      # 상위 생태 조사 워크스페이스 연동 (야장, GIS 도면, 보고서 파일 공유)
+      - ../Fauna_Workspace:/app/Fauna_Workspace
+    environment:
+      - NODE_ENV=production
+      # 구글 Gemini API 키 연동 (NAS 시스템 환경변수 또는 .env에서 자동 주입)
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}

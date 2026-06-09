@@ -1,0 +1,2067 @@
+--- 
+source: Chame_2003,_Terrestrial_Mammal_Feces.pdf
+--- 
+
+71
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I): 71-94, 2003
+Fax: +55-21-2257.3946.  E-mail: mchame@ensp.fiocruz.br
+Received 26 August 2002
+Accepted 25 November 2002
+Terrestrial Mammal Feces: a Morphometric Summary and
+Description
+Marcia Chame
+Laboratório de Ecologia, Departamento de Endemias, Escola Nacional de Saúde Pública-Fiocruz, Rua Leopoldo Bulhões 1480,
+21240-210 Rio de Janeiro, RJ, Brasil
+The study of feces of terrestrial mammals brings out biological and ecological data such as the species presence,
+diet, behaviour, territory, parasitic fauna, and home-range use, which can be applied for conservation projects and
+support paleoecological research that use coprolites as the main source of study.  Although the new biotechnologi-
+cal techniques allow more accurate data, the diagnosis based on morphometric analyses permits the primary
+identification of the taxonomic group origin to support the best choice of subsequent analyses. We present the
+compilation list of fecal shape and measurements available in the literature published in North America, Eastern
+and Southern Africa, Europe, and new data from Brazil. Shape and diameters are the best characteristics for
+taxonomic identification. Feces were assembled in 9 groups that reflect the Order, sometimes the Family, and even
+their common origin.
+Key words: feces - coprolites - terrestrial mammals - fauna
+Tracking is probably the oldest science (Liebenberg
+1990). By looking for signs left by animals we learn to
+observe useful details to hunt them or to avoid them. Track-
+ing reveals the age of marks left by animals and the natu-
+ral behaviour of animals without the influence of the ob-
+server (Wemmer et al. 1996). As a non-invasive method, it
+constitutes an important tool for studying threatened
+species or animals difficult to observe and trap. It can be
+applied as well for studying rare and nocturnal animals.
+Although it requires observers who are well trained with
+sharp sensitivity, its low cost and accessible technology
+turn tracking into a good choice for field studies.
+Besides the observer abilities, some other factors in-
+fluence the find of marks and signs left by animals. Soil
+characteristics, vegetation, and local climate determine
+sign and mark conditions. Sandy and loamy soils pre-
+serve better footprints than soft soils with thick organic
+material of superposed layers, and stony areas. However,
+stony areas, dry ecosystems, and frozen ecosystems pro-
+vide the best preservation for feces (Bang & Dahlström
+1975). On the other hand, it is not easy to identify signs in
+areas where animals have high demographic densities.
+Feces are the most evident and most easily recogniz-
+able sign (Liebenberg 2000).  However, the rarity of some
+species difficult the observation, as well as others factors
+like, the presence of buried feces or the behaviour of def-
+ecating inside the water or on the branches of the trees.
+For identification, the original fecal shape must be main-
+tained.  Several factors can corrode the original fecal shape
+through time.  These factors include heat, desiccation, or
+fast decomposition in humid and rainy regions. Fragmen-
+tation by other animals such as dung beetles and ter-
+mites, which frequently consume herbivorous feces, is
+also another factor that prevents fecal preservation (Stuart
+& Stuart 1998). Feces can also be consumed by carni-
+vores.  For example spotted hyenas eat  lion dung and
+fresh wild dog dung (Stuart & Stuart 1998).
+Droppings consist of partly digested material and un-
+digested parts of animals and plants.  Fecal components
+may include  feathers, bones, teeth, claws, scales, arthro-
+pod chitin, seeds and plant tissues, pollen grains, as well
+as mucus, cells, and a significant amount of living and
+dead bacteria (Bang & Dahlström 1975, Bjune 2000).
+Mammal feces have a social communication role
+(Gorman & Trowbridge 1989). When randomly deposited
+they show the individual or group home-range, as among
+American marsupials, lagomorphs, some ungulates,  some
+rodents, and primates. They are used as territorial marks
+when deposited in small volumes in prominent places such
+as trail junctions, rocks, trunks, or termite nests. Feces are
+used as strategic sensorial marks by all Carnivora family
+species except Hyaenidae (Gorman & Trowbridge 1989,
+Estes 1991, Romo 1995, Aragona & Setz 2001). Some mam-
+mals defecate in discreet individual latrines as do hyae-
+nas (Gorman & Trowbridge 1989) and collared anteaters
+(Tamandua tetradactyla, Myrmecophagidae : Edentata)
+in the Brazilian Northeast (Chame 1988). Collective latrines
+are used by some ungulates, such as antelopes (Walker
+1996), Hyrax spp (Kingdon 2001), and some procyonids
+(Page et al. 2001). Collective latrines can also be used for
+generations as in the case of Kerodon rupestris (Cavi-
+idae: Rodentia), an endemic species of the Brazilian semi-
+arid region. Feces from this animal are found in rock-shel-
+ters and in the archaeological sites of the Serra da Capivara
+National Park (Ferreira et al. 1991, Araújo et al. 1993).
+ In the carnivores, the secretion produced by the anal
+gland adheres to the feces during defecation. The secre-
+tion of each species has a characteristic and complex odour
+and it supplies intra and interspecific information of an
+individual’s territory, sex, reproductive state, and move-
+ments (Gorman & Trowbridge 1989). The size and the amount
+of feces produced by each individual varies with age, the
+
+
+7 2
+Mammal Feces  Marcia Chame
+type of ingested food, and its absorption capacity (Bang &
+Dahlström 1975). Size variation is more frequent among
+herbivores because of the alteration in the quality and
+amount of food ingested in different seasons.  Size varies
+less among carnivores (Stuart & Stuart, 1998). Food char-
+acteristics also affect fecal consistency. Fibrous plants may
+be the only food found during dry periods or in arid envi-
+ronments, so animals produce hard and more compact fe-
+ces. During rainy periods or in tropical rainforest ecosys-
+tems, the larger consumption of green leaves, sprouts, and
+fruits produce soft, large, and aggregated feces.
+Scatology is the science that studies feces (Seton, 1925)
+and since 1970s the number of studies in this area is in-
+creasing (Putman 1984, Halfpenny & Biesiot 1986, Kohn
+1997). Several types of information can be obtained from
+feces and their contents, including the identification of the
+animal (Seton 1925, Camardella et al. 2000), their activity
+centers (Walker 1996), diet composition (Johnson & Hansen
+1978, Johnson & Aldred 1982, Emmons 1987, 1997, Inagaki
+& Tsukahara 1993, Chinchilla 1997, Santos & Hartz 1999,
+Kauhala & Auniola 2001), seasonal diet changes (Corn &
+Warren 1985, Aragona & Setz 2001), inventory of prey spe-
+cies (Floyd et al. 1978, Emmons, 1987, Camardella et al. 2000),
+the role of seed dispersion (Fragoso & Huffman 2000, Wil-
+liams et al. 2000), health condition, and potential entero-
+parasitosis dynamics (Patton et al. 1986, Page et al. 2001).
+Researchers have been using feces counting methods for
+population estimation (Neff 1968). However, the effective-
+ness of this methodology is still controversial due to sea-
+sonal variation, the difficulty in estimating a daily defeca-
+tion output, and predicting the time of fecal decomposition
+(Lancia et al. 1996, Patterson 1998).
+Scatology developed from basic morphometric descrip-
+tion to more sophisticated chemical analyses (Nagy &
+Gilbert 1968, Johnson & Carey 1979, Weaver & Fritts 1979,
+Weaver & Hoffman 1979, Major et al. 1980, Danner & Dodd
+1982, Rollings et al. 1984, Fernández et al. 1997). Recently,
+the application of molecular biology techniques to the
+study of feces allowed new approaches for the manage-
+ment of threatened species (Reed et al. 1997). Through
+DNA recovered and identified from feces, it is possible to
+distinguish similar feces of sympatric carnivores (Farrel
+et al. 2000), population variation and biogeography of iso-
+lated ape groups in fragmented forests (Jensen-Seaman
+& Kidd 2001), and the variation in food behavior among
+individuals of the same species (Fedriani & Kohn 2001).
+Despite biotechnological progress, the basic initial
+diagnosis provided  by morphometry and the assemblage
+of signs observed in the field determine the starting point
+for subsequent studies, and the choice of more sophisti-
+cated techniques. For paleoparasitological studies it is
+important to identify the zoological origin of coprolites.
+So, the study of fecal morphology is important for mod-
+ern wildlife study and paleoecological coprolite study.
+Presented here is a comprehensive summary of fecal
+morphometric data from bibliographical sources for con-
+spicuous species of terrestrial mammals.   These data are
+from North America, Central America and South America,
+Europe, and Southern Africa, and Eastern Africa. It also
+includes the results of my  studies in Brazilian arid  North-
+east.
+MORPHOMETRIC CHARACTERISTICS OF TERRESTRIAL
+MAMMAL FECES
+Data presented here were obtained from scientific jour-
+nals and also from field guides published by non-aca-
+demic editors (Burt & Grossenheider 1973, Murie 1974,
+Bang & Dahlström 1975, Russo & Olhausen 1987, Estes
+1991, Walker 1996, Stuart & Stuart 1996, 998, Lienbeberg
+2000, Kingdon 2001).
+The compiled data, presented in Tables I-IV and in the
+Figure allows the morphometric analysis and the identifi-
+cation of 9 similar fecal groups. Our groups are in accor-
+dance  with Seton (1925) who emphasized that the form
+and the contents of feces are excellent guides for the di-
+agnosis of each mammalian Order. They reflect their pe-
+culiar anatomy. Feces have a low value to the diagnosis at
+the Family level, and none at generic level. Seton (1925)
+presents the curious and seemingly contradictory state-
+ment that fecal shape is a valuable and auxiliary consider-
+ation in specific diagnosis, and that size and food con-
+tents can sometimes separate close related species (Chame
+1991).
+GROUP I
+Cylindrical feces (sausage-shaped), with
+sub-divisions, tapered at one of the extremities. Charac-
+teristic of the Carnivora Order.
+The Felidae family feces can be identified by their com-
+pact form with well defined segments and one of the ex-
+tremities especially tapered (Table I, II, III and Figure).
+Other families and subfamilies can be distinguished by
+the difference of diet remains, such as in pinnipeds and
+aquatic mustelids (Lutrinae), whose feces are only com-
+posed of fish, crustacean, and mollusc remains. Felid fe-
+ces reflect strictly carnivorous diet. However, grass leaves
+ingested to aid hair elimination are also found. Fruit, seed,
+insect, crustacean, plant tissues, and shell fragments are
+commonly found in omnivorous canids, mustelids,
+viverids, and procyonids feces.
+In North America, felid feces with diameters larger than
+2.5 cm can be identified to jaguar (Panthera onca) and
+puma (Puma concolor). Feces with smaller diameters are
+assigned to other felid species (Johnson et al. 1984). In
+Brazilian Northeast a diameter larger than 2.1 cm is enough
+to separate the great felids (P. onca and P. concolor) from
+the small felids (Leopardus tigrinus, Leopardus wiedii,
+Leopardus  pardalis, and Herpailurus yaguaroundi) (P <
+0.0001, Chame 1988). Morphometric patterns can not dis-
+tinguish puma from jaguar feces, and both species are
+sympatric (Emmons 1997).
+In Costa Rica, Chinchilla (1997) showed that ocelot
+feces (Leopardus pardalis) have a significantly smaller
+diameter (χ = 2.26 ± 2.46 cm, n = 15) than  jaguar (χ = 3.15
+± 1.82 cm, n = 16) and puma (χ = 2.92 ± 1.09 cm, n = 9) (P <
+0.05). As in the other regions of the Americas, the mea-
+surements do not distinguish the great feline feces. In
+similar studies in Peru, Romo (1995) found that the puma
+fecal diameter exceeded 2.5 cm, whereas Andean Fox
+(Pseudalopex culpaeus) varied from 1.7 to 2.2 cm, and
+mountain cat feces (Leopardus colocolo) varied from 1.3
+to 1.6cm.
+
+
+7 3
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ shape from Northeastern Brazilian Mammals
+Studies of sympatric North American canids show that
+feces with diameters larger than 3 cm can be identified as
+of wolf (Canis lupus), and smaller, similarly shaped feces
+were from coyote (Canis latrans). Only 4.9% of coyote
+feces are misdiagnosed as wolf feces (Waever & Fritts
+1979). However, with chemical and molecular analysis it is
+possible to identify coyote, fox and bobcat feces (Stokes
+& Stokes 1986). In Europe, the Gray Wolf feces (Canis
+lupus) vary from 10-15 x 2.5-3 cm and the Red Fox feces
+(Vulpes vulpes) from 8-10 x 2 cm (Table III).  Thus, feces
+from these animals can be identified by morphometry (Bang
+& Dahlström 1975).
+In Brazil the maned-wolf (Chrysocyon brachyurus) is
+the larger canid species. Its feces have diameters larger
+than 2.5 cm, and also an characteristic odour and  texture.
+Furthermore, its feces contain fruit remains  which are
+distinctive to this animal (Motta-Júnior et al. 1999,
+Aragona & Setz 2001). In central Brazil (Serra da Canastra
+National Park) we found a sample of maned-wolf feces
+with a diameter of 4.5 cm, considerably larger than cougar
+and jaguar feces. Other Brazilian canids are smaller, so it is
+easy to identify maned-wolf feces (Dalponte 1997) (Table
+IV).
+In Africa the great diversity of medium and large car-
+nivores do not allow a feces morphometric diagnosis cri-
+teria  (Table I).
+Feces of large carnivores can sometimes be totally
+white as happens with jaguar and puma in America, lion
+(Panthera leo) and hyenas in Africa, and  wolf (Canis
+lupus) in Europe and North America.  White feces are a
+result of high calcium content as a consequence of bone
+ingestion (Bang & Dahlström 1975, Chame 1991). They
+can be also be completely black as lion feces, due to the
+great amount of blood ingested (Lienbenberg 2000).
+GROUP II
+Well rounded little and single pellets deposited in
+small patches or in large accumulations. This kind of fe-
+ces includes the order Lagomorpha (hares and rabbits)
+and some ungulates, as the hyrax (Procavidae: Hyra-
+coidea), and antbear (aardvark) (Orycteropodidae:
+Tubilidentata) (Table I, II, III). Antbear is the closer proto-
+ungulate to modern species of hoofed ungulates, and has
+a common origin with tapirs, rhinos, hyraxes, elephants,
+and artiodactyles (Kingdon 2001).
+In this group, shape and diet do not allow to identify
+the origin of the feces, except for Orycteropus afer (Aard-
+vark) (Table I), a termite, ant, and larva consumer.
+GROUP III
+Single and cylindrical pellets. They
+present two round extremities, or with one extremity sligh-
+tly tapered.  This group includes all the rodents. These
+feces vary from very small, such as in Muridae and
+Sciuridae rats, to medium, such as in porcupine
+(Hystricidae in Africa and Erithizonthidae in America),
+gophers (Geomyidae) paca (Agoutidae), agouti
+(Dasyproctidae), and Castoridae (in Europe and North
+America).
+In Northeastern Brazil, feces of Trichomys apereoides
+(Echymyidae), Oryzomys subflavus (Muridae: Sigmodon-
+tinae), Calomys callosus (Cricetidae), Galea spixi, and
+Kerodon rupestris (Caviidae) (P < 0.0001) (Table IV) can
+be distinguished by diameter measurements (Chame 1988).
+Tayassu tajacu
+Dasypus
+novemcinctus
+Oryzomys
+subflavus
+Calomys
+Callosus
+Kerodon rupestris
+Mazama gouazoubira
+Alouatta caraya
+Tamandua tetradactyla
+Panthera onca
+Cerdocyon thous
+Leopardus tigrinus
+Puma concolor
+Tayassu pecari
+Galea
+spixxi
+Trichomys
+apereoides
+
+
+7 4
+Mammal Feces  Marcia Chame
+GROUP IV
+This group is related to Group III. Single pellets
+are cylindrical, inflected, and with the extremities usually
+round. However, what differentiates them from the others
+is a characteristic furrow along the length (coffee bean
+shape). This group includes the African rodents (great
+canerats) of the family Thrynomyidae (Thryonomys
+gregorianus and T. swinderianus) (Table I). This African
+rodent family is represented by fossils 20 million years
+old in North Africa.  The family shows many similarities
+with certain current rodents of South America, especially
+Carterodon (Kingdon 2001). In Northeastern Brazil we
+found Kerodon rupestris and Galea spixii (Caviidae) fe-
+ces that are also included in this group (Table IV, Figure).
+Both families belong to the guinea pig-type rodents
+(Caviomorpha), and have a common origin.
+The feces of K. rupestris and G. spixii can be diag-
+nosed accurately. K. rupestris feces present prominent
+furrow in the concave face and a diameter larger than 0.8
+cm.  In G. spixii feces the furrow is in the convex part and
+the diameter is smaller than 0.8 cm (Table IV, Figure).
+GROUP V
+Cylindrical or rounded pellets usually pointed
+at one end and concave in the other extremity (Table I, II,
+III, Figure). This group includes all of Artiodactyles (Su-
+per Order Ungulata), except those of Bovini tribe
+(Bovinae) that includes the bisons, the buffalos and do-
+mestic cattle. They are well adapted to semi-arid environ-
+ments (Kingdom 2001). The droppings of single pellets
+can be deposited in latrines, as for the rhinoceros (Walker
+1996), and depending on fresh food available they can be
+condensed to form large soft and green patties.
+The feces of two deer species from Brazilian semi-arid
+region (Mazama gouazoubira and Mazama americana)
+cannot be differentiated by the shape and size (Table I, II,
+IV), as observed also in similar species in Africa, North
+America and Europe.
+GROUP VI
+ Flattened feces that accumulate in cir-
+cular piles. The shape of this group is very familiar to
+people because it includes feces of domestic cattle, buf-
+falo, and bison (Bovini: Bovinae). During dry seasons,
+and in dry environments, these feces are brittle and the
+number of piles are few.   During humid periods, they are
+amorphous (Stuart & Stuart 1996).
+GROUP VII
+ Single riniform (kidney-shaped) feces. This
+group just includes feces of the family Equinidae
+(Perissodactyla: Ungulata) and warthog (Phacochoerus
+africanus) (Suidae). They occur  united, or in cake-like
+deposits in humid areas or during summer in temperate
+countries.
+GROUP VIII
+Big and cylindrical feces like bars that
+characterise large ungulates such as the elephants, hip-
+popotamus, and rhinoceros. The two African species of
+rhinoceros use collective latrines which can be shared
+when they are in the same territory (Stuart & Stuart 1998).
+Dung of the white rhinoceros (Ceratotherium simum)
+contains only grass, while black rhinoceros (Dicerus
+bicornis) is easily identified by its fibrous and woody
+contents (Walker 1996, Liebenberg 2000).
+This group also includes South American anteaters
+(Myrmecophagidae: Xenarthra). Collared anteater feces
+(Tamandua tetradactyla) are cylindrical and continuous.
+They measure 1.8-8.1 x 1.1-2.8 cm and easily break when
+they fall on the ground. They are deposited close to shel-
+ters, in easily recognisable individual latrines. The sur-
+face is flat and ant and termite remains can be observed
+with naked eye. Although there are no morphometric studies
+of feces of other species of this family, it is possible that
+their size could be used to distinguish them. Giant ant-
+eater (Myrmecophaga tridactyla) is the larger species
+weighing from 22 to 39 kg. The silky or pygmy anteater
+(Cyclopes didactylus) just weighs between 155 to 275 g.
+Two other species have the same size but do not share
+the same geographical distribution (Emmons 1997).  These
+species are T. tetradactyla (that weighs from 3.6 to 8.4 kg)
+and  the Northern tamandua (Tamandua mexicana).
+GROUP IX
+This group includes species, families, and
+orders for which feces are of mixed shape and size.
+Opossuns (Didelphidae: Marsupialia), primates, armadil-
+los (Dasypodidae: Xenarthra) and insectivores
+(Insectivora) are included in this group. Feces are amor-
+phously cylindrical or rounded, but without any common
+or possible specific characteristic to be attributed to any
+group. However, they can be identified when associated
+to other evidence such as footprints, other marks, or when
+there is a complete knowledge of the local fauna of the
+region.
+Usually, primate feces can be identified if the feeding
+sites are known such as with capuchin monkey studies
+(Cebus apella, Cebidae) in southern Brazil (Pizo & Oliveira
+1999), and black-howler-monkeys (Alouatta caraya,
+Atelidae) in the Brazilian Northeast (Chame & Olmos
+1997).
+FINAL CONSIDERATIONS
+Nine groups can be characterised by fecal morphom-
+etry, and the patterns of shape and size of the terrestrial
+mammal feces are sufficiently consistent to group them
+(Bang & Dahlström 1975). Although the size of the feces
+varies with individual animal age, as well as food habits, a
+size limit can be standardised and attributed to them. Par-
+ticularly, in my studies conducted in the Northeast of Bra-
+zil, the shape and diameter of the feces are a better spe-
+cific indicators than length. Shape can be identified as the
+first indicator for the diagnosis of the fecal origin, cor-
+
+
+7 5
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+roborating the statements of Seton (1925). The statistical
+analysis of measurements can distinguish species of the
+same group, as in rodents of the Northeast of Brazil (Chame
+1988). When the diet is well known for a determined area,
+it can be an important factor to distinguish species, as in
+the case of the African rhinoceros and South American
+canids (Chame 1991, Motta-Júnior et al. 1996, Dalponte
+1997, Aragona & Setz 2001).
+The groups of feces identified in this work suggest
+that the morphology of the feces may reflect a species
+phylogeny, corroborating paleontological data about the
+evolution and radiation of the mammals.
+It is expected that the definition of morphometric pat-
+terns to identify terrestrial mammal feces can be used not
+only for the progress of field studies of current fauna, but
+also to stimulate biomolecular studies based on feces for
+paleoecological, and paleoparasitological studies (Chame
+et al. 1991, Araújo et al. 2000) that use coprolites as a
+primary source of investigation.
+As the study of the feces and coprolites starts in the
+field, with the tracking animals or with the archaeological
+excavations, it is the observer’s acuity and sharpness in
+the gathering the largest amount of information left by
+the animals in nature, together with laboratory results,
+that makes it possible to rebuild movements, ecosystems,
+and biological and ecological relationships.  In essence, it
+allow us to determine what has happened when there were
+no observers present.
+ACKNOWLEDGMENTS
+To Gabriela Landau Remy for providing the African Field
+Guides.
+REFERENCES
+Aragona M, Setz EZ 2001. Diet of the maned wolf, Chrysocyon
+brachyurus (Mammalia: Canidae), during wet and dry sea-
+sons at Ibitipoca State Park, Brazil. J Zool 254: 131-136.
+Araujo AJG, Ferreira LF, Camillo-Coura L, Gonçalves MLC
+2000. Parasitos, parasitismo e paleoparasitologia. An Acad
+Nac Med Rio de Janeiro 160: 20-27.
+Araújo AJG, Rangel A, Ferreira LF 1993. Animal parasitic in-
+fection and climate change in Northeastern Brazil. Mem
+Inst Oswaldo Cruz 88: 577-579.
+Bang P, Dahlström P 1975. Huellas y Señales de los Animales
+de Europa, Omega, Barcelona, 239 pp.
+Bujne AE 2000. Pollen analysis of faeces as a method of dem-
+onstrating seasonal variations in the diet of Svalbard rein-
+deer (Rangifer tarandus platyrhynchus). Polar Res 19: 183-
+192.
+Burt WH, Grossenheider RP 1973. A Field Guide to the Mam-
+mals, 3rd ed., Houghton Miffin, Boston, 289 pp.
+Camardella, AR, Abreu MF, Wang E 2000. Marsupials found in
+felids scats is southern Brazil, and a range extension of
+Monodelphis theresa. Mammalia 64: 379-382.
+Chame M 1988. Estudo Comparativo das Fezes e Coprólitos
+não Humanos da Região Arqueológica de São Raimundo
+Nonato, Sudeste do Piauí,  MSc Thesis, MN/UFRJ, 134 pp.
+Chame M, Olmos F 1997. Two Howler species in Piauí? Neotrop
+Primates 5: 74-77.
+Chame M, Ferreira LF, Araújo AJG, Confalonieri U 1991. Ex-
+perimental paleoparasitology: an aproach to the diagnosis
+of animal coprolites. Paleopathol News 76: 7-9.
+Chinchilla FA 1997 La dieta del jaguar (Panthera onca), el puma
+(Felis concolor) y el manigordo (Felis pardalis) (Carnivora:
+Felidae) en el Parque Nacional Corcovado, Costa Rica. Rev
+Biol Trop 45: 1223-1229.
+Corn JL, Warren RJ 1985. Seasonal food habits of collared pec-
+cary in south Texas. J Mammal 66: 155-159
+Dalponte JC 1997. Diet of the hoary fox, Lycolopex vetulus, in
+Mato Grosso, Central Brazil. Mammalia 61: 537-547
+Danner DA, Dood N 1982.  Comparison of coyote and gray fox
+scat diameters. J Wildl Mgmt 46: 240-241.
+Emmons LH 1987. Comparative feeding ecology of felids in a
+Neotropical Rainforest. Behav Ecol Sociobiol 20: 271-283
+Emmons LH 1997. Neotropical Rainforest Mammals. A Field
+Guide, 2nd ed., The Univ. Chicago Press, Chicago, 307 pp.
+Estes RD 1991. The Behaviour Guide to African Mammals,
+Univ. California Press, California, 611 pp.
+Farrel LE, Roman J, Sunquist ME 2000. Dietary separation of
+sympatric carnivores identified by molecular analysis of
+scats. Mol Ecol 9: 1583-1590.
+Fedriani JM, Kohn MH 2001. Genotyping faeces links indi-
+viduals to their diet. Ecol Letters 4: 477-485.
+Fernández GJ, Corley JC, Capurro AF 1997. Identification of
+cougar and jaguar faeces through bile acid chromatography.
+J Wildl  Mgmt 61: 506-510.
+Ferreira LF, Araújo AJG, Confalonieri EU, Chame M, Gomes,
+DC 1991. Trichuris eggs in animal coprolites dated from
+30.000 years ago. J Parasitol 77: 491-493.
+Floyd TJ,  Mech LD, Jordan PA 1978. Relating wolf scat con-
+tent to prey consumed. J Wildl Mgmt 42: 528- 532.
+Fragoso JMV, Huffman JM 2000. Seed-dispersal and  seedling
+recruitment patterns by last Neotropical megafaunal ele-
+ment in Amazon, the tapir. J Trop Ecol 16: 369-385.
+Gorman ML, Trowbridge BJ 1989. The role odor in the social
+lives carnivores. In JL Gittleman, Carnivore Behaviour,
+Ecology and Evolution, Chapman & Hall Ltd, New York,
+p. 57-88.
+Halfpenny J,  Biesiot 1986. A Field Guide to Mammal Tracking
+in North America, 2nd ed., Johnson Publishing, New york,
+161 pp.
+Inagaki H, Tsukahara T 1993. A method of identifying chim-
+panzee hairs in lion feces. Primates 34: 109-112.
+Jensen-Seaman MI, Kidd KK 2001. Mitocondrial DNA varia-
+tion and biogeography of eastern gorillas. Mol  Ecol 10:
+2241-2247.
+Johnson MK, Aldred  DR 1982. Mammalian prey digestibility
+by bobcats. J Wildl Mgmt 46: 530.
+Johnson MK, Carey AB 1979. Porcupine pellet pH, color and
+composition. Southwestern Nat 24: 554-555.
+Johnson MK, Hansen RM 1978. Estimating dry weights per
+occurrence for taxa in coyote scats. J Wildl Mgmt 42: 913-
+915.
+Kauhala K, Auniola M 2001. Diet of raccoon dogs in summer in
+the Finnish archipelago. Ecography 24: 151-156.
+Kingdon J 2001. The Kingdon Field Guide to African Mam-
+mals, Academic Press, New York, 476 pp.
+Kohn MH, Wayne, RK 1997. Facts from faeces revisited. Trends
+Ecol Evol 12: 223-227.
+Lancia RA, Nichols JD, Pollock KH 1996. Estimating the num-
+ber of animals in wildlife populations. In TA Boukhout,
+Research and Management Techniques for Wildlife and
+Habitats, The Wildlife Soc, Washington,  p. 215- 153.
+Liebenberg L 1990. The Art of Tracking: the Origin of Science,
+David Philip Publishers, Cape Town, 176 pp.
+Liebenberg L 2000. Tracks and Tracking in Southern Africa,
+Struik Publishers, Cape Town, 144 pp.
+Major M, Johnson MK, Davis WS, Kellog TF 1980. Identify-
+ing scats by recovered of bile acids. J Wildl Mgmt 44: 290-
+293.
+Motta-Junior JC, Talamoni SA, Lombardi JA, Simokomaki K
+
+
+7 6
+Mammal Feces  Marcia Chame
+1996. Diet of maned wolf, Chrysocyon brachyurus, in Cen-
+tral Brazil. J Zool 240: 277-284.
+Murie OJ 1974. Animals Track. Peterson Field Guild Series,
+2nd ed., Houghton Mifflin, Boston, 375 pp.
+Nagy JG, Gilbert 1968. Fecal pH values of mule deer and graz-
+ing domestic sheep. J Wildl Mgmt 32: 961-962.
+Neff DJ 1968. The pellet-group count technique for big game
+trend, census, and distribution: a review. J Wildl Mgmt 32:
+597-614.
+Page LK, Swihart RK, Kazacos KR 2001. Seed preferences and
+foranging by granivores at raccoon latrines in the transmis-
+sion dynamics of raccoon roundworm (Baylisascaris
+procyonis). Can J Zool 79: 616-622.
+Patterson BR, Benjamin LK, Messier F. 1998. Prey switching
+and feeding habits of eastern coyotes in relation to snow-
+shoe hare and white-tailed deer densities. Can J Zool 76:
+1885-1897.
+Patton S, Rabinowitz A, Randolph S,  Johnson SS 1986. A
+coprological survey of parasites of Neotropical Felidae. J
+Parasitol 72: 517-520.
+Pizo MA, Oliveira PS 1999. Removal seeds from vertebrate
+faeces by ants: effects os seed species and deposition site.
+Can J Zool 77: 1595-1602.
+Putman RJ 1984. Facts from faeces. Mammal Revue 14: 79-97.
+Reed J, Tollit DJ, Thompson PM, Amos W 1997. Molecular
+scatology: the use of molecular genetic analysis to assign
+species, sex and individual identity to seal faeces. Mol Ecol
+6: 225-234.
+Rollins D, Bryan FC, Montadon 1984. Fecal pH and defeca-
+tion rates of eight ruminants fed known diets. J  Wildl Mgmt
+48: 807-813.
+Romo MC 1995. Food habits of the Andean fox (Pseudalopex
+culpaeus) and notes on the mountain cat (Puma colocolo)
+and puma (Felis concolor) in the Rio Abiseo National Park,
+Peru. Mammalia 59: 335-343.
+Russo R, Olhausen P 1987. Pacific Coast Mammals, Nature
+Study Guild, California, 93 pp.
+Santos MFM, Hartz SM 1999. The food habits of Procyon
+cancrivorus (Carnivora, Procyonidae) in the Lami Biologi-
+cal Reserve, Porto Alegre, Southern Brazil. Mammalia 63:
+525-530.
+Seton ET 1925. On the study of scatology. J Mamm 6: 47-49.
+Stokes D, Stokes L 1986. Animals Tracking and Behaviour,
+Stokes Nature Guides, Little Brown, Cape Town, 418 pp.
+Stuart C, Stuart T 1996. Field guide to the Larger Mammals of
+Africa, Struik Publishers, Cape Town, 318 pp.
+Stuart C, Stuart T 1998. A Field Guide to the Tracks and Signs
+of Southern and East African Wildlife, Southern Books Pub-
+lishers, Cape Town, 310 pp.
+Walker C 1996. Signs of the Wild, Struik Publish, Cape Town,
+215 pp.
+Weaver JL, Fritts SH 1979. Comparison of coyote and wolf
+scat diameters. J Wildl Mgmt 43: 786-788.
+Weaver JL, Hoffman SW 1979. Differential detectability of
+rodentes in coyote scats. J  Wildl Mgmt 43: 783-786.
+Wemmer C, Kunz TH, Lundie-Jenkins G, McShea W. 1996.
+Mammalian sign. In DE Wilson, FR Cole, JD Nichols, R
+Rudran, MS Foster (eds), Measuring and Monitoring Bio-
+logical Diversity – Standard Methods for Mammals,
+Smithsonian Institution Press, Washington, p. 157-176.
+Williams PA, Karl BJ, Bannister P, Lee WG 2000. Small mam-
+mals as potencial seed disperses in New Zeland. Austral
+Ecol 25: 523-532.
+TABLE I
+Feces’ measures and shapes from  African mammals
+Feces’ measures
+Mammals’ species
+L x W cm
+       Feces’  shape
+References
+∅ cm
+LAGOMORPHA
+Leporidae
+Lepus saxatilis
+ L = 1 cm
+Lienbenberg  2000
+(Hare)
+Walker 1996
+Lepus capensis
+L = 1 cm
+Walker 1996
+(Cape Hare)
+RODENTIA
+Sciuridae
+Xerus inaurus
+1.5 x 0.5 cm
+Walker 1996
+(Ground squirel)
+9
+
+
+7 7
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+9
+Feces’ measures
+Mammals’ species
+L x W cm
+       Feces’  shape
+References
+∅ cm
+Paraxerus cepapi
+L = 0.5 cm
+Walker 1996
+(Tree Squirel)
+Pedestes capensis
+L = 2 cm
+Lienbenberg  2000
+(Springhare)
+Walker 1996
+Thryonomyidae
+Thryonomys swinderianus
+L = 2 cm
+Walker 1996
+(Greater Cane-rat)
+Stuert & Stuart 1998
+Hystricidae
+Histrix africaeaustralis
+5 cm
+Lienbenberg  2000
+(Porcupine)
+Walker 1996
+INSETIVORA
+Erinaceidae
+Atelirix frontalis
+L = 1.5 cm
+Walker 1996
+(Hedgehog)
+PRIMATA
+STREPSIRHINI  (Prosimians)
+Galogonidae
+Galago moholi
+L = 5 cm
+                   amorph
+Walker 1996
+(Lesser Bushbaby)
+CATARRHINI  (Old monkeys and man)
+Cercopithecidae
+Papio cynocephalus
+L = 5-10 cm
+Lienbenberg  2000
+P.urcinus
+Walker 1996
+(Chacma baboon)
+Cercopithecus aethiops
+L = 3-5 cm
+Lienbenberg  2000
+Cercopithecus mitis (monkeys)
+Walker 1996
+CARNIVORA
+Canidae
+Lycaon pictus
+7.5 x 2.9 cm
+Walker 1996
+(Wild dog)
+Vulpes chama
+9.5 x 1.8 cm
+Walker 1996
+(Cape Fox)
+Otocyon megalotis
+3.4 x 2 cm
+Walker 1996
+(Bat-eared Fox)
+Canis mesonelas
+7.4 x 2 cm
+Walker 1996
+(Black-backed Jackal)
+
+
+7 8
+Mammal Feces  Marcia Chame
+Feces’ measures
+Mammals’ species
+L x W cm
+            Feces’  shape
+References
+∅ cm
+Canis adustrus
+9.6 x 1.5 cm
+Walker 1996
+(Side-Stripped Jackal)
+Mustelidae
+Ictonys striatus
+6.8 x 5.4 cm
+Walker 1996
+(Striped Polecat)
+Mellivora capensis
+6.8 x 2.2 cm
+Walker 1996
+(Honey Badger)
+Lutrinae
+Aonyx capensis
+L = 8 cm
+Lienbernberg 2000
+(Cape Clawless otter)
+5 x 2.6 cm
+Walker 1996
+Lutra maculicolis
+3.4 x 2.6 cm
+Walker 1996
+(Spotted-necked Otter)
+Hyaenidae
+Hyaena brunnea
+L = 5 cm
+Lienbernberg 2000
+(Brown Hyaena)
+Crocuta crocuta
+(Spotted Hyaena)
+Proteles cristata
+11.2 x 4.5 cm
+Walker 1996
+(Aardwolf)
+Viverridae
+Genetta tigrina
+7.5 x 1.5 cm
+Walker 1996
+ (Large–spotted Genet)
+Genetta genetta
+5.5 x 4.7 cm
+Walker 1996
+(small-spotted Genet)
+Herpestidae
+Suricata suricatta
+5 x 1.8 cm
+Walker 1996
+(Suricate)
+Rhynchogale melleri
+8 x 1 cm
+Walker 1996
+(Meller’s Mongoose)
+Cynictis penicillata
+4.4 x 1 cm
+Walker 1996
+ (Yellow Mongoose)
+Galerella pulverulenta
+4 x 2 cm
+Walker 1996
+(Small Grey Mongoose)
+9
+
+
+7 9
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ measures
+Mammals’ species
+L x W cm
+       Feces’  shape
+References
+∅ cm
+Ichneumia albicauda
+7 x 1.3 cm
+Walker 1996
+(White-tailed Mongoose)
+Atilax paludinosus
+3.2 x 2.2 cm
+Walker 1996
+ (Water Mongoose)
+Herpestes ichneumon
+9 x 2.3 m
+Walker 1996
+(Large Grey Mongoose)
+Galerella sanguinea
+7 x 1.3 cm
+Walker 1996
+(Slender Mongoose)
+Mungus mungo
+3.2 x 1.2 cm
+Walker 1996
+(Banded Mongoose)
+Helogale parvula
+3.6 x 1.5 cm
+Walker 1996
+(Dwarf Mongoose)
+Felidae
+Panthera leo
+15 x 4.4 cm
+Walker 1996
+(Lion)
+Stuart & Stuart 1998
+Panthera pardus
+No data
+Walker 1996
+(Leopard)
+Felis caracal
+5.5 x 1.7 cm
+Walker 1996
+(Caracal)
+Felis serval
+12 x 2.2 cm
+Walker 1996
+(Serval)
+Felis lybica
+3.5 x 2 cm
+Walker 1996
+(African Wild cat)
+Felis nigripes
+4.7 x 1.8 cm
+Walker 1996
+(Small spotted cat)
+1-1.4 cm ∅
+Stuart & Stuart 1998
+Dendrohyrax arboreus
+6.6 x 2.4 cm
+Walker 1996
+(Tree Dassie)
+9
+
+
+8 0
+Mammal Feces  Marcia Chame
+Feces’ measures
+Mammals’ species
+L x W cm
+             Feces’  shape
+References
+∅ cm
+UNGULATA  (Super Order)
+TUBILIDENTATA
+Orycteropodidae
+Orycteropus afer
+L = 4 cm
+Lienbenberg 2000
+(Antbear)
+HYRACOIDEA
+Procavidae
+Procavia capensis
+L = 1 cm
+Lienbenberg 2000
+(Dassie or Rocky Hyrax)
+1.5 x 1 cm
+Walker 1996
+Heterohyrax brucei
+1.5 x 1 cm
+Walker 1996
+(Yellow-spotted Rock Dassie)
+PROBOSCIDAE
+Elephantidae
+Loxodonta africana
+L = 15-20 cm
+Lienbenberg 2000
+(Elephant)
+PERISSODATYLA
+Equidae
+Equus burchelli
+6 x 4 cm
+Walker 1996
+(Burchell’s Zebra)
+Equus zebra zebra
+L = 5 cm
+Lienbenberg 2000
+(Mountain Zebra)
+Rhinocerotidae
+Ceratotherium simum
+L = 10-15 cm
+Lienbenberg 2000
+(White Rhino)
+Diceros bicornis
+(Black Rhino)
+ARTIODACTYLA
+Hippopotamidae
+Hippopotamus amphibius
+L = 10 cm
+Lienbenberg 2000
+(Hippo)
+Suidae
+Potamochoerus porcus
+11 x 4.4 cm
+Walker 1996
+(Bushpig)
+9
+
+
+8 1
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ measures
+Mammals’ species
+L x W cm
+       Feces’  shape
+References
+∅ cm
+Phacochoerus aethiopicus
+L = 5 cm
+Lienbenberg 2000
+(Desert Warthog)
+5.8 x 5.2 cm
+Walker 1996
+Giraffidae
+Giraffa camelopardalis
+L = 2-3 cm
+Lienbenberg 2000
+(Giraffe)
+2.5 x 1.9 cm
+Walker 1996
+Boviidae
+Syncerus caffer
+L = 15 cm
+Lienbenberg 2000
+(Buffalo)
+Stuart & Stuart 1998
+Walker 1996
+Madoqua kirkii
+L = 0.5-1 cm                   Round with a distinctive point
+Walker 1996
+(Damara Dik-dik)
+0.6 x 0.5 cm
+Stuart & Stuart 1998
+(n = 100)
+Ourebia ourebia
+0.75 x 0.5 cm
+Walker 1996
+(Oribi)
+1.3 x 0.6 cm
+Stuart & Stuart 1998
+(n = 100)
+Neotragus moschatus
+0.8 x 0.3 cm
+Walker 1996
+(Suni)
+0.4 x 0.2 cm
+Stuart & Stuart 1998
+(n = 100)
+Raphicerus melanotis
+0.7 x 0.4 cm
+Walker 1996
+(Grysbok)
+0.7 x 0.4 cm
+Stuart & Stuart 1998
+(n = 100)
+Raphicerus sharpei
+0.5 x 0.3 cm
+Walker 1996
+(Sharpe’s Grysbok)
+Oreotragus oreotragus
+L = 1.3 cm
+Walker 1996
+(Klipspringer)
+1 x  0.6 cm
+(n = 100)
+Philantomba monticola
+0.5 cm ∅
+Walker 1996
+(Blue Druiker)
+0.8 x 0.5 cm
+Stuart & Stuart 1998
+(n = 100)
+         Round with pointed tips
+Cephalophus natalensis
+L = 1-2 cm
+Walker 1996
+(Red Druiker)
+0.5 x 0.4 cm
+Stuart & Stuart 1998
+(n = 100)
+            Fairly pointed
+9
+
+
+8 2
+Mammal Feces  Marcia Chame
+Feces’ measures
+Mammals’ species
+L x W cm
+       Feces’  shape
+References
+∅ cm
+Sylvicapra grimmia
+0.6 cm ∅
+Walker 1996
+(Common Druiker)
+0.6 x 0.5 cm
+Stuart & Stuart 1998
+(n = 100)
+                  Round with tiny pointed end in latrines
+Raphicerus campestris
+L = 3 cm
+Walker 1996
+(Steenbok)
+0.8 x 0.4 cm
+Stuart & Stuart 1998
+(n = 100)
+              Distinctly pointed
+Damaliscus dorcas phillipsi
+1.3 x 1.1 cm
+Walker 1996
+(Blesbok)
+Damaliscus dorcas dorcas
+1.3 x 1.1 cm
+Walker 1996
+(Bontebok)
+1.5 x 0.9 cm
+Stuart & Stuart 1998
+(n = 100)
+Damaliscus lunatus
+2.2 x 1.8 cm
+Walker 1996
+(Topi, Tiang or Tsessebe)
+2.1 x 1.3 cm
+Stuart & Stuart 1998
+(n = 100)
+                              More pointed than that of the
+                            others species of the genus
+Redunca arundinum
+1.7 x 1 cm
+Walker 1996
+(Reedbuck)
+1.2 x 0.9 cm
+Stuart & Stuart 1998
+(n = 100)
+Redunca fulvorufula
+1 cm  ∅
+Walker 1996
+(Mountain Reedbuck)
+0.9 x 0.4 cm
+Stuart & Stuart 1998
+(n = 100)
+                  Clusters and single pellets
+Antidorcas marsupialis
+1.3 cm ∅
+Walker 1996
+(Springbok)
+1.1 x 0.7 cm
+Stuart & Stuart 1998
+(n = 100)
+                  Clusters and single pellets
+Aepyceros melampus
+1-2 x 0.7 cm
+Walker 1996
+(Impala)
+1.1 x 0.6 cm
+Stuart & Stuart 1998
+(n = 100)
+                    Clusters and single pellets
+Connochaetes taurinus
+2 x 1 cm
+Walker 1996
+(Blue Wildbeest)
+(n = 100)
+Stuart & Stuart 1998
+Connochaetes gnou
+No data
+Walker 1996
+(Black Wildebeest)
+(similar G. taurinus)
+Stuart & Stuart 1998
+1.5 x 1 cm
+(n = 100)
+9
+
+
+8 3
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ measures
+Mammals’ species
+L x W cm
+       Feces’  shape
+References
+∅ cm
+Gazella rufifrons
+1 x 0.6 cm
+Stuart & Stuart 1998
+(Thomson’s Gazelle)
+(n = 100)
+Gazella granti
+1 x 0.6 cm
+Stuart & Stuart 1998
+(Grant’s Gazelle)
+(n = 100)
+Oryx gazella
+L > 1.7 cm
+Walker 1996
+(Gemsbok)
+1.6 x 1.1 cm
+Stuart & Stuart 1998
+(n = 100)
+Alcelaphus buselaphus
+0.8 x 0.7 cm
+Walker 1996
+(Red Hartebeest)
+1.7 x 1 cm
+Stuart & Stuart 1998
+(n = 100)
+Hippotragus niger
+L = 1.5 cm
+Walker 1996
+(Sable)
+2 x 1.3 cm
+Stuart & Stuart 1998
+(n = 100)
+Hippotragus aquinus
+L = 2.7 cm
+Walker 1996
+(Roan Antelope)
+2 x 1.2 cm
+Stuart & Stuart 1998
+(n = 100)
+Kobus vardonii
+1.1 cm ∅
+Walker 1996
+(Puku)
+Kobus leche
+1.6 cm ∅
+Walker 1996
+(Red Lechwe)
+1.4 x 1.4 cm
+Stuart & Stuart 1998
+(n = 100)
+Kobus ellipsiprymnus
+No data
+Walker 1996
+(Waterbuck)
+2 x 1.4 cm
+Stuart & Stuart 1998
+(n = 100)
+                                 Clusters              Single pellets
+Tragelaphus scriptus
+Cakes
+Walker 1996
+(Bushbuck)
+3.3-2.2 cm
+Stuart & Stuart 1998
+1.4 x 0.6 cm
+(n = 100)
+                                         Clusters                 Single pellets
+Tragelaphus angasii
+L = 1.5 cm
+Walker 1996
+(Nyala)
+1.6 x 1 cm
+Stuart & Stuart 1998
+(n = 100)
+Tragelaphus spekei
+2.5 x 1.3 cm
+Walker 1996
+(Sitatunga)
+9
+
+
+8 4
+Mammal Feces  Marcia Chame
+Feces’ measures
+Mammals’ species
+L x W cm
+       Feces’  shape
+References
+∅ cm
+Tragelaphus strepsiceros
+1.7 cm ∅
+Walker 1996
+(Kudu)
+2.1 x 1 cm
+Stuart & Stuart 1998
+(n = 100)
+                         Similar to those of young giraffe
+Tragelaphus imberbis
+1.1 x 0.7 cm
+Stuart & Stuart 1998
+(Lesser Kudu)
+(n = 100)
+Tragelaphus euryceros
+1.4 x 0.7 cm
+Stuart & Stuart 1998
+(Bongo)
+(n = 100)
+Taurotragus oryx
+2.8 x 2.1 cm
+Walker 1996
+(Eland)
+Ammotragus lervia
+1.6 x 1.1 cm
+Stuart & Stuart 1998
+(Barbary sheep or Aoudad)
+(n = 100)
+TABLE II
+Feces’ measures and shapes from North American mammals
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+References
+∅ cm
+MARSUPIALIA
+Didelphidae
+Didelphis marsupialis
+L = 4.2 cm
+Russo & Olhausen 1987
+(Opossum)
+L = 4.4 cm
+Murie 1982
+Stokes & Stokes 1986
+XENARTHRA
+Dasypodidae
+Dasypus novemcinctus
+L = 3.5 cm
+Murie 1982
+(Nine-banded armadillo)
+INSETIVORA
+Soricidae
+Sorex articus
+0.4 x 0.1 cm
+Murie 1982
+(Artic Shrew)
+Blarina brevicauda
+1.2 x 0.2 cm
+Murie 1982
+(shorttail Shrew)
+Cryptotis parva
+0.6 x 0.1 cm
+Murie 1982
+(Pygmy Shrew)
+9
+
+
+8 5
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+References
+∅ cm
+LAGOMORPHA
+Leporidae
+Lepus californicus
+L = 1-1.2 cm
+Russo & Olhausen 1987
+(Blacktail Jackrabbit or
+Murie 1982
+Blacktail Hare)
+Lepus townsendii
+L = 1.8 cm
+Russo & Olhausen 1987
+(Whitetail Jackrabbit or
+1.3-1.7 x 1.4-0.9 cm
+Murie 1982
+Whitetail Hare)
+Lepus americanus
+L = 1-1.3 cm
+Russo & Olhausen 1987
+(Snowshoe Hare)
+Murie 1982
+Lepus arcticus
+1.6 x 1.4 cm
+Murie 1982
+(Artic Hare or Tundra Hare)
+Lepus europaeus
+1.7 x 1.1 cm
+Murie 1982
+(European Hare)
+Sylvilagus bachmani
+L = 0.6-0.8 cm
+(Brush Rabbit)
+Sylvilagus nuttallii
+L = 0.7-0.9 cm
+Russo & Olhausen 1987
+(Mountain Cottontail)
+Sylvilagus audubonii
+L = 0.8 cm
+(Audubon Cottontail or
+Desert Cottontail)
+Sylvilagus floridanus
+ 0.7-0.9 cm ∅
+Murie 1982
+(Cottontail)
+Stokes & Stokes 1986
+Sylvilagus idahoensis
+ 0.3-0.6 cm ∅
+Murie 1982
+(Pygmy Rabbit)
+Ochotonidae
+Ochotona princeps
+L = 3-5 cm
+Russo & Olhausen 1987
+(Pika, Cony, Rocky Rabbit
+0.2 cm ∅
+or Piping Hare)
+                                                       Dry
+Murie 1982
+                                                        Soft
+RODENTIA
+Sciuridae
+Marmota flaviventris
+L = 2.8-4 cm
+Russo & Olhausen 1987
+(Yellow-belled Marmot)
+9
+
+
+8 6
+Mammal Feces  Marcia Chame
+Feces’ measures
+Mammals’ species
+L x W cm
+                  Feces’  shape
+References
+∅ cm
+Cynomys spp.
+L = 1-0.5 cm
+Murie 1982
+(Prairie Dog)
+Citellus variegatus
+1.5 x 0.7 cm
+Murie 1982
+(larger Rock Squirrel)
+Citellus armatus
+1.3 x 0.2 cm
+Murie 1982
+(Uinta Ground Squirrel)
+Tamias striatus lysteri
+0.6 x 0.2 cm
+Murie 1982
+Eutamias minimus
+L = 0.5-0.7 cm
+Russo & Olhausen 1987
+(Least Chipmunk)
+Eutamias speciosus
+L = 0.7 cm
+(Lodgepole Chipmunk)
+Eutamias merriami
+L = 0.5-1.2 cm
+Russo & Olhausen 1987
+(Merriam Chipmunk)
+Eutamias amoneus
+(Yellow pine Chipmunk)
+Eutamias townsendii
+(Townsend Chipmunk)
+Eutamias sonomae
+(Sonoma Chipmunk)
+Eutamias alpinus luteiventris
+1 x 0.2 cm
+Murie 1982
+Eutamias dorsalis
+0.5 x 0.1cm
+Murie 1982
+Sciurus carolinensis
+1 x 0.4 cm
+Murie 1982
+(Eastern Gray Squirrel)
+Sciurus alberti
+0.6 x 0.3 cm
+Murie 1982
+(Tassel-eared Squirrel)
+Sciurus niger
+L = 1-1.2 cm
+Russo & Olhausen 1987
+(Fox Squirrel)
+Sciurus griseus
+L = 0.9-1.4 cm
+Russo & Olhausen 1987
+(Western Gray Squirrel)
+Murie 1982
+Stokes & Stokes 1986
+Tamiasciurus douglasi
+L = 0.6-1 cm
+Russo & Olhausen 1987
+(Chickaree, Douglas Squireel
+Murie 1982
+or Pine Squirrel)
+Tamiasciurus hudsonicus
+1.5 x 0.2 cm
+Murie 1982
+(Red Squirrel)
+Stokes & Stokes 1986
+Glaucomys
+1.1 x 0.2 cm
+Murie 1982
+(Flying Squirrel)
+Glaucomys sabrinus
+L = 0.4-1.2 cm
+(Northern Flying Squirrel)
+Spermophilus beecheyi
+L = 1-1.4 cm
+Russo & Olhausen 1987
+(California Ground Squirrel)
+Spermophilus lateralis
+L = 1.2-1.4 cm
+(Golden-mantled Ground Squirrel)
+Geomyidae
+Thomomys talpoides
+L = 2.8-4 cm
+Russo & Olhausen 1987
+(Northern Pocket Gophers)
+0.8 x 0.2 cm
+Murie 1982
+9
+
+
+8 7
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ measures
+Mammals’ species
+L x W cm
+                  Feces’  shape
+References
+∅ cm
+Perognatus parvus
+0.2 x 0.1-0.05 cm
+Murie 1982
+(Pocket mouse)
+0.6 x 0.2 cm
+Castoridae
+Castor canadensis
+L = 1.5 cm
+Russo & Olhausen 1987
+(Beaver)
+Murie 1982
+Microtinae
+Ondatra zibethica
+L = 1.0-1.3 cm
+Murie 1982
+(Muskrat)
+Russo & Olhausen 1987
+Stokes & Stokes 1986
+Neofiber hallen
+1.4 x 0.4 cm
+Murie 1982
+(Florida water rat)
+Erithizontidae
+Erithizon dorsatum
+L = 3.5-4.7 cm
+Russo & Olhausen 1987
+(Porcupine)
+Murie 1982
+Stokes & Stokes 1986
+Aplodontiidae
+Aplodontia rufa
+1.5 x 0.5 cm
+Murie 1982
+(Aplodontia)
+Caviidae
+Dasyprocta
+4 x 1.5 cm
+Murie 1982
+(Agouti)
+Dasyproctidae
+Cuniculus paca
+3 x 1.5 cm
+Murie 1982
+(Paca)
+Zapodidae
+Zapus
+0.9 x 0.1 cm
+Murie 1982
+(Jumping mouse)
+Cricetidae
+Neotoma fuscipes
+1 x 1.4 cm
+Russo & Olhausen 1987
+(Dusky-footed Woodrat)
+Neotoma cinerea
+0.3 x 0.2 cm
+Russo & Olhausen 1987
+(Bushytail Woodrat)
+Murie 1982
+Neotoma lepida
+L = 1-1.4 cm
+Russo & Olhausen 1987
+(Desert Woodrat)
+Peromyscus
+1.7 x 0.3 cm
+Murie 1982
+(White-Footed Mouse
+or Deer Mouse)
+Onychomys
+1 x 0.2 cm
+Murie 1982
+(Grasshopper Mouse)
+Reithrodontomys
+0.4 x 0.1 cm
+Murie 1982
+(Harvest Mouse)
+Oryzomys
+1.4 x 0.2 cm
+Murie 1982
+(Rice Rat)
+Sigmodon
+0.8 x 0.1 cm
+Murie 1982
+(Cotton Rat)
+9
+
+
+8 8
+Mammal Feces  Marcia Chame
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+References
+∅ cm
+Microtinae
+Micritus miuru
+0.6 x 0.1 cm
+Microtus richardsoni
+0.7 x 0.2 cm
+Murie 1982
+(Richardson Vole)
+Microtus montanus
+0.5-0.2 x 0.1 cm
+(Mountain Vole)
+Microtus operarius
+0.3 x 0.1 cm
+Murie 1982
+Dicrostonys groelandicus
+0.7-0.3 x 0.2 cm
+Murie 1982
+(Collared lemming)
+Lemmus trimucronatus
+0.4 x 0.2-0.1 cm
+Murie 1982
+(Brown lemming)
+CARNIVORA
+Mustelidae
+Martes americana
+L = 5.5 cm
+Russo & Olhausen 1987
+(Pine Marten)
+1 cm ∅
+Murie 1982
+Martes pennanti
+1.6 cm ∅
+Murie 1982
+(Fisher)
+Stokes & Stokes 1986
+Mustela frenata
+L = 2.8 cm
+Russo & Olhausen 1987
+(Long-tailed Weasel)
+0.6 cm ∅
+Murie 1982
+Mustela erminea muricus
+0.5 cm ∅
+Murie 1982
+(Shorttail weasel)
+Stokes & Stokes 1986
+Mustela vison
+1 cm ∅
+Murie 1982
+(Mink)
+Stokes & Stokes 1986
+Mustela nigripes
+No data
+Murie 1982
+(Black-footed Ferret)
+Gulo luscus
+L = 13 cm
+Murie 1982
+ (Wolverine)
+Lutra canadensis
+L = 6-6.5 cm
+Russo & Olhausen 1987
+ (River Otter)
+1.3 cm ∅
+Murie 1982
+Stokes & Stokes 1986
+Enhydra lutris
+8.5 x 3 cm
+Murie 1982
+(Sea Otter)
+Mephitis mephitis
+L = 3-4.4 cm
+Russo & Olhausen 1987
+(Striped Skunk)
+1.6 cm ∅
+Stokes & Stokes 1986
+Spilogale putorius
+0.6 cm ∅
+Murie 1982
+(Spotted Skunk)
+Spilogale gracilis
+L = 3-4 cm
+Russo & Olhausen 1987
+(Spotted Skunk)
+9
+
+
+8 9
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+References
+∅ cm
+Taxidea taxus
+L = 3.4-4.9 cm
+Russo & Olhausen 1987
+ (Badger)
+1.6 cm ∅
+Murie 1982
+Procyonidae
+Procyon lotor
+L = 3-5 cm
+Russo & Olhausen 1987
+(Raccoon)
+2.5 cm ∅
+Murie 1982
+Comunity latrines
+Stokes & Stokes 1986
+Page et al. 2001
+Nasua narica (Coati)
+L = 6.6 cm
+Murie 1982
+Bassariscidae
+Bassariscus astutus
+L = 7.6 cm
+Murie 1982
+(Ringtail or Cacomistle)
+Ursidae
+Ursus americanus
+L = 8-11 cm
+Russo & Olhausen 1987
+(Black Bear)
+5.7 x 2.8 cm
+Murie 1982
+Stokes & Stokes 1986
+Ursus horribilis
+5.7 cm ∅
+Murie 1982
+(Grizzly Bear)
+Canidae
+Canis lupus
+L = 16 cm
+Murie 1982
+(Gray Wolf)
+> 3 cm ∅
+Weaver & Fritts 1979
+> 2.5 cm ∅
+Halfpenny & Biesot 1986
+Canis latrans
+5.5-8.8 x 2 cm
+Russo & Olhausen 1987
+(Coyote)
+L = 10.6 cm
+Murie 1982
+< 3 cm ∅
+Weaver & Fritts 1979
+ 1.8-2.5 cm ∅
+Stokes & Stokes 1986
+Halfpenny & Biesot 1986
+Vulpes fulva
+L = 5.8 cm
+Murie 1982
+(Red Fox)
+> 1.8 cm ∅
+Halfpenny & Biesot 1986
+Vulpes macrotis
+L = 3.1-6.9 cm
+Russo & Olhausen 1987
+(San Joaquin Kit Fox)
+Olhausen 1987
+Urocyon cinereoargenteus
+5 x 1 cm
+Russo & Olhausen 1987
+(Gray Fox)
+L = 6.4 cm
+Murie 1982
+Alopex lagopus
+L = 6.4 cm
+Murie 1982
+(Arctic Fox)
+9
+
+
+9 0
+Mammal Feces  Marcia Chame
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+References
+∅ cm
+Felidae
+Lynx rufus
+L = 5-12.7 cm
+Russo & Olhausen 1987
+(Bobcat or Wild cat)
+L = 10 cm
+Murie 1982
+Stokes & Stokes 1986
+Puma concolor
+L = 7.6-22.8 cm
+Russo & Olhausen 1987
+(Mountain Lion
+13 x 3.2 cm
+Murie 1982
+or Cougar or Puma)
+> 2.5 cm ∅
+Johnson et al.1984
+Panthera onca
+10.8 x 2.2 cm
+Murie 1982
+(Jaguar)
+> 2.5 cm ∅
+Johnson et al.1984
+Leopardus pardalis
+12.7 x 1.6 cm
+Murie 1982
+(Ocelot)
+PINNIPEDIA
+Otariidae
+Eumetopias jubata
+L = 5-6.3 cm
+Murie 1982
+(Northern Sea lion)
+UNGULATA (Super Order)
+ARTIOCADTYLA
+Bovidae
+Ovis canadensis
+L = 1.3-1.6 cm
+Russo & Olhausen 1987
+(Bighorn Sheep)
+Cakes: 8 cm                                                           Dry
+Murie 1982
+1-1.3 x 0.6-0.9 cm
+                                                             Soft
+Oreamnos americanus
+1 x 0.4-0.6 cm
+Murie 1982
+(Mountain Goat)
+Cakes:
+4.3 x 2.3 cm
+                                Dry                        Soft
+Bison bison
+Cakes:
+Murie 1982
+(Bison or Buffalo)
+30.5 cm
+Ovibos moschatus
+1 x 0.6-1 cm
+Murie 1982
+(Muskox)
+Antilocapridae
+Antilocapra americana
+L = 1.8 cm
+Russo & Olhausen 1987
+(Pronghorn Antelope)
+Cakes: 4 x
+Murie 1982
+ 0.6-1.8
+x 0.8-1cm                                    Dry                        Soft
+9
+
+
+9 1
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+References
+∅ cm
+Cervidae
+Odocoileus hemionus
+L = 1.2-1.8 cm
+Russo & Olhausen 1987
+(Mule Deer)
+Cakes: 6.7 cm
+Dry
+Murie 1982
+0.6-1.8 x 0.6-1.5 cm
+                                                 Soft
+Odocoileus virginianus
+L = 1.2-2.8 cm
+Russo & Olhausen 1987
+(White-tailed Deer
+Cakes: 4.8 cm
+Murie 1982
+ or Flag-tail)
+0.8-1.8 x 1-1.8 cm
+Dry
+                                   Soft
+Cervus canadensis
+L = 1.8-3.5 cm
+Russo & Olhausen 1987
+(Wapiti or
+Cakes: 11 cm
+Murie 1982
+Canadian Elk or Elk)
+1.7-2.5 x 1.2-1.5 cm
+Dry
+             Soft
+Alces alces
+2-3.4
+Murie 1982
+(Moose)
+x 1.5-1.8 cm
+Stokes & Stokes 1986
+Rangifer caribou
+0.7-0.9
+Murie 1982
+(Caribou or Reindeer)
+x 0.4-0.8 cm
+Cakes: 5.5 x 3 cm
+Tayassuidae
+Pecari angulatus
+1.2-3 x 1.4 cm
+Murie 1982
+(Peccary)
+TABLE III
+Feces’ measures and shapes from Europe mammals
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+∅ cm
+INSECTIVORA
+Erinaceus europaeus
+3-4 x 0.8-1 cm
+(Hedgehogs)
+LAGOMORPHA
+Lepus capensis
+1.5-2 cm ∅
+(Hare)
+Oryctolagus cuniculus
+1 cm ∅
+(Old world rabbit or
+domestic rabbit)
+9
+
+
+9 2
+Mammal Feces  Marcia Chame
+9
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+∅ cm
+RODENTIA
+Sciuridae
+Sciurus vulgaris
+0.5-0.8 x 0.5-0.6 cm
+(Tree squirrels)
+Castoridae
+Castor fiber
+2-4 x 2 cm
+(European Beaver)
+Muridae
+Ondatra zibethicus
+1.2-1.4 x 0.5 cm
+(Muskrat)
+Arvicola amphibius
+0.7-1 x 0.3-0.4 cm
+(Water voles)
+Microtus arvalis
+0.6-0.7 x 0.2-0.3 cm
+(Voles, Meadow mice)
+Lemmus lemmus
+0.6 x 0.3 cm
+(True Lemmings)
+Rattus norvergicus
+1.7 x 0.6 cm
+(Norway Rat)
+Rattus rattus
+1 x 0.2-0.3 cm
+(Black Rat)
+Mus musculus
+0.6 x 0.2-0.25 cm
+(Mice)
+Capromyidae
+Myocastor coypus
+2-3 x 1 cm
+(Nutria, Coypu)
+CARNÍVORA
+Canidae
+Vulpes vulpes
+8-10 x 2 cm
+(Red Fox)
+Canis lupus
+10-15 x 2.5-3 cm
+No data
+(Wolf)
+Ursidae
+Ursus horribilis
+6 cm ∅
+(Grizzly bear)
+Mustelidae
+Meles meles
+No data
+(Old World Badger)
+Martes martes
+8-10 x 1.2 cm
+(Martens, Fisher, Sable)
+
+
+9 3
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 98(Suppl. I), 2003
+Feces’ measures
+Mammals’ species
+L x W cm
+               Feces’  shape
+∅ cm
+Mustela putorius
+6.8 x 0.9 cm
+(Weasel, Minks, Ferret)
+Mustela erminea
+0.5 cm ∅
+No data
+(Ermine or Stoat)
+(same as M. nivalis)
+Mustela nivalis
+0.2 cm ∅
+(Least Weasel)
+Felidae
+Felis catus
+6-8 x 1-1.5 cm
+(Domestic cat)
+Lynx lynx
+6 cm ∅
+(Lynx)
+UNGULATA (Grand order)
+Artiodactyla
+Suidae
+Sus scrofa
+7 cm ∅
+No data
+(Pig)
+Cervidae
+Cervus elaphus
+2-2.5 x 1.3-1.8 cm
+(Red deer, wapiti, elk)
+Dama dama
+1-1.5 x 0.8-1.2 cm
+(Fallow deer)
+Capreolus capreolus
+1-1.4 x 0.7-1 cm
+(Roe deer)
+Alces alces
+2-3 x 1.5-2 cm
+(Moose)
+Rangifer tarandus
+1.2-1.5 x 0.7-1 cm
+(Reindeer or Caribou)
+Bovidae
+Ovis aries
+1 cm ∅
+(domestic sheep)
+Rupicapra rupicapra
+1.5 cm ∅
+(Chamois)
+Based on Bang & Dahlström (1975).
+
+
+9 4
+Mammal Feces  Marcia Chame
+TABELA IV
+Feces’ measures from Northeastern Brazilian Mammals
+Mammals’ Species
+Feces’ length
+Feces’ diameter
+cm
+cm
+XENARTHRA
+Dasypodidae
+Dasypus novemcinctus (nine-banded armadillo)
+1.1-3.7
+1.1-2.8 (n = 15)
+Myrmecophagidae
+Tamandua tetradactyla (southern tamanduá)
+1.8-8.1
+1.5-2.5 (n = 28)
+RODENTIA
+Caviidae
+Kerodon rupestris (Mocó or rocky cavy)
+0.9-1.7
+0.4-0.6 (n = 49)
+Galea spixii  (Preá)
+0.5-0.8
+0.2-0.4 (n = 53)
+Echymyidae
+Trichomys apereoides (Rabudo)
+0.4-1.1
+0.1 -0.4 (n = 57)
+Muridae (Sigmodontinae)
+Oryzomys subflavus
+0.4-0.6
+0.1-0.2 (n = 20)
+PRIMATA
+Alouatta caraya (black howler monkey)
+1.1-4.1
+1.9-2.6 (n = 4)
+CARNIVORA
+CANIDAE
+Cerdocyon thous (Crab-eating fox)
+1.5-10.8
+1.7-2.3 (n = 9)
+FELIDAE
+Panthera onca (jaguar)
+2.6-11.2
+2.4-2.8 (n = 14)
+Puma concolor (puma or cougar)
+3.7-6.1
+2.2-3.2 (n = 4)
+Leopardus tigrinus (little spotted cat)
+3.1-3.4
+1.5-1.5 (n = 4)
+UNGULATA
+Artiodactyla
+Cervidae
+Mazama gouazoubira (Brocket deer)
+0.9-5.1
+0.5-2.8 (n = 25)
+Mazama americana (Red Brocket deer)
+0.7-1.0
+0.7-0.92 (n = 15)
+Tayassuidae
+Tayassu tajacu (Collared peccary)
+0.9-2.4
+1.2-2.2 (n = 39)
+Tayassu pecari (White-lipped peccary)
+0.9-2.3
+0.8-1.3 (n = 20)

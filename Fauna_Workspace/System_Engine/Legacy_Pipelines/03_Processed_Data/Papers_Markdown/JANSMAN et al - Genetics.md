@@ -1,0 +1,81 @@
+--- 
+source: JANSMAN et al - Genetics.pdf
+--- 
+
+GENETIC FEASIBILITY STUDY FOR THE RE-INTRODUCTION OF OTTERS IN THE 
+NETHERLANDS 
+ 
+Hugh JANSMAN1, Louis VAN DE ZANDE2 &  R. BIJLSMA2 
+ 
+1.  Alterra - Centre for Ecosystems, P.O. Box 47, NL-6700 AA Wageningen, The Netherlands   
+email: HughJansman@wur.nl   
+ 2.  University of Groningen, Evolutionary Genetics, P.O. Box 149750, AA Haren Gn, The Netherlands 
+email:  R.Bijlsma@biol.rug.nl  and  zandelpw@biol.rug.nl  
+ 
+ 
+In 2002, the first Eurasian otters (Lutra lutra) were re-introduced into The Netherlands. 
+According to the IUCN guidelines for re-introductions (IUCN, 1995), an assessment should be 
+made of the taxonomic status of individuals to be re-introduced and they should preferably be of 
+the same subspecies or race as those that were extirpated. Major genetic differentiation is 
+expected when populations are separated in isolated populations for which the local environments 
+(habitat, climate, etc) differ. In such a case selection will most likely lead to genetic adaptation to 
+the local situation after many generations. For example, Mediterranean otter populations have to 
+cope with different survival aspects (e.g. dry rivers in summer) compared to northern otter 
+populations (for example, frozen waters in winter time). Therefore, it is expected that 
+Mediterranean otter populations differ genetically more from northern otter populations than UK 
+otters from Scandinavian otters, although up to now no data are available to support this. 
+In this study the taxonomic status was determined by analysing haplotype diversity of mtDNA 
+(control region, CASSENS ET AL., 2000) and microsatellite variation (DALLAS AND PIERTNEY, 
+1998) in several Eurasian otter populations in Europe. The study focussed on Belarus and Latvia 
+as potential donor populations, as well as the otter breeding programme, represented by an A and 
+B breeding lineage.  In addition, Dutch samples (museum and carcasses) as well as samples from 
+Germany, Czech Republic, Sweden, UK, France, Spain and Israel were included in the study. 
+In accordance with studies (CASSENS ET AL., 2000; MUCCI ET AL., 1999; DALLAS ET AL., 
+2002; RANDI ET AL., 2003), low levels of mtDNA control region sequence variability were found, 
+whereas microsatellite analysis revealed moderate to high values of allelic diversity and 
+heterozygosity. If the samples of the breeding programme were excluded, the fixation index 
+showed an overall FST-value of 0.12. For microsatellites this indicates little to moderate genetic 
+differentiation. In otters from the B-lineage of the breeding programme, for which the origin of 
+the ancestors is unknown, some uncommon, private, alleles were detected. The genetic cluster of 
+the east German otters (the population that is most likely to reach the Dutch borders in the near 
+future) almost completely overlaps the cluster of the Latvian and Belarussian otters (the 
+populations selected as potential donor populations because of their availability and thriving 
+status) meaning that there is little indication of genetic difference between them. This could be 
+explained because of the more or less similar ecosystems, the large dispersal potential of the otter 
+as well as the fact that a century ago the otter distribution extended from the Netherlands trough 
+Germany and Poland to Latvia and Belarus. Because of the very low level of mtDNA variability 
+in Eurasian otters in parts of Europe it is speculated that otters went historically through a major 
+bottleneck after which they rapidly colonised the continent again (CASSENS ET AL., 2000). 
+Altogether it was concluded that it is unlikely that outbreeding depression (by some 
+termed “genetic pollution”) is to be expected if otters from the analysed European populations are 
+used for the re-introduction of the otter in the Netherlands, as no distinct subpopulations could be 
+
+
+detected in our investigation. The other European populations that have been analysed do not 
+differ greatly from the former Dutch populations. However care should be taken when 
+introducing otters from the B-lineage of the breeding programme. The results of this study are in 
+preparation for submission. 
+ 
+REFERENCES: 
+CASSENS, I., TIEDEMANN, R., SUCHENTRUNK, F. & HARTLE, G.B. 2000. Mitochondrial DNA variation in the 
+European otter (Lutra lutra) and the use of spatial autocorrelation analysis in conservation. Journal of Heredity, 91: 
+31-35. 
+DALLAS J.F. & PIERTNEY S.B. 1998. Microsatellite primers for the Eurasian otter. Molecular Ecology, 7: 1248-1251 
+DALLAS, J.F., MARSHALL, F., PIERTNEY, S. B., BACON, P. J. & RACEY, P.A. 2002. Spatially restricted gene flow 
+and reduced microsatellite polymorphism in the Eurasian otter (Lutra lutra) in Britain. Conservation Genetics, 3: 
+p15-29 
+IUCN.  1995. Guidelines for re-introductions:  http://www.iucn.org/themes/ssc/pubs/policy/reinte.htm 
+MUCCI, N., PERTOLDI, C., MADSEN, A. B., LOESCHCKE, V. & RANDI, E. 1999. Extremely low mitochondrial DNA 
+control-region sequence variation in the otter Lutra lutra population of Denmark. Heraditas, 130: 331-336. 
+RANDI, E., DAVOLI, F., PIERPAOLI, M., PERTOLDI, C., MADSEN, A.B., & LOESCHKE, V. 2003. Genetic structure in 
+otter (Lutra lutra) populations in Europe: implications for conservation. Animal Conservation, 6: 1-10 
+ 
+This is a co-operative study between University of Groningen, Alterra and Stichting Otterstation Nederland, which 
+was funded by the Prins Bernhard Fund. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

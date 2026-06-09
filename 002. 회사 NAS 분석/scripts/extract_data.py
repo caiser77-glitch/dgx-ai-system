@@ -398,8 +398,57 @@ def query_user_rules(file_path: Path) -> str:
     return ""
 
 
-def send_telegram_feedback_request(file_path: Path, ai_meta: dict) -> None:
+def build_feedback_preview(extracted_text: str, max_chars: int = 700) -> str:
+    """텔레그램 승인 요청과 월요일 대기 큐에 넣을 문서 판단 근거 미리보기를 만듭니다."""
+    if not extracted_text:
+        return "본문 미리보기를 추출하지 못했습니다."
+    lines = [line.strip() for line in extracted_text.splitlines() if line.strip()]
+    preview = "\n".join(lines[:12]).strip()
+    if len(preview) > max_chars:
+        preview = preview[:max_chars].rstrip() + "..."
+    return preview or "본문 미리보기를 추출하지 못했습니다."
+
+
+def build_pending_feedback_payload(file_path: Path, ai_meta: dict, extracted_text: str = "") -> dict:
+    project_name = ai_meta.get("project_name") or "미정"
+    class_name = ai_meta.get("class_name") or "미정"
+    question = ai_meta.get("question") or (
+        f"'{file_path.name}' 파일의 사업명/분류군을 확정해야 합니다. "
+        f"현재 추론은 사업명 '{project_name}', 분류군 '{class_name}'입니다. "
+        "맞으면 승인, 틀리면 올바른 사업명과 분류군을 답장으로 알려주세요."
+    )
+    return {
+        "created_at": now_iso(),
+        "source_name": file_path.name,
+        "original_path": str(file_path),
+        "year_vendor": ai_meta.get("year_vendor") or "미정",
+        "project_name": project_name,
+        "inferred_class": class_name,
+        "tags": ai_meta.get("tags") or [],
+        "summary": ai_meta.get("summary") or "AI 요약이 비어 있습니다.",
+        "question": question,
+        "preview": build_feedback_preview(extracted_text),
+        "status": "pending",
+    }
+
+
+def record_pending_feedback(file_path: Path, ai_meta: dict, extracted_text: str = "") -> dict:
+    """월요일 브리핑용 분류 대기 큐를 누적 저장합니다."""
+    pending_data = build_pending_feedback_payload(file_path, ai_meta, extracted_text)
+    pending_dir = Path("/home/caiser77/dgx_workspace/004. 에르메스 NAS 분류기/data")
+    pending_dir.mkdir(parents=True, exist_ok=True)
+    (pending_dir / "last_pending.json").write_text(
+        json.dumps(pending_data, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    with (pending_dir / "pending_queue.jsonl").open("a", encoding="utf-8") as pf:
+        pf.write(json.dumps(pending_data, ensure_ascii=False) + "\n")
+    return pending_data
+
+
+def send_telegram_feedback_request(file_path: Path, ai_meta: dict, extracted_text: str = "") -> None:
     """AI 분류가 모호하거나 추가 확인이 필요한 경우, 텔레그램 봇을 통해 승인 요청 메시지를 발송합니다."""
+    pending_data = record_pending_feedback(file_path, ai_meta, extracted_text)
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("ALLOWED_USER_ID")
     if not token or not chat_id:
@@ -407,14 +456,18 @@ def send_telegram_feedback_request(file_path: Path, ai_meta: dict) -> None:
         return
 
     msg = f"""⚠️ [분류 모호성 감지 - 사용자 피드백 요청]
-* 파일명: {file_path.name}
-* NAS 경로: {file_path}
+* 파일명: {pending_data['source_name']}
+* NAS 경로: {pending_data['original_path']}
 * AI 추론 결과:
-  - 년도_업체: {ai_meta.get('year_vendor', '미정')}
-  - 사업명: {ai_meta.get('project_name', '미정')}
-  - 분류군: {ai_meta.get('class_name', '미정')}
-  - 태그: {', '.join(ai_meta.get('tags', []))}
-* AI 질문/사유: {ai_meta.get('question', '분류 결과 불명확')}
+  - 년도_업체: {pending_data['year_vendor']}
+  - 사업명: {pending_data['project_name']}
+  - 분류군: {pending_data['inferred_class']}
+  - 태그: {', '.join(pending_data['tags']) if pending_data['tags'] else '없음'}
+* AI 요약: {pending_data['summary']}
+* AI 질문/사유: {pending_data['question']}
+
+* 판단 근거 미리보기:
+{pending_data['preview']}
 
 위 분류를 승인하시겠습니까?
 정정 또는 예외 사항이 있다면 답장으로 지시어를 보내주세요.
@@ -730,7 +783,7 @@ def main() -> int:
             print(f"AI classification result: {ai_classification}")
             if ai_classification.get("is_ambiguous") and not getattr(args, "no_telegram", False):
                 print("Ambiguity detected. Sending Telegram alert...")
-                send_telegram_feedback_request(source_path, ai_classification)
+                send_telegram_feedback_request(source_path, ai_classification, extracted_text)
 
         metadata = build_metadata(
             source_path,

@@ -1,0 +1,4131 @@
+--- 
+source: northamericanriverotter.pdf
+--- 
+
+Peer Review Administered by
+Society for Conservation Biology
+North American River Otter (Lontra canadensis):
+A Technical Conservation Assessment
+Prepared for the USDA Forest Service,
+Rocky Mountain Region,
+Species Conservation Project
+September 2, 2006
+Steve Boyle
+BIO-Logic Environmental
+635 East Main Ste. 100
+Montrose, CO 81401
+
+
+2
+Boyle, S. (2006, September 2). North American River Otter (Lontra canadensis): a technical conservation assessment. 
+[Online]. USDA Forest Service, Rocky Mountain Region. Available: http://www.fs.fed.us/r2/projects/scp/
+assessments/northamericanriverotter.pdf [date of access].
+ACKNOWLEDGMENTS
+I thank Dave McDonald, University of Wyoming, who performed the population matrix analysis and identified 
+the important conservation conclusions of the analysis. Many biologists and researchers contributed data, unpublished 
+reports, and their personal expertise to this assessment. The following deserve special mention: Pamela Schnurr, 
+Colorado Division of Wildlife; Tom Collins and Bob Oakleaf, Wyoming Game and Fish Department; Merav Ben-
+David, University of Wyoming; Matt Peak, Kansas Department of Wildlife and Parks; Richard Bischof, Nebraska 
+Game and Parks Commission; Alyssa Kiesow, South Dakota Department of Game, Fish, and Parks; Craig Grother, 
+Grand Mesa, Gunnison, and Uncompahgre National Forests; and Dennis Lowry, Arapaho and Roosevelt National 
+Forests. Gary Patton and Greg Hayward, USDA Forest Service, Rocky Mountain Region, provided key guidance and 
+tirelessly answered many questions. Wayne Melquist, University of Idaho, and Merav Ben-David reviewed an earlier 
+draft of this manuscript and provided many helpful comments. Lynn Connaughton skillfully created range maps, and 
+Linda Munson-Haley provided technical editing.
+AUTHOR’S BIOGRAPHY
+Steve Boyle is Senior Biologist and owner of BIO-Logic Environmental in Montrose, Colorado. He holds 
+an MS degree in Wildlife Biology (Colorado State University, 1981) and has 27 years of experience in biological 
+assessments, natural resource planning, and wildlife management and research in the western U.S. and overseas. He 
+authored the Forest Service Region 2 Beaver Species Conservation Assessment, and has led a number of regional 
+conservation planning efforts including a Sagebrush Steppe Ecosystem Conservation Assessment and Management 
+Plan for the Colorado Division of Wildlife, and Statewide Programmatic Biological Evaluations for four grouse 
+species in Colorado for the USDI Bureau of Land Management.
+As former Senior Wildlife Biologist for AGEISS Environmental, Inc., Mr. Boyle was Principal Investigator for 
+research projects on pronghorn, feral horses, bats, and songbird communities at U.S. Army Dugway Proving Ground, 
+Utah. He has other research experience investigating spotted owls, kit fox, mule deer, elk, bighorn sheep, wild turkey, 
+river otter, and desert tortoises. He was an invited reviewer of the Colorado Gap Analysis Project and more recently 
+the Southwest Regional GAP Analysis Project, critically reviewing theoretical models linking vertebrate species 
+distributions to habitat characteristics. He performed extensive fieldwork for and co-authored the Colorado Breeding 
+Bird Atlas. Prior to consulting work, Mr. Boyle was District Wildlife Manager for the Colorado Division of Wildlife, 
+Research Technician for the U.S. Fish and Wildlife Service, and Research Associate of the Department of Fishery and 
+Wildlife Biology, Colorado State University.
+COVER PHOTO CREDIT
+North American River Otter (Lontra canadensis). Photograph by Eric Peterson.  Used with permission.
+
+
+3
+SUMMARY OF KEY COMPONENTS FOR CONSERVATION OF
+THE NORTH AMERICAN RIVER OTTER
+Status
+The North American river otter (Lontra canadensis) occurs in streams, lakes and reservoirs, wetlands, and 
+marine coasts. The species occurs broadly across much of North America and is considered reasonably secure overall. 
+Severe declines in the 1800’s from unregulated fur harvest and habitat destruction extirpated or severely reduced 
+populations in many parts of the United States, including much of the USDA Forest Service (USFS), Rocky Mountain 
+Region (Region 2) area. River otters were extirpated from Colorado and Nebraska, nearly extirpated from South 
+Dakota and Kansas, and severely reduced in Wyoming. Regulation of trapping, improved water quality, and intensive 
+management, including translocations, have re-established the species to much of its former range in North America. 
+Reintroductions in all Region 2 states except Wyoming have re-established river otters to some of its former range, 
+and otter populations appear to be expanding into additional remaining suitable habitat.
+The river otter is listed as a Sensitive Species by the USFS throughout Region 2, as state threatened by the states 
+of Colorado, Nebraska, and South Dakota, and protected under state laws in all states within Region 2.
+Primary Threats
+Principal threats are habitat destruction and degradation, and human-caused mortality. Habitat destruction and 
+degradation include water development resulting in stream flow and channel morphology alteration, water pollution, 
+loss of riparian vegetation, and human settlement and recreational use along rivers and lakes. Water development is a 
+widespread and increasing threat in most watersheds across Region 2 and may affect river otter populations at local 
+and regional scales. Increasing human settlement, with the resulting increases in water development and recreational 
+use, is the most immediate threat to river otter population viability in many watersheds throughout Region 2. Water 
+pollution is a localized threat in some mountain drainages streams in Colorado and Wyoming, and a more pervasive 
+threat in lower stream reaches. Water pollution that reduces or eliminates otter prey populations (fish and invertebrates) 
+is a threat at local scales to some otter populations or potential habitats. Human recreational use of streams, lakes, and 
+reservoirs is a localized and increasing threat in some watersheds, particularly in Colorado and parts of Wyoming. 
+Human settlement along rivers, lakes, and reservoirs also is an increasing threat in many watersheds, particularly in 
+Colorado. Development is increasingly likely to affect many river otter populations and potential habitats at watershed 
+and regional scales. Agricultural use of riparian areas is a threat in the lower reaches of most watersheds in Region 2.
+Human-caused mortality is a localized but increasing threat in some watersheds throughout Region 2. Accidental 
+take in beaver (Castor canadensis) traps occurs primarily in states other than Colorado, where regulations restrict 
+beaver trapping; however, accidental take is not thought to be a serious threat to most otter populations. Roadkill 
+occurs where highways closely encroach on rivers; the degree of the threat is unknown, but it may be substantial 
+for some otter populations, particularly in Colorado. Predation by dogs is a highly localized but increasing threat 
+where residential use impinges on river otter habitats, particularly in Colorado. To a lesser extent, illegal trapping and 
+shooting also occur. These are probably highly localized and not imminent threats.
+Primary Conservation Elements, Management Implications and Considerations
+Key conservation elements for the river otter include:
+v protect instream flow, seasonal flow regimes, and water quality
+v protect riparian vegetation and physical structure of banks and floodplains
+v maintain and enhance aquatic prey populations
+v protect habitat areas of sufficient size and maximize habitat connectivity
+v control human-caused mortality.
+
+
+4
+Key management steps to achieve these conservation elements include:
+v continue state regulatory controls on commercial harvest and legal take, and periodically review 
+for adequacy
+v continue statewide population monitoring in Colorado and Nebraska, and institute habitat monitoring where 
+habitat degradation is a concern
+v manage public land uses to avoid or mitigate degradation of river otter habitat, particularly with respect to 
+timber harvest, livestock grazing, fisheries and water resources management, and roads in riparian areas
+v form multi-agency partnerships to evaluate river otter habitat at landscape scales across jurisdictional 
+boundaries, and recommend and implement planning to protect large habitat reaches and connectivity 
+between habitat areas.
+Key research needs include developing reliable and cost-effective population monitoring techniques, improving 
+population models, and understanding the effects of habitat degradation on river otter reproduction and 
+population viability.
+
+
+5
+TABLE OF CONTENTS
+ACKNOWLEDGMENTS ..............................................................................................................................................2
+AUTHOR’S BIOGRAPHY............................................................................................................................................2
+SUMMARY OF KEY COMPONENTS FOR CONSERVATION OF  THE NORTH AMERICAN RIVER OTTER..3
+Status..........................................................................................................................................................................3
+Primary Threats..........................................................................................................................................................3
+Primary Conservation Elements, Management Implications and Considerations.....................................................3
+LIST OF TABLES AND FIGURES ...............................................................................................................................7
+INTRODUCTION ..........................................................................................................................................................8
+Goal of Assessment....................................................................................................................................................8
+Scope of Assessment..................................................................................................................................................9
+Treatment of Uncertainty ...........................................................................................................................................9
+Publication of Assessment of the World Wide Web.................................................................................................10
+Peer Review .............................................................................................................................................................10
+MANAGEMENT STATUS AND NATURAL HISTORY ...........................................................................................10
+Management Status..................................................................................................................................................10
+Existing Regulatory Mechanisms, Management Plans, and Conservation Strategies.............................................10
+Colorado..............................................................................................................................................................10
+Nebraska..............................................................................................................................................................11
+Kansas .................................................................................................................................................................11
+South Dakota.......................................................................................................................................................11
+Wyoming .............................................................................................................................................................11
+Other states..........................................................................................................................................................11
+Regional management.........................................................................................................................................12
+Adequacy and enforcement of existing laws and regulations.............................................................................12
+Biology and Ecology................................................................................................................................................12
+Systematics and species description....................................................................................................................12
+Distribution and abundance.................................................................................................................................13
+Colorado .........................................................................................................................................................14
+Kansas.............................................................................................................................................................16
+Nebraska.........................................................................................................................................................17
+South Dakota ..................................................................................................................................................17
+Wyoming ........................................................................................................................................................18
+Region 2..........................................................................................................................................................19
+Population trend ..................................................................................................................................................19
+Activity and movements......................................................................................................................................20
+Habitat .................................................................................................................................................................21
+Food and feeding habits ......................................................................................................................................22
+Breeding habits....................................................................................................................................................23
+Demography........................................................................................................................................................24
+Genetics ..........................................................................................................................................................24
+Life history characteristics .............................................................................................................................24
+Population matrix analysis .............................................................................................................................25
+Limiting factors ..............................................................................................................................................27
+Community ecology ............................................................................................................................................27
+Predators.........................................................................................................................................................27
+Competitors ....................................................................................................................................................27
+Parasites and disease.......................................................................................................................................29
+Symbiotic and mutualistic interactions ..........................................................................................................29
+CONSERVATION OF RIVER OTTERS IN REGION 2 .............................................................................................29
+Threats......................................................................................................................................................................29
+Habitat destruction and degradation....................................................................................................................29
+Water pollution....................................................................................................................................................30
+
+
+6
+Human settlement and recreational use...............................................................................................................31
+Incidental trapping and illegal take .....................................................................................................................31
+Conservation Status of River Otter in Region 2 ......................................................................................................32
+Distribution and abundance.................................................................................................................................32
+Vulnerability to human-caused mortality............................................................................................................32
+Vulnerability to habitat change ...........................................................................................................................32
+Management of River Otters in Region 2 ................................................................................................................33
+Implications and conservation elements .............................................................................................................33
+State and federal agency planning and management......................................................................................33
+Habitat protection and restoration ..................................................................................................................33
+Tools and practices..............................................................................................................................................34
+Inventory and monitoring of populations.......................................................................................................34
+Inventory and monitoring of habitat...............................................................................................................36
+Population and habitat management approaches............................................................................................37
+Furbearer harvest management.......................................................................................................................37
+Reintroductions...............................................................................................................................................37
+Conservation planning....................................................................................................................................37
+Suggested future direction for management...................................................................................................38
+Information Needs....................................................................................................................................................38
+REFERENCES .............................................................................................................................................................41
+APPENDIX...................................................................................................................................................................51
+Matrix Population Model for the River Otter ..........................................................................................................51
+Life cycle graph and model development ...........................................................................................................51
+Sensitivity analysis..............................................................................................................................................51
+Elasticity analysis................................................................................................................................................52
+Other demographic parameters ...........................................................................................................................53
+Stochastic model .................................................................................................................................................54
+Refining the models.............................................................................................................................................55
+EDITOR: Gary Patton, USDA Forest Service, Rocky Mountain Region
+
+
+7
+LIST OF TABLES AND FIGURES
+Figures:
+Tables:
+Table 1. Legal status and Natural Heritage Program rank of river otter in states within and adjacent to 
+USDA Forest Service Region 2. .................................................................................................................... 10
+Table 2. Trend and type of populations of river otters in states within USDA Forest Service Region 2. ..... 20
+Table A1. Parameter values for the component terms that make up the vital rates in the projection matrix 
+model for river otter. ...................................................................................................................................... 51
+Table A2. Symbolic values for the cells in the projection matrix, A, corresponding to the life cycle graph 
+shown in Figure 8........................................................................................................................................... 52
+Table A3. Numerical values for the cells in the projection matrix, A, corresponding to the life cycle 
+graph.shown in Figure 8. ............................................................................................................................... 52
+Table A4. Sensitivity matrix for the river otter. ............................................................................................. 52
+Table A5. Elasticity matrix for the river otter. ............................................................................................... 53
+Table A6. Stable stage distribution of river otters.......................................................................................... 53
+Table A7. Reproductive values for female river otters. ................................................................................. 53
+Table A8. Results of four variants of stochastic projections for the river otter. ............................................ 54
+Figure 1. National forests and grasslands within USDA Forest Service Region 2.......................................... 8
+Figure 2. Historical and current distributions of the North American river otter. ......................................... 13
+Figure 3. Estimated current distribution of river otters in Colorado.............................................................. 15
+Figure 4. Estimated current distribution of river otters in Kansas................................................................. 16
+Figure 5. Estimated current distribution of river otters in Nebraska. ............................................................ 17
+Figure 6. Estimated current distribution of river otters in South Dakota....................................................... 18
+Figure 7. Estimated current distribution of river otters in Wyoming............................................................. 19
+Figure 8. Life cycle graph for river otter........................................................................................................ 25
+Figure 9. Envirogram for the river otter......................................................................................................... 28
+
+
+8
+INTRODUCTION
+This conservation assessment is one of many being 
+produced to support the Species Conservation Project 
+for the USDA Forest Service (USFS), Rocky Mountain 
+Region (Region 2) (Figure 1). The North American 
+river otter (Lontra canadensis; hereafter, river otter) 
+is the focus of an assessment because USFS Region 2 
+classifies it as a sensitive species. Within the National 
+Forest System (NFS), a sensitive species is a plant or 
+animal whose population viability is identified as a 
+concern by a Regional Forester because of significant 
+current or predicted downward trends in abundance 
+or significant current or predicted downward trends 
+in habitat capability that would reduce its distribution 
+(FSM 2670.5 (19)). A sensitive species may require 
+special management, so knowledge of its biology and 
+ecology is critical.
+This assessment addresses the biology, ecology, 
+status, conservation, and management of the river otter 
+throughout its range in Region 2. The broad nature of the 
+assessment leads to some constraints on the specificity 
+of information for particular locales. This introduction 
+defines the goal of the assessment, outlines its scope, 
+and describes the process used in its production.
+Goal of Assessment
+Species conservation assessments produced 
+for the Species Conservation Project are designed to 
+provide land managers, biologists, and the public with 
+a thorough discussion of the biology, ecology, status, 
+conservation, and management of certain species. This 
+assessment is based on current scientific knowledge, 
+discussion of implications of that knowledge, and 
+outlines of information needs. While it does not 
+prescribe management, it does provide the ecological 
+and conservation biology background upon which 
+managers must base their decisions. The assessment 
+focuses on the conservation needs of the species 
+and consequences of changes in the environment 
+that result from management (i.e., management 
+implications). Furthermore, it cites management 
+Figure 1. National forests and grasslands within USDA Forest Service Region 2.
+
+
+9
+recommendations proposed or undertaken elsewhere, 
+and when recommendations have been implemented, 
+the assessment examines their effectiveness.
+Scope of Assessment
+This 
+conservation 
+assessment 
+examines 
+the biology, ecology, status, conservation, and 
+management of the river otter with specific reference 
+to the geographic and ecological characteristics of 
+Region 2. Although much of the literature on river 
+otters originates from field investigations outside 
+the region, this document places that literature in 
+the ecological and social contexts of the central and 
+southern Rocky Mountains.
+In producing the assessment, I reviewed refereed 
+literature, non-refereed publications, research reports, 
+and data accumulated by resource management agencies. 
+Not all publications on river otters are referenced in the 
+assessment, nor were all published materials considered 
+equally reliable. The assessment emphasizes refereed 
+literature because this is the accepted standard in 
+science. While non-refereed publications or reports 
+were regarded with greater skepticism, I chose to use 
+some non-refereed literature when refereed information 
+was unavailable. Unpublished data (e.g., Natural 
+Heritage Program records and state agency monitoring 
+and translocation reports) were important in estimating 
+the geographic distribution of this species. These data 
+required special attention because of the diversity of 
+persons and methods used in its collection.
+Treatment of Uncertainty
+Science 
+represents 
+a 
+rigorous, 
+systematic 
+approach to obtaining knowledge. Competing ideas 
+regarding how the world works are measured against 
+observations. However, because our descriptions of 
+the world are always incomplete and observations 
+limited, science focuses on approaches for dealing with 
+uncertainty. A commonly accepted approach to science 
+is based on a progression of critical experiments to 
+develop strong inference (Platt 1964). However, strong 
+inference suggests that experiments will produce clean 
+results (Hilborn and Mangel 1997), as may be observed 
+in certain physical sciences. The geologist, T. C. 
+Chamberlain (1897) suggested an alternative approach 
+to science where multiple competing hypotheses are 
+confronted with observation and data. Sorting among 
+alternatives may be accomplished using a variety 
+of scientific tools (e.g., experiments, modeling, and 
+logical inference). As in geology, there is difficulty 
+in conducting critical experiments in ecology, so we 
+must rely on observation, inference, good thinking, and 
+models to guide our understanding of the world (Hilborn 
+and Mangel 1997). In this assessment, the strength of 
+evidence for particular ideas is noted, and alternative 
+explanations are described when appropriate.
+The greatest uncertainties encountered in this 
+assessment involved river otter abundance estimates, 
+otter fertility and survival, and the effects of human-
+caused habitat changes on river otter populations. River 
+otter presence is relatively easy to detect by sign surveys, 
+but no field techniques exist to reliably census the 
+species. As a result, knowledge of river otter abundance 
+is essentially nil for the entire region, other than what 
+can be inferred from assumptions about density based 
+on home range size estimates. The assessment deals 
+with that uncertainty by stating state agency population 
+estimates where they exist, identifying the uncertain 
+assumptions on which they are based, and attempting 
+no further analysis of abundance.
+The population matrix analyses in this assessment 
+are based on incomplete knowledge of fertility and 
+survival rates. The degree to which environmental 
+conditions are influenced negatively or positively by 
+management may affect life history characteristics. 
+All published reports of age-specific fertility are from 
+studies outside of Region 2. Much variation exists in 
+reported age at first breeding and the extent to which 
+adult females breed every year. I assumed that Region 
+2 river otter reproductive rates are similar to those 
+reported for the nearest geographic regions and most 
+climatically similar regions (i.e., Idaho and north-
+central United States). Age-specific survival rates have 
+only been reported for a few populations, all far from 
+Region 2. Furthermore, the studied populations were 
+all subject to commercial trapping (i.e., carcasses of 
+trapped animals provided the study specimens). I 
+averaged survival rates from two reported studies for 
+analysis in this assessment.
+Finally, no direct measurement data exist on 
+the effects of human-caused habitat alteration on 
+river otters. Consequently, the potential responses 
+of otter populations to habitat degradation and 
+restoration are highly speculative. I used information 
+on river otter habitat requirements and inferences 
+from monitoring reports and personal knowledge 
+of habitat conditions in some areas of Colorado to 
+develop conservation considerations.
+
+
+10
+Publication of Assessment of the World 
+Wide Web
+Species conservation assessments are being 
+published on the Region 2 World Wide Web site 
+(http://www.fs.fed.us./r2/projects/scp/assessments/
+index.shtml) to make them available to agency 
+biologists and managers, and the public more rapidly 
+than publication as a book or report, and to facilitate 
+updates and revision, which will be accomplished based 
+on procedures established by Region 2.
+Peer Review
+In keeping with the standards of scientific 
+publication, assessments developed for the Species 
+Conservation Project have been externally peer reviewed 
+prior to their release on the Web. This assessment was 
+reviewed through a process administered by the Society 
+for Conservation Biology, which chose two recognized 
+experts (on this or related taxa) to provide critical input 
+on the manuscript.
+MANAGEMENT STATUS AND 
+NATURAL HISTORY
+Management Status
+As of August 2006, USFS Region 2 lists the 
+river otter as a sensitive species throughout the region 
+(http://www.fs.fed.us/r2/projects/scp/sensitivespecies/
+index.shtml). In addition, it is a Management Indicator 
+Species on the San Juan National Forest.
+Regulatory and management authority for river 
+otters within Region 2 rests primarily with the states. 
+Management status of this species in Region 2 states 
+ranges from state threatened to protected (Table 1). 
+While river otters are legally trapped in many states and 
+in all Canadian provinces, they are protected from take 
+by state law in all Region 2 states (Melquist et al. 2003). 
+The North American river otter is listed in Appendix II 
+of the Convention on International Trade in Endangered 
+Species of Wild Fauna and Flora (CITES), not based 
+on its own conservation status, but due to its similarity 
+to other listed species (Melquist et al. 2003). Appendix 
+II listing requires all exported specimens or parts to 
+be tagged with CITES export tags from the exporting 
+country’s designated scientific authority, which certifies 
+that the taking of the specimen does not jeopardize 
+the species’ continued existence. In the United States, 
+the U.S. Fish and Wildlife Service (USFWS) is the 
+designated CITES authority.
+Existing Regulatory Mechanisms, 
+Management Plans, and Conservation 
+Strategies
+Colorado
+The Colorado Division of Wildlife (CDOW) listed 
+the river otter as state endangered in 1975 based on its 
+apparent extirpation from the state (Colorado Division 
+of Wildlife 2003a). State endangered status reflects a 
+Table 1. Legal status and Natural Heritage Program rank of the river otter in states within and adjacent to USDA 
+Forest Service Region 2.
+State
+State Legal Status
+CNHP State Rank
+Region 2 States:
+Colorado
+Threatened
+Vulnerable/apparently secure (S3S4)
+Kansas
+Protected
+Critically imperiled (S1)
+Nebraska
+Threatened
+Imperiled (S2)
+South Dakota
+Threatened
+Imperiled (S2)
+Wyoming
+Protected
+Vulnerable (S3)
+Adjacent States:
+Arizona
+Species of special concern
+Critically imperiled (S1)
+Idaho
+Harvested
+Apparently secure (S4)
+Montana
+Harvested
+Apparently secure (S4)
+New Mexico
+Extirpated
+Possible extirpated (SH)
+North Dakota
+Not harvested
+Critically imperiled (S1)
+Oklahoma
+Protected
+Imperiled (S2)
+Utah
+Not harvested
+Vulnerable (S3)
+
+
+11
+determination that the species is at risk of extirpation 
+from the state, and it confers statutory protection from 
+taking or harassment. Downlisting from state endangered 
+to state threatened status requires the establishment of 
+three persistent and expanding river otter populations, 
+with each occupying at least 50 km of contiguous 
+stream habitat. Delisting will require the establishment 
+of three separate self-sustaining populations with each 
+occupying 120 km of nearly contiguous river habitat. 
+Following reintroductions of river otters that started 
+in 1976, an initial river otter recovery plan (Goodman 
+1984) called for the establishment of two populations. 
+In 2003, CDOW created a River Otter Recovery Plan 
+(Colorado Division of Wildlife 2003b) that provides 
+verification and measurement standards for determining 
+population range and status based on systematic sign 
+surveys (see Management Techniques section), and 
+standards and protocols for additional river otter 
+reintroductions. In about 2001, CDOW initiated 
+systematic sign surveys on rivers where otters had been 
+reported. In September 2003, CDOW downlisted river 
+otters to threatened status, reflecting a determination 
+that the species is not at immediate risk of extirpation 
+in the state but remains vulnerable; full statutory 
+protection from taking or harassment is maintained. 
+CDOW continues to monitor river otter populations by 
+sign surveys conducted once every 5 years. CDOW has 
+also funded research to develop improved monitoring 
+techniques, focusing on DNA “fingerprinting” of 
+individuals. Rocky Mountain National Park in Colorado 
+contains one of the reintroduced river otter populations 
+in the headwaters of the Colorado River, and it has 
+supported annual population monitoring and other 
+habitat research on river otters since 2001 (Herreman 
+and Ben-David 2002; unpublished research reports, 
+Rocky Mountain National Park).
+Nebraska
+In Nebraska, where river otters were also 
+extirpated and reintroduced, the Nebraska Game and 
+Parks Commission (NGPC) has defined a goal of 
+establishing a self-sustaining statewide population and 
+creating a river otter recovery plan (Nebraska Game 
+and Parks Commission 2003). Between 1986 and 1991, 
+river otters were reintroduced at seven sites across the 
+state (see Distribution and Abundance section). River 
+otters were listed as state endangered in the 1980’s and 
+downlisted to state threatened in 2005, following the 
+recommendation of a board of state species experts 
+(S. Wilson personal communication 2006). Annual 
+monitoring is conducted by searching for otter sign 
+at bridge crossings. The survey provides presence-
+absence data and coarse estimates of abundance and 
+population trend by extrapolating presence data based 
+on assumed home range size. The technique is subject 
+to considerable bias in observability of sign between 
+years, depending on snow conditions.
+Kansas
+The Kansas Department of Wildlife and Parks 
+(KDWP) carried out a reintroduction of 19 otters in 
+Chase County, east-central Kansas, in 1983-1984, and 
+other otters have probably dispersed into Kansas from 
+adjacent states (especially Missouri) in recent years 
+(M. Peak personal communication 2003). However, 
+KDWP has no management plan for river otters and 
+does not conduct inventory or monitoring except for 
+maintaining records of reported sightings and carcasses. 
+Due to public concerns about otter predation on sport 
+fish and damage to commercial fish farms, KDPW 
+allows but does not encourage the expansion of existing 
+populations. Consequently, the persistence of river 
+otters in Kansas is not assured.
+South Dakota
+The South Dakota Game, Fish, and Parks 
+Commission (SDGFP) lists the river otter as state 
+threatened (i.e., the species is vulnerable to extirpation 
+from the state), which provides statutory protection 
+from taking or harassment. Kiesow (2003) analyzed the 
+status and distribution of river otters in South Dakota, 
+identified and prioritized possible reintroduction sites, 
+and developed a reintroduction protocol. However, the 
+state has no plans to recover river otters in the state, nor 
+does it have an inventory and monitoring program.
+Wyoming
+In Wyoming, river otter trapping was closed in 
+1952, and the species has been legislatively protected 
+from take since 1973. The Wyoming Game and Fish 
+Department (WGFD) has not developed a management 
+plan, nor does it inventory or monitor river otter 
+populations (B. Oakleaf personal communication 
+2003). Current research through the University of 
+Wyoming includes a study of impacts of introduced 
+lake trout (Salvelinus namaycush) on otters in 
+Yellowstone National Park (Crait et al. 2002) and 
+population characteristics of river otters in the Green 
+River, with reference to dispersal capabilities (Boyd 
+and Ben-David 2002).
+Other states
+
+
+12
+River otters are apparently extirpated in New 
+Mexico, and are protected from commercial harvest in 
+Arizona, Utah, North Dakota, and Oklahoma (Raesly 
+2001). Arizona, Oklahoma, and Utah have reintroduced 
+river otters to some former ranges, but the level of 
+success of the Arizona reintroduction is unclear (M. 
+Bed-David personal communication 2003).
+Idaho reinstated a trapping season for river otters 
+in 2000, following closed seasons since 1972 (W. 
+Melquist personal communication 2005). In recent 
+years, trapping was permitted in 28 states and nearly 
+all Canadian provinces and territories (Melquist et al. 
+2003). River otters are not a major part of the North 
+American fur market, but their economic value is 
+important because of the demand for their high quality 
+fur (Toweill and Tabor 1982). The number of pelts sold 
+annually has steadily increased from about 10,000 in the 
+1920’s to over 50,000 in the late 1970’s, the latter figure 
+valued at as much as $3 million United States (Deems 
+and Pursley 1983). State and provincial agencies 
+manage trapping harvest generally by monitoring 
+harvest levels and habitat because no cost-effective 
+census techniques are available. However, economic 
+factors strongly influence river otter harvest, so it may 
+be an unreliable index of abundance. Because otter 
+harvest is often incidental to beaver (Castor canadensis) 
+harvest, otter harvest in the northeastern United States 
+and eastern Canada is positively correlated with beaver 
+harvests and with the average beaver pelt price from the 
+previous year (Chilelli et al. 1996).
+Regional management
+Government agencies within Region 2 have 
+not developed regional conservation or management 
+planning for the river otter beyond the state plans 
+and strategies described above. Within Region 2, 
+this species is most securely established in western 
+Wyoming and, to a lesser extent, western Colorado, 
+with small populations apparently expanding in central 
+and northern Nebraska. In western Wyoming, river 
+otters appear to be secure and widespread in several 
+watersheds. Suitable habitat is fairly extensive, and 
+threats are low in most areas. However, conservation 
+planning for river otters in Wyoming is limited and 
+may not be adequate to ensure the maintenance of 
+viable populations if threats such as water development 
+projects or declines in fish prey become more pervasive. 
+Active conservation planning in Nebraska and Colorado 
+is contributing to the recovery of river otters in some 
+remaining habitats of those states, but increasing threats 
+from habitat degradation and human-caused mortality 
+may ultimately limit the extent of recovery.
+Elsewhere in Region 2, river otters are rare or 
+extirpated. In western Kansas and South Dakota, few, 
+small populations and the lack of conservation planning 
+or monitoring make the continued or future existence 
+of the species tenuous. While it is possible that river 
+otter populations could recover in these areas by natural 
+recolonization from other areas, the provision and 
+maintenance of suitable habitat quality and connectivity 
+will be essential.
+Adequacy and enforcement of existing laws and 
+regulations
+Current laws and regulations in Region 2 states 
+provide sufficient statutory protection from intentional 
+killing and persecution of river otters. Trapping for 
+beavers is still permitted in all Region 2 states except 
+Colorado, and river otters are occasionally killed in 
+beaver traps. In addition, illegal killing is known to occur. 
+For example, a few incidents of intentional trapping of 
+river otters for illegal sale out of state were detected in 
+Nebraska (R. Bischof personal communication 2003). 
+However, such incidents appear isolated, and the high 
+public appeal of river otters lends support to compliance 
+with regulations prohibiting trapping and take. Where 
+populations are small and isolated, especially in parts 
+of Colorado and the eastern tier of Region 2 states, 
+illegal or accidental kill of even a few otters may be 
+detrimental to some populations.
+Biology and Ecology
+Systematics and species description
+The American Society of Mammalogists classifies 
+the North American river otter as Lontra canadensis, 
+Order Carnivora, Family Mustelidae, Subfamily 
+Lutrinae (Larivière and Walton 1998). van Zyll de Jong 
+(1987) recognized North and South American otters as 
+being distinct from Eurasian otters (Lutra) and assigned 
+them to the genus Lontra. Lontra includes four species, 
+of which only one, L. canadensis, is found in North 
+America north of Mexico.
+A lack of specimens and high variability among 
+individuals hamper subspecies distinctions within 
+Lontra canadensis (Davis 1978). Hall and Kelson 
+(1959) recognized 19 subspecies, but in a more recent 
+revision, Hall (1981) consolidated these into seven. 
+Subspecies status is now further confused in many 
+parts of the United States including all Region 2 states 
+by reintroductions of river otters obtained from other 
+regions of North America (Raesly 2001).
+
+
+13
+The river otter is a somewhat stocky, yet 
+streamlined, mustelid, weighing 5 to 14 kg with short 
+legs, a muscular neck at least as large as the head, and 
+an elongate body widest at the hips (Larivière and 
+Walton 1998, Melquist et al. 2003). The tail is long 
+and tapered, and comprises about one-third of the 
+total length of the animal. The head is flat with a broad 
+muzzle, the ears are small and inconspicuous, and the 
+eyes are small and placed anteriorly. The fur is short, 
+very dense, and lustrous. Fur color ranges from almost 
+black to pale chestnut dorsally, and light brown to gray 
+ventrally. Dorsal color tends to be lighter in the western 
+and southern portions of the range (Toweill and Tabor 
+1982). Fur of older animals may become white-tipped, 
+and albinos may rarely occur. Males are 5 percent 
+(Jackson 1961) to 17 percent (Melquist and Hornocker 
+1983) larger than females. The average adult total 
+lengths of three males and three females in Louisiana 
+were 113 cm and 98 cm, respectively (Lowery 1974). 
+Some average weights (in kg) reported for adult males 
+and females are 7.7 and 7.3 in Alberta, Canada (Smith 
+1993), 9.2 and 7.9 in Idaho (Melquist and Hornocker 
+1983), and 9.4 and 8.4 in Alaska (Duffy et al. 1994). 
+River otters may decrease in size along the Pacific Coast 
+from north to south (Toweill and Tabor 1982), but no 
+clinal pattern is evident from east to west (van Zyll de 
+Jong 1972).
+The body form of the river otter is strongly 
+adapted for aquatic life, with short ears, a streamlined 
+body, short powerful legs, fully webbed toes, and a 
+long tapered tail. The body configuration provides a 
+streamlined profile in water and powerful swimming 
+ability, but it reduces agility on land (Tarasoff et al. 
+1972). Each foot has five toes, non-retractable claws, 
+and interdigital webbing. River otters have acute 
+senses of smell and hearing, and their paws have a 
+delicate sense of touch and great dexterity (Park 1971). 
+Decreased lung lobulation and a shortened trachea in 
+river otters are apparently adaptations to increase air 
+exchange and lung ventilation when diving (Tarasoff 
+and Kooyman 1973a, 1973b).
+Distribution and abundance
+The overall historical distribution of river otters 
+is well known from trapping records and observations 
+of early naturalists. River otters formerly occupied most 
+major drainages in Canada and the continental United 
+States (Figure 2; Hall 1981, Melquist et al. 2003). 
+Centers of abundance occurred in areas of rich aquatic 
+habitats such as Pacific Northwest marine shorelines, 
+Atlantic coastal marshes, the Great Lakes region, and 
+New England (Melquist and Dronkert 1987, Melquist et 
+al. 2003). River otters were also historically widespread 
+in virtually all major waterways and marshes of the 
+North American interior, including all Region 2 states.
+Unregulated fur trapping and influences of 
+European settlement caused a sharp decline in river 
+Figure 2. Historical (left) and current (right) distributions of the North American river otter. On the current distribution 
+map, circles represent reintroduction sites. Reprinted from Melquist et al. (2003).
+
+
+14
+otter abundance and distribution. They became scarce in 
+New England by 1700, and trappers moved farther west 
+and south (Melquist et al. 2003). Trappers from Spanish 
+colonies in New Mexico exerted pressure at least as far 
+north as southern Colorado beginning in the 1700’s. 
+Fur trapping in the Region 2 area became particularly 
+destructive to furbearers in the early 1800’s, and many 
+Region 2 river otter populations were drastically reduced 
+or eliminated during that century (Nilsson 1980). By the 
+mid-1900’s, the North American range of the river otter 
+was reduced to less than 75 percent of its historical 
+extent (Melquist et al. 2003); it was extirpated from 
+at least six states and suffered serious declines in 14 
+others (Raesly 2001), mostly in the continental interior. 
+Population declines were documented in all states.
+In Region 2, otters were extirpated from Colorado 
+and Nebraska (Raesly 2001), nearly extirpated in 
+Kansas and South Dakota, and extirpated from most 
+of Wyoming outside of Yellowstone and Grand Teton 
+national parks. Since 1976, improvements in furbearer 
+management techniques and water quality, and 
+increased concern for declining river otter populations, 
+have spurred many recovery programs. By 1998, 
+reintroductions in 21 states and the province of Alberta 
+(Raesly 2001) had restored river otter distribution to 
+nearly 90 percent of its historical range (Melquist et 
+al. 2003). In Region 2, reintroductions have helped to 
+restore some extirpated populations in Colorado and 
+Nebraska, and to bolster native populations in eastern 
+parts of South Dakota and Kansas.
+Throughout North America, river otters reach 
+their greatest densities in food-rich coastal habitats 
+and lower stream reaches where human disturbance 
+is low (Melquist and Dronkert 1987, Melquist et 
+al. 2003). River otters in coastal marine habitats of 
+the Pacific Northwest and southern Alaska reach 
+densities two to three times that reported for interior 
+populations (Melquist and Dronkert 1987, Bowyer 
+et al. 2003). Inland populations reach their greatest 
+densities in lowland or valley marshes interconnected 
+with meandering streams and small lakes (Melquist and 
+Hornocker 1983, Reid et al. 1994b). While river otters 
+are relatively common in many major river systems, 
+they become less common in heavily settled areas and 
+in food-poor mountain streams (Melquist et al. 2003). 
+In high latitudes and elevations, severe winter weather 
+probably limits populations. In northern Canada, river 
+otter abundance decreases with increasing latitude (St-
+Georges et al. 1995).
+River otter density is difficult to measure, and 
+as a result, abundance and density estimates are rarely 
+available. Because otter distribution is usually linear 
+along streams or shorelines, otter density is most 
+conveniently described in terms of otters per unit length 
+of habitat (stream or shoreline). In a mountain valley of 
+western Idaho, reported densities of otters in different 
+study areas ranged from one otter per 2.7 to 5.8 km, 
+with an average of one otter per 3.9 km (Melquist 
+and Hornocker 1983). On the Dolores River in arid 
+southwestern Colorado, the density of translocated 
+otters 13 months after release was one otter per 13 
+km (Malville 1990). Radio telemetry studies yielded 
+density estimates of one otter per 71 to 116 ha in a 
+Texas coastal marsh (Foy 1984), and one otter per 2.2 
+to 3.8 km of shoreline in coastal Alaska (Bowyer et al. 
+2003). In the interior west, river otters probably achieve 
+maximum density at around one otter per 2.5 km of 
+stream or shoreline (Melquist and Hornocker 1983, 
+Melquist et al. 2003).
+Colorado
+River otters historically occupied every major 
+river drainage in Colorado. Armstrong (1972) noted 
+historical specimens and reliable observations from 
+the Yampa, White, Colorado, Gunnison, and Dolores 
+rivers in western Colorado, and from the upper and 
+lower reaches of the Arkansas and South Platte rivers 
+in eastern Colorado. While no historical records exist 
+for the Rio Grande watershed in Colorado, because 
+river otters are well documented historically in the 
+Rio Grande in northern New Mexico (Polechla 1985), 
+Armstrong (1972) assumed their presence in the upper 
+reaches in Colorado as well. River otters would have 
+historically occurred in every national forest in Colorado. 
+Naturalists reported in the late 1800’s that river otters 
+were uncommon to rare in Colorado (Armstrong 1972), 
+but they probably were more common prior to the fur 
+trapping era, which began as early as the 1700’s in 
+southern Colorado and peaked statewide in 1830-1840. 
+River otters were apparently extirpated by the early 
+1900’s (Armstrong 1972, Fitzgerald et al. 1994), with 
+the last record of indigenous river otters in the Yampa 
+River in 1906 (Colorado Division of Wildlife 2003b).
+The current distribution of river otters in Colorado 
+(Figure 3) is likely the result of reintroductions by 
+CDOW since 1976 into the upper Colorado River 
+(Rocky Mountain National Park), the Gunnison River 
+(Delta and Montrose counties), the Piedra River 
+(Archuleta County), and the Dolores River (Dolores 
+County). River otters reintroduced to the Green River 
+in northeastern Utah have apparently expanded their 
+distribution downstream into northwestern Colorado. 
+
+
+15
+Figure 3. Estimated current distribution of river otters in Colorado.
+An otter reintroduction to Cheeseman Reservoir near 
+Denver in the 1970’s was apparently unsuccessful 
+(Colorado Division of Wildlife 2003b).
+Between 1976 and 1981, 21 river otters from 
+Newfoundland, Wisconsin, and Washington were 
+released into the Gunnison River system at the lower 
+end of the Gunnison Gorge National Recreation Area 
+and the upper end of the Black Canyon of the Gunnison 
+National Park (Colorado Division of Wildlife 2003b). 
+River otters now inhabit the river from the upstream 
+end of the national park downstream to the Colorado 
+River confluence, except for a 40 km reach from the 
+North Fork confluence to about 5 km below Delta 
+(DePue 2002, Colorado Division of Wildlife 2003b). 
+Otters, presumably from this population, have been 
+seen in the North Fork Gunnison River, and regular 
+sightings occur in the Uncompahgre River to about 8 
+miles south of Montrose and in large irrigation canals 
+in the Uncompahgre Valley. A few river otters now 
+also inhabit the Gunnison and East rivers in Gunnison 
+County (Boyle 2003). These otters presumably moved 
+upstream through three large reservoirs from the lower 
+Gunnison River population.
+From 1978 to 1984, 45 river otters from 
+Washington, Wisconsin, Michigan, Virginia, and 
+Minnesota were released on the North Fork Colorado 
+River in western Rocky Mountain National Park 
+(Colorado Division of Wildlife 2003b). Several recent 
+surveys confirm that river otters now inhabit most of 
+the North Fork Colorado River in Rocky Mountain 
+National Park and the Arapaho-Roosevelt National 
+Forest, including Shadow Mountain and Granby 
+reservoirs and Grand Lake (Colorado Natural Heritage 
+Program 2002). Sightings indicate that otters now 
+occur along the Colorado River west to Utah, and in 
+several major tributaries including the Fraser, Blue, 
+Eagle, and Roaring Fork rivers, although population 
+size and stability in these tributaries is unknown. 
+Otters, presumably from these reintroductions, have 
+also moved into the North Platte River in North Park 
+and across the Continental Divide into the Poudre and 
+Laramie rivers (Colorado Division of Wildlife 2003b).
+In the Piedra River, between 16 and 24 otters 
+(records are unclear) from Wisconsin were released 
+from 1979 to 1983 in the San Juan National Forest 
+upstream of the Highway 160 bridge (Colorado Division 
+of Wildlife 2003b). A sign survey in 2002 indicated 
+that river otters inhabit the Piedra River from Navajo 
+Reservoir upstream at least 27 miles, and sightings 
+
+
+16
+have occurred in Navajo Reservoir and Williams Creek 
+Reservoir. Although a river otter was observed in the 
+Los Pinos River in the 1980’s, a systematic sign survey 
+in 2002 found no evidence of otters (Colorado Division 
+of Wildlife 2003b).
+In the Dolores River, 27 river otters (primarily 
+from Oregon with a few from Alaska and California) 
+were released from 1988 to 1991 near Dove Creek 
+in Dolores County (Colorado Division of Wildlife 
+2003b). River otters now occur throughout the Dolores 
+River from about 6 miles above McPhee Reservoir 
+to the confluence with the Colorado River, including 
+parts of the San Juan National Forest. Otters from this 
+population have colonized the San Miguel River as far 
+upstream as Telluride, in the Grand Mesa Uncompahgre 
+Gunnison National Forests.
+Between 1989 and 1992, the Utah Division of 
+Wildlife Resources reintroduced 67 river otters from 
+Alaska and Nevada at various sites along the Green 
+River, from Flaming Gorge Reservoir to Ouray National 
+Wildlife Refuge (Colorado Division of Wildlife 2003b). 
+Otters now occur throughout the Green River in 
+Colorado and probably the lower Yampa River.
+Survey observations by volunteers indicate 
+that a few river otters may be present in at least parts 
+of the South Platte River from Denver east to the 
+Colorado-Nebraska state line (Colorado Division of 
+Wildlife 2003b). These otters may have originated from 
+reintroduced populations in the upper Colorado River or 
+from Nebraska.
+Kansas
+River otters historically inhabited the major rivers 
+of Kansas, particularly in the eastern half of the state 
+(Bee 1981). Historical distribution and abundance are 
+unclear for the western half of the state. River otters 
+were greatly reduced or extirpated in Kansas by the 
+early 1900’s, but currently inhabit several drainages 
+in the eastern half of the state (Figure 4; Ostroff 
+2001). Nineteen otters from Idaho and Massachusetts 
+were reintroduced in 1983-1984 on the South Fork 
+Cottonwood River in Chase County (M. Peak personal 
+communication 2003). The reintroduction has not been 
+systematically monitored, but some otters currently 
+inhabit the drainage. Most river otters in Kansas 
+have likely dispersed from Missouri, where multiple 
+reintroductions established a population of 11,000 
+otters by 2000 (Missouri Department of Conservation, 
+Figure 4. Estimated current distribution of river otters in Kansas.
+
+
+17
+unpublished data). River otters may also be colonizing 
+eastern and central Kansas from reintroductions in 
+Oklahoma and Nebraska. The nearest recent otter 
+sightings to the Cimarron National Grassland are a few 
+hundred miles northeast. Little suitable habitat exists in 
+the Cimarron National Grassland area. The statewide 
+population size is unknown, but probably exceeds 100 
+(M. Peak personal communication 2003).
+Nebraska
+River otters were historically common in all 
+major waterways of Nebraska (Jones 1962, 1964), 
+but they became rare by 1908 and apparently were 
+extirpated from Nebraska shortly afterward (Jones 
+1964); unregulated trapping was probably the 
+most important cause (Nebraska Game and Parks 
+Commission 2003). Occasional sightings reported 
+between about 1970 and 1986, mostly in the Republican 
+River drainage, suggest that transient otters were 
+present, but evidence of viable populations was lacking. 
+Between 1986 and 1991, the NGPC released at least 
+20 otters at each of seven sites (Nebraska Game and 
+Parks Commission 2003) including the South Loup 
+River (Custer County), Calamus River above Calamus 
+Reservoir (Loup County), North Platte River above 
+Lake McConaughy, Platte River near Kearney, Cedar 
+River (Wheeler County), Elkhorn River (Antelope 
+County), and the Niobrara River (Sheridan County). 
+NGPC biologists expected river otters to expand their 
+ranges from these release sites into suitable habitats 
+statewide. Sightings of otters, including family groups 
+at the release sites, along with excellent body condition 
+of recovered carcasses, suggest that viable populations 
+have become established in several watersheds (Figure 
+5; Nebraska Game and Parks Commission 2003). The 
+highest quality and most extensive habitat occurs in 
+the Platte River and tributaries, and reintroductions 
+have been most successful there (R. Bischof personal 
+communication 2003). No abundance estimates are 
+available for Nebraska.
+South Dakota
+In South Dakota, river otters were historically 
+common in major waterways. Turner (1974) described 
+river otters as absent from the Black Hills region and of 
+uncertain historical occurrence there. Grinnell (1875) 
+speculated that river otters might occur in the Black 
+Hills, and Turner (1974) cited accounts of river otter 
+Figure 5. Estimated current distribution of river otters in Nebraska.
+
+
+18
+skins obtained in the 1800’s from “west of the Black 
+Hills”. River otters were decimated by unregulated fur 
+trapping statewide and habitat degradation in some 
+areas, and were nearly or completely extirpated by the 
+early 1900’s.
+The current known distribution of river otters 
+in South Dakota (Figure 6) is mostly along the Big 
+Sioux River near the eastern edge of the state, where 
+the Flandreau Santee Sioux reintroduced 34 otters on 
+tribal lands in 1998-1999. Kiesow (2003) reported that 
+89 percent of recent river otter sightings were east of the 
+Missouri River and that the Big Sioux River population 
+probably represents the only viable population in the 
+state. Various records of river otters in other parts of 
+the state during the last 20 years presumably represent 
+transient or dispersing otters (Higgins et al. 2000). 
+In 1988, a river otter reintroduced to Nebraska the 
+previous year was trapped along Crow Creek in Buffalo 
+County, and other reports indicate that Nebraska otters 
+are gradually colonizing southern South Dakota (A. 
+Kiesow personal communication). Recent sightings or 
+trap records have occurred in Custer, Haakon, Roberts, 
+and Union counties. No abundance estimate is available 
+for South Dakota, but the statewide population is likely 
+less than 100.
+Wyoming
+River otters historically occupied all major 
+drainages and national forests in Wyoming, but they 
+were subject to many local extirpations during the era 
+of unregulated trapping (Rudd et al. 1986). Aided by 
+the protection offered by Yellowstone and Grand Teton 
+national parks, river otters persisted in northwestern 
+Wyoming. Since receiving protection from trapping 
+in 1953, river otters have reoccupied some of their 
+former range from refugia in the northwest part of the 
+state (Rudd et al. 1986), and possibly from remnant or 
+reintroduced populations elsewhere.
+Current distribution in Wyoming (Figure 7) 
+includes most major river systems, but the extent to 
+which all formerly occupied habitat is now inhabited 
+is unknown. River otters occur in the Shoshone, 
+Bighorn, and Medicine Bow national forests. Crowe 
+(1986) reported that river otters were most common 
+in the Yellowstone, Green, and Snake River drainages, 
+occasionally observed in the Clark’s Fork and Salt 
+River drainages, and infrequently reported in the North 
+Platte and Powder River drainages. River otters occur 
+in the following counties: Albany, Big Horn, Carbon, 
+Fremont, Hot Springs, Johnson, Lincoln, Natrona, 
+Figure 6. Estimated current distribution of river otters in South Dakota.
+
+
+19
+Park, Sheridan, Sublette, Sweetwater, Teton, and Uinta 
+(Wyoming Natural Diversity Database 2003). No 
+abundance estimates are available for Wyoming.
+Region 2
+Outside of Wyoming, river otter populations in 
+Region 2 are best considered highly fragmented but 
+expanding as several populations increase in size and 
+range. River otters are highly mobile and readily disperse 
+along waterways, and they are able to move between 
+drainages by crossing high ridges or even mountain 
+passes (Melquist and Hornocker 1983). Available data 
+from Colorado and Nebraska indicate that reintroduced 
+populations may eventually repopulate many historical 
+ranges where adequate habitat remains and protection 
+from excessive human-caused disturbance and mortality 
+is afforded.
+In Region 2, river otters probably have the 
+potential for greatest density in relatively pristine 
+reaches of lower elevation rivers on the Great Plains and 
+at lower to middle elevations in the mountains. Little 
+habitat exists for river otters on most of the Region 2 
+national grasslands and the national forests in Nebraska. 
+In the mountains, river otter habitat quality and potential 
+population density probably decreases at higher 
+altitudes, with diminishing stream size and productivity 
+and, often, increasing gradient. Much potential river 
+otter habitat in Region 2 remains unoccupied or visited 
+only by presumably transient otters.
+Population trend
+Reintroductions 
+and 
+management 
+actions 
+in recent decades have improved the conservation 
+status of the river otter (Melquist et al. 2003). The 
+total North American population size is unknown but 
+probably exceeds 100,000, given the reported annual 
+trapping harvest of up to about 30,000 river otters in 
+the 1990’s (Melquist et al. 2003), and it is believed 
+to be stable overall (Polechla 1990). River otters are 
+difficult to census, and estimates of population size and 
+trend have historically been based on observations of 
+distribution, annual fur harvest data where trapping is 
+permitted, or monitoring methods of uncertain or low 
+accuracy (Melquist et al. 2003). The extent of occupied 
+range provides at least some indication of population 
+trend. However, in areas where populations are not 
+systematically monitored, population estimates and 
+trends are speculative. Estimates of state population 
+trends by state agency biologists in 1998 (Raesly 2001) 
+are summarized in Table 2.
+Figure 7. Estimated current distribution of river otters in Wyoming.
+
+
+20
+Based on the number of recent observations, 
+Crowe (1986) reported that river otters in Wyoming 
+might be increasing. In Colorado, more recent evidence 
+from systematic monitoring suggests that river otters 
+are increasing in the Colorado and Gunnison River 
+systems (P. Schnurr personal communication 2003). 
+Expanding populations in several watersheds in 
+Nebraska and eastern Kansas suggest that populations 
+may also be growing in those areas. The extent to which 
+populations can continue to expand spatially and grow 
+in numbers is uncertain, particularly in light of ongoing 
+habitat degradation in some areas, increasing human 
+populations, and increasing human demands for water.
+Activity and movements
+Otters are highly mobile and often move in 
+response to shifting availability of food; consequently, 
+home range size and location are dynamic. Reported 
+annual home range sizes in Idaho are 31 to 58 km of 
+waterway for adult females and 50 to 80 km for adult 
+males (Melquist and Hornocker 1983). In Rocky 
+Mountain National Park, annual home ranges of 
+otters of both sexes ranged from 5 to 71 km, with an 
+average of 32 km (Mack 1985). On the Dolores River, 
+Colorado, home ranges of otters during the first year 
+after translocation varied from 9 km in winter to 22 
+km in summer, with spring and fall home range sizes 
+intermediate (Malville 1990). Male home ranges are 
+usually larger than those of females. Both sexes exhibit 
+inter- and intrasexual overlap in home ranges, and home 
+ranges tend to shrink in winter and exhibit less overlap 
+(Melquist and Hornocker 1983, Mack 1985, Reid et 
+al. 1994b, Bowyer et al. 1995). “Activity centers” 
+(Melquist and Hornocker 1983) are areas within the 
+home range where river otters focus activity during 
+certain periods. Such areas provide adequate shelter, 
+abundant food, and minimal disturbance (Melquist 
+and Dronkert 1987); examples are large logjams with 
+spawning salmon in Idaho (Melquist and Hornocker 
+1983) and deep river pools with abundant crayfish and 
+beaver bank dens in Colorado (Malville 1990).
+River otters are more social than most mustelids. 
+In freshwater systems, the most typical social group 
+consists of an adult female and her recent offspring 
+(Melquist and Hornocker 1983). In coastal marine 
+systems, males commonly form groups of up to 21 
+individuals (Shannon 1989, 1991, Blundell et al. 
+2002a); this apparently aids in cooperative foraging 
+for schooling fish (Blundell et al. 2002a). In freshwater 
+systems, males may also occasionally form groups 
+(Larivière and Walton 1998), and groups of unrelated 
+juveniles are occasionally observed (Melquist and 
+Hornocker 1983, Shannon 1989). River otter groups 
+hunt and travel together and use the same resting sites, 
+latrines, and dens (Shannon 1989, Beckel 1990, Reid 
+et al. 1994b, Shannon 1989). Groups of mothers and 
+juveniles usually break up between November and 
+March, and juveniles often permanently disperse at age 
+12 to 13 months (Melquist and Hornocker 1983).
+Otters forage both in groups and singly. Behavior 
+interpreted as cooperative foraging has been observed 
+in Pennsylvania (Serfass 1995) but rarely observed 
+elsewhere (for example, Beckel 1990). Even without 
+direct cooperation, foraging in groups appears to 
+increase forage efficiency and diet quality in coastal 
+Alaska river otters (Blundell et al. 2002a).
+River otters are active year-round, but in general, 
+they are more active at night and during crepuscular 
+hours (Larivière and Walton 1998); daily activity 
+peaks for river otters in Idaho were around midnight 
+and dawn (Melquist and Hornocker 1983). Daily 
+activity also varies with season, at least in the Rocky 
+Mountains. River otters in Rocky Mountain National 
+Park, Colorado (Mack 1985) and in Idaho (Melquist and 
+Hornocker 1983) are more diurnal in the winter.
+Melquist and Hornocker (1983) found that Idaho 
+river otters typically moved 2 to 5 km daily, with 
+movements up to 42 km in one day. Similar average 
+daily movement patterns were reported for river otters 
+in Alberta lake country (Reid et al. 1994b) and for 
+Table 2. Trend and type of populations of river otters in states within USDA Forest Service Region 2 (from 
+Raesly 2001).
+State
+Population Trend
+Population Type
+Colorado
+Stable
+Reintroduced
+Kansas
+Stable
+Native, Reintroduced
+Nebraska
+Stable
+Reintroduced
+South Dakota
+Stable
+Native?, Reintroduced
+Wyoming
+Increasing
+Native
+
+
+21
+otters during the first year after translocation in the 
+Dolores River, Colorado (Malville 1990). Yearling 
+males move somewhat more than females in all 
+seasons. Family groups and individual otters tend to 
+move less in winter.
+River otters do not migrate (Larivière and 
+Walton 1998), but they may emigrate because of 
+food shortages or environmental conditions (Jackson 
+1961). Dispersal in river otters appears to be an 
+inherent trait unrelated to population density (Melquist 
+and Hornocker 1983). Many, but not all, river otters 
+disperse when about 12 to 13 months old. Some leave 
+the watershed, some move to a different part of the 
+same watershed, and some merely expand their natal 
+home range to include additional area. In coastal 
+Alaska, dispersal distances ranged from 15 to 90 km 
+(Blundell et al. 2002b). In general, river otters remain 
+close to water, but occasionally they will go overland 
+to shortcut meanders or detour falls; they will move 
+between major drainages, occasionally even traversing 
+mountain passes (Melquist and Hornocker 1983).
+Habitat
+Rangewide, river otters inhabit almost every 
+kind of aquatic habitat, including marine coasts, lakes, 
+marshes, reservoirs, and streams (Toweill and Tabor 
+1982, Larivière and Walton 1998). They inhabit water 
+bodies and riparian areas within a broad range of 
+ecosystems from semi-desert shrubland to montane and 
+subalpine forest. The primary habitat requirement for 
+river otters is permanent water with abundant fish or 
+crustacean prey and relatively high water quality.
+In the interior western United States, river otters 
+most often inhabit stream-associated habitats (Melquist 
+and Hornocker 1983, Mack 1985, Bradley 1986), but 
+lakes, reservoirs, beaver ponds, and floodplain wetlands 
+may occur within seasonal home ranges. Otters prefer 
+valley streams to mountain streams. In mountainous 
+areas, headwater streams or stream reaches are often 
+characterized by high gradient and low productivity and, 
+therefore, do not provide quality habitat for river otters 
+(Melquist and Hornocker 1983, Dubuc et al. 1990). In 
+Nevada, river otters favored streams with low gradient, 
+high meander ratios, and multiple channels (Bradley 
+1986). In montane valley habitat in Rocky Mountain 
+National Park, Colorado, Mack (1985) estimated that 
+rivers, small streams, and beaver ponds contained 
+42, 4, and 54 percent, respectively, of the total energy 
+available to river otters in the form of fish prey.
+Because of their high mobility and low densities, 
+river otters require relatively long reaches of streams 
+and rivers. They will occupy lakes and reservoirs, as 
+long as shoreline cover and food resources are adequate 
+(Melquist and Hornocker 1983), and river otter presence 
+has been reported in several large lakes and reservoirs 
+in Colorado (Colorado Division of Wildlife 2003b). 
+In Maine, river otter use of watersheds is positively 
+associated with average shoreline diversity (Dubuc 
+et al. 1990). Complexity of river and lake shorelines 
+provides greater areas of shallow water and wetlands, 
+which provide shallow water habitats for otter prey, 
+including slower-swimming fish, amphibians, reptiles, 
+and invertebrates. Use of marshes may vary with the 
+season. In Florida, river otters will move during the dry 
+season from freshwater marshes to permanent ponds 
+where water is available and food is more concentrated 
+(Humphrey and Zinn 1982).
+The physical habitat attribute most important to 
+river otters besides water is riparian vegetation, which 
+provides security cover when they are feeding, denning, 
+or moving on land. Riparian vegetation also enhances 
+otter habitat by stabilizing banks (which reduces 
+soil erosion and protects water quality), contributing 
+nutrients and invertebrates to aquatic systems, 
+providing shading for fish habitat, and encouraging 
+beaver activity. Another essential habitat component is 
+structural diversity and complexity provided by objects 
+such as fallen trees, logjams, stumps, undercut banks, 
+and rocks (Melquist and Dronkert 1987). Structural 
+complexity depends on surface geology, presence of 
+trees in riparian zones, and beaver activity.
+The importance of cover along waterways for 
+river otter habitat is clear. If riparian vegetation is 
+lacking, rock piles or similar physical structures may 
+provide such cover. River otters generally avoid areas 
+where cover is lacking, such as reservoir shorelines 
+with little vegetation or structural cover, even if food is 
+abundant (Melquist and Hornocker 1983). River otters 
+scent mark profusely with feces, urine, and anal gland 
+secretions (Melquist and Hornocker 1983). Physical 
+structures in and near waterways are extensively 
+investigated and used by river otters for latrine sites 
+important for olfactory communication. Important 
+latrine sites include points of land, the base of large 
+conifers, beaver bank dens and lodges, isthmuses, 
+mouths of permanent streams, and logjams or rocks 
+protruding from the water (Melquist and Hornocker 
+1983, Newman and Griffin 1994).
+
+
+22
+River otters make considerable use of beaver 
+bank dens, dams, and lodges for latrine sites, dens, and 
+resting sites (see Community Ecology section). Beaver 
+bank dens are especially important sites, used in 31 
+percent of over 1,300 observations in Idaho (Melquist 
+and Hornocker 1983). River otters rest in dens, choosing 
+sites opportunistically when the need arises. On larger 
+rivers confined by canyons and lacking side channels 
+that beavers can impound, beavers excavate bank dens 
+that river otters use extensively. In the Dolores River, 
+Colorado, river otters strongly preferred deep pools that 
+also contained a high number of beaver bank dens and 
+in-stream boulders protruding above the water surface 
+(Malville 1990). Almost all resting sites were beaver 
+bank dens, and den complexes with many openings 
+both above and below water were preferred. Other 
+den sites reported from the northern Rockies, Alberta, 
+and the eastern United States include red fox (Vulpes 
+vulpes) burrows, beaver or muskrat lodges, dense 
+riparian vegetation, log jams, snow and ice caves, brush 
+piles, and talus (Liers 1951, Melquist and Hornocker 
+1983, Reid et al. 1994b). Reintroduced river otters in 
+Pennsylvania were also observed using hollow trees or 
+logs, undercut banks, rock formations, and flood debris 
+(Serfass and Rymon 1985).
+In areas with severe winters, winter ice presents 
+a strong constraint on river otter habitat use. In boreal 
+forests of Alberta, cold temperatures and the presence 
+of ice reduce foraging area, prey availability, and 
+presumably foraging success (Reid et al. 1994b). River 
+otters in winter show substantial range contraction 
+especially by adult males, less home range overlap 
+with other individuals, and more solitary behavior. In 
+Alberta, otters in winter are mostly confined to lakes 
+that provide suitable shoreline habitat for beaver bank 
+dens or lodges. These features provide otters with 
+shelter and access to foraging areas beneath the ice 
+(Reid et al. 1994b). In areas of Region 2 with hard 
+winters, winter habitat availability probably limits river 
+otter abundance, and otters depend more on beaver-
+modified environments. Ice can provide cover in areas 
+where it otherwise is lacking, but presence of at least 
+some open water in winter is a critical habitat element. 
+River otters make heavy use of openings in ice, and they 
+may excavate passages in beaver dams to access open 
+water (Hamilton 1943, Reid et al. 1994b).
+Food and feeding habits
+Fish form most of the river otter’s diet rangewide, 
+and the presence of fish in suitable quantity typically 
+constitutes an essential habitat component. River otters 
+will also take crustaceans, mollusks, insects, birds, and 
+mammals, occasionally in abundance but more often 
+opportunistically (Knudsen and Hale 1968, Reid et al. 
+1994a, Melquist et al. 2003). Fish remains were present 
+in all scats examined from Grand County, Colorado 
+(Mack 1985) and 92 percent of scats in northeastern 
+Alberta (Reid et al. 1994a). In some areas and seasons, 
+fish constitute virtually the entire diet (Greer 1955, 
+Toweill 1974, Melquist et al. 1981). Fish species are 
+taken in proportion to their availability, which is related 
+both to fish abundance and the relative ease of each 
+species’ detection and capture (Toweill and Tabor 1982, 
+Melquist and Hornocker 1983). Slower-swimming 
+and less agile fish such as suckers (Catostomidae), 
+catfish (Ictaluridae), sculpin (Cottidae), and minnows 
+(Cyprinidae) are usually favored (Stenson et al. 
+1984, Serfass et al. 1990, Reid et al. 1994a). In the 
+Dolores River, Colorado, channel catfish (Ictalurus 
+punctatus), carp (Cyprinus carpo), and bluehead 
+suckers (Catostomus discobolus) are the most common 
+fish consumed by river otters (Malville 1990, Colorado 
+Division of Wildlife 2003b). River otters in Rocky 
+Mountain National Park mostly consumed introduced 
+trout (Salmo and Oncorhynchus species) and native 
+suckers (Mack 1985). In an Idaho montane valley, 
+the three most important fish species in otter diets 
+were kokanee salmon (O. nerka), mountain whitefish 
+(Prosopium 
+williamsoni), 
+and 
+largescale 
+sucker 
+(C. macrocheilus) (Melquist and Hornocker 1983). 
+Salmonids and suckers taken in both areas were mostly 
+adult fish over 30 cm in Idaho and over 20 cm in Rocky 
+Mountain National Park. Apparently, river otters prefer 
+adult fish because they are less maneuverable and less 
+able to find hiding cover (Erlinge 1968). River otters 
+sometimes move into small streams or mountain lakes 
+to take advantage of trout or salmon spawning runs 
+(Melquist and Hornocker 1983, Reid et al. 1994a).
+In some cases, amphibians (mostly frogs) and 
+crustaceans (mostly crayfish) make up important parts 
+of the diet (Sheldon and Toll 1964, Knudsen and Hale 
+1968, Griess and Anderson 1987, Reid et al 1994a); 
+crayfish are especially important in some areas of 
+Region 2. Crayfish can be more important than fish in 
+river otter diets in places where crayfish are abundant, 
+such as lower elevation rivers in southwestern Colorado 
+(Malville 1990, DePue 2002) and some California 
+marshes (Grenfell 1974). Malville (1990) observed 
+river otters rolling submerged rocks to expose crayfish. 
+Mollusks are common in river otter diets in some areas, 
+particularly lake regions and marine coasts (Melquist et 
+al. 2003).
+Large insects form an important segment of the 
+river otter’s diet in warmer months. Insects were the 
+
+
+23
+second most frequent diet item of river otters in Alberta 
+(Reid et al. 1994a), and included aquatic beetles and 
+dragonfly nymphs. In Idaho, river otters actively sought 
+insects 2 to 8 cm in length, including aquatic beetles and 
+stonefly nymphs (Melquist and Hornocker 1983).
+River otters will also take reptiles, birds, and 
+fruits opportunistically (Wilson 1954, Greer 1955, 
+Hamilton 1961, Morejohn 1969, Verbeek and Morgan 
+1978, Gilbert and Nancekivell 1982). Birds in the diet 
+are often waterfowl, especially broods and molting 
+adult ducks taken in summer in lake habitats (Reid et 
+al. 1994a). Waterfowl can be a fairly important part of 
+the diet in some areas (Toweill and Tabor 1982), but in 
+Region 2 this would only be likely in large wetlands.
+Rarely, river otters will prey on various small 
+mammals. Muskrats were the most common mammal 
+prey in Idaho scats (Melquist and Hornocker 1983), 
+primarily in marsh areas. Beaver remains have been 
+occasionally reported in river otter scats (Green 1932, 
+Reid et al. 1994a). While river otters sometimes inhabit 
+beaver dens simultaneously with beavers (Melquist and 
+Hornocker 1983, Malville 1990), most studies have 
+reported no beaver remains in scats despite considerable 
+presence of beavers in the area.
+Fish and other prey are taken with a quick lunge 
+from ambush, or more rarely after a prolonged chase 
+(Park 1971). River otters can remain underwater up 
+to nearly 4 minutes (Harris 1968), swim up to 11 km 
+per hr, dive to nearly 20 m, and travel up to 400 m 
+underwater including under solid ice (Hamilton 1943, 
+Jackson 1961, Park 1971). Several individuals may 
+cooperate to capture fish (Serfass 1995). Small fish are 
+eaten at the surface, but large fish are taken to shore for 
+consumption (Park 1971, Chanin 1985).
+In Idaho, river otters typically forage where fish 
+congregate and seek cover, such as overhanging banks 
+and log jams in shallow, fast streams, log jams in deep 
+pools, and boat docks or floating wood in large lakes 
+and reservoirs (Melquist and Hornocker 1983). In 
+reservoirs with many slow-moving fish, river otters 
+often forage along shorelines and capture slow-moving 
+fish by direct pursuit. River otters were seen probing 
+mud bottoms in shallow backwaters and oxbows for 
+small fish and beetles.
+River otters are opportunistic feeders, taking 
+whatever prey is most abundant and most catchable. 
+Food availability is a prime factor in determining otter 
+movements and habitat use (Melquist and Hornocker 
+1983). River otters tend to forage in a pool, stream 
+reach, lake, or pond until food availability is reduced, 
+then move to other sites. Otters will move large 
+distances to capitalize on seasonally abundant food 
+resources. In northern or high elevation areas where 
+lakes and rivers freeze, otter diets are less diverse in the 
+winter and reflect the otter’s dependence on small lakes, 
+bog ponds, and beaver ponds (Reid et al. 1994a).
+The biology of fish, the otter’s primary prey, is 
+complex, and fish populations respond to a number 
+of physical and biological factors in the aquatic 
+environments they inhabit and to factors in the 
+surrounding terrestrial landscape (Hart and Reynolds 
+2002). In Region 2, most rivers, streams, and lakes 
+have an assemblage of native and non-native species. 
+Primary factors affecting species diversity and 
+abundance of fish in Region 2 include water volume 
+(including human alteration in volume and flow), 
+temperature, turbidity, and pollution; stream size, 
+gradient, and structural cover; riparian habitat factors; 
+and fish introductions and harvest by humans (Abell 
+1999, Hart and Reynolds 2002).
+Crayfish, the other significant prey item for river 
+otters in Region 2, include native species and species 
+introduced into reservoirs and tailwater fisheries for 
+fish food. Crayfish are sensitive to changing water 
+temperatures. Most species can tolerate considerable 
+turbidity, but water pollution and sedimentation may 
+affect planktonic and benthic invertebrate crayfish prey 
+(Holdich 2002).
+Breeding habits
+River otters are polygynous (Melquist et al. 
+2003). Throughout their range breed from December 
+to April (Larivière and Walton 1998), but in Region 2 
+they probably breed in March and April (Melquist and 
+Hornocker 1983, Fitzgerald et al. 1994). Females are in 
+heat for 42 to 46 days (Hamilton and Eadie 1964), during 
+which time the males follow scent trails of the females 
+(Fitzgerald et al. 1994). Copulation lasts 16 to 73 
+minutes and may occur in water or on land (Liers 1951, 
+Shannon 1991). True gestation lasts 61 to 63 days, but 
+because the fertilized egg does not implant in the uterus 
+for 8 months or more, the time between copulation and 
+parturition may reach 10 to 12 months (Liers 1951, 
+Hamilton and Eadie 1964). Delayed implantation 
+may not always occur in some southern populations 
+(Melquist and Dronkert 1987), but it probably is the rule 
+in Region 2. Young are born between February and April 
+(Hamilton and Eadie 1964, Melquist and Hornocker 
+1983). Females retire to secluded locations to give birth 
+and to rear young, generally using dens of other aquatic 
+
+
+24
+mammals, especially beaver bank dens (Melquist and 
+Hornocker 1983). Occasionally natal dens may be up to 
+a few hundred feet from water (Melquist and Dronkert 
+1987). Breeding may take place anywhere in a female’s 
+home range, and natal den availability is probably not 
+limiting to river otter populations as long as overall den 
+sites are reasonably abundant.
+Litter size is usually one to three (Hamilton 
+and Eadie 1964, Tabor and Wight 1977, Docktor et 
+al. 1987), occasionally up to five (Park 1971), and 
+averages slightly less than three (Melquist et al. 2003). 
+No geographic variation in litter size is apparent. Young 
+are born fully furred, blind, and toothless (Larivière 
+and Walton 1998). Females nurse their young and 
+provide solid food; males do not provide parental care 
+(Shannon 1989). Kits take their first solid food at 9 to 
+10 weeks (Liers 1951), and are fully weaned by 12 
+weeks. Juveniles remain with females until they are 
+37 to 38 weeks old, during which time females provide 
+food for their young and teach them to hunt (Shannon 
+1991). Quiet waters such as beaver ponds, marshes, 
+and backwater sloughs appear to be important areas 
+for family groups with young pups learning survival 
+skills (Melquist and Hornocker 1983). In Idaho, young 
+dispersed in April and May at 12 to 13 months of age, 
+and they dispersed up to 200 km at an average rate of 
+3.5 to 3.8 km per day (Melquist and Hornocker 1983). 
+Both sexes reach maximum weight and length at age 3 
+to 4 years (Melquist and Hornocker 1983).
+Demography
+Genetic variability of river otters across their 
+current North American range is lower than average for 
+mammals as a whole, but comparable to other mustelids 
+and mammalian carnivores (Serfass et al. 1998). Large 
+home ranges and an ability to disperse long distances 
+(Melquist and Hornocker 1983) tend to encourage gene 
+flow among otter populations. However, population 
+bottlenecks caused by large reductions in abundance in 
+some areas of North America are a concern (Serfass et 
+al. 1998).
+Genetics
+Genetic variability among Region 2 river otter 
+populations is unknown. In Wyoming, the only state 
+with primarily native populations, the presumed 
+population bottleneck in the early 1900’s may have 
+reduced genetic variability. Western Wyoming otter 
+populations are probably in contact with large river 
+otter populations in Montana and Idaho and, thus, gene 
+flow may be less of a concern for Wyoming populations. 
+In all other Region 2 states, otter populations are largely 
+or entirely the result of reintroductions from at least 
+10 states and provinces over a wide range of North 
+America. Most reintroduction sites received otters 
+from two or more states or provinces. Consequently, 
+the genetic makeup of these populations likely reflects 
+the geographic origins of the founding animals, as well 
+as possible influences of bottleneck effects, interaction 
+with remnant or immigrant indigenous otters, and 
+integration with other transplanted populations as they 
+expand and come into contact.
+Some reintroduced populations may remain small 
+and isolated, such as the Piedra River population in the 
+San Juan National Forest in southwestern Colorado, 
+and perhaps some Nebraska populations isolated by 
+lengthy reaches of unsuitable habitat. Small populations 
+face increased risks from genetic drift, excessive 
+homozygosity, and stochastic environmental and 
+disease factors. Periodic augmentation of small, isolated 
+populations from outside sources may be necessary to 
+increase genetic variability.
+The effects of local extirpations, the potential for 
+natural recolonization, and the need for reintroductions 
+all require an understanding of the influence of social 
+structure, mating system, and sex-biased dispersal on 
+genetic variation and gene flow among populations. 
+Genetic relatedness (kinship) had no effect on social 
+organization or spatial relationships among coastal 
+marine river otters in Alaska (Blundell et al. 2004).
+Life history characteristics
+Sex ratios in free-ranging populations of 
+river otter approximate 1:1. Male:female ratios of 
+river otters trapped in 10 northeastern states varied 
+from 0.6:1 to 3.3:1 (Chilelli et al. 1996). Reported 
+sex ratios in New York were 1.3:1 (Hamilton and 
+Eadie 1964), and in Idaho 1.1:1 (Melquist and 
+Hornocker 1983). It is unknown whether differences 
+in trapability between the sexes exist and, therefore, 
+inject bias into sampling efforts.
+Females usually do not mate until age 2, 
+occasionally at age 1 (Hamilton and Eadie 1964). 
+Reported breeding rates of 2-year-old females range 
+from 20 to 55 percent, and not all females may breed 
+every year (Toweill and Tabor 1982). Pregnancy rates 
+seem to vary between the Pacific Northwest and the 
+rest of North America. In British Columbia, 55 percent 
+of 2-year-old females and 91 percent of 3-year-olds 
+were pregnant (Stenson 1985); in Oregon, 99 percent 
+of adult females were judged to be pregnant (Tabor 
+
+
+25
+and Wight 1977). However, various authors indicate 
+that pregnancy rates of adult females in the Midwest, 
+Northeast, and Southern United States range from about 
+50 to 60 percent. These differences most likely relate to 
+differences in environmental factors, particularly habitat 
+conditions, prey availability, and perhaps population 
+density (Melquist and Dronkert 1987).
+In Region 2, breeding rates are unknown. Because 
+trapping harvest does not occur in Region 2, carcasses are 
+seldom available for examination to determine breeding 
+rates. However, Region 2 populations probably exhibit 
+breeding rates similar to other interior populations. 
+Males are sexually mature at age 2 (Hamilton and Eadie 
+1964), but some males may not successfully reproduce 
+until age 5 or older (Liers 1951, 1958).
+Litter size is usually one to three (Docktor et al. 
+1987, Hamilton and Eadie 1964, Tabor and Wight 1977) 
+and averages slightly less than three (Melquist and 
+Dronkert 1987). Recruitment in Oregon was estimated 
+at 1.14 young females per adult female in autumn 
+(Tabor and Wight 1977).
+Annual survival rates in Oregon were 68, 46, and 
+73 percent for age classes 0, 1, and 2-11, respectively 
+(Tabor and Wight 1977). Various terrestrial predators 
+may kill river otters, but most mortality is human-
+caused and includes legal and illegal trapping, illegal 
+shooting, road-kills, and accidental captures in fish nets 
+or set lines (Jackson 1961, Melquist and Hornocker 
+1983). Reported accidental deaths include crushing 
+by ice flows (Serfass and Rymon 1985) and shifting 
+rocks (Melquist and Hornocker 1983). Starvation 
+following tooth damage has been observed (Serfass 
+and Rymon 1985). Survival up to 14 years of age has 
+been documented for free-ranging river otters, and 
+captive otters have lived for 25 years (Stephenson 1977, 
+Melquist and Dronkert 1987). No long-term studies 
+of river otter population dynamics have been carried 
+out, and turnover rates of populations are unknown 
+(Fitzgerald et al. 1994).
+Population matrix analysis
+Life cycle graph and model development: Matrix 
+demographic models provide a means to assess the 
+critical transitions in life history cycles. We created a 
+life cycle graph for river otter that comprised four stages 
+(Figure 8), and we formulated a matrix projection 
+model with a post-breeding census (Cochran and Ellner 
+1992, McDonald and Caswell 1993, Caswell 2001). 
+P1
+1
+2
+3
+4
+P  m
+a
+P  B  m
+a
+P  (1-B  )
+a
+r
+P  B
+a
+r
+a
+P  B  m
+a
+2
+P  B
+a
+r
+P  B
+a
+2
+P  (1-B  )
+a
+2
+P  (1-B  )
+a
+r
+Figure 8. Life cycle graph for the river otter. Stage 1 and stage 2 are age-specific (first and second-year individuals). 
+Stage 3 represents “off-year” females that have a low (25 percent) probability of breeding, and stage 4 represents “off-
+year” females that definitely breed. Following the “off-year,” all females again breed in stage 3. We also assume that 
+only 5 percent of second-year females breed, and that those females then move to the “off-year” stage 4.
+
+
+26
+Here we present a summary of the model results; 
+the complete technical analyses are shown in the 
+Appendix. Model inputs (vital rates such as survival 
+and fertility) are shown in Table A1. Stage 1 represents 
+females in their first year, with “breeding” (i.e., giving 
+birth) probability equal to 0 (Melquist et al. 2003). 
+Stage 2 represents second year females, with breeding 
+probability equal to 0.05. Births by second-year females 
+have occasionally been reported, but most females do 
+not reach sexual maturity until their second year, giving 
+birth in their third year because of delayed implantation 
+(studies reviewed by Toweill and Tabor 1982, Melquist 
+et al. 2003). Stage 3 represents females that bred in the 
+previous year. Stage 4 represents females in at least their 
+third year that did not breed the previous year. After first 
+breeding, females generally alternate between Stage 3 
+and Stage 4. Stages 3 and 4 in the life cycle graph 
+address the fact that the birth interval for otter females 
+varies from one to two years (reviews by Toweill and 
+Tabor 1982, Melquist and Dronkert 1987, Melquist 
+et al. 2003). No data on birth intervals are available 
+from otters in Region 2 states. High pregnancy rates 
+of adult females reported for otter populations subject 
+to trapping harvest in Oregon (99 percent; Tabor and 
+Wight 1977) and Missouri (about 90 percent; Missouri 
+Department of Conservation, unpublished data) indicate 
+that most females in those populations bred every year. 
+Other studies in the northeastern and southern United 
+States reported near 0 to 25 percent of females giving 
+birth in consecutive years (Toweill and Tabor 1982). 
+We selected a conservative probability for breeding in 
+consecutive years of 0.25.
+Sensitivity analysis: First, we conducted a 
+sensitivity analysis. Sensitivity is the effect on the 
+population growth rate (λ) of an absolute change in 
+the vital rates (i.e., survival and fertility). The rate for 
+which λ was most sensitive was female adult survival 
+(71 percent of total sensitivity). First-year survival 
+sensitivity was 15 percent of the total, and fertility 
+sensitivity summed for all stages was 13 percent of the 
+total. We conclude from the sensitivity analysis that 
+survival of adult females is the most important vital rate 
+transition for population viability.
+Elasticity analysis: Next, we conducted an 
+elasticity analysis. Elasticities help resolve a problem 
+of scale that can complicate conclusions drawn 
+from the sensitivity analysis. Because survival rates 
+and fertility rates are measured on different scales, 
+interpreting the results of a sensitivity analysis can 
+be somewhat misleading. Elasticities have the useful 
+property of summing to 1.0. Elasticity analyses for the 
+river otter conclude that λ was most elastic to changes 
+in female adult survival, summed for Stages 2 through 
+4 (67 percent of total elasticity), followed by first-year 
+survival (16 percent of total) and fertilities summed 
+for all female adult stages (16 percent of total). The 
+results of the elasticity analysis, consistent with the 
+sensitivity analysis, indicate that female adult survival 
+is the most important population characteristic for 
+population viability.
+Stochastic model: Finally, we constructed a 
+stochastic model to predict the effect of environmental 
+variation on λ. Stochasticity was incorporated by 
+varying different combinations of vital rates or by 
+varying the amount of stochastic fluctuation. The 
+stochastic model produced two major results. First, 
+altering the adult survival rate produced a much greater 
+change in λ than altering either first-year survival rate 
+or fertility rates. Second, high-amplitude stochasticity 
+has a negative effect on λ, despite the fact that average 
+vital rates remain the same. These results indicate that 
+river otter populations are relatively tolerant of year-to-
+year fluctuations in production of offspring or first-year 
+survival, but they are more vulnerable to fluctuations in 
+adult survival.
+Summary of conclusions from river otter matrix 
+projection models:
+v Sensitivity analysis indicated that λ was 
+most sensitive to absolute changes in adult 
+survival; first-year survival sensitivity and 
+fertility sensitivity summed for all stages 
+were lower.
+v Elasticity analysis indicated that λ was most 
+elastic to changes in adult survival, followed 
+by first-year survival and fertilities summed 
+for all adult stages.
+v Stochastic simulations testing variations in 
+vital rates showed that river otter populations 
+are most vulnerable to changes in adult 
+survival, and they are vulnerable to high-
+amplitude fluctuations in adult survival 
+rates even when the average adult survival 
+remains unchanged.
+v The three analyses were consistent in 
+identifying adult survival rate as the 
+most important population characteristic 
+for maintaining population viability; the 
+stochasticity analysis further identified a 
+vulnerability of river otter populations to 
+year-to-year fluctuations in adult survival.
+
+
+27
+Limiting factors
+The extent to which river otter social behavior 
+limits populations is unknown. In marine coastal 
+environments of Prince William Sound, Alaska, 
+natal dispersal rates for river otters were less than 10 
+percent for both sexes (Blundell et al. 2002b). Natal 
+dispersal distances were bimodal, with most males and 
+some females moving 16 to 30 km but some females 
+dispersing 60 to 90 km. However, evidence of breeding 
+dispersal was documented for 30 percent of adult males 
+that either shifted or expanded their home ranges during 
+the breeding season. While the “effective dispersal” 
+(i.e., resulting in reproductive success) could not be 
+assessed, other genetic evidence indicated that breeding 
+dispersal by adult males was an important contributor 
+to gene flow between adjacent populations (Blundell et 
+al. 2002b).
+The dispersal ability of river otters contributes 
+to population recovery and expansion, as long as large 
+areas of suitable habitat remain. However, fairly strict 
+habitat requirements, relatively low fecundity, and 
+long life spans make river otter populations vulnerable 
+to habitat alterations and can limit the speed at which 
+impacted populations can recover (Melquist and 
+Dronkert 1987).
+In Region 2, the primary limiting factors for river 
+otters are habitat-related. Large areas of river habitat 
+have been degraded by water depletions and water 
+development, decline in water quality, loss of riparian 
+vegetation, and heavy human settlement. These areas 
+mostly occur beyond USFS lands, in valleys where 
+private lands dominate. However, riparian vegetation 
+degradation has also occurred on some federal lands 
+from livestock grazing and other land uses. Observations 
+from river otter monitoring in Colorado (DePue 2002, 
+Boyle 2003) suggest that river otters avoid or seldom 
+use river reaches that no longer support suitable riparian 
+vegetation and are heavily impacted by agriculture or 
+urban development, despite food availability in the 
+disturbed reaches. Melquist and Hornocker (1983) 
+reported similar observations in Idaho.
+Water development projects for agriculture 
+and increasingly for urban development that deplete 
+or modify natural flow regimes can also reduce 
+habitat and prey availability for otters. For example, 
+agricultural diversion of the Dolores River at McPhee 
+Reservoir in the San Juan National Forest has reduced 
+tailwater flows to about 10 cfs in recent summers. This 
+reduction may exceed the minimum flow required to 
+sustain populations of large fish and adequate pool 
+volume for otters. Flow reduction and changes in the 
+natural hydrograph may also have other long-term 
+consequences for aquatic and riparian ecosystem 
+health. Growth of human populations, particularly 
+rapid in parts of Colorado, is increasing urban and 
+suburban development pressure and recreational use 
+along rivers, and is likely to cause further otter habitat 
+degradation and fragmentation. These habitat losses 
+impede the ability of recovering river otter populations 
+to expand and may limit some small populations to 
+nonviable size.
+Community ecology
+River otters are top-order carnivores that inhabit 
+many kinds of aquatic systems. Key community 
+relationships are summarized in the envirogram 
+presented in Figure 9.
+Predators
+River otters in the interior west have no natural 
+predators when they are in water, but on land or ice, they 
+are more vulnerable. Bobcat (Lynx rufus), mountain lion 
+(Felis concolor), coyote (Canis latrans), domestic dog 
+(C. familiaris), gray wolf (C. lupus), red fox, and bald 
+eagle (Haliaeetus leucocephalus) are predators present 
+in Region 2 that have been reported to kill river otters 
+(Melquist and Hornocker 1983, Mach 1985, Melquist 
+and Dronkert 1987, Route and Peterson 1991, Melquist 
+et al. 2003). An unverified report exists of black bear 
+(Ursus americanus) predation on river otter in Alaska 
+(Home 1982).
+Competitors
+Competition for food with other animals appears 
+low. Mink are typically sympatric with river otters in 
+Region 2, and the ecological niches occupied by mink 
+and river otter partly overlap. However, differences 
+in size, morphology, feeding habits, and foraging 
+strategies minimize competition between the two 
+species in Idaho (Melquist et al. 1981). In Alaska, otters 
+and mink inhabiting marine shorelines show niche 
+separation through resource partitioning related to each 
+species’ swimming abilities (Ben-David et al. 1996). 
+Competitors for crayfish, an important diet item in 
+western Colorado and southwestern Wyoming, include 
+raccoon (Procyon lotor), skunk (Mephitis and Spilogale 
+sp.), mink (Mustela vison), herons (Ardeidae), and 
+predaceous fish, particularly trout. Raccoon and skunk 
+densities often increase with human settlement, but the 
+extent to which raccoons or other animals can deplete 
+crayfish populations is unknown.
+
+
+28
+WEB
+CENTRUM
+N
+2
+1
+Forest resource 
+  management
+Riparian livestock
+  grazing
+Topography
+RESOURCES
+Rivers, streams, lakes, 
+wetlands
+Elevation
+Precipitation
+Beavers
+Riparian vegetation
+Shoreline rocks
+Shoreline woody 
+  debris
+Instream rocks
+Instream woody 
+  debris
+Logging
+Wildfire incidence
+Den, rest, feeding, 
+  latrine sites
+River/Lake 
+  volume
+River seasonal 
+  flow
+Water quality
+Fish predators
+Fish stocking
+Alternate prey
+Den, rest sites
+Riparian 
+  vegetation
+Beaver trapping effort
+Road proximity to
+  streams, lakes
+Nutrients from fish, 
+invertebrates
+PREDATORS
+Diseases
+Dogs
+Mountain lion, coyote,
+  wolf
+MALENTITIES
+Trappers (incidental take)
+Road kill, shooting, 
+  human disturbance
+Trapping regulations
+Fur prices
+Human density
+Economic growth
+Scenery, rural 
+  amenities
+NORTH AMERICAN RIVER OTTER
+Irrigated agriculture
+Human density
+
+
+29
+Parasites and disease
+Melquist et al. (2003) reviewed river otter 
+parasites and diseases. River otters host numerous 
+kinds of endoparasites including nematodes (Hoberg 
+et al. 1997), cestodes (Greer 1955), trematodes and 
+sporozoans (Hoover et al. 1984), and acanthocephalans 
+(Hoberg et al. 1997, Hoover et al. 1984). Ectoparasites 
+include ticks (Eley 1977, Serfass et al. 1992), sucking 
+lice (Kim and Emerson 1974), and fleas (Serfass 
+et al. 1992). Reported diseases include canine 
+distemper (Harris 1968, Park 1971), rabies (Serfass 
+et al. 1995), respiratory disease, and urinary infection 
+(Hoover et al. 1984, Route and Peterson 1991). Other 
+reported conditions include jaundice, hepatitis, feline 
+panleucopemia, and pneumonia (Harris 1968). In 
+general, parasites and diseases have not been identified 
+as important factors in river otter population dynamics 
+in the United States, but disease transmittal to otters and 
+other animals by translocating otters is a concern.
+Symbiotic and mutualistic interactions
+Where river otters and beavers occur together, a 
+facultative commensal relationship exists (Tumlison 
+et al. 1982, Reid 1984, Polechla 1987, 1989) because 
+river otters make extensive use of beaver-created 
+habitat features. River otters benefit from the increased 
+availability of food resources in beaver ponds (Reid et 
+al. 1994a, Dubuc et al. 1990) and commonly use beaver 
+dams, lodges, and bank dens for rest and den sites.
+Otters often inhabit beaver bank dens and lodges, 
+sometimes simultaneously with beavers (Melquist and 
+Hornocker 1983, Malville 1990). The regulated flows 
+provided by beaver impoundments also provide stable 
+water supplies, abundant herbaceous cover, and areas of 
+limited human disturbance (Dubuc et al. 1990). Beaver 
+activity over time, particularly in smaller drainages, 
+creates extensive riparian and wetland habitats beneficial 
+to otters (see Habitat section). Beavers do not appear to 
+benefit from the interaction and may occasionally suffer 
+from river otters causing rifts in beaver dams, driving 
+beavers from dens, and occasionally preying on beavers 
+(Reid et al. 1994b).
+In colder regions of their range, including Region 
+2, river otters can serve as part of a pathway for nutrient 
+transport from more productive aquatic systems to less 
+productive terrestrial systems (Ben-David et al. 1998). 
+Crait et al. (2002) hypothesize that cutthroat trout 
+(Oncorhynchus clarki) in Yellowstone National Park 
+move nutrients from Yellowstone Lake into nitrogen-
+poor streams during spawning runs, and that terrestrial 
+fish predators including otters extend the pathway to 
+terrestrial plants by eating trout and excreting nutrients 
+on shore.
+CONSERVATION OF RIVER OTTERS 
+IN REGION 2
+Threats
+The unregulated harvest of river otters for pelts 
+was formerly an important threat to the species and, 
+along with habitat destruction, resulted in large declines 
+in river otter abundance and distribution in North 
+America (Melquist et al. 2003). River otters are now 
+protected from harvest in all Region 2 states. Elsewhere 
+where commercial harvest is permitted, harvest is 
+regulated by state and provincial governments and 
+overseen by the USFWS and Canadian Wildlife Service 
+(CWS) under the auspices of CITES (see Management 
+section). While commercial harvest of otters is no 
+longer regarded as a threat in any part of the river 
+otter’s range (Melquist et al. 2003), illegal take of otters 
+and incidental take by beaver trappers may continue 
+to threaten local populations. Predation, parasites, 
+and disease (see Community Ecology section) cause 
+mortality of river otters, but they are not known to have 
+serious impacts on populations (Melquist et al. 2003). 
+The most serious broad-scale threats currently facing 
+river otters stem from the destruction and degradation 
+of habitat and direct human-caused mortality (Melquist 
+et al. 2003).
+Habitat destruction and degradation
+A primary cause of habitat destruction in Region 
+2 is water development for economic and recreational 
+purposes, which has reduced flow volumes and altered 
+seasonal flooding patterns in most watersheds (Buskirk 
+et al. 2000). Reduced flows from water diversions 
+can decrease channel depth and even completely 
+dewater stream reaches. Alteration of flow volume 
+or timing (natural hydrograph) can result in changes 
+to stream channel morphology and riparian conditions 
+over time by changing the structure and extent of 
+riparian vegetation, increasing water temperatures 
+or turbidity, and affecting riverbed and floodplain 
+morphology (Ffolliott et al. 2004, Stromberg et al. 
+2004). Of particular concern in Region 2 are heavily 
+depleted or altered streams, such as the Colorado, 
+Dolores, Gunnison, and San Juan rivers and their 
+tributaries in Colorado. Changes in the structure and 
+function of stream systems that alter system dynamics, 
+reduce flow, reduce or simplify riparian vegetation, or 
+reduce otter prey, adversely affect river otters. Water 
+
+
+30
+depletions can magnify the negative effects of natural 
+drought on river otters.
+In large reservoirs, fluctuating water levels 
+usually prevent the establishment of riparian vegetation, 
+and shoreline cover for river otters is poor or absent 
+(M. Ben-David, University of Wyoming, personal 
+communication 2003). Thus, poor quality habitat in 
+large reservoirs may hinder river otter dispersal. Cold-
+water releases from reservoirs on warm rivers may 
+change the fish and invertebrate fauna downstream. 
+For example, crayfish are a staple of river otter diets in 
+the Green River above Flaming Gorge Reservoir, but 
+crayfish are absent in the colder waters below the dam 
+(Boyd and Ben-David 2002). Compared to the upstream 
+reach, the downstream fish fauna contains fewer slower-
+swimming, shallow water species that river otters prefer 
+and a greater proportion of fast-swimming salmonids.
+Destruction and degradation of riparian vegetation 
+is another serious threat to river otter habitat. Continent-
+wide, declines of river otters have been most pronounced 
+in low-elevation areas subject to intensive agriculture 
+and urban development, where degradation of shoreline 
+structure and riparian communities has been extensive 
+(Buskirk 2000). In the Humboldt River watershed in 
+Nevada, river otters occupy only remnant areas of 
+intact riparian vegetation. Otters avoid reaches where 
+the floodplain is completely cleared for agriculture; 
+such areas have poor bank stability, and beavers are 
+absent (Bradley 1986). Livestock grazing has affected 
+most riparian areas in the arid southwest, resulting 
+in decreased riparian cover and structural diversity, 
+increased bank erosion and stream down-cutting, and 
+lowered water tables (Clary and Kruse 2004).
+Timber harvest can reduce riparian cover, 
+increase stream siltation, and reduce woody debris that 
+provides important cover for fiver otters. River otters in 
+coastal Alaska avoided clearcut areas 5 to 23 years old 
+(Larsen 1983).
+River otters in Region 2 may be especially 
+vulnerable to habitat fragmentation because they are 
+largely confined to linear habitats. Stretches of stream 
+habitat made unusable or impassable to river otters can 
+limit the size and viability of river otter populations, 
+inhibit dispersal, and isolate small subpopulations that 
+cannot maintain viability in isolation.
+Water pollution
+River otters are highly vulnerable to pollution 
+because of their position at the top of aquatic food 
+chains. Residues of petroleum products, mercury 
+and other heavy metals, organochlorine compounds, 
+polychlorinated biphenyls, and other toxic compounds 
+have been found in river otter tissues (Kimber and 
+Kollias 2000, Ben-David et al. 2001a, Bowyer 
+et al. 2003, a review by Melquist et al. 2003). 
+Bioaccumulation of polychlorinated biphenyls was 
+considered the likely cause of river otter declines in 
+Oregon (Henny et al. 1981) and New York (Foley et 
+al. 1988). O’Conner and Nielsen (1981) reported that 
+methyl mercury at dietary levels of 2 ppm was lethal 
+to river otters, and they noted that even after pollution 
+abatement, mercury persisting in sediments continues 
+to move through aquatic food chains.
+Physiological, behavioral, and ecological effects 
+on river otters from the Exxon Valdez oil spill in 1989 in 
+Prince William Sound, Alaska were studied in particular 
+detail (Ben David et al. 2001b, 2001c, Ben-David et al. 
+2002, Bowyer et al. 2003). The spill caused initial 
+mortality of river otters by oiling, which was difficult 
+to detect because otters seldom died on open shorelines 
+where they could be detected by beach searches. During 
+1989-1992, surviving river otters in heavily oiled areas 
+had lower body mass, elevated biomarker compounds in 
+their blood and feces, and larger home ranges, and they 
+ate a less diverse diet and selected habitat differently 
+than otters in control populations (Bowyer et al. 2003). 
+During later studies (1996-1999), differences in these 
+factors were no longer detectable between otters from 
+heavily oiled and lightly oiled areas, and the authors 
+concluded that river otter populations had recovered 
+from the oil spill.
+Chronic pollution of waterways in Region 2 
+that could affect river otters is a greater issue in areas 
+downstream of NFS lands where urban or industrial 
+discharges or agricultural runoff contribute pollutants. 
+Water pollution on NFS lands is primarily confined to 
+areas where past or current mining activity contributes 
+sediments, oils and greases, or heavy metals to rivers 
+and streams (Rudd et al. 1986). Principal areas in 
+Region 2 where historic or current mining activity 
+adversely impacts NFS waterways include the mining 
+districts of the San Juans and central mountains in 
+Colorado, and the Black Hills; coal mining areas of 
+the Grand Mesa, Uncompahgre, Gunnison, and Routt 
+national forests in Colorado; and oil and gas fields in 
+the San Juan and Piceance Basins of Colorado, and the 
+Bighorn, Powder, and Green River basins of Wyoming. 
+Mining can affect water quality by increasing sediment 
+loads and turbidity, by leaching of toxic elements from 
+exposed ore and waste rock, by introducing excess 
+materials from blasting and fertilizer, and by introducing 
+
+
+31
+pathogens from septic systems. Acid drainage associated 
+with mines can seriously degrade water quality and is of 
+particular concern in many historic mining districts in 
+Colorado and the Black Hills. Acid drainage increases 
+water acidity and the solubility of heavy metals, which 
+can severely affect fish and invertebrate productivity 
+(Mason 1981) and lead to direct bioaccumulation of 
+heavy metals by otters through the food chain pathway. 
+Alkaline mine drainage, more typical of coal and 
+surface mining in the western United States, can be 
+just as damaging (Hill 1973, cited in Rudd et al. 1986). 
+The potential for petrochemical pollution to affect river 
+otters in Region 2 is greatest where oil pipelines cross 
+rivers and streams, and where well fields, and oil or fuel 
+storage tanks exist near waterways. Major oil and gas 
+fields in Region 2 include the Powder and Green River 
+basins of Wyoming, and the Piceance, San Juan, and 
+Denver basins of Colorado. Oil pipelines cross most 
+major rivers in Region 2.
+Human settlement and recreational use
+Human population growth in Region 2 fuels 
+expanding 
+development, 
+often 
+concentrated 
+in 
+floodplains or along streams where land is most easily 
+developed and where scenic and fishing amenities are 
+high. Homes, commercial areas, gravel mining, etc. 
+in floodplains and along streams can degrade riparian 
+and aquatic habitat for river otters. Recreational use of 
+rivers and lakes for boating and fishing is also common 
+and increasing. Shoreline facilities to support recreation 
+can degrade shoreline habitat for otters and concentrate 
+human activities. In general, river otters are shy and will 
+avoid humans when possible, but some will habituate 
+where food is abundant and they are not harassed 
+(Melquist and Hornocker 1983). However, dispersed 
+recreation along waterways at sufficient density may 
+adversely affect river otters by altering habitat use or 
+daily activity patterns (Giere and Eastman 2000).
+Human presence in riparian areas introduces 
+domestic dogs, which sometimes kill river otters. 
+Melquist and Hornocker (1983) reported river otters 
+in their Idaho study area killed by dogs, and two river 
+otters reintroduced into Rocky Mountain National 
+Park were killed by canids, presumably domestic dogs 
+associated with human settlement nearby (Colorado 
+Division of Wildlife 2003b).
+Increased human presence also increases the risk 
+of mortality from roadkill. In Nebraska, roadkill has 
+been the second most common cause of mortality of 
+reintroduced river otters (Nebraska Game and Parks 
+Commission 2003). In Idaho, roadkill accounted for two 
+of seven identified mortalities (Melquist and Hornocker 
+1983), and in Colorado, at least two river otters in the 
+upper Colorado River have been killed on highways 
+(Colorado Division of Wildlife 2003b). Roadkill is an 
+important mortality factor for Eurasian otters in Great 
+Britain (Chanin and Jefferies 1978, Kruuk 1995). Roads 
+with high traffic volume along mountain streams and 
+those providing access to residential and recreational 
+areas along streams and lakeshores are most likely to 
+pose a threat to river otters.
+Increased human presence can also result in an 
+increase in the numbers of generalist predators such as 
+coyote, red fox, mountain lion, and raccoon (Goodrich 
+and Buskirk 1995, Buskirk et al. 2000). These species 
+have broad habitat tolerances, switch prey easily, and 
+tend to tolerate or benefit from human development. 
+Generalist predators may affect river otters by 
+increasing predation on young or dispersing otters, or 
+reducing numbers of beavers, which in turn may affect 
+the quality of river otter habitat. Raccoons may compete 
+with river otters for aquatic food.
+Introductions of non-native salmonids and other 
+cold-water sport fish into lakes and rivers can reduce 
+prey availability for river otters. In Yellowstone Lake, 
+Wyoming, an unauthorized introduction of lake trout 
+may be reducing populations of Yellowstone cutthroat 
+trout (Oncorhynchus clarki bouvieri) and reducing food 
+resources for river otters, which may also be declining 
+in the area (Crait et al. 2002). In Region 2, stocking 
+of non-native salmonids is extensive in all major 
+watersheds, particularly at lower elevation reservoirs 
+and tailwater reaches below reservoirs.
+Incidental trapping and illegal take
+Commercial trapping for beavers and other 
+furbearers is permitted in all Region 2 states except 
+Colorado, where limited beaver trapping is permitted 
+for damage control purposes. Incidental catch of 
+otters in traps set for other furbearers is commonly 
+reported in all Region 2 states. In Nebraska, accidental 
+trapping is the single largest source of mortality among 
+reintroduced river otters (Nebraska Game and Parks 
+Commission 2003). In Colorado, the majority of known 
+deaths of reintroduced river otters have resulted from 
+accidental take in beaver traps (Colorado Division of 
+Wildlife 2003b). The magnitude of this threat in Region 
+2 is probably variable, and of greatest concern in small 
+populations. Illegal trapping is occasionally a problem. 
+In Nebraska, NGPC law enforcement personnel have 
+investigated a few cases of illegal trapping in recent 
+years. At least one small population of otters was 
+
+
+32
+completely trapped out, presumably for illegal sale out 
+of state (R. Bischof personal communication 2003). 
+Illegal shooting of river otters occurs, but the level of 
+this threat is difficult to assess because most shootings 
+are presumably unreported. In Idaho, one radio-
+collared otter was killed by gunshot, one recovered 
+from a gunshot wound, and two trapped otters from 
+other areas had shotgun pellets in them (Melquist and 
+Hornocker 1983).
+Conservation Status of River Otter in 
+Region 2
+Distribution and abundance
+The conservation status of river otters in Region 
+2 has improved markedly since the 1970’s because 
+of water pollution abatement, reintroductions, and 
+increased concern for management of otters by Colorado 
+and Nebraska wildlife agencies and Rocky Mountain 
+National Park. However, many areas of formerly 
+occupied habitat in Region 2 remain unoccupied, and 
+river otter populations are more isolated than in pre-
+settlement times. River otters occur in at least parts 
+of most major watersheds in the Rocky Mountains 
+of Colorado and Wyoming, with the exception of the 
+White, Rio Grande, and headwaters of the South Platte 
+and Arkansas rivers. Distribution in the Great Plains 
+area of Region 2 remains more fragmented, with otters 
+regularly occupying only the Platte and North Platte 
+rivers in Nebraska. The Black Hills National Forest has 
+the most NFS land on the Great Plains with suitable but 
+unoccupied river otter habitat.
+No quantitative estimates of river otter abundance 
+or population trend exist continent-wide or in Region 
+2. Throughout their range, available trapping harvest 
+records and increasing or stable distribution suggest 
+stable or increasing numbers (Melquist et al. 2003). In 
+Region 2, apparent expansions of river otter populations 
+in the Platte River system of Nebraska and the Colorado 
+River watershed of Colorado may indicate increasing 
+numbers of river otters, but no abundance data are 
+available. In Wyoming, river otter populations are 
+perceived to be stable and presumably more numerous 
+than in any other Region 2 state (B. Oakleaf personal 
+communication 2003). Few otters inhabit western South 
+Dakota and Kansas.
+River otter populations in Wyoming, Colorado, 
+and Nebraska appear to be persisting and in some 
+cases increasing. In response, Colorado and Nebraska 
+recently down-listed river otters from state endangered 
+to state threatened status. However, concerns remain 
+about the long-term viability of otter populations in 
+these states in the face of increasing habitat loss and 
+degradation, and human-caused mortality. Isolation 
+and small size of some populations may increase their 
+vulnerability to decline or extirpation due to localized 
+or systemic factors. River otters are high trophic-level 
+carnivores that occur in low densities, and are confined 
+to specialized aquatic habitats. Consequently, they 
+require large reaches of suitable stream habitat and are 
+vulnerable to human-caused changes in habitat structure 
+(Buskirk 2000). Habitat degradation and fragmentation 
+are likely to be the most important factors limiting river 
+otter populations and their recolonization of formerly 
+occupied habitats in Region 2. Expanses of waterless 
+terrain and high mountain ranges tend to isolate streams 
+in Region 2. These habitats have been further fragmented 
+by human impacts to streams, lakes, and floodplain 
+wetlands. Impacts from agriculture, urbanization, 
+recreation, and pollution have reduced habitat suitability 
+for river otters in many places, and have fragmented the 
+remaining suitable habitat. Riparian areas on private 
+lands (particularly in semiarid lower elevations) receive 
+little protection and are often subject to destructive 
+land uses. Degraded habitat may create population 
+sinks for river otters, hinder permanent dispersal and 
+colonization, and reduce an otter population’s ability 
+to respond to local habitat change by moving (M. Ben-
+David personal communication 2003).
+Vulnerability to human-caused mortality
+Human-caused mortality may also be an 
+important factor in river otter conservation in Region 
+2. The population matrix models described in the 
+Appendix showed that survival of adult females is the 
+most important life-history transition for population 
+viability. Most river otter mortality in North America 
+is associated with human causes (Melquist et al. 
+2003), and the incidences reported in Region 2 states 
+(see Threats section) suggest that this is also true in 
+Region 2.
+Vulnerability to habitat change
+Natural variations in environmental conditions 
+that may affect river otters include drought, floods, 
+storms, or temporary shifts in prey availability. Otter 
+populations are typically spread widely over large 
+areas, reducing vulnerability to localized environmental 
+variations. Instead, systemic changes to riverine 
+systems will have broader effects on otter persistence. 
+Drought is a concern because the effects can be severe 
+in magnitude and may affect large areas for several 
+years. The mobility of otters may allow them to shift 
+
+
+33
+activity areas temporarily in response to environmental 
+fluctuations, but this requires adequate dispersal 
+corridors. Because river otter population growth rates 
+are sensitive to relatively small changes in adult survival 
+(stochasticity analysis in Appendix), widespread or 
+lingering stochastic events such as prolonged drought 
+have the potential to depress river otter populations.
+Management of River Otters in Region 2
+Implications and conservation elements
+Under existing management, river otters in 
+Region 2 are likely to persist at some level in the 
+Rocky Mountains of Wyoming and Colorado, and the 
+Platte River system of Nebraska. Otters may eventually 
+reoccupy the Black Hills in South Dakota and other 
+areas of the Great Plains in Region 2, if suitable habitat 
+remains. However, the river otter has been termed 
+a keystone species because of its role in nutrient 
+transport between aquatic and terrestrial ecosystems, 
+and a sentinel species because of its sensitivity to 
+environmental contaminants and other disturbances 
+(Bowyer et al. 2003). As such, river otter presence 
+should be considered an important element in aquatic 
+and riparian ecosystem health in Region 2 habitats 
+potentially suitable for river otters. The existing and 
+additional management efforts described below should 
+help to make river otter populations across Region 2 
+more widespread and secure.
+State and federal agency planning and 
+management
+The state wildlife departments of Colorado and 
+Nebraska have taken an active role in river otter recovery 
+through the implementation of (so far, successful) 
+reintroduction programs and population monitoring. 
+Colorado has a river otter recovery plan and supports 
+research on improved monitoring techniques. Other 
+Region 2 states do not manage river otters other than 
+enforcing prohibitions on take and collecting incidental 
+sightings. A stronger state agency commitment in 
+South Dakota to river otter recovery would increase the 
+chance of successful re-establishment of river otters in 
+the Black Hills. Continued designation by USFS of the 
+river otter as a sensitive species in Region 2 will help 
+direct USFS management actions to benefit river otters. 
+Opportunities exist at forest and district planning levels 
+to direct management to address habitat needs and 
+concerns as outlined in the next section. Maintaining 
+habitat on long stream reaches and maximizing 
+connectivity between protected reaches requires 
+planning across administrative boundaries. Cooperative 
+multi-jurisdictional planning and funding will be 
+necessary to achieve the watershed and landscape 
+management essential to river otter conservation.
+Habitat protection and restoration
+Where river otters occur, or the potential exists 
+for their recolonization, suitable otter habitat should 
+be maintained, and potentially suitable, but degraded, 
+habitat should be restored where opportunities may 
+exist. At local scales, this requires maintenance of 
+adequate streamflow (at least 50 cfs) and food resources, 
+good water quality, riparian vegetation providing at 
+least 50 percent cover along banks, other cover in or 
+along streams such as woody debris or boulders, and 
+streamflow regimes that protect natural aquatic and 
+riparian processes, ensuring the continued existence 
+of river otter habitat. Actions that alter instream flows, 
+degrade or destroy riparian habitat, eliminate woody 
+debris in streams, or reduce beaver activity should be 
+modified where possible to alleviate impacts to river 
+otter habitat. Principal actions of concern on USFS 
+lands include livestock grazing in riparian areas, timber 
+harvest and fire management where they may affect 
+riparian vegetation or stream siltation, recreational uses 
+and road management along streams and in riparian 
+areas, and water diversion and development projects. 
+Fisheries projects that increase fish (especially native 
+species) and invertebrate biomass are likely to benefit 
+river otters, but replacement of slower-swimming native 
+fish with non-native salmonids may decrease prey 
+availability for otters. Mining and energy development 
+should be managed to avoid water pollution because of 
+the sensitivity of river otters to pollutants. The effects on 
+river otters of habitat modifications at small scales are 
+difficult to discern. However, the cumulative impacts of 
+several modifications over larger spatial and temporal 
+scales are likely more important than the impact of any 
+single project.
+At landscape scales, river otter populations in 
+Region 2 require long stream reaches dominated by 
+suitable habitat, and connections between watersheds 
+and between otter populations within watersheds. 
+Because otters require extensive stream reaches 
+of quality habitat and because they exist at low 
+densities, it is likely imperative that subpopulations 
+be interconnected into a metapopulation structure to 
+achieve and maintain viability. Managing habitat for 
+otters at a landscape scale will require identification of 
+key habitat linkages, protection of those linkages from 
+habitat degradation, and the restoration of degraded or 
+severed habitat linkages where necessary.
+
+
+34
+Much of the known distribution of river otters 
+in Region 2 lies outside of lands administered by 
+the USFS (Figure 3, Figure 4, Figure 5, Figure 6, 
+Figure 7). Likewise, most of the habitat degradation 
+and fragmentation of concern for river otters has 
+occurred on non-NFS lands at lower elevations, where 
+the impacts of water diversions and impoundments are 
+greatest, and where agricultural and urban land uses 
+have a greater impact on riparian areas. The largest 
+problems are along the Colorado Front Range and in 
+the Colorado River drainage, where human population 
+size and growth rates are the greatest in Region 2. 
+However, suitable river otter habitat is known or likely 
+to exist in all Region 2 national forests. Otter habitat 
+on NFS lands is often more pristine compared to 
+private lands, and thus it may often be more valuable 
+to river otters. As human settlement spreads on lower 
+elevation private lands, NFS lands may be increasingly 
+important in serving as source populations to replenish 
+sink populations on less protected lands. Furthermore, 
+NFS land is key for the dispersal of river otters between 
+watersheds. USFS actions that influence downstream 
+aquatic or riparian conditions may affect river otter 
+habitat on other jurisdictions.
+Management for river otter conservation in Region 
+2 should consider increasing the distribution of river 
+otters into suitable habitats; this is best accomplished by 
+natural colonization, with reintroductions used as a last 
+resort. Sources, locations, and the magnitude of human-
+caused mortality, including vehicle collisions, predation 
+by dogs, illegal shooting, and incidental take during 
+beaver trapping, should be evaluated, and methods for 
+controlling important causative factors implemented. 
+Note the results of population matrix analysis, indicating 
+that survival of adult females is the most important life-
+history transition. This will require further development 
+of cost-effective census techniques, their application 
+across a broad range of areas in Region 2, and studies to 
+determine causes of mortality.
+Protection of river otters from human-caused 
+mortality will require continuing the existing state 
+commitments to restrict commercial and other take. 
+Additional efforts are needed to minimize proximity of 
+roads, recreational developments, and human settlement 
+to waterways that provide habitat for otters.
+Tools and practices
+Inventory and monitoring of populations
+State agencies in Colorado and Nebraska 
+(described above) and Rocky Mountain National Park 
+monitor river otter populations. However, because 
+no reliable census technique exists, neither state 
+determines population sizes or densities. Instead, they 
+use sign surveys to provide data on presence and overall 
+distribution of populations, with qualitative evidence 
+on reproduction. These monitoring programs have 
+sufficiently documented the persistence, reproduction, 
+and expansion of reintroduced populations, and have 
+provided an effective basis for conservation planning.
+While a sign survey is a cost-effective means to 
+document otter presence, it is not a reliable indicator 
+of abundance because otter density and the amount of 
+visible sign do not correlate well (review by Melquist 
+et al. 2003). Furthermore, slides and sign heaps may be 
+confused with beaver sign. Otters leave abundant sign, 
+including footprints, slides, rolling places, sign heaps, 
+and scat. Sign is most apparent at landings where otters 
+exit the water and at latrine sites. Otters often roll, rub, 
+and groom on sandy or grassy areas along waterways. 
+At these places, otters sometimes twist or scrape 
+vegetation and dirt into mounds and mark the heaps 
+with scent from anal glands. Otters frequently defecate 
+on logs projecting from water, logjams, sandbars, rocks, 
+or similar objects in the water. Winter sign surveys are 
+employed to take advantage of snow for discerning 
+tracks. However, in the Dolores River in southwestern 
+Colorado, where beaver bank dens below ice are 
+plentiful, otters often remain below the ice for weeks, 
+leaving little sign (Colorado Division of Wildlife 
+2003b). Because otters move over large areas, but may 
+concentrate in areas where food is temporarily abundant, 
+sign surveys should cover as much of the survey area as 
+possible (Melquist and Hornocker 1979).
+The Colorado monitoring protocol (Colorado 
+Division of Wildlife 2003b) provides an example for 
+systematic surveys of Region 2 streams accessible by 
+foot or boat. The method specifies:
+v Use trained observers
+v Survey entire reach of suspected occupancy
+v Survey the reach by moving from one end to 
+the other
+v Complete survey on consecutive days
+v Survey in early spring prior to high water, or 
+in late summer on some larger rivers where 
+extensive sandbars are exposed
+
+
+35
+v Record otter sightings and sign by location 
+(river km), photograph, written description, 
+and collect scat sample for constituent 
+analysis
+v Survey each study reach every 5 years.
+Based on an average density of one otter per 3.9 
+km of waterway in Idaho (Melquist and Hornocker 
+1983), river reaches that contain at least one observed 
+sign for every 5-km section are presumed occupied. 
+Because surveys could record sign from transient otters, 
+population viability must be inferred cautiously from 
+the size of occupied reaches, evidence of reproduction, 
+and population history. Increasing the frequency of 
+surveys would decrease the potential error introduced 
+by transients.
+Bridge-sign surveys are especially well suited 
+to areas where otters occur mainly on private lands 
+and where an extensive road network overlaps 
+otter habitats. In Nebraska, bridge-sign surveys are 
+conducted in midwinter to capitalize on snow for 
+maximum track detectability. However, variable snow 
+conditions between years cause bias, so the technique’s 
+utility is maximized in areas where winter snow cover 
+is most dependable.
+State agencies usually record river otter sightings 
+by trappers and the public to aid in determining the 
+species’ distribution (Raesly 2001). In many states, 
+such records constitute the only monitoring effort; 
+within Region 2, these include Wyoming (B, Oakleaf 
+personal communication 2003), South Dakota (A. 
+Kiesow personal communication 2003), and Kansas 
+(M. Peak personal communication 2003). While 
+such observations may provide the only available 
+information in the absence of a systematic monitoring 
+program, Beck (1993) cautioned that public sightings 
+in Colorado have often proved unreliable for 
+determining 
+otter 
+distribution. 
+Misidentification 
+of animals is the biggest problem, but deliberate 
+misreporting may also occur.
+Radio telemetry techniques for river otters have 
+mostly focused on subcutaneous and interperitoneal 
+implants, because the otter’s tapered neck makes collars 
+unworkable. Radio implants require an operation by a 
+veterinarian and are costly and intrusive to animals. 
+Sauer et al. (1999) developed an adaptive kernel 
+technique for estimating river otter home ranges, and 
+Blundell et al. (2001) made additional refinements.
+Because river otters are sparsely distributed, 
+populations cover large areas, and monitoring of 
+population size in the strict sense requires a regional 
+scale. Otter population boundaries in Region 2 are 
+conveniently defined by a single watershed, and some 
+populations may be further separated within a watershed 
+by areas of unsuitable habitat. Because the headwaters 
+of many streams, often of multiple watersheds, 
+frequently originate on national forests, forests or even 
+districts may contain parts of several otter populations 
+that extend beyond NFS lands. Population monitoring 
+would be most meaningful when done on a watershed 
+scale, encompassing multiple land jurisdictions.
+Until recently, precise determination of river 
+otter abundance has required marking and studying 
+individual otters by radio telemetry, in conjunction with 
+other evidence drawn from various field techniques 
+(Melquist and Hornocker 1979, 1983, Melquist 
+and Dronkert 1987). However, recent advances in 
+molecular genetic techniques now allow researchers to 
+gather a variety of information from otter fecal and hair 
+samples for species and even individual identification 
+(Melquist et al. 2003). DNA extracted from intestinal 
+cells shed with feces can be analyzed to generate 
+genetic profiles and to identify individual animals. 
+Systematic fecal collection followed by genetic typing 
+and analysis of sex-specific probes can provide rapid 
+estimation of population size and sex ratios while 
+avoiding the expense and intrusiveness of capture 
+and handling animals (Melquist et al. 2003, Hansen 
+2004). Research underway in Colorado is investigating 
+the use of non-lethal snares to collect hair from river 
+otters, then using DNA fingerprinting to identify 
+individuals and to estimate population size (P. Schnurr 
+personal communication 2005). Genetic techniques 
+have also been employed to investigate other aspects 
+of river otter ecology. Blundell et al. (2002b) used 
+microsatellite markers and radio telemetry to assess 
+sex-biased dispersal in coastal Alaskan river otters, and 
+to estimate the potential for recolonization following 
+local extirpation. Following the Exxon Valdez oil spill 
+in Alaska, Bowyer et al. (2003) demonstrated the use of 
+fecal porphyrins and other substances as biomarkers to 
+detect different levels of contaminants and contribute to 
+a health assessment of otter populations.
+River otters can be live-captured using Hancock 
+traps (Northcott and Slade 1976, Melquist and 
+Hornocker 1979) or soft-catch leg-hold traps (Serfass et 
+al. 1996). Blundell et al. (1999) evaluated efficacy and 
+injury concerns of the two methods. Captive otters can 
+
+
+36
+be immobilized with a variety of drugs (Hoover 1984, 
+Hoover et al. 1985a, Hoover and Jones 1986, Spelman 
+et al. 1993), preferably Telazol (M. Ben-David personal 
+communication 2005).
+CNHP 
+(2002) 
+reviewed 
+otter 
+population 
+monitoring techniques, including abundance estimates 
+derived from track counts in snow (Reid et al. 1987, St-
+Georges et al. 1995), mark-“recapture” with radioactive 
+isotopes injected into animals and recovered in feces 
+(Knaus et al. 1983, Testa et al. 1994), catch per unit 
+effort (Chilelli et al. 1996), latrine surveys (Mason 
+and Macdonald 1986, Swimley and Hardisky 2000), 
+and scent-station surveys (Humphrey and Zinn 1982, 
+Eccles 1989). Of these, latrine surveys and scent-
+station surveys have been the most often applied in 
+the United States to estimate otter abundance. Latrine 
+surveys are currently used to estimate otter abundance 
+and distribution in Rocky Mountain National Park 
+(Herreman and Ben-David 2002) and throughout 
+Pennsylvania (Swimley and Hardisky 2000). However, 
+the technique has been questioned for North American 
+river otters (Melquist and Horncocker 1983) and 
+Eurasian otters (Kruuk and Conroy 1987, Hutchings 
+and White 2000) because the abundance of otter 
+scats and other sign does not correlate well with otter 
+abundance. Annual latrine surveys in spring and fall in 
+Rocky Mountain National Park have shown seasonal 
+variation; for the years 2001 through 2005, latrine site 
+density in fall was 8 to 58 percent of the density for the 
+same study reach the previous spring (Herreman and 
+Ben-David 2002; unpublished Investigator’s Annual 
+Reports, Rocky Mountain National Park). The number 
+of scats per latrine site was also less in fall. To provide 
+an effective index to otter abundance, sign surveys at a 
+given study reach should be conducted during the same 
+season each year.
+Nebraska is the only state in Region 2 that 
+attempts to monitor otter abundance statewide. NGPC 
+uses bridge crossing sign survey data to estimate otter 
+density. Abundance is derived by extrapolating from 
+the number of sign observations using assumptions 
+about otter home range size (R. Bischof personal 
+communication 2003). Population trend is inferred 
+by comparing annual estimates of abundance and 
+distribution, as well as ancillary sightings and incidental 
+trap records provided by the public. Abundance and 
+trend estimates are considered coarse and must be 
+interpreted with caution. Oklahoma uses a similar 
+monitoring system (Shackelford and Whitaker 1997).
+Inventory and monitoring of habitat
+Many states have developed habitat inventory and 
+evaluation procedures to guide and prioritize river otter 
+reintroductions (Raesly 2001). A habitat evaluation 
+form and methodology for Colorado (Dronkert 1983) 
+provides a good framework for rating and comparing 
+otter habitats. The method requires evaluation of the 
+following:
+v Potential for site protection and cooperation 
+by landowner
+v Stream length
+v Water quality
+v Amount of open water available in winter
+v Availability of den sites (including beaver 
+activity) and riparian cover
+v Availability of fish and crustacean prey
+v Trapping pressure
+v Recreational use
+v Other development pressure (e.g., mining, 
+highways, residential development)
+v Probability of future conflicts from land use 
+changes.
+The form provides scores for levels in each 
+category, and then the scores are summed to rank and 
+compare habitat sites. While the form was designed to 
+evaluate reintroduction sites, it also would be useful to 
+evaluate and monitor habitat for existing populations 
+and to guide habitat restoration efforts. The procedure 
+could be modified to include less subjective categories 
+and to provide for the measurement of habitat variables, 
+to the extent that the value of various characteristics 
+to river otter habitat is known. Additional habitat 
+characteristics recommended for inventories in Region 
+2 include stream gradient (with stream classes A and 
+B [Rosgen 1994] identified as high value, class C as 
+moderate value, and class D as low value), and stream 
+volume (minimum flow and annual average flow).
+No state within Region 2 currently implements 
+a habitat monitoring program for river otters. The 
+above procedures for habitat inventory could be used 
+periodically to monitor habitat quality for river otters.
+
+
+37
+Population and habitat management 
+approaches
+Throughout the United States and Canada, river 
+otter management strategies include furbearer harvest 
+management, reintroductions, population monitoring, 
+and conservation planning. Management approaches 
+vary in Region 2 states, depending on the species’ status 
+and remaining habitat potential. In Wyoming, where 
+river otters are widespread and believed to be secure, 
+there is no species management program. Management 
+to protect watersheds and riparian conditions generally 
+benefit river otters. Likewise, in South Dakota and 
+Kansas, where river otters are severely reduced, no 
+active management exists. River otters are beginning to 
+recolonize some areas from adjacent states, but western 
+parts of the states within Region 2 provide little habitat. 
+Reintroductions and active conservation planning and 
+monitoring in Colorado and Nebraska have restored 
+river otter populations to several watersheds, from 
+which otters are gradually recolonizing portions of 
+remaining habitat.
+Furbearer harvest management
+Where river otter harvest is allowed, monitoring of 
+populations remains a difficult issue. State and provincial 
+agencies typically rely on analysis of sex and age ratios 
+determined from harvest samples to identify current or 
+impending overharvest (Dixon 1981), but other data are 
+required to determine population dynamics (Caughley 
+1974). Chilelli et al. (1996) reviewed the estimation 
+of river otter population trends from harvest data and 
+proposed improvements, including standardizing age 
+estimation procedures, incorporating catch-per-unit-
+effort estimates, and analysis at regional scales.
+States and provinces that allow commercial 
+harvest of river otters set seasons and/or quotas for 
+geographic areas to control harvest rates. Most states 
+with concerns about reduced otter populations (including 
+all Region 2 states) do not allow commercial harvest, 
+and they prohibit, by statute, the killing or harassment 
+of river otters. Such prohibitions are generally effective 
+in controlling commercial harvest, but they are less 
+effective in controlling illegal shooting, incidental take 
+by beaver trappers, and deaths of river otters by vehicle 
+collisions, dogs, and other human-related causes.
+Reintroductions
+Reintroductions have helped to restore river 
+otter populations in many states. Prerelease care and 
+clinical evaluation procedures have been thoroughly 
+described (Hoover 1984, Hoover et al. 1984, 1985b, 
+Serfass and Rymon 1985, Serfass et al. 1993, 
+1996). Reading and Clark (1996) provided a critical 
+review of carnivore reintroductions and a theoretical 
+framework for evaluating and planning reintroductions 
+for maximum success.
+River otter restoration has involved extensive 
+reintroductions to replace extirpated populations or to 
+bolster low native populations (Raesly 2001). From 1976 
+through 1998, 4,018 river otters were reintroduced in 21 
+states and the province of Alberta. Reintroductions have 
+generally proven successful, with 83 percent of projects 
+reporting evidence of reproduction and 77 percent 
+indicating range expansion of reintroduced populations 
+(Raesly 2001). Within Region 2, reintroductions in 
+Colorado and Nebraska have generally been successful 
+in establishing reproducing and expanding populations. 
+However, it is important to note that reintroductions are 
+costly, exert considerable risk of stress and mortality on 
+translocated animals, and may have unintended effects 
+on the genetic composition of existing populations. For 
+these reasons, reintroductions should be considered as 
+the last resort for reestablishing river otter populations.
+Conservation planning
+The Draft State of Colorado River Otter Recovery 
+Plan (Colorado Division of Wildlife 2003b) provides a 
+framework for managing the recovery of river otters in 
+the region. The plan calls for the re-establishment of at 
+least three river otter populations in the state, with each 
+population continuously occupying at least 120 km of 
+river. The plan also calls for maximizing connectivity 
+between populations, and it describes procedures for 
+monitoring occupancy by systematic sign surveys every 
+5 years. More frequent sign surveys would increase 
+the effectiveness of detecting gross population trends 
+or changes in abundance (M. Ben-David personal 
+communication 2005), but funding is inadequate. Of 
+greater concern, is the apparent inadequate reach of 
+the plan’s goals and objectives in defining recovery. 
+Achieving the plan’s objectives could result in as 
+few as three populations of only about 30 otters 
+each. Populations of this size are likely far too small 
+to be independently viable in the long term without 
+ongoing management intervention, such as continued 
+translocations (M. Ben-David personal communication 
+2005). Planning for the recovery of self-sustaining 
+river populations will require the establishment of a 
+network of populations connected into an effective 
+metapopulation structure over large areas.
+
+
+38
+The Nebraska Game and Parks Commission 
+conducts annual monitoring of river otters by sign 
+surveys at bridge crossings (Bischof 2002), but 
+does not have a long-range plan for river otter 
+conservation. Kiesow (2003) evaluated potential river 
+otter reintroduction sites in South Dakota based on 
+river habitat, water quality, and prey availability, and 
+concluded that the most feasible reintroduction sites 
+were the Bad, Big Sioux, James, North Fork of the 
+Whetstone, and Little White rivers. While Kiesow 
+(2003) developed a river otter reintroduction protocol 
+for South Dakota, the state is not planning to address 
+river otter recovery.
+Suggested future direction for management
+Multi-agency 
+and 
+multi-state 
+planning 
+at 
+regional and watershed scales should be undertaken 
+to establish and maintain large interconnected habitat 
+blocks capable of sustaining metapopulation structure. 
+Suitable habitat could be mapped using a geographic 
+information system (GIS) and this could be used 
+to analyze river otter distribution, metapopulation 
+characteristics, habitat connectivity, and likely dispersal 
+routes. Suggested parameters for modeling otter habitat 
+in Region 2 include, as a minimum, streams with a 
+permanent flow of at least 10 cfs and at least 50 percent 
+vegetation cover along banks (M. Ben-David personal 
+communication 2005).
+Management direction within identified habitat 
+blocks would include:
+v maintain adequate instream flow, water 
+quality, and riparian habitat conditions to 
+sustain river otters and their prey
+v re-establish 
+river 
+otter 
+populations 
+where appropriate to expand or establish 
+functioning metapopulations and to increase 
+subpopulation connectivity
+v monitor habitat conditions and river otter 
+presence over broad scales and at time 
+intervals sufficient to detect major population 
+contractions as early as possible
+v collect anecdotal evidence of reproduction 
+during sign surveys to help interpret presence-
+absence data.
+Where populations are declining in range or not 
+sufficiently expanding, managers should attempt to 
+identify the responsible factors (e.g., excessive mortality 
+or deteriorating habitat conditions) and to address them 
+with improved management. Human-caused mortality 
+of river otters can and should be controlled to the degree 
+possible. Incidental catch of river otters can be reduced 
+by proper trap method and placement. Where river 
+otters occur, use of foothold traps and snares instead of 
+conibear traps is recommended so that captured otters 
+can be released. Snares with large loops (9 to 10 inches) 
+help reduce otter capture. If conibear traps are used, 
+triggers should be placed straight down near the sides of 
+the trap to reduce the chance of river otter capture. Traps 
+should not be placed in likely river otter travel routes, 
+such as trails crossing beaver dams and entrances to 
+beaver bank dens and lodges (A. Kiesow personal 
+communication). The International Association of Fish 
+and Wildlife Agencies (2003) Furbearer Resources 
+Technical Work Group is developing Best Management 
+Practices (BMPs) to guide furbearer trapping in each of 
+five regions in the United States. BMPs will recommend 
+traps and set procedures to maximize efficiency, 
+selectivity, and animal welfare. Other sources of 
+human-caused mortality must be controlled through 
+local and regional planning that addresses human 
+intrusion of roads, recreational trails, and developments 
+into important river otter habitats.
+Information Needs
+Melquist et al. (2003) provided a thorough 
+review of river otter research and management 
+needs. Although much research has been conducted 
+on river otter/habitat relationships since the late 
+1970’s, the need continues for research and population 
+monitoring. CITES requires states and provinces that 
+allow commercial harvest of river otter to monitor 
+populations or to restrict trade. Region 2 states, which 
+do not currently allow commercial harvest, have 
+obligations to conserve river otters as state threatened 
+species (Colorado, South Dakota, and Nebraska) 
+or protected species (Wyoming and Kansas). The 
+most reliable population data are still derived from 
+costly radio telemetry studies. Population indices, 
+as described in the Tools and Practices section, are 
+much cheaper and less intrusive, but they generally 
+fail to provide accurate and reliable population trend 
+data on a regional scale. Among the most important 
+informational needs for river otter conservation in 
+Region 2 is development of reliable and cost-effective 
+techniques for annually monitoring population size 
+and trend.
+
+
+39
+Other information needs identified by Melquist et 
+al. (2003) include:
+v explore the use of otter population monitoring 
+as a “flagship species” to monitor wetland 
+conditions, water quality, contaminants, and 
+levels of human disturbance
+v improve river otter population models; 
+in particular, re-evaluate the potential re-
+productive contribution of female sub-adults
+v examine the importance and use of otter 
+latrine sites as this information will improve 
+interpretation of latrine site surveys for 
+population monitoring.
+The distribution of river otters is reasonably well 
+known throughout much of Region 2. The greatest 
+attention by agency biologists has been in Colorado and 
+Nebraska, particularly in areas where reintroductions 
+have occurred. Rocky Mountain National Park 
+continues to monitor the status of river otters annually 
+in the park and adjacent areas, and current research on 
+otters on the Green River and Yellowstone National 
+Park in Wyoming contributes to our understanding of 
+distribution in those areas.
+The response of river otter populations to changes 
+in habitat is poorly understood and represents a challenge 
+to management planning. Of particular concern in 
+Region 2 is drought, which tends to affect lower 
+elevation stream reaches the most. While reasonable 
+assumptions can be made about the effects of wholesale 
+destruction of habitat, the direction and magnitude of 
+population responses to less drastic habitat conditions 
+are more difficult to predict. For example, dewatering 
+of rivers can be expected to eliminate otter use, but 
+the effects of flow reductions or alterations in seasonal 
+flow patterns are unknown. Such effects are likely to 
+be complex because they may involve aquatic habitat, 
+terrestrial habitat, prey availability, or relationships 
+among all three. The commensal relationship between 
+river otters and beavers must also be considered. 
+Habitat changes that affect beaver abundance or habitat 
+use are also likely to affect river otters by changing 
+den site availability, prey availability, and the long-
+term influence of beaver activity on the structure and 
+function of riparian and aquatic systems.
+The influence of incremental human development 
+on otters is also poorly understood. Greater knowledge 
+of thresholds of human occupancy in river otter habitats 
+would increase understanding of potential effects 
+through disturbance, roadkills, and dogs.
+Another information need is seasonal movement 
+patterns. Intensive studies using radio telemetry have 
+shown that some otters make significant seasonal 
+movements to exploit ephemeral food sources. This 
+may not occur in all populations to any extent, but it 
+is impossible to determine without detailed study. As a 
+result, predicting the impacts of short-lived disturbances 
+in a part of occupied habitat, or disturbances that create 
+temporary obstacles to river otter movement is made 
+more difficult.
+The ability of river otter populations to expand 
+and naturally recolonize areas from which they have 
+been extirpated is not well understood. Evidence exists 
+from Great Plains states and Colorado of reintroduced 
+river otters dispersing long distances into connected 
+river systems, but the extent to which dispersing otters 
+can re-establish viable populations is mostly unknown. 
+A spatial model of river otter dispersal capability 
+developed for coastal river otters in Alaska is currently 
+being applied to river otter populations in the upper 
+Colorado River Basin to assess the likelihood of natural 
+recolonization of river otters into the Grand Canyon 
+from existing populations in the upper Colorado 
+and Green rivers (Boyd and Ben-David 2002). This 
+type of model could be applied throughout Region 
+2 to estimate natural colonization rates, to identify 
+barriers to otter dispersal, and to plan for the regional 
+conservation of otters.
+Fish populations in much of Region 2 are fairly 
+well monitored because of the importance of sport 
+fisheries, the presence of federally-listed fish species 
+in some areas, and the interest in water quality 
+and river management. As a result, fish population 
+responses 
+to 
+the 
+most 
+common 
+perturbations, 
+especially changes in flow, temperature, turbidity, 
+and sedimentation, are reasonably predictable, at 
+least for sport fish and more common non-game 
+species. Crayfish have received comparatively little 
+study, and this represents a significant knowledge 
+gap for management of river otter populations where 
+crayfish are an important diet constituent.
+Demographic issues for small river otter 
+populations are insufficiently understood to be certain 
+that populations will persist. Many of the reintroduced 
+populations in Region 2 outside of Wyoming are small, 
+and pathways and magnitude of gene flow are not yet 
+apparent. The Piedra River population in the San Juan 
+
+
+40
+National Forest is probably the most isolated population 
+in the Region, and one of the smallest. Founder effects 
+and other problems of small populations may become 
+important. Other populations in the Region have at least 
+potential pathways of dispersal and gene flow that could 
+link them to other populations, but rates of gene flow 
+between watersheds and to what extent those rates differ 
+from pre-disturbance conditions are unknown.
+The greatest and most immediate information 
+need is a cost-effective technique to monitor population 
+trend. Radio telemetry in association with detailed 
+field studies has been the only method that provides 
+unequivocal counts that can be compared over time 
+to assess trend. The use of DNA fingerprinting from 
+fecal material (Hansen 2004) or hair (dePuis 20006) 
+to identify individuals provides the most promise for a 
+new cost-effective technique for abundance estimation.
+Research priorities for conserving river otters in 
+Region 2 involve increasing the understanding of how 
+and why population numbers and distribution change. 
+The fundamental questions that cannot currently be 
+answered include:
+v how many river otters now exist in each 
+population?
+v is each population increasing, stable, or 
+decreasing?
+v what effects will current and anticipated 
+human activities have on otter population 
+trends?
+v to what extent are populations linked to each 
+other?
+v what could happen to populations that remain 
+small and isolated, despite the best land 
+management decisions?
+Answering these questions will require:
+v development of cost-effective and widely 
+applicable census methods
+v increased understanding of the effects of 
+river flow perturbations, dams and reservoirs, 
+water pollution, sedimentation, riparian 
+habitat destruction, and increasing human 
+settlement and recreation on otters and their 
+ability to move freely through waterways
+v an understanding of thresholds of acceptable 
+habitat alterations, and the ways in which 
+different stresses interact to create cumulative 
+effects
+v knowledge of the genetic structure of 
+populations, pathways and rates of gene flow, 
+dispersal rates and abilities, minimum viable 
+population sizes, and the relative risk of 
+extirpation associated with populations that 
+are below the minimum threshold.
+Some data may exist that could not be 
+incorporated into this report. For example, anecdotal 
+observations of river otters by USFS and other 
+agency or private sector biologists could extend the 
+known range of river otters and confirm expansion 
+of otters into some historical ranges where they are 
+not shown in the range maps. Anecdotal observations 
+from knowledgeable members of the public, including 
+trappers, fishermen, and naturalists can also be useful to 
+direct further investigations.
+
+
+41
+REFERENCES
+Abell, R.A. 1999. Freshwater ecoregions of North America: a conservation assessment. World Wildlife Fund and 
+Island Press, Washington, D.C.
+Andelt, F. 1988. Unusual movements of river otters released in Nebraska. Prairie Naturalist 20:108.
+Arapaho and Roosevelt National Forests and Pawnee National Grassland. 1997. 1997 revised land and resource 
+management plan. USDA Arapaho and Roosevelt National Forests and Pawnee National Grassland, Fort 
+Collins, CO.
+Armstrong, D.M. 1972. Distribution of mammals in Colorado. University of Kansas, Lawrence, KS. Museum of 
+Natural History Monograph 3:1-415.
+Beck, T.D.I. 1993. Development of river otter reintroduction procedures. Colorado Division of Wildlife, Research 
+Review 2, Denver, CO.
+Beckel, A.L. 1990. Foraging success rates of North American river otters, Lutra canadensis, hunting alone and 
+hunting in pairs. Canadian Field-Naturalist, 104:586-588.
+Bee, J.W. 1981. Mammals in Kansas. University of Kansas, Public Education Series No. 7, Lawrence, KS.
+Ben-David, M. 2003. Department of Zoology and Physiology, University of Wyoming, Laramie. Personal 
+communication.
+Ben-David, M. 2005. Department of Zoology and Physiology, University of Wyoming, Laramie. Personal 
+communication.
+Ben-David, M., R.T. Bowyer, and J.B. Faro. 1996. Niche separation by mink and river otters: coexistence in a marine 
+environment. Oikos 75:41:48.
+Ben-David, M., L.K. Duffy, G.M. Blundell, and R.T. Bowyer. 2001a. Exposure of coastal river otters to mercury: 
+relation to age, diet, and survival. Environmental Toxicology and Chemistry 20:1986-1992.
+Ben-David, M., L.K. Duffy, and R.T. Bowyer. 2001b. Biomarker responses in river otters experimentally exposed to 
+oil contamination. Journal of Wildlife Diseases 37:489-508.
+Ben-David, M., T. Kondratyuk, B.R. Woodin, P.W. Snyder, and J.J. Stegeman. 2001c. Induction of cytochrome 
+P4501A1 expression in captive river otters fed Prudhoe Bay crude oil: evaluation by immunohistochemistry 
+and quantitative RT-PCR. Biomarkers 6:218-235.
+Ben-David, M., G.M. Blundell, and J.E. Blake. 2002. Post-release survival of river otters: effects of exposure to crude 
+oil and captivity. Journal of Wildlife Management 66:1208-1223.
+Bischof, R. 2002. 2001/2002 river otter survey, brief summary. Unpublished report, Nebraska Game and Parks 
+Commission, Lincoln, Nebraska. Available online at http://www.ngpc.state.ne.us/hunting/furguide/surveyF.html 
+(Accessed February 24, 2003).
+Bischof, R. 2003. Furbearer Program Leader, Nebraska Game and Parks Commission., Lincoln. Personal 
+communication.
+Blundell, G.M. 2001. Social organization and spatial relationships in coastal river otters: assessing form and function 
+of social groups, sex-biased dispersal, and gene flow. Ph.D. Dissertation, University of Alaska, Fairbanks, AK.
+Blundell, G.M., M. Ben-David, and R.T. Bowyer. 2002a. Sociality in river otters: cooperative foraging or reproductive 
+strategies? Behavioral Ecology 13:134-141.
+Blundell, G.M., M. Ben-David, P. Groves, R.T. Bowyer, and E. Geffen. 2002b. Characteristics of sex-based dispersal 
+and gene flow in coastal river otters: implications for natural recolonization of extirpated populations. Molecular 
+Ecology 11:289-303.
+Blundell, G.M., M. Ben-David, P. Groves, R.T. Bowyer, and E. Geffen. 2004. Kinship and sociality in coastal river 
+otters: are they related? Behavioral Ecology 15:705-714.
+
+
+42
+Blundell, G.M., J.W. Kern, R.T. Bowyer, and L.K. Duffy. 1999. Capturing river otters: A comparison of Hancock and 
+leg-hold traps. Wildlife Society Bulletin 27:184-190.
+Blundell, G.M., J.A.K. Maier, and E.M. Debeveg. 2001. Linear home ranges: effects of smoothing, sample size, and 
+autocorrelation on kernel estimates. Ecological Monographs 71:469-489.
+Bowyer, R.T., G.M. Blundell, M. Ben-David, S.C. Jewett, Thomas A. Dean, and L.K. Duffy. 2003. Effects of the 
+Exxon Valdez oil spill on river otters: injury and recovery of a sentinel species. Wildlife Monographs No. 153.
+Bowyer, R.T., J.W. Testa, and J.B. Faro. 1995. Habitat selection and home ranges of river otters in a marine 
+environment: Effects of the Exxon Valdez oil spill. Journal of Mammalogy 76:1-11.
+Bowyer, R.T., J.W. Testa, J.B. Faro, C.C. Schwartz, and J.B. Browning. 1994. Changes in diets of river otters in Prince 
+William Sound, Alaska: effects of the Exxon Valdez oil spill. Canadian Journal of Zoology 71:970-976.
+Boyd, J.R. and M. Ben-David. 2002. River otter survey on the Green River in western Wyoming and Northeast Utah: 
+progress report for 2002. Unpublished report, Department of Zoology, University of Wyoming, Laramie, WY.
+Boyle, S. 2003. 2003 river otter survey: Taylor, East, and upper Gunnison Rivers. Unpublished report, Colorado 
+Division of Wildlife, Grand Junction, CO.
+Bradley, P.V. 1986. Ecology of river otters in Nevada. M.S. Thesis, University of Nevada, Reno, NV.
+Buskirk, S.W. 2000. The conservation status of New World mustelids. Pages 41-52 in H.I. Griffiths, editor. Mustelids 
+in a modern world: Management and conservation aspects of small carnivore: human interactions. Backhuys, 
+Leiden, Netherlands.
+Buskirk, S.W., W.H. Romme, F.W. Smith, and R.L. Knight. 2000. An overview of forest fragmentation in the southern 
+Rocky Mountains. Pages 3-14 in R.L. Knight, F.W. Smith, S.W. Buskirk, W.H. Romme, and W.L. Baker, editors. 
+Forest fragmentation in the southern Rocky Mountains. University Press of Colorado, Boulder, CO.
+Caswell, H. 2001. Matrix population models: construction, analysis, and interpretation, second edition. Sinauer 
+Associates, Sunderland, MA.
+Caughley, G. 1974. Interpretation of age ratios. Journal of Wildlife Management 38:557-562.
+Chamberlain, T.C. 1897. The method of multiple working hypotheses. Journal of Geology 5:837-848 (reprinted in 
+Science 148:754-759).
+Chanin, P. 1985. The natural history of otters. Facts on File Publications, New York, NY 179 pp.
+Chanin, P.R.F. and D.J. Jefferies. 1978. The decline of the otter Lutra lutra L. in Britain: an analysis of hunting records 
+and discussions of causes. Biological Journal of the Linnaean Society 10:305-328.
+Chilelli, M.E., B. Griffith, and D.J. Harrison. 1996. Interstate comparisons of river otter harvest data. Wildlife Society 
+Bulletin 24:238-246.
+Clary, w.P. and W.H. Kruse. 2004. Livestock grazing in riparian areas: environmental impacts, management practices 
+and management implications. Pages 237-258 in M.B. Baker, Jr., P.F. Ffolliott, L.F. DeBano, and D.G. Neary, 
+editors. Riparian areas of the southwestern United States: hydrology, ecology and management. Lewis 
+Publishers, Boca Raton, FL.
+Cochran, M.E. and S. Ellner. 1992. Simple methods for calculating age-based life history parameters for stage-
+structured populations. Ecological Monographs 62:345-364.
+Colorado Division of Wildlife. 2003a. Threatened and endangered species website. Available at http://
+wildlife.state.co.us/T&E/list.as Accessed February 19, 2003.
+Colorado Division of Wildlife. 2003b. State of Colorado river otter recovery plan, June 2003. Unpublished report, 
+Colorado Division of Wildlife, Denver, CO.
+Colorado Natural Heritage Program. 2002. Evaluation of amphibian and mammalian management indicator species 
+on the Arapaho-Roosevelt National Forests and Pawnee National Grassland. Report submitted to Dennis Lowry, 
+Arapaho and Roosevelt National Forests and Pawnee National Grassland, Fort Collins, CO.
+
+
+43
+Colorado Natural Heritage Program. 2003. Element state ranking form as of 20 January 2003, Lontra canadensis. 
+Colorado Natural Heritage Program, Fort Collins, CO.
+Crait, J., M. Ben-David, and B. Hall. 2002. Influence of bio-pollution on ecosystem processes: the impact of 
+introduced lake trout on streams, predators, and forests in Yellowstone National Park. Unpublished progress 
+report, Department of Zoology and Physiology, University of Wyoming, Laramie, WY.
+Crowe, D.M. 1986. Furbearers of Wyoming. Wyoming Game and Fish Department, Cheyenne, WY.
+Cumbie, P.M. 1975. Mercury levels in Georgia otter, mink and freshwater fish. Bulletin of Environmental 
+Contamination and Toxicology 14:103-197.
+Davis, J.A. 1978. A classification of the otters. Pages 14-33 in N. Duplaix, editor. Otters. Proceedings of the Working 
+Meeting, Otter Specialist Group, Paramaribo, Suriname. International Union for the Conservation of Nature 
+(IUCN), Gland, Switzerland.
+Deems, E.F., Jr. and D. Pursley, editors. 1983. North American furbearers: a contemporary reference. International 
+Association of Fish and Wildlife Agencies, Washington, D.C., and Maryland Department of Natural 
+Resources.
+DePue, J. 2002. River otter (Lontra canadensis) survey of the Gunnison River: Chukar Trail to Redlands Diversion 
+Dam, Colorado. Unpublished report, Colorado Division of Wildlife, Grand Junction, CO.
+Dixon, K.R. 1981. Data requirements for determining the status of furbearer populations. Pages 1360-1373 in J.A. 
+Chapman and D. Pursley, editors. Proceedings of the Worldwide Furbearer Conference, Frostburg, MD.
+Docktor, C.M., R.T. Bowyer, and A.G. Clark. 1987. Number of corpora lutea as related to age and distribution of river 
+otter in Maine. Journal of Mammalogy 68:182-185.
+Dronkert, A.E. 1983. Lutra canadensis river otter recovery habitat evaluation form. Unpublished report. Colorado 
+Division of Wildlife, Denver, CO.
+Dubuc, L.J., W.B. Krohn, and R.B. Owen, Jr. 1990. Predicting occurrence of river otters by habitat on Mount Desert 
+Island, Maine. Journal of Wildlife Management 54:594-599.
+Duffey, L.K., R.T. Bowyer, J.W. Testa, and J.B. Faro. 1994. Evidence for recovery of body mass and haptoglobin 
+values of river otters following the Exxon Valdez oil spill. Journal of Wildlife Diseases 30:421-425.
+Eccles, D.R. 1989. An evaluation of survey techniques for determining relative abundance of river otters and selected 
+other furbearers. Thesis, Emporia State University, Emporia, KS.
+Eley, T.J., Jr. 1977. Ixodes uriae (Acari: Ixodidae) from a river otter. Journal of Medical Entomology 13:506.
+Erlinge, S. 1968. Food studies on captive otters Lutra lutra L. Oikos 19:259-270.
+Faro, J.B., R.T. Bowyer, J.W. Testa, and L.K. Duffy. 1994. Assessment of injury to river otters in Prince William 
+Sound, Alaska, following the Exxon Valdez oil spill. Exxon Valdez Oil Spill State/Federal Natural Resource 
+Damage Assessment Final Report (Terrestrial Mammal Study Number 3), Alaska Department of Fish and 
+Game, Soldotna, AK.
+Ffolliott, P.F., L.F. DeBano, M.B. Baker, Jr., D.G. Neary, and K.N. Brooks. 2004. Hydrology and impacts of 
+disturbances on hydrologic function. Pages 51-76 in M.B. Baker, Jr., P.F. Ffolliott, L.F. DeBano, and D.G. 
+Neary, editors. Riparian areas of the southwestern United States: hydrology, ecology and management. Lewis 
+Publishers, Boca Raton, FL.
+Fitzgerald, J.P., C.A. Meaney, and D.M. Armstrong. 1994. Mammals of Colorado. Denver Museum of Natural History 
+and University Press of Colorado, Niwot, CO.
+Foley, R.E., S.J. Jackling, R.J. Sloan, and M.K. Brown. 1988. Organochlorine and mercury residues in wild mink and 
+otter: comparison with fish. Environmental Toxicology and Chemistry 7:363-374.
+Foy, M.K. 1984. Seasonal movement, home range, and habitat use of river otter in southeastern Texas. M.S. Thesis, 
+Texas A&M University, College Station, TX.
+
+
+44
+Giere, P. and D.S. Eastman. 2000. American river otters, Lontra canadensis, and humans: occurrence in a coastal 
+urban habitat and reaction to increased levels of disturbance. Pages 107-125 in H.I. Griffiths, editor. Mustelids 
+in a modern world: management and conservation aspects of small carnivore: human interactions. Backhuys, 
+Leiden, Netherlands.
+Gilbert, F.F. and E.G. Nancekivell. 1982. Food habits of mink (Mustela vison) and otter (Lutra canadensis) in 
+northeastern Alberta. Canadian Journal of Zoology 60:1282-1288.
+Goodman, P. 1984. River otter recovery plan for Colorado: Draft. Unpublished report, Colorado Division of Wildlife, 
+Denver, CO.
+Goodrich, J.M. and S.W. Buskirk. 1995. Control of abundant native vertebrates for conservation of endangered 
+species. Conservation Biology 9:1357-1364.
+Green, H.U. 1932. Observations of the occurrence of otter in the Riding Mountain National Park, Manitoba, in relation 
+to beaver life. Canadian Field-Naturalist 46:204-206.
+Greer, K.R. 1955. Yearly food habits of the river otter in the Thompson Lakes region, northwestern Montana, as 
+indicated by scat analysis. American Midland Naturalist 54:299-313.
+Grenfell, W.E., Jr. 1974. Food habits of the river otter in Suisin Marsh, central California. M.S. Thesis, California State 
+University, Sacramento, CA.
+Griess, J. and B. Anderson. 1987. Reintroduction of the river otter into the Obed Wild and Scenic River in Tennessee. 
+Proceedings of the Third Non-game and Endangered Species Wildlife Symposium, Athens, Georgia, USA, 
+August 8-10, 1987.
+Grinnell, G.B. 1875. Zoological report. Pages 79-84 in W. Ludlow. Report of a reconnaissance of the Black Hills of 
+Dakota made in the summer of 1874. U.S. Army, Department of Engineers, Washington, D.C.
+Hall, E.R. 1981. The mammals of North America. Second edition. John Wiley & Sons Inc., New York, NY, 2 
+volumes.
+Hall, E.R. and K.R. Kelson. 1959. The mammals of North America. Ronald Press, New York, NY. 2:547-1083 + 79.
+Hamilton, W.J., Jr. 1943. The mammals of eastern United States. Comstock Publishing Company, New York, NY.
+Hamilton, W.J., Jr. 1961. Late fall, winter, and early spring foods of 141 otters from New York. New York Fish and 
+Game Journal 8:106-109.
+Hamilton, W.J., Jr. and W.R. Eadie. 1964. Reproduction in the otter, Lutra canadensis. Journal of Mammalogy 45:
+242-252.
+Hansen, H. 2004. The effects of diet, extraction technique and microsatellite primers on genotyping success and error 
+rates of river otter (Lontra canadensis) faecal DNA. M.S. Thesis, University of Wyoming, Laramie, WY.
+Harris, C.J. 1968. Otters: a study of the recent Lutrinae. Weinfield and Nicolson, London, 397 pp.
+Hart, P.J.B. and J.D. Reynolds. 2002. Handbook of fish biology and fisheries. Blackwell Publications, Malden, MA.
+Henny, C.J., L.J. Blus, S.V. Gregory, and C.J. Stafford. 1981. PCB’s and organochlorine pesticides in wild mink and 
+river otters form Oregon. Proceedings of the Worldwide Furbearer Conference 3:1763-1780.
+Herreman, J.K. and M. Ben-David. 2002. Population survey for river otters in the Rocky Mountain National Park: a 
+progress report for 2002. Unpublished report, Rocky Mountain National Park, CO.
+Higgins, K.E., E.D. Stukel, J.M. Goulet, and D.C. Backlund. 2000. Wild mammals of South Dakota. South Dakota 
+Department of Game, Fish, and Parks, Pierre, SD.
+Hilborn, R. and M. Mangel. 1997. The ecological detective: confronting models with data. Princeton University Press, 
+Princeton, NJ.
+Hill, R.D. 1973. Water pollution from coal mines. Paper presented at 45
+th Annual Conference, Water Pollution Control 
+Association of Pennsylvania, University Park, PA.
+
+
+45
+Hoberg, E.P., C.J. Henny, O.R. Hedstrom, and R.A. Grove. 1997. Intestinal helminthes of river otters (Lutra 
+canadensis) from the Pacific southwest. Journal of Parasitology 83:105-110.
+Holdich, D.M. 2002. Biology of freshwater crayfish. Blackwell Scientific Publications, Oxford, England.
+Home, W.S. 1982. Ecology of river otters (Lutra canadensis) in marine coastal environments. M.S. Thesis, University 
+of Alaska, Fairbanks, AK.
+Hoover, J.P. 1984. Surgical implantation of radiotelemetry devices in American river otters. Journal of the American 
+Veterinary Medical Association 185:1317-1320.
+Hoover, J.P., A.E. Castro, and M.A. Nieves. 1985a. Serologic evaluation of vaccinated American river otters. Journal 
+of the American Veterinary Association 187:1162-1165.
+Hoover, J.P. and E.G. Jones. 1986. Physiologic and electrocardiographic responses of American river otters (Lutra 
+canadensis) during chemical immobilization and inhalation anesthesia. Journal of Wildlife Diseases, 22:557-
+563.
+Hoover, J.P., C.R. Root, and M.A. Zimmer. 1984. Clinical evaluation of American river otters in a reintroduction 
+study. Journal of the American Veterinary Medical Association 185:1321-1326.
+Hoover, J.P., R.J. Bahr, M.A. Nieves, R.T. Doyle, M.A. Zimmer, and S.E. Lauzon. 1985b. Clinical evaluation and 
+prerelease management of American river otters in the second year of a reintroduction study. Journal of the 
+American Veterinary Medical Association 187:1154-1161.
+Humphrey, S.R. and T.L. Zinn. 1982. Seasonal habitat use by river otters and Everglades mink in Florida. Journal of 
+Wildlife Management 46:375-381.
+Hutchings, M.R. and P.C.L. White. 2000. Mustelid scent-marking in managed ecosystems: implications for population 
+management. Mammal Review 30(3-4):157-169.
+International Association of Fish and Wildlife Agencies. 2003. Furbearer Resources Technical Work Group website, 
+available at http://www.furbearermgmt.org/index.html (Accessed February 19, 2003).
+Jackson, H.H.T. 1961. Mammals of Wisconsin. The University of Wisconsin Press, Madison, WI. 504 pp.
+Jones, J.K. 1962. Early records of some mammals from Nebraska. University of Nebraska State Museum Bulletin 4:
+89-100.
+Jones, J.K., Jr. 1964. Distribution and taxonomy of mammals of Nebraska. University of Kansas Museum of Natural 
+History Publications 16:1-356.
+Kiesow, A. 2003. Furbearer Program Biologist, South Dakota Department of Game, Fish, and Parks, Pierre. Personal 
+communication.
+Kiesow, A.M. 2003. Feasibility of reintroducing the river otter (Lontra canadensis) in South Dakota. M.S. Thesis, 
+South Dakota State University, Brookings, SD.
+Kim, K.C. and K.C. Emerson. 1974. Latagophthirus rauschi, new genus and new species (Anoplura: Echinophthiriidae) 
+from the river otter (Carnivora: Mustelidae). Journal of Wildlife Management 46:375-381.
+Kimber, K.R. and G.V. Kollias. 2000. Infectious and parasitic diseases and contaminant-related problems of North 
+American river otters (Lontra canadensis): A review. Journal of Zoo and Wildlife Medicine 31:452-472.
+Knaus, R.M., N. Kinler, and R.G. Linscombe. 1983. Estimating river otter populations: the feasibility of 
+65Zn to label 
+feces. Wildlife Society Bulletin 11:375-377.
+Knudsen, K.F. and J.B. Hale. 1968. Food habits of otters in the Great Lakes region. Journal of Wildlife Management 
+32:89-93.
+Kruuk, H. and J.W.H. Conroy. 1987. Surveying otter Lutra lutra populations: a discussion of problems with spraints. 
+Biological Conservation 41:179-183.
+Larivière, S. and L.R. Walton. 1998. Lontra canadensis. Mammalian Species No. 587. American Society of 
+Mammalogists, Stillwater, OK.
+
+
+46
+Larsen, D.N. 1983. Habitats, movements, and foods of river otters in coastal southeastern Alaska. M.S. Thesis, 
+University of Alaska, Fairbanks, AK.
+Liers, E.E. 1951. Notes on the river otter (Lutra canadensis). Journal of Mammalogy 32:1-9.
+Lowery, G.H. Jr. 1974. The mammals of Louisiana and its adjacent waters. Louisiana State University Press, Baton 
+Rouge, LA. 565 pp.
+Macdonald, S. and C. Mason. 1990. Threats. Pages 11-14 in P. Foster-Turley, S. Macdonald, and C. Mason, editors. 
+Otters: an action plan for their conservation. International Union for the Conservation of Nature, Gland, 
+Switzerland.
+Mack, C.M. 1985. River otter restoration in Grand County, Colorado. M.S. Thesis, Colorado State University, Fort 
+Collins, CO.
+Malville, L.E. 1990. Movements, distribution, and habitat selection of river otters reintroduced into the Dolores River, 
+southwestern Colorado. M.A. Thesis, University of Colorado, Boulder, CO.
+Mason, C.F. 1989. Water pollution and otter distribution: a review. Lutra 32:97-131.
+Mason, C.F. and A.M. MacDonald. 1986. Otters: ecology and conservation. Cambridge University Press, Cambridge, 
+United Kingdom.
+Mason, D.F. 1981. Biology of freshwater pollution. Longman Group, Limited, New York, NY.
+McDonald, D.B. and H. Caswell. 1993. Matrix methods for avian demography. Pages 139-185 in D. Power, editor. 
+Current ornithology, volume 10. Plenum Press, New York, NY.
+Melquist, W. 2005. Department of Fish and Wildlife Resources, University of Idaho, Moscow. Personal 
+communication.
+Melquist, W.E. and A.E. Dronkert. 1987. River otter. Pages 527-641 in M. Novak, J.A. Baker, M.E. Obbard, and B. 
+Malloch, editors. Wild furbearer management and conservation in North America. Ontario Ministry of Natural 
+Resources, Toronto, Canada.
+Melquist, W.E. and M.G. Hornocker. 1979. Methods and techniques for studying and censusing river otter populations. 
+University of Idaho, Forest, Wildlife, and Range Experiment Station, Technical Report 8. Moscow, ID.
+Melquist, W.E. and M.G. Hornocker. 1983. Ecology of river otters in west central Idaho. Wildlife Monographs 83.
+Melquist, W.E., P.J. Polechla, Jr., and D. Toweill. 2003. River otter (Lontra canadensis). Pages 708-734 in G.A. 
+Feldhamer, B.C. Thompson, and J.A. chapman, editors. Wild mammals of North America: biology, management, 
+and conservation. Second edition. Johns Hopkins University Press, Baltimore, MD. 1216 pp.
+Melquist, W.E., J.S. Whitman, and M.G. Hornocker. 1981. Resource partitioning and coexistence of sympatric mink 
+and river otter populations. Pages 187-220 in J.A. Chapman and D. Pursley, editors. Proceedings of the 1980 
+Worldwide Furbearer Conference. Worldwide Furbearer Conference, Inc., Frostburg, MD. 2059 pp.
+Morejohn, G.V. 1969. Evidence of river otter feeding on freshwater mussels and range extension. California Fish and 
+Game 55:83-85.
+NatureServe Explorer. 2003. Website available at http://www.natureserve.org/explorer/index.htm (Accessed on April 
+10, 2003).
+Nebraska Game and Parks Commission. 2003. Wildlife species descriptions: river otter. Website available at http:
+//www.ngpc.state.ne.us/wildlife/otters.html (Accessed on February 19, 2003).
+Newman, D.G. and C.R. Griffin. 1994. Wetland use by river otters in Massachusetts. The Journal of Wildlife 
+Management 58:18-23.
+Nilsson, G. 1980. River otter research workshop. Florida State Museum, Gainesville, FL.
+Northcott, T.H. and D. Slade. 1976. A livetrapping technique for river otters in Massachusetts. Journal of Wildlife 
+Management 58:18-23.
+
+
+47
+O’Conner, D.J. and S.W. Nielsen. 1981. Environmental survey of methylmercury levels in wild mink (Mustela 
+vison) and otter (Lutra canadensis) from the northeastern United States and experimental pathology of 
+methylmercurialism in the otter. Pages 1728-1745 in J.A. Chapman and D. Pursley, editors. Proceedings of the 
+Worldwide Furbearer Conference, Frostburg, MD.
+Oakleaf, B. 2003. Nongame Biologist, Wyoming Game and Fish Department, Lander. Personal communication.
+Ostroff, A.C. 2001. Distribution and mesohabitat characteristics of river otter in eastern Kansas. M.S. Thesis, Emporia 
+State University, Emporia, KS.
+Park, E. 1971. The world of the otter. J. B. Lippincott and Company, New York, NY.
+Peak, M. 2003. Furbearer Program Biologist, Kansas Department of Wildlife and Parks, Lawrence. Personal 
+communication.
+Pfister, C.A. 1998. Patterns of variance in stage-structured populations: evolutionary predictions and ecological 
+implications. PNAS USA 95:213-218.
+Platt, J.R. 1964. Strong inference. Science 146:347-353.
+Polechla, P. 1990. Action plan for North American otters. Pages 74-79 in P. Foster-Turley, S. Macdonald, and C. 
+Mason, editors. Otters: an action plan for their conservation. International Union for Conservation of Nature, 
+Gland, Switzerland.
+Polechla, P.J. 1985. Ecology of the river otter and other wetland furbearers in the upper Rio Grande: Final report. 
+Unpublished report, USDI Bureau of Land Management and New Mexico Department of Game and Fish, 
+Albuquerque, NM.
+Polechla, P.J. 1987. Status of the river otter (Lutra canadensis) population in Arkansas with special reference to 
+reproductive biology. Ph.D. Dissertation, University of Arkansas, Fayetteville, AR.
+Polechla, P.J. 1989. More evidence of a commensal relationship between the river otter and the beaver. Pages 217-236 
+in C.J. Amlauer, editor. Biotelemetry X: Proceedings of the Tenth International Symposium on Biotelemetry. 
+University of Arkansas Press, Fayetteville, AR.
+Raesly, E.J. 2001. Progress and status of river otter reintroduction projects in the United States. Wildlife Society 
+Bulletin 29:856-862.
+Reading, R.P. and T.W. Clark. 1996. Carnivore reintroductions: an interdisciplinary examination. Pages 296-336 in 
+J.L. Gittleman, editor. Carnivore behavior, ecology, and evolution. Volume 2. Cornell University Press, Ithaca, 
+New York, NY.
+Reid, D.G. 1984. Ecological interactions of river otters and beavers in a boreal ecosystem. M.S. Thesis, University of 
+Alberta, Calgary, Alberta, Canada.
+Reid, D.G., M.B. Bayer, T.E. Code, and B. McLean. 1987. A possible method for estimating river otter, Lutra 
+canadensis, populations using snow tracks. Canadian Field-Naturalist 101:576-580.
+Reid, D.G., T.E. Code, A.C.H. Reid, and S.M. Herrero. 1994a. Food habits of the river otter in a boreal ecosystem. 
+Canadian Journal of Zoology 72:1306-1313.
+Reid, D.G., T.E. Code, A.C.H. Reid, and S.M. Herrero. 1994b. Spacing, movements, and habitat selection of the river 
+otter in boreal Alberta. Canadian Journal of Zoology 72:1314-1324.
+Rosgen, D.L. 1994. A classification of natural rivers. Catena 22:169-199.
+Route, W.T. and R.O. Peterson. 1991. An incident of wolf, Canis lupus, predation on a river otter, Lutra canadensis, 
+in Minnesota. Canadian Field-Naturalist 105:567.
+Rudd, W., L. Forrest, F. Lindzey, and S. W. Buskirk. 1986. River otters in Wyoming: distribution, ecology, and 
+potential impacts from energy development. Research Report 86-02, Wyoming Cooperative Research Unit, 
+University of Wyoming, Laramie, WY. Report prepared for Wyoming Wildlife Federation.
+
+
+48
+Sauer, T.M., M. Ben-David, and T. Bowyer. 1999. A new application of the adaptive-kernel method: Estimating linear 
+home ranges of river otters, Lutra canadensis. Canadian Field-Naturalist 113:419-424.
+Schnurr, P. 2005. Species Conservation Program Biologist, Colorado Division of Wildlife, Grand Junction. Personal 
+communication.
+Serfass, T.L. 1995. Cooperative foraging by North American river otters, Lutra canadensis. Canadian Field-Naturalist 
+109:458.
+Serfass, T.L. and L.M. Rymon. 1985. Success of river otter introduced in Pine Creek drainage in north central 
+Pennsylvania. Transactions of the Northeast Section of the Wildlife Society 41:138-149.
+Serfass, T.L., L.M. Rymon, and R.P. Brooks. 1990. Feeding relationships of river otters in northeastern Pennsylvania. 
+Transactions of the Northeast Section of the Wildlife Society 47:43-53.
+Serfass, T.L., L.M. Rymon, and R.P. Brooks. 1992. Ectoparasites from river otters in Pennsylvania. Journal of Wildlife 
+Diseases 28:138-140.
+Serfass, T.L., L.P. Randall, M.T. Whary, and R.P. Brooks. 1993. River otter (Lutra canadensis) reintroduction in 
+Pennsylvania: prerelease care and clinical evaluation. Journal of Zoo and Wildlife Medicine 24:28-40.
+Serfass, T.L., M.T. Whary, R.L. Peper, R.P. Brooks, T.J. Swimley, W.R. Lawrence, and C.E. Rupprect. 1995. Rabies in 
+a river otter (Lutra canadensis) intended for reintroduction. Journal of Zoo and Wildlife Medicine 26:311-314.
+Serfass, T.L., R.P. Brooks, J.M. Novak, P.E. Johns, and O.E. Rhodes, Jr. 1998. Genetic variation among populations of 
+river otters in North America: considerations for reintroduction projects. Journal of Mammalogy 79:736-746.
+Serfass, T.L., R.P. Brooks, T.J. Swimley, L.M. Rymon, and A.H. Hayden. 1996. Considerations for capturing, handling, 
+and translocating river otters. Wildlife Society Bulletin 24:25-31.
+Shackelford, J. and J. Whitaker. 1997. Relative abundance of the northern river otter, Lutra canadensis, in three 
+drainage basins of southeastern Oklahoma. Proceedings of the Oklahoma Academy of Sciences 77:93-98.
+Shannon, J.S. 1989. Social organization and behavioral ontogeny of otters (Lutra canadensis) in a coastal habitat in 
+northern California. Bulletin of the International Union for the Conservation of Nature Otter Specialist Group 
+4:8-13.
+Shannon, J.S. 1991. Progress on Californian otter research. Bulletin of the International Union for the Conservation of 
+Nature Otter Specialist Group 6:24-31.
+Sheldon, W.G. and W.G. Toll. 1964. Feeding habits of the river otter in a reservoir in central Massachusetts. Journal 
+of Mammalogy 45:449-455.
+Sjoeasen, T. 1996. Survivorship of captive-bred and wild-caught reintroduced European otters Lutra lutra in Sweden. 
+Biological Conservation 76:161-165.
+Smith, H.C. 1993. Alberta mammals: an atlas and guide. Provincial Museum of Alberta, Edmonton, Alberta, Canada. 
+238 pages.
+Spelman, L.H., P.W. Sumner, J.F. Levine, and M.K. Stoskopf. 1993. Field anesthesia in the North America river otter 
+(Lutra canadensis). Journal of Zoo and Wildlife Medicine 24:19-27.
+Stenson, G.B., G.A. Badgero, and H.D. Fisher. 1984. Food habits of the river otter Lutra canadensis in the marine 
+environment of British Columbia. Canadian Journal of Zoology 62:88-91.
+Stenson, G.B. 1985. The reproductive cycle of the river otter Lutra canadensis in the marine environment of 
+southwestern British Columbia. Ph.D. Thesis, University of British Columbia, Vancouver, British Columbia, 
+Canada.
+Stephenson, A.B. 1977. Age determination and morphological variation of Ontario otters. Canadian Journal of 
+Zoology 55:1577-1583.
+
+
+49
+St-Georges, M., S. Nadeau, D. Lambert, and R. Decarie. 1995. Winter habitat use by ptarmigan, snowshoe hares, 
+red foxes, and river otters in the boreal forest-tundra transition zone of western Quebec. Canadian Journal of 
+Zoology 73:755-764.
+Stromberg, J., M. Briggs, C. Gourley, M. Scott, P. Shafroth, and L. Stevens. 2004. Human alterations of riparian 
+ecosystems. Pages 101-126 in M.B. Baker, Jr., P.F. Ffolliott, L.F. DeBano, and D.G. Neary, editors. Riparian 
+areas of the southwestern United States: hydrology, ecology and management. Lewis Publishers, Boca Raton, 
+FL.
+Swimley, T.J. and T.S. Hardisky. 2000. Otter population trend survey. Final report, Project No. 06670, Job No. 67002. 
+Available online at: http://sites.state.pa.us/PA_Exec/PGC/WMAR/99wmar/67002f.htm (Accessed April 10, 
+2003).
+Swimley, T.J., T.L. Serfass, R.P. Brooks, and W.M. Tzilkowski. 1998. Predicting river otter latrine sites in Pennsylvania. 
+Wildlife Society Bulletin 26:836-845.
+Tabor, J.E. and H.M. Wight. 1977. Population status of river otter in western Oregon. Journal of Wildlife Management 
+41:692-699.
+Tarasoff, F.J., A. Basaillon, J. Pierard, and A.P. Whitt. 1972. Locomotory patterns and external morphology of the river 
+otter, sea otter, and harp seal (Mammalia). Canadian Journal of Zoology 50:915-929.
+Tarasoff, F.J. and G.L. Kooyman. 1973a. Observations on the anatomy of the respiratory system of the river otter, sea 
+otter, and harp seal. Part 1: The topography, weight, and measurement of the lungs. Canadian Journal of Zoology 
+51:163-170.
+Tarasoff, F.J. and G.L. Kooyman. 1973b. Observations on the anatomy of the respiratory system of the river otter, sea 
+otter, and harp seal. Part 2: Trachea and bronchial tree. Canadian Journal of Zoology 51:171-177.
+Testa, J.P., D.F. Holleman, R.T. Bowyer, and J.B. Faro. 1994. Estimating populations of marine river otters in Prince 
+William Sound, Alaska, using radiotracer implants. Journal of Mammalogy 75:1021-1032.
+Toweill, D.E. 1974. Winter food habits of river otters in western Oregon. Journal Wildlife Management 38:107-111.
+Toweill, D.E. and J.E. Tabor. 1982. River otter Lutra canadensis. Pages 688-703 in J.A. Chapman and G.A. Feldhamer, 
+editors. Wild mammals of North America: biology, management, and economics. Johns Hopkins University 
+Press, Baltimore, MD.
+Tumlison, R., R.M. Kames, and A.W. King. 1982. The river otter in Arkansas: indications of a beaver-facilitated 
+commensal relationship. Proceedings of the Arkansas Academy of Sciences 36:73-75.
+Turner, R.W. 1974. Mammals of the Black Hills of South Dakota and Wyoming. University of Kansas, Lawrence, 
+Kansas, USA, Museum of Natural History Miscellaneous Publication No. 60.
+van Zyll de Jong, C.G. 1972. A systematic review of the Nearctic and Neotropical river otters (Genus Lutra, 
+Mustelidae, Carnivora). Life Sciences Contributions of the Royal Ontario Museum 80:1-104.
+van Zyll de Jong, C.G. 1987. A phylogenetic study of the Lutrinae (Carnivora; Mustelidae) using morphological data. 
+Canadian Journal of Zoology 65:2536-2544.
+Verbeek, N.A.M. and J.L. Morgan. 1978. River otter predation on glaucous-winged gulls on Mandarta Island, British 
+Columbia. Murrelet 59:92-95.
+Williams, G.C. 1966. Natural selection, the costs of reproduction, and a refinement of Lack’s principle. American 
+Naturalist 100:687-690.
+Wilson, K.A. 1954. The role of mink and otter as muskrat predators in northeastern North Carolina. Journal of Wildlife 
+Management 18:199-207.
+Wilson, S. 2006. Biologist, Nebraska Game and Parks Commission, Lincoln. Personal communication.
+Wren, C.D. 1985. Probable cause of mercury poisoning in a wild otter, Lutra canadensis, in northwestern Ontario. 
+Canadian Field-Naturalist 99:112-114.
+
+
+50
+Wyoming Natural Diversity Database. 2003. Wyoming natural diversity database website, available at http://
+uwadmnweb.uwyo.edu/wyndd/ (Accessed on February 19, 2003).
+
+
+51
+APPENDIX
+Matrix Population Model for the 
+River Otter
+Life cycle graph and model development
+Matrix demographic models facilitate assessment 
+of critical transitions in the life history. A key first 
+step is to create a life cycle graph, from which to 
+compute a projection matrix amenable to quantitative 
+analysis using computer programs (Caswell 2001). We 
+formulated a life cycle graph for river otter (Figure 8 in 
+the assessment) that comprised four stages, and a matrix 
+population model with a post-breeding census (Cochran 
+and Ellner 1992, McDonald and Caswell 1993, Caswell 
+2001). Model inputs (vital rates such as survival and 
+fertility) are shown in Table A1. Stage 1 represents 
+females in their first year, with “breeding” (i.e., giving 
+birth) probability equal to 0 (Melquist et al. 2003). 
+Stage 2 represents second year females, with breeding 
+probability equal to 0.05. Births by second-year females 
+have occasionally been reported, but most females do 
+not reach sexual maturity until their second year, giving 
+birth in their third year because of delayed implantation 
+(studies reviewed by Melquist et al. 2003, Toweill and 
+Tabor 1982). Stage 3 represents females that bred in the 
+previous year. Stage 4 represents females in at least their 
+third year that did not breed the previous year. After first 
+breeding, females generally alternate between Stage 3 
+and Stage 4. Stages 3 and 4 in the life cycle graph 
+address the fact that the birth interval for otter females 
+varies from one to two years (reviews by Melquist et 
+al. 2003, Melquist and Dronkert 1987, Toweill and 
+Tabor 1982). No data on birth intervals are available 
+from otters in Region 2 states. High pregnancy rates 
+of adult females reported for otter populations subject 
+to trapping harvest in Oregon (99%; Tabor and Wight 
+1977) and Missouri (about 90%; Missouri Department 
+of Conservation, unpublished data) indicate that most 
+females in those populations bred every year. Other 
+studies in the northeastern and southern U.S. reported 
+near 0 to 25% of females giving birth in consecutive 
+years (Toweill and Tabor 1982). We selected a 
+conservative probability for breeding in consecutive 
+years of 0.25.
+Survival rates for the model (Table A1) were 0.53 
+through the first year and 0.79 thereafter. These values 
+were determined by averaging age-class population 
+structure data presented by Toweill and Tabor (1982) 
+for river otter populations in Oregon, Maryland, and 
+Alabama-Georgia, then slightly modifying the adult 
+survivorship value to correspond to an assumed 
+population growth rate (λ = 1.008) close to 1.0 (that 
+is, essentially stationary). Our adult survivorship value 
+is similar to values reported for river otters in coastal 
+Alaska (about 90%; Bowyer et al. 2003), wild-caught 
+river otters reintroduced in North America (46-91%, 
+cited in Bowyer et al. 2003), and Eurasian otters in 
+Shetland (about 85%; Kruuk and Conroy 1991) and 
+Sweden (79%; Sjoeasen 1996).
+Sensitivity analysis
+Sensitivity is the effect on λ of an absolute 
+change in the vital rates aij, the arcs in the life cycle 
+graph (Figure 8 in the assessment) and the cells in the 
+matrix, A (Table A2 and Table A3). Sensitivity analysis 
+provides several kinds of useful information (Caswell 
+2001). First, sensitivities show how important a given 
+vital rate is to λ and, by inference, fitness. Second, 
+sensitivities can be used to evaluate the effects of 
+inaccurate estimation of vital rates from field studies. 
+Inaccuracy will usually be due to paucity of data, but 
+could also result from inappropriate or biased estimation 
+techniques or other errors of analysis. To improve 
+the accuracy of population models biologists should 
+concentrate on transitions with large sensitivities. Third, 
+sensitivities can quantify the effects of environmental 
+perturbations, wherever these can be linked to effects 
+on stage-specific survival or fertility rates. Fourth, 
+Table A1. Parameter values for the component terms (Pi, Bi, and mi) that make up the vital rates in the projection 
+matrix model for river otter.
+Parameter
+Numeric Value
+Description
+m
+1.17
+Number of female offspring produced by a female
+P1
+0.53
+Survival through first year
+Pa
+0.79
+Survival through years after the first year
+B2
+0.05
+Probability of breeding in second year of life
+B3
+0.25
+Probability of breeding in any two successive years
+
+
+52
+managers can concentrate on the most important 
+transitions. For example, they can assess which stages 
+or vital rates are most critical to increasing λ.
+Table A4 shows the “possible sensitivities only” 
+matrix for this analysis. In general, changes that affect 
+one type of age class or stage will also affect all similar 
+age classes or stages. For example, any factor that 
+changes the annual survival rate of Stage 3 females is 
+likely to cause similar changes in the survival rates of 
+other adult female age classes. Therefore it is usually 
+appropriate to assess the summed sensitivities for 
+similar sets of transitions (vital rates). For this model, 
+the greatest sensitivity of λ was to changes in “adult” 
+survival (1.71; 71.2% of total). First-year survival 
+sensitivity was 0.37 (15.3% of total) and the summed 
+“fertility” sensitivity was 0.32 (13.4% of total). The 
+river otter shows most of the sensitivity of λ to changes 
+in survival (86.5%). The major conclusion from the 
+sensitivity analysis is that survival, especially of adult 
+females, is the key to population viability.
+Elasticity analysis
+Elasticities are useful in resolving a problem 
+of scale that can affect conclusions drawn from 
+sensitivities. Interpreting sensitivities can be somewhat 
+misleading because survival rates and reproductive 
+rates are measured on different scales. For example, 
+a change of 0.5 in survival may be highly significant 
+to population viability (e.g., a change from 90% to 
+40%). However, a change of 0.5 in fertility may be a 
+very small proportional change (e.g., a change in litter 
+size from 3.5 to 4.0). Elasticities are the sensitivities 
+of λ to proportional changes in the vital rates (aij) and 
+thus partially avoid the problem of differences in units 
+of measurement. The elasticities also have the useful 
+property of summing to 1.0. The difference between 
+sensitivity and elasticity conclusions results from 
+the weighting of the elasticities by the value of the 
+original arc coefficients (the aij cells of the projection 
+matrix). Management conclusions will depend on 
+whether changes in vital rates are likely to be absolute 
+Table A2. Symbolic values for the cells in the projection matrix, A (with cells aij) corresponding to the life cycle graph 
+shown in Figure 8 of the assessment. Each cell represents a vital rate such as survival or fertility and corresponds to 
+an arc in the life cycle graph. The top row represents fertility transitions, with compound terms describing probability 
+of breeding (Bi), survival of the mother (Pi) and offspring production (mi).
+Stage
+1
+2
+3
+4
+1
+PaB2m
+PaB3m
+Pam
+2
+P1
+3
+PaB2
+PaB2
+Pa(1-B3)
+4
+Pa(1-B2)
+Pa(1-B3)
+PaB3
+Table A3. Numeric values for the cells in the projection matrix, A, corresponding to the life cycle graph shown in  
+Figure 8 of the assessment.
+Stage
+1
+2
+3
+4
+1
+0
+0.046
+0.231
+0.924
+2
+0.439
+0
+0
+0
+3
+0
+0.040
+0.198
+0.593
+4
+0
+0.751
+0.593
+0.198
+Table A4. Sensitivity matrix, S (with cells sij) for the river otter. The three transitions to which λ of river otter is most 
+sensitive are in bold. Only those sensitivities for which aij is non-zero (“possible sensitivities”) are shown.
+Stage
+1
+2
+3
+4
+1
+0.07
+0.109
+0.144
+2
+0.368
+3
+0.168
+0.261
+0.346
+4
+0.751
+0.593
+0.418
+
+
+53
+(guided by sensitivities) or proportional (guided by 
+elasticities). By using elasticities, one can further 
+assess key life history transitions and stages as well 
+as the relative importance of fertility (Fi) and survival 
+(Pi) for a given species.
+Elasticities for river otter are shown in Table A5. 
+λ is most elastic to changes in Pa, the survival of “adult” 
+individuals (those in Stages 2 to 4; summed elasticities 
+= 67.9%), followed by equivalent values (16% each) 
+for first-year survival, P1, and the summed fertility (the 
+Fi transitions) of all 3 reproductive stages. The relative 
+magnitudes of sensitivities correspond fairly closely to 
+those of the elasticities. Thus, both analyses suggest that 
+survival rates of adults are the population characteristics 
+most important to population viability.
+Other demographic parameters
+The Stable (St)age Distribution (SSD, Table 
+A6) describes the proportion of each stage (or age-
+class) in a population at demographic equilibrium. 
+Under a deterministic model, any unchanging matrix 
+will converge on a population structure that follows 
+the stable stage distribution, regardless of whether the 
+population is declining, stationary, or increasing. Under 
+most conditions, populations not at equilibrium will 
+converge to the SSD within 20 to 100 census intervals. 
+For river otters at the time of the post-breeding annual 
+census (just after the end of the breeding season), first-
+year individuals represent 33.2% of the population, 
+and second-year individuals represent 14.5% of the 
+population. The third stage (“adults” in their “off” year 
+for breeding) represents 22.5% of the population, while 
+individuals in Stage 4 (“adults” in their “on” year) 
+represent 29.8% of the population. Because the matrix 
+contains information on time required for transitions, 
+one can calculate the mean and variance of ages for 
+stages that are heterogeneous for age (Cochran and 
+Ellner 1992), as shown in Table A6.
+Reproductive values (Table A7) describe the 
+“value” of a stage as a seed for population growth 
+relative to that of the first stage (Caswell 2001). The 
+reproductive value of the first stage is always 1.0. A 
+female individual in Stage 2 is “worth” 2.3 first-year 
+Table A5. Elasticity matrix, E (with cells eij) for the river otter. The three transitions to which λ of river otter is most 
+elastic are in bold. Note that the elasticities sum to 1.
+Stage
+1
+2
+3
+4
+1
+0.003
+0.025
+0.132
+2
+0.16
+3
+0.007
+0.051
+0.204
+4
+0.151
+0.185
+0.082
+Table A6. Stable stage distribution (SSD), indicating the proportion of the population in each of the stages at the time 
+of the census, and means and variances of ages of the stages for the river otter model.
+Stage
+Description
+SSD
+Mean age (± SD)
+1
+First-year females
+0.332
+0 ± 0
+2
+Second-year females
+0.145
+1 ± 0
+3
+“Off-year” adults
+0.225
+6.3 ± 4.1
+4
+“On-year” breeders
+0.298
+5.1 ± 4.0
+Table A7. Reproductive values for female river otters. Reproductive values can be thought of as describing the 
+“value” of an age-class as a seed for population growth, relative to that of the first (newborn) age-class, which is 
+always defined to have the value 1.0.
+Stage
+Description
+Reproductive Values
+1
+First-year females
+2
+Second-year females
+3
+“Off-year” adults
+4
+“On-year” breeders
+
+
+54
+females, and so on. The reproductive value is calculated 
+as a weighted sum of the present and future reproductive 
+output of a stage, discounted by the probability of 
+surviving (Williams 1966). The peak reproductive 
+value (2.9) is for Stage 4 “adult” females in their “on” 
+year. The reproductive value results corroborate those 
+of the sensitivity and elasticity analyses. Survival of 
+older reproductive females that are the mainstay of 
+the population is critical to the population dynamics of 
+river otters. The cohort generation time for river otters 
+is 6.4 years (SD = 4.2 years). Cohort generation time 
+is the population turnover time important to the rate of 
+evolutionary change.
+Stochastic model
+We created stochastic matrix models for river 
+otters. The goals of these models were 1) to assess the 
+relative importance of different degrees of stochasticity 
+(how does the amount of variability in the environment 
+affect population dynamics?), and 2) to assess whether 
+variability would have dramatically different effects 
+depending on the transitions varying (e.g., does 
+variable early survival have a greater impact than 
+variability in fertility?). We incorporated stochasticity 
+in several ways, by varying different combinations of 
+vital rates and by varying the amplitude of stochastic 
+fluctuation (Table A8). Under Variant 1 we altered 
+the “adult” survival rates (Pa). Under Variant 2 we 
+varied only first-year survival, P1. Under Variant 3 we 
+varied m, the number of offspring per female. Each run 
+consisted of 2,000 census intervals (years) beginning 
+with a population size of 10,000 distributed according 
+to the Stable Stage Distribution (SSD) under the 
+deterministic model. Beginning at the SSD helps avoid 
+the effects of transient, non-equilibrium dynamics. 
+Each simulation consisted of running 100 replicate 
+populations (each for 2,000 yearly census intervals). 
+We varied the amplitude of fluctuation by changing 
+the standard deviation of the beta distribution from 
+which the stochastic vital rates were selected. The beta 
+distribution has the desirable property that it is bounded 
+on the interval 0-1, preventing selection of biologically 
+impossible vital rates (e.g., survival greater than 1.0). 
+The default amplitude was a standard deviation of 
+one quarter of the “mean” (with this “mean” set at the 
+value of the original matrix entry [vital rate], aij under 
+the deterministic analysis). Variant 4 affected the same 
+“adult” survival rates as Variant 1, but was subjected 
+to only half the variability (SD was 1/8 rather than 1/4 
+of the mean). We calculated the stochastic growth rate, 
+logλS, according to Equation 14.61 of Caswell (2001), 
+after discarding the first 1,000 cycles in order to further 
+avoid transient dynamics.
+The stochastic model produced two major 
+conclusions. The first major conclusion is that altering 
+the “adult” survival rates had a much more dramatic 
+effect on λ than altering either all the fertilities or the 
+first-year survival. For example, under the most variable 
+adult survival rates (Pa) of Variant 1 (SD =1/4 of mean) 
+all 100 replicate populations went extinct, with a mean 
+time to extinction of 231 census intervals. In contrast, 
+Variants 2 and 3, affecting first-year survival and 
+Table A8. Results of four variants of stochastic projections for river otters. Stochastic fluctuations have the greatest 
+effect when acting on “adult” survival rates (Variant 1).
+Variant 1
+Variant 2
+Variant 3
+Variant 4
+Input factors:
+Affected cells
+Pa
+P1
+m
+Pa
+S.D. for beta distribution draw
+1/4
+1/4
+1/4
+1/8
+Output values:
+Deterministic λ
+1.008
+1.008
+1.008
+1.008
+# Extinctions/100 trials
+100
+0
+0
+24
+Mean extinction time
+231
+N/A
+N/A
+1,282
+# Declines/# surviving populations
+—
+0/100
+0
+46/76
+Mean ending population size
+—
+5,832,941
+6,086,876
+285,892
+S.D.
+—
+1,620,483
+1,393,600
+822,062
+Median ending size
+—
+5,611,363
+5,706,813
+5,362
+Log λs
+-0.0424
+0.0032
+0.0032
+-0.0017
+λs
+0.959
+1.0032
+1.0032
+0.9983
+Percent reduction in λ
+4.92
+0.49
+0.48
+0.96
+
+
+55
+fertility respectively, had all 100 replicates growing to 
+population sizes much larger than the starting size. Even 
+after reducing the amplitude of the stochastic variation 
+in “adult” survival under Variant 4, long-term λs was still 
+lower than that for the Variants 2 and 3. Under Variant 
+4, 24 of 100 replicates went extinct, and a further 46 
+declined from the starting population size.
+Variants 1 and 4, varying adult survival, were 
+the only stochastic models that resulted in a change 
+from λ >1 to λ <1, and the only models that resulted in 
+extinctions. This difference in the effects of stochastic 
+variation was predictable from the sensitivities and 
+elasticities (Table A4 and Table A5). λ was much more 
+sensitive and elastic to variability in “adult” survival 
+than it was to variability in the entire set of fertilities, Fi 
+or to changes in first-year survival.
+The second major conclusion is that higher-
+amplitude stochasticity has a detrimental effect on 
+population dynamics. This detrimental effect occurs 
+despite the fact that the average vital rates remain 
+the same as under the deterministic model. This 
+apparent paradox is due to the lognormal distribution 
+of stochastic ending population sizes (Caswell 2001, 
+pp. 390-392).
+The lognormal distribution has the property that 
+the mean exceeds the median, which exceeds the mode. 
+Given sufficient variability in a vital rate to which λ is 
+elastic, any particular realization will therefore be most 
+likely to end at a population size considerably lower 
+than the initial population size. These results suggest 
+that populations of river otters are relatively tolerant 
+to stochastic fluctuations in fertilities and first-year 
+survival rates, but highly vulnerable to high variability 
+in the survival of adult stages. Pfister (1998) showed 
+that for a wide range of empirical life histories, high 
+sensitivity or elasticity is negatively correlated with high 
+rates of temporal variation. That is, most species appear 
+to have responded to strong selection by having low 
+variability for sensitive transitions in their life cycles. 
+A possible concern is that human-caused impacts may 
+induce variation in previously invariant vital rates (such 
+as annual adult survival), with consequent negative 
+effects on population dynamics.
+Refining the models
+Improving the data on survival rates would 
+greatly increase the accuracy of these analyses. Data 
+from natural populations on the range of variability 
+in the vital rates would allow more realistic functions 
+to model stochastic fluctuations. For example, time 
+series based on actual temporal or spatial variability 
+would allow construction of a series of “stochastic” 
+matrices that mirrored actual variation. One advantage 
+of such a series would be the incorporation of observed 
+correlations between variation ins vital rates. Using 
+observed correlations would improve on this assumption 
+by incorporating forces that we did not consider. Those 
+forces may drive greater positive or negative correlation 
+among life history traits.
+Other potential refinements include incorporating 
+density-dependent effects. At present, data are 
+insufficient to assess reasonable functions governing 
+density 
+dependence. 
+The 
+present 
+model 
+also 
+incorporates a fairly simple alternation of breeding 
+(100% probability) with low probability of breeding in 
+the following year (25%). Improved data on probability 
+of breeding in successive years would allow more 
+sophisticated analysis of fertility. The extent to which 
+environmental conditions influence fertility is of 
+paramount concern in this regard.
+
+
+The U.S. Department of Agriculture (USDA) prohibits 
+discrimination in all its programs and activities on 
+the basis of race, color, national origin, age, disability, 
+and where applicable, sex, marital status, familial 
+status, parental status, religion, sexual orientation, 
+genetic information, political beliefs, reprisal, or 
+because all or part of an individual’s income is 
+derived from any public assistance program. (Not 
+all prohibited bases apply to all programs.) Persons 
+with disabilities who require alternative means for 
+communication of program information (Braille, 
+large print, audiotape, etc.) should contact USDA’s 
+TARGET Center at (202) 720-2600 (voice and TDD). 
+To file a complaint of discrimination, write to USDA, 
+Director, Office of Civil Rights, 1400 Independence 
+Avenue, S.W., Washington, DC 20250-9410, or call 
+(800) 795-3272 (voice) or (202) 720-6382 (TDD). USDA 
+is an equal opportunity provider and employer.

@@ -1,0 +1,784 @@
+--- 
+source: RUIZ-OLMO et al - Breeding.pdf
+--- 
+
+BREEDING OF OTTERS (LUTRA LUTRA L.) IN THE WILD IN THE MEDITERRANEAN 
+AREA 
+ 
+Jordi RUIZ-OLMO, Francesc MAÑAS AND Antoni BATET 
+ 
+Departament de Medi Ambient i Habitatge, Generalitat de Catalunya, Dr. Roux 80, 08017 – Barcelona, Spain. 
+email: ajruiol@gencat.net 
+ 
+ 
+Abstract.  We update our knowledge on otter breeding in the Iberian Mediterranean habitats: detailing size of 
+litters (embryos, small and large cubs), seasonal breeding patterns, habitat for rearing cubs  and pre-dispersal 
+findings.  We show the effect of temporal variation of the resources (both food and water availability), providing 
+information about some suspected key species for otter breeding (barbels, eel, corkwing and American crayfish). 
+ 
+Key words: Eurasian otter, Lutra lutra, otter, cubs, breeding, Mediterranean habitats, prey 
+ 
+ 
+1   INTRODUCTION 
+ 
+Otters (Lutra lutra) are a semi-aquatic species, whose life is closely related to water.  This is 
+especially true in the case of diet, which is largely made up of aquatic and semi-aquatic 
+species (CHANIN, 1985; MASON AND MACDONALD, 1986; KRUUK, 1995; RUIZ-OLMO AND 
+PALAZÓN, 1997).  Fish, crayfish, and amphibians are the most common prey, although, in 
+Mediterranean habitats, water snakes, insects, birds and small mammals are also common 
+items in the diet (ADRIAN AND DELIBES, 1987; RUIZ-OLMO, 1995; RUIZ-OLMO AND PALAZÓN, 
+1997; BARTOLOMÉ, 2000; CLAVERO ET AL., 2003).  
+Studies of otter breeding behaviour have been carried out mainly in wet, colder and 
+even snowy habitats, such as Britain, Scandinavia, and central and north eastern Europe 
+(STEPHENS, 1957; ERLINGE, 1967; STUBBE, 1969, 1989; WIJNGAARDEN AND PEPPEL, 1970; 
+REUTHER, 1980; CHANIN, 1985; MASON AND MACDONALD, 1986; KRUUK, CONROY AND 
+MOORHOUSE ET AL., 1987; HEGGBERGET, 1988; JORGA, STUBBE AND ZINKE, 1989; RÖBIN, 
+1989; DE SILVA, 1991; SIDOROVICH, 1991, 1997; SIDOROVICH AND TUMANOV, 1994; KRUUK, 
+1995; HEGGBERGET, 1993; HEGGBERGET AND CHRISTENSEN, 1996; ANSORGE, ZINKE AND 
+ZINKE, 1997; DÜLFER AND ROCHE, 1998; ELMEROS AND MADSEN, 1999; HAUER, ANSORGE 
+AND  ZINKE , 2002; CONROY AND BACON, 2005).  Following these studies, the Eurasian otter 
+(Lutra lutra) is confirmed as a polyoestrous species, with litters of 1-5 cubs (more often 1-3).   
+Otters normally breed between spring and early autumn, but some studies have reported otters 
+breeding throughout the year often with seasonal variations, while others have shown 
+breeding to be predominately during the winter months (CONROY AND BACON, 2005)  
+Mediterranean habitats are a special situation for semi-aquatic species such as the 
+otter, because, in these regions, there are large fluctuations and shortages in water and feeding 
+resources, affecting deeply the ecology and behaviour of the species (JIMÉNEZ AND LACOMBA, 
+1991; RUIZ-OLMO AND PALAZÓN, 1997; RUIZ-OLMO AND DELIBES, 1998; RUIZ-OLMO, LÓPEZ-
+MARTÍN AND PALAZÓN 2001b; RUIZ-OLMO ET AL., 2001a, 2002; PRENDA ET AL., 2001; 
+CLAVERO ET AL, 2003; RUIZ-OLMO, 2001, 2004; JIMÉNEZ AND RUIZ-OLMO, in press). Otters 
+are food-limited species (KRUUK AND CARSS, 1996; RUIZ-OLMO, LÓPEZ-MARTÍN AND 
+PALAZÓN, 2001b), because of their high metabolic needs, breeding patterns, heat losses and 
+lifestyle (IVERSEN, 1972; GITTLEMAN AND OFTEDAL, 1987; OFTEDAL AND GITTLEMAN, 1989; 
+MCNAAB, 1989; NOLET AND KRUUK, 1994; KRUUK, 1995), so large fluctuations in resources 
+may be a handicap during breeding time, otters being pressed to adapt to a more efficient way 
+of life (HEGGBERGET, 1993; KRUUK, 1995).  
+
+
+However, most of these studies deal with the biology of the species, and very few 
+with the recruitment, pre-dispersal and dispersal stages, or the habitat selection for breeding 
+or cub rearing (JENKINS, 1980; HARPER, 1981; KRUUK, CONROY AND MOORHOUSE, 1991; 
+KRUUK, 1995; SIDOROVICH, 1997). 
+The only published works on otter breeding in the Mediterranean habitats were 
+carried out in the Iberian Peninsula (RUIZ-OLMO, 1994, 1998; BEJA, 1995, 1996; RUIZ-OLMO 
+ET AL., 2001b, 2002, in press a & b).  It is of interest to study the different prey species of 
+otters living in such habitats, with low water availability. This paper updates the information 
+from these studies, in view of the importance of such resource changes, and identifies future 
+research needs.  
+ 
+ 
+2   DEFINITIONS  
+ 
+To understand more fully the results discussed below, the following definitions are used 
+(RUIZ-OLMO ET AL., 2002, in press b): 
+ 
+• 
+Cubs in den. Cubs between birth and when they begin to leave their dens. 
+• 
+Small cubs. Individuals, approximately 2-3 to six months old (the period at which they 
+begin to leave the den, to when it is difficult to distinguish them from adult otters 
+(mainly the mother) [when they reach 90% of their total length (TL) in the Iberian 
+Peninsula].  
+• 
+Large cubs. Over about six months old up to the time of dispersal (which often occurs 
+between eight and 16 months).  Similar size to mothers, with higher walking, escaping 
+and foraging capacities. 
+• 
+Rearing cubs’ sector. Is a special stretch or patch selected by females with litters in 
+which they find a quality habitat, to ensure low cub mortality and easier dispersal of 
+young?  
+ 
+3   SIZE OF LITTERS AND FEEDING HABITS  
+ 
+RUIZ-OLMO (1994) found an average of 2.0 embryos/female (SD = 0), from a very small 
+sample of Spanish otters (n=5).  However, unpublished new data (J. RUIZ-OLMO AND F. 
+MAÑAS, unpublished data) shows an average of 2.06 embryos for 18 Spanish females (SD = 
+0.54; range 1 – 3), 72% of litters being of two embryos.  This is a smaller litter size compared 
+with other studies carried out in Europe in other freshwater habitats (HAUER, ANSORGE AND 
+ZINKE, 2002; CONROY AND BACON, 2005), ranging from 2.3 to 2.9, but similar to coastal 
+Atlantic otters (ranging from 1.7 to 2.2). Explanations for this may vary, but the smaller size 
+of Iberian otters (RUIZ-OLMO, DELIBES AND ZAPATA, 1998), the relative proportion of young 
+and old females in population, proved to have smaller litters (HAUER, ANSORGE AND ZINKE, 
+2002), and the wide fluctuations and unpredictability in water and food availability (RUIZ-
+OLMO ET AL., 2002) could contribute to this smaller litter size. 
+Mean small cubs litter sizes for the different Iberian otter populations range from 1.1 
+to 2.9 (Table 1) and are within the range described in other countries (Table 1) (CHANIN, 
+1985; MASON AND MACDONALD, 1986; DE SILVA, 1991; SIDOROVICH, 1991; KRUUK, 1995; 
+ANSORGE, ZINKE AND ZINKE, 1997; DÜLFER AND ROCHE, 1998; ELMEROS AND MADSEN, 1999; 
+HAUER, ANSORGE AND ZINKE, 2002). 
+ 
+ 
+
+
+Table 1: Breeding patterns of otters (litters of small cubs outside dens) in some Iberian Mediterranean habitats, in relation to variations in food resources. 
+ 
+ 
+Area 
+Type 
+Habitat 
+Mean 
+altitude 
+(m) 
+Number of 
+prey 
+species 
+over 5 % 
+in diet 
+Average 
+cubs/litter 
+(n) 
+Breeding 
+pattern 
+Main births 
+time 
+ 
+Main 
+estimated 
+time to live 
+in den 
+Maximal food 
+abundance 
+time 
+Main species in 
+habitat and otter 
+diet 
+Coast 
+Marine 
+0 
+5 
+1.73 
+(11) 
+Seasonal 
+X – XII 
+ 
+XII – III 
+XII – III 
+corkwing wrasse 
+(Symphodus melops)
+ 
+South west 
+Portugala 
+ 
+Inland 
+Lowland 
+Mediterranean 
+rivers and streams 
+0 – 100 
+5 
+2.86 
+(7) 
+Seasonal 
+I – III 
+III – VI 
+III - VII 
+eel (Anguilla 
+anguilla) 
+Inland. High 
+Pyrenees 
+Altitude 
+oligotrophic 
+streams 
+700 - 1100
+1 
+1.12 
+(8) 
+ 
+Non 
+seasonal 
+(Small 
+sample) 
+All around year 
+(Small sample) 
+All around 
+year 
+(Small 
+sample) 
+- 
+brown trout (Salmo 
+trutta) 
+Inland. Prepyrenean 
+rivers.  
+Eating fish  
+Mountain 
+Mediterranean 
+rivers 
+350 – 700 
+2 – 3 
+1.57 
+(49) 
+V – IX 
+Ebro’s barbel 
+(Barbus graellsii) 
+Inland. Prepyrenean 
+rivers.  
+Eating fish and 
+crayfish  
+Mountain 
+Mediterranean 
+rivers 
+200 – 400 
+3 – 6 
+2.40 
+(5) 
+ 
+Seasonal 
+ 
+III – VI 
+ 
+V - IX 
+V – IX 
+American crayfish 
+(Procambarus 
+clarckii) and 
+cyprinids 
+Inland. 
+Mediterranean 
+rivers.  
+Eating fish  
+Mediterranean 
+rivers 
+200 – 600 
+2 – 4 
+1.85 
+(13) 
+Spring - 
+Summer 
+Ebro’s Barbel and 
+ase (Chondrostoma 
+miegii) 
+Inland. 
+Mediterranean 
+rivers.  
+Eating fish and 
+crayfish  
+Mediterranean 
+rivers 
+200 – 500 
+3 – 5 
+1.60 
+(5) 
+Seasonal 
+ 
+XII – II for dry 
+years  
+ 
+XII – IX for 
+normal years 
+ 
+III - XII 
+V – IX 
+American crayfish 
+and Cyprinids 
+ 
+North east 
+Spain. 
+Ebro basinb, c 
+Inland. 
+Mediterranean 
+lowland rivers and 
+wetlands 
+Lowland 
+Mediterranean 
+rivers, streams and 
+wetlands 
+ 
+0 – 100 
+> 5 
+1.50 
+(4) 
+Small 
+sample 
+Small sample 
+Small sample
+Small sample 
+American crayfish, 
+eel and cyprinids 
+ 
+(a) 
+BEJA (1995, 1996); (b) RUIZ-OLMO AND PALAZÓN  (1997), RUIZ-OLMO ET AL. (2001, 2002); (c) Catalonia, eastern Aragón and northern Castelló. 
+ 
+ 
+ 
+
+
+Breeding success (small cub litter size) was connected to prey quality and abundance (Figure 
+1 and RUIZ-OLMO ET AL., 2002), and for this reason with altitude (Figure 2), because of a 
+decline in fish availability (biomass and numbers) and prey community diversity (RUIZ-
+OLMO, 1998).  The highest values were found in areas where food diversity was higher 
+(consisting of several fish species and crayfish (Table 1).  In comparison, the smallest litters 
+were found in areas where the diet was almost monospecific (brown trout) and food 
+availability lower due to altitude (RUIZ-OLMO, 1998).  However, it is also true that in some 
+areas of the Mediterranean, e.g., the rivers of the Ebro basin, where the otter’s diet diversity 
+was high (based on fish and crayfish, which at certain times can be highly abundant), litters 
+were smaller than in other areas with similar diet.  In such cases, the effect of drought appears 
+to be the most important factor in explaining this.  The availability (and biomass) of the main 
+sources of prey is affected by the lack of water, just at the time when they, the prey species, 
+should be most abundant (BEJA, 1995; RUIZ-OLMO ET AL., 2002, in press c).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure. 1: Relationship between the size of small cub litters and the variety of the otter diet (number of main 
+species in diet, over 5%) in the Iberian peninsula (freshwater and marine habitats), including only localities with 
+sufficient sample size. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: Relationship between the size of small cub litters and  altitude for freshwater habitats of the Iberian 
+Peninsula (including only localities with sufficient sample size). 
+ 
+y = 1,9511x - 0,5169
+R = 0,77; P = 0.016
+0
+1
+2
+3
+4
+5
+6
+1
+1,5
+2
+2,5
+3
+Litter size (small cubs / female)
+Main prey species (> 5%) 
+y = -354,29x + 1064,8
+R = 0,85; P = 0.015
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+0,8
+1,3
+1,8
+2,3
+2,8
+Litter size (small cubs / female)
+Altitude (m)
+
+
+ 
+4   SEASONAL BREEDING PATTERNS AND RESOURCES 
+ 
+From a general view, L. lutra was capable of breeding throughout the year in the Iberian 
+Peninsula but, locally, breeding was seasonal (Table 1).  Birth distribution patterns of otters 
+corresponded also to variations in abundance of food resources in space and time (Table 1), as 
+previously reported in northern Europe (KRUUK, CONROY AND MOORHOUSE, 1987; 
+HEGGBERGET, 1993; HEGGBERGET AND CHRISTENSEN, 1994; KRUUK, 1995; ELMEROS AND 
+MADSEN, 1999; CONROY AND BACON, 2005).  The emergence of cubs outside the dens, at 2-3 
+months old, coincided with peaks of biomass of main species in the environment.  Even if the 
+regulating-species were different in each case (Table 2) and the temporal pattern changed in 
+these different areas, the availability of food resources when the cubs were 2-3 months old, 
+seemed to be particularly important for their survival and breeding patterns, as suggested by 
+HEGGBERGET, (1993) in Norway and KRUUK (1995) in Shetland.  At about this age, cubs 
+begin to venture out of the dens, start to take solid food, and increase their energy needs 
+through movement (MASON AND MACDONALD, 1986; HEGGBERGET, 1993; DURBIN 1996; 
+KRUUK, 1995).  HEGGBERGET, (1993) suggests a mechanism based on the polyoestrous 
+pattern of otter breeding.  The ability of the otter to be ready to breed throughout the whole 
+year, but synchronising births with maximum food availability, is a good strategy for reducing 
+the risk of mistaking the time of greatest energy need and losing the litter in a highly 
+unpredictable setting (NEGUS AND BERGER 1987; PHILIPPI AND SEGER 1989; HEGGBERGET, 
+1993).  
+ 
+ 
+5   HABITAT FOR REARING CUBS AS A LIMITING FACTOR 
+ 
+RUIZ-OLMO ET AL (2001b) showed, a narrow relationship between the number of litters using 
+a stretch of water and the fish abundance in such areas for a number of rivers in north east 
+Spain.  This relationship was also true for the number of cubs present at each stretch. In both 
+cases, an asymptotic value was found of 3-5 cubs or two litters per 10-12 kilometres stretch of 
+water.  So, again otters seemed to be food-limited (KRUUK AND CARSS, 1996), but other 
+complimentary causes may also affect the use of resources. Behavioural avoidance seems to 
+be the complimentary suitable explanation for this.  So ‘good habitat’ for rearing litters 
+appears to be an important ‘property’, excluding other litters for competition for feeding or 
+other resources.  
+Some studies have been carried out in north eastern Spain to describe and study such 
+kinds of ‘good habitats’. RUIZ-OLMO ET AL. (in press a) have shown how females rearing 
+small cubs selected special stretches of water:  the deepest, with more pools and calm waters, 
+a greater abundance of food and a greater availability of potential and complex dens.  So, 
+during this period of breeding, females have selected patches with abundant food (decreasing 
+the foraging time needs and probably the home range size), shelter and cover (to reduce 
+danger of predation), water abundance (to avoid effects of droughts and it is easier for them to 
+learn to swim) and with less danger of cubs dying because floods.  In other words, trying to 
+ensure the cubs’ survival and declining the mortality rate.  RUIZ-OLMO ET AL. (in press b) 
+demonstrated a low mortality rate during this time, when using rich small patches, both for 
+small and large cubs. 
+But patches to rear small cubs (and also large cubs) can be a limiting factor (RUIZ-
+OLMO ET AL., in press a), so females must actively look for such habitat. 
+ 
+ 
+
+
+Table 2: Characteristics of the key species controlling otter breeding in some areas of the Iberian Peninsula. 
+ 
+ 
+Area 
+Habitat 
+Key species controlling 
+breeding 
+Abundance in diet (%) 
+during peaks 
+Average weight in 
+studied areas  
+(g) 
+Maximum weight in 
+study areas (g) 
+Calorific value 
+(kJ/g wet 
+weight) d 
+ 
+% of the key species in 
+the fish community 
+(except for crayfish) at 
+2 month old cubs time 
+Abundance in patches 
+at 2 moth old cubs 
+period 
+ 
+Coastal 
+Corkwing wrasse 
+(Symphodus melops) a 
+57  
+(biomass) 
+51.0 
+? 
+? 
+81.2 % 
+(angled) 
+20 – 25 catch.hour-1.day-
+1 
+ 
+South 
+west 
+Portugal
+a 
+ 
+Lowland 
+Mediterranean 
+rivers and streams 
+Eel  
+(Anguilla anguilla) a 
+40 – 50 
+(energetic value) 
+10 – 20 
+ (prey –items) 
+20.5 
+2.500  
+(up to 10.000) 
+5.06 – 6.08 
+27.5 % 
+(biomass) 
+ 
+3 – 5 g.m-2 
+High Pyrenees 
+Brown trout  
+(Salmo trutta) b, c 
+67.2 – 100 
+(prey-items) 
+50-150 
+2.000 
+5.82 – 6.02 
+98 - 100 % 
+ 
+Ebro’s barbel  
+(Barbus graellsii) b, c 
+53.7 – 76  
+(prey-items) 
+53 – 259 
+2.500 
+5.38 +- 1.08 
+54 - 99 %  
+(biomass) 
+ 
+North 
+east 
+Spain. 
+Ebro 
+basinb, c 
+ 
+ 
+Prepyrenean and 
+Mediterranean 
+rivers.  
+American crayfish 
+(Procambarus clarckii) a, 
+b, c 
+37.5 – 58. 7 
+(prey-items) 
+5 – 30 
+70 
+3.99 –4.1 
+? 
+>15 catch.hour-1.day-1 
+ 
+(a) BEJA (1995, 1996); (b) RUIZ-OLMO AND  PALAZÓN  (1997),  (c ) RUIZ-OLMO ET AL. (2001, 2002) , (d) NORMAN (1963), ELLIOT (1976), CUMMING AND WUYCHECK (1979), NELSON AND& 
+KRUUK (1997), BEJA (1995), RUIZ-OLMO, SANTIPALLI AND BLASCO (Unpublished data)   
+ 
+ 
+
+
+6   AREAS FOR PRE-DISPERSAL CUBS: REDUCING MORTALITY 
+ 
+Recently RUIZ-OLMO ET AL. (in press b) found that females with large cubs from the Spanish 
+Pyrenees, were also selecting special rich patches for food and shelter and largely reducing 
+the home range size.  As a result of this, mortality rate during the pre-dispersal time was 
+especially low.  Large cub litters from rivers Noguera Ribagorçana and Noguera Pallaresa 
+(Lleida) were found more often than expected at the heads of reservoirs (very rich in prey 
+during fish migrations and spawning), river complex sections (meanders and islands), wider 
+stretches, rough waters, areas with caves and rocky holt systems. Small cub litters were 
+detected more often at narrow stretches and calm (less than 0.5 m3/sec) waters.  
+The ability of females to find and select such patches could be of significant 
+importance in our understanding of otter breeding in different habitats.  Part of our current 
+research is focusing on these areas because this is not an unusual situation. From a total of 27 
+north eastern Spain large cub litters detected in recent years, 33.3 % were found at the heads 
+of a reservoir, despite this being a very rare habitat (RUIZ-OLMO ET AL., in press b).  
+Considering only large litters from the Pyrenees (n=17), this percentage rises to 47.1 %, all 
+the remaining litters being observed at rivers.  Such results confirm the general importance of 
+these types of areas.  However, large cub litters could select other attributes in other 
+conditions, for example natural rivers or streams, lakes, marshes or marine habitats.  
+Description, location and conservation of such patches are essential tasks. Presently, 
+RAFAEL ROMERO (personal communication) is carrying out his PhD on coastal otters of 
+Galicia (north west Spain), where large litters also seem to use a similar kind area in coastal 
+lagoons for pre-dispersal large cubs. 
+ 
+ 
+7   KEY PREY SPECIES FOR BREEDING 
+ 
+As with seasonal breeding, RUIZ-OLMO ET AL. (2002) has shown the importance of certain 
+prey species in the regulation of breeding success, habitat use and selection, and otter 
+abundance. Large Iberian barbels (genus Barbus) [in north east Spain, mainly Barbus 
+graellsii], particularly migrating reproductive fish appear to be the main factor regulating 
+otter breeding in most of the stable rivers of the Iberian Peninsula (Tables 1 and 2).  These are 
+medium-sized fish (average body mass of reproductive B. graellsii ranging for example from 
+53 to 259 grams but often reaching more than two kilogrammes; being very abundant at the 
+time of otter breeding, when they are also easy to catch (Table 2).  So the abundance and 
+availability of the species could possibly be responsible, at least in part, for controlling otter 
+breeding.  However, this is a fish which is badly affected by droughts and this may also be 
+responsible for the problems that otters have in breeding during the droughts of spring and 
+summer (RUIZ-OLMO ET AL., 2001b, 2002). 
+The Iberian Peninsula is a large and diverse region, so we can find other key prey 
+species with a similar role (Table 2).  The most widespread is the American crayfish 
+(Procambarus clarckii), sharing habitat with the precedent fish.  This is a smaller prey 
+species, but with a very high availability in many patches (BEJA, 1995, RUIZ-OLMO ET AL., 
+2002).  It is a new invasive species which is probably occupying the niche of the native now-
+endangered crayfish species (Austrapotamobius pallipes), which was formerly a main species 
+in otter diet (CALLEJO, 1998; RUIZ-OLMO AND PALAZÓN, 1997).  Perhaps this was also the 
+case of the eel (Anguilla anguilla), now restricted to low altitude rivers and streams, 
+downstream of dams.  This was the controlling species in streams of south west Portugal, and 
+seems also to be one of the main factors controlling the breeding of otters in the lowlands of 
+other parts of Portugal, south west Andalusia, Galicia, Asturias, and Cantabria, according also 
+
+
+to its importance in the otter diet in such regions (CALLEJO, 1994; GOMES, 1998; CLAVERO ET 
+AL., 2003; MÓNICA RODRÍGUEZ, personal communication).  The dramatic decline of salmon 
+and sea trout has also had a significant influence on this. 
+Finally, BEJA (1995, 1996) identified the importance of the corkwing wrasse 
+(Symphodus melops) for breeding of coastal Atlantic otters, as KRUUK (1995) demonstrated 
+with eelpout (Zoarces viviparus) and rocklings (Ciliata) in Shetland.  Such small fish (BEJA, 
+1995) seemed to be the more favoured in these habitats, being again the most common and 
+abundant, with the exception of the different eel species.  However, very little is known about 
+temporal changes and substitute species during shortages of the controlling species. 
+ 
+8   FUTURE LINES OF RESEARCH  
+ 
+The pattern of otter breeding in the Mediterranean countries follows a similar pattern to 
+elsewhere in Europe, with food availability being a main factor regulating this. However, the 
+main differences are related to water limitation, and the shortages originating from this.  More 
+research is needed in order to define accurately the actual mechanisms and energetic balance 
+of breeding.  Also the role of fluctuations and inter-annual changes should be studied.  
+Finally, the study of natal and cub rearing areas must be undertaken because of its importance 
+in the design of conservation areas.   
+ 
+9   ACKNOWLEDGEMENTS  
+ 
+We are grateful for the help of Victòria Asensio, Juan Jiménez, José María López-Martín, 
+Diego Martínez, Antoni Margalida, Josep Maria Olmo-Vidal and Santiago Palazón. Jim 
+Conroy helped to make the manuscript more understandable. 
+ 
+ 
+10   REFERENCES  
+ 
+ADRIAN, M.I. & DELIBES, M. 1987. Food habits of the otter (Lutra lutra) in two habitats of the Doñana National 
+Park, south west Spain. Journal of Zoology, London, 212: 399-406. 
+ANSORGE, H., ZINKE , R. & ZINKE, O. 1997. Population structure of otters, Lutra lutra. Parameters and model 
+for a Central European region. Zeitschrift für Säugetierkunde, 62: 143-151.  
+BARTOLOMÉ, M.A. 2000. Alimentación de la Nutria (Lutra lutra) en el río Bergantes (Castellón). Dugastella, 1: 
+35-42. 
+BEJA, P.R. 1995. Patterns of Availability and use of Resources by Otters (Lutra lutra L.) in south west Portugal. 
+Ph.D. Thesis. University of Aberdeen, Aberdeen. 
+BEJA, P.R. 1996. Temporal and spatial patterns of rest-site use by four female otters Lutra lutra along the south 
+west coast of Portugal. Journal of Zoology, London, 239: 741-753. 
+CALLEJO, A. 1994. Ecología Trófica de la Nutria (Lutra lutra L.) en Aguas Continentales de Galícia y de la 
+Meseta Norte. Ph.D. Thesis. University of Santiago, Santiago de Compostela. 
+CHANIN, P. R F.  1985. The Natural History of Otters. Croom Helm, London. 
+CLAVERO, M., PRENDA, J., BLANCO, P., REBOLLO, A., VALLE, J., NARVÁEZ, M., BARRIOS, L. & DELIBES,   
+M.  2003. Tesoros naturales de los ríos del Campo de Gibraltar. Quercus, 193: 14-19.  
+CONROY, J.W.H. & BACON, P.J. 2005. Seasonal breeding in Eurasian otters (Lutra lutra) with specific 
+reference to Scotland. (In: The Return of the Otter in Europe – where and how? Sabhal Mor Ostaig, Isle of Skye 
+30 June – 5 July 2003. (Edited by Conroy, J.W.H., Yoxon, G., Gutleb, A.C. & Ruiz-Olmo, J.) xx-xx.  
+International Otter Survival Fund, Broadford, Isle of Skye.    
+CUMMINS, K.W., & WUYCHECK, J.C. 1971. Caloric equivalents for investigations in ecological energetics. 
+Mitteilung Internationale Vereinigung fur Theoretische und Angewandte Limnologie, 18: 1-158. 
+DE SILVA, P.K. 1991. Aspects of Behaviour and Ecology of Old World Otters. A review. In:  Proceedings of the 
+Fifth International Otter Colloquium, Hankensbüttel 1989. (Edited by Reuther, C & Röchert, R.) Habitat, 6: 95-
+106. 
+
+
+DULFER, R. & ROCHE, K. 1998. First Phase Report of the Trebon Otter Project. Council of Europe.  Nature 
+and Environment, 93: 1-142. 
+DURBIN, L.S. 1996. Some changes in the habitat use of a free-ranging female otter Lutra lutra during breeding. 
+Journal of Zoology, London, 240: 761-810. 
+ELMEROS, M. & MADSEN, A.B. 1999. On the reproduction biology of otters (Lutra lutra) from Denmark. 
+Zeitschrift für Säugetierkunde, 64: 193-200.  
+ERLINGE, S. 1967. Home range of the otter Lutra lutra L. in southern Sweden. Oikos,18: 186- 209. 
+GITTLEMAN, J.L. & OFTEDAL, O.T. 1987. Comparative growth and lactation energetics in carnivores.  
+Symposia of the Zoological Society of London, 57: 41-77. 
+GOMES, N.,  1998. Distribuçao e Ecologia Trófica da Contra (Lutra lutra) na Ria de Aveiro. Mestrado Thesis. 
+University of Porto, Porto. 
+HARPER, R. 1981   Sites of three otter (Lutra lutra) breeding holts in freshwater habitats. Journal of Zoology, 
+London, 195: 554-556. 
+HAUER, S., ANSORGE, H. & ZINKE, O. 2002. Reproductive performance of otters Lutra lutra (Linnaeus, 1758) 
+in Eastern Germany: low reproduction in a long-term strategy. Biological Journal of the Linnean Society, 77: 
+329-340. 
+HEGGBERGET, T.M. 1988. Reproduction in the female European otter in central and northern Norway.  Journal 
+of Mammalogy, 69: 169-167. 
+HEGGBERGET, T.M. 1993. Reproductive Strategy and Feeding Ecology of the Eurasian Otter Lutra lutra. Dr.Sc. 
+Thesis. University of Trondheim, Trondheim. 
+HEGGBERGET, T.E., & CHRISTENSEN, H. 1996. Reproductive timing in Eurasian otters on the coast of Norway. 
+Ecography, 17: 339-348.  
+IVERSEN, J.A. 1972. Basal energy metabolism of mustelids. Journal of Comparative Physiology, 81:  341-344. 
+JENKINS, D. 1980. Ecology of otters in northern Scotland. I. Otter (Lutra lutra) breeding and dispersion in mid 
+Deeside, Aberdeenshire in 1974-79. Journal of Animal Ecology, 49: 713-735. 
+JIMÉNEZ, J. & LACOMBA, I. 1991. The influence of water demands on otter (Lutra lutra) distribution in 
+Mediterranean Spain. . In: Proceedings of the Fifth International Otter Colloquium, Hankensbüttel 1989. (Edited 
+by Reuther, C & Röchert, R.) Habitat, 6: 249-255.  
+JIMÉNEZ, J. & RUIZ-OLMO, J.  in press. Assessing linear home ranges and movements in the Euroasiatic otter 
+(Lutra lutra), influence of sex, age and methods: a case study in Mediterranean rivers. Journal of Mammalogy. 
+JORGA, W., STUBBE, A., & ZINKE, R. 1989. Beiträge zur Reproduktion und Aktivität des Fischotters Lutra lutra 
+(L., 1758) im Tiergarten Hoyerswerda und im Lausitzer Teichgebiet. Populationsökologie Marderartiger 
+Säugetiere,1: 155-180. 
+KRUUK, H. 1995. Wild Otters. Predation and Populations. Oxford University Press, Oxford. 
+KRUUK, H., & CARSS, D.N. 1996. Costs and benefits of fishing by semi-aquatic carnivore, the otter Lutra lutra. 
+In: Aquatic Predators and their Prey. (Edited by Greenstreet, S.P.R. and Tasker, M.L.) Pp. 10-16. Fishing News 
+Books, Oxford. 
+KRUUK, H., CONROY, J.W.H. & MOORHOUSE, A. 1987. Seasonal reproduction, mortality and food of otters 
+(Lutra lutra L.) in Shetland. Symposia of the. Zoological  Society of London,  58: 263-278. 
+MCNAB, B.K. 1989. Basal rate metabolism, body size, and food habits in the Order Carnivora. In:  Carnivore 
+Behaviour, Ecology, and Evolution. (Edited by Gittleman, J.L.) Pp. 335-254. Chapman and Hall, London. 
+MASON, C.F. & MACDONALD, S.M. 1986. Otters. Ecology and Conservation. Cambridge University Press, 
+Cambridge.  
+NELSON, K. & KRUUK, H. 1997. The prey of otters: calorific content of eels (Anguilla anguilla) and other fish, 
+frogs (Rana temporaria) and toads (Bufo bufo). IUCN Otter Specialist Group Bulletin, 14:  75-80. 
+NEGUS, N.C. & BERGER, P.J. 1987. Mammalian reproductive physiology. Adaptive responses to changing 
+environments. Current Mammalogy, 1: 149-173.  
+NOLET, B.A. & KRUUK, H. 1994. Hunting yield and daily food intake of a lactating otter (Lutra lutra) in 
+Shetland. Journal of Zoology, London, 233: 326-331. 
+NORMAN, J.R. 1963. A History of Fishes. Ernest Benn Ltd., London. 
+OFTEDAL, O.T. & GITTLEMAN, J.L. 1989. Patterns of energy output during reproduction in Carnivores. In: 
+Carnivore Behaviour, Ecology, and Evolution. (Edited by Gittlemann J.L.) Pp.355-368. Chapman and Hall, 
+London. 
+PHILIPPI, T. & SEGER, J. 1989. Hedging one’s evolutionary bets, revisited. Trends in Ecology and Evolution, 4: 
+41-44. 
+PRENDA, J., LÓPEZ-NIEVES, P. &  BRAVO, R. 2001. Conservation of otter Lutra lutra in a Mediterranean area: 
+the importance of habitat quality and temporal variation in water availability. Aquatic Conservation: Marine and 
+Freshwater Ecosystems, 11: 343-355. 
+REUTHER, C. 1980. Der Fischotter, Lutra lutra L. in Niedersachsen. Naturische. Landschein Niedersachsen, 
+11:1-182.  
+
+
+RÖBIN, K. 1989. Haltung und Zucht des Fischotters Lutra lutra in Zoologischen Gärten: Ein Überblick. 
+Populationsökologie Marderartiger Säugetiere, 1: 181-192. 
+RUIZ-OLMO, J. 1994. Reproducción y observación de grupos de nutria (Lutra lutra L.) en el Norte de España. 
+Miscellania Zoologica. 17: 225-229.  
+RUIZ-OLMO, J. 1995. Estudio Bionómico sobre la Nutria(Lutra lutra L., 1758) en Aguas Continentales de la 
+Península Ibérica. Ph.D. Thesis. University of  Barcelona, Barcelona. 
+RUIZ-OLMO, J.  1998. Influence of altitude on the distribution, abundance and ecology of the otter (Lutra lutra). 
+In: Behaviour and Ecology of Riparian Mammals. (Edited by Dunstone, N. and Gorman, M.) Symposia of the 
+Zoological Society of London, 71: 159-176. 
+RUIZ-OLMO, J. 2001. Pla de Conservació de la Llúdriga a Catalunya: Biologia i conservació. Generalitat de 
+Catalunya, Departament de Medi Ambient, Documents dels Quaderns del Medi Ambient, 6: 1-87. 
+RUIZ-OLMO, J. 2005.  Otters in the Mediterranean countries. (In: The Return of the Otter in Europe – where and 
+how? Sabhal Mor Ostaig, Isle of  Skye 30 June – 5 July 2003. (Edited by Conroy, J.W.H., Yoxon, G., Gutleb, 
+A.C. & Ruiz-Olmo, J.) xx-xx.  International Otter Survival Fund, Broadford, Isle of Skye.    
+RUIZ-OLMO, J. & DELIBES, M. 1998. La Nutria en España ante el Horizonte del Año 2000. Sociedad Española 
+para la Conservación y el Estudio de los Mamíferos, Málaga. 
+RUIZ-OLMO, J., DELIBES, M. & ZAPATA, S.C. 1998. External morphometry, demography and mortality of the 
+otter Lutra lutra (Linneo, 1758) in the Iberian Peninsula. Galemys, 10 (número especial): 239-251. 
+RUIZ-OLMO, J., BATET, A., JIMÉNEZ, J. & MARTÍNEZ, D. in press a. Habitat selection of females and small 
+cubs of Eurasian otters (Lutra lutra L.) in south western European Mediterranean freshwater habitats. Lutra, 
+RUIZ-OLMO, J., MARGALIDA, A. & BATET, A. in press b. Use of small rich patches by Eurasian otter (Lutra   
+lutra L.) females and cubs during the pre-dispersal period. Journal of Zoology, London 
+RUIZ-OLMO, J., JIMÉNEZ, J., CHACÓN, W. & MARTINÍNEZ, D. in press c. The importance of ponds for the otter 
+(Lutra lutra) during droughts periods in Mediterranean ecosystems: A case study in Bergantes river. Aquatic 
+Conservation: Marine and Freshwater Ecosystems. 
+RUIZ-OLMO, J. , JIMÉNEZ, J.,  PALAZÓN, S.  & LÓPEZ-MARTÍN, J.M. 2001a. Ecologie et conservation de la 
+loutre (Lutra lutra) et du vison d’Europe (Mustela lutreola) aux milieux Mediterranèes. In: L’Etude et la 
+Conservation des Carnivores. (Edited by Chapron, G. and Moutou, F.) Pp. 104-112. Société Française pour 
+l’Étude et la Protection des Mammifères: Paris.  
+RUIZ-OLMO, J., LÓPEZ-MARTÍN, J.M. & PALAZÓN, S. 2001b. The influence of fish abundance on the otter 
+(Lutra lutra) populations in Iberian Mediterranean habitats. Journal of Zoology, London, 254: 325-336. 
+RUIZ-OLMO, J.,  OLMO-VIDAL, J.M., MAÑAS, F. &  BATET, A.  2002. Influence of seasonality of resources on 
+the Eurasian otter (Lutra lutra L.) breeding patterns in Mediterranean habitats. Canadian Journal of Zoology, 80: 
+2178-2189. 
+RUIZ-OLMO, J. & PALAZÓN, S. 1997. The diet of the European otter (Lutra lutra L.) in Mediterranean 
+freshwater habitats.  Journal of Wildlife Research, 2: 171-181. 
+SIDOROVICH, V.E. 1991. Structure, reproductive status and dynamics of the otter population in Byelorussia. 
+Acta Theriologica, 36:153-161. 
+SIDOROVICH, 
+V.E. 
+1997. 
+Mustelids 
+in 
+Belarus. 
+Evolutionary 
+Ecology, 
+Demography 
+and 
+Interspecific_Relationships. Zoloty uley publisher, Minsk. 
+SIDOROVICH, V.E. & TUMANOV, I.L. 1994. Reproduction in otters in Belarus and north western Russia.  Acta 
+Theriologica, 39: 59-66. 
+STEPHENS, M. 1957. The Natural History of the Otter. UFAW, London. 
+STUBBE, M. 1969. Zur Biologie und zum Schutz des Fischotters Lutra lutra (L.). Arch. Naturschutz 
+Landschaftsforsch, 9: 315-324. 
+STUBBE, M. 1989. Verbreitung und Ökologie des Fischotters Lutra lutra (L. 1758) in der DDR. 
+Populationsökologie Marderartiger Säugetiere, 1: 9-12. 
+WIJNGAARDEN, A. VAN & PEPPEL, J. VAN DE 1970. De otter, Lutra lutra (L.) in Nederland. Lutra, 12:  3-70. 
+WLODECK, K. 1980. Der Fischotter in der Provinz Zachodnie (West-Pommern) in Polen. In:  Der Fischotter in 
+Europa. Verbreitung, Bedrohung, Erhaltung (Edited by Reuther, C. and Festetics, A) Pp. 187-194. Selbstverlag, 
+Oderhaus, Göttingen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

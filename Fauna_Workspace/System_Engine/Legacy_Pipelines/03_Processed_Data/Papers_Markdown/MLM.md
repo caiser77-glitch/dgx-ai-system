@@ -1,0 +1,985 @@
+--- 
+source: MLM.pdf
+--- 
+
+1
+LABORATORY MANUAL
+FOR MAMMALOGY
+
+
+2
+The Skull
+Skull morphology provides important information for identifying mammals and
+understanding their biology.  Familiarize yourself with the basic elements and landmarks of the
+mammalian skull, as exemplified in a dog or horse skull.
+Be sure to find the following bones and landmarks:
+Bones
+nasal
+frontal
+lacrimal
+parietal
+premaxilla
+squamosal
+maxilla
+occipital (supraoccipital, exoccipital, basioccipital)
+palatine
+dentary
+pterygoid
+alisphenoid
+jugal
+Landmarks
+narial opening
+infraorbital foramen
+orbit
+lacrimal foramen
+(secondary) palate
+alisphenoid canal
+supraorbital process
+foramen ovale
+postorbital process
+foramen magnum
+internal nares
+zygomatic arch
+glenoid (mandibular) fossa
+sagittal crest/temporal fossa
+nuchal crest
+occipital condyle
+auditory bulla
+mandibular symphysis
+coronoid process
+mandibular condyle
+angle of mandible
+
+
+3
+
+
+4
+
+
+5
+Postcranial skeleton
+The rest of the skeleton apart from the skull is known as the postcranial skeleton.
+Postcrania can be important for distinguishing different types of mammals and for understanding
+their locomotion.
+Familiarize yourself with the following bones and their indicated landmarks:
+Vertebrae
+Atlas and axis: first two cervicals
+Cervical: possess transverse foramina
+Thoracic: attached to ribs
+Lumbar: stout lower back vertebrae
+Sacral: connected to the pelvis usually fused into a single element, the sacrum
+Caudal: tail vertebrae
+Spinous process (neural spine)
+zygapophyses: the processes that form the joints between vertebrae
+ribs
+clavicle
+scapula
+innominate (pelvic bone)
+glenoid fossa
+(actually three bones: ilium, ischium, pubis)
+spine
+acetabulum
+humerus
+femur
+radius
+greater, lesser, and third trochanters
+ulna
+tibia
+carpals
+medial malleolus
+metacarpals
+fibula
+phalanges
+patella
+tarsals
+astragalus
+calcaneum
+metatarsals
+phalanges
+Atlas and axis: first two cervicals
+
+
+6
+Cervical: possess transverse foramina 
+Thoracic: attached to ribs
+Lumbar: stout lower back vertebrae
+Sacral: connected to the pelvis; 
+Caudal: tail vertebrae
+usually fused into a single element, the sacrum
+
+
+7
+Rib
+scapula
+clavicle
+
+
+8
+humerus 
+radius
+ulna
+innominate (pelvic bone) (actually three bones: ilium, ischium, pubis)
+
+
+9
+femur and patella
+tibia
+fibula
+manus
+pes
+
+
+10
+TEETH
+In this lab you will learn about the morphology of mammalian teeth.  By the end of this
+lab, you should be able to 1) identify the different types of teeth in the mammalian dentition, 2)
+determine dental formulae for various mammals, 3) identify the different cusps on molars of
+various mammals, and 4) understand how molars are modified for different diets.
+Terms to Know for This Lab
+Anterior: towards the front of the mouth.  Incisors are the most anterior teeth.
+Posterior: towards the back of the mouth.  Molars are the most posterior teeth.
+Labial or Buccal: towards the lip or cheek.  Generally this means the outer side of the teeth.
+Remember that, unlike you, the lips of most mammals extend back along the side of the mouth.
+Lingual: towards the tongue.  Generally this means the inner side of the teeth.
+Occlusal: referring to the "top" of the teeth, the part involved with chewing.  The occlusal
+surface of an upper tooth contacts the occlusal surface of the corresponding lower tooth during
+chewing.  Occlusal view is the view of the chewing surface of a tooth.
+Deciduous: referring to the first generation of teeth, i.e., your "baby" teeth.  Adult teeth usually
+replace these teeth around the time of weaning; thus they are sometimes called milk teeth.
+Where You Find Teeth
+Mammals have teeth in three different bones.  Upper teeth are found in the premaxilla
+and maxilla; all lower teeth are found in the dentary.
+The Types of Mammalian Teeth
+Most mammals have a heterodont dentition, meaning that different teeth in the jaw have
+different shapes, and, therefore, functions.  We identify these different tooth types by several
+criteria, namely position, shape, and whether or not they are replaced.  The four types of teeth are
+incisors, canines, premolars, and molars.
+Incisors: When present, these are the anteriormost teeth.  Upper incisors are always found in the
+premaxilla.  The incisors of many mammals, such as yours, are designed for nipping off bits of
+food, but many variations exist.  Incisors are usually replaced.
+Canines: When present, canines lie right behind the incisors.  Upper canines are therefore the
+anteriormost teeth in the maxilla.  Canines are generally conical, pointy teeth used for holding
+onto prey and in defense or intraspecific combat.  The size of canines differs among mammals,
+usually being largest in carnivores, whereas many herbivorous mammals have small canines or
+have lost them altogether.  Canines are usually replaced.
+Premolars and molars: Premolars and molars are together referred to as the cheek teeth.  Both
+types of teeth are usually specialized for grinding or processing food items before swallowing.
+Both types of upper teeth are found in the maxilla.  Premolars are posterior to canines, and
+molars are posterior to premolars.  Some premolars are replaced, whereas molars are never
+
+
+11
+replaced.  In fact molars are defined as the unreplaced teeth that are posterior to the last replaced
+tooth.
+Molars are often more similar to deciduous premolars than to adult premolars, and you can
+actually think of molars as part of the deciduous generation that comes in late and is never
+replaced.
+Dental Formulae
+The number of each type of tooth differs from taxon to taxon.  In some cases, the number
+of a type of tooth differs in the upper and lower jaws of the same species, but right and left are
+always the same.  Thus, we can characterize each mammal taxon by a dental formula,
+representing the number of incisors, canines, premolars, and molars found in each half (right or
+left) of the upper and lower jaws.  We write this formula as I n/n C n/n P n/n M n/n.  I, C, P,
+and M refer to the four types of teeth (incisor, canine, premolar, and molar), and n/n refers to the
+number of upper and lower teeth of each type found on one side.
+As an example, consider our own dentition.  Humans have a total of 32 teeth (including
+wisdom teeth), 16 in the upper jaw and 16 in the lower jaw.  Of course, the 8 teeth on the right
+side of your upper jaw are basically a mirror image of the 8 on the left, and the same can be said
+of the lower jaw.  Thus, the dental formulae reflects the 16 teeth (8 upper, 8 lower) found on
+each side and looks like this: I 2/2 C1/1 P 2/2 M 3/3.  It just so happens that humans have the
+same number of each tooth type in their upper and lower jaws, but this is not the case for every
+mammal.  Here, for instance, is the dental formula of an opossum: I 5/4 C 1/1 P 3/3 M 4/4.
+The different dental formulae that we observe today are thought to be derived from an
+ancestral mammal that had the following formula: I 5/4 C 1/1 P 4/4 (or P 5/5) M 3/3.  We can
+also make inferences about which particular teeth have been lost in various mammals.  In order
+to identify a particular tooth position, or locus, we number each tooth according to its type, with
+the numbers going from anterior to posterior.  Capital letters indicate upper teeth, and lowercase
+indicates lower teeth.  Thus, your upper molars are numbered M1, M2, and M3, whereas your
+lower molars are m1, m2, and m3.  Compared to the primitive formula, we have lost some
+incisors and premolars.  It is thought that the incisors were lost from the posterior end, whereas
+the premolars were lost from the anterior end.  Thus, our upper teeth are considered to be I1, I2,
+C1, P3, P4, M1, M2, and M3; our lowers are i1, i2, c1, p3, p4, m1, m2, and m3.  Deciduous
+teeth are indicated by a lowercase "d", e.g., dP4 would refer to the deciduous fourth upper
+premolar.
+Molar Morphology
+Cheek teeth show a wide variety of specializations among mammals.  Many species can
+be identified by the morphology of a single molar.  In order to understand the evolution of
+mammalian molars, it is important to be able to recognize homologous structures on teeth.
+Looking at the occlusal surface of a molar, its topography is made up of little hills, valleys, and
+ridges.  The "hills" or bumps we call cusps; the ridges we call lophs.  All mammalian teeth can
+ultimately be derived from a primitive pattern of cusps that we call the tribosphenic molar.
+
+
+12
+Tribosphenic molars are basically triangles of three cusps (plus an extra pair on the lower
+molars), but the upper and lower triangles are reversed in their orientation.
+Examine the morphology of an upper tribosphenic molar in an opossum.  Make sure you
+can identify the following cusps: protocone, paracone, and metacone.  Note the orientation of
+the triangle that they form.  Next, examine the lower molar of an opossum.  Identify the
+following cusps: protoconid, paraconid, metaconid, entoconid, and hypoconid.  Note the
+orientation of the triangle formed by the protoconid, paraconid, and metaconid.  This triangle is
+called the trigonid.  The entoconid and hypoconid form a "heel" to the tooth that is called the
+talonid.  Note that the talonid forms a deep depression, called the talonid basin.  The protocone
+fits into the talonid basin during chewing.  Observe this when you move the jaws of the opossum
+skull together.
+Many mammals have added cusps to the tribosphenic pattern in order to increase the
+chewing surface.  The hypocone is present in many mammals posterior to the protocone.  This
+fourth cusp allows the occlusal surface to form a rectangle.  A similar result is obtained in the
+lower teeth by reducing or losing a cusp, the paraconid.  Examine a number of herbivorous or
+omnivorous mammals and identify the hypocone.
+Examine the teeth of a human skull.  Identify the cusps of the molars.  Note that the cusps
+are low and rounded, compared to those of an opossum.  Compare this condition with that of a
+pig.  Molars with low, rounded cusps are referred to as bunodont.
+Examine the teeth of a dog skull.  Note the large blade-like upper premolar and first
+lower molar.  These teeth are specialized for shearing or slicing and function in a scissors-like
+manner.  They are a specialization for eating meat.  Such teeth are called sectorial.  Note that
+dog upper molars are bunodont and retain the tribosphenic pattern.  Dogs are as much omnivores
+as carnivores.  (Check out the ingredients of dry dog food if you're skeptical.)
+Lophs are present on many mammalian teeth.  The outer (labial/buccal) edge of the molar
+is called the ectoloph.  Many herbivorous mammals possess multiple lophs crossing the tooth so
+that they act like a file or millstone to grind and shred vegetation.  Such teeth are referred to as
+lophodont.  Lophodonty (the condition of being lophodont) has evolved multiple times in
+multiple ways.  Sometimes a loph is formed by building up a ridge between two or more cusps.
+In other cases, a cusp may be stretched into a loph.  In many cases, it is still possible to identify
+the homologues of the cusps of a tribosphenic molar on a lophodont tooth.  Some mammals have
+teeth with numerous lophs that defy any identification of cusps.  Examine some of the lophodont
+teeth on display and identify cusps when possible.
+
+
+13
+Subclass Prototheria
+Order Monotremata
+Two living families of mammals represent the Order Monotremata: Ornithorhynchidae
+(platypuses) and Tachyglossidae (echidnas or spiny anteaters).  Both of these families are found
+only in Australia and New Guinea.  Monotremes are unusual, specialized animals, but they share
+the primitive feature of laying shelled eggs.
+Among other primitive features that monotremes display are their shoulder girdles, which
+resemble those of non-mammalian synapsids and reptiles more than those of other mammals.
+Examine the skeleton of a platypus and of an opossum and note the differences.
+Family Ornithorhynchidae
+Platypuses (Ornithorhynchus anatinus) are semiaquatic and live in streams and rivers, eating
+invertebrates and nesting in bankside burrows.
+Examine the cast of a platypus skull.  Note the bill, which in life would be covered by sensitive
+skin possessing electroreceptors.  The electroreceptors allow the platypus to find prey in murky
+water.  Platypuses have no teeth, but they possess horny plates on their jaws, with which they
+crush their prey.
+Male platypuses possess tarsal spurs, sharp clawlike appendages on their ankles that secrete
+venom, one of the few instances of poison production in mammals.
+Family Tachyglossidae
+Echidnas or spiny anteaters (genera Tachyglossus and Zaglossus) are burrowing animals that
+have a lifestyle similar to that of anteaters in South America.  They use their claws to tear into
+the nests of social insects like termites and ants.  They then lap up the insects using a long sticky
+tongue.  Echidna skulls, like those of other anteaters, are elongate and toothless.
+Echidnas possess thick, sharp spines (in fact modified hairs) for protection.  Echidnas will
+burrow when faced with danger, so that only their spiny backs are exposed, but they can also roll
+into a ball, presenting a predator with nothing but sharp spines. We presently don’t have any
+material of echidnas, but pictures and other information are available in your text.
+
+
+14
+Infraclass Metatheria (Marsupialia)
+Marsupial characteristics
+Examine a skull and the mounted skeleton of an opossum.  A number of features of the skeleton
+distinguish marsupials from other mammals.  Note the following:
+Skull:
+Palatal vacuities: Note the openings in the secondary palate.  All marsupials possess these
+palatal vacuities, but few placental mammals do.
+Alisphenoid bulla: The auditory bulla, which houses the middle ear, is formed (at least in part)
+by the alisphenoid bone only in marsupials.
+Jugal contribution to jaw articulation:  Note that the glenoid fossa, the part of the jaw joint
+found on the skull, is formed mainly by the squamosal but also by a small portion of the end of
+the jugal bone.  This is found in all marsupials, but also in a number of placentals.
+Inflected angle of mandible:  Note that the angle of the lower jaw is inflected, or bent inwards.
+This is characteristic of marsupials.
+Dentition:
+Number of incisors:  Marsupials are classified partly on the basis of the number of incisors they
+possess.  The opposum possesses the primitive number of incisors for marsupials, 5 upper and 4
+lower.  This condition is called polyprotodont.  Marsupials almost always have unequal
+numbers of upper and lower incisors.  Many Australian marsupials are characterized by the
+possession of only a single enlarged incisor in each half of the lower jaw. This condition is called
+diprotodont. Placental mammals never have more than three upper or lower incisors.
+Premolars and molars:  Marsupials commonly possess 3 premolars and 4 molars (upper and
+lower), whereas placental mammals primitively possess 4 premolars and 3 molars.  Of the
+premolars, only the last is replaced.  Note the deciduous premolars still in place in the jaws of the
+juvenile opossum.  Deciduous premolars (“milk” or “baby” teeth) usually look like molars.
+Postcranial skeleton:
+Epipubic bones: The two bones attached to the front of the pubes are the epipubic bones.
+Epipubic bones are characteristic of marsupials and are also found in monotremes and some
+Cretaceous placentals.  Epipubic bones are sometimes called “marsupial” bones, but they are not
+found only in marsupials, and they are found in both sexes, so they are not simply providing
+support for the pouch.
+
+
+15
+Order Didelphimorphia
+Family Didelphidae
+We have representatives in lab of four families of marsupials, Didelphidae, Thylacinidae,
+Macropodidae, and Vombatidae.  Didelphids are commonly called opossums.  They are
+generally arboreal (tree-climbing) and omnivorous.  They are the largest living family of
+marsupials in the western hemisphere, many of them found in South America.
+Local species: Didelphis virginiana
+Numerous examples of the only North American marsupial, the Virginia opossum, are displayed
+in today’s lab.  Opossums are common throughout the eastern United States, including in New
+Jersey, and are thus a local species.
+Didelphids are polyprotodont marsupials; they have more than one lower incisor in each
+mandible.
+Note the skull of Marmosa.  Marmosa is a small didelphid from South America.  What is its
+dental formula?
+Order Dasyuromorpha
+Family Thylacinidae
+The order Dasyuromorpha includes several families of Australian polyprotodont marsupials. The
+most diverse family is the Dasyuridae, which includes a wide variety of insectivorous or
+carnivorous species, including mouse-sized “rat opossums”, cat-sized quolls, and the most
+famous member of the family, the Tasmanian devil, which gets up to 12 kilograms in weight.
+Other dasyuromorph families were at one time included in the Dasyuridae but were then given
+their own families to recognize their distinctiveness from more typical dasyurids. One such
+family is the Thylacinidae, which includes a single genus, Thylacinus, the Tasmanian “wolf” or
+“tiger”, also called the thylacine.
+Now thought to be extinct, thylacines were found on the Australian mainland in prehistoric
+times, but by the time Europeans came to Australia these animals could only be found on the
+large southeastern island of Tasmania. The appearance of a thylacine was generally dog-like,
+with stripes on the hindquarters that inspired the name “tiger”. Thylacines were the largest
+carnivorous marsupials to survive into historical times, and Europeans living in Tasmania
+considered thylacines to be threat to their sheep, so bounties were paid for killed thylacines, until
+no more were left in the wild. The last known living thylacine died in a European zoo at the
+beginning of the twentieth century.
+Thylacines provide one of the most striking examples of parallelism, when species in the same
+group (mammals in this case) evolve similar forms as adaptations to similar lifestyles in different
+locations. The wolves and thylacines independently evolved similar body types, adapted for
+running and hunting large prey, filling similar large carnivore niches on different continents.
+Compare the cast of a thylacine skull with the skull of a wolf. Note the general similarity in
+
+
+16
+shape of the skull, as well as the sectorial teeth. At the same time, you should still be able to
+identify the distinctive marsupial characters (see the beginning of this section) in the thylacine
+specimen.
+Order Diprotodontia
+This order contains the vast majority of the diprotodont marsupials.  Most of these animals are
+herbivorous.
+Family Macropodidae
+One of the diprotodont families of marsupials on display here today is the Macropodidae or
+kangaroos.  Examine the kangaroo skulls on display.  Kangaroos are diprotodont; that is, they
+have only one large lower incisor in each mandible.  Kangaroos share this condition with a
+number of other Australian marsupials, including wombats, koalas, and possums.
+Like most diprotodont marsupials, kangaroos are herbivores.  Examine the teeth of a kangaroo
+skull.  Note that they consist of two transverse crests.  This pattern is termed bilophodont.  Note
+other herbivorous features in this skull, particularly the extra attachments for the masseter (note
+the process sticking off of the front of the zygomatic arch) and the height of the mandibular
+condyle relative to the tooth row.
+Family Vombatidae
+Wombats are fossorial herbivores, sort of analogous to large groundhogs.  Examine the cast of a
+wombat skull.  There is a single incisor on each side of the upper and lower jaws.  Note the
+simple cheek teeth, including one premolar and four two-lobed molars in each quadrant.
+Syndactyly: Diprotodont marsupials are syndactylous, a feature they share with the
+polyprotodont Peramelidae, the bandicoots.  Syndactyly refers to the condition where two digits
+of the foot, in this case digits II and III, share a common skin sheath.  (Digits on the hand and
+foot are identified by Roman numerals, so that the thumb or big toe is digit I, and the pinky or
+pinky toe is digit V.  Note that digits retain their numbers, even if a species has lost a digit; e.g.,
+horses run on their third digits, the only functional digits that they have.)  Thus, syndactyly gives
+the appearance of a digit with two claws.
+Examine the illustrations of syndactylous feet.  Note that the syndactylous digits are often
+reduced in size relative to the others.  Many marsupials use their syndactylous digits for
+grooming.
+Ant-eating (Myrmecophagy)
+A number of different groups of mammals include members that have evolved adaptations for
+eating social insects, e.g., ants and termites.  These insects are very common in tropical regions
+and live in huge colonies, often in enormous nests of dried mud, hard as concrete, but also within
+
+
+17
+vegetation.  Anteating mammals can be found in the Orders Monotremata, Marsupialia,
+Xenarthra, Pholidota, and Tubulidentata, and in several families of the Carnivora, including
+anteating bears, hyaenas, and viverrids.
+Ant-eating, or myrmecophagous, species share a number of specializations.  The most obvious
+is an elongate, tube-like snout that can be more easily probed into the tunnels of termite mounds.
+The snout also contains an extremely long and sticky tongue, with which the numerous insects
+are caught and brought into the mouth.  The teeth of ant-eating mammals are reduced or absent
+(perhaps to eliminate the chance of biting one’s tongue).  Because getting at termites often
+requires digging, most ant-eating mammals have fossorial adaptations (i.e., for burrowing), such
+as strong claws and forelimbs.
+Compare the skulls of the giant anteater, aardvark, and aardwolf.  What adaptations for ant-
+eating can you observe in these skulls?
+Infraclass Eutheria (Placentalia)
+Order Xenarthra
+Xenarthrans are a group of unusual mammals from the Americas, originally from South
+America.  Despite their varied specializations, all xenarthrans share a number of derived features.
+The one that gives them their name is the possession of xenarthrous vertebrae.  The lumbar
+vertebrae of xenarthrans possess additional articulations not found in other mammals.  Note these
+xenarthrous joints on an illustration from your textbook.  Xenarthrans are sometimes referred to
+as edentates, meaning toothless, but whereas anteaters are toothless, sloths and armadillos
+possess teeth, although their teeth have no enamel.
+Family Megalonychidae and Family Bradypodidae
+Sloths are members of these two families.  Both genera of living sloths (Choloepus and
+Bradypus, the two-toed and three-toed sloths, respectively) are slow moving, herbivorous
+creatures that hang from branches by their curved claws and munch leaves all day.  Algae
+growing in their fur provide them with some camouflage in the foliage. Even though their teeth
+are simple, sloths are able to digest leaves, thanks to a multi-chambered stomach that contains
+cellulose-digesting bacteria.
+Fossil sloths include a number of ground-dwelling species, some of which became very large.
+The two genera of living sloths have long been classified in the Family Bradypodidae, but a
+number of studies have determined that Choloepus is actually more closely related to some of the
+ground sloths and should be placed in the Family Megalonychidae.
+Examine the skull of Choloepus. Note that the peg-like teeth have no enamel (just dentine) and
+are difficult to identify as premolars, molars, etc., so it is difficult to determine their dental
+formulae. In fact, the teeth that appear to be canines are likely to be something else, perhaps
+incisors. The upper “canines” of sloths sit in front of the lower “canines” when the jaws are
+closed. Look at the skull of an opossum, wolf, or other mammal with typical canines, and notice
+that the upper canines are placed behind the lower ones when the jaws are closed.
+
+
+18
+Family Dasypodidae
+Armadillos are distinguished by their armor, composed of bony dermal scutes covered by horny
+scales.  Armadilloes are generally fossorial and omnivorous, eating mainly invertebrates.  One
+species, the nine-banded armadillo (Dasypus novemcinctus) is found in the southern United
+States, but most armadillo species are South American.
+Examine the skull of an armadillo. Like sloths, armadillos have peg-like teeth with no enamel
+and little indication as to the dental formula. The specimens in this lab come from the nine-
+banded armadillo.
+Family Myrmecophagidae
+The three species of anteaters are found in Central and South America.  The smallest, the silky
+anteater, is about the size of a squirrel, but the largest, the giant anteater, reaches the size of a
+large dog.
+Examine the cast of a skull of a giant anteater (Myrmecophaga tetradactyla). The skull is
+toothless and has the characteristic long, thin shape found in ant-eating mammal species.
+Order Tubulidentata
+Family Orycteropodidae
+The single species of aardvark (Orycteropus afer) is a mammal whose relationship to other
+mammals is not well understood.  Aardvarks are found in Africa where they feed on termites that
+live in concrete-hard castle-like mounds.  Aardvarks are legendary diggers; one man who
+grabbed an aardvark by the tail in order to catch it within minutes found himself waist deep in
+the hard sun-baked African earth, as the aardvark had attempted to burrow to safety.
+Aardvarks are distinguished from other mammals by their tubular dentine (the source of the
+name for the order); tiny tubes pierce the dentine in their peg-like teeth. Examine the skull of an
+aardvark under a dissecting scope and see if you can see these tubules in the tooth surface.
+
+
+19
+O. Insectivora
+A variety of mammals have been classified as "insectivorans," largely because they were small,
+primitive, or of mysterious affinities.  The Order Insectivora is now restricted to lipotyphlans
+(and the order is sometimes called Lipotyphla).  Lipotyphlans are distinguished from other
+putative insectivorans by the lack of a caecum on the colon.  (The caecum is a blind pouch; it is
+often enlarged in herbivorous mammals like rabbits.)
+Apart from the caecum, few characters unite lipotyphlans as a monophyletic group.  These
+include reduction of the pubic symphysis and reduction of the jugal, as well as some other traits
+that are found in some members of other orders.  Some recent molecular studies have challenged
+the monophyly of Insectivora.
+F. Erinaceidae
+Erinaceids are best known as hedgehogs, although some members that have no spines are known
+as moonrats.  They are found throughout the Old World.  Examine the skull of a hedgehog.  Note
+that the molars are bunodont with a prominent hypocone.  Like marsupials, hedgehogs have
+palatal vacuities.
+F. Soricidae
+Shrews are small predatory mammals that are found on every continent except Australia and
+Antarctica.  Shrews have very high metabolic rates and must eat often in order to provide enough
+energy to live.  This is partly due to their small size, which results in a high surface area-volume
+ratio that causes them to lose heat rapidly.  Some of the smallest mammals in the world are
+shrews, weighing as little as a few grams.  Shrews have large, distinctive incisors, simple
+premolars (often referred to as unicuspids), and dilambdodont molars.
+Local species: Blarina brevicauda, short-tailed shrew
+Local species: Sorex cinereus, masked shrew
+Local species: Sorex palustris, water shrew
+New Jersey is the home to several species of shrews, two of which are displayed here.  Blarina
+brevicauda is the most common shrew that you might encounter, as it often falls prey to cats.
+Blarina is larger than Sorex and has more mole-like features, such as no visible ear pinnae, very
+small eyes, and dark grey fur.  Blarina hunts under the cover of leaf litter and lawns, searching
+for insects but also hunting prey as large as mice and voles (which are larger than the shrew).
+Short-tailed shrews are unusual for mammals in that they are venomous, producing a neurotoxin
+that paralyzes small prey.
+There are several species of Sorex present in New Jersey, which can be difficult to sort out, but
+only the relatively common masked shrew is represented in our teaching collection.
+
+
+20
+Note the red pigment on the teeth of the shrews.  The function of this pigment (from an iron
+compound), if any, is unknown, but it is found only in the subfamily Soricinae, to which all New
+World shrews belong.
+F. Talpidae
+This family actually includes three different types of animals, moles, shrew moles (which are
+less fossorial), and desmans (which are semiaquatic).  Moles are specialized for subterranean
+life, i.e., they spend most of their lives burrowing through the earth, rarely coming to the surface.
+They are found throughout the holarctic region.
+Talpids all share an unusual feature, a humeroclavicular joint.  In most mammals, the shoulder
+joint is formed only by an articulation between the head of the humerus and the glenoid fossa of
+the scapula.  In talpids, the humeral head also articulates with the clavicle.  One consequence (or
+possibly cause) of this unusual anatomy is that talpids use a "breaststroke" motion when they dig.
+Most mammals are "scratch" diggers, moving their limbs beneath them, as when a dog digs
+Local species: Scalopus aquaticus, Eastern mole
+Local species: Parascalops brewerii, hairy-tailed mole
+Local species: Condylura cristata, star-nosed mole
+Three species of moles are found in New Jersey.  The star-nosed mole is readily distinguished by
+the ring of tentacles around the tip of its snout, which are very sensitive to touch.  Star-nosed
+moles burrow but also are known to swim in streams looking for prey.  The Eastern and hairy-
+tailed moles are more typical and look similar; the Eastern mole can be distinguished by the
+absence of fur on its tail.
+F. Tenrecidae
+F. Solenodontidae
+F. Chrysochloridae
+These three families are currently not represented in today's lab.
+Tenrecids are a family of diverse insectivorans found in Madagascar and Africa.  Tenrecs have
+undergone an adaptive radiation in Madagascar, including forms that resemble hedgehogs and
+opossums.  The only African tenrecids are the semiaquatic otter shrews.
+Solenodon is a rare insectivoran now found only in Haiti, where introduced mammals and hapitat
+destruction by humans threaten it with extinction.  It is large for an insectivoran (about the size
+of a muskrat).  It also produces venomous saliva, like some soricids.
+Chrysochlorids, or golden moles, are native to Africa.  Like true moles in the family Talpidae,
+they are subterranean burrowers feeding on invertebrates.  They differ from talpids in that they
+are scratch diggers.
+
+
+21
+O. Macroscelidea
+F. Macroscelididae
+Elephant shrews, as their name suggests, were once included in the Insectivora, but they
+are now considered to be only distantly related at best.  In fact, some workers consider this group
+to be related to rodents and rabbits.  Hence, they are now placed in their own order.  Elephant
+shrews take their first name from the fact that their snouts are long and somewhat mobile (though
+nothing like an elephant's trunk).  They are generally terrestrial, and some have adaptations for
+bipedal hopping (like a little kangaroo).  They are found in parts of Africa.
+Examine the skull of an elephant shrew.  Note the long-snouted skull and some of the
+features that distinguish it from lipotyphlans: complete zygomatic arch, large orbits, large
+auditory bulla.  Examine the teeth under a microscope.  The molars are squarish, with a large
+hypocone on the upper teeth, and they are lophodont and high-crowned, resembling the teeth of
+some large hoofed mammals.
+O. Scandentia
+F. Tupaiidae
+Like the previous group, tree shrews were previously included in the Insectivora.  Some
+workers consider tree shrews to be closely related to primates, and they are usually considered to
+resemble the ancestral primate.  Tree shrews are small, squirrel-like animals that live above the
+ground in trees and low-lying vegetation.  They are generally omnivorous, although fruit forms
+the majority of their diet.  They are found in certain tropical forests of Southeast Asia.
+Examine the skull of a tree shrew.  Note the complete postorbital bar, a primate-like
+feature.  Examine the teeth; the molars have the primitive tribosphenic form, with only a small
+hypocone.
+
+
+22
+O. Primates
+The Order Primates includes humans and the animals commonly referred to as apes and
+monkeys.  Several characters diagnose primates, including the presence of a petrosal bulla,
+reduction of incisors to two upper and lower on each side, and the presence of a postorbital bar.
+Primates show great diversity in diet and locomotion, but most are arboreal to at least some
+degree.  Unlike most mammals, most primates are diurnal rather than nocturnal, and most have
+highly developed vision that is stereoscopic and usually color.  Many primate species are social,
+meaning that they habitually live in groups of multiple individuals.  Primates are generally found
+in tropical regions.
+There are two major divisions of primates, the Strepsirhini and the Haplorhini.
+Strepsirhines, sometimes referred to as prosimians, share many primitive features, but they also
+share some derived features, such as the formation of a tooth comb from the lower incisors and
+canines.  This tooth comb is used for grooming.  The term strepsirhine refers to "split nose,"
+describing the primitive form of the nose in this group, which resembles that of a dog.
+Haplorhines include tarsiers, monkeys, apes, and humans.
+F. Lemuridae
+Strepsirhines appear to have undergone a significant adaptive radiation on the large
+oceanic island of Madagascar.  The most diverse family of Malagasy (i.e., from Madagascar)
+strepsirhines is the Lemuridae.  Examine the lemur skull and note its primitive features in
+comparison to a monkey skull.  What is the dental formula of this lemur?
+F. Tarsiidae
+Tarsiers are small, nocturnal, insectivorous primates.  They have enormous eyes and long
+spindly legs specialized for leaping from branches.  Examine the skull of a tarsier.  Note the huge
+orbits, and note the postorbital septum.  This is the "wall" of bone separating the orbit from the
+temporal fossa, a feature that tarsiers share with monkeys, apes, and humans.  The teeth of
+tarsiers include standard tribosphenic molars.
+F. Callitrichidae and F. Cebidae
+Haplorhines include the tarsiers and the Anthropoidea, which includes monkeys, apes,
+and humans.  Anthropoids are divided into two subgroups, the Platyrrhini and the Catarrhini.
+Platyrrhines are the New World monkeys, whereas catarrhines are the Old World monkeys and
+apes (including humans).
+There are two families of platyrrhines, cebids and callitrichids, both found only in South
+and Central America.  Callitrichids include the marmosets and tamarins, small monkeys that are
+generally insectivorous.  Cebids include larger New World monkeys like howler monkeys and
+spider monkeys.  Cebids lack opposable thumbs, but many have prehensile tails.  Both cebids
+and callitrichids possess three premolars, but callitrichids have only two molars.
+
+
+23
+Examine the display of platyrrhine skulls.  The smaller skulls at the top are callitrichids,
+whereas the larger skulls near the bottom are cebids.  Can you determine the dental formula of
+these animals?
+F. Cercopithecidae
+Old World monkeys are placed in the Family Cercopithecidae.  Cercopithecids are united
+by the presence of an anterior lower premolar that shears against the back of the canine in a
+derived manner.  Identify this tooth on one of the macaque specimens.  Cercopithecids, like New
+World monkeys, often have long tails, but the tails are never prehensile.  Cercopithecid molars
+are generally bilophodont, with two transverse crests.  Examine the teeth of a macaque to
+confirm this.  What is the dental formula of a cercopithecid?
+F. Hylobatidae
+Apes and humans are placed together in the Hominoidea.  Hominoids share a number of
+characters, including the absence of a tail.  Hylobatids, or gibbons, constitute one of the two
+families of hominoids.  Compare the gibbon skull to that of a macaque.  Gibbons are
+characterized by their elongate limbs, especially their long arms that they use to swing
+themselves from branch to branch, a type of locomotion termed brachiation.
+F. Hominidae
+Great apes (orangutans, gorillas, and chimpanzees) and humans were formerly separated
+into the families Pongidae and Hominidae, respectively.  A number of lines of evidence,
+including DNA, support the idea that humans are closely related to African apes (gorillas and
+chimpanzees) and that humans therefore should be placed in the same family as the great apes.
+Because it is older than the name Pongidae, the family name Hominidae is used for this family.
+Examine the casts of skulls of a female and male gorilla.  Gorillas exhibit a striking
+degree of secondary sexual dimorphism in certain features.  Note the larger size and the
+prominent sagittal crest of the male relative to the female.
+Compare the gorilla skulls to that of a human.  What differences can you see between
+them?  Compare these skulls to those of the early human relatives Australopithecus, Homo
+erectus, and Homo neanderthalensis (possibly a variety of Homo sapiens).  Note particularly the
+differences in size of the braincase, development of a chin, development of brow ridges, and the
+length of the face.
+O. Dermoptera
+F. Cynocephalidae
+Flying lemurs, or colugos, are arboreal gliding mammals of Southeast Asia once included
+in the Insectivora.  Colugos glide using flaps of skin stretched between their limbs, similar to that
+
+
+24
+of a flying squirrel.  Unlike flying squirrels, colugos also have a web of skin stretched between
+their fingers that contributes to the gliding surface.  This is a feature that they share with bats, to
+which they may be closely related.
+Dermopterans have dilambdodont molars but actually feed mainly on leaves.  Upper
+incisors are reduced, and the lower incisors have distinctive spine-like projections like the tines
+of a comb, which they use for grooming their fur.  Examine a colugo skull and observe this tooth
+comb.
+O. Chiroptera
+Bats are the only mammals that truly fly.  They have wings formed by stretching a
+membrane of skin between their fingers.  This membrane also extends between the limbs and to
+the tail.  Bats are one of the largest orders of mammals, representing about 25% of all living
+species.
+Suborder Megachiroptera
+F. Pteropodidae
+Examine the skull of an Old World fruit bat.  Note the dog-like rostrum that inspired the
+other common name for these bats, "flying foxes."  The long rostrum, with its large orbits, is a
+primitive feature for these crepuscular bats, which cannot echolocate (with one exception) and
+which rely on vision.  All bats retain a claw on the thumb, but megabats also have a claw on digit
+II; this is another primitive feature.  The teeth of pteropodids, on the other hand, are derived.
+Note the simple cheek teeth with more or less flat surfaces.  Articulate the lower jaw with the
+skull; note that the teeth do not actually occlude.  These teeth are specialized for pulping fruit.
+The bats squish the fruit between their teeth and swallow the juice; the pulp is spit out.  (Never
+stand below a fruit bat roost without covering your head!)  One specialized subfamily of
+pteropodids feeds on nectar.
+Suborder Microchiroptera
+By far, most bats are in this suborder, and they are often referred to as microbats.  They
+are generally much smaller than megabats.  Their skulls are quite derived, with very short faces
+modified for echolocation.  Many microbats have lost their incisors, which would interfere with
+pulses generated through the mouth, whereas others emit pulses through the nose and have
+elaborate facial features that focus the pulses.  Microbats are also derived in that they lack a claw
+on digit II.  The teeth of microbats are dilambdodont and are considered to be primitive.  Many
+microbats are insectivorous, but there are microbats that feed on other things, including fruit,
+fish, frogs, nectar, and blood.
+
+
+25
+F. Vespertilionidae
+All of New Jersey's bats belong to this generally insectivorous family of north temperate
+regions, the evening bats.  New Jersey is home to a number of species, but only two are available
+for today's lab.
+Local species: Eptesicus fuscus, big brown bat
+Local species: Lasiurus borealis, red bat
+
+
+26
+Order Carnivora
+F. Canidae
+Examine the skulls of various canids in lab.  Domestic dogs (Canis familiaris) are
+thought to be derived from gray wolves (Canis lupus).  Compare the skulls of a gray wolf and a
+dog.  Note the prominent "brow" of the dog, a feature that distinguishes dogs and wolves.  The
+skull of a red wolf, a rare species from North America, is also on display.  Note also that the
+cheek teeth of canids are less specialized for carnivory than those of cats.
+Three wild canids are found in New Jersey.  Coyotes (Canis latrans) are the largest local
+wild canids.  There are also two species of foxes.
+Local species
+Canis latrans
+coyote
+Vulpes vulpes (or Vulpes fulva)
+red fox
+Urocyon cinereoargenteus
+gray fox
+Examine the skulls and illustrations of red and gray foxes in lab.  These two species are
+readily distinguished by their coats, but their skulls are also distinguishable by the shape of the
+ridges forming the sagittal crest.  Conveniently, the ridges in Vulpes look like a "V", whereas the
+ridges in Urocyon form a "U".
+F. Ursidae
+Bears are large omnivores found mainly in the Northern Hemisphere, the main exception
+being the spectacled bear of South America.  Examine the skull of a black bear and note the
+bunodont cheek teeth.
+Local species
+Usrus americanus
+black bear
+F. Procyonidae
+Procyonids include a number of New World species, but only the raccoon (Procyon
+lotor) is native to New Jersey.  Examine the skull of a raccoon.  Note the bunodont,
+quadritubercular molars.
+Procyon lotor
+raccoon
+F. Mustelidae
+Mustelids include a variety of smaller carnivorans with elongate bodies.  New Jersey is
+home to several mustelid species, but only three are represented in lab.
+
+
+27
+Local species
+Mustela vison
+mink
+Mephitis mephitis
+skunk
+Lutra canadensis
+river otter
+Note the reduced molars of the mink compared to the skunk, and the sharp shearing
+blades formed by the minks teeth.
+We also have a skull of a European badger (Meles meles).  Compare that with the other
+mustelids.  Note that, like other mustelids, the badger retains only one molar on each side, but
+this molar has become elongated and bunodont to deal with the omnivorous diet of this animal.
+F. Felidae
+A number of cats are represented in today's lab, although none are local species.  Cats all
+have similar short-faced skulls with highly carnivorous dental adaptations.
+F. Hyaenidae
+Hyenas include three genera of animals specialized for crushing bones and
+hypercarnivory.  However, the one hyena represented in lab is the fourth genus, Proteles, the
+aardwolf, which specializes in eating termites.
+F. Viverridae
+Viverrids are known only from Eurasia and Africa but are similar to mustelids in being
+smaller carnivorans.  Two examples of viverrids are given in lab, a binturong (Paradoxurus) and
+a palm civet (Nandinia).
+
+
+28
+Lagomorphs and Rodents I
+The two orders examined in this lab, rodents and lagomorphs, are at least superficially similar
+and probably related.  Both of these groups have distinctive, enlarged, ever-growing incisors,
+which are referred to as gliriform.  Only the anterior aspect of the incisors is covered by enamel;
+the effect is that the incisors are self-sharpening.
+O. Lagomorpha
+There are two families of living lagomorphs, one of which is represented in today's lab.
+Lagomorphs look superficially like rodents, but they can be distinguished by the presence of a
+small second pair of upper incisors behind the large gliriform pair.  Lagomorphs are also
+distinguished by the possession of a fenestrated skull, where parts of the skull have a thin, lattice-
+like appearance.  All lagomorphs have hypsodont teeth with no roots.
+F. Leporidae
+Leporids include rabbits and hares.  Examine the skulls of various leporids to observe the
+diagnostic features of lagomorphs.  Leporids are unique among mammals in possessing a joint
+within the skull, encircling the skull just in front of the ear region.  The slight movements
+allowed by this joint are thought to help absorb the shock produced by the bounding gait of
+leporids.
+Local species:
+Sylvilagus floridanus
+Eastern cottontail
+New Jersey is actually home to a number of leporids, including two different genera, but the
+Eastern cottontail is the only one represented by material in this lab.
+O. Rodentia
+Rodents are the most diverse order of mammals.  Rodents account for 40% of mammalian
+diversity, and 25% of mammalian diversity is found in one family, the Muridae.  Rodents
+possess only a single pair of gliriform incisors in the upper and lower jaws.  Notice the
+orientation of the glenoid fossa on the skulls of various rodents.  The jaw articulation is designed
+to allow propalinal (fore and aft) movement of the jaw, a distinctive feature of rodents.
+Rodents have traditionally been identified and classified according to the arrangement of their
+jaw muscles, which is reflected by distinctive morphologies of the skull and jaw.  Four types of
+rodent skulls can be identified:
+Protrogomorphous: This represents the primitive condition, where the muscles have not
+expanded significantly from the positions found in other mammals.  None of the rodents in this
+lab are protrogomorphous, and only one living species of rodent is protrogomorphous.
+
+
+29
+Sciuromorphous: The lateral portion of the masseter in this condition expands onto the anterior
+aspect of the zygomatic arch, which is expanded into a flattened plate.  Examine a beaver skull to
+see a good example of sciuromorphy.
+Hystricomorphous: In this condition, another portion of the masseter, the medial masseter,
+expands and actually passes through an enlarged infraorbital foramen.  Good examples of this
+condition can be observed in the skulls of the porcupine and the nutria.
+Myomorphous: This condition appears to combine the previous two.  The result is a flattened
+anterior aspect of the zygomatic arch, with a somewhat enlarged, keyhole-shaped infraorbital
+foramen.  A good example of this condition can be seen in the muskrat.
+There is little agreement as to how these conditions evolved and how often.  Only myomorphy is
+considered to be a derived feature characteristic of a monophyletic group.  The other types may
+have evolved more than once, and different groups that have similar skull morphologies may not
+in fact be closely related.
+Another feature that is used to distinguish groups of rodents is the morphology of the jaw.  Two
+conditions are observed, sciurognathy and hystricognathy.  In hystricognathy, the angular
+process is in a more lateral position relative to the alveoli of the incisors.  Use the diagram in
+your book (Figure 18-3) to figure out the distinction between these two morphologies.
+Hystricognathy is considered to be a shared derived condition, whereas sciurognathy is primitive.
+For today's lab, we'll cover the families of sciuromorphous and hystricomorphous rodents; next
+week we'll look at myomorphous families and all of the local species of rodents.
+F. Aplodontidae
+Mountain beavers are found in the Pacific Northwest.  They are the only living
+protrogomorphous rodents, and some have argued that they have reverted to this condition from
+one of the others.  They have distinctive peg-like teeth and broad, flat skulls.
+F. Sciuridae
+Sciurids include tree squirrels, ground squirrels, chipmunks, and marmots.  Examine the
+representative sciurids and note their sciuromorphous and sciurognathous morphology.  Note the
+dental formula; at least one premolar is present in the upper and lower jaws.  The teeth are
+relatively low-crowned.
+F. Castoridae
+Beavers are one of the largest rodents in body size.  Examine the sciuromorphous and
+sciurognathous skull of a beaver.  Note the presence of a single premolar in the upper and lower
+jaws and the high-crowned, lophodont cheek teeth.
+F. Geomyidae
+
+
+30
+Pocket gophers are subterranean burrowers.  Many burrowing rodents, including geomyids,
+actually rely on their incisors for digging, rather than on their limbs.  Geomyids are
+sciuromorphous and sciurognathous.  Geomyids have hypsodont cheek teeth, with three simple
+cylindrical molars and a large 8-shaped premolar in each half of the upper and lower jaw.
+F. Heteromyidae
+Pocket gophers are thought to be closely related to heteromyids, the kangaroo rats and pocket
+mice.  Kangaroo rats have saltatorial or ricochetal locomotion, i.e., they jump around on their
+hind legs, not unlike their marsupial namesake.  Both heteromyids and geomyids possess fur-
+lined cheek pouches, as well as being similar in having sciuromorphous skulls, sciurognathous
+jaws, and fairly simple hypsodont cheek teeth.  Examine the teeth of the kangaroo rat and the
+pocket mouse.  Note the more complex, two-lobed molars of the pocket mouse compared to
+those of the kangaroo rat.  Note also the enlarged auditory bullae of the kangaroo rat.
+F. Dipodidae
+We have only a skin of a dipodid, that of a jumping mouse.  Dipodids, including jumping mice,
+jerboas, and birch mice, include a number of saltatorial forms, convergent on the similar
+heteromyids.  Dipodids, however, are not closely related to heteromyids.  Dipodids are
+hystricomorphous and sciurognathous.
+Suborder Hystricognathi
+Two families of hystricognathous rodents are represented in lab.  Hystricognathous rodents
+comprise their own suborder, the Hystricognathi.  All hystricognaths are also hystricomorphous.
+F. Erithizontidae
+New World porcupines are included in this family, including our own local species.  Note the
+relatively low-crowned lophodont cheek teeth, including one upper and lower premolar.
+F. Myocastoridae
+The nutria is also a local species, but it was introduced to this area accidentally by humans who
+wanted to raise nutrias for their fur.  Nutrias are superficially beaver-like, although they have
+laterally compressed tails, instead of horizontally flattened tails.  Note the high-crowned
+lophodont cheek teeth and compare them to those of the beaver.  Examine the jaw of a nutria and
+note the near absence of the coronoid process.
+F. Hydrochaeridae
+The capybara is the world's largest rodent, with the largest weighing in around 175 lbs.  They are
+ecologically equivalent to small hippos, grazing on land, swimming in the water, and living in
+large groups.  Note the extremely lophodont cheek teeth.
+
+
+31
+Rodents II
+Today's lab covers the murids and all of the local species of rodents that you need to know.
+F. Sciuridae
+Local species:
+Sciurus carolinensis
+eastern gray squirrel
+Tamiasciurus hudsonicus
+red squirrel
+Tamias striatus
+eastern chipmunk
+Marmota monax
+woodchuck
+Glaucomys volans
+southern flying squirrel
+Glaucomys sabrinus
+northern flying squirrel
+F. Castoridae
+Local species:
+Castor canadensis
+beaver
+F. Dipodidae
+Local species:
+Napaeozapus insignis
+woodland jumping mouse
+F. Erithizontidae
+Local species:
+Erethizon dorsatum
+porcupine
+F. Myocastoridae
+Local species:
+Myocastor coypus
+nutria (introduced)
+F. Muridae
+Murids are the most diverse family of mammals, including the various mice, rats, and voles.  All
+murids are myomorphous.  Use the key included for Massachusetts "mice" to identify different
+local species of murids.
+Local species:
+Peromyscus leucopus
+white-footed mouse
+Synaptomys cooperi
+southern bog lemming
+Microtus pennsylvanicus
+meadow vole
+Microtus (Pitymys) pinetorum
+pine vole
+Clethrionomys gapperi
+red-backed vole
+Ondatra zibethica
+muskrat
+Rattus norwegicus
+Norway rat
+Neotoma floridanus
+Eastern woodrat
+
+
+32
+O. Artiodactyla
+Artiodactyls are "even-toed" ungulates (hoofed mammals).  Their feet are paraxonic; this
+means that the axis of the foot runs between digits 3 and 4.  Artiodactyls have a distinctive
+astragalus with a double-pulley form.  Examine the astragalus of a fossil artiodactyl that we have
+on display.  Artiodactyls have other diagnostic features, including absence of an alisphenoid
+canal.
+F. Suidae and F. Tayassuidae
+Suids are pigs.  Pigs have bunodont teeth and are omnivorous.  Tayassuids, peccaries and
+javelinas, are similar to pigs in their morphology and habits.  Note the large alveoli for the
+canines in the pig.  The canines of pigs flare out laterally, whereas those of peccaries are straight.
+Note the canines of the juvenile peccary skull.
+F. Cervidae
+Cervids, deer and their relatives, are distinguished by the presence of antlers, usually in
+males but sometimes in both sexes.  Antlers differ from other skull ornaments in that they are
+formed from bone initially covered by velvet and are shed annually.  Examine the skull and
+antlers of a deer and a moose.  Note the selenodont dentition.  Note also the depression in the
+area of the lacrimal bone, where a scent gland is located.
+Local species:
+Odocoileus virginianus
+whitetail deer
+F. Antilocapridae
+Pronghorns, or pronghorn "antelope", are distinguished by the presence of a pronghorn
+head ornament, which consists of a bony core covered by a keratinous sheath that is shed
+annually.  Once a very diverse family in North America, antilocaprids are represented today by a
+single species found in the prairies of western North America.  This animal is also one of the
+fastest mammals on earth.
+F. Bovidae
+Bovids are the most diverse family of artiodactyls, including cattle, sheep, goats, and
+antelopes.  (Note: This does not include the pronghorn "antelope" of western North America.)
+Horns are a diagnostic feature of bovids; they can be present in one or both sexes.  Horns consist
+of a bony core covered by a horny (keratinous) sheath.  Examine the skull of a bull or cow.  Note
+the horn cores and examine the sheath.  Note the selenodont dentition.
+O. Cetacea
+Cetaceans include whales and dolphins, mammals highly adapted to aquatic life.  We
+won't go into families of cetaceans here.  Examine the skull of a Risso's dolphin.  See if you can
+
+
+33
+identify the skull bones.  The nostrils are placed on top of the head, so that the surrounding bones
+are modified in a manner called telescoping.  Examine the forelimb of the dolphin (hindlimbs are
+absent in living cetaceans).  Note the paddle-like form and identify the bones.  Note that
+cetaceans have hyperphalangy, the increase in number of the phalanges.  Examine the vertebrae
+of the dolphin and note how simple they are in form relative to terrestrial mammals.
+O. Perissodactyla
+Perissodactyls are the "odd-toed" hoofed mammals, including horses, rhinoceroses, and
+tapirs.  The axis of the foot runs through the middle (third) digit of the feet.  Perissodactyls also
+have a diagnostic astragalus, with a saddle-shaped facet for the navicular bone.  Examine the
+fossil astragalus of a perissodactyl on display.
+F. Equidae
+Equids include horses and zebras.  The feet of horses are largely composed of a single
+digit (digit 3), with vestiges of the second and fourth digits.  Horses have hypsodont, lophodont
+teeth.  Examine the skull of a horse.
+F. Rhinocerotidae
+Rhinoceroses are distinguished by their horns, which are formed from keratin (essentially
+matted hair) and have no bony core.  Rhinoceros teeth have distinctive "pi" shape to them.
+Examine the specimen of a fossil rhinoceros (actually a member of a different family, which had
+no horns) and note the shape of the teeth.
+O. Hyracoidea
+F. Procaviidae
+Hyraxes (or hyraces) are a group of rabbit-sized mammals thought to be related to either
+perissodactyls or elephants.  Examine the skull of a hyrax.  Note the "pi" shaped teeth,
+convergent with those of rhinoceroses.  Note the supraorbital process, which is formed partly by
+the parietal bone, a distinctive feature of hyraxes.
+O. Proboscidea
+F. Elephantidae
+Elephants have many distinctive features related to their size and their trunks.  Examine
+the jaw of a baby mammoth (a fossil).  Note the lophodont teeth with many lophs.  The reddish
+material on the outside of the tooth is cementum, a substance that helps resist abrasion by grasses
+that the animal ate in life.  Mammoths and Asian elephants are very similar.  Note that only one
+
+
+34
+tooth is functional in each half of the jaw.  As one tooth wears out, the next comes in behind and
+the old one is pushed forward.

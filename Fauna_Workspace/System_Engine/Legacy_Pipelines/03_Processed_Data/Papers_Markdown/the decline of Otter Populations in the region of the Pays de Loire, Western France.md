@@ -1,0 +1,619 @@
+--- 
+source: the decline of Otter Populations in the region of the Pays de Loire, Western France.pdf
+--- 
+
+Biological Conservation 1993, 65, 9-13 
+ 
+ 
+9 
+  THE DECLINE OF OTTER Lutra lutra POPULATIONS IN THE 
+  REGION OF THE PAYS DE LOIRE, WESTERN FRANCE 
+ 
+Thierry Lodé 
+Laboratoire d'Ethologie, Université Rennes I, 35042 Rennes Cedex, France 
+ 
+(Received 15 June 1991; revised version received 29 June 1992; accepted 1 July 1992) 
+ 
+ 
+ 
+Abstract 
+In the Pays de Loire region of western France, a field 
+survey carried out between 1984 and 1991 showed that 
+otter populations decreased over 54.2% of sites and are 
+now highly fragmented. In 1991 only 9.5% of 348 sites 
+produced positive records compared to 20.7% in 1984. The 
+decline was most notable in the larger rivers whereas the 
+relative use of marsh habitat increased. Populations 
+become more vulnerable when riparian vegetation de-
+clines. Accidental drowning in eel Anguilla anguilla fyke 
+nets appears to be the major cause of accidental mortality. 
+The scarcity of otter populations is an indication of serious 
+degradation of aquatic ecosystems. 
+ 
+Key words: Western France, otters, population, habitat 
+destruction. 
+ 
+ 
+INTRODUCTION 
+Populations of European otters Lutra lutra L. have 
+suffered serious declines over large areas of Europe, 
+notably in Sweden (Erlinge, 1972a), Germany (Röben, 
+1974), parts of Britain (Chanin & Jefferies, 1978), 
+Belgium (Libois et al., 1982), Ireland (Chapman & 
+Chapman, 1982), Portugal (Macdonald & Mason, 
+1982),  Poland  (Romanowski,  1984),  Switzerland 
+(Muller, 1984), Yugoslavia (Liles & Jenkins, 1984) and 
+Spain (Adrian et al., 1985). 
+In France, during the decade 1960/1970, the otter 
+population remained apparently stable, though no 
+structured surveys were carried out. Since then, despite 
+being protected by law since 1972, the population 
+has  steadily  declined  (Green  &  Green,  1981; 
+SFEPM, 1984). The range seems to be restricted to 
+the Atlantic seaboard, the Camargue and the Massif 
+Central but even there the distribution is discon-
+tinuous. Before 1972, hunting and trapping seemed 
+to be the main causes of otter decline (Bouchardy, 
+1986). Since then it has been shown that bioaccumula-
+tion of toxicants (notably dieldrin, PCBs and mercury) 
+is responsible for the decline of otters in several 
+countries (Chanin & Jefferies, 1978; Barus & Zejda, 
+1981; Chapman & Chapman, 1982; Madsen & Mason, 
+ 
+Biological Conservation 0006-3207/93/$06.00 © 1993 Flsevier 
+Science Publishers Ltd, England. Printed in Great Britain 
+1987; Skarén, 1988; Rodriguez et al., 1989; Mason & 
+Madsen, 1990). 
+   However, our knowledge of the status of the otter is 
+not accurate enough to determine why the situation has 
+continued to deteriorate. This is particularly the case in 
+Western France where otter surveys were unstructured 
+until 1980. 
+   From 1984 to 1991, a detailed survey of otter presence 
+was therefore carried out, and an assessment made of 
+the species' status in the Pays de Loire region (Saint-
+Girons et al, 1988; Lodé et al., 1990a). An attempt was 
+also made to relate the distribution of otters to environ-
+mental characteristics which are likely to affect popul-
+ation survival. 
+ 
+ 
+STUDY AREA 
+The Pays de Loire region in western France is an 
+administrative district comprising five departments 
+(Loire-Atlantique, Maine-et-Loire, Mayenne,  Sarthe 
+and the Vendée) and covering 30 198 km2 (see Fig. 1). 
+The climate is mild, being influenced by the nearby 
+ocean. The average temperatures have a narrow range 
+(July average 160C, January average 7.20C, calculated 
+between 1968 and 1988 from the Meteorological Office 
+of Nantes)  and the rainfall may reach 800 mm/year. 
+The region stretches along the banks of the River Loire 
+between Brittany and the Parisian Basin. The mostly 
+eroded hercynian relief of the Amorican massif lies 
+between the Mancelles Hills (300 m) and Signal des 
+Avalloirs (417 m) in the northeast to Mont Mercure 
+(285 m)  in the south.  The terrain consists of schist 
+rock,  bounded by chalky plateaux in the east 
+(Saumurois). The whole area is drained by numerous 
+watercourses which belong to the River Loire hydro-
+graphic  system.  The  landscape  is predominantly 
+wooded farmland ('bocage') which is characterized by a 
+patchwork of small fields surrounded by hedges often 
+with pollarded oaks and ashes. Several wetlands lie 
+along the Atlantic seaboard and have an international 
+value for wildfowl (Brosselin, 1973). The main areas of 
+marsh are (1) the Brière  Regional Nature Park peat-
+bogs lying to the northwest; (2) the Guérande salt-pans 
+to the northwest; (3) the Lake of Grand-Lieu, south of 
+Nantes; and  (4)  the Marais Vendéen. The most south-
+ern part of the Vendee, which forms a small part of 
+
+
+10 
+ T. Lodé 
+ 
+ 
+Fig. 1. Change in otter distribution between 1984 and 1991 in Pays de Loire. Inset shows the study area. 
+ 
+ 
+Marais Poitevin Regional Nature Park, is not consid-
+ered here. The plateau of Saumurois and the valley of 
+the River Sèvre Nantaise have vineyards. Cereal pro-
+duction, fodder crops, cattle rearing and orchards are  
+the main agricultural activities. 
+ 
+METHODS 
+This study was carried out between 1984 and 1991 and 
+was concentrated on the sites where otters were present 
+in 1984 (SFEPM, 1984; Saint-Girons et al., 1988). 
+Sites were chosen for their accessibility, and would 
+start, for instance, under a bridge or a substantial 
+promontory. Each site was carefully searched for a 
+maximum of 400 m upstream and 400 m downstream 
+from the chosen access point but recording stopped as 
+soon as a spraint was found on either bank.  In 1984  
+and 1985, one or two searches a year per site were 
+carried out, but from 1986 three searches a year were 
+made in spring, autumn and winter, and  a  site was 
+recorded as positive when at least one spraint, or a very 
+clear footprint, was found. Other signs were not con-
+sidered as sufficiently specific. Otters were presumed 
+absent  if a site produced no signs during the three 
+visits. Although local extinction can never be confirmed 
+from negative records, the continuous absence of 
+spraints at sites where they were previously recorded 
+may be taken as good evidence of at least a marked 
+decline in populations. Note that by carrying out three 
+searches a year from 1986, whilst only two searches a 
+year were made in 1984 and 1985, this will have in-
+creased the likelihood of finding spraints. If an increase 
+in positive records had been obtained, this increased 
+sampling effort could have invalidated any conclusion 
+regarding an increase in otters. However, with the de-
+creasing number of positive records obtained, the extra 
+search effort helps to confirm the conclusion that fewer 
+sites were occupied. 
+   Some habitat data and an assessment of the degree 
+of pollution were recorded  at  all sites. We graded 
+
+
+ 
+Decline of otters in W France 
+11 
+ 
+watercourses into three categories as ponds,  ditches 
+and streams (width < 5 m), small rivers (width < 10 m), 
+and large rivers, i.e. the Loire and direct tributaries 
+(width > 10 m). The river banks at each site were 
+classified on the extent of bankside vegetation as 
+follows: 0, low herbaceous ground cover; 1, tall her-
+baceous cover with scattered bushes; 2, irregular 
+hedges; 3, continuous hedges with intermittent trees; 4, 
+tree-covered bankside; 5, forest watercourses. Aquatic 
+macrophytes were also recorded as an indicator of 
+pollution (Haury, 1990) and compared with the water 
+quality map (Agence de Bassin Loire-Bretagne, 1985). 
+The χ2 test was used to compare changes in frequency 
+of records between years but some categories had few 
+records and were therefore combined. Known cases of 
+otter accidental mortality between 1984 and 1991 were 
+listed. 
+ 
+RESULTS 
+Of the 348 sites surveyed in 1984, throughout the whole 
+Pays de Loire region, 72 sites (20.7%) showed evidence 
+of otters 50% in Loire-Atlantique, 316% in the 
+Vendée and 13.9% in the other eastern departments 
+(Fig. 1). In 1991, only 33 (9.60/0) of the sites surveyed 
+showed evidence of otters. Thus, we concluded that 
+otters had disappeared from 54.2% of the sites occupied 
+in 1984 and populations had become more fragmented 
+(Table 1). The decline averaged 7.7% sites per year, 
+with the lowest decreases in 1988 and 1991. The distri-
+bution of the species decreased from east to west, the 
+most frequented parts in 1991 being the marshes of 
+Brière, Lake of Grand-Lieu and adjoining Rivers 
+Marais-Vendeens, and a diffuse area in the Vendée. 
+Note that if only two searches had been carried out, 
+as in 1984 and 1985 then the indicated percentage 
+reduction in occupied sites may well have been even 
+greater than that shown here as a result of increasing 
+the search effort (see Methods above). 
+Between 1984 and 1991, evidence of otters strongly 
+decreased on the Loire and its direct tributaries, while 
+marshes, including the Lake of Grand-Lieu and ponds, 
+produced 60.6% of all positive records (Table 2, χ2 = 
+7.936, p < 0.05). 
+The study of bankside cover showed that otters have 
+survived better in the more wooded areas (Table 3). 
+There was an increase in otter signs on banksides with 
+continuous hedges and trees. On the other hand, bank-
+sides with tall herbaceous cover and scattered bushes 
+showed a decrease in otter signs (χ2 =  6.435, p < 0.05). 
+Otters clearly avoided polluted waters with no 
+significant change between surveys (χ2 = 1.567, p > 0.05) 
+(Table 4). In 1984 and 1991, otter signs were found 
+respectively  in  90.3% and 96.9%  of sites with 
+average or good-quality water. 
+Table 5 presents the data of known cases of otter 
+mortality between 1984 and 1991. The sample is very 
+small (n =  15) but shows that drowning accidents due 
+to eel Anguilla anguilla fyke nets could be the main 
+cause of accidental mortality. 
+ 
+Table 1. Changes in otter records on 348 sites surveyed in the 
+                                       Pays de Loire 
+ 
+1984 1985/86 1987 1988 1989/90 1991 
+Positive sites 
+ 72 
+   60 
+ 48 
+ 44 
+   35 
+ 33 
+Positive site  
+    frequency (%) 
+20.7 
+17.2 
+13.8 12.6 
+10.1 
+9.5 
+Annual decline (%) 
+ 
+16.7 
+20.0 
+8.0 
+20.5 
+5.7 
+ 
+ 
+ 
+Table 2. Records of otters (spraints or footprints) in different 
+habitats 
+                      Ponds         Marshes     Streams   Small     Loire and 
+                                  (+Grand-Lieu)                  rivers    tributaries 
+1984 
+   (n = 72) 
+5 
+22 
+9 
+20 
+16 
+ 
+27 
+29 
+ 
+1991 
+   (n = 13) 
+3 
+17 
+3 
+9 
+1 
+ 
+20 
+12 
+ 
+Relative 
+   change (%) 
++23.1 
+-3.9 
+-19.2 
+ 
+ 
+Table 3. Occurrence of otters in relation to different types of 
+bankside vegetationa 
+ 
+Herbaceous        Irregular 
+   Wooded 
+       cover 
+ hedges 
+  banksides 
+ 
+(0) 
+(1) 
+(2) 
+(3)   (4)    (5) 
+1984 (n = 72)                   4        15            43             6      3      1 
+ 
+             19                                         10 
+1991 (n = 33) 
+0 
+3             20 
+  7      2      1 
+ 
+       3 
+ 
+       10 
+Relative change (%)            -17.3              +0.9 
+     +16.4 
+ 
+a 0, low herbaceous ground cover; 1, tall herbaceous cover 
+with scattered bushes; 2, irregular hedges; 3, continuous 
+hedges with intermittent trees; 4, tree-covered bankside; 5, 
+forest watercourses. 
+ 
+ 
+Table 4. Occurrence of otters in relation to water quality 
+                                   Very bad    Polluted    Average      Good 
+1984 (n = 72)                                  7 
+39 
+26 
+1991 (n = 33)                    
+ 1 
+18 
+14 
+Relative change (%)          
+-6.7 
++0.3 
++6.3 
+ 
+ 
+Table 5. Accidental  causes of otter mortalty between 1984 and 
+1991 in Pays de Loire 
+ 
+Accidental 
+Drowning in 
+     Road kills 
+ 
+traps 
+eel fyke nets 
+Male 
+1 (young) 
+         2 (young) 
+    2 (adult) 
+Female                                    2 (young), 2 (adult)       1 (young) 
+Unknown 
+2                               2                               1 
+% 
+20                              53.3                         26.7 
+ 
+
+
+12                
+T. Lodé 
+ 
+DISCUSSION 
+In some areas of Britain otters show seasonal variation in 
+spraint frequency with a winter maximum (Kruuk et al., 
+1986; Kruuk & Conroy, 1987; Mason & Macdonald, 
+1987). On the other hand, in Portugal Macdonald and 
+Mason (1982) noted a higher spraint frequency in 
+summer, and Palomares et al. (1988) in Spain noticed 
+large fluctuations but no seasonal trend. When  otters  
+are at low densities, the frequency of spraints may also 
+be very low (Macdonald, 1983). Otter spraints cannot 
+provide information on otter abundance, only about 
+distribution  (Jenkins & Burrow, 1980; Conroy & 
+French, 1987; Mason & Macdonald, 1987). 
+Throughout most of the region, the reduced distribu-
+tion of otter signs, and the apparent fragmentation of 
+populations, suggests that otters are endangered. The 
+status of the species is undoubtedly affected by a com-
+bination of factors. Changes in otter distribution varied 
+from habitat to habitat. The decline  was most  notable  
+in the larger rivers whereas the importance of marshes 
+was clearly apparent. Riparian engineering works were 
+frequently conducted in these larger rivers especially on 
+the Sèvres, and the Erdre. The vulnerability of otter 
+populations becomes more pronounced as riparian veg-
+etation decreases and the less vegetated sites are more 
+frequently deserted. Several authors have stressed the 
+importance of vegetation cover for maintaining otters 
+(Macdonald et al., 1978; Jenkins & Burrow, 1980; 
+Blanchon, 1983; Bas et al. 1984; Adriàn et al. 1985). 
+Otters utilise between 15 and 20 km of linear bank side 
+(Erlinge, 1968; Green et al. 1984) and may  need  
+several diurnal resting holts (Green et al., 1984; R. 
+Rosoux, pers. comm.) often located under larger trees 
+(Macdonald et al., 1978; Harper, 1981). 
+In the Pays de Loire, otters mainly frequent natural 
+eutrophic environments where cyprinids and eels consti-
+tute the major food component of its diet (Lodé, 1989), 
+and eels are important in the diet elsewhere (Fairley, 
+1972; Jenkins et aL, 1979; Adrian & Delibes, 1987; Libois 
+& Rosoux, 1989). Mason and Lodé (1992) have recorded 
+generally low concentrations of pesticide residues in otter 
+spraints in the Pays de Loire. Pollution can reduce fish 
+stocks (Leynaud, 1976) and thus reduce the food supply 
+of otters. Maizeret et al. (1981) estimated that otters need 
+a minimum of 30 kg fish biomass per km of river. Otters 
+also feed on muskrats Onnatra zibethieus, in winter, and 
+these made up 6% of the diet in the Lake of Grand-Lieu 
+(Lodé, 1989). Poisoning campaigns conducted against 
+muskrats and coypus Myocastor coypus in numerous 
+wetlands in the region coincided with a reduction in otter 
+distribution (Lodé et al. 1990a). 
+Otters may be victims of trap setting for muskrats 
+(Braun, 1985), but accidental drowning in eel nets 
+appeared to be more important, especially in the  Lake  
+of Grand-Lieu. Casualties were chiefly females and 
+juveniles. Fish nets are known to cause serious otter 
+mortality (Fairley, 1972; Frlinge, 1 972a; Chapman & 
+Chapman, 1982) and Jefferies et al. (1984) considered 
+that fish traps can reduce otter populations when they  
+are set for long periods in single localities. 
+ 
+Various authors have tried to evaluate the potential 
+competition between otter and feral American mink 
+Mustela vison but concluded that any dietary overlap is 
+small (Erlinge, 1972,b; Jenkins & Harper, 1980; Chanin, 
+1981; Wise et al., 1981). Feral American mink have  
+only just reached the north-west of the region (Lodé et 
+al., 1990b). 
+Although the authorities in the region have been in-
+formed since 1985 on the decline  in otter populations, 
+no serious conservation measures have been taken. A 
+real political will for environmental conservation is  
+now needed before further losses occur. 
+ 
+ACKNOWLEDGEMENTS 
+Thanks are due to D. Le Jacques, F. Desprez, L. Gui-
+hard, B. Guillemot, F. Ibanez, M. Harrouet, B. Teillet,  
+P. Pailley, D. Pourreau, and C. Redou for help in the 
+searches. We are grateful to Dr B. N. K. Davis and the 
+referees  who  provided  helpful  criticisms  of the 
+manuscript. 
+ 
+ 
+REFERENCES 
+Adriàn, M. I. & Delibes, M. (1987). Food habits of the otter 
+Lutra lutra in two habitats of the Donana National Park,   
+SW Spain. J. Zool. Lond., 212, 399-406. 
+Adriàn, M. I., Wilden, W. & Delibes, M. (1985). Otter distri--
+bution and agriculture in Southwestern Spain. Congr. Int. 
+Union Game BioL, 18th, Brussels, 17-21 September 1985, 
+519-26. 
+Agence de Bassin Loire-Bretagne (1985). Carte de la qualité 
+des cours d'eau. Institut Geographique National, Nantes. 
+Barus, V. & Zejda, J. (1981). The European otter Lutra lutra 
+L. in the Czech Socialist Republic. Acta Sci. Nat. Brna, 
+15(12), 1-41. 
+Bas, N., Jenkins, D. & Rothery, P. (1984). Ecology of otters   
+in northern Scotland, V. The distribution of otter Lutra   
+lutra faeces in relation to bankside vegetation on the River 
+Dee in summer 1981. J appl. Ecol., 21, 507-13. 
+Blanchon, J. J. (1983). Statut de Ia loutre sur la basse valleé 
+de la Bouzanne. Rapport Direction Départmentale de 
+I'Agriculture, and Direction Régionale de l'Architecture et de 
+l'Environnement Centre. 
+Bouchardy, C. (1986). La loutre. Sang de Ia Terre, Paris. 
+Braun, A. J. (1985). Cause de mortalité chez la loutre  
+d'Europe Lutra lutra. Bull Groupe Loutres, 19, 1-4. 
+Brosselin, M. (1973). Valeur internationale pour l'avifaune 
+migratrice des zones humides de la façade occidentale de la 
+France. Penn Ar Bed, 74, 185-94. 
+Chanin, P. R. F. (1981). The diet of the otter and its relation 
+with the feral mink in two areas of SW England. Acta 
+Theriol., 26(5), 83-95. 
+Chanin, P. R. F. & Jelferies, D. J. (1978). The decline of the 
+otter Lutra lutra L. in Britain: An analysis of hunting  
+records and discussion of causes. Biol J. Linn. Soc. Land., 
+10, 305-28. 
+Chapman, P. J. & Chapman, L. L. (1982). Otter survey of 
+Ireland, 1980/1981. Vincent Wildlife Trust, London. 
+Conroy, J. W. H. & French, D.D. (1987). The use of spraints  
+to monitor populations of otters Lutra lutra L. Symp. Zool. 
+Soc. Lond., 58, 247-62. 
+Erlinge, 5. (1968). Territoriality of the otter Lutra lutra. Oikos, 
+19, 81-98. 
+Erlinge, S. (1972a). The situation of the otter population in 
+Sweden. Viltrevy, 8, 379-97. 
+Erlinge, S. (1972b). Interspecific relations between otter Lutra
+
+
+ 
+Decline of otters in W. France 
+13 
+ 
+lutra L. and mink Mustela vison Schreber in Sweden. 
+Oikos, 23, 327-35. 
+Fairley, J. S. (1972). Food of the otters Lutra lutra from Co. 
+Gaiway, Ireland and notes on other aspects of their biology. 
+f Zool. Lond., 166, 469-74. 
+Green, J. & Green, R. (1981). The otter Lutra lutra L. in 
+Western France. Mammal Rev., 11, 181-7. 
+Green, J., Green, R & Jefferies, D. J. (1984). A radiotracking 
+survey of otters Lutra lutra on a Perthshire river system. 
+Lutra, 27, 85-145. 
+Harper, R. J. (1981). Sites of three otter Lutra lutra breeding 
+holts in fresh water habitats. J. ZooL Lond., 195, 5546. 
+Haury, J. (1990). Macrophytes du Trieux (Bretagne nord),   
+III. Relations macrophytesqualites des eaux. Bull. Soc.     
+Sci. NaL Ouest France, 12(4), 141-54. 
+Jefferies, D. J., Green, J. & Green, R. (1984). Commercial fish 
+and crustacean traps: A serious cause of otter Lutra lutra L. 
+mortality in Britain and Europe. Vincent Wildlife Trust, 
+London. 
+Jenkins, D. & Burrow, J. D. (1980). Ecology of otters in 
+northern Scotland, III. The use of faeces as indicators of 
+otter Lutra lutra density and distribution. J. Anim. EcoL,   
+49, 755-74. 
+Jenkins, D. & Harper, R. J. (1980). Ecology of otters in 
+northern Scotland: Analysis of otter Lutra lutra and mink 
+Mustela vison faeces from Deeside, NE Scotland in 
+1977/1978. J. Anim. Ecol., 49, 737-54. 
+Jenkins, D., Walker, J. G. K. & MacCowan, D. (1979). 
+Analysis of otter Lutra lutra faeces from Deeside, North 
+East Scotland. J. Zool. Lond., 187, 23544. 
+Kruuk, H., Conroy, J. W. H., Glinnrveen, V. & Ouwerkerk, E. 
+J. (1986). The use of spraints to survey populations of   
+otters Lutra lutra. Biol. Conserv., 35, 187-94. 
+Kruuk, H. & Conroy, J. W. H. (1987). Surveying otter Lutra 
+lutra populations: A discussion of problems with spraints. 
+Biol. Conserv., 41, 179-83. 
+Leynaud, G. (1976). Effets toxiques des pollutions sur la 
+faune piscicole. In La pollution des eaux continentales, ed. 
+P. Pesson, Gauthiers-Villard, Paris, pp.13440. 
+Libois, R. M., Philippart, J. C., Rosoux, R. & Vranken, M. 
+(1982). Quel avenir pour Ia loutre en Belgique? Cahiers 
+EthoL AppI., 2, 1-15. 
+Libois, R. M. & Rosoux, R. (1989). Ecologie de la loutre 
+Lutra lutra dans le Marais Poitevin, 1. Etude de la consom-
+mation d'anguilles. Vie & Milieu, 39, 191-7. 
+Liles, G. & Jenkins, L. (1984). A field survey for otters Lutra 
+lutra in Yugoslavia. J. Zool. Lond., 203, 282-4. 
+Lodé, T. (1989). La loutre en Loire-Atlantique: Note prélim-
+inaire sur l'évo1ution recente des populations, 1'alimentation 
+et le comportement predateur de Lutra lutra L. 1758. BulL 
+Soc. Sci. NaL Ouest France, 11(2), 69-76. 
+Lodé, T. et al. (1990a). Evolution recente des populations de 
+Ia loutre d'Europe Lutra lutra dans la Région des Pays de 
+Loire. Bull. Erminea sp., Nantes. 
+Lodé, T., Pondaven, M. & Le Jacques, D. (1990b). Note 
+preliminaire sur Ia biologie du vison d'Amerique Mustela 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vison Schreber dans 1'Ouest de Ia France. Bull Soc. Sci. 
+Nat. Ouest France, 12(4), 13740. 
+Macdonald, S. M. (1983). The status of the otter in the   
+British Isles. Mammal Rev., 13,11-23. 
+Macdonald, S. M. & Mason, C. F. (1982). The otter Lutra 
+lutra in Central Portugal. Biol. Conserv., 22, 207-215. 
+Macdonald, S. M., Mason, C. F. & Coghill, I. 5. (1978). The 
+otter and its conservation in the river Teme catchment. J. 
+appL Ecol., 15, 373-84. 
+Madsen, A. B. & Mason, C. F. (1987). Cadmium, lead         
+and mercury in hair from Danish otters Lutra lutra. Nat. 
+Jutland., 22(3), 814. 
+Maizeret, C., Camby, A., Gross, F. & Delarche, A. (1981). 
+Determination des causes de rarc~ faction de Ta loutre 
+Lutra lutra. Etude me thodologique sur un ruisseau du sud 
+ouest de Ta France. BulL Groupe Loutres, 6, 4-10. 
+Mason, C. F. & Macdonald, S. M. (1987). The use of   
+spraints for surveying otter Lutra lutra populations. Biol 
+Conserv., 41, 167-77. 
+Mason, C. F. & Madsen, A. B. (1990). Mortality and condi-
+tion in otters Lutra lutra from Denmark and Great Britain. 
+NaL Jutland., 22(14), 217-20. 
+Mason, C. F. & Lodé, T. (1992). Analyse de Ta concentration 
+des résidus de pesticides organochlorés et PCBs présents 
+dans les fèces de la  loutre dans la région des Pays de Loire. 
+Bull. Soc. Sci. Nat. Ouest, France, 14(4), 9-13. 
+Müller, H. J. (1984). Otters Lutra lutra in Switzerland. Bull 
+Groupe Loutres, 18, 214. 
+Palomares, G., Delibes, M., Adriàn, M. I., Rodriguez, A. & 
+Moreno, 5. (1988). Variaci6n estacional de Ia frecuencia de 
+marcaje con heces por Lutra lutra in el bajo Guadalquivir, 
+suroeste des Espaila. Actas CoL Luso-Esp. EcoL Bacias 
+Hydrogr. e Rec. Zool., 313-18. 
+Röben, P. (1974). Zum Vorkommen des Otters Lutra lutra L. 
+1758 in der Bundesrepublik Deutschland. Saugetierk. Mittl., 
+1, 28-38. 
+Rodriguez, A., Adriàn, M. I., Delibes, M., Palomares, F. & 
+Grona, P. (1989). Habitat, uso del suelo y situaci6n de Ta 
+nutria Lutra lutra en Ta Cuenca Baja del rio Guadalquivir, 
+suroeste de Espalia. Actas Col. Luso-Esp. Ecol. Bacias 
+Hydrogr. e Rec. Zool., 343-9. 
+Romanowski, J. (1984). Wystepowanie wydry Lutra lutra 
+Linneaus 1758 w Polsce w swietle wyniklw ankiety dla 
+mysliwych. Teriologia, 28(1), 87-91. 
+Saint-Girons, M. C., Lodé, T. & Nicolau-Guillaumet, P. 
+(1988). Atlas des mammifères terrestres de Loire-
+Atlantique. Muséum National d'Histoire Naturelle, Paris. 
+SEFPM (1984). Atlas des mammifères sauvages de France. 
+Muséum National d'Histoire Naturelle, Paris. 
+Skàren, U. (1988). Chlorinated hydrocarbons. PCBs and 
+Cesium isotopes in otters Lutra lutra from Central Finland. 
+Ann. Zool. Fennici, 25, 2716. 
+Wise, M. H., Linn, I. J. & Kennedy, C. R. (1981). A compar-
+ison of the feeding biology of mink Mustela vison and otter 
+Lutra lutra. J. ZooL Lund., 195,181-213. 
+ 

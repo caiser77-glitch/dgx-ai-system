@@ -1,0 +1,484 @@
+--- 
+source: Can. J. Zool. 2003 Hattori.pdf
+--- 
+
+Can. J. Zool. 81: 52–56 (2003)
+doi: 10.1139/Z02-219
+© 2003 NRC Canada
+52
+Sex determination in the sea otter (Enhydra lutris)
+from tissue and dental pulp using PCR
+amplification
+Kaoru Hattori, Alexander M. Burdin, Manabu Onuma, Masatsugu Suzuki, and
+Noriyuki Ohtaishi
+Abstract: Historical specimens of sea otters (Enhydra lutris) provide valuable information about the pre-bottleneck
+population. However, the sex of these specimens is often not known. We attempted to determine the sex of sea otters
+by means of polymerase chain reaction (PCR) amplification of the amelogenin and the zinc finger (ZFX/ZFY) regions.
+The PCR fragments of amelogenin amplified were same size regardless of the sex. On the other hand, we were able to
+distinguish the sex accurately by means of the sea otter-specific restriction enzyme (NlaIII) to digest a polymorphic site
+in the ZFX/ZFY region. This method was applicable to dental pulp from skull specimens with the use of novel inner
+primers (KH1/KH2). We suggest that with some modification, the ZFX/ZFY system can be applied to other species
+and to a variety of archaeological specimens.
+Résumé : L’examen de spécimens de musée de la loutre de mer (Enhydra lutris) permet d’obtenir des renseignements
+précieux sur la population antérieure au goulot d’étranglement. Cependant, le sexe de ces animaux n’est pas toujours
+connu. Nous avons tenté de déterminer le sexe des loutres par amplification de l’amélogénine et de la région du doigt
+de zinc (ZFX/ZFY) par la réaction de polymérisation en chaîne (PCR). Les fragments d’amélogénine amplifiés étaient
+de la même taille chez les mâles et les femelles. Par ailleurs, nous avons pu reconnaître le sexe des loutres au moyen
+de l’enzyme de restriction (NlaIII) spécifique à la loutre qui digère les locus du polymorphisme dans la région du doigt
+de zinc (ZFX/ZFY). Cette méthode peut s’utiliser sur la pulpe dentaire obtenue sur des crânes au moyen de nouvelles
+amorces internes (KH1/KH2). Nous croyons qu’avec quelques modifications, le système ZFX/ZFY pourrait être utilisé
+chez d’autres espèces avec divers spécimens archéologiques.
+[Traduit par la Rédaction]
+56
+Hattori et al.
+Introduction
+The sea otter (Enhydra lutris) was exploited by commer-
+cial harvesting in the North Pacific Ocean during the 18th
+and 19th centuries (Kenyon 1969). The current population
+reflects severe bottlenecks and subsequent recovery, but mu-
+seum specimens can provide information about the “natural”
+population (Scribner et al. 1997).
+Such specimens can provide valuable information about
+not only the historical but also the current wild population.
+For example, sex ratio is one such type of information. How-
+ever, when the sex of specimens is unknown or uncertain, it
+needs to be determined morphologically or molecularly.
+Sex has been determined using skull morphology in the
+sea otter (Roest 1985; Ryazanov and Maminov 1996) and
+other species (Bergerud 1964; Gordon and Morejohn 1975).
+However, variations among individuals or small sample sizes
+have caused difficulties in establishing morphological stan-
+dards for sex determination.
+Molecular techniques of sex determination for many species
+(Aasen and Medrano 1990; Palsbøll et al. 1992; Takahashi et
+al. 1998) are based on detecting a sex-specific DNA se-
+quence such as SRY, amelogenin, or ZFX/ZFY using the
+polymerase chain reaction (PCR). Murata et al. (1996) deter-
+mined the sex of sea otters using the SRY region, which is
+located only on the Y chromosome. When amplified, male
+samples yield a product, whereas female samples do not.
+This system requires two primer sets, one for the SRY re-
+gion and another as an internal positive control. On the other
+hand, the amelogenin and the zinc finger (ZFX/ZFY) regions
+require only one primer set to amplify a region of the X–Y
+homologous gene; amelogenin was assayed for humans
+(Sullivan et al. 1993) and cattle (Ennis and Gallagher 1994)
+and ZFX/ZFY for humans, cattle, sheep, and goats (Aasen
+and Medrano 1990). The X/Y amelogenin polymorphism pro-
+vides male and female amplification fragments that differ in
+length. In the ZFX/ZFY system, sex is determined by the ap-
+pearance of sex-specific bands in restriction fragment length
+polymorphism (RFLP) assays after PCR.
+Here we determine the sex of sea otters using one primer
+Received 5 April 2002. Accepted 19 November 2002.
+Published on the NRC Research Press Web site at
+http://cjz.nrc.ca on 7 February 2003.
+K. Hattori,1 M. Onuma, M. Suzuki, and N. Ohtaishi.
+Laboratory of Wildlife Biology, Graduate School of
+Veterinary Medicine, Hokkaido University, Sapporo,
+060-0818, Japan.
+A.M. Burdin. Alaska SeaLife Center, 301 Railway Avenue,
+P.O. Box 1329, Seward, AK 99664, U.S.A., and Kamchatka
+Institute of Ecology and Nature Management, Russian
+Academy of Sciences, Prospect Rybakov, 19A,
+Petropavlovsk-Kamchatsky, 683024, Russia.
+1Corresponding author (e-mail: shuu@vetmed.hokudai.ac.jp).
+
+
+set for the ZFX/ZFY region and apply the method to dental
+pulp from the skulls of museum specimens.
+Materials and methods
+Samples
+Muscle tissues from 10 sea otter carcasses (5 male; 5 fe-
+male) found on Lopatka Cape in Russia were stored in 70%
+ethanol. Dental pulp was collected from the canines of 318
+sea otter skulls (3 male; 315 unknown sex) that are stored in
+a Russian museum (Table 1).
+DNA extraction
+DNA was extracted using phenol – proteinase K – sodium
+dodecyl sulfate (SDS) (Masuda and Yoshida 1994). Muscle
+tissues were sectioned (approximately 2 × 2 × 2 mm), washed
+with sodium – Tris – EDTA (STE) buffer (0.1 M NaCl,
+10 mM Tris, pH 7.5, 1 mM EDTA), and homogenized. Den-
+tal pulp was incubated at 37°C for several hours in 500 µL
+of STE buffer containing a final concentration of 0.5% SDS
+and 5 µg/mL of proteinase K (Qiagen, Hilden, Germany) and
+homogenized. Homogenates were incubated at 37°C overnight,
+then extracted with phenol–chloroform.
+DNA amplification and analysis
+Amelogenin
+Two amelogenin regions were amplified by PCR. The se-
+quence of oligonucleotide primers and the reaction condi-
+tions are listed in Table 2. PCR reactions proceeded in a
+total volume of 20 µL containing about 0.1 µg of DNA,
+15.3 µL of dH2O, 0.5 U of Taq polymerase (Qiagen), 2 µL
+of 10× reaction buffer, 0.4 µL of 10 mM dNTP, 0.4 µL of
+10× bovine serum albumin (1 mg/mL), and 0.4 µL of each
+primer (25 pmol/µL).
+PCR products were resolved by electrophoresis on a 4%
+agarose gel, stained by ethidium bromide, and visualized un-
+der an UV illuminator.
+ZFX/ZFY
+DNA amplification proceeded in a manner similar to that
+of amelogenin using the primers P1-5EZ/P2-3EZ (Table 2).
+PCR products of male and female DNA were directly sequenced
+using BigDye™and the sequencer model ABI Prism 377
+(Applied Biosystems). The positions of polymorphisms in
+the ZFX/ZFY region were determined using the comparative
+sequencing method of Schwerin and Pitra (1994). Thereaf-
+ter, the appropriate restriction enzyme, NlaIII (New England
+BioLabs Inc.), was selected to digest the polymorphism loci.
+PCR products were digested with this enzyme, then the re-
+striction fragments were separated by 4% agarose gel
+electrophoresis and visualized as described for amelogenin.
+Results
+Amelogenin
+One primer set (Amel-A/B) amplified one band (about
+100 base pairs (bp)) from both male and female DNA sam-
+ples (n = 5, each; Fig. 1a). On the other hand, another
+primer set (SE47/48) amplified two bands (about 200 and
+300 bp; Fig. 1b). No sex polymorphisms in length were evi-
+dent in either amelogenin region in the sea otter.
+ZFX/ZFY
+A 447-bp fragment was amplified from both male and female
+DNA (Fig. 2). To select the appropriate restriction enzyme,
+which digests the positions of polymorphism, the amplified
+ZFX/ZFY region was sequenced on male and female sea ot-
+ters (n = 5, each). Figure 3 shows the sequences of amplified
+fragments of the sea otter ZFX/ZFY region. Digestion with
+NlaIII yielded four fragments (203 and 82/78/73 bp) from
+female otters and five (276, 203, and 82/78/73 bp) from
+males (the Y chromosome did not have a NlaIII site com-
+pared with the X chromosome; Fig. 3). This enzyme deter-
+mined the correct sex from muscle tissues and dental pulp
+from confirmed males and females (n = 13).
+However, the primer set (P1-5EZ/P2-3EZ) could not amplify
+a 447-bp fragment from most dental-pulp samples (82.5%;
+Table 3). To amplify the shorter ZFX/ZFY region, we de-
+signed new inner primers (KH1/KH2; Table 1) based on the
+sequence (Fig. 3) for nested PCR of dental-pulp DNA. A
+165-bp fragment was amplified from longer ZFX/ZFY-negative
+samples (126 samples, 48.5%; Table 3, Fig. 4a). This shorter
+ZFX fragment was digested by NlaIII once at the 60th locus
+(Fig. 3), whereas the shorter ZFY fragment was not di-
+gested, generating two fragments from the females (105 and
+60 bp) and three from the males (165, 105, and 60 bp; a
+band at 60 bp was not shown in Fig. 4b). In total, we deter-
+mined the sex of 181 (57.5%) sea otters from 315 den-
+tal-pulp samples of unknown sex. We could not determine
+the sex of 134 samples (Table 3).
+Discussion
+We developed a means of accurately determining the sex
+from sea otter muscle and dental pulp based on the ZFX/ZFY
+polymorphism. This method was more practical than the
+SRY system (Murata et al. 1996), as only one primer set is
+required because an internal positive control is not needed.
+Aasen and Medrano (1990) and Palsbøll et al. (1992) sug-
+gested that distinguishing ZFX/ZFY by RFLP assay of some
+species could be difficult because these sequences have a
+high degree of similarity. However, Schwerin and Pitra (1994)
+developed a quick and efficient method for sexing the spot-
+ted hyena (Crocuta crocuta), which has a low rate (2.7%) of
+polymorphisms between ZFX and ZFY. They confirmed the
+sequence by comparative sequencing of the PCR fragments
+and conducted a sensitive PCR/RFLP assay.
+Similarly, we sequenced sea otter ZFX/ZFY fragments
+with high homology rates (98.7%) between ZFX and ZFY,
+© 2003 NRC Canada
+Hattori et al.
+53
+Known sex
+Male
+Female
+Unknown sex
+Total
+Muscle
+5
+5
+10
+Dental pulp
+3
+315
+318
+Total
+8
+5
+315
+328
+Table 1. Numbers of muscle and dental-pulp samples from
+the sea otter (Enhydra lutris).
+
+
+and selected a restriction enzyme that recognized single base
+pair polymorphisms. Sequencing can reveal species-specific
+restriction enzymes and this can be applied to a wide range
+of species.
+We then attempted to determine the sex from unknown
+samples of dental pulp. DNA extracted from dental pulp is
+useful for forensic science, because teeth can be preserved
+very well and the pulp cavity is protected from contamina-
+tion by hard tissues (Yamada et al. 1989). Although not all
+amplifications from samples of dental pulp were successful,
+new inner primers (KH1/KH2) for nested PCR amplified a
+shorter ZFX/ZFY fragment with polymorphisms in sequence,
+even from 126 samples in which ZFX/ZFY was not detected
+with the P1-5EZ/P2-3EZ primers. This result indicates an
+advance in nested PCR using a novel inner primer set for
+amplifying fragments from dental pulp.
+However, even with the new inner primers, we could not
+determine the sex of 134 samples. This could have been due
+to DNA degradation or contamination with PCR amplification
+inhibitors. To overcome degradation, Shindo and Yoshioka
+(1998) suggested that DNA fragments from archaeological
+samples of less than 50 bp are suitable for amplification.
+Practically, shorter fragments (amelogenin-1, about 100 bp)
+were amplified from 37 of 134 shorter ZFX/ZFY-negative
+samples; degradation of DNA in our samples was suggested.
+However, very short amplified products may not be suitable
+for RFLP assay, as they do not separate clearly in agarose
+gel (Murakami et al. 2001). We suggest that with some mod-
+ifications in DNA extraction (e.g., silica-based techniques or
+the use of proteinase K at 55–60°C) and purification, this
+method of determining sex can be applied to various sam-
+ples such as decayed carcasses, beachcast bone, or dried skin
+from museum specimens, and even archaeological samples.
+Sea otter bones and hairs have been excavated from archaeo-
+logical sites of the Okhotsk Culture (Baba 1936; Kitagamae
+1980). The sex of these remains can now be determined,
+which helps our understanding of the historical population.
+In addition, the status of the current sea otter population can
+be monitored by determining the sex of beachcast carcasses.
+Applying the amelogenin system to humans (Sullivan et al.
+1993), cattle (Ennis and Gallagher 1994), horses (Fukushima
+© 2003 NRC Canada
+54
+Can. J. Zool. Vol. 81, 2003
+Locus
+Primer
+Sequence
+Annealing temp.
+(°C)
+Amelogenin-1a
+Amel-A
+5′-CCC TGG GCT CTG TAA AGA ATA GTG-3′
+60
+Amel-B
+5′-ATC AGA GCT TAA ACT GGG AAG CTG-3′
+Amelogenin-2b
+SE 47
+5′-CAG CCA AAC CTC CCT CTG C-3′
+58
+SE 48
+5′-CCC GCT TGG TCT TGT CTG TTG C-3′
+Longer ZFX/ZFY regionc
+P1-5EZ
+5′-ATA ATC ACA TGG AGA GCC ACA AGC T-3′
+45
+P2-3EZ
+5′-GCA CTT CTT TGG TAT CTG AGA AAG T-3′
+Shorter ZFX/ZFY region
+KH1
+5′-TGA CCA GCA AGG CAG AGA A-3′
+45
+KH2
+5′-TCA ACA ACC CTT GTT CAG CT-3’
+Note: For all amplifications, conditions were as follows: 94°C for 3 min, followed by 35 cycles of 94°C denaturation
+(1 min), annealing (1 min), a 72°C extension (2 min), and a final 72°C extension (7 min).
+aFrom Sullivan et al. (1993).
+bFrom Ennis and Gallagher (1994).
+cFrom Aasen and Medrano (1990).
+Table 2. Sequence of oligonucleotide primers and annealing temperatures for PCR.
+Fig. 1. Amplification products of the amelogenin region in the
+sea otter (Enhydra lutris). (a) Amplification of the amelogenin-1
+fragment by the primer set Amel-A/B. (b) Amplification of the
+amelogenin-2 fragment by the primer set SE47/48. Lane 1,
+100-bp molecular ruler (a and b). Female (F) and male (M) frag-
+ments do not differ in length.
+Fig. 2. Amplification products and NlaIII restriction-fragment
+profiles. Lane 1, 100-bp molecular ruler; lanes 2 and 3, ampli-
+fied products from female and male otters before digestion; lanes
+4 and 5, fragments digested with NlaIII. The 276-bp fragment is
+present in male samples but not female samples.
+
+
+© 2003 NRC Canada
+Hattori et al.
+55
+et al. 1999), and bears (Yamamoto et al. 2002) has the advan-
+tage of
+requiring
+only
+PCR
+amplification,
+unlike
+the
+ZFX/ZFY system, which requires a digestion step after
+PCR. In addition, the amelogenin system does not require an
+internal positive control to detect PCR failure like the SRY
+system does (Palsbøll et al. 1992; Takahashi et al. 1998).
+However, we obtained bands of same size from sea otter
+DNA regardless of the sex, and we could not determine sex
+from PCR products using the amelogenin primer sets.
+A variety of animals have been examined using the human
+sex-typing primer set 1 (Amel-A/Amel-B; Buel et al. 1995).
+That study suggested that the Amel-A/Amel-B gene (part of
+the amelogenin intron 1) was found only on the X chromo-
+some of many species, including cattle, which would also
+result in the absence of gender differences. Nevertheless, sex
+has been determined in cattle with primer set 2 (SE47/48, which
+amplifies part of amelogenin exon 5; Ennis and Gallagher
+1994) and in the horse with another primer set (AMESC-1/2,
+which amplifies part of amelogenin exon 5; Fukushima et al.
+1999). Primer set 2 also revealed a polymorphism in PCR
+products from the Japanese black bear (Ursus thibetanus
+japonicus) (Yamamoto et al. 2002), brown bear (Ursus arctos)
+(H. Tsuruga, personal communication), and sun bear (Helarctos
+malayanus) (M. Onuma, personal observation). On the other
+hand, primer set 2 is unsuitable for determining the sex of the
+raccoon dog (Nyctereutes procyonoides) (Y. Furukawa, personal
+communication) and some mustelid species (R. Masuda, per-
+sonal communication). The polymorphism in the amplified
+amelogenin region using primer set 2 might be found among
+Ursidae but not among Mustelidae or Canidae. Primer set 2
+might be applicable to other species of Ursidae.
+In conclusion, we established a rapid and reliable nested
+PCR-based method for determining sex from sea otter tissues
+and dental pulp. We suggest that this method can be used for
+museum specimens and archaeological samples. Such speci-
+mens can provide valuable information about the historical
+wild population of the sea otter. Furthermore, the method
+may be applied to other species by selecting appropriate
+species-specific restriction enzymes.
+Amplified
+Not amplified
+Total
+No.
+%
+No.
+%
+Longer ZFX/ZFY region
+315
+55
+17.5
+260a
+82.5
+Shorter ZFX/ZFY region
+260a
+126
+48.5
+134b
+51.5
+Total
+315
+181
+57.5
+134b
+42.5
+aThe shorter ZFX/ZFY region was amplified by nested PCR from the
+260 samples that failed in amplification of the longer ZFX/ZFY region.
+bIn total, neither the longer nor the shorter ZFX/ZFY region was
+amplified from 134 samples.
+Table 3. Results of amplification of longer and shorter ZFX/ZFY
+regions.
+Fig. 3. Sequence of amplified fragments from the sea otter ZFX/ZFY region and location of NlaIII sites (double-underlined). Sequence
+differences in ZFY relative to ZFX are marked with the appropriate nucleotides. Dots indicate identical nucleotides. Single-underlined
+sequences indicate primers for longer ZFX/ZFY amplification. The thick single lines show the sequences of novel primers.
+Fig. 4. Results of nested PCR from one male sample and one
+female sample. (a) Amplification products of the longer and
+shorter ZFX/ZFY regions. Lane 1, 100-bp molecular ruler; lanes
+2 and 3, amplification by P1-5EZ/P2-3EZ for the longer
+ZFX/ZFY region (447 bp); lanes 4 and 5, amplification by
+KH1/KH2 for the shorter ZFX/ZFY region (165 bp) directly;
+lanes 6 and 7, amplification by nested PCR. In lanes 2–4, no
+fragment was amplified; in lane 5, the shorter ZFX/ZFY region
+was amplified but weak. Seven microlitres of the amplified prod-
+ucts was loaded per well. (b) NlaIII restriction-fragment profiles
+of nested PCR products. Lane 1, 100-bp molecular ruler; lanes 2
+and 3, fragments digested with NlaIII.
+
+
+© 2003 NRC Canada
+56
+Can. J. Zool. Vol. 81, 2003
+Acknowledgments
+We thank N. Pavlov, T. Dakhno, V.N. Brukanov, and C.
+Takahashi for sample preparation. We are also grateful to H.
+Tsuruga, R. Masuda, K. Murata, and Y. Furukawa for excel-
+lent technical assistance. The support of colleagues in the
+Graduate School of Veterinary Medicine, Hokkaido Univer-
+sity, is appreciated.
+References
+Aasen, E., and Medrano, J.F. 1990. Amplification of the ZFY and
+ZFX genes for sex identification in humans, cattle, sheep and
+goats. Bio/Technology, 8: 1279–1281.
+Baba, O. 1936. Report from the second archaeological investiga-
+tion in Shumushu Island, north Kuril Islands. [In Japanese.] J.
+Anthropol. Soc. Tokyo, 51: 1–25.
+Bergerud, A.T. 1964. Relationship of mandible length to sex in
+Newfoundland caribou. J. Wildl. Manage. 28: 54–56.
+Buel, E., Wang, G., and Schwartz, M. 1995. PCR amplification of
+animal DNA with human X–Y amelogenin primers used in gen-
+der determination. J. Forensic Sci. 40: 641–644.
+Ennis, S., and Gallagher, T.F. 1994. A PCR-based sex-determination
+assay in cattle based on the bovine amelogenin locus. Anim.
+Genet. 25: 425–427.
+Fukushima, Y., Mukoyama, H., Sato, F., Hasegawa, T., Ishida, N.,
+and Muramatsu, S. 1999. Sex determination of equine somatic
+and germ cells by PCR amplification based on the sequence
+polymorphism of X- and Y-chromosomal amelogenin genes. [In
+Japanese with English summary.] Anim. Sci. J. 70: J6–J10.
+Gordon, K.R., and Morejohn, G.V. 1975. Sexing black bear skulls
+using lower canine and lower molar measurement. J. Wildl. Manage.
+39: 40–44.
+Kenyon, K.W. 1969. The sea otter in the eastern Pacific Ocean. N.
+Am. Fauna, 68: 1–352.
+Kitagamae, Y. 1980. Culture of capturing marine mammal and sea
+otter. [In Japanese.] Archaeol. Hokkaido, 16: 1–13.
+Masuda, R., and Yoshida, M.C. 1994. Nucleotide sequence varia-
+tion of cytochrome b genes in three species of weasels Mustela
+itatsi, Mustela sibirica, and Mustela nivalis, detected by im-
+proved PCR product – direct sequencing technique. J. Mamm.
+Soc. Jpn. 19: 33–43.
+Murakami, M., Fujise, H., Lee, Y., Matsuba, C., and Fujitani, H.
+2001. Reliable sex identification of dogs by modified PCR/RFLP
+analysis. J. Vet. Med. Sci. 63: 679–681.
+Murata, K., Taki, M., and Masuda, R. 1996. PCR-amplification of
+SRY gene for sexing a newborn sea otter, Enhydra lutris, using
+the placenta and umbilical cord. [In Japanese with English sum-
+mary.] J. Jpn. Assoc. Zool. Aqua. 38: 48–51.
+Palsbøll, P.J., Vader, A., Bakke, I., and El-Gewely, M.R. 1992.
+Determination of gender in cetaceans by the polymerase chain
+reaction. Can. J. Zool. 70: 2166–2170.
+Roest, A.I. 1985. Determining the sex of sea otters from skulls.
+Calif. Fish Game, 71: 179–183.
+Ryazanov, D.A., and Maminov, M.K. 1996. Age and sex determi-
+nation from canine teeth in sea otter (Enhydra lutris). [In Rus-
+sian with English summary.] Zool. Zh. 75: 593–601.
+Schwerin, M., and Pitra, C. 1994. Sex determination in spotted hy-
+ena (Crocuta crocuta) by restriction fragment length poly-
+morphism of amplified ZFX/ZFY loci. Theriogenology, 41:
+553–559.
+Scribner, K.T., Bodkin, J., Ballachey, B., Fain, S.R., Cronin, M.A.,
+and Sanchez, M. 1997. Population genetic studies of the sea
+otter (Enhydra lutris): a review and interpretation of available
+data. In Molecular genetics of marine mammals. Edited by A.E.
+Dizon, S.J. Chivers, and W.F. Perrin. Spec. Publ. No. 3, Society
+for Marine Mammals, Lawrence, Kans. pp. 197–208.
+Shindo, S., and Yoshioka, N. 1998. Sex determination of the sam-
+ples excavated from the old ruins. [In Japanese with English
+summary.] Res. Pract. Forensic Med. 41: 41–45.
+Sullivan, K.M., Mannucci, A., Kimpton, C.P., and Gill, P. 1993. A
+rapid and quantitative DNA sex test: fluorescence-based PCR
+analysis of X–Y homologous gene amelogenin. BioTechniques,
+15: 636–641.
+Takahashi, M., Masuda, R., Uno, H., Yokoyama, M., Suzuki, M.,
+Yoshida, M.C., and Ohtaishi, N. 1998. Sexing of carcass re-
+mains of the Sika deer (Cervus nippon) using PCR amplification
+of the Sry gene. J. Vet. Med. Sci. 60: 713–716.
+Yamada, Y., Yamamoto, K., Yoshii, T., and Ishiyama, I. 1989.
+Analysis of DNA from tooth and application to forensic dental
+medicine. Jpn. J. Legal Med. 43: 420–423.
+Yamamoto, K., Tsubota, T., Komatsu, T., Katayama, A., Murase,
+T., Kita, I., and Kudo, T. 2002. Sex identification of Japanse
+black bear, Ursus thibetanus japonicus, by PCR based on
+amelogenin gene. J. Vet. Med. Sci. 64: 505–508.

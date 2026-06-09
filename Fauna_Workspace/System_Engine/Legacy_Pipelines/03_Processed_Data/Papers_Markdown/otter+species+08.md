@@ -1,0 +1,202 @@
+--- 
+source: otter+species+08.pdf
+--- 
+
+ 
+North Lanarkshire Biodiversity Action Plan: Otter. 2008 Update. 
+Otter Action Plan 
+Lutra lutra 
+ 
+UK List of Priority Species:  
+ 
+ 
+ 
+ 
+Yes 
+Scottish Biodiversity List:  
+ 
+ 
+ 
+ 
+Yes 
+ 
+Summary 
+ 
+The otter is widespread in North Lanarkshire and is found in nearly all suitable 
+waterways. With continuing efforts to improve water quality the population of 
+Otters should increase further, as all suitable habitat is occupied. 
+ 
+Species Profile 
+ 
+Otters require clean rivers with a plentiful supply of food and bankside 
+vegetation. They are shy, semi-aquatic, mostly nocturnal creatures, although 
+they can be seen during the day in undisturbed locations.  Their fur is 
+generally medium to dark brown in colour with a pale underbelly. Adults vary 
+from 1-1.2 metres in length, and 6-8kg in weight. Females are generally 
+smaller than males. They are found in almost all wetland habitats including 
+lochs, rivers, burns, ditches, reedbeds, marshes, estuaries and the coast.  
+ 
+An otter needs up to 30 holts (dens) or lying up sites in their home range. 
+Large cavities in bankside tree roots, dense impenetrable scrub, rock cavities, 
+peat burrows and old culverts are all examples of typical holt sites. One of the 
+best ways to identify a possible holt is to look for their droppings known as 
+spraints which are black and spiky and have fish bones in them. Footprints 
+and runs are also good indicators of an otter’s presence.  
+ 
+Their main diet is fish, with eels being a favourite, although they will eat 
+amphibians (frogs are an important food source in spring), small mammals 
+and some birds. An adult otter requires about 1kg of food a day. This high 
+value is due to the amount of energy used hunting their aquatic prey.  
+ 
+Breeding is non-seasonal; therefore they can breed at any time of the year. 
+The female gives birth to one to four cubs in the safest holt in her home range. 
+The cubs remain there for about 2 months and then begin exploring their 
+territory with their mother. They will stay with her for 12 to 18 months before 
+finding their own territory (the father plays no role in rearing the cubs). They 
+are sexually mature at two years but life expectancy is short, three years on 
+average, although their potential life expectancy is up to fifteen years.  Late 
+sexual maturity, small litter size and a short life expectancy make breeding 
+success critical. 
+ 
+Current Status 
+ 
+The Eurasian otter has the widest distribution of all otter species. Its range 
+covers parts of three continents: Europe, Asia (as far south as Java) and 
+North Africa. Originally the species was widespread throughout Europe, after 
+
+
+ 
+North Lanarkshire Biodiversity Action Plan: Otter. 2008 Update. 
+the population crashes in the 1960-70’s it declined in Central and Northern 
+Europe and is probably extinct in the Netherlands and Switzerland. The 
+population crash was largely due to pollution from farm pesticides and habitat 
+loss. By the late 1970s the otter was almost extinct in the UK apart from a few 
+strongholds in Scotland such as Dumfries and Galloway and the Highlands 
+and Islands. However, by the 1980s otter populations had begun to recover 
+due to the phasing out and banning of some hydrocarbon pesticides.  
+ 
+There are still good populations in Portugal, Ireland, Greece, Scotland and the 
+northern taiga of Russia. However, over its whole range the Otter is estimated 
+to have declined by at least 20%. 
+ 
+The Scottish population is one of the largest populations in Europe and as the 
+inland populations expand this population is being further bolstered. This 
+makes our population significant in Europe, and globally. 
+ 
+During 2003 a total of 24 10km squares were surveyed for otters within 
+Strathclyde & Ayrshire. 59 out of 71 (83.10%) survey sites from within these 
+squares were positive. This compares with only 23.94% positive in 1978–79, 
+29.58% positive in 1985–86 and 48.19% positive in 1991–94, representing a 
+substantial improvement over the last decade.  Otters are now found in nearly 
+all lochs, rivers and burns in the area.    
+ 
+ 
+Legal Status 
+ 
+The otter is listed on Appendix I of CITES, Appendix II of the Bern Convention 
+and Annexes II & IV of the Habitats Directive. It is also protected under 
+Schedule 5 of the Wildlife and Countryside Act 1981 (as amended) and 
+Schedule 2 of the Conservation (Natural Habitats, &c.) Regulations 1994, and 
+the Nature Conservation (Scotland) Act 2004. 
+ 
+This protection means that it is an offence to deliberately: kill or injure otters, 
+capture or keep otters, destroy, damage or obstruct their den, disturb them 
+while in the den, sell or advertise for sale, otters and anything derived from 
+them, import or export otters, whether dead or alive 
+ 
+The above actions can only be carried out with a specially granted licence, 
+issued by SNH. 
+ 
+Current Factors Affecting This Species 
+ 
+• Pollution of watercourses from industrial, residential and agricultural 
+sources. Industrial and residential pollution of watercourses is a major 
+issue in the Coatbridge and Airdrie area. 
+• Existing developments without Sustainable Urban Drainage Systems 
+increasing the run-off going into the drains, overloading the sewage 
+system so that uses the emergency overflows to discharge directly into 
+water courses. 
+• Habitat loss due to development. 
+
+
+ 
+North Lanarkshire Biodiversity Action Plan: Otter. 2008 Update. 
+• Acidification of watercourses caused by acid rain and exacerbated by 
+leachate from conifer plantations. 
+• Disturbance is still a major factor as waterways are increasingly used for 
+recreation; people and dogs can cause major problems in some places. 
+ 
+Current Action 
+ 
+• Scottish Water’s upgrading of the sewage infrastructure, leading to 
+improved water quality.  
+• North Lanarkshire Councils Fantastic Freshwater education and 
+awareness scheme. 
+• Scottish Environmental Protection Agency’s monitoring of water quality at 
+selected sites locally. 
+• Ongoing collation of Otter roadkill records. 
+• All developments affecting otter habitat are recommended to have an otter 
+survey undertaken prior to development. 
+ 
+Proposed Objectives, Targets and Actions 
+ 
+1. Conserve and enhance otter habitat. 
+2. Maintain and where possible expand the otter population in North 
+Lanarkshire. 
+ 
+Action 
+Meets 
+objective 
+number 
+Action by 
+Target 
+Site and species safeguard and management 
+1.1 Attempt to limit accidental deaths by 
+providing road underpasses, dyke net 
+guards etc 
+2 
+NLC, SG, SNH 
+Identify key areas by end of 
+2010.  Implement appropriate 
+preventative measures by 
+end of 2013. 
+1.2.  Identify and mitigate any pollution 
+issues that may be limiting populations. 
+2 
+NLC, SG, 
+SEPA, SNH 
+Identify areas by end of 2010.  
+Implement appropriate 
+preventative measures by 
+end of 2013. 
+Advisory 
+2.1 Advise owners and seek to secure 
+appropriate management of otter sites.  
+1 
+FWAG, SNH, 
+SEPA, SWT, 
+NFU, SLF 
+3 otter related grant funded 
+projects annually. 
+Research and monitoring 
+ 
+ 
+ 
+3.1 Monitor otter populations in key 
+areas. 
+1,2 
+SWT, NLC, 
+SNH 
+Annual survey. 
+ 
+Communications and publicity 
+4.1 Use this popular species to highlight 
+the importance of water quality 
+1,2 
+NLC 
+One themed talk, walk, leaflet 
+or article annually. 
+ 
+Plan written by Heather Dunsmore and Andrew Jones (Scottish Wildlife Trust). Updated by 
+Jonathan Willet (Biodiversity Officer) 2004.  Reviewed and updated by Laura Whyte 
+(Biodiversity Officer) 2008. 

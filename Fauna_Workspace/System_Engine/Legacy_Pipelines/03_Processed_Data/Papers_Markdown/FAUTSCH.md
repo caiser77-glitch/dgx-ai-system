@@ -1,0 +1,198 @@
+--- 
+source: FAUTSCH.pdf
+--- 
+
+THE BORDERS BETWEEN BELGIUM, GERMANY AND LUXEMBOURG: A CHANCE FOR 
+FUTURE RECOLONISATION OF THE OTTER IN EUROPE. 
+(A project report) 
+ 
+Michel FAUTSCH 
+ 
+Parc Naturel Haute-Sûre Forêt d’Anlier Grand’Rue, 6  B-6630 Martelange,  Belgium 
+email : michel@parcnaturel.be 
+ 
+ 
+1   INTRODUCTION  
+ 
+The decline of the otter (Lutra lutra) was felt throughout much of Europe during the 
+last century. At a local level, many core populations became isolated and finally extinct and at 
+the beginning of the 1980s the situation had become particularly alarming. In 1986, a 
+publication showed a large corridor of Europe where the status of the otter was considered to 
+be “very scarce” (BOUCHARDY, 1986).  This included Belgium, Luxembourg and Germany 
+and so several specialists gathered information about the status of the otter in that region. It 
+now appears that the species never disappeared from some rivers. Although it is not possible 
+to estimate the importance of these remaining populations, the absence of spraints over a long 
+time period indicates that the density was most probably very low. In such situations, the only 
+way to monitor population evolution is using tracks. These are principally searched for in 
+snow when winter conditions are suitable.   
+ An examination of existing literature highlighted that there had been no significant 
+development of the otter population during the past twenty years (OVERAL, 1989; LIBOIS & 
+HALLET, 1995; GROUPE LOUTRE LUXEMBOURG, 1997).  The species is still present in the area 
+and prints have been discovered at several places during winter 2002-2003.  
+ 
+2   STUDY AREA  
+ 
+An awakening occurred about the precarious position of the otter some time ago and this 
+project is a continuation of that and other initiatives which mainly took place in Belgium and 
+Luxembourg. Three catchment areas are included in the project - the Ourthe, the Our and the 
+Sûre. As the last two rivers flow through more than one country, the project is the result of 
+trans-border collaboration between Belgium, Luxembourg and Germany. 
+ 
+3   PROGRESS REPORT 
+ 
+The first step of this project was the establishment of the trans-border collaboration. This was 
+possible thanks to financial support from the European Commission and the Walloon 
+Government in Belgium (Financed by STARTER LIFE-Nature, the recipient being Parc Naturel 
+Haute-Sûre Forêt d’Anlier).  
+At the same time of making contact with possible partners and other interested people, 
+the recipient began a review of the scientific literature to define the regional status of the otter 
+and identify the local threat to the species. Five principal threats were identified: 
+a. Habit destruction (the most important),  
+b.  Reduction of water quality, 
+c. .Accidental mortality, 
+d.  Destruction,  isolation  and fragmentation of the population, 
+e.  Human disturbance.  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1:  The river catchments used in the study 
+ 
+This report made it possible to identify the sites and the actions to be undertaken to 
+fight against the causes of this decline. The project will operate firstly in the Natura 2000 sites 
+and proposes more than 30,000 hectares as ‘possible action sites’. (This large area is required 
+due to the ecology of the otter and, amongst other things, the great displacements that can 
+happen.)  
+The proposed actions are varied and include: 
+ 
+• 
+restoration of woodland and farmland (cuting resinous trees, fences and 
+plantations, creation and restoration of ponds, etc.); 
+• 
+installations at dams and bridges to allow otter movements; 
+• 
+purchase of land,  
+Scale : 
+ 
+  
+  10 Km 
+ 
+Limit of the  
+hydrographic districts 
+Affluents 
+ 
+National border 
+Principal  rivers 
+ 
+Legend : 
+Bassin  
+hydrographique  
+de la Sûre 
+ 
+Luxembourg 
+ 
+Ruisseau d’Heure 
+Bassin hydrographique 
+     de l’Our 
+Belgium
+ 
+Bassin  
+hydrographique   
+de l’Ourthe 
+ 
+District 
+hydrographique mosan
+ 
+Germany
+ 
+District 
+hydrographique rhénan
+ 
+Braunlauf 
+Ulf 
+Clerve 
+Wiltz 
+Strange 
+Basseille 
+Ourthe occidentale 
+Ourthe Orientale 
+Ourthe 
+Our 
+Sûre 
+
+
+• 
+monitoring of population evolution,  
+• 
+education (booklets, articles, CD-Rom and a discovery path, organisation of 
+visits and information sessions, creation of an Internet site, etc.). 
+ 
+During 2003, the LIFE-Nature Application File 2003 was completed for submission in 
+September 2003. The European Commission will then decide if the project fits into its 
+priorities. If it is accepted, the project, entitled Restoration of the European otter (Lutra lutra, 
+L.) habitat in the valleys of the Our, the Ourthe and the Sûre (Belgium, Luxembourg and 
+Germany). could begin during  2004 and will last for a period of four years. Although the 
+principal species is the otter, many other species could also benefit. A large number of species 
+dependent on wetlands are particularly endangered at European scale, including Ciconia 
+nigra, Myotis myotis, Margaritifera margaritifera, Triturus cristatus, Oxygastra curtisii, etc., 
+or at regional level, for example plants such as - Orchis spp, Ophrys spp, Arnica montana, 
+Nardus stricta, Saxicola ruberta, Muscardinus avellarianus, etc.  
+ 
+ 
+4   FUTURE  PARTNERS 
+ 
+The project started with a network of seven natural parks (two in Germany, two in 
+Luxembourg and three in Belgium) and they were already partners in the first step of the 
+project. The large assets of these organisations include a detailed knowledge of the territory, 
+the infrastructure available and the existence of working groups on different topics such as 
+agriculture, environment and nature conservation, forestry, fishing, hunting.  Other partners 
+contributed to discussions, including scientific institutions, local and regional administrations 
+and local observers, and all of these will be involved in the project.  
+The objective of this project is to restore the habitat in the valleys concerned in order 
+to preserve the individuals who are still present and to improve the planned recolonisation.  
+ 
+ 
+5   REFERENCES  
+ 
+BOUCHARDY, C. 1986.  La Loutre.  Editions Sang de la Terre, Paris. 
+GROUPE LOUTRE LUXEMBOURG 1997. Evaluation de la Qualité des Cours d’Eau au Luxembourg en tant 
+qu’Habitat pour la Loutre.  Ministère de la Culture,  Luxembourg. 
+LIBOIS, R. & HALLET, C. 1995.  Situation actuelle de la loutre en Belgique et problèmes de conservation.  
+Cahiers d'Ethologie, 15: 157-168. 
+OVERAL, B. 1989.  La Loutre dans la Haute-Sûre.  Bulletin de la Societie Naurale de. Luxembourg.  89, 7-19.   
+ 

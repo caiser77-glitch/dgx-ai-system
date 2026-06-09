@@ -1,0 +1,237 @@
+--- 
+source: GUTER et al.pdf
+--- 
+
+ 
+1
+SCENT MARKING BEHAVIOUR IN THE EURASIAN OTTER (LUTRA LUTRA) IN THE 
+HULA NATURE RESERVE, ISRAEL 
+ 
+Amichai GUTER 1,3, David SALTZ 2, Noga KRONFELD-SCHOR 1 & Amit DOLEV 2,3
+ 
+  
+1  Department of Zoology, Tel Aviv University, Tel Aviv, Israel.
+ 
+ 2  Mitrani Department for Desert Ecology, Jacob Blaustein Institute for Desert Research, Ben Gurion 
+University of the Negev, Israel.
+ 
+3  Israel Mammal Center, the Society for the Protection of Nature in Israel, Tel-Aviv, Israel.
+ 
+il
+.
+ac
+.
+tau
+.
+guteram@post
+: 
+mail
+e
+ 
+ 
+ 
+Abstract: Because otters live at low densities and are mostly nocturnal, determining their distribution and 
+abundance is complicated.  Scent marking provides a relatively easy means of indirectly assessing populations 
+over time. Consequently, otter surveys are based on identification of indirect but very characteristic signs, such 
+as spraints. We were interested to know the reliability of spraints and footprints as an indicator of otter visits to 
+a marking site. Specifically we asked: Is the absence of fresh spraints indicative of no visits? Is the number of 
+fresh spraints correlated to the number of visits?  Can spraints be indicative of activity levels? Understanding 
+these patterns can be a first step in assessing abundance based on spraints. We monitored 29 permanent 
+sprainting sites by counting spraints and  video filming at night. Video taping was conducted for 34  full nights 
+from September 2002 to March 2003. Following each night, the number of spraints was counted. We conclude 
+that spraints appear to be a good indicator of the intensity of use of a specific latrine and consequently a 
+possible indicator of habitat preference. Understanding what determines scent-marking behaviour, and its 
+relationship to actual activity and presence can improve our assessment of the population and, hence, 
+conservation programmes. 
+ 
+Keywords: Eurasian otter, Lutra lutra, spraints, scent marking, Israel 
+ 
+ 
+1   INTRODUCTION 
+ 
+In Israel, as in many other parts of their range, Eurasian otters (Lutra lutra) are largely 
+nocturnal, solitary and elusive; therefore, most of our knowledge about this species is 
+obtained from indirect signs, such as footprints and spraints (faeces).  HUTCHINGS AND WHITE 
+(2000) state that although most behavioural patterns are difficult to observe, scent marking 
+provides a relatively easy means of indirectly assessing populations over time.  Field surveys 
+were developed, during the late 1970s, to study the distribution of the otter.  The method was 
+quickly adopted and several attempts to estimate relative abundance and habitat selection 
+were done (MACDONALD AND MASON, 1983).  However, the question of whether or not 
+spraints can give a reliable picture of population status is still debated (MASON AND 
+MACDONALD, 1987 and 1991 vs. KRUUK AND CONROY, 1987).  This question of whether otter 
+signs, such as spraints, may indicate abundance is extremely important because of the 
+significant role of spraints in distribution surveys.  While MASON AND MACDONALD (1987) 
+showed that spraint densities can be used to define the status of otter populations, KRUUK AND 
+CONROY (1987) claim that the number of spraints found is meaningless unless proper 
+sampling methods are used, and urge that more studies should be carried out to test this 
+methodology. 
+The use of any index requires validation by correlating it to the actual variable of 
+interest (SOUTHERLAND, 2000).  Standard otter surveys regularly rely on spraints and are a 
+key component in determining the status and distribution of otters throughout Europe.  The 
+first step, therefore, in evaluating spraint surveys and validating them as any kind of index, is 
+to determine the most basic relationship – does the presence or absence of spraints and the 
+
+
+ 
+2
+number of spraints reflect actual visitation. Here, we explore this relationship between the 
+occurrence of spraints and otter visits to a marking site. Specifically we wanted to know:  
+ 
+1. Is the absence of fresh spraints indicative of no visits?  
+2. Is the number of fresh spraints correlated to the number of visits?  
+3. Can spraints be indicators of activity levels?   
+ 
+ 
+2   MATERIALS AND METHODS 
+ 
+Our study was conducted in the Hula Nature Reserve, in northern Israel (32051'N 035005'E).  
+It is one of three areas, where otters still exist in Israel.  It is about 300 hectares of a man-
+made wetland left from the drained Hula Lake.  Located in the Jordan Rift Valley, the site 
+consists of open water, permanent and intermittent pools with fringing reed beds, freshwater 
+marshes, riparian forest and wet meadows. Hula Nature Reserve is an important site for many 
+waterfowl species, raptors, and mammals. Human activities at the site are limited, and hunting 
+and fishing are forbidden.  
+We monitored 29 permanent latrines in the Hula reserve for fresh spraints, twice a 
+week on consecutive days, from September 2002 to March 2003.  We recorded the number of 
+fresh spraints at each latrine, and categorised each latrine by vegetation density, human 
+interference, and location within the reserve. 
+Two sets of night vision (infra-red) scopes (12V MTV-D-54KO 1/4" day & night 
+camera, Mintron Enterprise Co.) were used to record otter activity at sprainting sites. Cameras 
+were set randomly at ten out of the 29 known latrines, on poles at heights of 0-2 metres above 
+water level.  A visit was defined as the detection of an otter by a video camera.  Otter activity 
+was recorded and analysed according to various aspects: time of visit, number of visits per 
+night, type of visit (swimming, surfacing and sprainting) and the number of individuals per 
+visit.  Thirty-four full nights of video taping were carried out during the study period.  
+Following each night we visited the sites and counted the number of fresh spraints.  
+ 
+ 
+3   RESULTS 
+ 
+3.1 Night-time video filming 
+The camera recorded otters on 30 of the 34 nights (88.2%).  In 14 instances, one visit was 
+recorded per night, while on 16 nights 2-13 visits were recorded. Altogether 72 visits were 
+recorded. In 35 (49%), sprainting occurred, in 16 (22%), the animal surfaced but no sprainting 
+was recorded, and on 21 (29%)  otters did not surface and just swam past the latrine. In other 
+words, otters left spraints in 35 out of 51 (69%) "surfacing visits" (n=51).  
+ 
+3.2 Correlation between night-time filming and spraints monitoring 
+A significant correlation (P<0.03, r=0.47) was observed between the number of visits to 
+latrines recorded by the video camera and the number of fresh spraints found the following 
+morning (Figure 1).  No relationship was found when the number of spraints was regressed on 
+the number of visits (P >0.05) when "swimming visits" were included. 
+
+
+ 
+3
+R2 = 0.225
+R2 = 0.113
+0
+1
+2
+3
+4
+0
+2
+4
+6
+8
+10
+12
+Number of visits per night
+Number of fresh spraints per night
+linear, visits when animal surfaced
+linear, including swimming visits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.  There was a significant correlation (P<0.03, R=0.47) between the number of otters’ visits at night and 
+the number of fresh spraints in the morning, but only when swimming visits were excluded. 
+ 
+On ten mornings, no fresh spraints were found in the latrines;  on five of these, no visits were 
+recorded by the camera during the preceding night, while on the other five there was at least 
+one visit.  There was a considerable variance in the number of spraints per latrine and in the 
+number of visits. 
+ 
+4   DISCUSSION 
+ 
+In this study we combined two different methods in order to learn more about the scent 
+marking behavior of otters.  The first (video taping) provided a true picture of otter activity at 
+marking sites during the night, while the second showed the exact number of fresh spraints 
+deposited at the same latrines.  This enabled us to correlate the number of spraints found in 
+the morning, and the number of visits during the night.  With this, we could assess the validity 
+of spraints as an activity index. 
+ 
+The significant correlation between the number of visits to latrines, recorded by the 
+video camera, and the number of fresh spraints found the following morning means that the 
+number of spraints is a fair estimate of the otters’ activity during the night.  By contrast, the 
+absence of fresh spraints as an indication of ‘no visit’ was true for only 50% of the time; i.e., 
+the lack of spraints cannot be used as an indication of otter activity or inactivity. 
+Spraints are often used as an index of otter activity, population status and habitat use 
+(MASON AND MACDONALD, 1987; PRENDA AND GRANADO- LORENCIO, 1996; HUTCHINGS AND 
+WHITE, 2000) but their value for these purposes is disputed (KRUUK AND CONROY, 1987; 
+KRUUK, 1995).  RUIZ-OLMO ET AL. (2001) summarised: a) the number of spraints does not 
+enable us to estimate easily the number of otters, although some findings tend to show that, b) 
+the absence of signs does not necessarily imply absence of otters, and c) the number of signs 
+in any one place does not necessarily correlate with the intensity of use.  However, they did 
+find that when there were several otters in an area, more signs were detected and hence that 
+the number of spraints could indicate otter abundance.  HUTCHINGS AND WHITE (2000) state 
+that although the absence of spraints cannot be used to infer an absence of otters, a lack of 
+
+
+ 
+4
+spraints does imply that the need for communication is reduced and that otter density might 
+be relatively low. 
+According to our results, video filming in combination with counting fresh spraints, 
+can be a fair way to estimate the otter population status.  Counting spraints alone appears to 
+be good indicator of the intensity of use of a specific latrine and consequently could be used 
+to estimate numbers of otters visiting a specific point or of the stretches more suitable to be 
+visited.  Latrines or stretches that are visited more often may indicate preference of 
+characteristics in that area or even an increase in the need for communication due to high otter 
+density.  However, there is a considerable variance suggesting the need for a sufficient sample 
+size in order to obtain reliable results.  Being a preliminary study, an extensive, large-scale 
+study is needed to enlarge the sample size and to increase reliability of the index.  
+ 
+5   REFERENCES 
+ 
+ 
+ 
+HUTCHINGS, M.R. & WHITE, P.C.L. 2000. Mustelid scent-marking in managed ecosystems: implications for 
+population management. Mammal Review,  30: 157-169. 
+KRUUK, H. 1995. Wild Otters. Predation and Populations. Oxford University Press, Oxford.  
+KRUUK, H. & CONROY, J.W.H. 1987. Surveying otter populations: a discussion of problems with spraints.  
+Biological Conservation, 41: 179-183. 
+MACDONALD, S.M. & MASON, C.F. 1983. Some factors influencing the distribution of otters (Lutra lutra). 
+Mammal Review, 13: 1-10. 
+MASON, C.F. & MACDONALD, S.M. 1987. The use of spraints for surveying otter Lutra lutra populations: An 
+evaluation. Biological Conservation, 41: 167-177. 
+PRENDA, J. & GRANADO-LORENCIO, C. 1996. The relative influence of riparian habitat structure and fish 
+availability on otter Lutra lutra L. sprainting activity in a small Mediterranean catchment. Biological 
+Conservation, 76: 9-15. 
+RUIZ-OLMO, J., SAAVEDRA, D. & JIMENEZ, J. 2001. Testing the surveys and visual and track censuses of 
+Eurasian otters (Lutra lutra). Journal of Zoology, London, 253: 359-369. 
+SOUTHERLAND, W.J. 2000. The Conservation Handbook: Research, Management and Policy. Blackwell 
+Science, Oxford. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

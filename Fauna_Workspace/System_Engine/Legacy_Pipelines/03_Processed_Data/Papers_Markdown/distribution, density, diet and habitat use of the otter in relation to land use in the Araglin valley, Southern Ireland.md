@@ -1,0 +1,2968 @@
+--- 
+source: distribution, density, diet and habitat use of the otter in relation to land use in the Araglin valley, Southern Ireland.pdf
+--- 
+
+DISTRIBUTION, DENSITY, DIET AND
+HABITAT USE OF THE OTTER IN
+RELATION TO LAND USE IN THE
+ARAGLIN VALLEY, SOUTHERN IRELAND
+Paola Ottino and Paul Giller
+ABSTRACT
+The distribution, density, diet and habitat use of the otter (Lutra lutra) were examined in the
+Araglin Valley, in counties Cork, Tipperary and Waterford. Otter signs (tracks, spraints, anal
+secretions, holts, etc.) and environmental conditions (river depth, river width, ﬂow regime,
+vegetation cover, etc.) were recorded at 112 sites across three habitat types (agriculture, moorland
+and forestry) in the river valley.
+Three deﬁnite home range boundaries were delineated by high levels of sprainting and
+scraping, and results indicated the presence of six or seven otters. Signiﬁcant correlations were
+recorded between otter signs and river depth, river width, lying-up availability and presence of
+holts, but no trends were found between otter signs and vegetation cover or ﬂow velocity. A
+positive relationship was recorded between spraints and vegetation cover in the agriculture and
+moorland habitats, but a negative correlation was found in the forested sites.
+Percentage frequency of occurrence, relative percentage of frequency, and percentage bulk
+(Sc%) were calculated for twelve food categories based on seasonal data sets. Fish (mainly salmonids
+and eels) were the predominant food category in each season (Sc%=70.03). Other signiﬁcant food
+categories included small quantities of mammals, birds, frogs and crayﬁsh (both in February and
+March). Considerable variation in otter diet was revealed and was related to differences among
+three different habitat types and to the location of the home range. In home range 3, ﬁsh prey were
+relatively scarce, while birds and frogs were more important. In contrast, ﬁsh was the more
+important food in home ranges 1 and 2.
+The trophic niche breadth of otter, evaluated using Levin’s index, varied little throughout the
+study period, with a peak in spring/early summer and a minimum value in late autumn
+(October–November).
+Paola Ottino and Paul
+Giller (corresponding
+author: e-mail:
+p.giller@ucc.ie),
+Department of Zoology,
+Ecology and Plant
+Science, University
+College Cork, Lee
+Maltings, Prospect Row,
+Cork Ireland.
+Received 18 August
+1999. Read 4 December
+2003. Published 31 May
+2004.
+INTRODUCTION
+The otter (Lutra lutra (L.)) has been described as a
+‘ﬁsh specialist’ (Erlinge 1972; Wise et al. 1981;
+Mason and Macdonald 1986). However several
+studies suggested that the otter may be better
+deﬁned as an opportunistic predator, with its
+feeding
+behaviour
+being
+dependent
+on
+the
+availability of prey (e.g. Erlinge 1967; Jenkins et al.
+1979; Erlinge and Jensen 1981; Gormally and
+Fairley
+1982;
+Kruuk
+and
+Moorhouse
+1990;
+Breathnach and Fairley 1993; Carss 1995; Carss et
+al. 1998). It is recognised as one of the top
+predators in freshwater systems, and thus has the
+potential
+to
+play
+an
+important
+role
+in
+the
+functioning of these systems. Prior to the ﬁrst
+National Otter Survey (Chapman and Chapman
+1982), little was known about the status of the
+otter in Ireland. Stephens (1957) in The Otter
+Report states that otters had drastically decreased in
+the country since they were hunted, yet while
+otters were still considered common (Fairley 1972)
+the species was protected by the Wildlife Act in
+the Republic of Ireland in 1976.
+The national survey was undertaken from
+January 1980 to February 1981 based on alternate
+50km2 squares of the National Grid of Ireland
+(Chapman
+and
+Chapman
+1982).
+Sites
+were
+spatially
+distributed
+at
+5–8km
+intervals
+along
+rivers, canals, lakes and coasts. Of the 2373 sites
+surveyed, 2177 (91.7%) were found positive (based
+on the presence of otter signs—see below). The
+otter was more widespread on the west coast than
+on the east coast, and the Burren, the Dublin area,
+the River Barrow in County Carlow and the
+lower
+Blackwater
+river
+system
+in
+Munster
+appeared to be relatively poor areas in comparison
+with the rest of Ireland. In general the Irish
+BIOLOGY AND ENVIRONMENT: PROCEEDINGS OF THE ROYAL IRISH ACADEMY, VOL. 104B, NO. 1, 1–17 (2004).
+© ROYAL IRISH ACADEMY
+1
+
+
+BIOLOGY AND ENVIRONMENT
+populations
+of
+otters
+were
+considered
+inter-
+nationally important.
+On the basis of a later survey by Lunnon and
+Reynolds (1991) at some of the original survey
+sites, no signiﬁcant changes in the otter population
+were apparent over the intervening years. Further
+analyses have been carried out by various authors
+on a more local scale. Kyne et al. (1990) found that
+although otter signs were generally widespread in
+the Connemara bogland, there was no evidence of
+otters in many stretches during an exceptionally
+dry summer and the average number of positive
+sites was very low. On the other hand, in the
+Munster Blackwater river catchment, O’Sullivan
+(1991) and Smiddy (1993) described strong and
+relatively stable otter populations with no evidence
+of decline since the original survey.
+The vast majority of such surveys are based on
+data provided by otter signs, particularly faeces
+(spraints), but the use of spraint density as an
+indicator of population status, distribution and
+habitat utilisation of otters has been the subject of
+some
+debate.
+Mason
+and
+Macdonald
+(1987)
+demonstrated a signiﬁcant relationship between
+mean number of spraints and the percentage of
+positive
+sites
+and
+concluded
+that
+‘surveys
+of
+spraints,
+using
+standard
+methodology,
+give
+a
+reliable picture of the distribution of otters’.
+Conroy and French (1987; 1991) suggested that
+the relationship between otter density and level of
+marking may be inﬂuenced by many factors: for
+this reason sprainting intensity data should be used
+with care. Under particular conditions of low
+population density, low sprainting activity would
+occur (Ottino 1995). In addition, otters defending
+territorial boundaries often defecate in the water
+(Kruuk et al. 1986). Kruuk et al. (1986) studied
+otters in a marine habitat and found that seasonal
+changes in marking level should be considered. No
+correlation was found in this study between otter
+activity and intensity of sprainting, even if spraints
+were associated with holts, freshwater pools and
+various other features. The presence of good
+bankside cover and mature riparian trees may also
+be important factors (Jenkins and Burrows 1980;
+O’Sullivan
+1992).
+Other
+studies
+have
+found
+relationships
+between
+sprainting
+activity
+and
+riparian vegetation in Greece (Macdonald and
+Mason 1982a; 1985), Spain (Adrian et al. 1985;
+Delibes et al. 1991), Germany (Prauser 1985),
+England (Macdonald and Mason 1988), Wales
+(Macdonald and Mason 1983) and Scotland (Bas et
+al. 1984). It should be borne in mind that otter
+signs may relate to habitat features and not
+necessarily to the otters themselves (see Thom et al.
+1998).
+Despite this wealth of information, more
+fundamental research is required to determine the
+precise ecological and habitat requirements of the
+otter. At present, the minimum amount of cover
+and food required to support a population is
+unknown. Also, there is no information on the
+impact of the forestry and other land use on the
+otter, and very little is known of their habitat use
+in relation to different landscape types (woodland,
+moorland, farmland, etc.).
+We can only guess at the total population size
+of the otter in Ireland, even if we know that, in
+this country, the otter is widespread and common.
+Attempts at estimating population density on a
+local scale may contribute to better estimates of the
+national population. This study adopts such an
+approach and examines otter distribution, home
+range, diet and density in relation to season, habitat
+features and land use in a single river basin, the
+Araglin Valley, County Cork.
+MATERIALS AND METHODS
+STUDY AREA
+The study was carried out between October 1995
+and June 1996 along the entire Araglin Valley and
+on two of its major tributaries, the River Douglas
+catchment (Kilworth Forest) and the Glenﬁnish
+River, which form part of the Araglin Catchment
+Research Study Area (Fig. 1). The Araglin Valley
+(R8804) lies within 30m to 500m above sea level
+and is a designated Natural Heritage Area, situated
+in southern Munster in the counties of Cork,
+Tipperary and Waterford. The valley has been
+subject to intensive study over the past decade
+(Clenaghan 1996; Clenaghan et al. 1998; Giller et
+al. 1993; 1997; Elso and Giller 2001), and there is
+considerable
+baseline
+information
+on
+water
+chemistry, macroinvertebrate communities and ﬁsh
+populations as well as land use and habitats. Earlier
+work
+on
+otters
+in
+the
+Araglin
+Valley
+was
+conducted by Chapman and Chapman (1982),
+who identiﬁed otters present at one of the two
+sites surveyed, and by O’Sullivan (1991), who
+identiﬁed otter presence at nine of the eleven sites
+surveyed. The majority of the streams in the study
+catchment are fast-ﬂowing and are subject to spate
+conditions.
+The Araglin river, a 29km tributary of the
+River
+Blackwater,
+rises
+in
+moorland
+in
+the
+Knockmealdown Mountains and runs through
+rough pasture and some improved pasture, often
+associated with mixed forest such as beech (Fagus
+sylvatica), ash (Fraxinus excelsior) and oak (Quercus
+spp) and plantation forests of spruce (Picea spp) and
+pine species (Pinus spp). The lower Araglin River
+is 10m wide. In the middle segments the width
+is within the range 5–8m, and near the headwaters
+it is 2–3m wide. The main Araglin river has a pH
+ranging
+from
+7.20
+to
+7.52,
+but
+the
+upper
+headwaters are considered acid, having a pH
+2
+
+
+OTTER DISTRIBUTION, DENSITY, DIET AND HABITAT USE IN RELATION TO LAND USE
+Fig. 1—Map of the Araglin catchment study area, showing home ranges and holts of otters.
+approaching 5 (Wallace 1995). The underlying
+geology of the area is predominantly Old Red
+Sandstone and slates, with some gravely deposits.
+The River Douglas is 3–5m wide, and its four
+tributaries are 1–2m wide. The parent geology is
+predominantly Old Red Sandstone with a layer of
+yellow-grey
+sandstone
+and
+some
+argillaceous
+sandstone. Within the catchment the pH ranges
+from 5.0 to 8.0, and the most acid sites are located
+in the headwaters of the easternmost tributary
+(Cleneghan et al. 1998). The catchment area is
+21.5km2, of which 8km2 is covered by a conifer
+plantation (Kilworth Forest), 5km2 is made up of
+agricultural land, largely found below and to the
+east of the forest, and the remainder is moorland
+lying above the forest. Average stream gradient is
+30m km−1 or 3%. Three of the main tributary
+streams originate on moorland before ﬂowing
+through the conifer plantation, whereas the fourth
+rises within the forest itself. All the streams then
+merge to form the main River Douglas, before
+ﬂowing out of the plantation.
+The Glenﬁnish River is a second order
+tributary
+of
+the
+Araglin
+River.
+The
+riparian
+vegetation is dominated by willow (Salix spp), ash
+and sycamore (Acer pseudoplatanus) and is often
+associated with alder (Alnus glutinosa), oak, birch
+(Betula
+spp),
+hazel
+(Corylus
+avellana),
+bramble
+(Rubus fruticosus) and woodbine (Lonicera spp).
+Coniferous afforestation mainly occurs in the
+southern part of the catchment area. Agricultural
+pasture borders the bank of the lower course of the
+river. The width of the Genﬁnish River is 1–4m.
+The parent geology is mainly red slates with
+gravelly drift, and the pH ranges from 6.65 to 6.98
+(Giller et al. 1997).
+OTTER DISTRIBUTION, HABITAT USE AND
+DENSITY
+The study area was divided into a total of one
+hundred and twelve, 500-metre reaches of river for
+surveying (both banks, Fig. 2). From October
+1995 to June 1996 all watercourses in the study
+area were surveyed monthly from headwaters to
+mouth. Otter signs (anal secretions, spraints and
+tracks) were recorded for each 500m stretch by
+walking the entire length (both banks) of all
+watercourses,
+wading
+in
+the
+river
+wherever
+possible. Holts, food remains and scrapes were
+accepted as proof of the presence of otters only
+when supported by the occurrence of spraints
+and/or footprints in the near vicinity. Signs of
+mink were also noted. All otter signs were
+recorded on a map of the area (Coillte six-inch to
+the mile forest map), and the spraints were
+described as recent, old and very old based on their
+consistency and the degree of bleaching. A range
+of environmental variables were also evaluated for
+each 500m river stretch (Table 1). Since several
+factors, such as heavy rain, may inﬂuence the
+reliability of the results, all study reaches were
+surveyed twice during each month of the study.
+Tracks were measured and ascribed to otter
+size classes based on a modiﬁcation of the schemes
+of Jenkins (1980) and O’Sullivan (1992) (Table 2).
+Measurements of tracks were taken across the foot
+from the tip of the middle toe to the extremity of
+the heel (length) and from the extremities of toes 1
+to 5 (width). The median values of the track sizes,
+both width and length, were calculated, and the
+raw results were tested (Kruskal-Wallis) to analyse
+for any signiﬁcant differences among the different
+track size classes that would be indicative of
+different animal size.
+3
+
+
+BIOLOGY AND ENVIRONMENT
+Fig. 2—Otter distribution in the Araglin Valley based on the 1995–96 survey of the current study.
+Home range boundaries were identiﬁed by
+the occurrence of intensively marked areas or
+aggregation
+of
+spraints
+(Erlinge
+1967;
+1968),
+sometimes separated by extensive stretches of
+watercourse with no faeces or a decreasing density
+of faeces. Boundaries of home ranges may be
+identiﬁed at the mid-point of these stretches
+(Macdonald et al. 1978). Mounds of scraped sand,
+mud or grass, usually with spraints on top, may also
+be postulated as signs of range boundaries (Mason
+and Macdonald 1986). The use of differential
+sprainting rates to delineate home range boundaries
+has been questioned (Kruuk 1995), but in the
+present study a combination of all of these methods
+was used. Range boundaries were subsequently
+transcribed onto maps using the above data and the
+topography of the study area.
+The relationship between spraints and other
+signs
+was
+examined
+using
+Spearman
+rank
+correlation. This method was also used to evaluate
+the relationship between percentage of otter signs
+and
+the
+above-mentioned
+habitat
+parameters.
+Correlations between otter signs and land use
+(moorland,
+plantation
+forest
+and
+agriculture/
+pasture) were evaluated, and the proportion of
+otter
+spraints
+recorded
+in
+each
+month
+was
+calculated. In addition, multiple linear regression
+was used to identify those measured variables that
+most inﬂuenced sprainting activity.
+DIET ANALYSIS
+In order to determine the otter diet in the study
+area, spraints were collected monthly within the
+500m reaches by walking both banks of the three
+major watercourses described above. Each spraint
+found was stored in a specimen tube or an
+envelope, labelled and returned to the laboratory.
+Table 1—Scalable
+environmental
+para-
+meters recorded during the survey
+in the study area. The presence/
+absence of holts is also recorded.
+Scale
+Parameters
+Bank type
+1=silt
+2=earth
+3=sand
+4=gravel
+5=stone
+1=0.3m
+River depth
+2=0.3–0.5m
+3=0.5–0.7m
+4=0.7–1.0m
+1=1.0m
+River width
+2=1.0–2.0m
+3=2.0–3.0m
+4=3.0–4.0m
+5=4.0–5.0m
+6= 5.0m
+Flow regime
+1=slow
+2=fast
+Lying up availability
+1=none
+2=low
+3=medium
+4=high
+% vegetation cover
+1% 2% 3% 5% 7% 10%
+15% 20% 25% 30% 40%
+of both banks
+50% 65% 80% 90%
+4
+
+
+OTTER DISTRIBUTION, DENSITY, DIET AND HABITAT USE IN RELATION TO LAND USE
+Spraints were air dried at room temperature and
+weighed to the nearest 0.01g. Mucus was removed
+by soaking each spraint in a solution of oxidising
+agent ‘Steradent’ (Webb 1976). The spraint was
+then washed through a sieve of 0.5mm mesh and
+dried again. It was then gently broken up by hand
+and examined under a binocular microscope. All
+prey remains were assigned to one of twelve food
+categories: salmonids, eel, stickleback, minnow,
+frogs,
+birds,
+mammals,
+crayﬁsh,
+plant
+matter,
+freshwater mussels, other invertebrates (insects and
+annelids) and unidentiﬁed prey. The remains of
+ﬁshes
+were
+identiﬁed
+from
+their
+vertebrae,
+jawbones, teeth and other bones by comparison
+with reference collections and the keys of Webb
+(1976), Libois et al. (1987), Libois and Hallet-
+Libois (1988) and Conroy et al. (1993). The
+approximate fork lengths of ﬁsh eaten (total length
+in the case of eel) were derived from the lengths of
+vertebrae in the spraints using the regression
+formulae of Wise (1980). Mammals and birds were
+identiﬁed through their feathers or fur, teeth and
+other bones using the keys of Day (1966) and
+Yalden (1977). Insects and other invertebrates
+were recorded as ‘invertebrate’ only. Hard remains
+too
+damaged
+for
+clear
+identiﬁcation
+were
+categorised as unidentiﬁed.
+Data are presented for each food category
+using three methods:
+ Percentage
+frequency
+of
+occurrence
+(F%—
+number of spraints containing prey category i
+(occurrences) divided by the total number of
+spraints, multiplied by 100 (Jenkins et al. 1979));
+ Relative
+percentage
+of
+frequency
+(Fr%—
+number of occurrences of food category i
+divided by the total number of occurrences of all
+prey
+categories,
+multiplied
+by
+100
+(Rowe-Rowe 1977));
+ Percentage bulk (Sc%): based on a scoring system
+of 1–10 to assess the importance of each prey
+item in a spraint (1 being a trace item and 10 a
+spraint entirely composed of one single prey
+category). The score for each category was
+multiplied by the spraint dry weight. The
+resulting ﬁgures for each category from all
+spraints were then summed and expressed as a
+percentage value of all prey categories (Wise et
+al. 1981).
+The ﬁrst two methods tend to overestimate
+the importance of prey taxa that have a large
+proportion of indigestible parts, small ﬁshes that are
+usually eaten completely and prey taken frequently
+but in small quantities. On the other hand, large
+ﬁsh and prey that occur occasionally but in large
+amounts tend to be underestimated (Wise 1978;
+Chanin 1981; Carss 1995). In addition, prey with
+a large proportion of soft parts might be missed.
+The third method has a possible error in the
+subjective assessment of the score of the relative
+volume of each item as a proportion of the spraint,
+but it is perhaps a more accurate reﬂection of the
+relative importance of different prey types in the
+diet.
+Dietary data were grouped into periods of
+approximately two months in order to investigate
+seasonal variation in prey. Because of the lower
+number of samples collected in June, these were
+included with those of April–May.
+Spearman rank correlation (rs) was used to
+investigate the relationships between the results of
+the three analytical methods. The composition of
+the otter diet was also compared for the three
+rivers—the
+Araglin,
+the
+Douglas
+and
+the
+Glenﬁnish—using Spearman rank correlation. The
+otter diet for the three home ranges identiﬁed (Fig.
+1) was compared, considering only the spraints
+collected
+clearly
+within
+these
+territories
+and
+excluding the overlap areas. The dietary differences
+between spraints collected within three different
+habitats were also considered.
+Seasonal changes in the trophic niche breadth,
+based on bimonthly dietary data, was derived from
+the Levins’ index (B) (Feinsinger et al. 1981), using
+Fr% and Sc%:
+Table 2—Criteria used to distinguish size classes of otters by track sizes.
+Jenkins (1980)
+O’Sullivan (1992)
+Ottino and Giller (this study)
+Track length (cm)
+Otter size (cm)
+Track width (cm)
+Otter size (cm)
+Track size (cm)
+Otter size (cm)
+4.0
+C
+4.0
+C
+5.0
+C/J
+5.0
+Y
+—
+4.0–5.3
+C/Y
+—
+5.0–6.0
+SAM/AF
+5.5–6.5
+—
+—
+SA
+6.0
+—
+—
+WGY/A
+—
+—
+AF
+—
+—
+6.0–7.0
+AF
+6.0
+7.0
+AM
+6.5
+AM
+7.0
+AM
+C=cub; Y=young; WGY=well grown young; J=juvenile; SA=sub-adult; A=adult; SAM=sub-adult male;
+AF=adult female; AM=adult male.
+5
+
+
+BIOLOGY AND ENVIRONMENT
+B=1/Rpi
+2
+where R is the number of food categories available
+and pi is the relative percentage of frequency of
+each food categories (in this case Fr and Sc). B
+ranges from 1/R, when the species uses only one
+food category, to 1, when all categories are used
+equally.
+RESULTS
+DISTRIBUTION AND DENSITY
+Some sites recorded as negative in the previous
+surveys (see Introduction) were positive for the
+otter presence in this study. In addition, of the 39
+river units of watercourses surveyed for the ﬁrst
+time, 23 (58.9%) were positive (Fig. 2).
+A total of 462 signs were identiﬁed over the
+whole study period, the most common being
+spraints, followed by tracks, scrapes and lying-up
+(Table 3). Using all data from the entire study area
+and period, a signiﬁcant correlation was found
+between number of spraints and other otter signs
+(Table 4). Otter spraints were found in 56 (50%) of
+Fig. 3—Frequency of otter signs (% of all signs on both
+banks) per 500m length along a) Araglin river; b)
+Douglas river (D) and its tributaries (K1, K2, K3, K4).
+the one hundred and twelve 500m reaches of river
+surveyed (full details are given in Ottino 1997). Of
+the reaches with sprainting sites, 4 (7.14%) were
+located on the Glenﬁnish River, 19 (33.93%) in
+the Douglas (Kilworth) catchment, 28 (50%) on
+the Araglin River and 5 (8.93%) on a further two
+tributaries of the Araglin River. The majority of
+spraints were deposited on large prominent rocks
+near and/or in the rivers or under bridges. In the
+study area, three home ranges can be delineated,
+but their exact extent along the various tributary
+streams
+is
+unknown
+(Fig.
+1).
+Home
+range
+boundaries, with high levels of sprainting and
+scraping recorded, were found on the Araglin
+River and on the upper Kilworth catchment. The
+number of signs tended to decrease away from the
+home range boundaries, and the highest numbers
+occurred around the holts: stretches 15 and 46 in
+the Araglin River, stretch 1K1 in the Kilworth
+catchment (Fig. 3a and 3b) and stretch 3G in the
+Glenﬁnish River (Fig. 4a). The other peaks of
+Table 3—Statistical data of the sprainting
+activity and other otter signs across
+the 112 sites in the study area.
+SD
+Mean
+n
+Min.−max.
+6.58
+4.12
+Signs
+0−32
+462
+Spraints
+287
+2.55
+0−27
+4.55
+Tracks
+3.04
+125
+0−15
+1.12
+0−7
+0.20
+24
+Scrape
+0.91
+0.57
+0−4
+Lying-up
+22
+0.19
+SD=standard deviation; n=number of occurrences of
+each sign.
+Table 4—Correlation between spraints and other signs of otter presence. Both Spearman rank
+correlation coefﬁcient and the probability level are reported.
+Tracks
+Scrape
+Lying-up
+Spraints
+0.35 (P0.001)
+0.56 (P0.001)
+0.88 (P0.001)
+0.37 (P0.001)
+Signs
+—
+0.21 (P=0.002)
+0.17 (P=0.054)
+0.21 (P=0.026)
+Spraints
+—
+—
+Tracks
+0.05 (P=0.516)
+0.48 (P0.001)
+0.19 (P=0.037)
+—
+—
+Scrape
+—
+n=112
+6
+
+
+OTTER DISTRIBUTION, DENSITY, DIET AND HABITAT USE IN RELATION TO LAND USE
+Fig. 4—Frequency of otter signs (% of all signs on both
+banks) per 500m length along a) Glenﬁnish stream (G);
+b) Muchnagh stream (M) and a tributary of the Araglin
+river (L).
+than 0.3m deep, had temporarily dried up or was
+low.
+The
+highest
+number
+of
+otter
+signs
+was
+recorded in spring and early summer, with a
+minimum in March, probably due to the heavy
+rain that occurred in that month. This trend was
+mostly found in home range 2 (see below), while
+in home range 1 the lowest number of otter signs
+was recorded in winter, increasing in spring and
+early summer (Fig. 5).
+Four otter size classes could be identiﬁed using
+either
+width
+or
+length
+of
+tracks
+(Table
+5).
+Cub/juvenile otter tracks were recorded on ten
+occasions: ﬁve times in December, three times in
+February and twice in May. The presence of one
+family group, as indicated by cub/juvenile tracks
+found in association with larger tracks (adult
+female), occurred ﬁve times: three times near the
+holt in home range 2 (Fig. 1) and twice near the
+home range boundaries. An adult male utilised the
+central home range (range 2, Fig. 1), which
+included that of the family group. Intermediate
+track sizes were found at the two home range
+boundaries and around the two holts in the home
+ranges 1 and 3, which suggested the presence of
+solitary animals (presumed sub-adult male).
+To estimate the number of otters in the study
+area, we used a combination of the total number of
+active holts identiﬁed, the track sizes measured, the
+home ranges identiﬁed and the otters sighted.
+Track size suggested a minimum of two cubs.
+Thus we estimate a minimum of six otters in the
+Araglin Valley. Assuming a male otter to have a
+home range of 15–19km (Erlinge 1967; Leidler
+1982), the predicted maximum carrying capacity of
+the study area of 56km of river would be 3–4
+male otters. If the two sub-adult otters are males,
+the
+Araglin
+Valley
+would
+hold
+around
+the
+expected otter density.
+HABITAT USE
+The median value of river depth throughout the
+study period was 0.3–0.5m, and the vegetation
+Fig. 5—Monthly changes in the number of otter spraints
+in the three home ranges recorded in the study area.
+signs coincided with particular zones in addition to
+the boundaries of home ranges (stretches 1, 2, 4,
+29, 30, 31, 5K2 and 3K3), such as bases of bridges,
+large boulders and conﬂuences of two rivers. In
+contrast, the lowest number of signs was found in
+the Kilworth catchment (Fig. 3b) and on the
+headwater reaches of each river (Figs 3 and 4), and
+signs were absent where the river depth was less
+Table 5—Median values of the track sizes measured in the study area.
+Size classes
+Number of tracks
+Median
+Min.–max.
+Width
+Adult female
+6–6.5
+6
+7
+Length
+6–7
+6.5
+7
+5
+6.5–7
+Width
+6.5
+Adult male
+7
+7–8
+Length
+5
+10
+3.75
+3–5
+Cub/juvenile
+Width
+3–5
+Length
+10
+4.25
+Sub-adult male
+5–5
+5
+6
+Width
+5.5–6
+5.5
+6
+Length
+7
+
+
+BIOLOGY AND ENVIRONMENT
+cover ranged from 2% (trees very rare) to 90%
+(dense trees covering large areas). Full details of
+habitat variables are available in Ottino (1997).
+The
+highest
+percentage
+cover
+of
+vegetation
+occurred in the Kilworth catchment, in the middle
+areas of the Araglin River and in the Glenﬁnish
+River. In the headwater reaches of the Araglin
+River,
+moorland
+was
+predominant
+and
+the
+percentage cover was very low in comparison to
+the other stretches of this river.
+Signiﬁcant and positive relationships were
+found between number of otter signs and river
+depth, river width, lying-up availability and the
+presence of otter holts. No trends were recorded
+for bank type, vegetation cover and ﬂow rate
+(Table
+6).
+A
+maginally
+signiﬁcant
+positive
+relationship (P=0.052) was also found between
+otter signs and mink. The results of multiple linear
+regression analysis (Table 7) conﬁrmed that the
+presence of holts was the most important variable
+associated with otter presence, followed by river
+depth. None of the other parameters could explain
+a signiﬁcant amount of variation in otter signs.
+There
+was,
+however,
+a
+negative
+correlation
+between
+otter
+spraints
+and
+percentage
+of
+vegetation cover in forest habitat (rs= −0.216,
+P0.005)
+while
+positive
+correlations
+were
+recorded in the agriculture and moorland areas
+(rs=0.144, P0.005 and rs=0.100, P0.005
+respectively).
+Diet
+The results of the overall spraint analysis, using the
+three analytical methods, and pooling all data over
+seasons and rivers for all food categories are
+presented in Table 8. All these diet data sets were
+highly
+correlated
+(rs=0.95–1.00).
+Therefore
+seasonal changes have been expressed as percentage
+of frequency (Fr%) and percentage bulk (Sc%) only
+to illustrate the relative importance of various prey
+categories (Fig. 6). Fish formed 55.92% of prey
+items and 70.03% of the percentage bulk overall.
+Salmonids were the most important, followed by
+eels. Minnow appeared in the spraints from April
+to
+June,
+and
+stickleback
+occurred
+in
+winter
+(December–January)
+and
+spring
+(April–May)
+samples, if only in small quantities.
+Frogs formed the second most important
+dietary component, representing 17.1% frequency
+of prey items and 20.9% percentage bulk overall.
+They were present in the diet mainly during their
+breeding season (February–March; Fairley 1984;
+Weber 1990). Crayﬁsh were absent from the diet
+in winter, while consumption of mammals tended
+to peak at this time. Bird remains occurred as
+feathers
+and
+could
+be
+generally
+ascribed
+to
+Rallidae, but on one occasion a beak was found
+Table 6—Correlation
+between
+signs
+and
+environmental parameters. Both
+Spearman
+rank
+correlation
+co-
+efﬁcient and the probability level
+are reported.
+P
+Signs
+0.996
+−0.046
+Bank type
+% vegetation cover
+0.022
+0.817
+River depth
+0.461
+0.001
+River width
+0.326
+0.001
+0.786
+−0.026
+Speed of water
+0.190
+0.044
+Lying-up availability
+0.052
+0.184
+Mink
+Holt
+0.001
+0.322
+Table 7—Multiple linear regression analysis for identifying the variables that inﬂuence
+sprainting activity.
+P
+Variable
+Coefﬁcient
+t
+0.255
+−0.383
+Bank type
+−1.144
+0.955
+0.057
+0.155
+Vegetation cover
+4.869
+3.777
+0.001
+River depth
+0.213
+0.486
+1.254
+River width
+Speed of water
+−1.572
+−1.413
+0.161
+Lying-up availability
+0.031
+0.043
+0.966
+−1.681
+Mink
+0.381
+−0.881
+Holt
+20.58
+8.900
+0.001
+R=0.762; R2=0.581; AdjR2=0.548; S.E.=4.419.
+n=112; t=test statistic (Student’s t).
+8
+
+
+OTTER DISTRIBUTION, DENSITY, DIET AND HABITAT USE IN RELATION TO LAND USE
+Fig. 6—Bimonthly distribution of Fr% (percentage bulk—shaded columns) and Sc% (percentage frequency—
+unshaded columns) of the prey items in the otter diet throughout the study period.
+9
+
+
+BIOLOGY AND ENVIRONMENT
+10
+Table 8—Composition of overall otter diet pooled across the rivers and habitats expressed as percentage frequency of occurrence (F%), relative
+percentage frequency (Fr%) and percentage bulk (Sc%). Total number of spraints=287.
+Seasonal changes in Sc%
+Seasonal changes in Fr%
+Seasonal changes in F%
+Overall diet
+F–M
+A–J
+O–N
+D–J
+Prey items
+F–M
+A–J
+O–M
+D–J
+F–M
+A–J
+n
+F%
+Fr%
+Sc%
+O–N
+D–J
+84.2
+80.1
+47.0
+52.9
+38.4
+33.5
+82.5
+79
+100
+52.2
+90
+45.9
+54.8
+37.9
+84.6
+243
+Salmonids
+14.0
+59.5
+5.88
+5.88
+Eel
+6.4
+24.9
+3.43
+2.5
+2.01
+27.1
+94
+32.7
+14.6
+12.8
+12.5
+10
+0
+14.0
+0
+2.94
+0
+5.88
+0
+5
+0
+0
+1.95
+3.80
+2.8
+5
+Stickleback
+18
+6.27
+0
+3.30
+0
+0
+0
+1.38
+0
+0
+0
+Minnow
+0.74
+4
+1.39
+0.62
+0.48
+0
+0
+62.2
+30.5
+1.47
+2.94
+28.4
+12.8
+0.62
+0.5
+3.12
+38.4
+5
+13.1
+20.9
+17.1
+38.3
+110
+Frogs
+3.12
+5
+0
+4.95
+1.47
+2.94
+0
+2.07
+0.31
+5
+0
+1.81
+8
+2.78
+1.24
+1.14
+Birds
+0.87
+2.47
+0
+2.94
+0.4
+1.03
+0
+0
+0
+0.61
+5
+1.40
+0.83
+0.78
+1.74
+5
+Mammals
+43.8
+32.2
+26.4
+20.5
+20
+13.4
+8.12
+4
+4.38
+Invertebrates
+4.21
+114
+39.7
+17.7
+4.70
+56.2
+35
+9.64
+9.91
+14.7
+5.88
+4.4
+4.15
+3.43
+1
+31.2
+0.96
+10
+1.57
+1.49
+5.46
+12.1
+35
+Plant matter
+1.75
+0.82
+2.94
+Unidentiﬁed
+0
+0.8
+0.34
+1.56
+0
+0.96
+0.08
+5
+1.4
+0.78
+0.59
+6.25
+0
+0.87
+0.82
+0
+2.94
+0.4
+0.34
+0
+0.5
+0
+0.08
+0.10
+0.08
+0.46
+5
+Freshwater mussels
+3
+1.04
+1.75
+0
+0
+Crayﬁsh
+0
+0.8
+0
+0
+0
+0.26
+0
+2
+0.69
+0.31
+0.10
+0
+0
+Fish: Salmonids (Salmo trutta, Salmo salar); Eel (Anguilla anguilla); Stickleback (Gasterosteus aculeatus); Minnow (Phoxinus phoxinus)
+Amphibia: Frog (Rana temporaria)
+Birds: Rallidae; Blackbird (Turdus merula)
+Mammals: Brown rat (Rattus norvegicus); Wood mouse (Apodemus sylvaticus); Bank vole (Clethrionomys glareolus)
+Crayﬁsh (Austropotamobius pallipes)
+Freshwater mussels (Margaritifera margaritifera)
+Other invertebrates: Coleoptera (Dytiscidae); Odonata; Ephemeroptera; Plecoptera; Trichoptera; Freshwater shrimp (Gammarus duebeni ); Earthworms (Lumbricidae)
+
+
+OTTER DISTRIBUTION, DENSITY, DIET AND HABITAT USE IN RELATION TO LAND USE
+11
+Table 9—Variation in otter diet among spraints collected from various habitats expressed as percentage frequency of occurrence (F%), relative
+percentage of frequency (Fr%) and percentage bulk (Sc%).
+Araglin
+Douglas
+Glenﬁnish
+Forest
+Moorland
+Agricultural land
+Prey items
+n
+F%
+Fr%
+Sc%
+n
+F% Fr%
+Sc%
+n
+F%
+Fr%
+Sc%
+n
+F%
+Fr%
+Sc%
+n F%
+Fr%
+Sc%
+n
+F%
+Fr%
+Sc%
+Salmonids
+125 81.2
+37.9
+51.5
+91 91
+38.5
+60.3
+27 81.8
+36
+53.5
+149 86.1
+38.1
+22.6
+8 72.6
+30.8
+44.4
+86 83.5
+38.2
+52.6
+Eel
+59 38.3
+17.9
+19.5
+23 23
+9.74
+5.40 12 36.4
+16
+4.23
+54 31.2
+13.8
+9.48 3 27.3
+11.5
+15.4
+37 35.8
+16.4
+18.1
+Stickleback
+16 10.4
+4.85
+3.30
+2
+2
+0.85
+0.50
+0
+0
+0
+0
+9
+5.20
+2.3
+1.62 0
+0
+0
+0
+9
+8.74
+4
+2.72
+Minnow
+2
+1.29
+0.61
+0.26
+2
+2
+0.85
+1.00
+0
+0
+0
+0
+3
+1.72
+0.76
+0.63 0
+0
+0
+0
+1
+0.96
+0.44
+0.28
+Frogs
+49 31.8
+14.8
+16.7
+37 37
+15.7
+22.3
+24 72.7
+32
+35.7
+72 41.5
+18.5
+23.2
+6 54.4
+23.1
+18.2
+32 31.1
+14.2
+17.1
+Birds
+6
+3.89
+1.82
+1.43
+2
+2
+0.85
+1.10
+0
+0
+0
+0
+2
+1.16
+0.51
+0.63 3 27.3
+11.5
+12.6
+3
+2.91
+1.33
+0.76
+Mammals
+2
+1.29
+0.61
+0.83
+1
+1
+0.42
+0
+2
+6.06
+2.66
+3.32
+4
+2.31
+1.02
+0.97 0
+0
+0
+0
+1
+0.96
+0.44
+0.68
+Invertebrates
+46 29.8
+13.9
+3.64 60 60
+25.4
+7.10
+8 24.2
+10.6
+2.41
+79 45.7
+20.2
+5.25 4 36.4
+15.4
+4.54 31 30.1
+13.8
+3.77
+Plant matter
+17 11.0
+5.15
+1.56 16 16
+6.78
+1.70
+2
+6.06
+2.66
+0.61
+14
+8.08
+3.58
+0.81 2 18.2
+7.68
+4.54 19 18.3
+8.44
+2.32
+Unidentiﬁed
+3
+1.95
+0.91
+0.78
+2
+2
+0.85
+0.50
+0
+0
+0
+0
+3
+1.72
+0.76
+0.35 0
+0
+0
+0
+2
+1.93
+0.88
+1.07
+Freshwater
+0.09
+3
+1.95
+0.91
+0.18
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1.16
+0.51
+0.12 0
+0
+0
+0
+1
+0.96
+0.44
+mussels
+Crayﬁsh
+2
+1.29
+0.61
+0.18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1.93
+0.88
+0.28
+n=number of occurrences.
+
+
+BIOLOGY AND ENVIRONMENT
+Table 10—Composition of the otter diet in the three home range delineated expressed as percentage frequency of
+occurrence (F%), relative percentage of frequency (Fr%) and percentage bulk (Sc%).
+Home range 1
+Home range 2
+Home range 3
+Prey items
+n
+F%
+Fr%
+Sc%
+n
+F%
+Fr%
+Sc%
+n
+F%
+Fr%
+Sc%
+85.6
+83
+58.5
+37.9
+88.5
+100
+44.4
+30.8
+Salmonids
+72.6
+8
+56.3
+38.1
+10.5
+24.8
+28
+Eel
+39
+5.57
+40.1
+17.9
+13.7
+3
+27.3
+11.4
+15.4
+Stickleback
+3
+2.63
+1.14
+1.33
+9
+9.29
+4.15
+2.05
+0
+0
+0
+0
+Minnow
+2
+1.77
+0.76
+0.87
+1
+1.02
+0.45
+0.10
+0
+0
+0
+0
+Frogs
+43
+38.1
+0.38
+23.3
+41
+42.3
+18.9
+20.3
+6
+54.4
+23.1
+18.2
+12.6
+11.4
+27.3
+3
+0.31
+0.45
+1.02
+1
+0.96
+0.76
+1.77
+2
+Birds
+0
+0
+0
+1.74
+1.37
+3.09
+0
+3
+0.62
+0.76
+1.77
+2
+Mammals
+Invertebrates
+64
+56.5
+24.1
+6.64
+28
+28.9
+12.8
+3.70
+4
+36.4
+15.4
+4.54
+4.54
+7.68
+18.2
+2
+0.81
+2.75
+6.18
+6
+1.67
+9.09
+15.8
+18
+Plant matter
+Unidentiﬁed
+2
+1.77
+0.76
+0
+0.43
+2
+2.05
+0.91
+0.21
+0
+0
+0
+Freshwater mussels
+0
+0
+0
+0
+0
+3
+3.08
+1.37
+0.31
+0
+0
+0
+0
+0.21
+0.45
+1.02
+1
+Crayﬁsh
+0
+0
+0
+0
+0
+0
+0
+n=number of occurrences.
+with
+other
+remains
+that
+were
+identiﬁable
+as
+blackbird (Turdus merula).
+Nearly 40% of spraints contained invertebrate
+remains represented by lumbricid worms, Dytiscus
+beetles (Coleoptera), dragonﬂy (Odonata), fresh-
+water shrimp (Gammarus) and other aquatic insects.
+The larger of the above insects are rarely taken by
+trout, and worms could be considered as a food
+taken directly by the otter. However some of these
+and many other smaller insects are typical prey of
+ﬁshes and thus are likely to be secondary food. Plant
+matter formed 1.49% of the bulk diet and was most
+likely consumed incidentally by otters when feeding
+on other prey. On three occasions freshwater
+mussels occurred as broken shells associated with
+other food remains.
+The
+relative
+importance
+of
+the
+dietary
+components varied among the three rivers (Table 9).
+For example, ﬁsh formed 61.26% of the relative
+percentage
+of
+frequency
+and
+74.56%
+of
+the
+percentage bulk on the Araglin River, 49.94% and
+57.2% respectively on the River Douglas and 52%
+and 57.73% respectively on the Glenﬁnish River.
+Frogs were less important prey on the Araglin River
+than on the other two rivers considered (Table 9),
+and freshwater mussels and crayﬁsh were absent on
+the Douglas and Glenﬁnish rivers. These differences
+in relative abundance of prey items were signiﬁcant
+between
+the
+Araglin
+and
+Glenﬁnish
+rivers
+(P=0.018) and between Glenﬁnish and Douglas
+rivers (P=0.034), but there was no signiﬁcant
+difference between the Araglin and Douglas rivers
+(P=0.209).
+The relative importance of each prey group also
+differed considerably among three different habitats
+(Table 9). Fish was a more important food in the
+spraints collected from agricultural land than from
+the forest habitat, representing 73.7% and 44.33% of
+percentage bulk respectively, even though this prey
+was the principal prey in all habitats. In contrast,
+frogs were more abundant in spraints collected from
+the forest in comparison to other habitats and birds
+formed a signiﬁcant prey category only in the
+moorland area. The otters’ diet differs signiﬁcantly
+between the forest and moorland habitats and
+between
+agricultural
+and
+moorland
+habitats
+(P=0.015 and P=0.025 respectively).
+These differences in otter diet among the rivers
+and habitats extrapolated to differences among the
+three delineated home ranges (Table 10). The diet
+of the otters did not differ signiﬁcantly between
+home range 1 and home range 2 (P=0.885), but
+there was a signiﬁcant difference between these two
+home ranges and home range 3 (P=0.025 and
+P=0.015).
+Table 11—Bimonthly
+variation
+of
+niche
+breadth (B) expressed as relative
+percentage frequency (Fr%) and
+percentage bulk (Sc%).
+Fr%
+Sc%
+0.12
+0.26
+October–November
+0.24
+December–January
+0.13
+0.19
+0.30
+February–March
+0.38
+0.27
+April–May
+0.36
+0.23
+Pooled
+12
+
+
+OTTER DISTRIBUTION, DENSITY, DIET AND HABITAT USE IN RELATION TO LAND USE
+The trophic niche breadth of the otter tended
+to increase from October–November to spring/
+early
+summer
+(Table
+11).
+The
+diet
+breadth,
+measured on the basis of percentage bulk, was
+smaller than that measured on occurrences.
+DISCUSSION
+Previous surveys on the otter presence have usually
+been based on sites chosen at random and/or
+because of accessibility to the river. The type of
+ﬁeld survey carried out in the present study over
+the entire watercourses is a particularly suitable
+approach to obtaining more detailed information
+on otter presence in a relatively small area. Using
+the previous surveys in this study area (Chapman
+and Chapman 1982; O’Sullivan 1991) and the
+more detailed and extensive results of the present
+study it is possible to conclude that the otters are
+widespread within the study area. Otter presence
+and a holt were also recorded on the headwater
+reaches of the system. The fact that the presence of
+otters was found at sites recorded as negative in the
+previous surveys suggests either an increase in the
+otter population in the Araglin Valley or an
+expansion of the area used by existing otters.
+The home range boundaries were identiﬁed as
+meeting zones of otters coming from four different
+holts, and throughout the study period these
+boundaries remained relatively static. The highest
+number of spraints, the commonest of the otter
+signs, occurred in winter and spring, and the
+pattern was particularly evident in the central
+home range (home range 2). This could be related
+to the emergence of cubs (Green et al. 1984;
+Mason
+and
+Macdonald
+1986)
+or
+to
+the
+reinforcement of dominance relationships within
+the otter population when young animals become
+independent and establish their own home ranges.
+On the basis of the very small size of tracks found
+near the holt in home range 2 and the fact that the
+cubs leave the den about 70 days after birth, it is
+possible to suggest that a minimum of two cubs
+were born in early winter in the central home
+range. Other larger cub tracks recorded in the
+following months near the home range boundaries
+(sometimes associated with very small spraints)
+would suggest that these cubs had grown up and
+had started to patrol the home range with their
+mother.
+There was little relationship between the
+frequency of otter signs and vegetation cover in
+the
+Kilworth
+catchment
+in
+contrast
+to
+the
+Glenﬁnish River, where the distribution of signs
+and cover were positively correlated. This may be
+due to the different type of vegetation that occurs
+in the two areas: coniferous forest was widespread
+in the Kilworth forest, whereas deciduous species
+were prevalent along the Glenﬁnish River. The
+lowest number of otter signs and spraints was
+recorded
+in
+the
+Kilworth
+catchment
+where
+watercourses ﬂow through conifer plantations.
+Other studies on the interaction between forestry
+and
+freshwater
+ecosystems
+have
+identiﬁed
+an
+alteration
+in
+water
+chemistry,
+turbidity,
+ﬂow
+regime
+and
+temperature
+arising
+from
+forest
+practices under certain sets of circumstances that
+may affect the ﬂora and fauna of the rivers (Mason
+and
+Macdonald
+1987;
+O’Halloran
+and
+Giller
+1993). In this particular context, acidiﬁcation of
+streams
+in
+conifer
+afforested
+catchments
+can
+negatively affect ﬁsh density and consequently
+could
+affect
+otter
+populations.
+However,
+in
+Kilworth
+ﬁsh
+populations
+are
+relatively
+high
+(Clenaghan 1996; Elso and Giller 2001), and there
+is no evidence of acidiﬁcation in the catchment
+(Cleneghan et al. 1998). The low number of otter
+signs and spraints could relate to the relatively small
+size of the streams in Kilworth or to the fact that
+relatively few large ﬁsh (age 3 years) have been
+recorded in most of the Kilworth catchment
+(Clenaghan 1996).
+In contrast, in the Glenﬁnish River, dominant
+tree species included Fraxinus excelsior, Salix spp,
+Acer pseudoplatanus and Rubus spp, and there was a
+positive
+correlation
+between
+otter
+signs
+and
+percentage of vegetation cover. Similar conclusions
+were reached in other studies (Macdonald and
+Mason 1983; Green et al. 1984; Macdonald and
+Mason 1985), where marking activities of otters
+were mostly associated with mature ash and
+sycamore.
+Another factor that limits the otters in the
+study area is river depth. No otter signs were
+found
+in
+the
+headwater
+stretches
+of
+small
+tributaries, where the water levels are low. In
+addition, otter signs were positively associated with
+pools, as found by other authors (Macdonald and
+Mason 1982b; Kruuk et al. 1986; Kemenes and
+Demeter 1995). These results and those of other
+studies
+(Macdonald
+et
+al.
+1978;
+Jenkins
+and
+Burrows
+1980;
+Macdonald
+and
+Mason
+1983;
+Adrian et al. 1985) suggest that a suitable habitat
+for the otter must include, among other factors
+(such
+as
+a
+low
+level
+of
+pollution,
+limited
+disturbance and good food availability), dense
+bankside cover, principally composed of deciduous
+species such as ash and sycamore, and good pools
+with relatively low water velocity. A more detailed
+review of habitat use and conservation of otters has
+been recently published by Kruuk et al. (1998).
+As mentioned in the introduction, the otter
+has been described as a ﬁsh specialist and in the
+Araglin Valley the diet of otter was principally
+based on ﬁsh. The otter generally captures ﬁsh in
+proportion to their abundance, but proportions of
+different ﬁshes caught are also assumed to depend
+13
+
+
+BIOLOGY AND ENVIRONMENT
+on the mobility of individual species. Slower
+swimming species seem to be the favoured food
+(Erlinge 1968), and eels are slower prey than
+salmonids and have been identiﬁed as the major
+prey on the Somerset levels, in southern England
+(Webb 1975) and in Deeside, north-east Scotland
+(Jenkins et al. 1979; Jenkins and Harper 1980). On
+the other hand, in habitats where eels are less
+common, Cyprinidae form the most important
+component of the otter diet (e.g. Erlinge 1967;
+Prigioni et al. 1991). However, the results of the
+present
+study
+suggest
+that
+the
+otter
+is
+also
+somewhat of an opportunist. Otter diet tends to
+change with variation in the relative abundance of
+the different prey types. There are, for example,
+seasonal ﬂuctuations in crayﬁsh and amphibian
+predation. Crayﬁsh tends to be a minor food in
+winter when the water is cold and the animals are
+in their refuges (Erlinge 1967, 1969; McFadden
+and Fairley 1984; Breathnach and Fairley 1993).
+Delibes and Adrian (1987) showed that the feeding
+ecology of the otter changed after the introduction
+of Procambarus clarki in Spain. This exotic crayﬁsh
+replaced ﬁsh as the major component of otter diet.
+High predation by otters on frogs has been noted
+during the frog breeding season (as seen in this
+study) (Jenkins and Harper 1980; Fairley 1984;
+Kyne et al. 1989; Weber 1990) and also in
+association with the hibernation period or in late
+autumn
+(Erlinge
+1967;
+Jenkins
+et
+al.
+1979).
+Seasonal changes in ﬁsh prey can be related to
+changes in ﬁsh activity. Wise (1978) showed that
+salmonids tended to be abundant in the diet in
+winter, whereas eels were taken principally in
+summer, when they are more active and more
+abundant. Gormally and Fairley (1982) have also
+attributed the decrease of eels in winter to the
+autumn migration of mature specimens. Other
+studies have similarly recorded a lower number of
+eels in winter (Jenkins et al. 1979; McFadden and
+Fairley 1984; Mason and Macdonald 1986). The
+higher numbers of salmonids in the diet in winter
+is thought to be due to low water temperatures
+that reduce the swimming ability of salmonids
+(Heggenes et al. 1993), which then become more
+vulnerable to predation (Carss 1995).
+Although the otter is mainly piscivorous, it is
+known to feed on a variety of other prey types.
+The occurrence of freshwater mussels as part of
+otter diet was found by Norris (1974) in County
+Clare and O’Sullivan (1994) in the Blackwater
+catchment, and their importance can possibly be
+underestimated as they have more soft parts in
+comparison to other prey types. However, the low
+occurrence of freshwater mussels in the present
+study is probably due to their rareness in the study
+area. Waterfowl and rails ﬁgure quite regularly in
+the otter diet (Hewson 1973) but are usually
+regarded as being of secondary importance. These
+animals, together with crayﬁsh and frogs, are more
+seasonal, being more often caught in summer
+when ﬁsh availability is reduced (Wise et al. 1981).
+Mammals are usually minor dietary components as
+found here. Invertebrates are generally ingested
+with other prey, even if aquatic insects (e.g.
+Dytiscus beetles) seem to be taken intentionally by
+otters (Erlinge and Jensen 1981; Kyne et al. 1989;
+Breathnach and Fairley 1993). The identiﬁcation
+of earthworms in the food of otter is interesting
+and,
+although
+rarely
+mentioned,
+it
+has
+been
+described in some studies (Southern 1964; Fairley
+1972; Chanin 1981). In addition, otters have
+occasionally been recorded as feeding on carrion
+(Stephens
+1957;
+Green
+and
+Green
+1980;
+O’Sullivan et al. 1994).
+Any comparison of diet among rivers and
+habitats is based on the assumption that spraints
+reﬂect food consumed in the general area where
+the spraints were deposited. On this basis, the
+variation in otter diet among the three different
+rivers probably reﬂects ﬁsh availability. Larger eels
+are found in habitats of slow and deep water, with
+stable water levels, and such habitat is more
+common in the Araglin River than in the other
+watercourses. Frogs and mammals were more
+important prey resources in the Glenﬁnish River,
+but in this stream stickleback and minnow were
+absent from spraints. The richest overall food
+resource (based on dietary data) was recorded in
+home range 2, where tracks of an adult male
+(probably a dominant otter) and a family group
+were found. This suggests that the sub-adult otters
+located in the other home ranges (Ottino 1997)
+may have been excluded from the central home
+range by social pressure and thus occupied more
+marginal territories with poorer prey availability. In
+home range 3, for example, where the ﬁsh prey are
+known to be less abundant (Giller et al. 1997),
+frogs and birds increased in importance in otter
+diet.
+Freshwater
+systems
+are
+very
+sensitive
+to
+land-use changes, and the otter seems to reﬂect
+that in its diet. In the afforested sites the relative
+contribution of ﬁsh appeared to be lower than in
+agricultural sites and frogs were more abundant in
+comparison to more herbaceous habitats. The most
+afforested
+sites
+occurred
+in
+the
+Kilworth
+catchment, on the River Douglas. The lowest
+number of prey items in spraints were found in
+moorland sites, probably because the habitat was
+poorer (in relation to low levels of vegetation
+cover and water ﬂow) in comparison to the other
+two habitats.
+The Araglin Valley can thus be considered a
+good
+habitat
+for
+otters,
+particularly
+in
+the
+Glenﬁnish River and the middle course of the
+Araglin River. Other areas of the valley may only
+offer secondary habitats, although they are utilised
+14
+
+
+OTTER DISTRIBUTION, DENSITY, DIET AND HABITAT USE IN RELATION TO LAND USE
+to some degree. The value of the valley as otter
+habitat relates to the availability of key habitat
+features and a broad prey base. While extensive
+surveys
+provide
+some
+useful
+information
+on
+large-scale national and regional distribution, the
+detailed approach adopted here is clearly necessary
+to begin to understand the precise relationships
+between otter distribution and ecology and habitat
+factors—information
+that
+is
+essential
+for
+conservation measures and the implementation of
+management practices to encourage and maintain
+otter populations along Irish river systems.
+ACKNOWLEDGEMENTS
+We wish to thank Professor C. Prigioni for advice
+and colleagues in the Freshwater Laboratory at
+UCC for assistance during the project. We are also
+grateful to two anonymous referees for help in
+improving the manuscript.
+REFERENCES
+Adrian, M.I., Wilden, W. and Delibes, M.
+1985
+Otter distribution and agriculture in south-western
+Spain. 17th Congress of the International Union of
+Game Biologists, Brussels.
+Bas, N., Jenkins, D. and Rothery, P.
+1984
+Ecology
+of otters in northern Scotland. V. The distribution
+of otter Lutra lutra faeces in relation to bankside
+vegetation on the River Dee in summer 1981.
+Journal of Applied Ecolology 21, 507–13.
+Breathnach, S. and Fairley, J.S.
+1993
+The diet of
+otters Lutra lutra (L.) in the Clare river system.
+Biology and Environment 93B, 151–8.
+Carss, D.N.
+1995
+Foraging behaviour and feeding
+ecology of the otter Lutra lutra: a selective review.
+Hystrix 7, 179–94.
+Carss, D.N., Nelson, K.C., Bacon, P.J. and Kruuk,
+H.
+1998
+Otter (Lutra lutra L.) prey selection in
+relation to ﬁsh abundance and community structure
+in
+two
+different
+freshwater
+habitats.
+In
+N.
+Dunstone and M. Gorman (eds), Behaviour and
+ecology of riparian mammals, 191–214. Symposium of
+the Zoological Society of London, 71. Cambridge
+University Press.
+Chanin, P.
+1981
+The diet of the otter and its
+relations with the feral mink in two areas of
+south-west England. Acta Theriologica 26, 83–95.
+Chapman,
+P.J.
+and
+Chapman,
+L.L.
+1982
+Otter
+survey
+of
+Ireland,
+1980–81.
+London.
+Vincent
+Wildlife Trust.
+Clenaghan,
+C.
+1996
+The
+spatial
+and
+temporal
+variation
+in
+the
+freshwater
+ecology
+and
+hydrochemistry
+of
+an
+Irish
+conifer
+afforested
+catchment. Unpublished PhD thesis, University
+College Cork.
+Cleneghan, C., O’Halloran, J., Giller, P. S. and Roche,
+N.
+1998
+Longitudinal and temporal variation
+in the hydrochemistry of streams in an Irish conifer
+afforested catchment Hydrobiologia 389, 63–71.
+Conroy, J.W.H. and French, D.D.
+1987
+The use
+of spraints to monitor population of otters (Lutra
+lutra). Symposium of the Zoological Society of London
+58, 247–62. Cambridge University Press.
+Conroy, J.W.H. and French, D.D.
+1991
+Seasonal
+patterns in the sprainting behaviour of otters (Lutra
+lutra L.) in Shetland. In C. Reuther and R.
+Rochert (eds), Proceedings of the Vth International
+Otter Colloquium. Habitat 6, 159–66.
+Conroy, J.W.H., Watt, J., Webb. J.B. and Jones,
+A.
+1993
+A guide to the identiﬁcation of prey
+remains in otter spraint. An occasional publication of the
+Mammal Society 16, 52 pp.
+Day, M.G.
+1966
+Identiﬁcation of hair and feather
+remains in the gut and faeces of stoats and weasels.
+Journal of Zoology, London 148, 201–17.
+Delibes, M. and Adrian, I.
+1987
+Effects of crayﬁsh
+introduction on otter Lutra lutra food in the
+Do˜nana
+National
+Park,
+S.W.
+Spain.
+Biological
+Conserveration 42, 153–9.
+Delibes,
+M.,
+Macdonald,
+S.M.
+and
+Mason,
+C.F.
+1991
+Seasonal
+marking,
+habitat
+and
+organo-
+chlorine contamination in otters (Lutra lutra); a
+comparison between catchments in Andalucia and
+Wales. Mammalia 55, 567–78.
+Elso, J. and Giller, P.S.
+2001
+Physical characteristics
+inﬂuencing the utilisation of pools by brown trout
+in an afforested catchment in southern Ireland.
+Journal of Fish Biology 58, 201–21.
+Erlinge, S.
+1967
+Home range of otter Lutra lutra L.
+in southern Sweden. Oikos 18, 186–209.
+Erlinge, S.
+1968
+Territoriality of the otter Lutra
+lutra. Oikos 19, 81–98.
+Erlinge, S.
+1969
+Food habits of the otter Lutra lutra
+and the mink Mustela vison in a trout water in
+southern Sweden. Oikos 20, 1–7.
+Erlinge,
+S.
+1972
+The
+situation
+of
+the
+otter
+population in Sweden. Viltrevy 8, 379–97.
+Erlinge, S. and Jensen, B.
+1981
+The diet of otters
+Lutra lutra L. in Denmark. Natura Jutland 19,
+161–5.
+Fairley, J.S.
+1972
+Food of otters (Lutra lutra) from
+Co. Galway, Ireland and notes on other aspects of
+their biology. Journal of Zoology, London 166,
+469–74.
+Fairley, J.S.
+1984
+Otters feeding on breeding frogs.
+Irish Naturalist Journal 21, 372.
+Feinsinger,
+P.,
+Spers,
+E.E.
+and
+Poole,
+R.W.
+1981
+A simple measure of niche breadth. Ecology
+62, 27–32.
+Giller, P.S., O’Halloran, J., Hernan, R., Roche, N.,
+Clenaghan, C., Evans, J., Kiely, G.K., Morris, P.,
+Allot, N., Brennan, M., Reynolds, J., Cooke, D.,
+Kelly-Quinn, M., Bracken, J., Coyle, S. and Farrel,
+E.P.
+1993
+An
+integrated
+study
+of
+forested
+catchments in Ireland. Journal of the Society of Irish
+Foresters 50, 70–88.
+Giller,
+P.,
+O’Halloran,
+J.,
+Kiely,
+G.,
+Evans,
+J.,
+Clenaghan,
+C.,
+Hernan,
+R.,
+Roche,
+N.
+and
+Morris, P.
+1997
+A study of the effects of
+stream hydrology and water quality in forested
+catchments on ﬁsh and invertebrates. AQUAFOR
+Report 2. Dublin. COFORD.
+15
+
+
+BIOLOGY AND ENVIRONMENT
+Gormally, M.J. and Fairley, J.S.
+1982
+Food of
+otters Lutra lutra in a freshwater lough and an
+adjacent brackish lough in the west of Ireland.
+Journal of Zoology, London 197, 313–21.
+Green, J. and Green, R.
+1980
+Otter survey of
+Scotland,
+1977–79.
+London.
+Vincent
+Wildlife
+Trust.
+Green, J., Green, R. and Jefferies, D.J.
+1984
+A
+radio-tracking survey of otter Lutra lutra on a
+Perthshire river system. Lutra 27, 85–145.
+Heggenes, J., Krog, O.M.W., Lindas, O.R., Dokk,
+J.G.
+and
+Bremnes,
+T.
+1993
+Homeostatic
+behavioural responses in a changing environment:
+brown trout (Salmo trutta) become nocturnal during
+winter. Journal of Animal Ecology 62, 295–308.
+Hewson, R.
+1973
+Food and feeding habits of otters
+Lutra lutra at Loch Park, north-east Scotland. Journal
+of Zoology, London 170, 159–62.
+Jenkins, D.
+1980
+Ecology of otters in northern
+Scotland.
+I.
+Otter
+(Lutra
+lutra)
+breeding
+and
+dispersion
+in
+mid-Deeside,
+Aberdeenshire,
+in
+1974–79. Journal of Animal Ecology 49, 713–35.
+Jenkins, D. and Burrows, G.O.
+1980
+Ecology of
+otters in northern Scotland. III. The use of faeces as
+indicators
+of
+otter
+(Lutra
+lutra)
+density
+and
+distribution. Journal of Animal Ecology 49, 755–74.
+Jenkins, D. and Harper, R.
+1980
+Ecology of otters
+in northern Scotland. II. Analysis of otter (L. lutra)
+and mink (M. vison) faeces from Deeside, N.E.
+Scotland, in 1977–88. Journal of Animal Ecology 49,
+737–45.
+Jenkins,
+D.,
+Walker,
+J.G.K.
+and
+McGowan,
+D.
+1979
+Analysis of the otter (Lutra lutra) faeces
+from Deeside, N.E. Scotland. Journal of Zoology,
+London 187, 235–44.
+Kemenes, I. and Demeter, A.
+1995
+A predictive
+model of the effect of environmental factors on the
+occurrence of otters (Lutra lutra L.) in Hungary.
+Hystrix 7, 209–18.
+Kruuk,
+H.
+1995
+Wild
+otters:
+predation
+and
+populations. Oxford University Press.
+Kruuk, H. and Moorhouse, A.
+1990
+Seasonal and
+spatial differences in food selection by otters (Lutra
+lutra) in Shetland. Journal of Zoology, London 221,
+621–37.
+Kruuk, H., Conroy, J.W.H., Glimmerveen, U. and
+Ouwerkerk, E.J.
+1986
+The use of spraints to
+survey populations of otters (Lutra lutra). Biological
+Conservation 35, 187–94.
+Kruuk, H., Carss, D.N., Conroy, J.M. and Gaywood,
+M.J.
+1998
+Habitat use and conservation of
+otters (Lutra lutra) in Britain: a review. In N.
+Dunstone and M. Gorman (eds), Behaviour and
+ecology of riparian mammals, 119–34. Symposium of
+the Zoological Society of London, 71. Cambridge
+University Press.
+Kyne, M. J., Small, C. M. and Fairley, J. S.
+1989
+The food of the otter Lutra lutra in the Irish
+midlands and a comparison with that of mink
+Mustela vison in the same region. Proceedings of the
+Royal Irish Academy 89B, 33-46
+Kyne, M.J., Kyne, M.J. and Fairley, J.S.
+1990
+A
+summer survey of otter sign on Roundstone Bog,
+south
+Connemara.
+Irish
+Naturalist
+Journal
+23,
+273–76.
+Leidler, L.
+1982
+Otters in Britain. Newton Abbot.
+David and Charles.
+Libois, R.M. and Hallet-Libois, C.
+1988
+E´le´ments
+pour l’identiﬁcation des restes craˆniens des poissons
+dolc¸aquicoles de Belgique et du nord de la France.
+2-Cypriniformes. In J. Desse and N. Desse-Berset
+(eds), Fiches d’oste´ologie animale pour l’arche´ologie, Se´rie
+A (4): Poissons. Juan-les-pins. APDCA.
+Libois,
+R.M.,
+Hallet-Libois,
+C.
+and
+Rosoux,
+R.
+1987
+E´le´ments pour l’identiﬁcation des restes
+craˆniens des poissons dolc¸aquicoles de Belgique et
+du
+nord
+de
+la
+France.
+1-Anguilliformes,
+Gaste´roste´iformes, Cyprinodontiformes et Perci-
+formes. In J. Desse and N. Desse-Berset (eds), Fiches
+d’oste´ologie animale pour l’arche´ologie, Se´rie A (3):
+Poissons. Juan-les-pins. APDCA.
+Lunnon, R.M. and Reynolds, J.D.
+1991 Dis- tribution
+of the otter (Lutra lutra) in Ireland and its value as
+a indicator of habitat quality. In D.W. Jeffrey and B.
+Madden
+(eds),
+Bioindicators
+and
+environmental
+management, 435–43. London. Academic Press.
+Macdonald, S.M. and Mason, C.F.
+1982a
+Otters in
+Greece. Oryx 16, 240–44.
+Macdonald, S.M. and Mason, C.F.
+1982b
+The otter
+in central Portugal. Biological conservation 22, 207–15.
+Macdonald, S.M. and Mason, C.F.
+1983
+Some
+factors inﬂuencing the distribution of otters (Lutra
+lutra). Mammal Review 13, 1–10.
+Macdonald, S.M. and Mason, C.F.
+1985
+Otters,
+their habitat and conservation in north-east Greece.
+Biological Conservation 31, 191–210.
+Macdonald,
+S.M.
+and
+Mason,
+C.F.
+1988
+Observations on an otter population in decline. Acta
+Theriologica 33, 415–34.
+Macdonald,
+S.M.,
+Mason,
+C.F.
+and
+Coghill,
+I.S.
+1978
+The otter and its conservation in the River
+Teme catchment. Journal of Applied Ecology 15,
+373–84.
+Mason, C.F. and Macdonald, S.M.
+1986
+Otters:
+ecology and conservation. Cambridge University Press.
+Mason, C.F. and Macdonald, S.M.
+1987
+The use of
+spraints for surveying otter Lutra lutra populations: an
+evaluation. Biological Conservation 41, 167–77.
+McFadden, Y.M.T. and Fairley, J.S.
+1984
+Food of
+otters Lutra lutra (L.) in an Irish limestone river
+system
+with
+special
+reference
+to
+the
+crayﬁsh
+Austropotamobius pallipes (Lereboullet). Journal of the
+Life Sciences, Royal Dublin Society 5, 65–76.
+Norris, D.
+1974
+A study of the otter (L. lutra) on the
+R.
+Fergus
+from
+July
+to
+September
+1974.
+Unpublished Wildlife Service Report.
+O’Halloran, J. and Giller, P.S.
+1993
+Forestry and
+the ecology of streams and rivers: lessons from
+abroad. Irish Forestry 50, 35–52.
+O’Sullivan, W.M.
+1991
+The distribution of otters
+Lutra lutra within a major Irish river system, the
+Munster
+Blackwater
+catchment.
+Irish
+Naturalist
+Journal 23, 1988–90.
+O’Sullivan, W.M.
+1992
+An estimate of otter density
+on part of the Blackwater catchment in summer.
+Unpublished PhD thesis, University College Cork.
+O’Sullivan, W.M.
+1994
+Summer diet of otters on
+part of the River Blackwater catchment. Irish
+Naturalist Journal 24, 349–53.
+O’Sullivan,
+W.M.,
+Sleeman,
+D.P.
+and
+Murphy,
+D.M.
+1994
+Otters (Lutra lutra) feeding on
+carrion. Irish Naturalist Journal 24, 140–43.
+16
+
+
+BIOLOGY AND ENVIRONMENT
+Ottino, P.
+1995
+La lontra. Ricerche in Abruzzo.
+L’Aquila. Quaderno del Bollettino C.A.I.
+Ottino, P.
+1997
+Studies on otters in the Araglin
+Valley, southern Ireland. Unpublished MSc thesis,
+University College Cork.
+Prauser,
+N.
+1985
+Vorkommen
+von
+Fischottern
+(Lutra lutra L. 1758) und ihre Abhangigkeit von der
+Struktur
+verschiedener
+Habitat-Zonen
+der
+Wumme-Niederung.
+Zeitschrift
+fur
+Angewandte
+Zoologie 72, 83–91.
+Prigioni, C., Pandolﬁ, M., Grimod, I., Fumagalli, R.,
+Santolini,
+R.,
+Arca`,
+G.,
+Montemurro,
+F.,
+Bonacoscia, M. and Racana, A.
+1991
+The
+otter in ﬁve Italian rivers. First report. In C.
+Reuther and R. Rochert (eds), Proceedings of the
+Vth
+International
+Otter
+Colloquium,
+143–5.
+Habitat 6.
+Rowe-Rowe, D.T.
+1977
+Food ecology of otters in
+Natal, South Africa. Oikos 28, 210–19.
+Smiddy, P.
+1993
+The status of the otter in east
+Cork and west Waterford. Irish Naturalist Journal 25,
+236–40.
+Southern, H.N. (ed.)
+1964
+The handbook of British
+mammals. Oxford. Blackwell.
+Stephens,
+M.
+1957
+The
+otter
+report.
+London.
+U.F.A.W.
+Thom, T.J., Thomas, C.J., Dunstone, N. and Evans,
+P.R.
+1998
+The relationship between river-
+bank
+habitat
+and
+prey
+availability
+and
+the
+distribution of otter (Lutra lutra) signs: an analysis
+using a geographical information system. In N.
+Dunstone and M. Gorman (eds), Behaviour and
+ecology of riparian mammals, 135–58. Symposium of
+the Zoological Society of London, 71. Cambridge
+University Press.
+Wallace,
+J.L.
+1995
+The
+interaction
+between
+forestry and freshwater ecosystems in south west
+Ireland.
+Unpublished
+MSc.
+thesis,
+University
+College Cork.
+Webb, J.B.
+1975
+Food of the otter (Lutra lutra) on
+the Somerset levels. Journal of Zoology, London 177,
+486–91.
+Webb,
+J.B.
+1976
+Otter
+spraint
+analysis.
+An
+occasional publication of the Mammal Society.
+Weber,
+J.M.
+1990
+Seasonal
+exploitation
+of
+amphibians by otter (Lutra lutra) in north-east
+Scotland. Journal of Zoology, London 220, 641–51.
+Wise, M.H.
+1978
+The feeding ecology of otters
+and mink in Devon. Unpublished PhD thesis,
+University of Exeter.
+Wise, M.H.
+1980
+The use of ﬁsh vertebrae in scats
+for estimating prey size of otters and mink. Journal
+of Zoology, London 192, 25–31.
+Wise, M.H., Linn, I.J. and Kennedy, C.R.
+1981
+A
+comparison of the feeding biology of mink Mustela
+vison and otter Lutra lutra. Journal of Zoology, London
+195, 181–213.
+Yalden, D.W.
+1977
+The identiﬁcation of remains in
+owl
+pellets.
+An
+occasional
+publication
+of
+the
+Mammal Society.
+The subvention granted
+by the University
+College Cork towards
+the cost of publication
+of papers by members
+of its staff is gratefully
+acknowledged by the
+Royal Irish Academy.
+17

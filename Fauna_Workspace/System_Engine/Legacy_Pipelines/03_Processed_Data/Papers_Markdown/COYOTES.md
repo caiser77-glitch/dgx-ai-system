@@ -1,0 +1,3218 @@
+--- 
+source: COYOTES.pdf
+--- 
+
+C-51
+COYOTES
+Jeffrey S. Green
+Assistant Regional Director
+USDA-APHIS-
+Animal Damage Control
+Lakewood, Colorado 80228
+F. Robert Henderson
+Extension Specialist
+Animal Damage Control
+Kansas State University
+Manhattan, Kansas 66506-1600
+Mark D. Collinge
+State Director
+USDA-APHIS-
+Animal Damage Control
+Boise, Idaho 83705
+Fig. 1. Coyote, Canis latrans
+Damage Prevention and
+Control Methods
+Exclusion
+Produce livestock in confinement.
+Herd livestock into pens at night.
+Exclusion fences (net-wire and/or
+electric), properly constructed and
+maintained, can aid significantly in
+reducing predation.
+Cultural Methods and
+Habitat Modification
+Select pastures that have a lower
+incidence of predation to reduce
+exposure of livestock to predation.
+Herding of livestock generally reduces
+predation due to human presence
+during the herding period.
+Change lambing, kidding, and calving
+seasons.
+Shed lambing, kidding, and calving
+usually reduce coyote predation.
+Remove carrion to help limit coyote
+populations.
+Frightening Agents and
+Repellents
+Guarding dogs: Some dogs have
+significantly reduced coyote
+predation.
+Donkeys and llamas: Some are
+aggressive toward canines and have
+reduced coyote predation.
+Sonic and visual repellents: Strobe
+lights, sirens, propane cannons, and
+others have reduced predation on
+both sheep and calves.
+Chemical odor and taste repellents:
+None have shown sufficient
+effectiveness to be registered for
+use.
+Toxicants
+M-44 ejector devices for use with
+sodium cyanide-loaded plastic
+capsules. They are most effective
+during cold weather (fall to spring).
+Livestock protection collars (LPC)
+containing Compound 1080
+(sodium monofluoroacetate) are
+registered for use only in certain
+states.
+Fumigants
+Gas cartridges are registered as a
+burrow (den) fumigant.
+Trapping
+Leghold traps (Nos. 3 and 4) are
+effective and are the most versatile
+control tool.
+Snares are effective where coyotes pass
+through or under net-wire fences
+and in trail sets.
+PREVENTION AND CONTROL OF WILDLIFE DAMAGE — 1994
+Cooperative Extension Division
+Institute of Agriculture and Natural Resources
+University of Nebraska - Lincoln
+United States Department of Agriculture
+Animal and Plant Health Inspection Service
+Animal Damage Control
+Great Plains Agricultural Council
+Wildlife Committee
+
+
+C-52
+Shooting
+Shooting from the ground is effective.
+Use rabbit distress calls or mimic
+howling or other coyote sounds to
+bring coyotes within shooting
+distance.
+Aerial hunting is effective in removing
+coyotes where terrain, ground
+cover, vegetation, regulations, and
+landownership conditions permit.
+Hunting with dogs is effective for trail-
+ing coyotes from kill sites, locating
+dens, running coyotes, and assisting
+with aerial hunting or calling.
+Other Methods
+Denning: Remove adult coyotes and/
+or their young from dens.
+Identification
+In body form and size, the coyote
+(Canis latrans) resembles a small collie
+dog, with erect pointed ears, slender
+muzzle, and a bushy tail (Fig. 1).
+Coyotes are predominantly brownish
+gray in color with a light gray to
+cream-colored belly. Color varies
+greatly, however, from nearly black to
+red or nearly white in some individu-
+als and local populations. Most have
+dark or black guard hairs over their
+back and tail. In western states, typical
+adult males weigh from 25 to 45
+pounds (11 to 16 kg) and females from
+22 to 35 pounds (10 to 14 kg). In the
+East, many coyotes are larger than
+their western counterparts, with males
+averaging about 45 pounds (14 kg) and
+females about 30 pounds (13 kg).
+Coyote-dog and coyote-wolf hybrids
+exist in some areas and may vary
+greatly from typical coyotes in size,
+color, and appearance. Also, coyotes in
+the New England states may differ in
+color from typical western coyotes.
+Many are black, and some are reddish.
+These colorations may partially be due
+to past hybridization with dogs and
+wolves. True wolves are also present
+in some areas of coyote range, particu-
+larly in Canada, Alaska, Montana,
+northern Minnesota, Wisconsin, and
+Michigan. Relatively few wolves
+remain in the southern United States
+and Mexico.
+Range
+Historically, coyotes were most com-
+mon on the Great Plains of North
+America. They have since extended
+their range from Central America to
+the Arctic, including all of the United
+States (except Hawaii), Canada, and
+Mexico.
+weaker lambs are also present. Usu-
+ally, the stronger lamb is on the
+periphery and is more active, making
+it more prone to attack than a weaker
+lamb that is at the center of the flock
+and relatively immobile.
+Coyote predation on livestock is gener-
+ally more severe during early spring
+and summer than in winter for two
+reasons. First, sheep and cows are usu-
+ally under more intensive manage-
+ment during winter, either in feedlots
+or in pastures that are close to human
+activity, thus reducing the opportunity
+for coyotes to take livestock. Second,
+predators bear young in the spring and
+raise them through the summer, a pro-
+cess that demands increased nutri-
+tional input, for both the whelping and
+nursing mother and the growing
+young. This increased demand corre-
+sponds to the time when young sheep
+or beef calves are on pastures or range-
+land and are most vulnerable to attack.
+Coyote predation also may increase
+during fall when young coyotes dis-
+perse from their home ranges and
+establish new territories.
+General Biology,
+Reproduction, and
+Behavior
+Coyotes are most active at night and
+during early morning hours (especially
+where human activity occurs), and
+during hot summer weather. Where
+there is minimal human interference
+and during cool weather, they may be
+active throughout the day.
+Coyotes bed in sheltered areas but do
+not generally use dens except when
+raising young. They may seek shelter
+underground during severe weather
+or when closely pursued. Their physi-
+cal abilities include good eyesight and
+Habitat
+Many references indicate that coyotes
+were originally found in relatively
+open habitats, particularly the grass-
+lands and sparsely wooded areas of
+the western United States. Whether or
+not this was true, coyotes have
+adapted to and now exist in virtually
+every type of habitat, arctic to tropic,
+in North America. Coyotes live in
+deserts, swamps, tundra, grasslands,
+brush, dense forests, from below sea
+level to high mountain ranges, and at
+all intermediate altitudes. High densi-
+ties of coyotes also appear in the sub-
+urbs of Los Angeles, Pasadena,
+Phoenix, and other western cities.
+Food Habits
+Coyotes often include many items in
+their diet. Rabbits top the list of their
+dietary components. Carrion, rodents,
+ungulates (usually fawns), insects
+(such as grasshoppers), as well as live-
+stock and poultry, are also consumed.
+Coyotes readily eat fruits such as
+watermelons, berries, and other veg-
+etative matter when they are available.
+In some areas coyotes feed on human
+refuse at dump sites and take pets
+(cats and small dogs).
+Coyotes are opportunistic and gener-
+ally take prey that is the easiest to
+secure. Among larger wild animals,
+coyotes tend to kill young, inexperi-
+enced animals, as well as old, sick, or
+weakened individuals. With domestic
+animals, coyotes are capable of catch-
+ing and killing healthy, young, and in
+some instances, adult prey. Prey selec-
+tion is based on opportunity and a
+myriad of behavioral cues. Strong,
+healthy lambs are often taken from a
+flock by a coyote even though smaller,
+
+
+C-53
+hearing and a keen sense of smell.
+Documented recoveries from severe
+injuries are indicative of coyotes’
+physical endurance. Although not as
+fleet as greyhound dogs, coyotes have
+been measured at speeds of up to 40
+miles per hour (64 km/hr) and can
+sustain slower speeds for several miles
+(km).
+Distemper, hepatitis, parvo virus, and
+mange (caused by parasitic mites) are
+among the most common coyote dis-
+eases. Rabies and tularemia also occur
+and may be transmitted to other ani-
+mals and humans. Coyotes harbor
+numerous parasites including mites,
+ticks, fleas, worms, and flukes. Mortal-
+ity is highest during the first year of
+life, and few survive for more than 10
+to 12 years in the wild. Human activity
+is often the greatest single cause of
+coyote mortality.
+Coyotes usually breed in February and
+March, producing litters about 9
+weeks (60 to 63 days) later in April and
+May. Females sometimes breed during
+the winter following their birth, par-
+ticularly if food is plentiful. Average
+litter size is 5 to 7 pups, although up to
+13 in a litter has been reported. More
+than one litter may be found in a single
+den; at times these may be from
+females mated to a single male. As
+noted earlier, coyotes are capable of
+hybridizing with dogs and wolves, but
+reproductive dysynchrony and
+behaviors generally make it unlikely.
+Hybrids are fertile, although their
+breeding seasons do not usually corre-
+spond to those of coyotes.
+Coyote dens are found in steep banks,
+rock crevices, sinkholes, and under-
+brush, as well as in open areas. Usu-
+ally their dens are in areas selected for
+protective concealment. Den sites are
+typically located less than a mile (km)
+from water, but may occasionally be
+much farther away. Coyotes will often
+dig out and enlarge holes dug by
+smaller burrowing animals. Dens vary
+from a few feet (1 m) to 50 feet (15 m)
+and may have several openings.
+Both adult male and female coyotes
+hunt and bring food to their young for
+several weeks. Other adults associated
+with the denning pair may also help in
+feeding and caring for the young. Coy-
+otes commonly hunt as singles or
+pairs; extensive travel is common in
+their hunting forays. They will hunt in
+the same area regularly, however, if
+food is plentiful. They occasionally
+bury food remains for later use.
+Pups begin emerging from their den
+by 3 weeks of age, and within 2
+months they follow adults to large
+prey or carrion. Pups normally are
+weaned by 6 weeks of age and fre-
+quently are moved to larger quarters
+such as dense brush patches and/or
+sinkholes along water courses. The
+adults and pups usually remain
+together until late summer or fall
+when pups become independent.
+Occasionally pups are found in groups
+until the breeding season begins.
+Coyotes are successful at surviving
+and even flourishing in the presence of
+people because of their adaptable
+behavior and social system. They typi-
+cally display increased reproduction
+and immigration in response to
+human-induced population reduction.
+Damage and Damage
+Identification
+Coyotes can cause damage to a variety
+of resources, including livestock, poul-
+try, and crops such as watermelons.
+They sometimes prey on pets and are a
+threat to public health and safety when
+they frequent airport runways and
+residential areas, and act as carriers of
+rabies. Usually, the primary concern
+regarding coyotes is predation on live-
+stock, mainly sheep and lambs. Preda-
+tion will be the focus of the following
+discussion.
+Since coyotes frequently scavenge on
+livestock carcasses, the mere presence
+of coyote tracks or droppings near a
+carcass is not sufficient evidence that
+predation has taken place. Other evi-
+dence around the site and on the car-
+cass must be carefully examined to aid
+in determining the cause of death.
+Signs of a struggle may be evident.
+These may include scrapes or drag
+marks on the ground, broken vegeta-
+tion, or blood in various places around
+the site. The quantity of sheep or calf
+remains left after a kill vary widely
+depending on how recently the kill
+was made, the size of the animal
+killed, the weather, and the number
+and species of predators that fed on
+the animal.
+One key in determining whether a
+sheep or calf was killed by a predator
+is the presence or absence of subcuta-
+neous (just under the skin) hemor-
+rhage at the point of attack. Bites to a
+dead animal will not produce hemor-
+rhage, but bites to a live animal will. If
+enough of the sheep carcass remains,
+carefully skin out the neck and head to
+observe tooth punctures and hemor-
+rhage around the punctures. Talon
+punctures from large birds of prey will
+also cause hemorrhage, but the loca-
+tion of these is usually at the top of the
+head, neck, or back. This procedure
+becomes less indicative of predation as
+the age of the carcass increases or if the
+remains are scanty or scattered.
+Coyotes, foxes, mountain lions, and
+bobcats usually feed on a carcass at the
+flanks or behind the ribs and first con-
+sume the liver, heart, lungs, and other
+viscera. Mountain lions often cover a
+carcass with debris after feeding on it.
+Bears generally prefer meat to viscera
+and often eat first the udder from lac-
+tating ewes. Eagles skin out carcasses
+on larger animals and leave much of
+the skeleton intact. With smaller ani-
+mals such as lambs, eagles may bite off
+and swallow the ribs. Feathers and
+“whitewash” (droppings) are usually
+present where an eagle has fed.
+Coyotes may kill more than one ani-
+mal in a single episode, but often will
+only feed on one of the animals.
+Coyotes typically attack sheep at the
+throat, but young or inexperienced
+coyotes may attack any part of the
+body. Coyotes usually kill calves by
+eating into the anus or abdominal area.
+Dogs generally do not kill sheep or
+calves for food and are relatively
+indiscriminate in how and where they
+attack. Sometimes, however, it is
+difficult to differentiate between dog
+and coyote kills without also looking
+at other sign, such as size of tracks
+(Fig. 2) and spacing and size of canine
+
+
+C-54
+tooth punctures. Coyote tracks tend to
+be more oval-shaped and compact
+than those of common dogs. Nail
+marks are less prominent and the
+tracks tend to follow a straight line
+more closely than those of dogs. The
+average coyote’s stride at a trot is 16 to
+18 inches (41 to 46 cm), which is typi-
+cally longer than that of a dog of simi-
+lar size and weight. Generally, dogs
+attack and rip the flanks, hind quar-
+ters, and head, and may chew ears.
+The sheep are sometimes still alive but
+may be severely wounded.
+Accurately determining whether or
+not predation occurred and, if so, by
+what species, requires a considerable
+amount of knowledge and experience.
+Evidence must be gathered, pieced
+together, and then evaluated in light of
+the predators that are in the area, the
+time of day, the season of the year, and
+numerous other factors. Sometimes
+even experts are unable to confirm the
+cause of death, and it may be neces-
+sary to rely on circumstantial informa-
+tion. For more information on this
+subject, refer to the section Procedures
+for Evaluating Predation on Livestock
+and Wildlife, in this book.
+Legal Status
+The status of coyotes varies depending
+on state and local laws. In some states,
+including most western states, coyotes
+are classified as predators and can be
+taken throughout the year whether or
+not they are causing damage to live-
+stock. In other states, coyotes may be
+taken only during specific seasons and
+often only by specific methods, such as
+trapping. Night shooting with a spot-
+light is usually illegal. Some state laws
+allow only state or federal agents to
+use certain methods (such as snares) to
+take coyotes. Some states have a provi-
+sion for allowing the taking of pro-
+tected coyotes (usually by special
+permit) when it has been documented
+that they are preying on livestock. In
+some instances producers can apply
+control methods, and in others, control
+must be managed by a federal or state
+agent. Some eastern states consider the
+coyote a game animal, a furbearer, or a
+protected species.
+Damage Prevention and
+Control Methods
+For managing coyote damage, a vari-
+ety of control methods must be avail-
+able since no single method is effective
+in every situation. Success usually
+involves an integrated approach, com-
+bining good husbandry practices with
+effective control methods for short
+periods of time. Regardless of the
+means used to stop damage, the focus
+should be on damage prevention and
+control rather than elimination of coy-
+otes. It is neither wise nor practical to
+kill all coyotes. It is important to try to
+prevent coyotes from killing calves or
+sheep for the first time. Once a coyote
+has killed livestock, it will probably
+continue to do so if given the
+Wolf
+Red fox
+4"
+Large dog
+Fig. 2. Footprints of canid predators
+Federal statutes that pertain to wildlife
+damage control include the Federal
+Insecticide, Fungicide, and Rodenti-
+cide Act (FIFRA), which deals with
+using toxicants, and the Airborne
+Hunting Act, which regulates aerial
+hunting.
+Laws regulating coyote control are not
+necessarily uniform among states or
+even among counties within a state,
+and they may change frequently. A
+1989 Supreme Court action established
+that it was not legal to circumvent the
+laws relative to killing predators, even
+to protect personal property (livestock)
+from predation.
+2 1/2"
+3"
+Coyote
+5"
+
+
+C-55
+opportunity. Equally important is
+taking action as quickly as possible to
+stop coyotes from killing after they
+start.
+Exclusion
+Most coyotes readily cross over,
+under, or through conventional live-
+stock fences. A coyote’s response to a
+fence is influenced by various factors,
+including the coyote’s experience and
+motivation for crossing the fence. Total
+exclusion of all coyotes by fencing,
+especially from large areas, is highly
+unlikely since some eventually learn to
+either dig deeper or climb higher to
+defeat a fence. Good fences, however,
+can be important in reducing preda-
+tion, as well as increasing the effective-
+ness of other damage control methods
+(such as snares, traps, or guarding
+animals).
+Recent developments in fencing equip-
+ment and design have made this
+technique an effective and economi-
+cally practical method for protecting
+sheep from predation under some
+grazing conditions. Exclusion fencing
+may be impractical in western range
+sheep ranching operations.
+Net-Wire Fencing. Net fences in
+good repair will deter many coyotes
+from entering a pasture. Horizontal
+spacing of the mesh should be less
+than 6 inches (15 cm), and vertical
+spacing less than 4 inches (10 cm). Dig-
+ging under a fence can be discouraged
+by placing a barbed wire at ground
+level or using a buried wire apron
+(often an expensive option). The fence
+should be about 5 1/2 feet (1.6 m) high
+to discourage coyotes from jumping
+over it. Climbing can usually be pre-
+vented by adding a charged wire at
+the top of the fence or installing a wire
+overhang.
+Barrier fences with wire overhangs
+and buried wire aprons were tested in
+Oregon and found effective in keeping
+coyotes out of sheep pastures (Fig. 3).
+The construction and materials for
+such fencing are usually expensive.
+Therefore, fences of this type are rarely
+used except around corrals, feedlots,
+or areas of temporary sheep confine-
+ment.
+56"
+Fig. 3. Barrier fence with wire overhang and
+buried apron.
+Electric Fencing. Electric fencing,
+used for years to manage livestock, has
+recently been revolutionized by the
+introduction of new energizers and
+new fence designs from Australia and
+New Zealand. The chargers, now also
+manufactured in the United States,
+have high output with low impedance,
+are resistant to grounding, present a
+minimal fire hazard, and are generally
+safe for livestock and humans. The
+fences are usually constructed of
+smooth, high-tensile wire stretched to
+a tension of 200 to 300 pounds (90 to
+135 kg). The original design of electric
+fences for controlling predation con-
+sisted of multiple, alternately charged
+and grounded wires, with a charged
+trip wire installed just above ground
+level about 8 inches (20 cm) outside the
+main fence to discourage digging.
+Many recent designs have every wire
+charged.
+The number of spacings between wires
+varies considerably. A fence of 13
+strands gave complete protection to
+sheep from coyote predation in tests at
+the USDA’s US Sheep Experiment Sta-
+tion (Fig. 4). Other designs of fewer
+wires were effective in some studies,
+ineffective in others.
+The amount of labor and installation
+techniques required vary with each
+type of fencing. High-tensile wire
+fences require adequate bracing at cor-
+ners and over long spans. Electric fenc-
+ing is easiest to install on flat, even
+terrain. Labor to install a high-tensile
+electric fence may be 40% to 50% less
+than for a conventional livestock fence.
+Labor to keep electric fencing func-
+tional can be significant. Tension of the
+wires must be maintained, excessive
+vegetation under the fence must be
+removed to prevent grounding, dam-
+69"
+28"
+3" treated pole
+7' long
+1/4" x 4 1/2" carriage bolt
+galvanized woven wire
+23" apron
+(old fencing)
+72" galvanized
+fencing
+  6" stays
+  4" vertical
+spacing at top
+1 1/2" at the
+bottom
+
+
+C-56
+age from livestock and wildlife must
+be repaired, and the charger must be
+checked regularly to ensure that it is
+operational.
+Coyotes and other predators occasion-
+ally become “trapped” inside electric
+fences. These animals receive a shock
+as they enter the pasture and subse-
+quently avoid approaching the fence to
+escape. In some instances the captured
+predator may be easy to spot and
+remove from the pasture, but in
+others, particularly in large pastures
+with rough terrain, the animal may be
+difficult to remove.
+Electric Modification of Existing
+Fences. The cost to completely
+replace old fences with new ones,
+whether conventional or electric, can
+be substantial. In instances where
+existing fencing is in reasonably good
+condition, the addition of one to sev-
+eral charged wires can significantly
+enhance the predator-deterring ability
+of the fence and its effectiveness for
+controlling livestock (Fig. 5). A
+charged trip wire placed 6 to 8 inches
+(15 to 230 cm) above the ground about
+8 to 10 inches (20 to 25 cm) outside the
+fence is often effective in preventing
+coyotes from digging and crawling un-
+der. This single addition to an existing
+fence is often the most effective and
+economical way to fortify a fence
+against coyote passage.
+If coyotes are climbing or jumping a
+fence, charged wires can be added to
+the top and at various intervals. These
+wires should be offset outside the
+fence. Fencing companies offer offset
+brackets to make installation relatively
+simple. The number of additional
+wires depends on the design of the
+original fence and the predicted habits
+of the predators.
+Portable Electric Fencing. The
+advent of safe, high-energy chargers
+has led to the development of a variety
+of portable electric fences. Most are
+constructed with thin strands of wire
+running through polyethylene twine or
+ribbon, commonly called polywire or
+polytape. The polywire is available in
+single and multiple wire rolls or as
+mesh fencing of various heights. It can
+be quickly and easily installed to serve
+Fig. 5. Existing woven-wire livestock fence modified with electrified wire.
+Outrigger post
+with four wires
+Fig. 4. High-tensile, electric, antipredator fence.
+Fiberglass
+stays
+Fiberglass
+line post
+Fiberglass
+line post
+4"
+4"
+4"
+4"
+8"
+8"
+8"
+8"
+8"
+8"
+8"
+8"
+Charged wire
+Ground wire
++
++
++
++
++
++
+-
+-
+-
+-
+-
+-
+6'
+66'
+22'
+11'
+Ground
+level
+Fiberglass
+stay
+Trip wire
+8"
+6"
+Note:
+Drawing not to scale
+
+
+C-57
+as a temporary corral or to partition
+off pastures for controlled grazing.
+Perhaps the biggest advantage of port-
+able electric fencing is the ability to set
+up temporary pens to hold livestock at
+night or during other predator control
+activities. Portable fencing increases
+livestock management options to
+avoid places or periods of high preda-
+tion risk. Range sheep that are not
+accustomed to being fenced, however,
+may be difficult to contain in a port-
+able fence.
+Fencing and Predation Manage-
+ment. The success of various types of
+fencing in keeping out predators has
+ranged from poor to excellent. Density
+and behavior of coyotes, terrain and
+vegetative conditions, availability of
+prey, size of pastures, season of the
+year, design of the fence, quality of
+construction, maintenance, and other
+factors all interplay in determining
+how effective a fence will be. Fencing
+is most likely to be cost-effective where
+the potential for predation is high,
+where there is potential for a high
+stocking rate, or where electric modifi-
+cation of existing fences can be used.
+Fencing can be effective when incorpo-
+rated with other means of predation
+control. For example, combined use of
+guarding dogs and fencing has
+achieved a greater degree of success
+than either method used alone. An
+electric fence may help keep a guard-
+ing dog in and coyotes out of a pas-
+ture. If an occasional coyote does pass
+through a fence, the guarding dog can
+keep it away from the livestock and
+alert the producer by barking.
+Fencing can also be used to concen-
+trate predator activity at specific places
+such as gateways, ravines, or other
+areas where the animals try to gain
+access. Traps and snares can often be
+set at strategic places along a fence to
+effectively capture predators. Smaller
+pastures are easier to keep free from
+predators than larger ones encompass-
+ing several square miles (km2).
+Fencing is one of the most beneficial
+investments in predator damage con-
+trol and livestock management where
+practical factors warrant its use.
+As a final note, fences can pose prob-
+lems for wildlife. Barrier fences in par-
+ticular exclude not only predators, but
+also many other wildlife species. This
+fact should be considered where fenc-
+ing intersects migration corridors for
+wildlife. Ungulates such as deer may
+attempt to jump fences, and they occa-
+sionally become entangled in the top
+wires.
+Cultural Methods and Habitat
+Modification
+At the present time, there are no docu-
+mented differences in the vulnerability
+of various breeds of sheep to coyote or
+dog predation because there has been
+very little research in this area. Gener-
+ally, breeds with stronger flocking
+behaviors are less vulnerable to preda-
+tors.
+A possible cause of increased coyote
+predation to beef cattle calves is the
+increased use of cattle dogs in herding.
+Cows herded by dogs may not be as
+willing to defend newborn calves from
+coyotes as those not accustomed to
+herding dogs.
+Flock or Herd Health. Healthy
+sheep flocks and cow/calf herds have
+higher reproductive rates and lower
+overall death losses. Coyotes often
+prey on smaller lambs. Poor nutrition
+means weaker or smaller young, with
+a resultant increased potential for pre-
+dation. Ewes or cows in good condi-
+tion through proper nutrition will raise
+stronger young that may be less vul-
+nerable to coyote predation.
+Record Keeping. Good record-
+keeping and animal identification sys-
+tems are invaluable in a livestock
+operation for several reasons. From the
+standpoint of coyote predation,
+records help producers identify loss
+patterns or trends to provide baseline
+data that will help determine what
+type and amount of coyote damage
+control is economically feasible.
+Records also aid in identifying critical
+problem areas that may require atten-
+tion. They may show, for example, that
+losses to coyotes are high in a particu-
+lar pasture in early summer, thus high-
+lighting the need for preventive
+control in that area.
+Counting sheep and calves regularly is
+important in large pastures or areas
+with heavy cover where dead livestock
+could remain unnoticed. It is not
+unusual for producers who do not
+regularly count their sheep to suffer
+fairly substantial losses before they
+realize there is a problem. Determining
+with certainty whether losses were due
+to coyotes or to other causes may
+become impossible.
+Season and Location of Lambing
+or Calving. Both season and location
+of lambing and calving can signifi-
+cantly affect the severity of coyote pre-
+dation on sheep or calves. The highest
+predation losses of sheep and calves
+typically occur from late spring
+through September due to the food
+requirements of coyote pups. In the
+Midwest and East, some lambing or
+calving occurs between October and
+December, whereas in most of the
+western states lambing or calving
+occurs between February and May. By
+changing to a fall lambing or calving
+program, some livestock producers
+have not only been able to diversify
+their marketing program, but have
+also avoided having a large number of
+young animals on hand during periods
+when coyote predation losses are typi-
+cally highest.
+Shortening lambing and calving peri-
+ods by using synchronized or group
+breeding may reduce predation by
+producing a uniform lamb or calf crop,
+thus reducing exposure of small live-
+stock to predation. Extra labor and
+facilities may be necessary, however,
+when birthing within a concentrated
+period. Some producers practice early
+weaning and do not allow young to go
+to large pastures, thus reducing the
+chance of coyote losses. This also gives
+orphaned and weak young a greater
+chance to survive.
+The average beef cattle calf production
+is about 78% nationwide. First-calf
+heifers need human assistance to give
+birth to a healthy calf about 40% of the
+time. Cow/calf producers who aver-
+age 90% to 95% calf crops generally
+check their first-calf heifers every 2
+hours during calving. Also, most good
+producers place first-calf heifers in
+
+
+C-58
+small pastures (less than 160 acres [64
+ha]). When all cows are bred to pro-
+duce calves in a short, discreet (e.g.
+60-day) period, production typically
+increases and predation losses
+decrease. The birth weight of calves
+born to first-calf heifers can be de-
+creased by using calving-ease bulls,
+thus reducing birthing complications
+that often lead to coyote predation.
+Producers who use lambing sheds or
+pens for raising sheep and small pas-
+tures or paddocks for raising cattle
+have lower predation losses than those
+who lamb or calve in large pastures or
+on open range. The more human pres-
+ence around sheep, the lower the pre-
+dation losses. Confining sheep entirely
+to buildings virtually eliminates preda-
+tion losses.
+Corrals. Although predation can
+occur at any time, coyotes tend to kill
+sheep at night. Confining sheep at
+night is one of the most effective
+means of reducing losses to predation.
+Nevertheless, some coyotes and many
+dogs are bold enough to enter corrals
+and kill sheep. A “coyote-proof” corral
+is a wise investment. Coyotes are more
+likely to attack sheep in unlighted cor-
+rals than in corrals with lights. Even if
+the corral fence is not coyote-proof, the
+mere fact that the sheep are confined
+reduces the risk of predation. Penning
+sheep at night and turning them out at
+mid-morning might reduce losses. In
+addition, coyotes tend to be more
+active and kill more sheep on foggy or
+rainy days than on sunny days. Keep-
+ing the sheep penned on foggy or rainy
+days may be helpful.
+Aside from the benefits of livestock
+confinement, there are some problems
+associated it. Costs of labor and mate-
+rials associated with building corrals,
+herding livestock, and feeding live-
+stock must be considered. In addition,
+the likelihood of increased parasite
+and disease problems may inhibit
+adoption of confinement as a method
+of reducing damage.
+Carrion Removal. Removal and
+proper disposal of dead sheep and
+cattle are important since livestock car-
+casses tend to attract coyotes,
+habituating them to feed on livestock.
+Some producers reason that coyotes
+are less likely to kill livestock if there is
+carrion available. This may be a valid
+preventative measure if an adequate
+supply of carrion can be maintained
+far away from livestock. If a coyote
+becomes habituated to a diet of live-
+stock remains, however, it may turn to
+killing livestock in the absence of car-
+casses. Wherever there is easily acces-
+sible carrion, coyotes seem to gather
+and predation losses are higher. Con-
+versely, where carrion is generally not
+available, losses are lower. A study in
+Canada showed that the removal of
+livestock carcasses significantly
+reduced overwinter coyote popula-
+tions and shifted coyote distributions
+out of livestock areas.
+Habitat Changes. Habitat features
+change in some areas, depending on
+seasonal crop growth. Some cultivated
+fields are devoid of coyotes during
+winter but provide cover during the
+growing season, and a corresponding
+increase in predation on nearby live-
+stock may occur.
+The creation of nearly 40 million acres
+(16 million ha) of Conservation
+Reserve Program (CRP) acres may
+benefit many species of wildlife,
+including predators. These acres har-
+bor prey for coyotes and foxes, and an
+increase in predator populations can
+reasonably be predicted. Clearing
+away weeds and brush from CRP
+areas may reduce predation problems
+since predators usually use cover in
+their approach to livestock. Generally,
+the more open the area where live-
+stock are kept, the less likely that
+coyote losses will occur. Often junk
+piles are located near farmsteads.
+These serve as good habitat for rabbits
+and other prey and may bring coyotes
+into close proximity with livestock,
+increasing the likelihood for opportu-
+nistic coyotes to prey on available live-
+stock. Removing junk piles may be a
+good management practice.
+Pasture Selection. If sheep or beef
+cattle are not lambed or calved in
+sheds or lots, the choice of birthing
+pastures should be made with poten-
+tial coyote predation problems in
+mind. Lambs and calves in remote or
+rugged pastures are usually more vul-
+nerable to coyote predation than those
+in closer, more open, and smaller pas-
+tures. In general, a relatively small,
+open, tightly fenced pasture that can
+be kept under close surveillance is a
+good choice for birthing livestock that
+are likely targets of coyotes. Past expe-
+rience with predators as well as
+weather and disease considerations
+should also serve as guides in the
+selection of birthing pastures.
+A factor not completely understood is
+that, at times, coyotes and other preda-
+tors will kill in one pasture and not in
+another. Therefore, changing pastures
+during times of loss may reduce pre-
+dation. There may seem to be a rela-
+tionship between size of pasture and
+predator losses, with higher loss rates
+reported in larger pastures. In reality,
+loss rates may not be related as much
+to pasture size as to other local condi-
+tions such as slope, terrain, and human
+populations. Hilly or rugged areas are
+typically sparsely populated by hu-
+mans and are characterized by large
+pastures. These conditions are ideal for
+coyotes.
+Sheep pastures that contain or are
+adjacent to streams, creeks, and rivers
+tend to have more coyote problems
+than pastures without such features.
+Water courses serve as hunting and
+travel lanes for coyotes.
+Herders. Using herders with sheep or
+cattle in large pastures can help reduce
+predation, but there has been a trend
+away from herders in recent years
+because of increasing costs and a
+shortage of competent help. Neverthe-
+less, tended flocks or herds receive
+closer attention than untended live-
+stock, particularly in large pastures,
+and problems can be solved before
+they become serious. We recommend
+two herders per band of range sheep.
+If herders aren’t used, daily or periodic
+checking of the livestock is a good hus-
+bandry practice.
+Frightening Devices and
+Repellents
+Frightening devices are useful for
+reducing losses during short periods
+or until predators are removed. The
+devices should not be used for long
+
+
+C-59
+periods of time when predation is not
+a problem. To avoid acclimation you
+can increase both the degree and dura-
+tion of effectiveness by varying the
+position, appearance, duration, or fre-
+quency of the frightening stimuli, or
+using them in various combinations.
+Many frightening methods have been
+ridiculed in one way or another; never-
+theless, all of the techniques discussed
+here have helped producers by saving
+livestock and/or buying some time to
+institute other controls.
+Lights. A study involving 100 Kansas
+sheep producers showed that using
+lights above corrals at night had the
+most marked effect on losses to coy-
+otes of all the devices examined. Out
+of 79 sheep killed by coyotes in corrals,
+only three were killed in corrals with
+lights. Nearly 40% of the producers in
+the study used lights over corrals.
+There was some indication in the
+study that sheep losses to dogs were
+higher in lighted corrals, but the
+sample size for dog losses was small
+and the results inconclusive. Most of
+the producers (80%) used mercury
+vapor lights that automatically turned
+on at dusk and off at dawn.
+Another advantage of lighted corrals is
+that coyotes are more vulnerable when
+they enter the lighted area. Coyotes
+often establish a fairly predictable pat-
+tern of killing. When this happens in a
+lighted corral, it is possible for a pro-
+ducer to wait above or downwind of
+the corral and to shoot the coyote as it
+enters. Red or blue lights may make
+the ambush more successful since coy-
+otes appear to be less frightened by
+them than by white lights.
+Revolving or flashing the lights may
+enhance their effectiveness in frighten-
+ing away predators. There is some
+speculation that the old oil lamps used
+in highway construction repelled
+coyotes, presumably because of their
+flickering effect.
+Bells and Radios. Some sheep pro-
+ducers place bells on some or all of
+their sheep to discourage predators.
+Where effects have been measured,
+however, no difference in losses was
+detected.
+Some producers use a radio tuned to
+an all-night station to temporarily
+deter coyotes, dogs, and other preda-
+tors.
+Vehicles. Parking cars or pickups in
+the area where losses are occurring of-
+ten reduces predation temporarily.
+Effectiveness can be improved or
+extended by frequently moving the
+vehicle to a new location. Some pro-
+ducers place a replica of a person in
+the vehicle when losses are occurring
+in the daylight. If predators continue
+to kill with vehicles in place, the
+vehicle serves as a comfortable blind in
+which to wait and shoot offending
+predators.
+Propane Exploders. Propane
+exploders produce loud explosions at
+timed intervals when a spark ignites a
+measured amount of propane gas. On
+most models, the time between explo-
+sions can vary from about 1 minute to
+15 minutes. Their effectiveness at
+frightening coyotes is usually only
+temporary, but it can be increased by
+moving exploders to different loca-
+tions and by varying the intervals be-
+tween explosions. In general, the timer
+on the exploder should be set to fire
+every 8 to 10 minutes, and the location
+should be changed every 3 or 4 days.
+In cattle pastures, these devices should
+be placed on rigid stands above the
+livestock. Normally, the exploder
+should be turned on just before dark
+and off at daybreak, unless coyotes are
+killing livestock during daylight hours.
+Motion sensors are now available and
+likely improve their effectiveness,
+though it is still only temporary.
+Exploders are best used to reduce
+losses until more permanent control or
+preventive measures can be imple-
+mented. In about 24 coyote depreda-
+tion complaints over a 2-year period in
+North Dakota, propane exploders
+were judged to be successful in stop-
+ping or reducing predation losses until
+offending coyotes could be removed.
+“Success time” of the exploders ap-
+pears to depend a great deal on how
+well they are tended by the livestock
+producer.
+Strobe Lights and Sirens. The
+USDA’s Denver Wildlife Research
+Fig. 6. Electronic Guard frightening device
+Center developed a frightening device
+called the Electronic Guard (EG) (Fig.
+6). The EG consists of a strobe light
+and siren controlled by a variable
+interval timer that is activated at night
+with a photoelectric cell. In tests con-
+ducted in fenced pastures, predation
+was reduced by about 89%. The device
+is used in Kansas and other states to
+protect cows/calves from coyote pre-
+dation. Most research on the effective-
+ness of this device, however, has been
+done on sheep operations. Suggestions
+for using the unit differ for pastured
+sheep and range operations.
+To use the EG in fenced pastures (farm
+flocks):
+1. Place EGs above the ground on
+fence posts, trees, or T-posts so they
+can be heard and seen at greater
+distances and to prevent livestock
+from damaging them.
+2. Position EGs so that rain water can-
+not enter them and cause a malfunc-
+tion.
+3. Locate EGs so that light can enter
+the photocell port or window. If
+positioned in deep shade, they may
+not turn on or off at the desired
+times.
+4. The number of EGs used to protect
+sheep in fenced pastures depends
+on pasture size, terrain features, and
+the amount and height of vegetation
+in or around the pasture. In general,
+at least two units should be used in
+small (20 to 30 acres [8 to 12 ha]),
+level, short-grass pastures. Three to
+four units should be used in larger
+(40 to 100 acres [16 to 40 ha]), hilly,
+tall grass, or wooded pastures.
+
+
+C-60
+5. Don’t use EGs in pastures larger
+than about 100 acres (40 ha) because
+their effective range is limited. The
+device could be useful in larger pas-
+tures when placed near areas where
+sheep congregate and bed at night.
+6. EGs should be placed on high spots,
+where kills have been found, at the
+edge of wooded areas, near or on
+bedgrounds, or near suspected
+coyote travelways. They should be
+moved to different locations every
+10 to 14 days to reduce the likeli-
+hood of coyotes getting used to
+them.
+To use the EG in open range (herded
+or range sheep):
+1. The number of EGs used will
+depend on the number of sheep in
+the band and the size of the
+bedground. Four units should be
+used to protect bands of 1,000 ewes
+and their lambs.
+2. When possible, place one EG in the
+center of the bedground and the
+other three around the edge of the
+bedground. Try to place the units
+on coyote travelways.
+3. EGs should be placed on high
+points, ridge tops, edges of clear-
+ings, or on high rocks or
+outcroppings. Hang the devices on
+tree limbs 5 to 7 feet (1.5 to 2.1 m)
+above ground level. If used above
+timberline or in treeless areas, hang
+them from a tripod of poles.
+4. Herders who bed their sheep tightly
+will have better results than those
+who allow sheep to bed over large
+areas. Sheep that are bedded about
+200 yards (166 m) or less in diam-
+eter, or are spread out not more
+than 200 to 400 yards (166 to 332 m)
+along a ridge top, can usually be
+protected with EGs.
+Repellents. The notion of repelling
+coyotes from sheep or calves is
+appealing, and during the 1970s, uni-
+versity and government researchers
+tested a wide variety of potentially re-
+pellent chemical compounds on sheep.
+Both olfactory (smell) and gustatory
+(taste) repellents were examined. The
+underlying objective was to find a
+compound that, when applied to
+sheep, would prevent coyotes from
+killing them. Tests were conducted
+with various prey species including
+rabbits, chickens, and sheep. Some
+repellents were applied by dipping tar-
+get animals in them, others were
+sprayed on, and some were applied in
+neck collars or ear tags.
+Coyotes rely heavily on visual cues
+while stalking, chasing, and killing
+their prey. Taste and smell are of lesser
+importance in actually making the kill.
+These factors may in part account for
+the fact that the repellent compounds
+were not able to consistently prevent
+coyotes from killing, although some of
+the repellents were obviously offensive
+to coyotes and prevented them from
+consuming the killed prey. Several
+compounds were tested on sheep
+under field conditions, but none
+appeared to offer significant, pro-
+longed protection.
+If an effective chemical repellent were
+to be found, the obstacles in bringing it
+to industry use would be significant.
+The compound would not only need
+to be effective, but also persistent
+enough to withstand weathering while
+posing no undue risk to the sheep,
+other animals, or the environment. It
+would also have to withstand the rig-
+orous Environmental Protection
+Agency (EPA) approval process.
+High-frequency sound has also been
+tested as a repellent for coyotes, but
+the results were no more encouraging
+than for chemical repellents. Coyotes,
+like dogs, responded to particular
+sound frequencies and showed some
+aversion to sounds broadcast within
+one foot (30 cm) of their ear. Research-
+ers, however, were unable to broad-
+cast the sound a sufficient distance to
+test the effects under field conditions.
+Aversive Conditioning. The objec-
+tive of aversive conditioning is to feed
+a coyote a preylike bait laced with an
+aversive agent that causes the coyote
+to become ill, resulting in subsequent
+avoidance of the prey. Most of the
+research on this technique has
+involved the use of lithium chloride, a
+salt, as the aversive agent.
+Aversive conditioning is well docu-
+mented for averting rodents from food
+sources, but significant problems must
+be overcome before the method can be
+used to reduce coyote predation on
+sheep. Coyotes must be induced to eat
+sheeplike baits that have been treated
+with the aversive chemical. The chemi-
+cal must cause sufficient discomfort,
+such as vomiting, to cause coyotes to
+avoid other baits. Furthermore, the
+avoidance must be transferred to live
+sheep and must persist long enough
+without reinforcement for the method
+to offer realistic protection to sheep.
+To date, pen and field tests with
+aversive conditioning have yielded
+conflicting and inconclusive results. It
+does not appear that aversive condi-
+tioning is effective in reducing preda-
+tion, but additional field tests would
+be useful.
+Guarding Animals.
+Livestock Guarding Dogs. A live-
+stock guarding dog is one that gener-
+ally stays with sheep or cattle without
+harming them and aggressively repels
+predators. Its protective behaviors are
+largely instinctive, but proper rearing
+plays a part. Breeds most commonly
+used today include the Great Pyrenees,
+Komondor, Anatolian Shepherd, and
+Akbash Dog (Fig. 7). Other Old World
+breeds used to a lesser degree include
+Maremma, Sharplaninetz, and Kuvasz.
+Crossbreeds are also used.
+The characteristics of each sheep
+operation will dictate the number of
+dogs required for effective protection
+from predators. If predators are scarce,
+one dog is sufficient for most fenced
+pasture operations. Range operations
+often use two dogs per band of sheep.
+The performance of individual dogs
+will differ based on age and experi-
+ence. The size, topography, and habitat
+of the pasture or range must also be
+considered. Relatively flat, open areas
+can be adequately covered by one dog.
+When brush, timber, ravines, and hills
+are in the pasture, several dogs may be
+required, particularly if the sheep are
+scattered. Sheep that flock and form a
+cohesive unit, especially at night, can
+be protected by one dog more effec-
+tively than sheep that are continually
+
+
+C-61
+scattered and bedded in a number of
+locations.
+The goal with a new puppy is to chan-
+nel its natural instincts to produce a
+mature guardian dog with the desired
+characteristics. This is best accom-
+plished by early and continued asso-
+ciation with sheep to produce a bond
+between the dog and sheep. The opti-
+mum time to acquire a pup is between
+7 and 8 weeks of age. The pup should
+be separated from litter mates and
+placed with sheep, preferably lambs,
+in a pen or corral from which it can’t
+escape. This socialization period
+should continue with daily checks
+from the producer until the pup is
+about 16 weeks old. Daily checks don’t
+necessarily include petting the pup.
+The primary bond should be between
+the dog and the sheep, not between the
+dog and humans. The owner, how-
+ever, should be able to catch and han-
+dle the dog to administer health care
+or to manage the livestock. At about 4
+months, the pup can be released into a
+larger pasture to mingle with the other
+sheep.
+A guarding dog will likely include
+peripheral areas in its patrolling. Some
+have been known to chase vehicles
+and wildlife and threaten children and
+cyclists. These activities should be dis-
+couraged. Neighbors should be alerted
+to the possibility that the dog may
+roam onto their property and that
+some predator control devices such as
+traps, snares, and M-44s present a
+danger to it. Many counties enforce
+stringent laws regarding owner
+responsibility for damage done by
+roaming dogs. It is in the best interests
+of the owner, dog, and community to
+train the dog to stay in its designated
+area.
+The use of guarding dogs does not
+eliminate the need for other predation
+control actions. They should, however,
+be compatible with the dog’s behavior.
+Toxicants (including some insecticides
+and rodenticides) used to control vari-
+ous pest species can be extremely haz-
+ardous to dogs and are therefore not
+compatible with the use of guarding
+dogs.
+The M-44 is particularly hazardous to
+dogs. Some people have successfully
+trained their dogs to avoid M-44s by
+allowing the dog to set off an M-44
+filled with pepper or by rigging the
+device to a rat trap. The unpleasant
+experience may teach the dog to avoid
+M-44s, but the method is not fool-
+proof—one error by the dog, and the
+result is usually fatal. With the excep-
+tion of toxic collars, which are not legal
+in all states, toxicants should not be
+used in areas where guarding dogs are
+working unless the dog is chained or
+confined while the control takes place.
+Dogs caught in a steel trap set for
+predators are rarely injured seriously if
+they are found and released within a
+reasonable period of time. If snares
+and traps are used where dogs are
+working, the producer should: (1)
+encourage the use of sets and devices
+that are likely not to injure the dog if it
+is caught, and (2) know where traps
+and snares are set so they can be
+checked if a dog is missing. Aerial
+hunting, as well as calling and shoot-
+ing coyotes, should pose no threat to
+guarding dogs. Ensuring the safety of
+the dog is largely the producer’s
+responsibility.
+Dogs may be viewed as a first line of
+defense against predation in sheep and
+cow/calf operations in some cases.
+Their effectiveness can be enhanced by
+good livestock management and by
+eliminating predators with suitable
+removal techniques.
+Donkeys. Although the research has
+not focused on donkeys as it has on
+guarding dogs, they are gaining in
+popularity as protectors of sheep and
+goat flocks in the United States. A
+recent survey showed that in Texas
+alone, over 2,400 of the 11,000 sheep
+and goat producers had used donkeys
+as guardians.
+The terms donkey and burro are syn-
+onymous (the Spanish translation of
+donkey is burro) and are used inter-
+changeably. Donkeys are generally
+docile to people, but they seem to
+have an inherent dislike of dogs and
+other canids, including coyotes and
+foxes. The typical response of a don-
+key to an intruding canid may include
+braying, bared teeth, a running attack,
+kicking, and biting. Most likely it is
+acting out of aggression toward the
+intruder rather than to protect the
+sheep. There is little information on a
+donkey’s effectiveness with noncanid
+predators such as bears, mountain
+lions, bobcats, or birds of prey.
+Reported success of donkeys in reduc-
+ing predation is highly variable.
+Improper husbandry or rearing prac-
+tices and unrealistic expectations
+Fig. 7. Livestock guarding dog (Akbash dog)
+
+
+C-62
+probably account for many failures.
+Donkeys are significantly cheaper to
+obtain and care for than guarding
+dogs, and they are probably less prone
+to accidental death and premature
+mortality than dogs. They may pro-
+vide a longer period of useful life than
+a guarding dog, and they can be used
+with relative safety in conjunction with
+snares, traps, M-44s, and toxic collars.
+Researchers and livestock producers
+have identified several key points to
+consider when using a donkey for pre-
+dation control:
+1. Use only a jenny or a gelded jack.
+Intact jacks are too aggressive and
+may injure livestock. Some jennies
+and geldings may also injure live-
+stock. Select donkeys from
+medium-sized stock.
+2. Use only one donkey per group of
+sheep. The exception may be a
+jenny with a foal. When two or
+more adult donkeys are together or
+with a horse, they usually stay
+together, not necessarily near the
+sheep. Also avoid using donkeys in
+adjacent pastures since they may
+socialize across the fence and ignore
+the sheep.
+3. Allow about 4 to 6 weeks for a
+naive donkey to bond to the sheep.
+Stronger bonding may occur when
+a donkey is raised from birth with
+sheep.
+4. Avoid feeds or supplements con-
+taining monensin or lasolacid. They
+are poisonous to donkeys.
+5. Remove the donkey during lamb-
+ing, particularly if lambing in con-
+finement, to avoid injuries to lambs
+or disruption of the lamb-ewe bond.
+6. Test a new donkey’s response to
+canids by challenging it with a dog
+in a pen or small pasture. Discard
+donkeys that don’t show overt
+aggression to an intruding dog.
+7. Use donkeys in smaller (less than
+600 acres [240 ha]), relatively open
+pastures with not more than 200 to
+300 head of livestock. Large pas-
+tures with rough terrain and vegeta-
+tion and widely scattered livestock
+lessen the effectiveness of a donkey.
+Llamas. Like donkeys, llamas have an
+inherent dislike of canids, and a grow-
+ing number of livestock producers are
+successfully using llamas to protect
+their sheep. A recent study of 145
+ranches where guard llamas were used
+to protect sheep revealed that average
+losses of sheep to predators decreased
+from 26 to 8 per year after llamas were
+employed. Eighty percent of the
+ranchers surveyed were “very satis-
+fied” or “satisfied” with their llamas.
+Llamas reportedly bond with sheep
+within hours and offer advantages
+over guarding dogs similar to those
+described for donkeys.
+Other Animals. USDA’s Agricultural
+Research Service tested the bonding of
+sheep to cattle as a method of protect-
+ing sheep from coyote predation.
+There was clearly some protection
+afforded the sheep that remained near
+cattle. Whether this protection resulted
+from direct action by the cattle or by
+the coyotes’ response to a novel stimu-
+lus is uncertain. Later studies with
+goats, sheep, and cattle confirmed that
+when either goats or sheep remained
+near cattle, they were protected from
+predation by coyotes. Conversely,
+goats or sheep that grazed apart from
+cattle, even those that were bonded,
+were readily preyed on by coyotes.
+There are currently no research data
+available on the ideal ratio of cattle to
+sheep, the breeds of cattle, age of cattle
+most likely to be used successfully, or
+on the size of bonded groups to obtain
+maximum protection from predation.
+Multispecies grazing offers many
+advantages for optimum utilization of
+forage, and though additional study
+and experience is needed, it may also
+be a tool for coyote damage control.
+Any animal that displays aggressive
+behavior toward intruding coyotes
+may offer some benefit in deterring
+predation. Other types of animals
+reportedly used for predation control
+include goats, mules, and ostriches.
+Coyotes in particular are suspicious of
+novel stimuli. This behavior is most
+likely the primary reason that many
+frightening tactics show at least tem-
+porary effectiveness.
+Toxicants
+Pesticides have historically been an
+important component in an integrated
+approach to controlling coyote dam-
+age, but their use is extremely
+restricted today by federal and state
+laws. All pesticides used in the United
+States must be registered with the EPA
+under the provisions of FIFRA and
+must be used in accordance with label
+directions. Increasingly restrictive
+regulations implemented by EPA
+under the authority of FIFRA, the
+National Environmental Policy Act
+(NEPA), presidential order, and the
+Endangered Species Act have resulted
+in the near elimination of toxicants
+legally available for predator damage
+control.
+The only toxicants currently registered
+for mammalian predator damage con-
+trol are sodium cyanide, used in the
+M-44 ejector device, and Compound
+1080 (sodium monofluoroacetate), for
+use in the livestock protection collar.
+These toxicants are Restricted Use Pes-
+ticides and may be used only by certi-
+fied pesticide applicators. Information
+on registration status and availability
+of these products in individual states
+may be obtained from the respective
+state’s department of agriculture.
+Sodium Cyanide in the M-44. The
+M-44 is a spring-activated device used
+to expel sodium cyanide into an
+animal’s mouth. It is currently regis-
+tered by EPA for use by trained per-
+sonnel in the control of depredating
+coyotes, foxes, and dogs.
+The M-44 consists of a capsule holder
+wrapped in an absorbent material, an
+ejector mechanism, a capsule contain-
+ing approximately 0.9 grams of a pow-
+dered sodium cyanide mixture, and a
+5- to 7-inch (15- to 18-cm) hollow stake
+(Fig. 8). For most effective use, set
+M-44s in locations similar to those for
+good trap sets. Drive the hollow stake
+into the ground. Cock the ejector unit
+and secure it in the stake. Screw the
+wrapped capsule holder containing the
+cyanide capsule onto the ejector unit,
+and apply fetid meat bait to the cap-
+sule holder. Coyotes attracted by the
+bait will try to bite the baited capsule
+holder. When the M-44 is pulled, the
+
+
+C-63
+their ability to remain effective during
+rain, snow, and freezing conditions.
+While M-44s can be used effectively as
+part of an integrated damage control
+program, they do have several disad-
+vantages. Because canids are less
+responsive to food-type baits during
+warm weather when natural foods are
+usually abundant, M-44s are not as
+effective during warmer months as
+they are in cooler weather. M-44s are
+subject to a variety of mechanical mal-
+functions, but these problems can be
+minimized if a regular maintenance
+schedule is followed. A further disad-
+vantage is the tendency for the cyanide
+in the capsules to absorb moisture over
+time and to cake, becoming ineffective.
+Maximum effectiveness of M-44s is
+hampered by the requirement to fol-
+low 26 use restrictions established by
+the EPA in the interest of human and
+environmental safety. The M-44 is not
+registered for use in all states, and in
+those where it is registered, the state
+may impose additional use restric-
+tions. A formal training program is
+required before use of M-44s. Some
+states allow its use only by federal
+ADC specialists, whereas other states
+may allow M-44s to be used by trained
+and certified livestock producers.
+1080 Livestock Protection Collar.
+The livestock protection collar (LP
+collar or toxic collar) is a relatively
+new tool used to selectively kill
+coyotes that attack sheep or goats.
+Collars are placed on sheep or goats
+that are pastured where coyotes are
+likely to attack. Each collar contains a
+small quantity (300 mg) of Compound
+1080 solution. The collars do not
+attract coyotes, but because of their
+design and position on the throat,
+most attacking coyotes will puncture
+the collar and ingest a lethal amount of
+the toxicant. Unlike sodium cyanide,
+1080 is slow-acting, and a coyote
+ingesting the toxicant will not exhibit
+symptoms or die for several hours. As
+a result, sheep or goats that are
+attacked are usually killed. The collar
+is registered only for use against
+coyotes and may be placed only on
+sheep or goats.
+The LP collar must be used in conjunc-
+tion with specific sheep and goat hus-
+bandry practices to be most effective.
+Coyote attacks must be directed or tar-
+geted at collared livestock. This may
+be accomplished by temporarily plac-
+ing a “target” flock of perhaps 20 to 50
+collared lambs or kids and their
+uncollared mothers in a pasture where
+coyote predation is likely to occur,
+while removing other sheep or goats
+from that vicinity. In situations where
+LP collars have been used and found
+ineffective, the common cause of fail-
+ure has been poor or ineffective target-
+ing. It is difficult to ensure effective
+targeting if depredations are occurring
+infrequently. In most instances, only a
+high and regular frequency of depre-
+dations will justify spending the time,
+effort, and money necessary to become
+trained and certified, purchase collars,
+and use them properly.
+The outstanding advantage in using
+the LP collar is its selectivity in elimi-
+nating individual coyotes that are
+responsible for killing livestock. The
+collar may also be useful in removing
+depredating coyotes that have eluded
+other means of control. Disadvantages
+include the cost of collars (approxi-
+mately $20 each) and livestock that
+must be sacrificed, more intensive
+management practices, and the costs
+and inconvenience of complying with
+use restrictions, including require-
+ments for training, certification, and
+record keeping. One use restriction
+limits the collars to use in fenced pas-
+tures only. They cannot be used to pro-
+tect sheep on open range. Also, collars
+are not widely available, because they
+are registered for use in only a few
+states.
+Fumigants
+Carbon monoxide is an effective bur-
+row fumigant recently re-registered by
+the EPA. Gas cartridges, which contain
+65% sodium nitrate and 35% charcoal,
+produce carbon monoxide, carbon
+dioxide, and other noxious gases when
+ignited. They were registered by the
+EPA in 1981 for control of coyotes in
+dens only. This is the only fumigant
+currently registered for this purpose.
+Fig. 8. The M-44 device consists of the (a) base,
+(b) ejector, (c) capsule holder, and (d) cyanide-
+containing plastic capsule.
+a
+b
+c
+d
+spring-activated plunger propels
+sodium cyanide into the animal’s
+mouth, resulting in death within a few
+seconds.
+The M-44 is very selective for canids
+because of the attractants used and the
+unique requirement that the device be
+triggered by pulling on it. While the
+use of traps or snares may present a
+hazard to livestock, M-44s can be used
+with relative safety in pastures where
+livestock are present. Although not
+recommended, they can also be used
+in the presence of livestock guarding
+dogs if the dogs are first successfully
+conditioned to avoid the devices. This
+can be done by allowing them to pull
+an M-44 loaded with pepper. An addi-
+tional advantage of M-44s over traps is
+
+
+C-64
+Trapping
+There are many effective methods for
+trapping coyotes, and success can be
+enhanced by considering several key
+points. Coyotes learn from past events
+that were unpleasant or frightening,
+and they often avoid such events in the
+future. In spring and summer, most
+coyotes limit their movements to a
+small area, but in late summer, fall,
+and winter they may roam over a
+larger area. Coyotes follow regular
+paths and crossways, and they prefer
+high hills or knolls from which they
+can view the terrain. They establish
+regular scent posts along their paths,
+and they depend on their ears, nose,
+and eyes to sense danger.
+The following describes one method of
+trapping that has proven effective for
+many beginners.
+Items Needed to Set a Coyote Trap:
+1.
+One 5-gallon (19-l) plastic bucket
+to carry equipment.
+2.
+Two No. 3 or No. 4 traps per set.
+3. One 18- to 24-inch (46- to 61-cm)
+stake for holding both traps in
+place.
+4.
+Straight claw hammer to dig a
+hole in the ground for trap place-
+ment and to pound the stake into
+the ground.
+5.
+Leather gloves to protect fingers
+while digging the trap bed.
+6.
+Cloth (or canvas) feed sack to
+kneel on while digging a trap bed
+and pounding the stake.
+7.
+Roll of plastic sandwich bags to
+cover and prevent soil from get-
+ting under the pan of the trap.
+8.
+Screen sifter for sifting soil over
+the traps.
+9.
+Rib bone for leveling off soil over
+the traps once they are set in place
+and covered.
+10. Bottle of coyote urine to attract the
+coyote to the set (keep urine away
+from other equipment).
+Locating the Set. Coyotes travel where
+walking is easy, such as along old roads,
+and they have preferred places to travel,
+hunt, rest, howl, and roam. Do not set
+traps directly in a trail but to one side
+where coyotes may stop, such as on a
+hilltop, near a gate, or where cover
+changes. Make the set on level ground to
+ensure that the coyote walks across level
+ground to it.
+Good locations for a set are often indi-
+cated by coyote tracks. The following
+are good locations on most farms and
+ranches for setting traps: high hills and
+saddles in high hills; near isolated land
+features or isolated bales of hay; trail
+junctions, fences, and stream crossings;
+pasture roads, livestock trails, water-
+ways, game trails, and dry or shallow
+creek beds; near pond dams, field bor-
+ders, field corners, groves of trees, and
+eroded gullies; sites near animal car-
+casses, bone or brush piles; and under
+rim rocks.
+Making the Set. Place three to five
+trap sets near the area where coyotes
+have killed livestock.
+1. First, observe the area where the
+losses are occurring and look for
+tracks and droppings to determine
+the species responsible. Study the
+paths used by predators. If you
+have 4 hours to spend setting traps,
+spend at least 3 of them looking for
+coyote sign.
+2. Decide where to place the trap sets.
+Always place them in an open, flat
+area because of wind currents, dis-
+persion of scent, and visibility. Never
+place traps uphill or downhill from
+the coyote’s expected path of
+approach. Look for open places where
+coyote tracks indicate that the animal
+milled around or stopped.
+3. Place the set upwind from the path (or
+site of coyote activity) so the prevail-
+ing wind will carry the scent across
+the area of expected coyote activity.
+4. Choose a level spot as close as pos-
+sible to, but not directly on, the coyote’s
+path. The coyote’s approach should
+never be over dry leaves, tall grass,
+stones, sticks, weeds, or rough ground.
+Make each set where the coyote has
+clear visibility as it approaches.
+5. Place the set using two No. 3 traps
+with a cold-shut chain repair link
+affixed to the top of a steel stake. The
+link should swivel around the stake
+top. The stake should be at least 18
+inches (46 cm) long, or longer if the
+soil is loose. Use two stakes set at an
+angle to each other if the soil will not
+hold with a single stake.
+Figures 9 through 29 illustrate the pro-
+cedures for making a set.
+Fig. 9. A piece of canvas, about 3 feet x 6 feet, used as a kneeling
+cloth, makes preparing the trap site much easier.
+Fig. 10. Kneel down on the cloth and outline a trench approximately
+3 feet long, 7 inches wide, and 2 inches deep. Dig the trench so that it
+runs lengthwise to the prevailing wind.
+
+
+C-65
+Fig. 16. Carefully spread the jaws. Reach under the jaws with your
+left hand, holding the pan up while you ease the two springs’
+tension so that the trap will remain set.
+Fig. 13. Place one of the traps on your left leg just above your knee.
+Grasp the trap spring nearest your right leg as shown, and
+compress the spring.
+Fig 11. Dig out the soil with tools and by hand.
+Fig 14. Compress this spring below the jaw hinge, then bend the
+spring as shown above.
+Fig. 12. Pile the excavated soil from the trench on the kneeling
+cloth.
+Fig 15. Hold the compressed spring with your right leg as shown
+above, then compress the left spring. Hold this spring down with
+your left hand.
+
+
+C-66
+Fig. 18. Drive a steel stake into the center of the trench so that the
+top of the stake is even with the bottom of the trench. Place one of
+the set traps at each end of the trench. Place the trap so it sits
+solidly and will not tip if the coyote steps on the spring or jaws.
+Fig 21. Stretch the pan cover tightly across the pan and under the
+jaws. Pan and jaws should be level and flat. In cold weather,
+plastic can be placed under the trap. Place plastic baggies on each
+spring and mix table salt with dry soil or peat moss to cover the
+trap. Set the other trap as shown above. Place the pan cover so that
+the dog or trigger can move upward without binding it in.
+Anything that slows the action of the trap can cause a miss or a toe
+hold.
+Fig. 22. Use a sifter of 1/4-inch hail screen on a wood frame, 7 inches
+by 10 inches and 2 inches deep. Sift soil from the canvas kneeling
+cloth over the set, covering the entire trench back to ground level
+(except directly over the traps).
+Fig. 19. Place canvas, plastic, screen, cloth, wax paper, or a similar
+material over the pan and under the trap jaws. Be sure the pan sits
+level with the trap jaws.
+Fig. 17. Twist the springs back toward the trigger. Always set the
+trap in the ground so that the animal walks into it over the jaw
+that is nearest to the bottom of the trench, as shown above.
+Fig 20. Take out or add soil until the trap pan and jaws are about
+1/2 inch below the level of the surrounding ground. Build a ridge
+for the jaw opposite the trigger to sit on. On the side of the trap
+that has the trigger, place soil under the trap pan cover on either
+side of the trigger to hold the pan cover up tight against the bottom
+of the jaws.
+
+
+C-67
+Fig. 25. Place a tablespoon of coyote urine on the projection. When
+smelling the scent and seeing the projection, the coyote will likely
+walk directly into the wind and step into a trap as it approaches
+the projection. A coyote dropping placed nearby will improve the
+set.
+Fig. 28. Discard the material removed from the trap site.
+Fig. 24. Place an object over the buried stake that can be easily
+seen; the further away it can be seen, the better. Use an old, dried
+bleached bone, a dried cow chip, a small bush or clump of grass,
+an old dried root, a small stake, or a stump. The object should be
+about 6 to 8 inches high and be very visible.
+Fig. 27. Use the canvas kneeling cloth to carry away all loose soil.
+This cloth can also be used to carry soil to the set. In summer it is a
+good idea to store fine dry soil for use in winter. You can often
+locate dry soil in wet weather under bridges, on cut banks, or in
+old sheds.
+Fig. 23. The trap should be set about 1/4 inch below the level of
+the surrounding ground. The set must look natural. The soil
+around the trap and over the springs, chains, and stake should be
+packed to the same firmness as the ground the coyote walks on in
+its approach to the set. Only soft soil should be directly over the
+trap pan within the set jaw area. Use a curved stick, brush, or rib
+bone to level soil over the trap.
+Fig. 26. Carefully brush out all tracks and signs of activity.
+
+
+C-68
+Always bury the traps and stake in the
+ground using dry, finely sifted soil.
+One of the most difficult aspects of
+using traps is trapping when the
+ground is frozen, muddy, wet, or
+damp. If the weather is expected to
+turn cold and/or wet, you should use
+one or a combination of the following
+materials in which to set and cover the
+traps: Canadian sphagnum peat moss,
+very dry soil, dry manure, buckwheat
+hulls, or finely chopped hay. A mix-
+ture of one part table salt or calcium
+chloride with three parts dry soil will
+prevent the soil from freezing over the
+trap. When using peat moss or other
+dry, fluffy material, cover the material
+with a thin layer of dry soil mixed with
+1/4 teaspoon of table salt. This will
+blend the set with the surrounding soil
+and prevent the wind from blowing
+peat moss away from the trap. As an
+alternative, traps could be set in a bed
+of dry soil placed over the snow or fro-
+zen ground.
+Guiding Coyote Footsteps. Use a
+few strategically placed dirt clods,
+sticks, small rocks, or stickers around
+the set to guide the coyote’s foot to the
+traps. Coyotes will tend to avoid the
+obstacles and place their feet in bare
+areas. Do not use this method to the
+extent that the set looks unnatural.
+Care of Coyote Traps. New traps
+can be used to trap coyotes, but better
+results may be obtained by using traps
+that have been dyed. Dyeing traps
+helps prevent rust and removes odors.
+Wood chips or crystals for dyeing
+traps are available from trapping sup-
+ply outlets. Some trappers also wax
+their traps to prevent them from rust-
+ing and to extend the life of the traps.
+Inevitably, rusting will occur when
+traps are in use. It does not harm the
+traps, but after their continued use the
+rust often will slow the action of the
+trap and cause it to miss a coyote.
+Traps also become contaminated with
+skunk musk, gasoline, oil, blood, or
+other odors. It is important that traps
+be clean and in good working condi-
+tion. Rusted traps should be cleaned
+with a wire brush to ensure that the
+trigger and pan work freely. Check the
+chain links for open links. File the trig-
+gers and receivers to eliminate all
+rounded edges. Make any adjustments
+necessary so that the pan will sit level
+and the trap perform smoothly.
+Size of Traps for Coyotes. There
+are many suitable traps for catching
+coyotes. Both the No. 3 and No. 4 are
+good choices. Many trappers prefer a
+No. 3 coilspring round-jawed off-set
+trap. It is a good idea to use superweld
+kinkless chain. The length of chain var-
+ies depending on whether the trap is
+staked or a drag is used. A longer
+chain should be used with a drag. The
+off-set jaws are designed to reduce
+broken foot bones, which can allow the
+coyote to escape by wriggling out of
+the trap. Traps with coil springs are
+good coyote traps, but they require
+more upkeep than a double long-
+spring trap. The type and size of trap
+may be regulated in each state. Body
+gripping traps are dangerous and ille-
+gal in some states for catching coyotes.
+When pet dogs might be present, use a
+padded-jaw No. 3 double coilspring
+trap.
+While additional testing needs to be
+conducted, results of research to
+reduce injury using padded-jaw traps
+have been encouraging. In tests with
+No. 3 Soft-Catch® coilsprings, No. 3
+NM longsprings, and No. 4 Newhouse
+longsprings, capture rates for coyotes
+were 95%, 100%, and 100%, respec-
+tively. Soft-Catch traps caused the
+least visible injury to captured coyotes.
+Anchoring Traps. Chain swivels are
+necessary for trapping coyotes. One
+swivel at the stake, one in the middle
+of the chain, and one at the trap are
+recommended. Drags (Fig. 30) instead
+of stakes can be used where there is an
+abundance of brush or trees or where
+the ground is too rocky to use a stake.
+Use a long chain (5 feet [1.5 m] or
+more) on a drag.
+Lures and Scents. Coyotes are inter-
+ested in and may be attracted to odors
+in their environment. Commercially
+available lures and scents or natural
+odors such as fresh coyote, dog, or cat
+droppings or urine may produce good
+results. Coyote urine works the best.
+Problems in Trapping Coyotes.
+A great deal of experience is required
+to effectively trap coyotes. Trapping by
+experienced or untrained people may
+serve to educate coyotes, making them
+very difficult to catch, even by experi-
+enced trappers. Coyotes, however,
+exhibit individualized patterns of
+behavior. Many, but not all, coyotes
+become trap-shy after being caught
+and then escaping from a trap. There is
+a record of one coyote having been
+caught eight times in the same set.
+Some coyotes require considerably
+more time and thought to trap than
+others.  With unlimited time, a person
+could trap almost any coyote.
+If a coyote digs up or springs a trap
+without getting caught, reset the trap
+in the same place. Then carefully set
+one or two traps near the first set. Use
+gloves and be careful to hide the traps.
+Changing scents or using various
+Fig. 29. Leave the trap area as near to its original condition as
+possible. The coyote’s keen sense of sight and smell will quickly
+alert it to danger.
+
+
+C-69
+tricks, such as a lone feather as a visual
+attraction near a set, or a ticking clock
+in a dirt hole set as an audible attrac-
+tion, may help in trying to catch wary
+coyotes.
+Resetting Traps and Checking
+Trap Sets. Once a coyote is caught at
+a set, reset the trap in the same place.
+The odor and disturbance at the set
+where a coyote has been caught will
+often attract other coyotes. Sometimes
+other coyotes will approach but not
+enter the circle where the coyote was
+caught. If signs indicate that this has
+happened, move the trap set outside of
+the circle. Leave all sets out for at least
+2 weeks before moving the traps to a
+new location. Check the traps once
+every 24 hours, preferably in the
+morning around 9 or 10 o’clock.
+Reapply the scent every 4 days, using
+8 to 10 drops of coyote urine.
+Human Scent and Coyote Trap-
+ping. Minimize human scent around
+trap sets as much as possible. If traps
+Killing a Trapped Coyote. A coyote
+will make its most desperate attempt
+to get out of the trap as a person
+approaches. As soon as you get within
+a few feet (m) of the coyote, check to
+see that the trap has a firm hold on the
+coyote’s foot. If so, shoot the coyote in
+the head, with a .22 caliber weapon. It
+is often a good idea to reset the trap in
+the same place. The blood from the
+coyote will not necessarily harm the
+set as long as it is not on the trap or on
+the soil over the reset traps. Reset the
+trap regardless of the species of animal
+captured, skunks included.
+Draw Stations. Draw stations are
+natural areas or places set up inten-
+tionally to draw coyotes to a particular
+location. For example, the straw and
+cleanings from a chicken house can be
+placed in an area where coyote tracks
+are found. Traps can then be set
+around the edges of the straw. Areas
+around carcasses or parts of animals,
+such as a cow’s head, are good places
+to set traps. Wire the carcass to a stake
+driven into the ground and out of
+sight. Once coyotes start feeding, set
+traps 30 to 60 feet (9 to 18 m) upwind
+from the carcasses or draw station.
+Never set traps very close to carcasses
+because nontarget animals such as vul-
+tures, eagles, hawks, skunks, and
+opossums will be caught. If sheep
+graze in an area where traps are set,
+cover the traps with a disc blade or
+brush during the day and uncover
+them at night when the sheep are
+penned.
+Opposition to Traps. Opposition to
+foothold traps is based primarily on
+two objections: (1) a lack of selectivity
+for the animal which the trap is set for
+and (2) foot injury sustained by the
+captured animal. Trap pan tension
+devices such as sticks, forked twigs,
+springs, and sponges placed under the
+trap pan have been used for many
+years to reduce captures of nontarget
+species. Many coyote traps have an
+adjustable pan tension screw. One
+study evaluated two pan tension
+devices. Preliminary results indicated
+that the use of either device could
+exclude nearly 90% of the gray foxes,
+swift foxes, striped skunks, opossums,
+and jackrabbits that stepped on traps,
+Drag hook with S
+link for coyote traps
+Mild steel rod
+5/16" diameter
+8" long
+Mild steel rod
+7/16" diameter
+about 28" long
+About 1" weld
+on both sides
+7"
+Points sharpened and
+given 1 1/2" offset
+twist
+1 1/2"
+offset
+twist
+Side
+view
+are being set in warm months, make
+sure the trapper has recently bathed,
+has clean clothes, and is not sweating.
+Leave no unnecessary foreign odors,
+such as cigarette butts or gum wrap-
+pers, near the set. Wear clean gloves
+and rubber footwear while setting
+traps. A landowner may have an
+advantage over a stranger who comes
+to set traps since the coyotes are
+acquainted with the landowner’s scent
+and expect him/her to be there.
+Coyotes have been known to leave an
+area after encountering an unfamiliar
+human scent.
+Because of human scent, coyotes are
+more difficult to catch with traps in
+wet or humid weather. Wear gloves,
+wax traps, and take other precaution-
+ary measures in areas where humans
+are not commonly present, where wet
+weather conditions are common, and
+where coyotes have been trapped for
+several years and have learned to
+avoid traps.
+Fig. 30. Trapping drag
+10 1/2"
+
+
+C-70
+as compared with 24% on average for
+unequipped traps. A variety of other
+species were excluded at even higher
+rates. Some coyotes were also
+excluded, but because more traps
+remained functional, the net result
+appeared to be an increase in coyote
+trapping efficiency. Advances in trap
+design, including off-set jaws and
+padded-jaw traps, have increased the
+humaneness of foothold traps. Traps
+should be checked once or twice each
+day to minimize the length of time that
+an animal must remain in a trap.
+Snares
+Snaring is the technique of setting a
+steel-cable loop in an animal’s path to
+capture it by the neck, body, or leg.
+Snares usually consist of a 2.5- to 10-
+foot (0.75- to 3.0-m) long piece of
+galvanized aircraft cable containing a
+slide lock that forms a loop in the cable
+(Fig. 31). On short snares, a swivel to
+prevent twisting and breaking the
+cable is attached to the end of the cable
+opposite the loop. On longer snares,
+swivels can be located near the middle
+of the cable and at one end.
+Snares offer several advantages over
+steel foothold traps. They are light-
+weight, compact, simple in function,
+affected little by weather, easy to set,
+low in cost, and offer a high degree of
+human safety. In a south Texas study,
+snares were 10 times more selective
+over steel foothold traps for target spe-
+cies of coyotes and bobcats. Snares,
+however, can be a greater hazard than
+traps to livestock. Recent research has
+produced deer stops and break-away
+or relaxing locks that have significantly
+improved snare specificity.
+Preparation of Snares. New com-
+mercial snares and extension cables
+can be cleaned by boiling each dozen
+snares in a pan or bucket of water with
+4 tablespoons (16 gm) of baking soda
+for one hour. The snares will turn a
+dull gray after being removed from
+this bath and hung up to dry outdoors.
+Darken snares by boiling them in
+Fig. 34. Fastening the snare to the stake
+Cable, NOT
+wire, holds
+snare to
+stake
+1/2"
+rebar stake
+Fig. 33. Setting the snare
+Wrap snare around
+snare support
+U-shaped
+snare
+support
+Bend snare to
+prevent wind from
+closing it
+36" galvanized
+No. 9 wire
+Notched
+driving rod
+V bend
+prevents
+movement
+Swivel
+Slide
+lock
+2.5' to 10'
+galvanized
+aircraft cable
+Fig. 31. Coyote snare
+Fig. 32. Driving the support wire
+
+
+C-71
+ing. A lead cable that is at least as
+strong as the snare cable can be used
+to attach short snares to the rebar
+stake. Avoid using 9-gauge (0.38-cm)
+wire or several strands of 14-gauge
+(0.21-cm) wire to anchor snares to a
+rebar stake because they may bend
+back and forth, crystallize, and break.
+When used for coyotes, snares also can
+be secured to a dead tree limb that is at
+least 6 inches (15 cm) in diameter and
+6 feet (2 m) long.
+Snares set in holes under woven-wire
+fences can be held in place about 1 to 2
+inches (2.5 to 5 cm) from the fence with
+the snare support system (Fig. 35). The
+snare should be set far enough away
+from the fence to prevent the lock from
+catching on the bottom wire of the
+fence. The bottom of the loop should
+be about 2 inches (5 cm) above the bot-
+tom of the hole. The snares can be an-
+chored to the heavy-gauge wire on the
+bottom of the fence. Two strands of
+baling wire or S hooks can be used to
+fasten the snare to the bottom wire.
+If there is a chance of accidentally
+catching a pet dog, a leg snare set is
+recommended (Fig. 36). Set a small
+loop about 5 inches (13 cm) or less to
+one side of the opening, and set the
+bottom of the loop on the ground.
+When a coyote goes under a fence, it
+places both front feet firmly on the
+ground, and sticks its head just under
+the bottom wire. Once its head is past
+the bottom wire, the coyote begins to
+raise its head. The idea is to set the leg
+snare so that one front foot will pass
+through the snare.
+Snares are usually set in the form of a
+round or oval loop. In a trail set (Fig.
+37), a round loop that is 12 inches (30
+cm) in diameter can form an oval loop
+that is about 14 inches (36 cm) high
+and 10 inches (25 cm) wide. Use a
+5/64- or 3/32-inch (0.2- or 0.24-cm)
+diameter galvanized aircraft cable for
+snaring coyotes. Varying round loop
+diameters and heights above ground is
+recommended when snaring coyotes
+(Table 1). The loop size in a hole in a
+fence should vary depending upon the
+size of the hole.
+Keep slide
+clear of
+fence
+7" to 10"
+diameter round
+loop
+About 2"
+brown logwood crystals and dye.
+After boiling, snares should be kept
+clean of foreign odors. Wear clean
+gloves when handling and setting
+snares.
+How to Set Snares. Snares designed
+to capture predators by the neck or leg
+are set directly in the animal’s path of
+movement and are held in place using
+various techniques. One support that
+works particularly well can be con-
+structed from a 36-inch (0.9-m) piece of
+12-gauge galvanized or 9-gauge soft
+wire. Form a V bend in the support
+wire, about 4 inches (10 cm) from the
+end, and drive the wire into the
+ground with a notched rod (Fig. 32) to
+prevent the support from moving in
+the wind. Wrap the snare around the
+support about three times and hold it
+in place with a U bend formed in the
+upper end of the snare support. Bend
+the snare cable upward slightly, just
+inside the lock, to ensure that the snare
+loop is not closed by the wind (Fig. 33).
+Snares should be attached to a solid
+object so that captured animals cannot
+escape (Fig. 34). A steel 1/2-inch (1.3-
+cm) diameter rebar, 24 to 30 inches (61
+to 72 cm) long (depending on soil
+hardness), makes a good anchor for
+coyotes and smaller predators. Attach
+snares to the rebar with a strong
+swivel to prevent tangling and break-
+Small loop
+(about 5")
+Loop on ground to
+side of opening
+Fig. 36. Leg snare set
+Fig. 35. Snare set for woven wire
+
+
+C-72
+Table 1.Specific loop dimensions for
+snaring coyotes.
+Height of
+Round loop
+loop above
+Type
+diameter in
+ground in
+of set
+inches
+(cm)
+inches
+(cm)
+Trail
+9-12
+(23-30)
+10-12
+(25-30)
+Under
+fence
+7-10
+(18-25)
+2
+(5)
+Where to Set Snares. Animals usu-
+ally follow the easiest route through
+heavy cover. These routes, which gen-
+erally consist of trails, are excellent
+locations to snare predators. Snares are
+effective along trails leading to draw
+stations. Some effective locations for
+snaring coyotes include: (1) along trails
+in thickets or heavy vegetation leading
+to a carcass, (2) on trails under fences,
+(3) on livestock trails in vacant pas-
+tures, (4) in the bottoms of ravines, and
+5) on narrow paths inside weeds or
+brush. Trails can be created by driving
+on weeds or stubble with a pickup, by
+walking in snow, or by mowing a trail
+through weeds or grass with a weed
+eater.
+Regulations for Snaring. Snares
+are not legal in all states. Where snares
+are legal, most states have regulations
+which require that snares be visually
+inspected every 24 hours. Snares
+should be checked early in the morn-
+ing to increase the probability of re-
+leasing nontarget animals unharmed.
+Methods to Avoid Capturing Non-
+target Animals. Sites where snares
+are set should be carefully selected to
+avoid capturing nontarget animals.
+Avoid setting snares: (1) in pastures
+with livestock, (2) within 25 yards
+(23 m) of animal carcasses (to prevent
+capturing birds of prey and other scav-
+engers), (3) within major deer, elk, or
+antelope wintering areas (these big
+game animals are much less suscep-
+tible to foothold traps), (4) on any trails
+being used by livestock, deer, elk, and
+other nontarget animals (attract preda-
+tors away from these trails with spe-
+cific baits and lures), (5) under fences
+where livestock, antelope, deer, or
+nontarget dogs are using the “crawl
+space,” and (6) where people can
+readily view captured animals.
+Eye guide
+points
+Not more
+than 1"
+9" to
+12"
+Trail
+Eye guide
+points
+No. 9 extension cable
+(NOT wire)
+Steel stake
+10" to 12"
+Use a short snare cable to reduce inju-
+ries where accidentally captured dogs
+might jump over a fence or a tree
+branch. Also avoid using entangling
+devices (attachments that increase the
+chance of killing the snared animal)
+where dogs might be captured. Use
+the lightest snare lock (breakaway
+lock) possible to capture the desired
+animal. If livestock, deer, elk, or ante-
+lope are captured by a leg, they can
+usually break a light lock but may be
+held by heavy locks. Record the loca-
+tion and number of snares on a map so
+they can be found, and remove all
+snares when damage stops or when
+they cannot be checked frequently.
+Shooting
+Shooting coyotes is legal in many situ-
+ations, and it often ranks high among
+the choices for removing a predator.
+Safety, however, is a critical factor that
+in some circumstances may preclude
+the use of firearms (for example, local
+laws may prohibit shooting, or neigh-
+bors may be too close).
+For shooting coyotes, a medium-
+powered bolt-action rifle fitted with a
+scope is recommended. The .223 Rem-
+ington, .22-250, .220 Swift, or the .243
+Winchester are all capable of killing a
+coyote up to a distance of 250 yards
+(225 m). Since coyotes are able to
+detect human scent, the shooter should
+take a stand downwind from where
+the coyote will likely approach. An
+elevated location where the lighting
+works to the shooter’s advantage is a
+good choice. If predators are killing
+sheep in the daytime, construct a com-
+fortable blind at a vantage point in the
+pasture where the killing has occurred.
+Whenever possible, rest the rifle on a
+solid support while aiming. A home-
+made shooting stick will improve
+accuracy over shooting freehand.
+A shotgun, preferably a 12-gauge
+semi-automatic, can be used for shoot-
+ing at short range (less than 50 yards
+[45 m]). Often it is advisable to have
+both a 12-gauge shotgun and a scoped
+rifle available. Copper-coated (BB)
+lead shot, No. 4 buckshot (lead), and in
+newer shotguns, the larger-sized steel
+shot works well for killing coyotes.
+Fig. 37. Trail snare set
+
+
+C-73
+Shooting From Ground Vehicles.
+Shooting from vehicles (snowmobiles,
+motorcycles, and pickups) in open, flat
+prairie country can be effective and
+provide immediate results. Under
+most circumstances, however, this
+method is not practical as it requires
+keen driving skills, is dangerous, and
+is illegal in most states.
+Calling and Shooting Coyotes.
+Coyotes may respond to predator
+calls. Calling, like other methods of
+predation control, should be used
+sparingly and only when needed.
+Coyotes can be called at any time of
+the day although the first couple of
+hours after dawn and the last few
+hours before darkness are usually best.
+Call in areas where there are signs of
+coyotes, such as tracks or droppings.
+In some situations, coyotes can be
+located by listening to their howling at
+sundown and sunrise. Some hunters
+use sirens to elicit howls from coyotes.
+Often a voice imitation of a coyote
+howl works as well. Coyotes often
+come to a howl without howling back,
+so the prudent hunter is always ready
+to shoot.
+Hunting at Night. Not many people
+have witnessed predators killing live-
+stock because it usually occurs at
+night, away from human activity. As
+stated previously, calling and shooting
+predators at night is illegal in many
+states. Where legal, however, hunting
+at night with the use of artificial lights
+may be effective. Red or blue light
+tends to spook predators less readily
+than white light does. Calling without
+the use of artificial lights is effective
+only with snow cover and the light of a
+full moon.
+Aerial Hunting. The use of aircraft
+for shooting coyotes is strictly regu-
+lated by the provisions of the Airborne
+Hunting Act and is allowed only
+under special permit in states where
+legal. Aerial hunting is selective and
+allows taking only the target species.
+Although it is costly, it may be one of
+the most cost-effective methods of re-
+ducing predator damage when all fac-
+tors are considered. It is often the best
+method where conditions are right for
+removing depredating animals that
+have successfully evaded traditional
+ground control methods such as trap-
+ping.
+Fixed-wing aerial hunting is limited
+primarily to open areas with little
+vegetative cover. The greater maneu-
+verability of helicopters makes them
+more useful for hunting in areas of
+brush, scattered timber, and rugged
+terrain.
+Although aerial hunting can be con-
+ducted over bare ground, it is most
+effective where there is deep snow
+cover. Animals are more visible
+against a background of snow and are
+much less mobile in their attempts to
+avoid the aircraft. Under optimal con-
+ditions of clear, sunny skies and fresh
+snow cover, much of the hunting can
+be accomplished by searching for and
+following fresh coyote tracks. Aerial
+hunting success can be increased when
+conducted with the assistance of a
+ground crew. Before the plane arrives,
+a ground crew can locate coyotes in
+the hunting area by eliciting howls
+with a siren, a mouth-blown howler
+call, or a voice howl. Two-way radio
+communication allows the ground
+crew to direct the aircraft toward the
+sound of the coyotes, thus reducing
+hunting time.
+Aerial hunting is not recommended
+for, nor undertaken by, most livestock
+producers because of the special skills
+required of both pilot and gunner and
+the danger inherent with the low-level
+flight. Although weather, terrain, and
+state laws limit the application of this
+method, it can often provide a prompt
+resolution to depredation problems.
+Denning
+Predation can frequently be resolved
+by locating coyote dens and removing
+the pups and/or the adults responsible
+for depredations. Denning may also be
+warranted as a preventive control
+strategy if coyote predation has histori-
+cally and consistently occurred in a
+particular area during the lambing
+season.
+Breeding pairs of coyotes are extreme-
+ly territorial. They vigorously defend
+their territories against other canine
+intruders. Coyotes often den year after
+year in the same general location. If a
+particular denning pair of coyotes has
+a history of existing with and not prey-
+ing on livestock, it may be to the
+producer’s advantage to leave them
+alone. Their removal will open up a
+territory that may become occupied
+with coyotes that are more likely to
+prey on livestock.
+Although tracking a coyote from a
+livestock kill back to its den requires
+skill and persistence, it is probably the
+most foolproof method to locate the
+den of the offending animals. If track-
+ing is not feasible because of poor
+tracking conditions or lack of the
+required skills, there are alternatives
+that may be used.
+Coyotes will usually howl in response
+to a howl from another coyote near
+their den. One or both adult coyotes
+will often be near the den between 7:30
+to 9:00 a.m. A response can be elicited
+by voice howling, blowing a coyote
+howler call, or broadcasting recorded
+calls from a tape player. It is usually
+best to wait 30 minutes to 1 hour
+between howls because the same
+coyotes may not respond again within
+that period.
+Once the approximate location of a
+den is determined, careful planning is
+required to ensure the best chance of
+immediately removing the adult
+coyotes. The hunter should approach
+the den unseen and downwind to
+within calling distance, armed with a
+high powered rifle and/or repeating
+shotgun loaded with heavy shot. A call
+that imitates the whines or yelps of a
+coyote pup can be very effective under
+these circumstances, especially when
+used in conjunction with a dog to act
+as a decoy. A small- to medium-sized
+dog moving in the vicinity of the den
+gives the coyotes something to focus
+on and reduces the likelihood that the
+hunter will be detected. The sounds of
+a pup in distress along with the sight
+of a dog so near the den will cause
+most coyotes to display highly aggres-
+sive behavior, frequently chasing the
+dog back to within close proximity of
+the hunter.
+
+
+C-74
+After the adults are removed, the pups
+can be killed by fumigating the den
+with a gas cartridge registered for this
+purpose, or the pups can be dug out
+by hand. If attempts to shoot one or
+both adults are unsuccessful, the
+chances of trapping or snaring them
+are improved if the pups are left alive
+and confined in the den. This can be
+accomplished by driving stakes 2
+inches (5 cm) apart down through the
+den entrance. Carefully place blind
+sets in the den trails or at the den
+mound. Capture will often result when
+the adults return to investigate the
+area. If the adults are not captured
+within a reasonable period of time, the
+pups should be destroyed. Removal of
+the pups is often effective in stopping
+predation even if the adult coyotes are
+not removed.
+An airplane can be used very effec-
+tively to locate coyote dens when dep-
+redations occur in spring or early
+summer in open prairies or sagebrush
+terrain. Early morning hours provide
+the best light conditions for locating
+adult animals near the den site or as
+they return from hunting. The low
+angle light reflects on the coyote and
+provides good contrast with the sur-
+rounding vegetation and soil. Actual
+den sign, however, shows up better
+during the middle of the day with light
+coming from directly overhead. Dens
+are most easily located after the pups
+have begun venturing outside. The
+pups soon trample down the vegeta-
+tion around the den, making the site
+more visible from the air. If aerial
+shooting is legal, it is often possible to
+remove the adults and pups in one
+operation. In open terrain, landings
+can often be made within walking dis-
+tance of the den.
+Although denning requires special
+skills, training, and often considerable
+time, the advantages can be significant.
+A cost-benefit analysis conducted dur-
+ing one study determined that the cost
+to remove a den of depredating
+coyotes could be recovered if only 3.6
+lambs were saved. In the same study,
+the average number of lambs killed by
+each depredating pair of coyotes was
+4.9 per week. While these findings in-
+dicate that denning could be cost effec-
+tive after only a few days, the benefits
+actually continue in most instances for
+the duration of the season. Denning
+can be very selective for the offending
+animals and can resolve some depre-
+dation problems at relatively low cost.
+Hunting with Dogs. Several breeds
+are generally known as trailing
+hounds, including Walkers, Julys, red-
+bones, blueticks, black and tans, Plott
+hounds, and English fox hounds. Trail
+hounds follow the scent left by a
+predator and run it to tree or bay it on
+the ground. Coyotes are seldom
+caught and killed by trail hounds. In
+most instances, trail hounds are used
+in combination with sight hounds. The
+trail hounds run coyotes into the open,
+and then sight hounds are released to
+capture the fleeing coyote. More com-
+monly, coyotes are shot as they run
+from the pack of hounds. Sight
+hounds, generally greyhounds or Rus-
+sian wolf hounds, are used in open
+prairie country to run coyotes down
+and kill them.
+Economics of Damage
+and Control
+Sheep numbers in the United States
+have declined about 80% from 1942 to
+1976 (Gee et al. 1977). Former sheep
+producers reported that the principal
+reasons for leaving the sheep industry
+included high predation losses, low
+lamb and wool prices, a shortage of
+good hired labor, and the producer’s
+age.
+The US Fish and Wildlife Service
+(1978) estimated the economic impact
+of coyote predation on producers with
+predator problems, on producers with-
+out predator problems, and on con-
+sumers during 1977. They used an
+average lamb loss rate of 4% (267,000
+lambs) and a ewe loss rate of 1.5%
+(125,000 ewes) to estimate an economic
+loss of $19 million to producers from
+coyote predation in the 17 western
+states. The reduced number of sheep
+and lambs resulted in a higher market
+price, which benefited producers by $6
+million. The net impact of coyote
+predation on sheep producers was a
+loss of $13 million, and the impact on
+consumers was $4 million in addi-
+tional costs. The General Accounting
+Office (GAO 1990) estimated that
+coyotes in 17 western states killed
+sheep and lambs valued at $18 million
+in 1989. The National Agricultural
+Statistical Service (NASS 1991)
+reported that sheep and lamb losses to
+coyotes in the United States were
+valued at $18.3 million in 1990.
+The US Fish and Wildlife Service
+(1978) reported calf losses between
+birth and weaning to coyotes across
+the United States at 0.4%, with preda-
+tion decreasing to nearly zero by
+weaning time. Dorrance (1982)
+reported that coyotes were responsible
+for 16% of the 1,520 confirmed preda-
+tion losses of cattle in Alberta from
+1974 to 1978. Coyote predation on
+calves caused producers with coyote
+problems across the United States to
+lose an estimated $20 million. How-
+ever, because of the greater price flex-
+ibility of beef compared with sheep,
+the reduction in the number of beef
+calves marketed (estimated at 0.4%, or
+115,000 fewer calves) resulted in a
+higher price, which benefited beef pro-
+ducers by $81 million. The net impact
+of the reduced supply of beef as a
+result of coyote predation was a gain
+of $61 million to beef producers, but it
+cost consumers an additional $98
+million in higher prices for beef, result-
+ing in an overall loss of $37 million.
+NASS (1992) reported that cattle and
+calf losses to coyotes in the United
+States were valued at $24.3 million in
+1991.
+Coyote predation also can cause
+substantial losses of domestic goats. In
+three studies in Texas, where an esti-
+mated 1.1 million goats (about 90% of
+the goats in the United States) are
+raised (Scrivner et al. 1985), predators
+were reported to take 18.1% of the
+adults and 33.9% of the kids (Pearson
+1986). NASS (1991) reported that goat
+losses to coyotes in the United States
+were valued at $5.7 million in 1990.
+Pearson (1986) stated that predators,
+particularly coyotes, accounted for
+
+
+C-75
+losses of hundreds of chickens and
+turkeys in the 14 western states. In one
+study, Andelt and Gipson (1979)
+reported that between June 4 and
+August 31, 1976, a mated pair of
+coyotes apparently killed 268 domestic
+turkeys in Nebraska valued at $938.
+Although the average value of live-
+stock losses to coyotes reflected the
+overall impact on producers, it did not
+reflect the severity of losses to some
+individuals. Balser (1964) and Gee et
+al. (1977) indicated that coyote preda-
+tion is much more serious for some
+producers than others. Most sheep
+producers suffer no or minor predator
+losses, whereas 20% to 25% of the
+producers suffer losses that are signifi-
+cantly higher than the average (US
+Fish Wildl. Serv. 1978). These losses
+can drive producers out of business
+because of low profit margins. Non-
+fatal injuries and harassment of live-
+stock by coyotes also can result in
+reduced weight gain and subsequent
+reductions in profit.
+Acknowledgments
+Much of the information and several of the
+figures for this chapter were adapted from the
+SID Sheep Production Handbook, Predator
+Damage Control chapter, published by the
+American Sheep Industry Association, Inc.
+(1990) and various publications authored by
+F. R. Henderson, J. S. Green, W. F. Andelt, G. E.
+Connolly, and D. A. Wade.
+The section on economics of damage and control
+was adapted from Andelt (1987).
+Figure 1 by Emily Oseas Routman.
+Figure 6 adapted from a USDA-APHIS-ADC
+illustration by Renee Lanik, University of
+Nebraska-Lincoln.
+For Additional
+Information
+Alberta Agriculture. 1990. Methods of
+investigating predation of livestock. Alberta
+Agric., Crop Prot. Branch, Agdex 684-4.
+36 pp.
+Andelt, W. F. 1987. Coyote predation. Pages
+128-140 in M. Novak, J. A. Baker, M. E.
+Obbard, and B. Malloch. Wild furbearer
+management and conservation in North
+America. Ontario Ministry. Nat. Resour.
+Andelt, W. F. 1988. Proper use of snares for
+capturing furbearers. Colorado State Univ.
+Coop. Ext. Serv. Pub. 6.517, Fort Collins. 4 pp.
+Andelt, W. F., and P. S. Gipson. 1979. Domestic
+turkey losses to radio-tagged coyotes. J.
+Wildl. Manage. 4:673-679.
+Balser, D. S. 1964. Management of predator
+populations with antifertility agents. J.
+Wildl. Manage. 28:352-358.
+Bateman, J. 1971. Animal traps and trapping.
+Stackpole Books. Harrisburg, Pennsylvania.
+286 pp.
+Bekoff, M., ed. 1978. Coyotes: biology, behavior,
+and management. Academic Press, New York.
+384 pp.
+Boggess, E. K., F. R. Henderson, and C. W.
+Spaeth. 1980. Managing predator problems:
+practices and procedures for preventing and
+reducing livestock losses. Coop. Ext. Serv.
+C-620, Kansas State Univ., Manhattan. 19 pp.
+Connolly, G. 1992a. Sheep and goat losses to
+predators in the United States. Proc. Eastern
+Wildl. Damage Control Conf. 5:75-82.
+Connolly, G. 1992b. Coyote damage to livestock
+and other resources. Pages 161-169 in A. H.
+Boer, ed. Proceedings, ecology and
+management of the eastern coyote. Univ.,
+New Brunswick, Fredericton.
+Connolly, G. E. 1988. M-44 sodium cyanide ejectors
+in the Animal Damage Control program, 1976-
+1986. Proc. Vertebr. Pest Conf. 13:220-225.
+Connolly, G. E. and W. M Longhurst. 1975. The
+effects of control on coyote populations — a
+simulation model. Univ. California, Coop.
+Ext. Serv. Bull. 1872. 37 pp.
+deCalesta, D. S. 1983. Building an electric
+antipredator fence. Pacific Northwest Ext.
+Pub. 225. 11 pp.
+Dorrance, M. J. 1982. Predation losses of cattle in
+Alberta. J. Range Manage. 35:690-692.
+Gee, C. K., W. R. Bailey, R. L. Gum, and L. M.
+Arthur. 1977. Sheep and lamb losses to
+predators and other causes in the western
+United States. US Dep. Agric., Econ. Res.
+Serv., Agric. Econ. Rep. 369. 41 pp.
+Gee, C. K., D. B. Nielsen and D. M. Stevens.
+1977. Factors in the decline of the western
+sheep industry. US Dep. Agric., Econ. Res.
+Serv., Agric. Econ. Rep. 377. 31 pp.
+General Accounting Office (GAO). 1990.
+Wildlife management effects of Animal
+Damage Control program on predators.
+GAO/RCED-90-149, US General Account.
+Office, Washington, DC. 31 pp.
+Gier, H. T. 1968. Coyotes in Kansas. Revised.
+Kansas State Coll. Agric. Exp. Stn. Bull. 393.
+118 pp.
+Green, J. S. ed. 1987. Protecting livestock from
+coyotes: a synopsis of the research of the
+Agricultural Research Service. Natl. Tech.
+Info. Serv. PB 88 133590/AS. 105 pp.
+Green, J. S., and R. A. Woodruff. 1991. Livestock
+guarding dogs protect sheep from predators.
+US Dep. Agric., Agric. Info. Bull. No. 588.
+31 pp.
+Henderson, F. R. 1986. “How to Call a Coyote,”
+Kansas State Univ., Coop. Ext. Serv.,
+Manhattan. Pub. C-400. 4 pp.
+Henderson, F. R. 1987. How to trap a coyote.
+Kansas State. Univ., Coop. Ext. Serv., Pub.
+C-660. 12 pp.
+Henderson, F. R. 1988. Use of snares for
+capturing coyotes. CES, Kansas State Univ.,
+Coop. Ext. Serv. Pub. C-698., Manhattan.
+4 pp.
+Henderson, F. R., E. K. Boggess, and R. J. Robel.
+1977. Understanding the coyote. Kansas
+State Univ. Coop. Ext. Serv., Pub. C-578.,
+Manhattan. 24 pp.
+Hulet, C. V., D. M. Anderson, J. N. Smith, W. L.
+Shupe, C. A. Taylor, Jr., and L. W. Murray.
+1989. Bonding of goats to sheep and cattle
+for protection from predators. Appl. An.
+Behav. Sci. 22:261-267.
+Knowlton, F. F. 1972. Preliminary interpretations
+of coyote population mechanics with some
+management implications. J. Wildl. Manage.
+36:369-382.
+Linhart, S. B., G. J. Dasch, and F. J. Turkowski. 1981.
+The steel leghold trap: techniques for reducing
+foot injury and increasing selectivity. Proc.
+Worldwide Furbearer Conf. 3:1560-1578.
+Linhart, S. B., J. D. Roberts, and G. J. Dasch. 1981.
+Electric fencing reduces coyote predation on
+pastured sheep. J. Range Manage. 35:276-281.
+Linhart, S. B., R. T. Sterner, G. J. Dasch, and J. W.
+Theade. 1984. Efficacy of light and sound
+stimuli for reducing coyote predation upon
+pastured sheep. Prot. Ecol. 6:75-84.
+Meduna, R. 1977. Relationship between sheep
+management and coyote predation. M.S. Thesis,
+Kansas State Univ., Manhattan. 140 pp.
+National Agricultural Statistics Service (NASS).
+1991. Sheep and goat predator loss. US Dep.
+Agric., Agric. Statistics Board, Washington,
+DC.
+National Agricultural Statistics Service (NASS).
+1992. Cattle and calves death loss. US Dep
+Agric., Agric. Statistics Board, Washington,
+DC.
+
+
+C-76
+Pearson, E. W. 1986. A literature review of livestock
+losses to predators in western U.S. US Fish
+Wildl. Serv. Final Rep., Denver, Colorado. 20
+pp.
+Robel, R. J., A. D. Dayton, F. R. Henderson, R. L.
+Meduna, and C. W. Spaeth. 1981. Relationships
+between husbandy methods and sheep losses
+to canine predators. J. Wildl. Manage. 45:894-
+911.
+Scrivner, J. H. 1983. The 1080 toxic collar: economics
+of field use in Texas. Proc. Western Wildl.
+Damage Control Conf. 1:201-204.
+Scrivner, J. H., D. A. Wade, G. E. Connolly, and
+L. C. Howard, Jr. 1985. The effects of
+predation on an Angora goat ranch. Nat.
+Wool Grower. 75:10-13.
+Shelton, M. 1984. The use of conventional and
+electric fencing to reduce coyote predation
+on sheep and goats. Texas Agric. Exp. Stn.
+MP 1556. 12 pp.
+Till, J. A., and F. F. Knowlton. 1983. Efficacy of
+denning in alleviating coyote depredations
+on domestic sheep. J. Wildl. Manage.
+47:1018-1025.
+Todd, A. W. and L. B. Keith. 1976. Responses of
+coyotes to winter reductions in agricultural
+carrion. Alberta Wildl. Tech. Bull. 5. 32 pp.
+USDA. 1993. Animal Damage Control Program.
+Supplement to the Draft Environmental
+Impact Statement-1992. US Dep. Agric.
+Washington, DC.
+US Fish and Wildlife Service. 1978. Predator
+damage in the West: a study of coyote
+management alternatives. US Fish Wildl.
+Serv., Washington, DC. 168 pp.
+Wade, D. A. 1973. Control of damage by coyotes
+and some other carnivores. Colorado State
+Univ., Coop. Ext. Serv. Bull. 482a. 16 pp.
+Wade, D. A. 1976. The use of aircraft in predator
+control. Vertebr. Pest Conf. Proc. 7:154-160.
+Wagner, F. H. 1988. Predator control and the
+sheep industry: the role of science in policy
+formation. Regina Books, Claremont,
+California. 230 pp.
+Walton, M. T., and C. A. Feild. 1989. Use of donkeys
+to guard sheep and goats in Texas. Eastern
+Wildl. Damage Control Conf. 4:87-94.
+Young, S. P., and H. T. Jackson. 1951. The clever
+coyote. The Stackpole Co., Harrisburg,
+Pennsylvania, and the Wildl. Manage. Inst.,
+Washington, DC. 411 pp.
+Video Tapes
+Video tape, VHS. “Livestock Guarding Dogs,
+Protecting Sheep From Coyotes.” US Dep.
+Agric., An. Plant Health Inspect. Serv., An.
+Damage Control.
+Video tape, VHS. “How to Call a Coyote.”
+Kansas State Univ., Coop. Ext. Serv.
+Manhattan.
+Video tape VHS. “How to Snare a Coyote.”
+Kansas State Univ. Coop. Ext. Serv.,
+Manhattan.
+Video tape, VHS. “A Matter of Perspective.”
+Texas A&M Coop. Ext. Serv. San Angelo.
+Video tape, VHS. “How to Trap a Coyote.”
+Colorado State Univ. Coop. Ext. Serv., Fort
+Collins.
+Editors
+Scott E. Hygnstrom
+Robert M. Timm
+Gary E. Larson

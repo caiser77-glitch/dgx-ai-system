@@ -1,0 +1,1827 @@
+--- 
+source: Ecological Effects of Roads and Traffic- A Literature Review.pdf
+--- 
+
+Ecological Effects of Roads and Traffic: A Literature Review
+Ian F. Spellerberg
+Global Ecology and Biogeography Letters, Vol. 7, No. 5. (Sep., 1998), pp. 317-333.
+Stable URL:
+http://links.jstor.org/sici?sici=0960-7447%28199809%297%3A5%3C317%3AEEORAT%3E2.0.CO%3B2-S
+Global Ecology and Biogeography Letters is currently published by Blackwell Publishing.
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/about/terms.html. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained
+prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in
+the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/journals/black.html.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is an independent not-for-profit organization dedicated to and preserving a digital archive of scholarly journals. For
+more information regarding JSTOR, please contact support@jstor.org.
+http://www.jstor.org
+Tue Jun 12 21:47:23 2007
+
+
+Glob01 Ecology and Biogeography Letters ( 1998) 7, 3 17-333 
+Ecological effects of roads and traffic: a literature review 
+I A N  F. S P E L L E R B E R G  Envii.onr?zer7tul Mcrr7crgerlzei?t iii?il Desigiz Divisior~, FO. Bou 56, Lii?coli? Ui?ivei'sit~: 
+Cni?terbuiy;~ l i e ~ v
+Zeulcrr7d e-mcril: Spellei'i@Liizcolir oc.nz 
+Abstract. This survey of the literature 011 the 
+ecological effects of roads and traffic revealed many 
+articles published over many years in peer reviewed 
+journals. There has also been a growing number of 
+reports on the ecological effects of roads produced by 
+government authorities. Whereas few reports have been 
+published on assessing the ecological impacts, there 
+has been a rapidly growing number of reports on 
+methods for mitigation. Gaps in research include the 
+I N T R O D U C T I O N  
+In the U.S.A.. U.K., the Netherlands, Australia and 
+New Zealand. there has been growing concern about 
+the ecological effects (or ecological risks) of roads and 
+traffic. The general ecological effects of roads and traffic 
+on biota are summarized in Table 1. (The ternls biota 
+and wildlife are both used; for the purposes of this 
+paper these terms have similar lneanings except that 
+wildlife would exclude domesticated plants and 
+animals.) Pronlpted by the apparent increase in 
+publications in this area. the New Zealand Department 
+of Conservation (DOC) awarded a contract to the 
+author for a survey of the literature (contract No. 
+2165). The main objectives were to survey the literature 
+on the ecological effects of roads and trafic on the 
+natural environment. habitats and species in protected 
+areas and to identify the literature dealing with 
+environmental assessnlent and ways of mitigating 
+impacts from roads and traffic (Spellerberg & Morrison, 
+1998). 
+This paper is extracted from the DOC report. The 
+main aim here is to provide exalnples of the range of 
+literature and extent of work on various topics dealing 
+with the effects of roads on organisms, habitats and 
+landscapes. Exanlples of literature on the assessment 
+of risks and impacts, as well as mitigation, are also 
+included. The references cited in this paper are now 
+0 1998 Blackurell Sc~ence Ltd 
+effects of heavy metal accumulation and the processes 
+and effects resulting from habitat fragmentation. There 
+is a need to assess the effectiveness of underpasses and 
+tunnels and the nature and functioning of buffer zones. 
+A literature database has been assembled and is being 
+updated. 
+Key words. Roads, highways, motorways. traffic. 
+ecological effects and risks, barrier. pollution. 
+included in a literature database nlaintained by the 
+author. There are currently 388 references in this 
+database. 
+METHODS A N D  MATERIALS 
+The work concentrated mostly on reports of original 
+investigations rather than reviews (apart froln the 
+following: Leedy (1978). Watkins (1981). Gilbert 
+(1989). Andrews (1990). Aanen et crl. (1991), Bennett 
+(1991), Atkinson & Cairns (1992). Schonewald-Cox 
+& Buechner (1992). Ramsay (1994), Ednlunds (1995) 
+Forman (1995). Noss (1995), Southerland (1995). and 
+Environmental Resources Management (1996)). The 
+conclusions in this paper are generalizations based 
+on the author's interpretation of those original 
+reports. This literature report deals mainly with 
+literature in English. Most of the references were 
+found by searching journals and databases such as 
+OPAC. INNZ-New 
+Zealand, SSCI, CAB Abstracts, 
+Current 
+Contents, 
+New 
+Zealand 
+Science 
+and 
+Technology. Agricola and Spectrum. A home page 
+was put on the Worldwide Web and advertisements 
+were placed in journals and bulletins (The New 
+Zealand Ecological Society Newsletter. The British 
+Ecological Society Bulletin, The Biologist, Journal 
+of Institute of Biology). 
+317 
+
+
+3 18 
+Ian F: Spellerberg 
+Table I. A summary of ecological effects of roads 
+Effects during construction 
+There is a direct loss of habitat and biota.  
+There are effects resulting from the infrastructure and supporting activities for construction.  
+The iinpacts may occur beyond the immediate vicinity of the road: for example changes In the hydrology. Mining for  
+aggregates for the road may take place in a different area. It is important therefore to agree on the geographical boundary  
+for an iinpact assessment.  
+Short term effects (of a new road) 
+The near linear surface creates a nen nnci-oclimate and a change in other physical cond~tions extends varylng distances from  
+the road edge.  
+The newly created edge provides habitat for edge specles.  
+Plant inortality increases along the edge: and such mortalities may extend from the road edge for varying distances.  
+The inortality of plants has direct and secondary effects on other organisms.  
+Some fauna ~ ~ 1 1 1  
+move from the area of the road as a result of habitat loss and physical disturbance.  
+Animals are killed by traffic.  
+Long term effects 
+Animals continue to be killed by traffic.  
+The road kills have secondary effects as carrion.  
+The loss of hab~tat and change in habltat extends beyond the edge of the road.  
+The changes In the b~olog~cal 
+may extend for varying d~stances from the road edge.  
+coinmun~t~es 
+There IS fragmentation of habitat and thls In turn has implications for habitat damage and loss. for dlspersal and vagility of  
+organisms. and for sola at ion of populations.  
+The edge habltat (or ecotone) and traffic on the road may facilitate dlspersal for soine taxa. including pest specles.  
+The d~spersal of pest specles via ecotones or traffic may have secondary effects on biological coininui~it~es.  
+Associated structures such as bridges and tui~i~els  
+may provlde habltats for soine taxa. 
+The run-off from the roads affects aquatic communities. 
+Emlss~ons. 11tter. noise and other physical disturbances may extend Into the roadside vegetation for vary~ng d~stances and 
+result in changes in specles composition 
+The survey revealed some literature databases and 
+overviews. notably fro111 the U.S.A., the U.K. and 
+the Netherlands. These databases are in both 
+electronic for111 and printed form and are continuously 
+being updated (they are not publications). 
+Literature databases 
+(i) Transportation Research Board Publications U.S.A. 
+This is a bibliography with abstracts on the ecological 
+and environmental effects of highways (kindly provided 
+by Barbara Post, TRB Library, U.S.A.). 
+(ii) ROAD-RIP Roads Bibliographic database 
+This has been compiled by the Wildlallds Centre for 
+Preventing Roads (CPR). Based in the U.S.A., it 
+includes many hundreds of citations (kindly provided 
+by Bethanie Walder at Wildlands CPR, P.O. Box 7516. 
+Missoula, MT 59807. U.S.A.). 
+Some of the ROAD-RIP database citations were 
+State orientated and many were pollution orientated, 
+Examples include the following (numbers in brackets 
+were the number of citations under that heading): 
+Indiana (12), Illinois (33), Mld-west (4), Ohio (21). 
+storm run-off (94), changing hydrology (16), glacial 
+streams (8), bank erosion (19), toxins (97) emissions 
+(55), groulld (lo), hydrocarbons (33), lead (134). air 
+(180), water (131). metals (13) noise (19). urban (85) 
+and pollution control (178). 
+Reviews and reports 
+Reviews on the ecology of roads and traffic include 
+the following: Leedy (1978), Watkins (1981). Gilbert 
+(1989). Andrews (1990) Bennett (1991), Atkinson & 
+Cairns (1992). Schonewald-Cox & Buechner (1992), 
+Ralnsay (1994), Forman (1995), Noss (1995) and 
+Southerland (1995). 
+Reports (not necessarily with bibliographies) with 
+reviews about the effects of roads on nature (some with 
+information on mitigation) have been published in 
+several countries. In the Netherlands, in particular, 
+there 
+are 
+Goverlllnellt 
+sponsored 
+promotiollal 
+0 1998 Blackwell Sclence Ltd, Giuhiil Ecoiugl. iind Biogrogriiphy Letters. 7 .  317-333 
+
+
+publications about ecological effects of roads and also 
+well publicised methods for attelnpting to deal with 
+habitat fragmentation. Not all reviews seemed to be 
+objective. Some considered that roads are 'bad' and 
+proceeded to review the literature in that light. 
+The following are examples of reports. 
+(i) Nufuve engineeiirlg nr7d civil engineeiirlg ~voilis. 
+Pudoc. Wageningen (Aanen et nl.. 1991). This is a 
+collection of papers on the relation between nature and 
+civil engineering works, including many examples of 
+mitigation methods. 
+(ii) Hecrd on Collisior? 1995: The TVildIife nizd Rouds 
+Repoif (Edmunds 1995). In this report prepared by 
+Janet Edmunds for the Cheshire. Cumbria and 
+Lancashire Wildlife Trusts, the threats to important 
+wildlife sites from road developments in the U.K. were 
+reviewed. The road developments mentioned in the 
+report were in Cumbria, Lancashire, Merseyside. 
+Greater Manchester and Cheshire. 
+(iii) The signzficcrr7ce of secondcrij, effecfs,fionz vonils oizd 
+rood tv~izspovt oiz i7ut~~i.e 
+coizservutio17 (E11vironmental 
+Resources Management. 1996). This was published as 
+the English Nature Research Report No. 178 (English 
+Nature. Peterborough). This report presented the 
+findings of a research contract. The information was 
+obtained from a variety of sources including the 
+following: organizations with interests in nature 
+conservation and roads; literature searches through the 
+British Library; and representatives of English Nature. 
+The report included a particularly comprehensive list 
+of references (about 210). 
+R E S U L T S  A N D  D I S C U S S I O N  
+Topics considered only briefly 
+The review of the literature was comprehensive but 
+not all topics have been included in this paper for 
+reasons of brevity. The following topics are considered 
+only briefly. 
+(i) Environmental costs of roads 
+There is a growing interest in the environmental costs 
+of roads; see for example Maddison ef nl. (1996). 
+(ii)Ecological efects of secondary activities 
+Literature on the ecological effects arising from 
+secondary activities such as the mining of aggregates 
+for road building, transportation of materials for road 
+Ecolopical effects o f  roods 
+3 1 9 
+maintenance 
+and the use 
+of 
+fossil 
+fuels for 
+transportation has not been included. 
+(iii)Interactions between biota and roads 
+Whereas this paper considers the literature 
+011 
+ecological effects of roads 011 biota and ecosystems. 
+there are effects of nature on roads, traffic and products 
+of traffic. For example, trees may prevent land slips 
+on to roads (Haigh et ol., 1995). Trees and other plant 
+life forms acculnulate heavy lnetals (Ward, Brooks & 
+Reeves. 1974) and may help to reduce the amount of 
+airborne 
+pollutants. 
+especially 
+in 
+urban 
+areas 
+(Dochinger, 1980: Greszta, 1982). 
+(iv) Impacts of traffic and tourism in new areas 
+facilitated by new roads 
+The environmental impacts arising from developlnents 
+in tourism may have ecological implications. Similarly, 
+there may be ecological effects arising from the impacts 
+of off-road vehicles. Examples of the literature on 
+these topics include Belsky (1987), Kearsley (1990) and 
+Forbes (1992). 
+(vj Efects of roads on the physical environment 
+There are Inany reports about the effects of roads on 
+the physical environment. The effects on geology, water 
+run-off, pollution and sediment load in streams have 
+been well documented e.g. Watkins (1981), Ball. Jenks 
+& Aubourg (1998). 
+(vi) Structures associated with roads 
+There are many developments and structural elements 
+associated with roads. e.g. rest areas. signs, electricity 
+poles and wires. fences, retaining walls. contiguous 
+piles, bridges. viaducts and tunnels. The implications 
+of these developlnents and structures for wildlife and 
+their use by plants and animals is not discussed here. 
+(vii) De-icing agents 
+Many surveys and much experimental work has been 
+undertaken on the effects of de-icing agents since at 
+least the 1960s (e.g. Westing. 1969: Davison. 1971). 
+(viiij Geological conservation 
+Concern about the effects of roads on the natural 
+environment include the implications for geological 
+O 1998 Blackwell Science Ltd, Global Ecoiogj. ~ n n '  
+Biogeogruphj, Lerreu. 7, 317-333 
+
+
+conservation. For example, Larwood & Markham 
+(1995) discuss the best practical and technical solutions 
+available 
+for 
+geological 
+and 
+geomorpl~ological 
+conservation in relation to road construction. 
+Main topics considered 
+In the review of topics that follows, it is recognized 
+that not all topics are confined to the effects of roads. 
+For example, powerline swathes may constitute wildlife 
+habitats or barriers; lighting is not confined to roads; 
+and habitat fragmentation is caused by many kinds of 
+developments. 
+Pollution and disturbance effects on biota and 
+ecosystems 
+Pollutants impacting on biota include noise, light, sand, 
+dust and other particulates, metals such as Pb, Cd, Ni 
+and Zn, and gases such as CO and NO,. There is a 
+wide range of pollutants in water run-off from roads 
+(see Gjessing et cil. (1984) for a good overview) and this 
+range seenls to have resulted in less than comprehensive 
+studies for some specific pollutants. The extent to which 
+enlissions and disturbances extend from a road have 
+been researched by some authors (see Schonewald-Cox 
+& Buechner (1992) for a review). For example, above 
+normal traces of heavy nletals have been recorded in 
+plants up to 150 m from roads. 
+There are both secondary effects and synergistic 
+effects, some of which nlay be complex in their 
+operation. For example, road pollutants may cause 
+physiological stress in some plants and make them 
+more susceptible to pest attack, as has been shown 
+by work on aphid infestations of roadside trees in 
+Switzerland (Braun & Fluckiger. 1984). 
+I11 one review of toxic substances in flowing water, 
+Hellawell (1988) described the wide range of potential 
+pollutants and noted that very few generalizations can 
+be made about their effects on biota. Different species 
+of plants and animals tend to respond to different 
+pollutants in different ways. and even different stages 
+in the life history may have very different responses. 
+(i) Noise and artificial lighting 
+Noise and artificial lighting have been shown to affect 
+sonle wildlife. For exanlple Reijnen, Veenbass & Baker 
+(1995a), and Reijnen et crl. (1995b) have researched the 
+effects of car traffic on breeding bird populations in the 
+Netherlands. They found reductions in bird population 
+densities and argued that noise load is probably the 
+nlost inlportant cause of the reduced densities. Reijnen 
+& Foppen (1994) reported that nlale willow warblers 
+Plfj~lloscopus trochilus close to highways experienced 
+difficulties in attracting or keeping a mate. It was 
+suggested that the distortion of the song by traffic noise 
+might be a possible cause. 
+The effects of road lighting and traffic light on species 
+of animals and plants has attracted much attention and 
+has been reviewed in a few reports e.g. Environmental 
+Resources Management (1996). The effects are wide 
+ranging, e.g. for sonle bird species, artificial road 
+lighting may contribute to extended feeding tinles (Hill, 
+1992) and for some crop plants road sodiuln vapour 
+lamps may affect their growth (Sinnadurai, 1981). 
+(ii) Dust and sand 
+There appear to be few studies of the chemical and 
+physical effects of road dust on nature: some of these 
+relate to specific regions or biomes such as the Tundra 
+and Taiga (see for example the work of Forbes (1995) 
+in Siberia and also the review by Walker & Everett 
+(1987) of inlpacts in arctic regions). Physical effects 
+on plants nlay include cell destruction and blocked 
+stomata. A review by Farmer (1993) on the effects of 
+dust on plants and plant communities includes 
+literature on the effects of different dust types on crops, 
+grasslands, heathlands, trees, arctic bryophyte and 
+lichen communities. Dust may affect photosynthesis. 
+respiration and transpiration, and facilitate effects of 
+gaseous pollutants. Farnler found that epiphytic 
+lichens. sphagnuln and other mosses were the most 
+sensitive of those taxa studied. 
+(iii) Heavy metals (trace metals) 
+Land-use can influence the types and levels of trace 
+metals in road dust. For example. Wong, Cheung & 
+Wong (1984) studied the effects of roadside dust on 
+seed germination and root growth in vegetable crops 
+in China. They found enhanced root growth for plant 
+material collected from areas where there was low 
+traffic density. For plant nlaterial collected from a high 
+traffic density site there was marked reduction of root 
+growth. Amongst invertebrates, the effects may or may 
+not be detrimental. For example, Przybylski (1979) 
+working in agricultural and horticultural areas of 
+Poland 
+found 
+that 
+whereas 
+combustion 
+gases 
+(containing lead compounds) may reduce species 
+richness in sonle arthropod groups, other groups such 
+O 1998 Blackwell Science Ltd, Globcii Ecoiogj' ciiin' Biogeogriipl~y Letters, 7, 317-333 
+
+
+as members of the Family Aphididae and solne 
+Heteroptera flourished. Muskett & Jones (1980) 
+working by roads in west London measured heavy 
+lnetal concelltrations and found that their data did not 
+reveal an obvious decline in either numbers of terrestrial 
+invertebrate macrofaulla (caught in pitfall traps at 
+various distances from the road) or in species diversity 
+('alpha' species diversity index) with increasing lnetal 
+pollution load. 
+Some reports draw attention to the limited research 
+on the effects of animals feeding on biota near roads. 
+There has been concern about bio-accumulation of 
+metals from one trophic level to another (e.g. Scanlon 
+(1987), working in Virginia, U.S.A.). There have also 
+been warnings about possible effects on humans who 
+may consulne roadside plants and fruits (e.g. see the 
+report from Rodriguez-Flores & Rodriguez-Castellon 
+(1982) on roads in Puerto Rico). 
+(iv) Gases 
+The direct effects of road trafic gases (SO?. CO?, CO, 
+NO, and Hydrocarbons) on biota other than humans 
+have been researched. Effects on plant growth have 
+been observed; e.g. Sarkar, Banerjee & Mukherji (1986) 
+recorded stunted growth in plants near highways in 
+Calcutta. Kammerbauer et nl. (1986) noted a lack of 
+experimelltal work on the effects of exhaust emissions 
+on forest trees (noting much controversy about reasons 
+for die-back in forest trees near roads). They found 
+evidence for injuries of Norway Spruce by CO and 
+NO,). They also reported reductions in these effects 
+when catalytic converters are used. I11 the north of 
+England, Spencer & Port (1988) found that Lolit~rlz 
+pererlne L. grows more vigorously in soil taken froln 
+near roads and that NO, and de-icing salt are possible 
+causes. In Angold's (1997) detailed study of the 
+ecological effects of road pollutants on heathland 
+communities in southern England, it was found that 
+llitrogen (nitrogen oxides from traffic) caused increase 
+growth in plant species (effects were measured up to 
+200 m into the heathland) and consequently the species 
+colnpositioll changed. 
+(v) Effects on aquatic systems and biota 
+Effects of roads and run-off on aquatic biota and 
+aquatic ecosystems have attracted much attention. The 
+role of wetlands as sinks for metals and macronutrients 
+from roads has also been much researched (e.g. Yousef, 
+Baker & Hvitved-Jacobsen. 1996). This is an area of 
+Ecological efects of roads 
+32 1 
+possible conflict; on one hand there are attempts to 
+avoid pollution of wetlands and on the other hand 
+there are wetlands being used as pollution sinks. 
+A particularly detailed study on the effects of 
+motorway run-off on freshwater ecosystems has been 
+undertaken by Maltby et nl. (1995). They researched 
+seven streams receiving drainage fro111 the M1 
+Motorway in England and reported effects on species 
+diversity and in species compositioll of macro-
+invertebrate assemblages but found no changes on 
+either diversity or abundance of epilithic algae. 
+Other effects of roads on biota and habitats 
+Examples of reports on the effects of roads and trafic 
+are given in Table 2. Southerland (1995) has noted the 
+incremental effects of road developlnents and argued 
+that roads result in loss of biological diversity. The 
+effects of roads on biota and habitats are often 
+described as being either negative or positive. For 
+example, road kills are seen as negative and an increase 
+in edge habitat is seen as positive. Although an increase 
+in edge habitat is sometimes claimed as being positive, 
+the effects on the wider biotic commullity may not 
+have been researched. This dichotomy is simplistic 
+because it does not analyse the effects in the wider 
+context of community ecology. For example, although 
+there are many reports in the literature on road kills. 
+the longer term effects on the populatioll dynamics of 
+the species concerned may not have been researched. 
+In general. road kills do not seen1 to have detrimental 
+effects on animal populatiolls except in those cases of 
+species with small or diminishing populations. Bennett 
+(1991) has written a review on wildlife road mortality. 
+The secondary effect on other species seems not well 
+researched. One example of a secolldary effect was the 
+transportatioll of fungal spores along roads which lnay 
+have facilitated the spread of a pathogenic fungus in 
+forests in southern Australia (Weste, 1977). 
+(I) Habitat fragmentation by roads 
+Habitat fraglnelltation (sometimes referred to as 
+lalldscape fragmentation) has become a major focus 
+of research in collservatioll biology. This is because it is 
+believed by many to have by far the greatest detrilnental 
+impact of all impacts on nature (e.g. Wilcox & Murphy 
+(1985). Usher (1987) and Robinson & Qui11n (1992) 
+Abensperg-Traun et 01. (1996), Marsh & Pearman 
+(1997)). Andrews (1990) has written an extensive review 
+about roads and habitat fragmentation. An extensive 
+O 1998 Blackurell Science Ltd. Giobui Ecologj. ond Biogeogrcii,hj, Letters. 7. 317-333 
+
+
+Table 2. Exan~ples of the literature reporting effects of roads and traffic on wildlife (the categories are not mutually 
+exclusive). 
+Loss of habitat and changes in biotic communities 
+Angold (1997) Impacts of roads on adjacent heathlands. 
+Reijnen & Foppen (1994) Birds, Phy!!usco~~irs trociiilirs (L.), Netherlands. 
+Sherburne (1985) Effects on several specles of blrds and mammals. Northern Maine, U.S.A. 
+Linear habitats 
+Adams & Geis (1983) Sinall mammals. U.S.A. 
+Reijnen & Foppen (1994) Birds, Netherlands. 
+Warner (1992) Effects on birds, Illinois. 
+Lamont et 02. (1994) Effects on the plant, Bo~iktiii iiuolierhtzei Meissner, Australia 
+Munguira & Thoinas (1992) Butterflies. U.K. 
+Affecting behaviour (including dispersal) of mammals 
+Adams & Geis (1983) Sinall mammals. U.S.A. 
+Bakowski & Kozakiewicz (1988) Small mammals. Poland. 
+Brody & Pelton (1989) Bears. North Carolina. 
+Burnett (1992) Small mammals. Australia. 
+Garland & Bradley (1984) Desert rodents, Mojave Desert. Nevada 
+Korn (1991) Small mammals, Germany. 
+Mader (1984) Wood mice. Germany. 
+Merriam rt rii. (1989) Mice, Ottawa 
+Murphy & Curatolo (1987) Caribou, Canada. 
+Murphy & Dowding (1994) Stoats, New Zealand beech forest. 
+Oxley, Fenton & Casmody (1974) Small mammals. Canada. 
+Affecting birds 
+Canaday (1996) Several species, Ecuador. 
+Clark & Karr (1979) Several species. Illinois. 
+Ferris (1979) Several species, Maine. U.S.A. 
+Johnson (1990) Bald eagles. Southern Alaska. 
+Re~jnen rt 01. (1995a, b) Several species, Netherlands. 
+Zande er ri2. (1980) Several species, Netherlands and re-analysis of a previous study 
+Affecting biota other than birds and mammals 
+Baur & Baur (1990) Snails (Arici~rrn spp.), Canada.  
+Mader (1984) Carabid beetles. Germany.  
+Mader ri el/. (1990) Arthropods, Germany.  
+Majer & Beeston (1996) Alpha diversity of ants and coinparisoi~ of effects of roads with effects of other land uses in Western  
+Australia.  
+Vos & Chardon (1998) Moor frogs (R/iii/inrvciii~ Nilsson), Netherlands.  
+Mortalities 
+Adanls & Geis (1983) Small mammals, U.S.A. 
+Bennett (1991) Good revieiv for all tasa. 
+Bernardino & Dalrymple (1992) Snakes. Florida. 
+Case (1978) Various aninlal tasa, Nebraska. 
+Dhindsa et 01. (1988) Birds. India. 
+Dowler & Swanson (1982) Cedar waswings (Bo~iibj~ri!!~~ 
+ceilroru~n Vieillot) Tesas  
+Fahrlg et ell. (1995) Amphibians. Ottawa. Canada.  
+Illner (1992a) Grey partridge (Perilis peizli.~ L.). Gernlany.  
+Illner (1992b) Owls. Germany.  
+Madsen (1996) Otters (L~itr/i Iuri/i L.), Denmark.  
+Morrls & Morris (1988) Hedgehogs. Neiv Zealand.  
+Romin & Bissonette (1996) Deer. U.S.A.  
+Vestjens (1973) Various tasa, New South Wales.  
+0 1998 Blackwell Science Ltd. Glohrtl Ecolog~ nnil Biogrogrcii,I?y Letters. 7. 317-333 
+
+
+sumnlary of some major 
+effects of landscape 
+fragnlentation 
+on sensitive 
+species 
+or systems, 
+particularly as determined by roads within parks, has 
+been provided by Schonewald-Cox & Buechner (1992). 
+The implications for conservation arising from 
+habitat fragmentation have resulted in nlany hundreds 
+of papers about the supposed importance of island 
+biogeography to nature reserve design. The usefulness 
+of 
+island 
+biogeographical 
+studies 
+to 
+nature 
+conservation on mainlands is questionable (Spellerberg, 
+1991). There are many ways of quantifying habitat 
+fragmentation, e.g. in addition to calculations of the 
+rate of reduction of total habitat area and increase in 
+the number of fragments, sonle studies on habitat 
+fragmentation have measured the extent of isolation 
+of habitats, area of edge (and edge related indices), 
+shape of fragments, and degree of spatial heterogeneity. 
+The research on forest edges has also pronlpted 
+discussion about nlethods of analysis, e.g. Salisbury 
+(1996). 
+(ii) Edge efects and microclimates in forests 
+In a study in the Rocky Mountains, Reed, Johnson- 
+Barnard & Baker (1996) assessed the extent of forest 
+fragmentation caused by roads and by clearcut forestry. 
+They found that roads did contribute to forest 
+fragmentation and that roads contributed more to 
+fragmentat~on than did clearcuts. Furthermore, the 
+edge habitat created by roads was 1.561.98 times the 
+extent of edge habitat created by clearcuts. 
+In a study of woodlands in Ohio, Kupfer (1996) 
+looked at patterns and determinants of edge vegetation 
+and concluded that microclimate influences edge 
+succession. Williams-Linera (1990) working on forest 
+edges in tropical pre-montane wet forests of Panama 
+found changes in microclimate penetrating 15 m into 
+the forests. Young & Mitchell (1994) researched the 
+microclimate and vegetation edge effects of forest 
+margins created 100-130 years ago. Their research was 
+in fragmented podocarp-broadleaf forest in the North 
+Island of New Zealand. Penetration of microclimatic 
+edge effects was approximately 50111, regardless of 
+forest size. They suggested that microclinlatic edge 
+effects on processes such as germination and early 
+establishment are a major feature of forest dynamics. 
+(iiij Effects of fragmentation on forest birds 
+Rich, Dobkin & Niles (1994) considered that extensive 
+fragmentation of what was formerly contiguous forest 
+Ecological effects of roads 
+323 
+in eastern North America is a prinlary cause of decline 
+in forest bird species. In their own study, they reported 
+that even narrow forest-dividing corridors affect the 
+distribution and abundance of birds. 
+(ivj Efects on small mammals 
+In Kansas, small road clearances less than 3 m wide 
+were shown to affect small mammals such as voles and 
+rats (Swihart & Slade, 1984). In Australia, Mansergh 
+& Scotts (1989) showed that the social organization 
+and survival rates of the mountain pigmy-possum 
+(B~ii.i.ur71,vsYUI.I'LIS Broom) are disrupted because the 
+habitat has become fragmented by roads (and other 
+developments within a ski resort). 
+(vj Consequences for feral predators 
+Fragnlentation of habitats may have implications for 
+dispersal of feral predators but l~ttle research seenls to 
+have been done in this area (May & Norton, 1996). 
+(vij Roads, fragmentation and invasive plant species 
+As well as contributing to habitat fragmentation, roads 
+and road traffic facilitate the dispersal of plant species. 
+There has been concern expressed about the spread of 
+alien and invasive species, particularly with regard to 
+invasions of nature reserves. For example, Brothers & 
+Spingarn (1992) working in Central Indiana, U.S.A., 
+drew attention to the possibility of forest fragmentation 
+encouraging alien invasions for at least two reasons. 
+First, fragnlentation increases the ratio of non-forest 
+to forest and of forest edge to interior habitats. Second, 
+environmental changes at forest edges may provide 
+points of entry for alien species. In New Zealand, 
+Tinlnlins &Williams (1990) have noted that among the 
+important factors influencing the number of problem 
+weeds in reserves are distance from roads and railway 
+lines. 
+(viij Roads and roadside verges as linear habitats and 
+wildlife corridors 
+The total area of roadside verges in sonle countries has 
+been carefully documented and much has been made 
+of the fact that roads may benefit nature. Birds may 
+feed on the grit on roads, power lines provide perches 
+for birds and roadside verges may provide habitats for 
+some plant and animal species. 
+In some countries, there is much interest in roadside 
+O 1998 Blackwell Science Ltd. Clohnl Ecolog), iiilrl Biogcog~nph],Letiei,s. 7, 317-333 
+
+
+324 
+Ian E Spellerberg 
+verges as linear habitats. In Illinois, for example, 
+Warner (1985) studied the movements of free-ranging 
+domestic 
+cats 
+and 
+found 
+that 
+they 
+made 
+disproportionately high use of farmsteads, roadsides 
+and field boundaries. In Indiana, U.S.A., Roach & 
+Kirkpatrick (1985) reviewed the wildlife use of roadside 
+woody plantings and recommended planting regimes. 
+Also in America, Smith (1993) reviewed what are 
+called 'Greenways' and gave an overview of .greenway 
+ecology' and habitat management. I11 the U.K., there 
+has been considerable interest in the contribution of 
+roadside verges to conservation (as reviewed by Way, 
+1977). A detailed analysis of Cheshire's roadside verges 
+has been undertaken (Cheshire Ecological Services, 
+1995). That report details survey methods, analyses 
+roadside verge habitats and makes 1:ecommendations 
+for management and monitoring. Examples of the 
+literature on roadside verges are given in Table 3. 
+There has been a growing interest in the possible 
+corridor function of roadside verges and the term 
+wildlife corridor is widely mis-used. Whereas many 
+linear landscape features such as roadside verges may 
+provide linear habitats, there is only a small amount 
+of evidence to show that roadside verges are used 
+by animals as conduits for dispersal (Spellerberg & 
+Gaywood, 1993). However, there is now a rapidly 
+growing interest in this topic, especially in Australia 
+(Saunders & Hobbs, 1991; Saunders, Hobbs & Ehrlich 
+1993). 
+(viiij Traffic and dispersal of plant species 
+Dispersal of plant species via road traffic has been 
+addressed in some surveys and an excellent analysis of 
+the mechanism is given in Wace (1977). Dispersal of 
+potential weeds and alien flora via traffic (and by 
+vehicles and humans during road construction) has 
+received attention in the U.S.A., Australia and New 
+Zealand. Tinlmins & Williams (1990) looked at the 
+accidental spread of weeds through reserves and have 
+noted that reduction in roads could address this 
+problem. The role of roads and traffic in the spread of 
+weeds in Australia has been addressed by Amor & 
+Stevens (19751, Cowie & Werner (1993) and Lonsdale 
+&Lane (1994). Rather than trying to attempt to prevent 
+this form of seed movement via tourist traffic, it was 
+suggested by Lonsdale & Lane (1994) that resources 
+are best spent on detecting and eradicating weed 
+infestations. The conclusion is based on the acceptance 
+that the road has been built and is operational. 
+The ecology of dispersal of alien species and the 
+ecology of invasions has become a huge research area. 
+In Britain, Usher's (1988) review on biological 
+invasions noted that tourism poses dangers for reserves 
+since there is a positive correlation between visitation 
+rate and the number of introduced species (Macdonald 
+& Frame, 1988; Macdonald et trl., 1989). 
+Assessing the risks and the impacts 
+There are many exanlples of Environmental Impact 
+Assessment (EIAs) which deal with road projects in 
+different environments. International organizations 
+such as the IUCN (IUCN, 1996) have outlined the 
+assessment of environmental impacts of new roads. 
+The theory of EIA with regards to roads has been 
+explored in F A 0  (1989). In the U.K., Hodgen & Ford 
+(1985) described the planning and design of roads for 
+Areas of Outstanding Natural Beauty (AONB). For 
+the State of Washington, Horner & Mar (1983) gave 
+a protocol for assessing the impacts of road operations 
+on 
+aquatic 
+ecosystems. 
+The 
+protocol 
+offers 
+opportunities to forecast potential aquatic impacts at 
+an early stage of development. I11 the U.K., the 
+Department of Transport (U.K.) (1992) has published 
+a review on 'Assessing the environmental impact of 
+road schemes' which includes effects on wildlife. 
+In the U.S.A., the National Environmental Policy 
+Act (NEPA) provides a framework for environmental 
+impact assessments and a basis for assessing the effects 
+of road projects. A recent example of an environnlental 
+impact assessment of a proposed road and one which 
+addresses many fornls of wildlife is the Environnlental 
+Impact Statement for the Beaver Basin Rim Road 
+(U.S. Department of the Interior, 1996). The US 
+Department of Transportation has reviewed impact 
+assessments and mitigation with respect to highways 
+and ecology (Erickson, Camagis & Robbins, 1978). 
+Atkinson & Cairns (1992) have also reviewed the 
+ecological risks of highways in the U.S.A. These reports 
+are two of a few which draw attention to the growing 
+risks associated with the transport of hazardous 
+materials. 
+Some EIA methodology is designed to help identify 
+primary, secondary and tertiary impacts of roads, e.g. 
+Lelievre & Serodes (1995) have suggested a cause-effect 
+network with three components to assist in identifying 
+secondary and tertiary impacts. The three components 
+are: actions undertaken, environmental cl~aracteristics 
+and the stages of the project. 
+Ecological considerations have been included within 
+EIAs for some roads. For example, Box & Forbes 
+O 1998 Blackwell Science Ltd, Globcil Ecologj~ iiiid Bi~ge(lg~'il./~/lj: 
+Letters, 7. 317-333 
+
+
+Ecological effects of roads 
+325 
+Table 3. Examples of I~terature about roads and roadside verges (as linear habitats) and roads as wildlife corridors 
+(facilitating dispersal) for wildlife. 
+Road \'erge as habitat 
+Adams (1984) Small mammals. North Carolina, U.S.A.  
+Cow~e& Werner (1993) Alien plant specles, northern Australia.  
+Hallsen & Jensen (1972) Plant communities. Denmark.  
+Havlln (1987) Birds. Czech Republic.  
+Lane (1976) Plants, Australla.  
+Mlchael (1986) Songbirds. West Virginia, U.S.A.  
+Mungulra & Thomas (1992) Butterflies, U.K.  
+Newbey & Newbey (1987) Birds. Western Australla.  
+Reznicek (1980) Halophytes, Michigan. U.S.A.  
+Roach & Kirkpatrick (1985) Wildlife, Indiana, U.S.A.  
+Samways (1989) Bush crickets, Southern France.  
+Tyser & Worley (1992) Alien flora. Montana. U.S.A.  
+Wester & Juvik (1983) Plant communities. Hawaii.  
+Wells rt ill. (1996) Reptiles. U.K.  
+Wilson et 01. (1992) Plant communit~es, Neiv Zealand.  
+Road verge tnatiagetnent 
+Laursen (1981) Mowing frequency and birds, Denmark.  
+Munguira & Thomas (1992) Butterflies. U.K.  
+Parr & Way (1988) Long-term effects of mowing. U.K.  
+Pedevillano & Wright (1987) Visitor management and mountain goats. Montana. U.S.A.  
+Roach & Kirkpatrick (1985) Wildlife. Indiana. U.S.A.  
+Sangwlne (1992) Landscape planting. U.K.  
+Thompson. Rutter & Ridout (1986) British natlve plants tolerant of salinity (U.K.)  
+Watson. Rlce & Monnlg (1989) Herbicide (Picloram) for weed control, northern Rockies. U.S.A.  
+Dispersal studies ( ~ i a  
+traffic and along and from road verges) 
+Amor & Stevens (1975) Weeds into forest. Dartmouth, Australia.  
+Cllfford (1959) Seed dispersal vla traflic, hTigerla.  
+Getz. Cole & Gates (1978) Small mammals, Illinois, U.S.A.  
+Lonsdale & Lane (1994) Weed seeds. northern Australia  
+Schmidt (1989) Plant dispersal by traffic. Germany.  
+Seabrook & Dettmann (1996) Cane toads, N.S.M7, Australia.  
+Timillins & Willlams (1990) Weeds in New Zealand forest reserves.  
+Travis & Tilsworth (1986) Fish in culverts. Alaska.  
+Vermeulen (1994) Ground beetles. Netherlands.  
+Wace (1977) Plant species vla cars. Canberra. Australia.  
+Warner (1985) Free range domestic cats. Illinois. U.S.A.  
+Wilcox (1989) Purple loosetrlfe (Lytli~~un?  
+siiiic/i~.r/i L.), Neiv York State, U.S.A 
+(1992) suggested a conceptual framework for an 
+and one in which there is very detailed theory and clear 
+ecological input into road projects. However, ecological 
+practical applications. Environmental monitoring and 
+impact assessment seen1 far less well researched than 
+ecological monitorillg should follow on from EIAs or 
+other aspects of EIAs. The Institute of Environmental 
+at least be established as part of the EIA process. 
+Assessment (IEA, 1995) has produced 'Guidelines Jot. 
+However, there seems to be a lack of reports dealing 
+baseline ecological clssessn~ent'. In a recent book edited 
+with 
+post-EIA 
+environmental 
+monitoring 
+and 
+by Schnlitt & Osenberg (1996), there are many ideas 
+especially with ecological monitoring. 
+for detecting ecological inlpacts in coastal habitats. I11 
+other publications (Reijnen et cil., 1995a, b), there are 
+Redressing the detrimental ecological eftects 
+methods for predicting the effects of motorway traffic 
+011 breeding bird populations. Reijnen et cil. (1995a) is 
+The need to redress ecological effects of roads is clearly 
+a particularly extensive book from the Netherlands 
+expressed in some general reviews of mitigation and 
+O 1998 Blackivell Science Ltd, Globiil Ecology iinil BiogeogrqJh~, 
+Letters, 7. 317-333 
+
+
+enhancement (e.g. Thrasher, 1983). These general 
+reviews may have helped to influence the World Bank 
+and 
+some governments which 
+previously 
+have 
+supported large road projects. For example, in 198 1, the 
+World Bank together with the Brazilian Governnlent 
+jointly funded the $1.5 billion development in southern 
+Brazil with a centrepiece of a 1500 km sealed highway. 
+This highway has been at the centre of a campaign to 
+reform international financial support for such projects 
+(Reid & Bowles, 1997). Some years on the World 
+Bank has published a manual in which the 'negative' 
+environnlental impacts of roads and traffic are 
+addressed (World Bank, in press). In the U.S.A., Baker 
+(1998) reports that decades of road construction in the 
+national forests may soon be at an end as a result of 
+the U.S. Forest Service's roads programme. A one year 
+moratorium on new roads in pristine areas, with the 
+exception of some localities in Alaska and the Pacific 
+Northwest, has been proposed. In the U.K., a design 
+manual for roads and bridges has been published 
+in which there are extensive sections on mitigation 
+(Department of Transport, 1993). Work from the 
+Netherlands and from Dcnmark includes development 
+of policy (Bohemen, 1995) and advice for the wider 
+community with respect to dealing with effects of roads 
+on wildlife. Some of these publications include detailed 
+methods for addressing the ecological effects of roads 
+(e.g. Bekker et ul., 1995). The concept of ecological 
+compensation is now Dutch Governmental policy 
+(Cuperus, Canters & Piepers, 1996). In Australia, the 
+Queensland Department of Main Roads (1997) has 
+produced a comprehensive manual about the design, 
+construction, and management of roads in the wet 
+tropics. The mission statement for this manual includes 
+the following: 'To prol'ide sqfe, equituble trnd econon~ic 
+rontls ~vitizin the Ivet tropic region ~vlzilst presenting, 
+consei.i~ing u~zti relztrbilitnting the unique nilturtrl and 
+cultnrnl ~'trlues to tlze greatest extent prilcticnll. In New 
+Zealand, the organization Transf~~ndNew Zealand 
+(1997) has produced a manual for cost benefit analysis 
+of road projects, including ecological features and some 
+information on mitigation. 
+The literature dealing with ways of redressing 
+environmental and ecological effects includes many 
+topics (Table 4), although it goes without saying that 
+not all are exclusive to roads and traffic. Some authors 
+support an ecosystem approach to redressing the effects 
+of roads, e.g. Southerland (1995) advocated that an 
+ecosystem approach is critical to assessing biodiversity 
+effects (at appropriate scales) and that mitigation of 
+the loss of biodiversity should extend to the provision 
+of adequate buffer areas and habitat corridors. 
+Reports about means of mitigating the effects of 
+pollution seem to be directed mainly at contamination 
+of wetlands (e.g. Kober & Kehler, 1987) and problems 
+of containing surface run-off from roads. By way of 
+contrast, there has been research on the use of wetlands 
+as a sink for urban water run-off (e.g. Reuter, Djohan 
+& Goldman, 1992). 
+There is much literature on tunnels and overpasses; 
+mainly on how to construct them. There seems little 
+on monitoring the effectiveness (in terms of use) and 
+effects (in terms of population size, fragmentation of 
+populations and gene flow) of these attempts to reduce 
+barrier effects. 
+Mitigation banking is not new (see Table 4) but is 
+becoming 
+increasingly 
+popular. 
+It 
+involves 
+conlpensation for loss or damage to habitats by 
+establishment of wildlife habitats elsewhere (or 
+enhancement of habitats). There is much room for 
+research here, particularly with regard to the ecological 
+restoration techniques. 
+Landscaping and planting roadside verges to reduce 
+erosion and to provide habitats for wildlife has been 
+widely researched (Table 3). The concept of buffer 
+zones (undisturbed areas or strips) and filter strips 
+(undisturbed except to provide access) has long been 
+popular in conservatioll and has been researched with 
+respect to roads (Clinnick, 1985). In the U.S.A., 
+agencies such as Wallace, McHarg, Roberts and Todd 
+(WMRT) have produced structured guidelines for 
+buffer zones and corridors (Smith, 1993). The use of 
+buffer zones to minimize effects of herbicide spray drift 
+has been researched by Marrs et ill. (1992). The use of 
+buffer strips to absorb pollutants has been discussed 
+by Angold (1997). Her research suggests that some 
+dense vegetation may act as sinks for some pollutants. 
+The best width for a buffer zone has not been well 
+researched except in connection with the prevention of 
+sedimentation of streams. Very little research appears to 
+have been undertaken on how to identify the optimum 
+widths of buffer strips alongside roads. One way of 
+approaching this is to research the nature and extent 
+of the impacts from roads and traffic on wildlife 
+communities. (e.g. Angold, 1997). 
+Areas for research 
+(ij Pollution 
+Whereas there is much research showing rates and 
+levels of accumulation of metals in roadside biota, the 
+O 1998 Blackwell Science Ltd, Globiil Ecology iind Biogeogi'ci~~iiyLettei'~. 7 ,  317-333 
+
+
+Ecological effects of roads 
+327 
+Table 4. Redressing the ecological effects of roads. 
+Reducing road mortality and barrier effects of roads, bridges, and railway lines 
+Evink (1990) Safe crossings for panthers, Florida, U.S.A.  
+Feldhamer et ill. (1986) Roadside fencing and deer. Pennsylvania, U.S.A.  
+Hunt et 01. (1987) Tunnels for mammals. Neiv South Wales.  
+Langton (ed.) (1989) Tunnels for amphibians, European.  
+Madsen (1993) Faunal passages and road systems. Denmark.  
+Mansergh & Scotts (1989) Tunnels for pygmy-possums, Biii.iamj:s pnri,lrs, Australia.  
+Murphy & Curatolo (1987) Behaviour of caribou where roads run near pipelines. Alaska  
+hTieuivenhuizen & Apeldoorn (1995) Mammal use of underpasses. Netherlands.  
+Owens &James (1991) Pelicans and bridges. Tesas. U.S.A.  
+Reed (1981) Deer and underpasses. Colorado. U.S.A.  
+Romin & Bissonette (1996) Deer fences. tunnels and speed controls. U.S.A.  
+Salvig (1991) Faunal passages and roads, Denmark.  
+Singer, Langlitz & Sailluelson (1985) Underpasses for mountain goats, Montana, U.S.A.  
+Verboom (1995) Analytical methods for risks of fauna crossing roads. Netherlands.  
+Ward (1982) Fencing and deer, Wyoming. U.S.A.  
+Vanes, Velasco & Suarez (1995) Vertebrate movement in cul~erts, Spaln.  
+Mitigation banking 
+Howarth (1991) Wetlands, North Carolina, U.S.A  
+Lister (1992) Salmon habitat, British Columbia.  
+Buffer zones and filters 
+Angold (1997) Buffer zones and oligotrophic communities, U.K. 
+Clinnick (1985) Buffers for protection of streams fro111 sediment, Australia. 
+Swift (1986) Filter strips to prevent sedimentation of streams. Appalachian Mountains, U.S.A. 
+Trimble & Sartz (1957) Logging roads, sediments and streams. U.S.A. 
+effects seem not well researched. As early as 1976, 
+material and also the quality of the ecological content 
+Smith reviewed lead contamination of roadside 
+is varied; many reports leave much to be desired. There 
+ecosystems and at that time noted that our 
+could be more research on the assessment of ecological 
+understanding of the effects on biota is deficient. More 
+impacts of road projects. I recomnlend an appraisal of 
+recent reports of the late 1980s continue to mention 
+the biology and the ecology of EIAs which have been 
+that we know little about the chemistry of heavy metal 
+conlpleted for road projects. 
+uptake in biota. The long-term cumulative effects seem 
+poorly researched. Furthermore there has previously 
+been some controversy with regard to the effects of 
+(ivj Habitat fragmentation 
+heavy metal accumulation 011 roadside forest trees 
+Many authors consider that fragmentation of habitats 
+(Backhaus & Backhaus, 1987). 
+by roads may be the most important of the ecological 
+effects of roads and their traffic. Ecological studies of 
+(iij Long-term efects 
+fragmentation are growing in number but there are 
+still very few reports which analyse the effects of 
+There is very little research on long-term ecological 
+fragmentation by roads. There is room for research on 
+effects of roads and how to monitor those effects. This 
+analytical techniques as well as on modelling the likely 
+could be particularly relevant to the ecology of invasive 
+effects.
+species and dispersal of those species via roads and 
+road traffic. 
+(vj Methods to reduce barrier efects 
+Much has been said about the use of wildlife tunnels 
+There are many Environnlental Impact Assessments of 
+but there seems to have been little research on their 
+road projects but the level and content of the biological 
+effectiveness e.g. Hunt, Dickens & Wl~elan(1987), 
+O 1998 Blackwell Science Ltd. Glohal Ecolog~ n i ~ dBiogeogrtiph~, Lettris. 7. 3 17-333 
+
+
+328 
+Ion F: Spellerberg 
+Langton (1989) and Nieuwenhuizen & Apeldoorn 
+(1995). 
+(vij Mitigation banking 
+This is an area in which little research has been done 
+(vii) Bufer zones 
+The concept of buffer zones is widely used but, like 
+wildlife corridors, the ecological aspects have been 
+poorly researched. 
+A C K N O W L E D G M E N T S  
+I a m  grateful to the Department of Conservation (New 
+Zealand) for funding this research. Most of the 
+literature search was undertaken by Toni Morrison 
+and the project could not have been launched without 
+her help. Bruna Jones kindly edited and prepared the 
+nlanuscript for publication. 
+REFERENCES 
+Aanen, P.. Alberts. W.. Bekker, C;.J., van Bohemen. H.D., 
+Melman, P.J.M., van der Sluijs, J., Veenbaas. G.. 
+Verkaar, H.J. & van de Watering, C.F. (1991) Nntlire 
+engineering cincl civil ei~gineeiing 11'0i.k.~. p. 139. Pudoc, 
+Wayeninyen, The Netherlands, 
+Abensperg-Traun, M., Smith, G.T.. Arnold, G.W. & 
+Steven. D.E. (1996) The effects of habitat fragmentation 
+and livestock-grazing on animal communities in 
+remnants of gimlet Elicnlypili.~ .reiliibris woodland in the 
+Western Australian wheatbelt. 1. Arthropods. J. i~pl~l. 
+Ecol 33. 1281-1301. 
+Adams. L.W. (1984) Small n~a~ulnal 
+use of an interstate 
+highway median strip. 
+i~ppl. Ecol. 21, 175-178. 
+Adams. L.W. & Geis, A.D. (1983) Effects of roads on 
+small mammals. J. cipi,l. Ecol. 20, 403415. 
+Amor. R.L. & Stevens, P.L. (1975) Spread of weeds from 
+a roadside into sclerophyll forests at Dartmouth, 
+Australia. Weed Res. 16, 111-1 18. 
+Andrews, A. (1990) Fragmentation of habitat by roads 
+and utility corridors: a review. ALISI.Zoo1 26, 130-141. 
+Angold, P.G. (1997) The impact of a road upon adjacent 
+heathland 
+vegetation: 
+effects on 
+plant 
+species 
+composition. J. c~ppl. Ecol. 34, 409417. 
+Atkinson, R.B. & Cairns, J. (1992) Ecoloyical risks of 
+highways. Ahnncea in inodein ei~viroriinei~tnl 
+toxicology: 
+predicting eco.~y,rte1?7 
+ii,rk, 20, 237-262. 
+Backhaus, B. & Backhaus. R. (1987) Distribution of range 
+transported lead and cadmium in spruce stands affected 
+by forest decline. Sci totcil Environ. 59. 283-290. 
+Baker, B. (1998) Rethinking roads in the nation's forests. 
+BioScience. 48. 156. 
+Bakowski, C. & Kosakiewicz, M. (1988) Effects of a forest 
+road on Bank Vole and Yellow-neck populations. Actci 
+rheriol. 72, 245-252. 
+Ball, J.E., Jenks, R. & Aubourg, D. (1998) An assessment 
+of the availability of pollutant constituents on road 
+surfaces. Sci. totcil Environ. 209. 243-254. 
+Baur, A. & Baur, B. (1990) Are roads barriers to dispersal 
+in the land snail Aricintii iirbitstorun~? Cnn. 'Zool. 68, 
+613-617. 
+Bekker, G.J., van den Hengel, B., van Bohemen. H.D. & 
+van der Sluijs, H. (1995) Nc~ture nci.oss ii~oror~t~cij.~, 
+p. 103. 
+RWS & DWW.. Delft. 
+Belskp. A.J. (1987) Revegetation of natural and human- 
+caused disturbances in the Serengeti National Park, 
+Tanzania. Vegetcitio. 70, 5 1-60. 
+Bennett.  A.F. (1991) Roads, roadsides and wildlife 
+conservation: a review, i\'nture 
+coi~aervniio~~the role 
+2: 
+of coriidors (ed. by D.A. Saunders and R.J. Hobbs). 
+pp. 99-118. Surrey Beatty & Sons Pty Limited, Western 
+Australia. 
+Bernardino, F.S. & Dalrymple, G.H. (1992) Seasonal 
+activity and road mortality of the snakes of the Pa-hay- 
+okee wetlands of Everglades National Park, U.S.A. Biol. 
+Coiiser~'.62, 71-75. 
+Bohemem, H.D. van (1995) Mitiyation and compensation 
+of habitat fragmentatioll caused by roads: strategy, 
+objectives, and practical measures. Peiii.rpii Rea. Rec. 
+1475, 133-137. 
+Box, J.D. & Forbes, J.E. (1992) Ecological considerations 
+in the environmental assessment of road proposals. 
+Higlzn,nys Trnnsp. April, 16-22. 
+Braun, S. & Fluckiger. W. (1984) Increased population of 
+the aphis Aphis poini at a motorway. Part 2-The 
+effect 
+of drouyht and deicing salt. En~'iron. Polliit. (Seriea A ) ,  
+36, 261-270. 
+Brody. A.J. & Pelton, M.R. (1989) Effects of roads on 
+Black Bear movements in western North Carolina. Wilcl. 
+Soc: Biill. 17. 5-10. 
+Brothers, T.S. & Spinyarn. A. (1992) Forest fragmentation 
+and alien plant invasioll of central Indiana old-growth 
+forests. Con.~err'. Biol. 6, 91-100. 
+Burnett, S.E. (1992) Effects of a rainforest road on 
+movements of small mammals: mechanisms 
+and 
+implications. C.S.I.R.0. Wild. Rea. 19, 95-104. 
+Canaday, C. (1996) Loss of insectivorous birds along a 
+yradient of human inipact in Amazonia. Biol Coil~eric 
+77, 63-7 1 
+Case, R.M. (1978) Interstate highway road-killed animals: 
+a data source for biologists. PVilil. Soc. Bitll. 6, 8-13. 
+Cheshire Ecological Services (1995) Cheslliie ronclsicle verge 
+.rliive): T'ol. 
+I ,  Report rind recoi?zi?leizclf~iiona,p. 34. 
+Cheshire Ecological Services, The Cheshire Wildlife 
+Trust. 
+Clark, W.D. & Karr, J.R. (1979) Effects of highways on 
+0 1998 Blackwell Science Ltd, Globul Eroiogj cuiirl Buogeogriipliy Lrttrr.~, 7, 317-333 
+
+
+Ecological effects of roads 
+329 
+Red-winged Blackbird and Horned Lark populations. 
+wil.i.017 Biill. 91. 143-145. 
+Clifford, H.T. (1959) Seed dispersal by motor vehicles. ' 
+Ecol. 47, 311-315. 
+Clinnick. P.F. (1985) Buffer strip management in forest 
+operations: a review. Ali.rt. Foi: 48, 34-45. 
+Cowie, I.D. & Werner, PA. (1993) Alien plant species 
+invasive in Kakadu National Park, tropical northern 
+Australia. Biol Coi~aer\'.63, 127-135. 
+Cuperus, R., Canters, K.J. & Piepers, A.A.G. (1996) 
+Ecological compensation of the impacts of a road. 
+Preli~ninary method for the A50 road link (Eindhoven- 
+Oss), The Netherlands. Ecoi Eng. 7, 327-349. 
+Davison. A.W. (1971) The effects of de-iciny salt on 
+roadside veryes. 1, soil and plant analysis. J iippl. Ecol. 
+8, 555-561. 
+Department of Transport (U.K.) (1992) Aaaessing tile 
+envii~onii?ei7tnl iriipilct qf' ioacl scliei?7e.r, p. 30. Her 
+Majesty's Stationery Ofice, London. 
+Department of Transport (Scottish Ofice Industry 
+Department), 
+Welsh 
+Office, Department 
+of 
+the 
+Enr,ironment for Northern Ireland (1993) Desigrt maiziciil 
+,for roacls find bridges, Voi 10: eil~'iroi~iizental
+cle.i.igi~; Vol. 
+11: Enviroi1ii?ei7tcil asseaanlent, p. 62. HMSO. 
+Dhindsa, M.S.. Sandhu, J.S.. Sandhu, P.S. & Toor, H S. 
+(1988) Roadside birds in Punjab (India): relation to 
+mortality from vehicles. Ei7i; Conaerv 15, 303-310. 
+Dochinger. L.S. (1980) Interception of airbourne particles 
+by tree planting. J. Enl'iroii. Qiial. 9, 265-268. 
+Dowler, R.C. & Swanson, G.A. (1982) Hiyh lnortality of 
+Cedar Waxwings associated with highway plantinys. 
+Wilsoi7 B~tll. 94, 602-603. 
+Edmunds, J. (1995) Hend oil col1i.rion 1095. Tlireirta to 
+iii7j)orioi1t ~t.iliiiife siiea,fi.o1?7 roc~cldevelopiizent in Cwizbrin, 
+Lcincii.rltire, 
+~Llerseysicle, Greater 
+iblai7che.rier crnd 
+Ciie.i.iiire, p.40. The Wildlife Trusts, North West 
+England. 
+Environ~nental Resources Management 
+(1996) The 
+significance of secondary effects from roads and road 
+transport on nature conservation. Englis11 i\'fitlire 
+Reaenrck Report 
+1\70 
+178. p. 91. English Nature, 
+Peterborouyh. 
+Erickson. P.A., Camagis, G. & Robbins. E.J. (1978) 
+High11,nys cinc/ecoiogj.: iiilpfict ilsaeasiizent nndinitigntioil, 
+p. 182. 
+Prepared 
+for 
+the 
+Federal 
+Highway 
+Administration 
+(FHWA-RWEIOEP-78-2). National 
+Technical Information Services, US Department of 
+Commerce, Virginia, U.S.A. 
+Evink, G.L. (1990) Wildlife crossinys  of Florida 1-75, 
+Trnnsp. Re.i.. Rec. 1279, 54-59. 
+Fahrig, L., Pedlar, J.H., Pope. S.E., Taylor, P.D. & Wegner, 
+J.F. (1995) Effect of road traffic on amphibian density. 
+Biol. Coilseric 73, 177-182. 
+FA0 (1989) Definition and scope of protective measures 
+for roads. 14'21tersi1ed ~Ll(iitnger?~eni 
+Field ~Mcri~iiol-Road 
+cleaign ilild coi1.riructioi7 in sensitive 1t~aterahec1,r.F A 0  
+Conservation 
+Guide 
+1315. 
+pp. 1-12. 
+Food 
+and 
+Agriculture Organisation of the United Nations. Rome. 
+Farmer, A.M. (1993) The effects of dust on vegetatioll-a 
+review. Enviroil. Polllit. 79, 63-75. 
+Feldhamer, G.A., Gates. J.E.. Harman, D.M., Loranger, 
+A.J. & Dixon. K.R. (1986) Effects of instate fencing  
+on White-Tailed Deer activity. J. Wilcll. ~Llgiizi~t, 50,  
+497-503.  
+Ferris, C.R. (1979) Effects of Interstate 95 on breeding 
+birds in northern Maine. J Wildl. 1Vlgi?717t, 43, 421-427. 
+Forbes, B.C. (1992) Tundra disturbance studies. 1: long- 
+term effects of vehicles on species richness and biomass. 
+Environ. Coil.i.erl! 19, 48-58. 
+Forbes, B.C. (1995) Tundra disturbance studies, 111: short 
+term effects of Aeolian sand and dust. Yamal Region, 
+Northwest Siberia. Enviroi7. Coi~aeri; 22, 335-344. 
+Forman, R.T.T. (1995) Corridor  attributes, roads, and 
+powerlines. Land I?IO.FLI~CS:ecology of' lai7iirci1pes
+ille  
+ancl regions, pp. 145-176. Cambridye University Press.  
+Cambridge.  
+Garland Jr., T. &Bradley, W.G. (1984) Effects of a highway 
+011 Mojave Desert rodent populations. Ain ~Lliill. Arirt. 
+111, 49-56. 
+Getz, L.L., Cole, F.R. & Gates. D.L. (1978) Interstate 
+roadsides as dispersal routes for iblici~oi~~.i.penn.~~~lvai~ic~ia. 
+Ecol 59, 208-213. 
+Gilbert. O.L. (1989) Roads. Tlie ecologj. qf iiihiin liabitcit.i., 
+pp. 145-164. Chaplnan and Hall Ltd., New York. 
+Gjessing. E., Lygren, E., Andersen. S., Berglind, L., 
+Carlberg, G., Efraimsen, H., Kallqvist, T. & Martinsen, 
+K. (1984) Acute toxicity and chemical characteristics of  
+moderately polluted runoff from highways. Sci. ioicil  
+Ei7viroii. 33, 225-232.  
+Greszta, J. (1982) Accumulation of heavy metals by certain 
+tree species. C'i.hai7 ecologpT1ze second Etiiopean 
+Ecological Sj.ii?j)o.i.iLlii? Berlin, 8-12 Sepieinber 1980 (ed. 
+by R. Bornkamm, J.A. Lee and M.R.D. Seaward), 
+pi,. 161-165. Blackwell Scientific Publications, Oxford. 
+Haigh, M.J., Rawat, J.S., Rawat, M.S., Bartarya, S.K. & 
+Rai, S.P. (1995) Interactions between forest and landslide 
+activity along new highways in the Kun~aun Himalaya. 
+Foi: Ecol. 1Wgiizi7i. 78, 173-189. 
+Hansen, K. & Jensen, J. (1972) The vegetation on roadsides 
+on Denmark: a qualitative and quantitative comparison. 
+Don.rk hot. Ark. 28, 2. 
+Havlin, J. (1987) Motorways and birds. Foliii sool. 36. 
+137-153. 
+Hellawell. J.M. (1988) Toxic substances in rivers and 
+streams. Enviroi7. Pollz~t. 50, 61-85. 
+Hill, D. (1992) The iiizpaci of nolye ai7cl nrtificicil liglit on 
+~vciterfou,l beliovioiir: n revie~v niid aj.rit1ie.i.i.r of in'ailcihle 
+literotzire, p. 32. British Trust for Ornitholoyy, Tring. 
+Hodgen, R. &Ford, C.D. (1985) The planning, design and 
+construction of a bypass through an area of outstanding 
+natural beauty. Proc. lilsi. Civil Engra, 78, 1065-1083. 
+Homer, R.R. & Mar, B.W. (1983) Guide for assessing 
+water-quality impacts of highway operations and 
+maintenance. Ticinapn Res. Rec. 948, 47-55. 
+Howarth, L.S. (1991) Highway construction and wetland 
+loss: lnitigation banking programs on the southeastern 
+0 1998 Blacksell Science Ltd. Clohiil Ecology niid Biogeogri~pl~j 
+Letters. 7. 317-313 
+
+
+330 
+Ian E Spellerberg 
+United States. 
+E11i;ii.o111?7e17/i11
+The 
+Profes.i.ioi~nI. 13, 
+139-144. 
+Hunt. A,, Dickens, H.J. & Whelan, R.J. (1987) Movement 
+of mammals through tunnels under railway lines. Aliat. 
+Zool. 24. 89-93. 
+IEA (1995) G~~ideli1ze.rfor hoaeliile ecologicirl os.i.eaaiiieizt, 
+p. 140. Institute of Environmental Assessment & E & 
+FN Spon, London. 
+Illner, H. (1992a) Effect of roads with heavy trafic on 
+Grey Partridge (Perclix pezlix) density. Gibier F O L I I I ~  
+Srrzn'cige, 9, 467480. 
+Illner,  H. (1992b) Road deaths of Westphalian owls: 
+methodological problems. influence of road type and 
+possible effects on population levels. The ecology irnd 
+colz.rerwtiol7 of E~~ropenn 
+o1~1.i(ed. by I.R. Galbraith, 
+I.R. Taylor and S. Percival), pp. 94-100. Joint Nature 
+Conservation Committee. Peterborough. (UK Nature 
+Conservation No. 5). 
+IUCN (1996) To~~ri.i.171, 
+and protected 
+ecuto~~ris~n 
+arecia, 
+p. 284 IUCN, Gland. 
+Johnson, N.P. (1990) Nestiny  Bald Eayles (Hci1iaeer~1.r 
+le~icoce~~/iirl~ia)urban areas of southeast Alaska:
+in 
+assessing highway construction and disturbance impacts. 
+Tiailspi~Res. Rer. 1279, 60-68. 
+Kanlmerbauer, H.. Selinyer, H.. Ronlmelt. R., Ziegler 
+Jons, A,, Knoppik, D. & Hock, B. (1986) Toxic effects 
+of exhaust enlissions on spruce Picen iibies and their 
+reduction by the catalytic converter. Enl'iron. Poll~~t. 
+(Series A ) .  42. 133-142. 
+Kearsley, G.W. (1990) Tourism development and user's 
+perceptions of wilderness in southern New Zealand. 
+ALI.F/.Geogt: 21, 127-140. 
+Kober W.W. & Kehler. S.E. (1987) An analysis of desiyn 
+features in mitigating highway construction impacts on 
+streams. Tviinapn Res. Rec. 1127, 50-60. 
+Korn, H. (1991) Rapid repopulation by s~nall ~namlnals 
+of an area isolated by roads. iMcri?7iiziiliii. 55, 629-632. 
+Kupfer. J. (1996) Patterns and determinants of edge 
+veyetation of a midwestern forest preserve. P11j.s. Geog. 
+17, 62-76. 
+Lamont, B.B., Rees, R.G.. Witkowski, E.T.F. & Whitten, 
+V.A. 
+(1994) 
+Comparative 
+size, 
+fecundity 
+and 
+ecophysioloyy of roadside plants of Brii~I~.i.iii
+hookeriirizir. 
+J. irppl. Ecol. 31, 137-144. 
+Lane, D. (1976) The vegetation of roadsides and adjacent 
+far~nland of the Mornington Peninsula. Victoria, 
+A~lstralia.Weecl Res. 16, 385. 
+Langton, T.E.S., (Ed). (1989) Anij)l1ibii117.i. rind rocidi.. 
+Proceeiiii~ga of the Tond Ttci~nel Conference, Rendaberg, 
+FRG, Jal7~iirr). 1989, p. 202. ACO Polymer Products 
+Ltd., Shefford, Enyland. 
+Larwood. J.G. & Markham, D. (1995) Rondsc~ndgeologici~l 
+conaervatio17-ii iiii.cuaaio~zcloc~uizenr,28 English Nature, 
+Peterborough. 
+Laursen, K. (1981) Birds on roadside verges and the effect 
+of mowing on frequency and distribution. Biol. Con.i.er1'. 
+20, 59-68. 
+Leedy. D.L.. (1978) Highways and wildlife: implications 
+for n~anagen~ent. 
+Clii.i..i.$cii/ion, irivei~tor); irlzd iinai)..i.i.r 
+of/i.i.li iincl~~ilcllif'e 
+Pi.oceedi17g.i. of'ii i\'ationirl 
+Iznbitnt-The  
+SJ'I?~PO.F~UI?~, 
+1111. 363-383. Fish and Wildlife Service, US 
+Depart~nent of the Interior, Maryland. 
+Lelievre, M. & Serodes. J.B. (1995) A new approach for 
+the identification of environ~nental issues at stake in a 
+roading project. 
+Elzvirolz. iMg1?71zt, 44, 221-231. 
+Lister. D.B. (1992) The argument for mitigation-case 
+studies of impact ~nitiyation concerning Anadronlous 
+Salmonid habitat. ,4177. Ei.rlz. Soc. Synzp. 13, 115-124. 
+Lonsdale, W.M. & Lane, A.M. (1994) Tourist vehicles as 
+vectors of weed seeds in Kakadu National Park, 
+northern Australia. Biol. Conseri, 69, 277-283. 
+Macdonald. I.A.W. & Frame. G.W. (1988) The invasion 
+of introduced species into nature reserves in tropical 
+savannas and dry woodlands. Biol. Coilaerv. 44. 67-93. 
+Macdonald, I.A.W., Loope, L.L., Usher, M.B. & Hamann, 
+0 .  (1989) Wildlife conservation and the invasion of 
+nature reserves by introduced species: a global 
+perspective. Biological iniiiaioris-ir 
+globirl peral~ective 
+(ed. by J.A. Drake. H.A. Mooney, F. di Castri, R.H. 
+Groves. F.J. Kruger, M. Rej~nanek and M. Williamson), 
+pp. 215-255. SCOPE & John Wiley & Sons, New York. 
+Maddison, D.. Pearce. D., Johansson. O., Calthrop. E.. 
+Litman, T. & Verhoef, E. (1996) The true cost of roan' 
+/rn17apor/,Blueprint 5, p. 192. Earthscan Publications 
+Ltd, London. 
+Mader, H.J. (1984) Animal habitat isolation by roads and 
+agricultural fields. Biol Con.i.er\'. 29, 81-96. 
+Mader, H.J., Schell, C. & Kornacker, P. (1990) Linear 
+barriers to arthropod movements in the landscape. Biol. 
+Coii.rer\', 54, 209-222. 
+Madsen, A.B. (1993) Fcrzti~ii pn.range.r in connection i ~ i t l ~  
+lnrge rond.q.ste1?7.i., fI Hei/gelrog.r,hi it.^, bircii. irnd vesearch 
+of 
+~ f ~ e c t s ,  53 pp. 
+Miljonlinisteriet, 
+Danmarks 
+Miljoundersogelser. 
+Madsen, A.B. (1996) The ecology nncl con.reriiition of' tile 
+otter (Lutra lutra) iri Deniiziirk. PhD thesis, Danlnarks 
+Miljoundersogelser. 
+Majer. J.D. & Beeston. G. (1996) The Biodiversity Index: 
+an illustration usiny ants in Western Australia. Coi~aeri; 
+Biol. 10, 65-73. 
+Maltby. L., Forrow, D.M.. Boxall, A.B.A.. Calow. P. & 
+Betton, C.I. (1995) The effects of motorway runoff on 
+freshwater ecosystems: 1. Field study. Environ. Tosicol. 
+Ciieiiz. 14, 1079-1092. 
+Mansergh, I.M. & Scotts, D.J. (1989) Habitat continuity 
+and social organisation of the ~nountain pyymy-possum 
+restored by tunnel. J. Wilcll. i2.1g~~~n/, 
+53, 701-707. 
+Marrs, R.H., Frost, A.J., Plant, R.A. & Lunnis, P. (1992) 
+The effects of herbicide drift on semi-natural veyetation: 
+the use of buffer zones to ~llininlize risks. A.i.1~ect.r Api,i 
+Biol. 29, 57-64. 
+Marsh, D.M. & Pearman, P.B. (1997) Effects of habitat 
+fragmentation 011 the abundance of two species of 
+Leptodactylid froys in an Andean ~nontane forest. 
+Con.i.eri. Bioi 11, 1323-1328. 
+May, S A. & Norton, T.W. (1996) Influence of 
+fray~nentation and disturbance on the potential impact 
+0 1998 Blacksell Science Ltd, Globiii Ecoio~gj nrirl Biogeogr~iphv Leftem. 7. 317-333 
+
+
+Ecological effects of roads 
+33 1 
+of feral predators on native fauna in Australian forest  
+ecosystems. C.S.'R. 0. Wilcll. Res 23, 387400.  
+Merriam, G.. Kozakiewicz, M., Tsuchiya, E. & Hawley, 
+K. (1989) Barriers as boundaries for metapopulations  
+and de~nes of Peroiilyscits le~icopiia in farm landscapes.  
+Lcinii~c. Ecol. 2. 227-235.  
+Michael. E.D. (1986) Use of roadside plantings by 
+sonybirds for nesting. Trnnspn Rex Rec. 1075. 19-20. 
+Morris, P.A. & Morris, M.J. (1988) Distribution and 
+abundance of hedgehog (Erinnceli.~ eliropne~c.r) on New 
+Zealand roads. A7.Z. J. Zool. 15, 491498. 
+Munyuira, M.L. &Thomas, J.A. (1992) Use of road veryes 
+by butterfly and burnet populations, and the effect of 
+roads on adult dispersal and mortality. 
+npl~l, Ecol. 29, 
+316-329. 
+Murphy. E.C. & Dowding, J.E. (1994) Range and diet of 
+Stoats (~M~oteln 
+in a New Zealand beech forest. 
+erii~inen)  
+IVZ. J Ecol. 18, 11-18.  
+Murphy, S.M. & Curatolo, J.A. (1987) Activity budgets 
+and movement rates of caribou encountering pipelines, 
+roads, and traffic in northern Alaska. Ccii~.J. Zool. 65, 
+2483-2490. 
+Muskett. C.J. & Jones, M.P. (1980) The dispersal of lead, 
+cad~niuln and nickel fro111 noto or vehicles and effects on 
+roadside invertebrate macrofauna. Enl'iron. Polliit. 23, 
+231-242. 
+Newbey, B.J. & Newbey. K.R. (1987) Bird dynamics of 
+Foster Road Reserve, near Ongerup, Western Australia. 
+h'cit~ire conaeri;ntiol7: the role of reinncinta of' nntive 
+vegetiition (ed. by D.A. Saunders. G.W. Arnold, A.A. 
+Burbridge and A.J.M. Hopkins). pp. 341-343. Surrey 
+Beatty & Sons Pty Ltd.. Chipping Norton. 
+Nieuwenhuizen, W. & Apeldoorn, R.C. van (1995) 
+,2.[(11?71?7nluse of' f'niinci pci.r.i.ngea on ncitioncil road A1 nt 
+Oliiei~znnl.p. 47. Directorate-General for Public Works 
+and 
+Water 
+Management, 
+Road 
+and 
+Hydraulic 
+Engineering Division, Delft, The Netherlands. 
+Noss, R.F. (1995) The ecologiccil ejyect.r of' ronds, or the 
+rocid to destriiction, pp. 11-21. Unpublisl~ed Report. 
+Wildlands CPR, U.S.A. 
+Owens, L.K. & James, R.W. (1991) Mitiyation of traffic 
+~nortality of endanyered Brown Pelicans on coastal 
+bridges. Trcmspn Res. Rec. 1312, 3-14. 
+Oxley, D.J., Fenton, M.B. & Carmody, G.R. (1974) The 
+effects of roads on populations of small mammals. J. 
+f i p ~ ~ i
+Eco~.11, 5 1-59. 
+Parr, T.W. & Way, J.M. (1988) Manage~nent of roadside 
+ueyetation: the lony-term effects of cutting. J. i!ppl. Ecol. 
+25, 1073-1087. 
+Pedevillano, C. & Wriyht. R.G. (1987) The influence of 
+visitors on ~nountain goat activities in Glacier National 
+Park. Montana. Bioi Coilaerl:, 39, 1-1 1. 
+Przybylski, Z. (1979) The effects of automobile exhaust 
+gases on the Arthropods of cultivated plants. meadows 
+and orchards. Eilviron. Poll. 19, 157-161. 
+Queensland Department of Main Roads (1997) Roi!cla in 
+the 
+Ii,et 
+tropics. 
+Plcin17i17g, deaigii, 
+cori.rtr~ictio17, 
+ii?ciinte17n17ce nncl ope~ation clrift beat prnctice i?7i!11~inl, 
+O 1998 Black\lell Science Ltd, Globul Ecology orid Biogeogrcil~l~y 
+Document No. 66515, p. 243. Gutteridge, Haskins & 
+Davey Pty Ltd. Queensland. 
+Ramsay. D. (ed.) (1994) Roadr itnil 17ntzire coizser1vttio17. 
+G~iiclnnceon iinj)cict.~, ii~itigiition ii17clenl1n17cei?7ent, 
+81 pp. 
+English Nature, Peterborough. 
+Reed. D.F. (1981) Mule Deer behaviour at a highway 
+underpass exit. J. Wilcll. ~Jfgini~t, 
+45, 542-543. 
+Reed, R.A., Johnson-Barnard. J. & Baker, W.L. (1996) 
+Contribution of roads to forest fragmentation in the 
+Rocky Mountains. Conseri; Biol. 10, 1098-1106. 
+Reid, J.W. & Bowles, 1.A. (1997) Reducing the impacts of 
+roads on tropical forests. Ei~i;iroi~ii~ei~t.
+39. 10-13. 
+Reijnen. R. & Foppen, R. (1994) The effects of car traffic 
+on breeding bird populations in woodland. I. Evidence 
+of reduced 
+habitat quality for willow warblers 
+(P/Z~//O.FCOIJLI~
+lroc/zibi.r)breeding close to a highway. J. 
+cippl. Ecol. 31. 85-94. 
+Reijnen. R., Foppen. R.. Ter Braak, C. & Thissen, J. 
+(1995b) The efects of car traffic on breeding bird 
+populations in woodland. 111. Reduction of density in 
+relation to the proxi~nity of main roads. 
+cipl~l. Ecol. 
+32, 187-202. 
+Reijnen, M.J.S.M., Veenbass. G.& Foppen, R.P.B. (1995a) 
+Predicting the effects o/'nzotor~i,i!~. 
+triiffic on breeding bird 
+pop~tli!tio17.r.92 pp. Road and Hydraulic Engineering 
+Division & DLO-Institute 
+for Forestry and Nature 
+Research, Delft. 
+Reuter, J.E., Djohan, T. & Goldman, C.R. (1992) The use 
+of wetlands for nutrient removal from surface runoff in 
+a cold climate region of California-results 
+from a newly 
+constructed wetland at Lake Tahoe. 'Environ. ~Mgtiznt, 
+36, 35-53 
+Reznicek, A.A. (1980) Halophytes along a Michigan 
+roadside with comments on the occurrence of halophytes 
+in Michiyan. ~Mich. Bor. 19, 23-30. 
+Rich, A.S., Dobkin. D.S. & Niles, L.J. (1994) Defining 
+forest fragmentation by corridor width: the influence of 
+narrow forest-dividing corridors on forest-nesting birds 
+in Southern New Jersey Conseri; Biol . 8. 1109-1121 
+Rodch. G.L. & Kirkpatrick, R.D. (1985) Wiltllifc use of 
+roadside woody plantings in Indiana. Ti.ciii,ipiiRe5. Rec. 
+1016. 11-15. 
+Robinson, 
+G.R. & 
+Quinn, 
+J.F. 
+(1992) 
+Habitat 
+fragmentation, species diversity, extinction, and design 
+of nature reserves. Al~l~lieclpoi,iilcitio17 biology (ed. by 
+S.K. Jain and L.W. Botsford), pp.223-248. Kluwer 
+Academic Publishers, Dordrechdt. 
+Rodriguez-Flores, M. & Rodi-iyuez-Castellon E. (1982) 
+Lead and cad~nium levels in soil and plants near 
+highways and their correlation with traffic density. 
+Eili;iron. Polhit, (Serie.~ B). 4. 281-290. 
+Romin, L.A. & Bissonette, J.A. (1996) Deer-vehicle 
+collisions: status of state monitoring activities and 
+mitigation efforts. Cl'ilcl. Soc. Blill. 24, 276-283. 
+Salisbury. R. (1996) A de.rigi~ for .rttidyiilg edge eflect.~ in 
+forests, Working Paper 9606. p. 32. Graduate School of 
+the 
+Environment, 
+Macquarie 
+University. 
+Sydney, 
+Australia. 
+Salvig. J.C. (1991) F(i;irlinnpnaaager i,f'orhinclelse riied storre 
+
+
+332 Ian E Spellerberg 
+vejto~lneg. Fagliy rapport fra DMU, nr. 28, p.67. 
+Danmarks Miljoundersogelser. 
+Samways, M.J. (1989) Insect conservation and landscape 
+ecology: a case-history of Bush Crickets (Tettigoniidae) 
+in southern France. Ei7i;iron. Con.~ei\'. 16, 217-226. 
+Sangwine, A.P. (1992) The establishn~ent and ~nanagement 
+of roadside planting. A.rpecta Appl. Biol. 29, 195-201. 
+Sarkar, R.K.. Banerjee, A. & Mukherji. S. (1986) 
+Acceleration of peroxidase and catalase activities in 
+leaves of wild dicotyledonous plants, as an indication 
+of automobile exhaust pollution. Enviroil. Poll~ti. (Seriea 
+A ) ,  42. 289-295. 
+Saunders. D.A. & Hobbs. R.J. (1991) ~\~nt~iie
+conseivation 
+2: tile role of'coriiiiois, 442 pp. Surrey Beatty. Chippiny 
+Norton. 
+Saunders. D.A., Hobbs, R.J. & Elirlicl~,P.R. (1993) ~Vnti~re 
+coi~.~eivntioi? 
+offingii?enieii eco.u.ateiiza, 
+3: recoi?.~triictioi~ 
+326 pp. Surrey Beatty, Chipping Norton. 
+Scanlon, P.F. (1987) Heavy metals in small mam~nals in 
+roadside e~lviro~lrne~lts-implicationsfor food chains. 
+Sci. rornl Eiiviion. 59. 317-323. 
+Schmidt, W. (1989) Plant dispersal by motor cars. 
+Vegetcitio, SO, 147-152. 
+Schmitt, R.J.& Osenberg, C.W.(1996)Detecti~lgccological 
+iinpncr.~: concepts find cii,pliuition.~ in conatnl 1inbiini.r. 
+401 ~ p .  
+Acadelnic Press. San Diego. 
+Schonewald-Cox, C. & Buechner, M. (1992) Park 
+protection and public roads. Conaervtirioi~ Bio1og)-ilie 
+tlieory cinii pitictice of r~citziie coil.reivnrion, pre.i.ei~'citioi? 
+tiilii innnageiileilt (ed. by P.L. Fieldler and S.K. Jain), 
+pp. 373-395. Chapman Hall, New York. 
+Seabrook, W.A. & Dettmann, E.B. (1996) Roads as activity 
+corridors for Cane Toads in Australia. '1ViltIi ~llgn~izf, 
+60, 363-368. 
+Sherburne, J. (1985) Wildlife populations utilizing right- 
+of-way habitat along Interstate 95 in northern Maine. 
+Titin.rpii Res. Rec. 1016, 16-20. 
+Singer, F.J., Lanylitz, W.L. & Samnelson, E.C. (1985) 
+Design and construction of highway underpasses used 
+by mountain goats. 77ciiispiz Res. Rer. 1016, 6-10. 
+Sinnadurai. S. (1981) High pressure sodium street lights 
+affect crops in Ghana. PVoiIci rrops (NovIDec), 120-122. 
+Smith, D.S. (1993) Greenway case studies. Ecology of 
+gieenn,nys-ciesign 
+tind fliiicfioii qf liiienr corzsei1'iitioi7 
+orens (ed. by D.S. Smith and P. Hellmund), pp. 161-208. 
+University of Minnesota Press, Minneapolis. 
+Smith, W.H. (1976) Lead contamination of tlie roadside 
+ecosystem. J. Air Pollur. Control A.rs. 26, 753-765. 
+Southerland. M.T. (1995) Conserving biological diversity 
+in highway devlopment projects. The Eiiviioi~~nenroi 
+Proj'essioi~nl.17. 226-242. 
+Spellerberg, I.F. (1991) Biogeographical 
+basis 
+for 
+conservation. The srieiirific intintigernenr of feinper.tire 
+coii~iiz~irzifiesfor. consrivciriorz. 31st Symposium of the 
+British Ecological Society (ed, by I.F. Spellerberg, F.B. 
+Goldsmith and M.G. Morris). pp. 293-322. Blackwell 
+Scientific Publications, Oxford. 
+Spellerberg, I.F. & Gaywood, M.J. (1993) Liileni fenrures: 
+lirzeoi Iinhifiifs tiiltl i~~ilillife 
+coriitlois, English Nature 
+Research Report No. 60. 30pp. English Nature, 
+Peterborough. 
+Spellerberg, I.F. & Morrison. T. (1998) The ecological 
+effects of new roads - a literature review. Science for 
+Con.reii;ntioi~, 84. 
+Department 
+of 
+Conservation, 
+Wellington, New Zealand. 
+Spencer, H.J. & Port, G.R. (1988) Effects of roadside 
+conditions on plants and insects. 11. Soil conditions. J. 
+~illpl. E C O ~  
+25. 709-715. 
+Swift, L.W. (1986) Filter Strip widths for forest roads in 
+the southern Appalachians. Soiitlz. J iippl. Foror: 10,27734. 
+Swihart, R.K. & Slade, N.A. (1984) Road crossing in 
+Sigi?~oiioi?Iiispid~tsand ~Microiiis ocl~iognsiei: J ,2.lninii?ni 
+65, 357-360. 
+Thompson. J.R.. Rutter, A.J. & Ridout, P.S. (1986) The 
+salinity of motorway soils 11. Distance from the 
+carriayeway and other sources of local variation in 
+salinity. J. iil~pl. Ecol. 23, 269-280. 
+Thrasher, M.H. (1983) Highway impacts on wetlands: 
+assessment, n~itigation, and enl~ancement measures. 
+Tiiol.rpn Res. Rec. 948, 17-20. 
+Timmins. S.M. & Williams. P.A. (1990) Reserve design 
+and ~nanagement for weed control. Alterizati~'e.~to tile 
+clzeii?icni coi7irol of ~veeii~(ed, by C. Bassett, L.J. 
+Whitehouse and J.A. Zabkiewicz). FRI Bulletin 155, 
+pp. 133-138. Ministry of Forestry, Forest Reseach 
+Institute, Rotorua, New Zealand. 
+Transfund NZ (1997) Project evnliicition i?lni~~inl, 
+No. 
+PFM2, p. 201. Transfund New Zealand, Wellinyton. 
+Travis, M.D. & Tilsworth. T. (1986) Fish passage through 
+Poplar Grove Creek Culvert, Alaska. Ti,nnspn Re.r. Rec. 
+1075. 21-26. 
+Trimble. G.R. & Sartz, R.S. (1957) How far from a stream 
+should a logging road be located? J For. May, 1957. 
+339-341. 
+Tyser, R.W. &Worley. C.A. (1992) Alien flora in grasslands 
+adjacent to road and trail corridors in Glacier National 
+Park, Montana (U.S.A.). Coiiser~: Biol. 6, 253-262. 
+U.S. Department of the Interior (1996) EIS No. 960048, 
+Finn1 EIS, ;VPS, ,CII, Becrvei. Bosiiz Rim Road Piojecf. 
+476pp. U.S. Department of the Interior, National Park 
+Service, Michigan. 
+Usher, 
+M.B. (1987) Effects 
+of 
+fragmentation 
+on 
+communities and populations: a review with applications 
+to wildlife conservation. 1Vnfiir.e coii.rei~,nfion: tile r.oie of' 
+r.eii7ntiiits of' rzorive vegertrrioii (ed. by D.A. Saunders, 
+G.W. Arnold, A.A. Burbidge and A.J.M. Hopkins). 
+pp. 103-121. Surrey Beatty & Sons Pty. Ltd., Chipping 
+Norton. 
+Usher, M.B. (1988) Biological invasions of nature reserves: 
+a search for generalisations. Bioi Corzsei~~. 
+44, 119-135. 
+Verboom, J. (1995) Dispersoi of irninlciir nnci iiifi'clsri uctiii.e. 
+A n7oileI sfucly: sirminnq., p. 8. Directorate-General for 
+Public Works and Water Management, Road and 
+Hydraulic Engineering Division, Delft, The Netherlands. 
+Vernieulen, H.J.W. (1994) Corridor f~~nction 
+of a road 
+verge for dispersal of Stenotopic Heathland Ground 
+Beetles Carabidae. Biol. Conser.~~. 
+69, 339-349. 
+O 1998 Blackwell Science Ltd. Globcii Etologi. iiiid Biogeogrriphy Lrtrer.7, 7, 317-333 
+
+
+Vestjens, W.J.M. (1973) Wildlife mortality on a road in 
+New South Wales. Einu, 73, 107-112. 
+Vos. C.C. & Chardon, J.P. (1998) EfTects of habitat 
+fragmentation and road density on the distribution 
+pattern of the moor frog Rnrzn nr1,niis. J. 1.111pi Ecoi 35, 
+44-56. 
+Wace, N. (1977) Assessmellt of dispersal of plant 
+species-the 
+car-borne flora in Canberra. Esoric species 
+irz Ai/.rfi.nlin-fheii. esfilhlishi~~erzf 
+and si/ccess (ed. by D. 
+Anderson), Volume 
+10. Pror. 
+Etoi 
+Sor. Ailsfl. 
+pp. 167-186. 
+Walker, D.A. & Everett, K.R. (1987) Road dust and its 
+ellvirollmental impact on Alaskan Taiga and Tundra. 
+Arrf. Alp. Res. 19, 479489. 
+Ward, A.L. (1982) Mule Deer behaviour in relation to 
+fencing and underpasses on Interstate 80 in Wyoming. 
+fi.cir~spr~Res. Rec. 859. 8-13. 
+Ward, N.I., Brooks, R.R. & Reeves. R.D. (1974) Effect of 
+lead from motor vehicle exhausts on trees along a major 
+thoroughfare in Pallnerstoll North, New Zealand. 
+Envirorz. Poiluf. 6, 149-158. 
+Warner, R.E. (1985) Demography and movements of free- 
+ranging domestic cats in rural Illinois. J. M'ilcll. ~ U g n ~ n t .  
+49, 340-346. 
+Warner, R.E. (1992) Nest ecology of grassland passerines 
+on road rights-of-way in central Illinois. Bioi Conserv. 
+59. 1-7. 
+Watkins, L.H. (1981) Eii~~ironnient(/l
+ii,lpiict oj'r.oiicl,r ciiid 
+rrirJjic, 268 pp. Applied Science Publishers. London. 
+Watson, V.J., Rice, P.M. & Monnig, E.C. (1989) 
+Environmental fate of Picloram used for roadside weed 
+control. J Enl~iroi7, Q ~ ~ c i i  
+18, 198-205. 
+Way, J.M. (1977) Roadside verges and conservation in 
+Britain: a review. Bioi Conser~!12. 65--74. 
+Wells. M., Langton. T., Garland, L. & Wilson. G. (1996) 
+The value of inotorway verges for reptiles-a 
+case study. 
+Rel~tiie siirl'ey i.izefliods: pi.oceedirzg.r of' (1 seniinni: 
+~\;ol,enihei.1993 n f  tile Zooiogircii Sociery of Londorz (ed. 
+by J. Foster and T. Gent), English Nature Science No. 
+27, pp. 174-181. English Nature, Peterborough. 
+Weste. G. (1977) Future forests-to 
+be or not to be. 
+Vicfoi,in:s Resolii.ce.s. 19. 26-27. 
+Ecological effects of roads 
+333 
+Wester, L. & Juvik, J.O. (1983) Roadside plant 
+communities on Maulla Loa, Hawaii. J Biogeogi: 10, 
+307-316. 
+Westing, A.H. (1969) Plants and salt in the roadside 
+environment. Pilyropcirhoiogy. 59. 1174-1 18 1 
+Wilcox, D.A. (1989) Migration and control of purple 
+loosetrife 
+(L~I/II.UIIZ 
+L.) along highway
+snlicnrin  
+corridors. Enl~iron. ~l;lgiilnt, 13. 365-370.  
+Wilcox, B.A. & Murphy, D.D. (1985) Conservatioll 
+strategy: the effects of fragmentation on extinction. A I ~ I .  
+"Vcir. 125. 879-887. 
+Williams-Linera, G. (1990) Vegetation structure and 
+environmental conditions of forest edges in Panama. J. 
+Erol. 78, 356-373. 
+Wilson, J.B., Rapson. G.L., Sykes, M.T.. Watkins, A.I. & 
+Williams, P.A. (1992) Distributions and climatic 
+correlatiolls of some exotic species along roadsides in 
+South Island. New Zealand. J. Biogeogi: 19, 183-194. 
+Wong, M.H., Cheung. Y.H. & Wong, W.C. (1984) Effects 
+of roadside germination and root growth of Bvn.~.~icii 
+ciliriensi.r and B. Pnrcrchiiieii.ris. Sri. forill Erz~~iroiz. 
+33, 
+87-102. 
+World Bank (In press) Roads ili~d tile erlviron~nenr. The 
+World Baiik, Eiiviroiliiieatally sustaiiiable developnieiit 
+Vice-Presidency, p. 203. Transportation, Water & Urban 
+Development 
+Department, 
+Transport 
+Division. 
+Washington. 
+Yanes, M., Velasco. J.M. & Suarez, F. (1995) Permeability 
+of roads and railways to vertebrates: the iinportallce of 
+culverts. Bioi. Corzsei.~! 71, 217-222. 
+Young, A. & Mitchell, N. (1994) Microclimate and 
+vegetation edge effects in a fragmented podocarp-
+broadleaf forest in New Zealand. Biol. Consei.1: 67. 
+63-72. 
+Yousef, Y.A., Baker, D.M. & Hvitved-Jacobsen, T. (1996) 
+Modeling and impact of metal accumulation in bottom 
+sediments of wet ponds. Sci. rotni Eiivirorz. 1891190, 
+349-354. 
+Zande, A.N. van der. Keurs. W.J. teu & Weijden, W.J. 
+van der (1980) The impact of roads on the densities of 
+four bird species in an open field habitat-evidence 
+of 
+a long-distance effect. Biol. Conseri: 18, 299-321. 
+Q 1998 Black\vell Science Ltd, Globnl Ecology iinrf Biogrogrnpily Lrtter.7, 7, 317-333 

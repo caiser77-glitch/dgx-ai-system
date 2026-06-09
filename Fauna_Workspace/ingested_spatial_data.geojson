@@ -1,0 +1,534 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4851,
+          37.4912
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "species": "수달",
+        "traces": "D",
+        "count": 2,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅰ급 / 천연기념물",
+        "order": "식육목",
+        "family": "족제비과",
+        "scientificName": "Lutra lutra",
+        "latitude": 37.4912,
+        "longitude": 127.4851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320056,
+          37.651611
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "species": "삵",
+        "traces": "D",
+        "count": 1,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅱ급",
+        "order": "식육목",
+        "family": "고양이과",
+        "scientificName": "Prionailurus bengalensis",
+        "latitude": 37.651611,
+        "longitude": 127.320056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.313972,
+          37.643111
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "species": "원앙",
+        "traces": "V",
+        "count": 15,
+        "class": "조류",
+        "protected": "천연기념물",
+        "order": "기러기목",
+        "family": "오리과",
+        "scientificName": "Aix galericulata",
+        "latitude": 37.643111,
+        "longitude": 127.313972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31225,
+          37.641472
+        ]
+      },
+      "properties": {
+        "surveyId": 1,
+        "species": "남생이",
+        "traces": "V",
+        "count": 1,
+        "class": "양서파충류",
+        "protected": "멸종위기 Ⅱ급 / 천연기념물",
+        "order": "거북목",
+        "family": "돌거북과",
+        "scientificName": "Mauremys reevesii",
+        "latitude": 37.641472,
+        "longitude": 127.31225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4851,
+          37.4912
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "species": "수달",
+        "traces": "F",
+        "count": 4,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅰ급 / 천연기념물",
+        "order": "식육목",
+        "family": "족제비과",
+        "scientificName": "Lutra lutra",
+        "latitude": 37.4912,
+        "longitude": 127.4851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320056,
+          37.651611
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "species": "삵",
+        "traces": "F",
+        "count": 2,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅱ급",
+        "order": "식육목",
+        "family": "고양이과",
+        "scientificName": "Prionailurus bengalensis",
+        "latitude": 37.651611,
+        "longitude": 127.320056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31225,
+          37.641472
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "species": "남생이",
+        "traces": "V",
+        "count": 4,
+        "class": "양서파충류",
+        "protected": "멸종위기 Ⅱ급 / 천연기념물",
+        "order": "거북목",
+        "family": "돌거북과",
+        "scientificName": "Mauremys reevesii",
+        "latitude": 37.641472,
+        "longitude": 127.31225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.306361,
+          37.637639
+        ]
+      },
+      "properties": {
+        "surveyId": 2,
+        "species": "금개구리",
+        "traces": "V",
+        "count": 2,
+        "class": "양서파충류",
+        "protected": "멸종위기 Ⅱ급",
+        "order": "무미목",
+        "family": "개구리과",
+        "scientificName": "Pelophylax chosenicus",
+        "latitude": 37.637639,
+        "longitude": 127.306361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4851,
+          37.4912
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "species": "수달",
+        "traces": "D",
+        "count": 6,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅰ급 / 천연기념물",
+        "order": "식육목",
+        "family": "족제비과",
+        "scientificName": "Lutra lutra",
+        "latitude": 37.4912,
+        "longitude": 127.4851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320056,
+          37.651611
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "species": "삵",
+        "traces": "D",
+        "count": 2,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅱ급",
+        "order": "식육목",
+        "family": "고양이과",
+        "scientificName": "Prionailurus bengalensis",
+        "latitude": 37.651611,
+        "longitude": 127.320056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.326417,
+          37.656222
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "species": "독수리",
+        "traces": "V",
+        "count": 2,
+        "class": "조류",
+        "protected": "멸종위기 Ⅱ급 / 천연기념물",
+        "order": "매목",
+        "family": "수리과",
+        "scientificName": "Aegypius monachus",
+        "latitude": 37.656222,
+        "longitude": 127.326417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.317361,
+          37.653056
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "species": "매",
+        "traces": "V",
+        "count": 1,
+        "class": "조류",
+        "protected": "멸종위기 Ⅰ급 / 천연기념물",
+        "order": "매목",
+        "family": "매과",
+        "scientificName": "Falco peregrinus",
+        "latitude": 37.653056,
+        "longitude": 127.317361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.309194,
+          37.648611
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "species": "황조롱이",
+        "traces": "V",
+        "count": 5,
+        "class": "조류",
+        "protected": "천연기념물",
+        "order": "매목",
+        "family": "매과",
+        "scientificName": "Falco tinnunculus",
+        "latitude": 37.648611,
+        "longitude": 127.309194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31225,
+          37.641472
+        ]
+      },
+      "properties": {
+        "surveyId": 3,
+        "species": "남생이",
+        "traces": "V",
+        "count": 2,
+        "class": "양서파충류",
+        "protected": "멸종위기 Ⅱ급 / 천연기념물",
+        "order": "거북목",
+        "family": "돌거북과",
+        "scientificName": "Mauremys reevesii",
+        "latitude": 37.641472,
+        "longitude": 127.31225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4851,
+          37.4912
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "species": "수달",
+        "traces": "D",
+        "count": 8,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅰ급 / 천연기념물",
+        "order": "식육목",
+        "family": "족제비과",
+        "scientificName": "Lutra lutra",
+        "latitude": 37.4912,
+        "longitude": 127.4851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4851,
+          37.4912
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "species": "수달",
+        "traces": "V",
+        "count": 1,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅰ급 / 천연기념물",
+        "order": "식육목",
+        "family": "족제비과",
+        "scientificName": "Lutra lutra",
+        "latitude": 37.4912,
+        "longitude": 127.4851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.320056,
+          37.651611
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "species": "삵",
+        "traces": "D",
+        "count": 4,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅱ급",
+        "order": "식육목",
+        "family": "고양이과",
+        "scientificName": "Prionailurus bengalensis",
+        "latitude": 37.651611,
+        "longitude": 127.320056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.326417,
+          37.656222
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "species": "독수리",
+        "traces": "V",
+        "count": 30,
+        "class": "조류",
+        "protected": "멸종위기 Ⅱ급 / 천연기념물",
+        "order": "매목",
+        "family": "수리과",
+        "scientificName": "Aegypius monachus",
+        "latitude": 37.656222,
+        "longitude": 127.326417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.330194,
+          37.658667
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "species": "참매",
+        "traces": "V",
+        "count": 1,
+        "class": "조류",
+        "protected": "멸종위기 Ⅱ급 / 천연기념물",
+        "order": "매목",
+        "family": "수리과",
+        "scientificName": "Accipiter gentilis",
+        "latitude": 37.658667,
+        "longitude": 127.330194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.31225,
+          37.641472
+        ]
+      },
+      "properties": {
+        "surveyId": 5,
+        "species": "남생이",
+        "traces": "D",
+        "count": 1,
+        "class": "양서파충류",
+        "protected": "멸종위기 Ⅱ급 / 천연기념물",
+        "order": "거북목",
+        "family": "돌거북과",
+        "scientificName": "Mauremys reevesii",
+        "latitude": 37.641472,
+        "longitude": 127.31225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          37.5
+        ]
+      },
+      "properties": {
+        "surveyId": 100,
+        "species": "테스트_좌표_종",
+        "traces": "D",
+        "count": 1,
+        "class": "포유류",
+        "protected": null,
+        "order": null,
+        "family": null,
+        "scientificName": null,
+        "latitude": 37.5,
+        "longitude": 127.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          37.5
+        ]
+      },
+      "properties": {
+        "surveyId": 101,
+        "species": "수달",
+        "traces": "D",
+        "count": 1,
+        "class": "포유류",
+        "protected": "멸종위기 Ⅰ급 / 천연기념물",
+        "order": "식육목",
+        "family": "족제비과",
+        "scientificName": "Lutra lutra",
+        "latitude": 37.5,
+        "longitude": 127.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1,
+          37.6
+        ]
+      },
+      "properties": {
+        "surveyId": 101,
+        "species": "고라니",
+        "traces": "V",
+        "count": 2,
+        "class": "포유류",
+        "protected": false,
+        "order": "우제목",
+        "family": "사슴과",
+        "scientificName": "Hydropotes inermis",
+        "latitude": 37.6,
+        "longitude": 127.1
+      }
+    }
+  ]
+}

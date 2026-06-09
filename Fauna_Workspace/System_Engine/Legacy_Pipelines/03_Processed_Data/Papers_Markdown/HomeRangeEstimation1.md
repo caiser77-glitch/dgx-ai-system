@@ -1,0 +1,181 @@
+--- 
+source: HomeRangeEstimation1.pdf
+--- 
+
+FW 471 
+Analysis of Radiotelemetrv Data 
+ 
+I) 
+Analysis of Radio Telemetry  
+Radio telemetry data obtained with homing or triangulation methods can be used to estimate home 
+range, resource selection or survival rates. Radio telemetry data allows managers and researchers to 
+determine “precise” (depends) location for an individual animal over time, observe behavioral 
+characteristics such as movement and space use, and to identify cause and time of death. Let’s 
+examine the design issues, data collection, and analysis for home range estimation. 
+ 
+II) Data – Radio telemetry data allows researcher to identify an animal’s use of space over time 
+1) Home range is considered the “area traversed by the individual animal in its normal 
+activities of food gathering, mating, and caring for young” (Burt 1943). The home range is 
+believed to contain many of the essential requirements for an animal, such as food, cover, 
+and water.  A territory, in contrast, is usually defined as the defended part of the home 
+range. 
+2) Core Area Use - internal use of the home range showing the area of concentrated activity,  
+sometimes considered the non-random use of space within the home range. 
+3) Utilization Distribution – probability density function of locations used to assess an 
+animal’s probability of occurrence at each point in space (Worton 1987).  Used to evaluate 
+home range as well as intensity of use within the home range. 
+ 
+III) Data and Design Issues for Home Range estimation using radiotelemetry data 
+1) Home range estimation using telemetry involves two levels of experimental units – 
+individual animals and measurement of each animal’s movement over time.  This leads to a 
+two-stage sampling process: 1) select a random sample of animals from the population of 
+interest for capture and “tagging” with a radiotransmitter, and 2) sample each radio-marked 
+animal at some regular frequency, allowing for temporal and spatial independence among 
+subsequent telemetry locations.   
+2) Spatial data (based on telemetry) used for home range estimation are 3-dimensional – they 
+have attributes of latitude (x-coordinate), longitude (y-coordinate), and time.  Locations are 
+given by xi, yi coordinates (they are bivariate) where i represents time. 
+3) Because of the time-dependence in area traversed, home range is only a meaningful concept 
+when referenced to a particular time period (e.g., home range during the breeding season; 
+annual home range). 
+4) Home range estimators are sensitive to sample sizes used to construct estimates.  Important 
+to assess required sample size so that results of study can be attributed to biological 
+differences, not the sample size used.  General rule for most home range estimators is >50 
+independent locations recorded per individual in order to be reliable, though this is quite 
+variable.  Can use area-observation curve to assess sample size to determine at which point 
+additional locations do not result in increase estimate of home range size (Odum and 
+Kuenzler 1955).  Area-observation curves can be created by sequentially removing (or 
+adding) animal locations to see how sample size affects home range size. 
+ 
+IV) Assumptions of Radiotelemetry data 
+1) The effect of transmitter on animals is negligible 
+ Assume that by placing transmitter on (or in) an animal, that the behavior, risk of 
+predation, and physiological demands on that animal is not different from non-tagged 
+animals.   
+
+
+FW 471 
+Analysis of Radiotelemetrv Data 
+ 
+ Effects of transmitters can include hair or feather loss, entanglement, impaired 
+movement, impaired foraging, disruption of breeding behavior, increased metabolic 
+costs, increased risk of predation.  
+ Complete telemetry studies should include an assessment of effects of transmitters on 
+subjects.  Difficult to test because transmitters usually used to make observations that are 
+difficult or impossible to make otherwise. One approach is to compare behavior of 
+tagged individual to untagged mate.  Another approach is to compare behavior of tagged 
+bird at nest versus untagged bird at nest as has been done with Prairie Falcons where saw 
+no effects on behavior for nest attendance, prey delivery, or prey catching (Vekasy et al. 
+1996).  
+ General recommendations to decrease effects of transmitters on animals: use smallest 
+transmitter possible (3% rule ratio of transmitter to body mass for birds and small 
+mammals), allow time for acclimation, avoid tagging during breeding season, accurately 
+fit harness. 
+ 
+2) Locations are temporally independent 
+ Definition: location of individual animal at time t is independent of its location at time 
+t+1.  
+ Temporal independence requires that subsequent observations be spaced in time. If radio 
+telemetry locations too close together in time, called dependent or autocorrelated (data is 
+redundant).   
+ Temporally dependent data may cause the daily distance traveled, as well as the home 
+range, to be underestimated.   
+ Decrease autocorrelation by increasing the time between locations. Conceptually, as the 
+time between locations increases, the degree of autocorrelation decreases.  
+ Theoretically, there is a time interval when successive observations are not correlated.  
+Assess minimum “time to independence” by randomly selecting a few animals for 
+continuous monitoring to evaluate how long takes to cross largest part of home range, 
+then space relocations at intervals sufficient to allow the animal to traverse its entire 
+home range.  
+ Problem:  restricting sampling effort to ensure statistical independence may sacrifice 
+biological significance.  For example, it may not be possible to get enough relocation 
+data to achieve temporal statistical independence and still be able to make biological 
+conclusion.  If the study is infeasible, important to know this before start the study.  
+Generally need to balance the importance of temporal independence with the study 
+objectives.   
+ Generally good idea to use systematic sampling for relocations (some specific time 
+interval such as once per day) to try to achieve biological significance as well as 
+eliminate temporal bias. 
+ This assumption can sometimes be relaxed as methods do exist to handle 
+autocorrelation. Why? Because we are often interested in the dependence of the 
+locations, i.e., we’d like to no what an animal does sequentially. It might be important 
+from a behavior point of view or to adequately delineate an animal’s home range.   
+(i) 
+These methods often focus on each animal as the experimental unit or a replicate 
+and the series of movements of each animals are then considered to be independent 
+of other animals.  
+ 
+ 
+
+
+FW 471 
+Analysis of Radiotelemetrv Data 
+ 
+3) Locations are spatially independent 
+ Definition: one individual animal’s position does not influence another individual’s 
+position.  
+ Problems can arise when movements and habitat use of one animal affects the 
+movements and habitat use of another animal, e.g., a mother with young, mated pair, 
+herding animals, or territorial animals.  Spatial independence is violated whenever two 
+radio-tagged animals are together at the same time and space.   
+ When assessing spatial dependence, try to evaluate whether individuals are inherently 
+reliant on each other for survival, or whether animals may occur together due to 
+favorable habitat conditions.   
+ Spatial independence requires that you use (analyze) only one randomly selected 
+observation from a dependent group, such as only one individual from a family group or 
+mated pair whenever possible.   For example, some studies only radio 1 individual of a 
+family group. This may reduce sample size.  Try to distribute transmitters in a random, 
+yet biologically independent manner (not just statistical independence, biological 
+independence also important).  
+ 
+4) Location estimates are unbiased and precise.   
+ To evaluate bias and precision use a “beacon” study.  Get estimates of transmitters in 
+known locations (Estimated locations are dots, while the true location is the circle at the 
+center. The average of the dots ideally is unbiased and precise.): 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bias: distance between estimated location to true location (requires a beacon test).   
+ Precision: Bearing error defines confidence intervals around location estimates.     
+ Precision defined by “error polygon”: intersection of two 95% CI’s around estimated 
+bearings, each representing 1.96 (SE) of bearing. 
+ Precision improves as increase the number of receiver sites.  Big increase in precision 
+from 2 to 3 sites.  Important to optimally allocate receiver sites.   
+ 
+References: 
+ 
+Bookhout, T. A.  (editor) pages  in: Research and management techniques for wildlife and habitats, 
+5th edition.  The Wildlife Society, Bethesda, Maryland.  
+ 
+Burt, W. H.  1943.  Territoriality and home range concepts as applied to mammals.  Journal of 
+Mammology 24:346-352. 
+ 
+Odum, E. P., and E. J. Kuenzler.  1955.  Measurement of territory and home range size in birds.  
+Auk 72:128-137. 
+ 
+Vekasy, Marzluff, Kochert, Lehman, and Steenhof.  1996.  Influence of radio transmitters on Prairie 
+Falcons.  Journal of Field Ornithology  67:680-690. 
+ 
+  
+ .   .  .  
+ . . . 
+Estimated 
+location 
+(Mean) 
+       X 
+(True value)
+Precision 
+Bias 
+
+
+FW 471 
+Analysis of Radiotelemetrv Data 
+ 
+White, G. C., and R. A. Garrott.  1990.  Analysis of wildlife radio-tracking data.  Academic Press, 
+London. 
+ 
+Worton, B. J.  1987.  A review of models of home range for animal movements.  Ecological 
+Modelling 38:277-298. 

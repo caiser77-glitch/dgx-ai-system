@@ -1,0 +1,143 @@
+--- 
+source: WEBER.pdf
+--- 
+
+RE-INTRODUCTION EXPERIENCE IN SWITZERLAND 
+ 
+Jean-Marc WEBER 
+ 
+KORA, Thunstrasse 31, 3074 Muri, Switzerland.  email: jmweber@bluewin.ch  
+ 
+ 
+At the end of the 19th century, otters (Lutra lutra) were common in the Swiss waters: so 
+common, in fact, that members of the Swiss parliament considered this species a threat to the 
+fishing industry and consequently decided to reduce their numbers considerably.  Hunting was 
+open, and bounties paid for every kill.  Unsurprisingly, otter numbers decreased very quickly.  
+Facing a dramatic situation, full protection was given to the species in 1952. At that time, 
+around 150 otters were thought still to be living in Switzerland.  However, despite their 
+protected status, numbers kept decreasing and there were only ten to 15 individuals left in the 
+late 1970s. 
+  
+The first attempt to re-introduce otters to Switzerland was carried out in 1975 on the 
+Schwarzwasser-Sense catchment.  This area was chosen on the basis of a comparative study 
+on the suitability of 16 waterways as otter habitats (MÜLLER, 1980).  Four pairs of wild-
+caught otters from Bulgaria were released in May and December 1975.  These were regularly 
+tracked until 1982, when footprints of young individuals were found (WEBER, WEBER AND 
+MÜLLER, 1991).  As the re-introduction on the Schwarzwasser catchment was apparently a 
+success, and otters from captivity were readily available, a Swiss Otter Group was founded in 
+1984.  Its main objective was to re-establish a viable otter population in Switzerland through 
+additional releases.   
+ 
+ 
+Figure 1. Potential habitats for the otter in Switzerland, 1997. 
+A: Lake Neuchâtel; B: River Aar 
+50 km
+A
+B
+Suitable otter habitat 
+Sub-optimal otter habitat 
+
+
+ 
+ 
+However, before any release, two main questions had to be addressed:  
+ 
+i) what regions provide sufficient food resources for a minimal breeding population of otters? 
+ii) what regions are attractive to otters, but could also be potentially dangerous for them? 
+ 
+At first glance, two regions appeared suitable, western Switzerland and canton Tessin.  Nearly 
+1,400 kilometres of river bank and lake shore were evaluated in these areas. Factors such as 
+fish biomass, plant cover, human disturbance and potential risks were investigated.  In total, 
+315 kilometres of banks were considered suitable for otters and 512 kilometres sub-optimal, 
+fish biomass being the critical factor (WEBER, WEIDKUHN AND HOHL, 1988).  A year later, in 
+1989, potential habitats were searched for otter signs, and only one site (1 site = 1 km) out of 
+1,350 was positive (0.07%).  This was located on the south east shore of Lake Neuchâtel 
+(Figure 1: WEBER AND WEBER 1991).   
+Moreover and interestingly, no sign was found on the Schwarzwasser catchment 
+suggesting a failure of the re-introduction attempt carried out in 1975.  In this regard, factors 
+affecting otter populations are well documented.  Thus, in the 1980s, one hypothesis related 
+Polychlorinated biphenyl (PCB) contamination and otter decline in European countries.  
+Could organochlorine pesticides have played a major role in otter disappearance from the 
+Swiss waters?   
+To address this question, PCB concentrations were measured in 76 fish [mainly trout 
+(Salmo spp.), burbot (Lota lota) and perch (Perca perca)] collected in the main rivers and 
+lakes of the country.  Concentrations higher than 0.5 mg/kg fresh weight were considered 
+problematic and potentially dangerous for otters.  PCB levels in fish were much higher than 
+this limit – 16.8 times higher in one instance - in all but two prospected water bodies (WEBER, 
+1990).  Under these circumstances, the Swiss Otter Group dropped the idea of re-introducing 
+otters in Switzerland and finally dissolved.  
+  
+In 1997, as part of a national programme to restore riverine habitats in Switzerland, 
+WWF was interested in obtaining an updated evaluation of potential otter habitats, including 
+waterways, in central and eastern Switzerland.  The same criteria as used in 1988 were 
+examined (i.e. fish biomass, cover and disturbance).  According to this study, the distribution 
+of potential otter habitats had not changed much over the decade, most of them occurring in 
+western Switzerland (Figure 1: WEBER, 1997).  At that time, and despite the lack of a 
+permanent and rigorous monitoring, PCBs were still supposed to be present in high 
+concentrations in fish tissues. In addition, as revealed later in a study on fish populations 
+(BURKHARDT-HOLM, PETER AND SEGNER  2002), fish numbers started to decline dramatically 
+all over the country during the late 1990s.  Decreases in fish numbers higher than 30% were 
+recorded in most main Swiss rivers from 1997 to 2001.  Reproductive failure in fish due to 
+endocrine disruption and/or to changes in water temperature (1.5 to 2oC over the past 20 
+years), amongst other factors, could explain this sudden decline (BURKHARDT-HOLM, PETER 
+AND SEGNER, 2002).  The conclusion was that, in this context, any otter re-introduction 
+attempt may be considered very hazardous, and hence should be postponed until 
+environmental and trophic conditions have significantly improved.  All partners involved in 
+otter conservation fully agreed with this decision. 
+However, recently, the unexpected happened.  In spring 2004, an otter was observed 
+on two occasions by three naturalists in a Nature Reserve located on the south east shore of 
+Lake Neuchâtel.  Another observation was recorded by a fisherman in the River Aar in 
+October 2004 (Figure 1: Weber 2004).  These observations were not confirmed until spring 
+
+
+2005, when spraints were found in the region (D. WEBER, personal communication).  This 
+finding raises the question of the animal’s origin.  Four hypotheses may be put forward:  
+ 
+First, this or these otter(s) is (are) remnant individual(s) of the former population 
+established in the Lake Neuchâtel area and of which the tracks were observed for the last time 
+in 1989.  This scenario seems very unlikely, because otters and/or their signs would certainly 
+have been found in the intervening period (i.e. a 15 year-period) by attentive birders and 
+naturalists visiting the Nature Reserve.   
+Another explanation is a spontaneous return of the species to Switzerland.  From 1998 
+to 2001, six otters have been re-introduced in the neighbouring Alsace (France).  Should this 
+small population breed regularly and expand, a spontaneous return to north western 
+Switzerland is not excluded.  On the other hand, it is less probable that otters would disperse 
+directly from Alsace to the Swiss Plateau, and by chance colonise the best remaining otter 
+habitat in Switzerland.  Numerous potentially dangerous obstacles are distributed all along the 
+possible colonisation ways.   
+Thirdly, otter(s) could have escaped from captivity.  However, no such escapee has 
+been recorded in the regional zoos.   
+Lastly, these observations could result from an unofficial otter re-introduction.  
+Circumstantial evidence and persistent rumours suggest that one or two otters could have been 
+released in this Nature Reserve a few months before the first observation was made.  Besides 
+being illegal, according to the Swiss federal law for hunting and protection of mammals and 
+birds, this release makes no sense considering the precariousness of environmental conditions 
+for otters.  It must therefore be vigorously condemned. 
+Presently, Switzerland is far from being an otter heaven.  However, the situation may 
+greatly improve if major efforts are concentrated on fish and pesticides monitoring, habitat 
+restoration including creation of corridors, public information, and prosecution of illegal otter 
+releases.   Should these conditions be fulfilled, otters may eventually find a suitable place to 
+recover.  
+ 
+ 
+REFERENCES 
+ 
+BURKHARDT-HOLM, P., PETER, A. & SEGNER, H. 2002. Decline in fish catch in Switzerland. Project Fishnet: a 
+balance between analysis and synthesis. Aquatic Sciences, 64: 36-54. 
+MÜLLER, H. U. 1980. Die Wiedereinbürgerung des Fischotters am Beispiel Schweiz. In: Der Fischotter in 
+Europa, Verbreitung, Bedrohung, Erhaltung (Edited by Reuther, C. & Festetics, A.) Pp 267-271. Selbstverlag, 
+Oderhaus und Göttingen..  
+WEBER, D. 1990. The end of the otter in Switzerland. Cahier de l’Environnement 128, OFEFP, Berne [in French 
+or German with English summary]. 
+WEBER, D., WEBER, J.-M. & MÜLLER, H.-U. 1991. Fischotter (Lutra lutra L.) im Schwarzwasser-Sense-
+Gebiet: Dokumentation eines gescheiterten Wiedereinbürgerungsversuchs. Mitt. Natf. Ges. Bern, 48: 141-152. 
+WEBER, D., WEIDKUHN, C. & HOHL, C. 1988. Habitats Potentiels de la Loutre (Lutra lutra L.) en Suisse 
+Occidentale et au Tessin. Unpublished report, Hintermann & Weber, Reinach [in French or German]. 
+WEBER, J.-M. 1997. Potential Habitats for the Otter in Switzerland: a New Assessment. Unpublished report, 
+WWF-Switzerland, Geneva [in French with English summary]. 
+WEBER, J.-M. 2004. Vers un Retour Naturel de la Loutre en Suisse ? Unpublished report, WWF-Switzerland, 
+Zurich [in French]. 
+WEBER, J.-M. & WEBER, D. 1991. The otter (Lutra lutra L.) in western Switzerland, 1989. In: Proceedings of 
+the Fifth International Otter Colloquium, Hankensbüttel 1989. (Edited by Reuther, C. & Röchert, R.).  Habitat, 
+6:  53-55. 
+ 

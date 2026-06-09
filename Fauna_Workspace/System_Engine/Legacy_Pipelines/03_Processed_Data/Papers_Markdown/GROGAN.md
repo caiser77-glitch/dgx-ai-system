@@ -1,0 +1,722 @@
+--- 
+source: GROGAN.pdf
+--- 
+
+ 
+1
+ROAD ACCIDENTS: ARE THEY A SIGNIFICANT THREAT TO THE SURVIVAL OF THE 
+OTTER? 
+ 
+Adam GROGAN 
+Wildlife Department, RSPCA HQ, Wilberforce Way, Southwater, Horsham, RH13 5ST, England, UK 
+email: agrogan@rspca.org.uk  
+ 
+Abstract:  The Eurasian otter has made a dramatic and welcome recovery to many of the river systems within the 
+UK, following its decline in the mid-1950s caused by agricultural intensification.  This new expanding otter 
+population is now seen to be under a threat from a new range of anthropogenic causes.  One such threat is the 
+expansion of new roads and the upgrading of existing ones which creates hazards for unwary otters. In addition the 
+otter population in England has now spread to the Midlands where many existing roads have no facilities to allow 
+individuals to cross safely. 
+However, as roads kill many tens of otters in this country each year, does this actually have a big enough 
+impact to affect the otter population?  This is a difficult question to answer as data from the field, in the form of 
+casualty reports and post mortems, do not provide enough information about populations as a whole. As the otter is 
+a wide-ranging animal, the habitat fragmentation and destruction caused by road schemes may not have major 
+consequences for the species as alternative habitats may be readily available (from the otters’ point of view). 
+Pollution problems may also be avoided in the same way. The main affect will therefore be road casualties, but the 
+data from post mortems, excellent for providing information on individuals, may be misleading in terms of 
+population dynamics. 
+This paper discusses the causes of road casualties and whether these will actually affect the population of 
+otters in the UK. 
+ 
+Keywords. Eurasian otter, Lutra lutra, road casualties. 
+1   INTRODUCTION 
+The publication in May 2003 of the 4th Otter Survey of England (CRAWFORD, 2003) confirmed 
+that the Eurasian otter (Lutra lutra) is recolonising much of its former range in England after the 
+decline in population that started in the mid-1950s.  Despite this success there are fears that the 
+reoccupation of former habitats may be compromised if other threats to otters cannot be curtailed 
+or contained.  One such threat is road accidents; 208 have been reported killed in south west 
+England (Cornwall, Devon, Dorset and Somerset) since the start of 2000.  This figure is 
+astonishingly high considering HARRIS ET AL. (1995), estimated the pre-breeding populations of 
+otters in England in the mid 1980s to be only 350.  How does such high mortality threaten the 
+survival of the otter?  
+ 
+ 
+2   PROBLEMS CREATED BY ROADS 
+ 
+Otters are not the only animal killed on roads, nor is this a problem limited to the UK. There are 
+numerous papers recording the incidence of road traffic accidents (RTAs) in many countries 
+covering a variety of species (Table 1).  Nor are such collisions the only way that roads affect 
+species. Disturbance, in the form of noise, pollution and associated run-off, and even light 
+
+
+ 
+2
+pollution can affect the behaviour of some species.  Habitat destruction and fragmentation 
+degrade both terrestrial and aquatic habitats, which can lead to species decline and extinction. 
+ 
+Table 1. A sample of papers from across the world discussing the problem of roads and mammals. 
+ 
+Country 
+Reference 
+Species Killed 
+Numbers of 
+Casualties 
+Duration 
+Tanzania 
+DREWS, 1995 
+Yellow 
+baboon 
+African civet 
+Spotted hyena 
+ 
+15 
+20 
+17 
+15 months 
+Australia 
+LINTERMANS & CUNNINGHAM , 
+1999 
+Easter grey 
+kangaroo 
+1068 
+30 months 
+USA 
+ROMIN & BISSONETTE, 1996 
+Deer 
+500,000 
+1991 
+Belgium 
+HOLSBEEK, RODTS  & 
+MUYLDERMANS , 1999 
+Hedgehog 
+European hare 
+Red squirrel 
+1281 
+313 
+219 
+24 months 
+Holland 
+HUIJSER, 2000 (citing Huijser & 
+Bergers, 1998) 
+Hedgehog 
+113,000 - 
+340,000 
+Per annum 
+Nebraska, 
+USA 
+CASE, 1978 
+Raccoon 
+Skunk 
+Opossum 
+Badger 
+502 
+205 
+139 
+79 
+12 months 
+1975 
+USA 
+INBAR & MAYER, 1999 
+Armadillo 
+143 
+13 months 
+ 
+Roads cut through the landscape, obliterating some habitats and dividing others.  Species that are 
+wide ranging, such as the otter, may need to cross these roads to access all areas within their 
+range.  This can expose the individuals of such species to traffic and therefore collisions.  The 
+effect of a car colliding with an otter is usually fatal for the animal.  Furthermore there are 
+welfare implications in these collisions; animals hit by cars could take a long time to die and 
+dependent cubs are vulnerable if their mother is killed, unless located and taken into care.  
+However the effects of road casualties on the population and whether there are associated 
+ecological (rather than ethical) reasons for installing mitigation such as otter tunnels, are much 
+harder to assess. 
+   
+Roads can also benefit some species as their construction can provide opportunities to 
+create new habitats, as has been demonstrated by the flourishing of rare flora on some road 
+verges.  Such habitats need to be managed carefully so that they do not create conflicts within 
+them. 
+ 
+ 
+3   PREVIOUS ANALYSES OF OTTER ROAD CASUALTIES 
+ 
+The fact that the otter is a species of high conservation value, and that the National Otter 
+Biodiversity Steering Group had identified roads as a major cause of concern, encouraged the 
+Highways Agency to fund research into otter road casualties, completed in two stages: a desk 
+study to analyse trends in otter road casualty records (PHILCOX, GROGAN AND MACDONALD, 
+1999) and subsequent field work (GROGAN, PHILCOX AND MACDONALD, 2001).  Data were 
+collected on 673 otter road casualties recorded between 1971 and 1996 from the whole of the UK 
+(Figure 1). 
+
+
+ 
+3
+                 Figure 1. The location of casualty records and regions from PHILCOX ET AL, 1999. 
+ 
+ 
+ 
+100 km
+Scotland
+Wales
+England
+Islands
+N
+RTA records
+Regional borders
+south 
+west 
+
+
+ 
+4
+The analysis identified particular trends in these casualties based on season, distance from water, 
+road type and crossing type (PHILCOX, GROGAN AND MACDONALD , 1999). In summary: 
+ 
+• The sex ratio was biased to males at a ratio of 1.28:1; 
+• There was a seasonal trend with 66.5% of otters killed between October and March; 
+• Both rainfall and river flow were positively correlated with the number of RTAs, but stronger 
+association to one or other of these variables was noted in different regions; 
+• Otters killed on a watercourse were 1.36 times more likely to be killed at culverts than 
+bridges;  
+• Trunk roads accounted for 57.3% of casualties, despite only comprising 13.1% of the road 
+network; 
+• The number of RTAs was linked to population density. Higher density populations (as 
+measured by site occupancy) incurred greater numbers of casualties; 
+• A zone of 100 metres from freshwater or the coast accounted for 67% of casualties. 
+ 
+The results of this work were guidelines produced as part of the Design Manual for Roads and 
+Bridges (DMRB) (HIGHWAYS AGENCY, 1999), for planners and designers of roads, which 
+recommends methods of mitigation that could be used.  Although these analyses did identify that 
+road casualties were more frequent in areas with higher otter population density (based on 
+percentage site occupancy), such data cannot demonstrate that road casualties have a detrimental 
+effect on the otter population. 
+The second stage of this project was also in two parts. First, surveys were conducted of 
+casualty sites in south west England (181 sites covering 203 casualties).  Additional sites where 
+no otter casualty had been recorded, were also surveyed to try and identify differences between 
+the samples.  Only headroom, (the distance between the trashline [as created by flooding] and the 
+underside of the bridge), and the presence of weirs or sluice gates, were statistically significant 
+factors associated with the occurrence of a road casualty.  Second, infra-red video surveillance 
+cameras were used to monitor known otter crossing sites, including locations where mitigation 
+measures had been deployed.  These demonstrated that otters will use such measures but that the 
+animals stayed in, or close to, the water, whenever possible. An analysis of behaviours shown on 
+the video demonstrated this, with behaviour relating to water being significantly more frequent 
+(with running being the exception). 
+The results of this stage of the work were produced as a report for the Highways Agency 
+(GROGAN, PHILCOX AND MACDONALD, 2001). 
+ 
+ 
+4   NEW DATA 
+ 
+Since the conclusion of the above study, the Environment Agency have continued to collect otter 
+road casualty data for south west England and Wales (Figure 2) and otter carcasses have been 
+sent for post mortem examination.  Numbers of casualties have increased (Figure 3) with the 
+previous analysis (PHILCOX, GROGAN AND MACDONALD, 1999) including 324 records for this 
+area, compared with 921 as of the end of March 2003.  
+ 
+ 
+ 
+
+
+ 
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. The location of casualty records for England and Wales to Spring 2003. South west region (Cornwall, 
+Devon, Dorset and Somerset) are defined by the black line, but analysis includes most casualties from southern 
+England. 
+ 
+south west 
+Wales 
+
+
+ 
+6
+Analysis of this substantially larger data set includes data from south west England and Wales 
+from 1971 to March 2003 (Figures 2 and 3) showed:  
+ 
+• The sex ratio was still biased to males although at a higher ratio of 1.51:1; 
+• There was still a seasonal trend with 67% of otters killed between October and March; 
+• Rainfall was still positively correlated with RTAs, for Wales and the south west, although this 
+trend was demonstrated over years and months, it was not well defined for any particular 
+year; 
+• Class “A” roads still accounted for the highest number of casualties, with 61%; 
+• Numbers of RTAs could be linked to population density, as increasing populations appeared 
+to be producing higher numbers of casualties. However the data from 2001 show a reduction 
+in road casualties from 2000 for both areas, but while the numbers of casualties in the south 
+west increased to 78 in 2002, the number of casualties in Wales continued to decline. It 
+should be noted that 2002 was one of the wettest years on record. 
+ 
+Figure 3. Numbers of otter road casualties recorded in south west England and Wales, between 1974 and March 
+2003 
+ 
+These data, although useful for identifying mortality trends do not express the effect that RTAs 
+may have on populations.  The effects of season, rainfall and road class on mortalities are 
+probably independent of population dynamics and are more dependent on region.  
+Higher rainfall and flash floods in south west England and Wales could cause higher 
+fatalities in these areas as opposed to East Anglia, for instance, where such flood events are less 
+frequent, due to climate, hydrology and topography.  If rainfall is a major factor, then animals in 
+areas prone to heavy rain (and flash floods) are at risk.  Examining the data from 1996-2002, for 
+which rainfall data are available, there appears to be a trend between the average rainfall per 
+month and the average number of otters killed (Figure 4). 
+0
+20
+40
+60
+80
+100
+71
+77
+80
+83
+85
+87
+89
+91
+93
+95
+97
+99
+01
+03
+Year
+Number of otters killed
+Wales
+Southwest
+End of first study
+(PHILCOX ET AL, 1999) 
+
+
+ 
+7
+ 
+Figure 4. Comparison between average monthly rainfall and otter casualties from 1996 to 2002, for south west 
+England and Wales. 
+ 
+Road class is probably also dependent on region (Figure 5).  Otters living in an area with a higher 
+density of class “A” roads are more likely to be killed on these roads. However this statistic needs 
+to be calculated using the density of each class of road in each region to understand if one road 
+type is more hazardous to an otter than another. 
+ 
+Figure 5. Otter road casualties for different road classes for south west England and Wales. 
+ 
+0.00
+20.00
+40.00
+60.00
+80.00
+100.00
+120.00
+140.00
+160.00
+Jan Feb Mar Apr May June July Aug Sep Oct Nov Dec
+Months
+Average rainfall for SW England and 
+Wales in mm from 1996-2002
+0.00
+1.00
+2.00
+3.00
+4.00
+5.00
+6.00
+7.00
+Average numbers of otters killed for 
+SW England and Wales from 1996-
+2002
+avg comb
+avg ott comb
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+M
+A
+B
+U
+Road class
+
+
+ 
+8
+Figure 6 shows the numbers of otters killed in south west England and the percentage positive 
+sites for otters, based on the most recent English survey.  The conclusion drawn from this is that 
+both are increasing and it could be inferred that RTAs do not appear to slow the population 
+expansion, but could be a result of it.  In areas where populations are stable, such as the Scottish 
+islands, there is no increase in casualties recorded, although there is a higher rate of casualties per 
+unit area (PHILCOX, GROGAN AND MACDONALD, 1999).  If RTAs do affect populations, the 
+effects could be subtler and the data are not available to detect these.  What is the age structure 
+and sex ratio of the population?  What percentage of otters are killed by cars as opposed to 
+disease, predation, fighting etc.?  We have age and sex ratios for the otters that are collected as 
+road casualties, but it is a biased sample.  The lack of data relating to populations, such as 
+capture-mark-recapture data, for otters makes detecting such changes extremely difficult.  Any 
+method using field signs would be more problematic, unless DNA can be extracted from them 
+(COXON ET AL, 1999); alternatively, existing studies could be used as a model (ANSORGE, 
+SCHIPKE AND ZINKE, 1997; SIDOROVICH, 1991). 
+ 
+ 
+Figure 6. Increase in road casualties in south west England compared with increasing percentage of positive sites 
+from the English otter survey. 
+ 
+5   EXTRAPOLATION OF POPULATION STRUCTURE 
+ 
+We could try and determine the population structure of the otters in different areas by 
+extrapolating from road casualties that occur in known populations, such as those released in re-
+introduction or rehabilitation programmes.  The Royal Society for the Prevention of Cruelty to 
+Animals (RSPCA) release rehabilitated otters which have microchips for identification; so far 
+none of these has been identified as road casualty victims (this is checked when the animal is 
+examined).  However it tends to be individuals or pairs of animals that are released and so the 
+sample size, particularly for a given area, is small. Seven out of 17 (41%) of the captive-bred 
+otters released by the Otter Trust into the Thames in 1999 have been picked up as road casualties 
+(CRAWFORD, 2003), but this could be a result of the density of released animals in a limited area 
+and the much higher volume of traffic in south east England.  Another study of 36 re-introduced 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+86 87 88 90 91 92 93 94 95 96 97 98 99 00 01 02 03
+Year
+Numbers of otters killed
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+% site occupancy based on 
+English surveys
+count
+% site occupation
+
+
+ 
+9
+otters in Sweden lost eight animals (22%) to traumatic deaths (two female and six male) 
+(SJÖÅSEN, 1997).  If we extrapolate from the results of these two programmes, the 78 otters killed 
+in south west England in 2002 could represent a population of between 200 and 350 in this area.  
+Animals that have been used in such release programmes may not be a good indicator of 
+behaviour in wild otters although previous studies have found that the behaviour is comparable 
+(JEFFERIES ET AL, 1986). 
+Another method of studying population dynamics is to interpret and extrapolate the data 
+from carcasses of otters, either by road kill or other means.  There are numerous other studies 
+from Europe that have examined otter mortalities (Table 2).   One looked specifically at road kills 
+and how they could be mitigated (MADSEN, 1996).  Others have used the data to describe 
+populations, with ANSORGE, SCHIPKE AND ZINKE, (1997), using the data to build a population 
+model. 
+ 
+Table 2. Comparison of sex ratios from different studies of otter deaths. 
+ 
+Reference 
+Sample size (*) 
+% RTA 
+Ratio M:F 
+Additional comments 
+HEGGEBERGET, 
+1991 
+>500 
+410 by man 
+45  
+(185 of 410) 
+1.4:1 
+ 
+KRUUK & 
+CONROY, 1991 
+113 
+42 
+ 
+M:F not indicated 
+Showed RTAs to have no bias 
+in terms of age. 
+KÖRBEL, 1994 
+303 (230) 
+100 
+1.3:1 
+ 
+MADSEN, 1996 
+115 (88) 
+100 
+1.7:1 
+ 
+ANSORGE ET 
+AL., 1997 
+225 
+64 
+1.2:1 
+Model from data suggests ratio 
+in wild population of 1:3.5 
+KRUUK ET AL. 
+1997 
+310 of 389 
+Large majority 
+ 
+Changes in age composition 
+recorded 
+SIMPSON, 1998 
+76 
+100 
+1.7:1 
+Ratio pre 1993 = 0.9:1 
+Ratio 1993-1996 = 2.2:1 
+PHILCOX ET 
+AL., 1999 
+673 (571) 
+100 
+1.28:1 
+ 
+HAUER ET AL., 
+2002 
+1067 
+69.9 
+ 
+No significant difference in 
+mortality with time between the 
+sexes. 
+BRADSHAW & 
+SLATER 2002 
+415 
+94 
+1.6:1 
+ 
+This study 
+767 
+98 
+1.5:1 
+ 
+ 
+* numbers of animals in sample that could be sexed. Sex ratio is therefore based on this sample. 
+ 
+However any extrapolation of population structure and density from RTAs is flawed as 
+the data are biased due to the method of collection, and this is demonstrated by studies of wild 
+populations caught by other means (e.g. SIDOROVICH, 1991).  For instance, road casualties are 
+normally recorded as the most common cause of death, either violent or non-violent.  This is 
+because carcasses on roads tend to be easily seen and recorded, if not collected.  Animals killed 
+by other causes, especially non-violent ones, may be exposed in areas not visited by humans, 
+remain underground, or be washed away by currents or tides and so will not be recorded . 
+It has been argued that roads are random killers, unlike natural causes which target the 
+weak (usually the young or old) (KRUUK AND CONROY, 1991).  However, if road kills are truly 
+indiscriminate, then there would be equal numbers of male and female casualties, (or at least a 
+
+
+ 
+10
+representation of the true wild ratio), but all of the studies listed below show a bias towards 
+males.  This demonstrates that there must be a behavioural trait that makes males more 
+vulnerable than females, possibly because males range further than females and that young males 
+in particular have to travel further to establish home ranges (PHILCOX, GROGAN AND 
+MACDONALD, 1999).  For instance, it has been suggested that more males are killed on roads in 
+areas where populations are expanding, due to these animals leading the recolonisation.  
+In contrast to road casualty studies, sex ratios when recorded for wild otters that have 
+been studied using other methods of data collection, show a bias towards females (SIDOROVICH, 
+1991), which is not explained in the casualty data (ANSORGE, SCHIPKE AND ZINKE, 1997).  In 
+addition, the model created by ANSORGE, SCHIPKE AND ZINKE (1997), also shows a female bias. 
+Although this may run counter to sex ratios recorded in other trapped species of mustelidae 
+(BUSKIRK AND LINDSTEDT, 1989), this bias could explain the otter’s expansion in the face of an 
+ever-increasing death toll.  The model provided by ANSORGE, SCHIPKE AND ZINKE (1997) shows 
+a predominance of females surviving through to six or seven years, with an average of around 4.7 
+years [this is higher than shown by KRUUK AND CONROY (1991)].  This intuitively makes sense; 
+adult females, surviving to this age, would be able to produce two or three litters in their lifetime, 
+possibly more.  This rate of production would be required for an expanding population, and is 
+shown to be possible in populations that are harvested on a regular basis (SIDOROVICH, 1991). 
+Another source of bias is the age structure of otters based on road casualty data.  The 
+average age for wild otters is often quoted to be 3.1 years, from KRUUK AND CONROY, (1991) and 
+SIMPSON, (1998) reports 2.9 years from casualties collected from south west England.  Although 
+both figures describe the average age of otters submitted for post mortem examinations, they 
+underestimate the percentage of older animals in the population, especially females, which are 
+required if the population is to expand. KRUUK ET AL (1997) used road casualty data to determine 
+changes in age composition of the otter population in Scotland. They found statistically 
+significant declines in the ages of female otters killed in some parts of Scotland, such as the 
+Grampian region, whereas the change was not noted on Shetland. It seems likely that this reflects 
+an increase in recruitment rates following a population decline, but interestingly, the number of 
+positive sites in this region has increased with each Scottish survey (GREEN AND GREEN, 1997). 
+Using recent otter surveys of England and Wales, percentage site occupancy could be 
+used as a crude indicator of density, to compare with road casualty data.  Unfortunately, otter 
+road casualty data tend to reflect collection effort (PHILCOX, GROGAN AND MACDONALD, 1999; 
+GROGAN, PHILCOX AND MACDONALD, 2001).  As a result, the numbers of RTAs in some areas are 
+probably much lower than would be expected. This is then compounded by fewer road casualties 
+in areas of low otter density, which limit the sample size.  There may be a difference in mortality 
+structure of otters in areas of different otter density, but teasing out these differences considering 
+the quality of the data is problematic at best.  This is particularly unfortunate as areas where otter 
+density is low are of most interest to conservation, and the role played by road casualties is of 
+particular interest.  
+So, in conclusion, the data available, especially not in its current form, cannot help 
+resolve the question of the effects of roads on otter populations.  The road casualty data alone do 
+not provide enough information on population structure.  Therefore I make two 
+recommendations: 
+ 
+• That the current data, especially that held by the Environment Agency be pooled and that a 
+thorough analysis be undertaken. This could then be used to construct a model similar to that 
+used by ANSORGE, SCHIPKE AND ZINKE(1997). 
+
+
+ 
+11
+• That efforts be made to encourage research into wild otter populations in England, possibly 
+looking at capture-mark-recapture, in order to provide a baseline on population structure.  
+ 
+6   ACKNOWLEDGEMENTS 
+The paper follows on from a contract that was commissioned and funded by the Highways 
+Agency.  Thanks go to many individuals for fielding our queries and requests for information, 
+particularly Geoff Liles; Jim Green; Rosie Green; Jim Conroy; Hans Kruuk; Paul and Grace 
+Yoxon, International Otter Survival Fund; James Williams, Somerset Wildlife Trust; Rob 
+Strachan, WildCRU; Graham Roberts, Hampshire Wildlife Trust; Kate Stokes, Cornwall Wildlife 
+Trust; Vic Simpson, Wildlife Veterinary Investigation Centre; Paul Chanin; Mary Rose Lane 
+Graham Scholey, Lyn Jenkins, Teg Jones, Marlynne Good, Louise Pettit, Environment Agency; 
+Adeline Bradshaw, Fred Slater, University of Cardiff. 
+Thanks also to colleagues at the RSPCA for comments and allowing me the time to write 
+and present this paper! 
+ 
+ 
+7   REFERENCES 
+ 
+ANSORGE, H., SCHIPKE, R. &  ZINKE, O. 1997 Population structure of the otter, Lutra lutra. Parameters and model 
+for a Central European region. Zeitschrift für Säugetierkunde, 62: 143-151. 
+BRADSHAW, A.V. AND SLATER, F.M. 2002 A Post mortem Study of Otters (Lutra lutra) in England and Wales. 
+Environment Agency (Report W1-019/TR). Bristol. 
+BUSKIRK, S.W. &  LINDSTEDT, S.L. 1989. Sex biases in trapped samples of Mustelidae. Journal of Mammalogy, 70: 
+88-97. 
+CASE. R.M. 1978. Interstate Highway Road Killed Animals: A data source for biologists. Wildlife Society Bulletin, 
+6: 5-13. 
+COXON, K., CHANIN, P., DALLAS, J. &  SYKES, T. 1999. The Use of DNA Fingerprinting to Study the Population of 
+Otters (Lutra lutra) in southern Britain: A Feasibility Study. R&D Technical Report   W202. Environment Agency, 
+Bristol. 
+CRAWFORD, A. 2003. Fourth Otter Survey of England, 2000-2002. Environment Agency (Report W1-061/TR). 
+Bristol. 
+DREWS C. 1995 Road kills of animals by public traffic in Mikumi National Park, Tanzania, with notes on baboon 
+mortality. African Journal of Ecology, 33: 89-100 
+GREEN R. AND GREEN J.  1997 Otter Survey of Scotland, 1991-1994. The Vincent Wildlife Trust. 
+GROGAN, A., PHILCOX, C. & MACDONALD D. 2001. Nature Conservation and Roads: Advice in Relation to Otters. 
+Wildlife Conservation Research Unit, Oxford. 
+HARRIS, S., MORRIS, P., WRAY, S. & YALDEN, D. 1995. A Review of British Mammals. Joint Nature Conservation 
+Committee, Peterborough. 
+HAUER, S., ANSORGE, H. & ZINKE, O. 2002. Mortality patterns of otters (Lutra lutra) from eastern Germany. 
+Journal of Zoology, London, 256: 361-368. 
+HEGGBERGET, T.M. 1991. Sex and age distribution in Eurasian otters (Lutra lutra) killed by human activity. In: 
+Proceedings of the Fifth International Otter Colloquium, Hankensbüttel1989. (Edited by Reuther, C. & Röcher, R.) 
+Habitat, 6: 123-126. 
+HIGHWAYS AGENCY. 1999. The Good Roads Guide: Nature conservation and advice in relation to otters. Design 
+Manual for Roads and Bridges. The Stationery Office. London 
+HOLSBEEK, L., RODTS, J. & MUYLDERMANS, S. 1999 Hedgehog and animal traffic victims in Belgium. Lutra, 42: 
+111-119.  
+HUIJSER M. 2000. Life on the Edge. Hedgehog Traffic Victims and Mitigation Strategies in an Anthropogenic 
+Landscape. PhD Thesis, Waginingen University, Waginingen, The Netherlands. 
+
+
+ 
+12
+INBAR M. &  MAYER R.T. 1999 Spatio-temporal trends in armidillo diurnal activity and road kills in central Florida. 
+Wildlife Society Bulletin, 27: 865-872 
+JEFFERIES, D.J., WAYRE, P., JESSOP, R.M. & MITCHELL-JONES, A.J. 1986. Reinforcing the native otter (Lutra 
+lutra) population in East Anglia: an analysis of the behaviour and range development of the first release group. 
+Mammal Review, 16: 65-79. 
+KÖRBEL O. 1994. Hindering otter (Lutra lutra) road kills. Part 1 IUCN Otter Specialist Group Bull. 10: 14-20. 
+KRUUK, H. & CONROY, J.W.H. 1991. Mortality of otters (Lutra lutra) in Shetland. Journal of Applied Ecology, 28: 
+83-94. 
+KRUUK, H., JONES, C., MCLAREN, G.W., GORMAN, M.L. & CONROY, J.W.H. 1997. Changes in age composition 
+in populations of the Eurasian otter (Lutra lutra) in Scotland. Journal of Zoology, London, 243: 853-857.  
+LINTERMANS M. & CUNNINGHAM R.B. 1999 Road-kills of the Eastern Grey Kangaroo (Macropus giganteus) in the 
+Canberra 
+urban 
+area: 
+A 
+preliminary 
+analysis. 
+ACT 
+Kangaroo 
+report 
+No.3. 
+Appendix 
+E. 
+http://www.newcastle.edu.au/discipline/biology/marsupialcrc/actkanga3/appe.html 
+MADSEN, A.B. 1996 Otter (Lutra lutra) mortality in relation to traffic, and experience with newly established fauna 
+passages at existing road bridges. Lutra, 39: 76-89 
+PHILCOX, C.K., GROGAN, A.L. & MACDONALD, D.W. 1999 Patterns of otter (Lutra lutra) road mortality in Britain. 
+Journal of Applied Ecology, 36: 748-762. 
+ROMIN, L.A.  & BISSONETTE, J.A. 1996 Deer-vehicle collisions. Status of state monitoring activities and mitigation 
+efforts. Wildlife Society Bulletin, 24: 276-283 
+SIDOROVICH, V.E. 1991. Structure, reproductive status and dynamics of the otter population in Byelorussia. Acta 
+Theriologica, 36: 153-161. 
+SIMPSON, V.R. 1998. A Post mortem Study of Otters (Lutra lutra) Found Dead in south west England. Environment 
+Agency (Technical Report W148). Bristol. 
+SJÖÅSEN, T. 1997. Movements and establishment of re-introduced European otters, Lutra lutra. Journal of Applied 
+Ecology, 34: 1070-1080. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

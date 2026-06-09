@@ -1,0 +1,2205 @@
+# 📑 Fauna Report Structure Analysis (Extended)
+
+This document includes the previously missed report structure to complete the template library.
+
+## 📄 Source: 광주산정(초안)-0811(동·식물상)_139~321-수정본-2025.02.26.pdf
+- [Page 1] 제장 환경현황조사예측평가
+- [Page 1] 8
+- [Page 1] ,
+- [Page 1] ,
+- [Page 1] ‧
+- [Page 1] 저감방안 및 사후환경영향조사
+- [Page 1] 자연생태환경분야
+- [Page 1] 8.1
+- [Page 1] 대기환경분야
+- [Page 1] 8.2
+- [Page 1] 수환경분야
+- [Page 1] 8.3
+- [Page 1] 토지환경분야
+- [Page 1] 8.4
+- [Page 1] 생활환경분야
+- [Page 1] 8.5
+- [Page 1] 사회경제환경분야
+- [Page 1] 8.6
+- [Page 3] 8.1
+- [Page 3] 자연생태환경분야
+- [Page 3] 동식물상
+- [Page 3] 8.1.1
+- [Page 3] ·
+- [Page 3] 자연환경자산
+- [Page 3] 8.1.2
+- [Page 5] 동식물상
+- [Page 5] 8.1.1
+- [Page 5] ‧
+- [Page 5] - 143 -
+- [Page 5] 제장 환경현황조사예측평가
+- [Page 5] 8
+- [Page 5] ,
+- [Page 5] ,
+- [Page 5] ‧
+- [Page 5] 저감방안 및 사후환경영향조사
+- [Page 5] 자연생태분야
+- [Page 5] 8.1
+- [Page 5] 동식물상
+- [Page 5] 8.1.1
+- [Page 5] ·
+- [Page 5] 가현황
+- [Page 5] .
+- [Page 5] 광역조사
+- [Page 5] 1)
+- [Page 5] 가
+- [Page 5] 조사항목
+- [Page 5] )
+- [Page 5] 주요종
+- [Page 5] (1)
+- [Page 5] ◦ 법정보호종(멸종위기 야생생물, 천연기념물
+- [Page 5] 광주광역시
+- [Page 5] ),
+- [Page 5] 보호종
+- [Page 5] 희귀식물
+- [Page 5] 특산식물
+- [Page 5] ,
+- [Page 5] ,
+- [Page 5] ,
+- [Page 5] 식물구계학적 특정종
+- [Page 5] 주요생물 서식공간
+- [Page 5] (2)
+- [Page 5] 생태축습지해안내륙인공
+- [Page 5] 분포현황
+- [Page 5] ,
+- [Page 5] (
+- [Page 5] ,
+- [Page 5] ,
+- [Page 5] )
+- [Page 5] ◦
+- [Page 5] 법정보호지역
+- [Page 5] (3)
+- [Page 5] ◦ 야생생물 보호구역, 습지보호지역, 천연기념물겨울철새도래지
+- [Page 5] ,
+- [Page 5] 기타
+- [Page 5] (4)
+- [Page 5] 생태자연도 등급 권역 및 별도관리구역
+- [Page 5] ·
+- [Page 5] 1
+- [Page 5] ◦
+- [Page 5] 나
+- [Page 5] 조사범위
+- [Page 5] )
+- [Page 5] 사업시
+- [Page 5] ◦
+- [Page 5] 행으로 인한 영향예측과 현지조사를 효율적으로 실시하기 위해 광역조사를 실시하였
+- [Page 5] 으며
+- [Page 5] 광역조사의 범위는
+- [Page 5] ,
+- [Page 5] 사업지구가 포함되는전국자연환경조사 도엽의 격자범위를 조사
+- [Page 5] 하였고기존 평가서 등을
+- [Page 5] ,
+- [Page 5] 대상으로 실시하였음
+- [Page 5] 다
+- [Page 5] 조사방법
+- [Page 5] )
+- [Page 5] 주요종 분포현황
+- [Page 5] (1)
+- [Page 5] ◦ 환경부
+- [Page 5] 지방자치단체
+- [Page 5] 국립환경과학원
+- [Page 5] 국립생물자원관
+- [Page 5] 국립공원관리공단 등 정부 및
+- [Page 5] ,
+- [Page 5] ,
+- [Page 5] ,
+- [Page 5] ,
+- [Page 5] 공공기관의 조사자료
+- [Page 5] 분류군별 대표적인 전문학술지관련기관 홈페이지
+- [Page 5] ,
+- [Page 5] ◦
+- [Page 6] 광주산정 공공주택지구 조성사업 환경영향평가 초안
+- [Page 6] - 144 -
+- [Page 6] 인근지역의 전략환경영향평가서
+- [Page 6] 환경영향평가서
+- [Page 6] 소규모환경영향평가서
+- [Page 6] 사후환경영향조
+- [Page 6] ,
+- [Page 6] ,
+- [Page 6] ,
+- [Page 6] ◦
+- [Page 6] 사서 등을 대상으로 실시함
+- [Page 6] ◦ 조사범위는 가장 최신자료를 포함하여 최근
+- [Page 6] 년 이내의 자료로 하되
+- [Page 6] 자연환경상 민감한
+- [Page 6] 5
+- [Page 6] ,
+- [Page 6] 지역에서 시행하는 사업 등 심도 있는 조사가 필요한 경우에는 그 이전의 자료를 포함함
+- [Page 6] 국내 주요 지맥 분포를 나타낸 산경표에 제시된 지맥과 주요 생물상을 고려한 녹지축
+- [Page 6] ◦
+- [Page 6] 생태축을 분석함
+- [Page 6] (
+- [Page 6] )
+- [Page 6] ◦ 환경공간정보서비스
+- [Page 6] 국토환경성평가지도
+- [Page 6] 등에
+- [Page 6] (egis.me.go.kr),
+- [Page 6] (ecvam.neins.go.kr)
+- [Page 6] 제시된
+- [Page 6] 각종 보호구역를 조사하여 반영함
+- [Page 6] 표
+- [Page 6] <
+- [Page 6] 8.1.1-1>
+- [Page 6] 광역조사 시 활용된 문헌목록
+- [Page 6] 구분
+- [Page 6] 문헌
+- [Page 6] 격자
+- [Page 6] 항목
+- [Page 6] 이격거리
+- [Page 6] 문헌 1
+- [Page 6] 제차 전국자연환경조사임곡식물상
+- [Page 6] 5
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] E3, E6,
+- [Page 6] E9
+- [Page 6] 식물상
+- [Page 6] 약
+- [Page 6] 2.70㎞
+- [Page 6] 제차 전국자연환경조사임곡포유류
+- [Page 6] 5
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] 포유류
+- [Page 6] 제차
+- [Page 6] 5
+- [Page 6] 전국자연환경조사임곡조류
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] 조류
+- [Page 6] 제차 전국자연환경조사임곡양서파충류
+- [Page 6] 5
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] 양서파충류
+- [Page 6] ·
+- [Page 6] 문헌 2
+- [Page 6] 제차 전국자연환경조사송정식물상
+- [Page 6] 5
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] E1, E2,
+- [Page 6] E4, E5,
+- [Page 6] E7, E8
+- [Page 6] 식물상
+- [Page 6] 내부
+- [Page 6] 포함
+- [Page 6] 제차 전국자연환경조사송정포유류
+- [Page 6] 5
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] 포유류
+- [Page 6] 제차
+- [Page 6] 5
+- [Page 6] 전국자연환경조사송정조류
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] 조류
+- [Page 6] 제차 전국자연환경조사송정양서파충류
+- [Page 6] 5
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] 양서파충류
+- [Page 6] ·
+- [Page 6] 제차
+- [Page 6] 5
+- [Page 6] 전국자연환경조사송정육상곤충류
+- [Page 6] -
+- [Page 6] (
+- [Page 6] ),
+- [Page 6] 환경부
+- [Page 6] 2020,
+- [Page 6] 육상곤충류
+- [Page 7] 동식물상
+- [Page 7] 8.1.1
+- [Page 7] ‧
+- [Page 7] - 145 -
+- [Page 7] 계속
+- [Page 7] (
+- [Page 7] )
+- [Page 7] 구분
+- [Page 7] 문헌
+- [Page 7] 격자
+- [Page 7] 항목
+- [Page 7] 이격거리
+- [Page 7] 문헌3
+- [Page 7] 장수천 하천기본계획 수립을 위한
+- [Page 7] 전략환경영향평가서
+- [Page 7] 광주광역시
+- [Page 7] , 2021,
+- [Page 7] -
+- [Page 7] 식물상,
+- [Page 7] 포유류조류
+- [Page 7] ,
+- [Page 7] ,
+- [Page 7] 양서파충류
+- [Page 7] ·
+- [Page 7] ,
+- [Page 7] 육상곤충류,
+- [Page 7] 어류저서성
+- [Page 7] ,
+- [Page 7] 대형 무척추
+- [Page 7] 동물
+- [Page 7] 내부
+- [Page 7] 포함
+- [Page 7] 문헌4
+- [Page 7] 수랑근린공원 개발행위 특례사업
+- [Page 7] 환경영향평가서
+- [Page 7] 수랑공원개발 주식회사
+- [Page 7] , 2020,
+- [Page 7] -
+- [Page 7] 식물상,
+- [Page 7] 포유류조류
+- [Page 7] ,
+- [Page 7] ,
+- [Page 7] 양서파충류
+- [Page 7] ·
+- [Page 7] ,
+- [Page 7] 육상곤충류,
+- [Page 7] 어류저서성
+- [Page 7] ,
+- [Page 7] 대형 무척추
+- [Page 7] 동물
+- [Page 7] 약
+- [Page 7] 0.89㎞
+- [Page 7] 문헌5
+- [Page 7] 년도 겨울철 조류
+- [Page 7] 2022-2023
+- [Page 7] 동시센서스
+- [Page 7] 영산강상류
+- [Page 7] -97
+- [Page 7] , 2023,
+- [Page 7] 국립생물자원관
+- [Page 7] -
+- [Page 7] 조류
+- [Page 7] 약
+- [Page 7] 2.05㎞
+- [Page 7] 문헌6
+- [Page 7] 년도 겨울철 조류
+- [Page 7] 2022-2023
+- [Page 7] 동시센서스
+- [Page 7] 황룡강
+- [Page 7] 국립생물자원관
+- [Page 7] -98
+- [Page 7] , 2023,
+- [Page 7] -
+- [Page 7] 조류
+- [Page 7] 약
+- [Page 7] 2.64㎞
+- [Page 8] 광주산정 공공주택지구 조성사업 환경영향평가 초안
+- [Page 8] - 146 -
+- [Page 8] 그림
+- [Page 8] (
+- [Page 8] 8.1.1-1)
+- [Page 8] 문헌조사 위치도
+- [Page 9] 동식물상
+- [Page 9] 8.1.1
+- [Page 9] ‧
+- [Page 9] - 147 -
+- [Page 9] 라
+- [Page 9] 조사결과
+- [Page 9] )
+- [Page 9] 사업
+- [Page 9] ◦
+- [Page 9] 지구를 중심으로
+- [Page 9] 개 격자 범위 내에는 주요종
+- [Page 9] 개 항목
+- [Page 9] 주요생물 서식공간
+- [Page 9] 개
+- [Page 9] 9
+- [Page 9] 6
+- [Page 9] ,
+- [Page 9] 2
+- [Page 9] 항목
+- [Page 9] 법정보호지역 개 항목이 확인됨
+- [Page 9] ,
+- [Page 9] 1
+- [Page 9] 표
+- [Page 9] <
+- [Page 9] 8.1.1-2>
+- [Page 9] 광역조사 총괄표
+- [Page 9] No.
+- [Page 9] 구분
+- [Page 9] 조사내용
+- [Page 9] 조사
+- [Page 9] 결과
+- [Page 9] 비고
+- [Page 9] 1
+- [Page 9] 주요종
+- [Page 9] 멸종위기 야생생물
+- [Page 9] ◎
+- [Page 9] 야생생물 보호 및 관리에 관한 법률
+- [Page 9] 2
+- [Page 9] 천연기념물
+- [Page 9] ◎
+- [Page 9] 문화유산과 자연환경자산에 관한
+- [Page 9] 국민신탁법
+- [Page 9] 2
+- [Page 9] 시도 지정 보호야생 동식물
+- [Page 9] ·
+- [Page 9] ·
+- [Page 9] ◎
+- [Page 9] 야생동식물보호법 및 시도 조례
+- [Page 9] ·
+- [Page 9] ·
+- [Page 9] 3
+- [Page 9] 희귀식물
+- [Page 9] ◎
+- [Page 9] 수목원정원법 시행규칙
+- [Page 9] 4
+- [Page 9] 특산식물
+- [Page 9] ◎
+- [Page 9] 수목원정원법 시행규칙
+- [Page 9] 5
+- [Page 9] 식물구계학적 특정종
+- [Page 9] ◎
+- [Page 9] 제차 전국자연환경조사 지침
+- [Page 9] 5
+- [Page 9] 6
+- [Page 9] 주요
+- [Page 9] 생물
+- [Page 9] 서식
+- [Page 9] 공간
+- [Page 9] 생태자연도 등급 권역
+- [Page 9] 1
+- [Page 9] ․
+- [Page 9] ◎
+- [Page 9] 자연환경보전법
+- [Page 9] 7
+- [Page 9] 습지연안내륙인공
+- [Page 9] (
+- [Page 9] ,
+- [Page 9] ,
+- [Page 9] )
+- [Page 9] ×
+- [Page 9] 환경공간정보서비스
+- [Page 9] 8
+- [Page 9] 겨울철새도래지
+- [Page 9] ◎
+- [Page 9] 환경공간정보서비스
+- [Page 9] 9
+- [Page 9] 법정
+- [Page 9] 보호
+- [Page 9] 지역
+- [Page 9] 야생생물 특별보호구역
+- [Page 9] (
+- [Page 9] )
+- [Page 9] ×
+- [Page 9] 야생생물 보호 및 관리에 관한 법률
+- [Page 9] 10
+- [Page 9] 시도생태경관 보전지역
+- [Page 9] (
+- [Page 9] ·
+- [Page 9] )
+- [Page 9] ․
+- [Page 9] ×
+- [Page 9] 자연환경보전법
+- [Page 9] 11
+- [Page 9] 생태계 변화관찰 지역
+- [Page 9] ×
+- [Page 9] 자연환경보전법
+- [Page 9] 12
+- [Page 9] 자연공원
+- [Page 9] ×
+- [Page 9] 자연공원법
+- [Page 9] 13
+- [Page 9] 백두대간 보호지역
+- [Page 9] ×
+- [Page 9] 백두대간 보호에 관한 법률
+- [Page 9] 14
+- [Page 9] 산림유전자원 보호구역
+- [Page 9] ×
+- [Page 9] 산림보호법
+- [Page 9] 15
+- [Page 9] 습지보호지역 및 습지주변관리지역
+- [Page 9] ◎
+- [Page 9] 습지보전법
+- [Page 9] 16
+- [Page 9] 수산자원 보호구역
+- [Page 9] ×
+- [Page 9] 국토의 계획 및 이용에 관한 법률
+- [Page 9] 17
+- [Page 9] 천연기념물 천연보호구역
+- [Page 9] ×
+- [Page 9] 문화재보호법
+- [Page 9] 18
+- [Page 9] 기타
+- [Page 9] 보호수
+- [Page 9] ×
+- [Page 9] 산림보호법
+- [Page 9] 주
+- [Page 9] 해당됨
+- [Page 9] 해당없음
+- [Page 9] )
+- [Page 9] :
+- [Page 9] , ×:
+- [Page 9] ◎
+- [Page 10] 광주산정 공공주택지구 조성사업 환경영향평가 초안
+- [Page 10] - 148 -
+- [Page 10] 법정보호종
+- [Page 10] (1)
+- [Page 10] 가
+- [Page 10] 멸종위기 야생생물천연기념물광주광역시 보호종
+- [Page 10] (
+- [Page 10] )
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] 문헌조사
+- [Page 10] ①
+- [Page 10] 문헌조사 결과멸종위기 야생생물 및 천연기념물은 총
+- [Page 10] 종이 보고되었음
+- [Page 10] ,
+- [Page 10] 19
+- [Page 10] ◦
+- [Page 10] - 삵멸
+- [Page 10] 수달멸
+- [Page 10] 천
+- [Page 10] 담비멸
+- [Page 10] (
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ,
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ),
+- [Page 10] Ⅱ
+- [Page 10] Ⅰ
+- [Page 10] Ⅱ
+- [Page 10] 큰기러기멸
+- [Page 10] 큰고니멸
+- [Page 10] 천
+- [Page 10] 원앙
+- [Page 10] (
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ,
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] Ⅱ
+- [Page 10] Ⅱ
+- [Page 10] 천
+- [Page 10] 황새
+- [Page 10] ),
+- [Page 10] 멸
+- [Page 10] 천
+- [Page 10] 노랑부리저어새멸
+- [Page 10] 천
+- [Page 10] 황조롱이천
+- [Page 10] 매멸
+- [Page 10] (
+- [Page 10] ,
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ,
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] Ⅰ
+- [Page 10] Ⅱ
+- [Page 10] Ⅱ, 천
+- [Page 10] 붉은배새매멸
+- [Page 10] 천
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ,
+- [Page 10] ),
+- [Page 10] Ⅱ
+- [Page 10] 새매멸
+- [Page 10] 천
+- [Page 10] 참매멸
+- [Page 10] 천
+- [Page 10] 흰목물떼새
+- [Page 10] (
+- [Page 10] ,
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ,
+- [Page 10] ),
+- [Page 10] Ⅱ
+- [Page 10] Ⅱ
+- [Page 10] 멸
+- [Page 10] (
+- [Page 10] )
+- [Page 10] Ⅱ
+- [Page 10] 두견이천
+- [Page 10] 소쩍새천
+- [Page 10] 솔부엉이천
+- [Page 10] ,
+- [Page 10] (
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] ),
+- [Page 10] 쇠부엉이천
+- [Page 10] 맹꽁이멸
+- [Page 10] (
+- [Page 10] ),
+- [Page 10] (
+- [Page 10] )
+- [Page 10] Ⅱ
+- [Page 10] 문헌조사 결과광주광역시 보호종은 총
+- [Page 10] 종이 보고되었음
+- [Page 10] ,
+- [Page 10] 20
+- [Page 10] ◦
+- [Page 10] - 뻐꾹나리
+- [Page 10] 병꽃나무
+- [Page 10] 족제비
+- [Page 10] 고라니
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] , 멧토끼
+- [Page 10] 황로
+- [Page 10] 물총새
+- [Page 10] 후투티
+- [Page 10] 큰오색딱다구리
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] 꾀꼬리
+- [Page 10] 곤줄박이
+- [Page 10] 노랑할미새
+- [Page 10] 도롱뇽
+- [Page 10] 무당개구리
+- [Page 10] 두꺼비
+- [Page 10] 청개구리
+- [Page 10] 한국산개구리
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] 자라무자치제비나비
+- [Page 10] ,
+- [Page 10] ,
+- [Page 10] 표
+- [Page 10] <
+- [Page 10] 8.1.1-3>
+- [Page 10] 법정보호종 및 광주광역시 보호종 총괄표
+- [Page 10] 분류군
+- [Page 10] 종 명
+- [Page 10] 멸종위기
+- [Page 10] 야생생물
+- [Page 10] 천연
+- [Page 10] 기념물
+- [Page 10] 광주
+- [Page 10] 광역시
+- [Page 10] 보호종
+- [Page 10] 문헌
+- [Page 10] Ⅰ
+- [Page 10] Ⅱ
+- [Page 10] 1
+- [Page 10] 2
+- [Page 10] 3
+- [Page 10] 4
+- [Page 10] 5
+- [Page 10] 6
+- [Page 10] 종합
+- [Page 10] 식물
+- [Page 10] 뻐꾹나리
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 병꽃나무
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 포유류
+- [Page 10] 삵
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 수달
+- [Page 10] 
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 담비
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 족제비
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 고라니
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 멧토끼
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 조류
+- [Page 10] 큰기러기
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 큰고니
+- [Page 10] 
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 원앙
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 황새
+- [Page 10] 
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 노랑부리저어새
+- [Page 10] 
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 황조롱이
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 매
+- [Page 10] 
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] ●
+- [Page 10] 붉은배새매
+- [Page 10] 
+- [Page 10] 
+- [Page 10] ●
+- [Page 10] ●
+- [Page 11] 동식물상
+- [Page 11] 8.1.1
+- [Page 11] ‧
+- [Page 11] - 149 -
+- [Page 11] 계속
+- [Page 11] (
+- [Page 11] )
+- [Page 11] 분류군
+- [Page 11] 종 명
+- [Page 11] 멸종위기
+- [Page 11] 야생생물
+- [Page 11] 천연
+- [Page 11] 기념물
+- [Page 11] 광주
+- [Page 11] 광역시
+- [Page 11] 보호종
+- [Page 11] 문헌
+- [Page 11] Ⅰ
+- [Page 11] Ⅱ
+- [Page 11] 1
+- [Page 11] 2
+- [Page 11] 3
+- [Page 11] 4
+- [Page 11] 5
+- [Page 11] 6
+- [Page 11] 종합
+- [Page 11] 조류
+- [Page 11] 새매
+- [Page 11] 
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 참매
+- [Page 11] 
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 흰목물떼새
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 두견이
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 소쩍새
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 솔부엉이
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 쇠부엉이
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 황로
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 물총새
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 후투티
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 큰오색딱다구리
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 꾀꼬리
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 곤줄박이
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 노랑할미새
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 양서파충류
+- [Page 11] ·
+- [Page 11] 맹꽁이
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 도롱뇽
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 무당개구리
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 두꺼비
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 청개구리
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 한국산개구리
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 자라
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 무자치
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 육상곤충류
+- [Page 11] 제비나비
+- [Page 11] 
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] ●
+- [Page 11] 종합
+- [Page 11] 종
+- [Page 11] 26
+- [Page 11] 종
+- [Page 11] 22
+- [Page 11] 종
+- [Page 11] 8
+- [Page 11] 종
+- [Page 11] 11
+- [Page 11] 종
+- [Page 11] 12
+- [Page 11] 종
+- [Page 11] 8
+- [Page 11] 종
+- [Page 11] 38
+- [Page 12] 광주산정 공공주택지구 조성사업 환경영향평가 초안
+- [Page 12] - 150 -
+- [Page 12] 주
+- [Page 12] 문헌자료 내 명확한 위치가 명시되지 않은 종은 격자범위에 표시하였음
+- [Page 12] )
+- [Page 12] (
+- [Page 12] )
+- [Page 12] 그림
+- [Page 12] (
+- [Page 12] 8.1.1-2)
+- [Page 12] 문헌조사 시 법정보호종 위치도
+- [Page 13] 동식물상
+- [Page 13] 8.1.1
+- [Page 13] ‧
+- [Page 13] - 151 -
+- [Page 13] 나
+- [Page 13] 특산식물 및 희귀식물
+- [Page 13] (
+- [Page 13] )
+- [Page 13] ◦ 문헌조사를 종합하면 특산식물은 병꽃나무
+- [Page 13] 회양목
+- [Page 13] 은사시나무
+- [Page 13] 키버들
+- [Page 13] 능수버들
+- [Page 13] 개나리
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 오동나무
+- [Page 13] 검팽나무
+- [Page 13] 종이 보고되었으며
+- [Page 13] 희귀식물은 약관심종
+- [Page 13] 뻐꾹나리
+- [Page 13] 이팝나무
+- [Page 13] ,
+- [Page 13] 8
+- [Page 13] ,
+- [Page 13] (LC)
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 검팽나무
+- [Page 13] 새박
+- [Page 13] 금강제비꽃
+- [Page 13] 측백나무
+- [Page 13] 종
+- [Page 13] 취약종
+- [Page 13] 개박하
+- [Page 13] 백리향
+- [Page 13] 모감주나무
+- [Page 13] 주목
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 6
+- [Page 13] ,
+- [Page 13] (VU)
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 종으로 총
+- [Page 13] 종이 보고됨
+- [Page 13] 4
+- [Page 13] 10
+- [Page 13] 문헌에서 병꽃나무
+- [Page 13] 은사시나무
+- [Page 13] 키버들 등
+- [Page 13] 종이 보고되었으며
+- [Page 13] 희귀식물은 약관심종
+- [Page 13] 1
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 6
+- [Page 13] ,
+- [Page 13] ◦
+- [Page 13] 뻐꾹나리
+- [Page 13] 검팽나무
+- [Page 13] 새박
+- [Page 13] 종
+- [Page 13] 취약종
+- [Page 13] 백리향
+- [Page 13] 모감주나무
+- [Page 13] 종으로 총
+- [Page 13] 종이
+- [Page 13] (LC)
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] , 3
+- [Page 13] ,
+- [Page 13] (VU)
+- [Page 13] ,
+- [Page 13] 2
+- [Page 13] 5
+- [Page 13] 보고되었음
+- [Page 13] 문헌에서 특산식물은 병꽃나무
+- [Page 13] 은사시나무
+- [Page 13] 오동나무
+- [Page 13] 검팽나무
+- [Page 13] 종이 보고되었으며
+- [Page 13] 2
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 4
+- [Page 13] ,
+- [Page 13] ◦
+- [Page 13] 희귀식물은 약관심종
+- [Page 13] 검팽나무
+- [Page 13] 새박
+- [Page 13] 금강제비꽃
+- [Page 13] 측백나무
+- [Page 13] 종
+- [Page 13] 취약종
+- [Page 13] 개박하
+- [Page 13] (LC)
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 4
+- [Page 13] ,
+- [Page 13] (VU)
+- [Page 13] 종으로 총 종이 보고되었음
+- [Page 13] 1
+- [Page 13] 5
+- [Page 13] 문헌에서 특산식물은 및 희귀식물은 보고되지 않았음
+- [Page 13] 3
+- [Page 13] ◦
+- [Page 13] 문헌에서 특산식물은 회양목
+- [Page 13] 능수버들
+- [Page 13] 개나리
+- [Page 13] 오동나무
+- [Page 13] 종이 보고되었으며
+- [Page 13] 희귀식
+- [Page 13] 4
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] ,
+- [Page 13] 4
+- [Page 13] ,
+- [Page 13] ◦
+- [Page 13] 물은 약관심종
+- [Page 13] 이팝나무
+- [Page 13] 측백나무
+- [Page 13] 종
+- [Page 13] 취약종
+- [Page 13] 주목
+- [Page 13] 종으로 총
+- [Page 13] 종이 보고되
+- [Page 13] (LC)
+- [Page 13] ,
+- [Page 13] 2
+- [Page 13] ,
+- [Page 13] (VU)
+- [Page 13] 1
+- [Page 13] 3
+- [Page 13] 었음
+- [Page 13] 표
+- [Page 13] <
+- [Page 13] 8.1.1-4>
+- [Page 13] 특산식물 목록광역조사
+- [Page 13] (
+- [Page 13] )
+- [Page 13] 학명
+- [Page 13] 국명
+- [Page 13] 문헌조사
+- [Page 13] 1
+- [Page 13] 2
+- [Page 13] 3
+- [Page 13] 4
+- [Page 13] 종합
+- [Page 13] Weigela subsessilis
+- [Page 13] 병꽃나무
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] Buxus microphylla var. koreana
+- [Page 13] 회양목
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] Populus × tomentiglandulosa
+- [Page 13] 은사시나무
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] Salix koriyanagi
+- [Page 13] 키버들
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] Salix pseudolasiogyne
+- [Page 13] 능수버들
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] Forsythia koreana
+- [Page 13] 개나리
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] Paulownia coreana
+- [Page 13] 오동나무
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] Celtis choseniana
+- [Page 13] 검팽나무
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] ●
+- [Page 13] 합계
+- [Page 13] 6
+- [Page 13] 4
+- [Page 13] -
+- [Page 13] 4
+- [Page 13] 8
+- [Page 13] 자료
+- [Page 13] 문헌목록 참조
+- [Page 13] )
+- [Page 14] 광주산정 공공주택지구 조성사업 환경영향평가 초안
+- [Page 14] - 152 -
+- [Page 14] 표
+- [Page 14] <
+- [Page 14] 8.1.1-5>
+- [Page 14] 희귀식물 목록광역조사
+- [Page 14] (
+- [Page 14] )
+- [Page 14] 등급
+- [Page 14] 학명
+- [Page 14] 국명
+- [Page 14] 문헌
+- [Page 14] 1
+- [Page 14] 2
+- [Page 14] 3
+- [Page 14] 4
+- [Page 14] 종합
+- [Page 14] LC
+- [Page 14] Tricyrtis macropoda
+- [Page 14] 뻐꾹나리
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] Chionanthus retusus
+- [Page 14] 이팝나무
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] Celtis choseniana
+- [Page 14] 검팽나무
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] Melothria japonica
+- [Page 14] 새박
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] Viola diamantiaca
+- [Page 14] 금강제비꽃
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] Platycladus orientalis
+- [Page 14] 측백나무
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] VU
+- [Page 14] Nepeta cataria
+- [Page 14] 개박하
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] Thymus quinquecostatus
+- [Page 14] 백리향
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] Koelreuteria paniculata
+- [Page 14] 모감주나무
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] Taxus cuspidata
+- [Page 14] 주목
+- [Page 14] ●
+- [Page 14] ●
+- [Page 14] 약관심종(LC)
+- [Page 14] 3
+- [Page 14] 4
+- [Page 14] -
+- [Page 14] 2
+- [Page 14] 6
+- [Page 14] 취약종(VU)
+- [Page 14] 2
+- [Page 14] 1
+- [Page 14] -
+- [Page 14] 1
+- [Page 14] 4
+- [Page 14] 합계종수
+- [Page 14] (
+- [Page 14] )
+- [Page 14] 5
+- [Page 14] 5
+- [Page 14] -
+- [Page 14] 3
+- [Page 14] 10
+- [Page 14] 자료
+- [Page 14] 문헌목록 참조
+- [Page 14] )
+- [Page 14] 다
+- [Page 14] 식물구계학적 특정식물
+- [Page 14] (
+- [Page 14] )
+- [Page 14] 문헌조사를 종합하면 식물구계학적 특정식물은
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 54
+- [Page 14] ,
+- [Page 14] 6
+- [Page 14] ,
+- [Page 14] 26
+- [Page 14] ,
+- [Page 14] ◦
+- [Page 14] Ⅰ
+- [Page 14] Ⅱ
+- [Page 14] Ⅲ
+- [Page 14] Ⅳ
+- [Page 14] 종으로 총
+- [Page 14] 종이 보고됨
+- [Page 14] 6
+- [Page 14] 92
+- [Page 14] 문헌에서 확인된 식물구계학적 특정식물은
+- [Page 14] 1
+- [Page 14] ◦
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 41
+- [Page 14] ,
+- [Page 14] 1
+- [Page 14] ,
+- [Page 14] 14
+- [Page 14] ,
+- [Page 14] Ⅰ
+- [Page 14] Ⅱ
+- [Page 14] Ⅲ
+- [Page 14] Ⅳ
+- [Page 14] 종으로 총
+- [Page 14] 종이 보고됨
+- [Page 14] 4
+- [Page 14] 60
+- [Page 14] 문헌에서 확인된 식물구계학적 특정식물은
+- [Page 14] 2
+- [Page 14] ◦
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 33
+- [Page 14] ,
+- [Page 14] 2
+- [Page 14] ,
+- [Page 14] 16
+- [Page 14] ,
+- [Page 14] Ⅰ
+- [Page 14] Ⅱ
+- [Page 14] Ⅲ
+- [Page 14] Ⅳ
+- [Page 14] 종으로 총
+- [Page 14] 종이 보고됨
+- [Page 14] 3
+- [Page 14] 54
+- [Page 14] ◦ 문헌에서 확인된 식물구계학적 특정식물은
+- [Page 14] 3
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 종으로 총
+- [Page 14] 5
+- [Page 14] ,
+- [Page 14] 1
+- [Page 14] ,
+- [Page 14] 3
+- [Page 14] Ⅰ
+- [Page 14] Ⅱ
+- [Page 14] Ⅲ
+- [Page 14] 종이 보고됨
+- [Page 14] 9
+- [Page 14] 문헌에서 확인된 식물구계학적 특정식물은
+- [Page 14] 4
+- [Page 14] ◦
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 종
+- [Page 14] 등급
+- [Page 14] 18
+- [Page 14] ,
+- [Page 14] 2
+- [Page 14] ,
+- [Page 14] 9
+- [Page 14] ,
+- [Page 14] Ⅰ
+- [Page 14] Ⅱ
+- [Page 14] Ⅲ
+- [Page 14] Ⅳ
+- [Page 14] 종으로 총
+- [Page 14] 종이 보고됨
+- [Page 14] 3
+- [Page 14] 32
+- [Page 15] 동식물상
+- [Page 15] 8.1.1
+- [Page 15] ‧
+- [Page 15] - 153 -
+- [Page 15] 표
+- [Page 15] <
+- [Page 15] 8.1.1-6>
+- [Page 15] 식물구계학적 특정식물 목록광역조사
+- [Page 15] (
+- [Page 15] )
+- [Page 15] 등급
+- [Page 15] 학명
+- [Page 15] 국명
+- [Page 15] 문헌조사
+- [Page 15] 비고
+- [Page 15] 1
+- [Page 15] 2
+- [Page 15] 3
+- [Page 15] 4
+- [Page 15] 종합
+- [Page 15] Ⅰ
+- [Page 15] Hosta capitata
+- [Page 15] 일월비비추
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Tricyrtis macropoda
+- [Page 15] 뻐꾹나리
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Eleutherococcus sessiliflorus
+- [Page 15] 오갈피나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Hedera rhombea
+- [Page 15] 송악
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Artemisia rubripes
+- [Page 15] 덤불쑥
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Carpesium glossophyllum
+- [Page 15] 천일담배풀
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Cirsium pendulum
+- [Page 15] 큰엉겅퀴
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Cerastium fischerianum
+- [Page 15] 큰점나도나물
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Silene baccifera
+- [Page 15] 덩굴별꽃
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Ilex macropoda
+- [Page 15] 대팻집나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Euonymus fortunei
+- [Page 15] 좀사철나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Euonymus japonicus
+- [Page 15] 사철나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Viburnum opulus var. sargentii
+- [Page 15] 백당나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Symplocos tanakana
+- [Page 15] 검노린재
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Vaccinium oldhamii
+- [Page 15] 정금나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Buxus microphylla var. koreana
+- [Page 15] 회양목
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Mallotus japonicus
+- [Page 15] 예덕나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Carpinus tschonoskii
+- [Page 15] 개서어나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Carpinus turczaninowii
+- [Page 15] 소사나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Haloragis micrantha
+- [Page 15] 개미탑
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Ajuga decumbens
+- [Page 15] 금창초
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Lindera erythrocarpa
+- [Page 15] 비목나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Lindera glauca
+- [Page 15] 감태나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Grewia parviflora
+- [Page 15] 장구밥나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Corydalis incisa
+- [Page 15] 자주괴불주머니
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Semiaquilegia adoxoides
+- [Page 15] 개구리발톱
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Rhamnella franguloides
+- [Page 15] 까마귀베개
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Cayratia japonica
+- [Page 15] 거지덩굴
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Deutzia glabrata
+- [Page 15] 물참대
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Malus baccata
+- [Page 15] 야광나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Pourthiaea villosa
+- [Page 15] 윤노리나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Pyrus calleryana var. fauriei
+- [Page 15] 콩배나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Rosa lucieae
+- [Page 15] 제주찔레
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Rubus corchorifolius
+- [Page 15] 수리딸기
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Paederia foetida
+- [Page 15] 계요등
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Salix chaenomeloides
+- [Page 15] 왕버들
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Toxicodendron sylvestre
+- [Page 15] 산검양옻나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Euscaphis japonica
+- [Page 15] 말오줌때
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Ligustrum japonicum
+- [Page 15] 광나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Camellia japonica
+- [Page 15] 동백나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Eurya japonica
+- [Page 15] 사스레피나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Aphananthe aspera
+- [Page 15] 푸조나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Celtis biondii var. heterophylla
+- [Page 15] 폭나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Celtis choseniana
+- [Page 15] 검팽나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Hemiptelea davidii
+- [Page 15] 시무나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Ulmus parvifolia
+- [Page 15] 참느릅나무
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Actinostemma lobatum
+- [Page 15] 뚜껑덩굴
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] Melothria japonica
+- [Page 15] 새박
+- [Page 15] ●
+- [Page 15] ●
+- [Page 15] ●
+- [Page 16] 광주산정 공공주택지구 조성사업 환경영향평가 초안
+- [Page 16] - 154 -
+- [Page 16] 계속
+- [Page 16] (
+- [Page 16] )
+- [Page 16] 등급
+- [Page 16] 학명
+- [Page 16] 국명
+- [Page 16] 문헌조사
+- [Page 16] 비고
+- [Page 16] 1
+- [Page 16] 2
+- [Page 16] 3
+- [Page 16] 4
+- [Page 16] 종합
+- [Page 16] Ⅰ
+- [Page 16] Cephalotaxus harringtonia
+- [Page 16] 개비자나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Dryopteris erythrosora
+- [Page 16] 홍지네고사리
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Dryopteris gymnophylla
+- [Page 16] 금족제비고사리
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Onoclea sensibilis
+- [Page 16] 야산고비
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Lepisorus thunbergianus
+- [Page 16] 일엽초
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Pteris multifida
+- [Page 16] 봉의꼬리
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Ⅱ
+- [Page 16] Alnus japonica
+- [Page 16] 오리나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Magnolia sieboldii
+- [Page 16] 함박꽃나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Rosa rugosa
+- [Page 16] 해당화
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Spiraea salicifolia
+- [Page 16] 꼬리조팝나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Nymphoides indica
+- [Page 16] 어리연
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Taxus cuspidata
+- [Page 16] 주목
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Ⅲ
+- [Page 16] Dendropanax trifidus
+- [Page 16] 황칠나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Youngia japonica subsp. longiflora
+- [Page 16] 긴꽃뽀리뱅이
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Ilex crenata
+- [Page 16] 꽝꽝나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Viburnum odoratissimum var. awabuki
+- [Page 16] 아왜나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Indigofera pseudotinctoria
+- [Page 16] 낭아초
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Salvia japonica
+- [Page 16] 둥근배암차즈기
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Thymus quinquecostatus
+- [Page 16] 백리향
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Stauntonia hexaphylla
+- [Page 16] 멀꿀
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Vitis coignetiae
+- [Page 16] 머루
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Prunus mandshurica
+- [Page 16] 개살구나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Prunus sargentii
+- [Page 16] 산벚나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Salix rorida
+- [Page 16] 분버들
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Acer palmatum
+- [Page 16] 단풍나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Melia azedarach
+- [Page 16] 멀구슬나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Citrus trifoliata
+- [Page 16] 탱자나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Koelreuteria paniculata
+- [Page 16] 모감주나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Sapindus mukorossi
+- [Page 16] 무환자나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Chionanthus retusus
+- [Page 16] 이팝나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Melampyrum setaceum var. nakaianum
+- [Page 16] 새며느리밥풀
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Ficus erecta
+- [Page 16] 천선과나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Boehmeria pannosa
+- [Page 16] 왕모시풀
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Trichosanthes kirilowii var. japonica
+- [Page 16] 노랑하늘타리
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Viola diamantiaca
+- [Page 16] 금강제비꽃
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Juniperus chinensis
+- [Page 16] 향나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Selaginella stauntoniana
+- [Page 16] 개부처손
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Dryopteris nipponensis
+- [Page 16] 참지네고사리
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Ⅳ
+- [Page 16] Hydrocotyle sibthorpioides
+- [Page 16] 피막이
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Wisteria floribunda
+- [Page 16] 등
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Toxicodendron succedaneum
+- [Page 16] 검양옻나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Osmanthus heterophyllus
+- [Page 16] 구골나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Mazus stachydifolius
+- [Page 16] 선주름잎
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] Platycladus orientalis
+- [Page 16] 측백나무
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] ●
+- [Page 16] 식물구계학적 특정식물
+- [Page 16] 등급
+- [Page 16] Ⅰ
+- [Page 16] 41
+- [Page 16] 33
+- [Page 16] 5
+- [Page 16] 18
+- [Page 16] 54
+- [Page 16] 식물구계학적 특정식물
+- [Page 16] 등급
+- [Page 16] Ⅱ
+- [Page 16] 1
+- [Page 16] 2
+- [Page 16] 1
+- [Page 16] 2
+- [Page 16] 6
+- [Page 16] 식물구계학적 특정식물
+- [Page 16] 등급
+- [Page 16] Ⅲ
+- [Page 16] 14
+- [Page 16] 16
+- [Page 16] 3
+- [Page 16] 9
+- [Page 16] 26
+- [Page 16] 식물구계학적 특정식물
+- [Page 16] 등급
+- [Page 16] Ⅳ
+- [Page 16] 4
+- [Page 16] 3
+- [Page 16] 0
+- [Page 16] 3
+- [Page 16] 6
+- [Page 16] 합계
+- [Page 16] 60
+- [Page 16] 54
+- [Page 16] 9
+- [Page 16] 32
+- [Page 16] 92
+- [Page 16] 자료
+- [Page 16] 문헌목록 참조
+- [Page 16] )
+- [Page 17] 동식물상
+- [Page 17] 8.1.1
+- [Page 17] ‧
+- [Page 17] - 155 -
+- [Page 17] 주요생물 서식공간 및 보호지역
+- [Page 17] (2)
+- [Page 17] 가
+- [Page 17] 생태자연도 등급 권역
+- [Page 17] (
+- [Page 17] )
+- [Page 17] 1
+- [Page 17] ․
+- [Page 17] 사업
+- [Page 17] ◦
+- [Page 17] 지구 내부에 생태자연도
+- [Page 17] 등급 권역은 분포하지 않는 것으로 조사되었으며
+- [Page 17] 사업지구
+- [Page 17] 1
+- [Page 17] ,
+- [Page 17] ․
+- [Page 17] 주변에 분포하는 생태자연도
+- [Page 17] 등급 권역의 최소 이격거리는
+- [Page 17] 동측인 것으로 조사
+- [Page 17] ·
+- [Page 17] 1
+- [Page 17] 790m(
+- [Page 17] )
+- [Page 17] 되었음
+- [Page 17] 나
+- [Page 17] 습지보호지역
+- [Page 17] (
+- [Page 17] )
+- [Page 17] 사업
+- [Page 17] ◦
+- [Page 17] 지구 남서측으로 습지보호구역광주광역시 장록이 분포하고 있으며
+- [Page 17] 이격거리는
+- [Page 17] 인
+- [Page 17] (
+- [Page 17] )
+- [Page 17] ,
+- [Page 17] 2.7㎞
+- [Page 17] 것으로 조사되었음
+- [Page 17] 표
+- [Page 17] <
+- [Page 17] 8.1.1-7>
+- [Page 17] 습지보호지역 현황
+- [Page 17] 지역명
+- [Page 17] 위치
+- [Page 17] 면적(
+- [Page 17] )
+- [Page 17] ㎢
+- [Page 17] 특징
+- [Page 17] 지정일자
+- [Page 17] 람사르 등록
+- [Page 17] (
+- [Page 17] )
+- [Page 17] 이격거리
+- [Page 17] (
+- [Page 17] )
+- [Page 17] ㎞
+- [Page 17] 광주광역시
+- [Page 17] 장록
+- [Page 17] 광주광역시
+- [Page 17] 광산구 일원
+- [Page 17] 2.735
+- [Page 17] 생물다양성이 풍부하며습지
+- [Page 17] ,
+- [Page 17] 원형이 잘 보전된 도심 내 하천습지
+- [Page 17] 2020.12.08.
+- [Page 17] 확대
+- [Page 17] 2022.08.12.(
+- [Page 17] )
+- [Page 17] 2.7
+- [Page 17] 자료
+- [Page 17] 습지보호지역 지정 및 람사르습지 등록 현황
+- [Page 17] 월 기준
+- [Page 17] 환경부
+- [Page 17] :
+- [Page 17] (23.12
+- [Page 17] ), 2024,
+- [Page 17] ˈ
+- [Page 17] 다
+- [Page 17] 생태축
+- [Page 17] (
+- [Page 17] )
+- [Page 17] 광역조사 시 정맥은 확인되지 않았으나
+- [Page 17] 사업지구 주변으로 병풍지맥과 태청지맥이 조사
+- [Page 17] ,
+- [Page 17] ◦
+- [Page 17] 되었으여 각각의 이격거리는
+- [Page 17] 병풍지맥
+- [Page 17] 태청지맥인 것으로 조사되었음
+- [Page 17] 90m(
+- [Page 17] ), 3.6
+- [Page 17] (
+- [Page 17] )
+- [Page 17] ㎞
+- [Page 17] 라
+- [Page 17] 겨울철새도래지
+- [Page 17] (
+- [Page 17] )
+- [Page 17] 광역조사지역 내에 겨울철새도래지는 황룡강
+- [Page 17] 영산강상류가 분포하는 것으로 조사되었고
+- [Page 17] ,
+- [Page 17] ◦
+- [Page 17] 사업지구와의 이격거리는 각각
+- [Page 17] 남서측
+- [Page 17] 남동측인 것으로 조사되었음
+- [Page 17] 2.7
+- [Page 17] (
+- [Page 17] ), 2.1
+- [Page 17] (
+- [Page 17] )
+- [Page 17] ㎞
+- [Page 17] ㎞
+- [Page 18] 광주산정 공공주택지구 조성사업 환경영향평가 초안
+- [Page 18] - 156 -
+- [Page 18] 그림
+- [Page 18] (
+- [Page 18] 8.1.1-3)
+- [Page 18] 주요생물 서식공간 및 법정보호지역 현황
+- [Page 19] 동식물상
+- [Page 19] 8.1.1
+- [Page 19] ‧
+- [Page 19] - 157 -
+- [Page 19] 현지조사
+- [Page 19] 2)
+- [Page 19] 가
+- [Page 19] 조사항목
+- [Page 19] )
+- [Page 19] 육상식물상 및 식생
+- [Page 19] (1)
+- [Page 19] 가
+- [Page 19] 식물상
+- [Page 19] (
+- [Page 19] )
+- [Page 19] 관속식물의 현황생활형 분석
+- [Page 19] ,
+- [Page 19] ◦
+- [Page 19] 귀화식물생태계교란 생물식물
+- [Page 19] ,
+- [Page 19] (
+- [Page 19] )
+- [Page 19] ◦
+- [Page 19] 식물구계학적 특정식물
+- [Page 19] ◦
+- [Page 19] 보호수 및 노거수
+- [Page 19] ◦
+- [Page 19] 나
+- [Page 19] 식생
+- [Page 19] (
+- [Page 19] )
+- [Page 19] 현존식생
+- [Page 19] ①
+- [Page 19] 식생분포현황 및 현존식생도
+- [Page 19] ◦
+- [Page 19] 보존 가치가 있는 식물군락의 분포현황
+- [Page 19] ◦
+- [Page 19] 식생보전등급
+- [Page 19] ②
+- [Page 19] 식생보전등급의 사정 및 식생보전등급도
+- [Page 19] ◦
+- [Page 19] 육상동물상
+- [Page 19] (2)
+- [Page 19] 포유류의 서식현황
+- [Page 19] ◦
+- [Page 19] 조류의 서식현황
+- [Page 19] ◦
+- [Page 19] 양서파충류의 서식현황
+- [Page 19] ·
+- [Page 19] ◦
+- [Page 19] 육상곤충류의 서식현황
+- [Page 19] ◦
+- [Page 19] 육수생물상
+- [Page 19] (3)
+- [Page 19] 어류의 서식현황
+- [Page 19] ◦
+- [Page 19] 저서성 대형 무척추동물의 서식현황
+- [Page 19] ◦
+- [Page 19] 법정보호종
+- [Page 19] (4)
+- [Page 19] 멸종위기 야생생물이하 멸
+- [Page 19] 천연기념물이하 천
+- [Page 19] 광주광역시 시도 지정 보호 야생
+- [Page 19] -
+- [Page 19] ,
+- [Page 19] -
+- [Page 19] ,
+- [Page 19] ·
+- [Page 19] ◦
+- [Page 19] 동식물이하 광
+- [Page 19] ·
+- [Page 19] -
+- [Page 19] 희귀식물이하 희특산식물이하 특
+- [Page 19] -
+- [Page 19] ,
+- [Page 19] -
+- [Page 19] ◦
+- [Page 19] 생태자연도
+- [Page 19] (5)
+- [Page 19] ·
+- [Page 19] 생태자연도 현황
+- [Page 19] ·
+- [Page 19] ◦
+- [Page 20] 광주산정 공공주택지구 조성사업 환경영향평가 초안
+- [Page 20] - 158 -
+- [Page 20] 나
+- [Page 20] 조사범위
+- [Page 20] )
+- [Page 20] 공간적 범위
+- [Page 20] (1)
+- [Page 20] ◦ 현지조사는 「환경영향평가서등 작성 등에 관한 규정
+- [Page 20] 환경부고시 제
+- [Page 20] 호 및 환경
+- [Page 20] ,
+- [Page 20] 2023 72
+- [Page 20] –
+- [Page 20] 영향평가서등의 작성 등에 관한 안내서
+- [Page 20] 개정
+- [Page 20] 환경부
+- [Page 20] (24.1.22.
+- [Page 20] ), 2024,
+- [Page 20] 」의 면사업을기준을
+- [Page 20] 참고하여 반영하였음
+- [Page 20] ◦ 현지조사 전 문헌자료와 주변 입지를 고려하여 조사반경을 설정하였으며
+- [Page 20] 조사반경은 사
+- [Page 20] ,
+- [Page 20] 업
+- [Page 20] 지구 경계선으로부터 식물상 및 식생, 양서파충류와 육상곤충류는
+- [Page 20] ·
+- [Page 20] 좌우
+- [Page 20] ·
+- [Page 20] 100m,
+- [Page 20] 포유류 및 조류는 좌우
+- [Page 20] ·
+- [Page 20] 300m, 어류 및 저서성 대형 무척추동물은
+- [Page 20] 상하
+- [Page 20] ·
+- [Page 20] 류 100m
+- [Page 20] 이내를 범위로 설정하였음
+- [Page 20] 동식물상 조사범위 및 조사권역
+- [Page 20] ·
+- [Page 20] ◦
+- [Page 20] 표
+- [Page 20] <
+- [Page 20] 8.1.1-8>
+- [Page 20] 동
+- [Page 20] 식물상 조사범위
+- [Page 20] ·
+- [Page 20] 구분
+- [Page 20] 식물상 및 식생
+- [Page 20] 포유류 및 조류
+- [Page 20] 양서파충류
+- [Page 20] ·
+- [Page 20] 육상곤충류
+- [Page 20] 육수 생물상
+- [Page 20] 현지조사
+- [Page 20] 범위
+- [Page 20] 경계선으로부터
+- [Page 20] 100m
+- [Page 20] 경계선으로부터
+- [Page 20] 300m
+- [Page 20] 경계선으로부터
+- [Page 20] 100m
+- [Page 20] 경계선으로부터
+- [Page 20] 100m
+- [Page 20] 경계선으로부터
+- [Page 20] 상하류
+- [Page 20] ·
+- [Page 20] 100m
+- [Page 20] 시간적 범위
+- [Page 20] (2)
+- [Page 20] ◦ 현지조사는 분류군별 조사 시기를 고려하고 계절별 조사를 실시하였음
+- [Page 20] 표
+- [Page 20] <
+- [Page 20] 8.1.1-9>
+- [Page 20] 동
+- [Page 20] 식물상 조사 시기
+- [Page 20] ·
+- [Page 20] 구분
+- [Page 20] 조사일시
+- [Page 20] 식물상 식생
+- [Page 20] 포유류
+- [Page 20] 조류
+- [Page 20] 양서·
+- [Page 20] 파충류
+- [Page 20] 육상
+- [Page 20] 곤충류
+- [Page 20] 어류
+- [Page 20] 저서성
+- [Page 20] 대형
+- [Page 20] 무척추
+- [Page 20] 동물
+- [Page 20] 무인
+- [Page 20] 청음
+- [Page 20] 전
+- [Page 20] 략
+- [Page 20] 환
+- [Page 20] 경
+- [Page 20] 영
+- [Page 20] 향
+- [Page 20] 조
+- [Page 20] 사
+- [Page 20] 1
+- [Page 20] 차
+- [Page 20] 조
+- [Page 20] 사
+- [Page 20] 2021.06.28~06.30
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ●
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] -
+- [Page 20] ◎
+- [Page 20] 2021.06.28~07.20
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] ◎
+- [Page 20] -
+- [Page 20] 2021.07.19~07.20
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] ●
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] ◎
+- [Page 20] 2
+- [Page 20] 차
+- [Page 20] 조
+- [Page 20] 사
+- [Page 20] 2022.01.26~01.28
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] -
+- [Page 20] ◎
+- [Page 20] 2022.03.04
+- [Page 20] -
+- [Page 20] -
+- [Page 20] ◎
+- [Page 20] ◎
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] 2022.01.26~03.04
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] -
+- [Page 20] ◎
+- [Page 20] -
+
+---

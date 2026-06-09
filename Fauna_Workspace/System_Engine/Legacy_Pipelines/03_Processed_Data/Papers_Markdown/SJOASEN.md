@@ -1,0 +1,320 @@
+--- 
+source: SJOASEN.pdf
+--- 
+
+RADIO-TRACKING AS A TOOL IN OTTER CONSERVATION 
+ 
+Thomas SJÖÅSEN 
+Falla Gård, Ryd 36, S-560 28 Lekeryd, Sweden 
+email: maude-g@algonet.se  and  falla@familjen.se  
+ 
+ 
+Abstract:  Between 1989 and 1994, re-introduced otters were radio-tracked in Sweden. The principal aim was to 
+study their survival, movements and establishment pattern, in order to evaluate re-introduction as a possible 
+method to reinforce an otter population. Captive-bred and wild-caught otters, both groups originally from the 
+Norwegian coast, were part of the project. At the time of release the age of all the animals was approximately 
+one year old. 
+One year after re-introduction, the survival of the wild-caught otters was 79% and of captive-bred 42%.      
+Among captive-bred otters there were individuals which had a relatively short period (< 7 weeks) between the 
+mother-pup separation and the re-introduction. The survival of these animals was 80% while that of those 
+animals with a relatively long separation period (7-14 weeks) was only 13%. 
+The establishment of released otters occurred on average ten weeks after the release. Animals released 
+in areas unoccupied by other otters became established in that area and gradually expanded outwards, while 
+those released in already occupied areas moved away to an area without other otters at least of the same sex. 
+Ten weeks after re-introduction, the mean distance between the release site and the centre of the home area was 
+4.2 kilometres for otters released in unoccupied areas and 11.5 kilometres for those released in occupied areas. 
+Established females had home areas of 19-35 kilometres], estimated as the length of lake banks 
+together with the length of rivers and ditches. Compared to females, males had larger home areas (23-62 km) 
+and these increased in size when the males became sexually mature. Females seemed to have feeding and 
+breeding home areas while those of males seem to be important for finding mates. 
+Radio telemetry is an excellent tool to track individuals to study different aspects of their biology such 
+as survival, movements, activity etc. However, radio-tracking is often very time and personnel consuming. 
+ 
+ 
+1.   INTRODUCTION 
+ 
+Otter conservation covers a variety of branches, including field work, such as otter surveys, 
+the work of nature and environmental agencies where important decisions are taken, etc. 
+Several different methods and tools are needed to make a cocktail that can be used for  
+conservation work. During the last ten years, for example, genetic research has developed to 
+become an interesting and important tool for the understanding of population genetics. Since 
+the end of the 1970s, radio telemetry is another useful tool to study both basic biological 
+issues as well as applied subjects.  
+The development of equipment used in radio telemetry has taken huge steps forward 
+since the first telemetry work on otters in USA (MELQUIST AND HORNOCKER, 1979a  b, 1983) 
+and the work with Eurasian otters (Lutra lutra) in Sweden at the end of the 1980s and the 
+early 1990s (SJÖÅSEN, 1996, 1997). Today there are radio transmitters that are supported with 
+information from satellites by the GPS-system, transmitters from which data can be down-
+loaded at, for example, weekly intervals.  Nevertheless, it is still relevant, irrespectively of the 
+type of equipment, to discuss and give examples as to how the use of radio-tracking can be a 
+tool to achieve information important in otter conservation. The aim of radio-tracking is first 
+of all to determine the position of animals carrying the transmitters. This can give  interesting 
+and more detailed information about animal survival, movements, home range size, habitat 
+utilisation, activity pattern, inter- and intraspecific interaction etc. 
+This paper focuses on results from radio-tracking in Sweden between 1989 and 1994. 
+The aim of the project was to study the success of otter re-introduction by the use of radio-
+tracking. When the Swedish Otter Project started in the 1980s, the status and development of 
+the population in Sweden was uncertain because of the population decline that began at least 
+30 years earlier. Re-introducing otters was seen as a means of preventing the extinction of the 
+
+
+species in southern Sweden. Several otter surveys carried out during the 1980s identified 
+where otters still existed and studied the distribution of possible populations. In connection 
+with this, PCB-analysis of fish from several areas was done as well as other studies. 
+ 
+ 
+2.   MATERIALS, METHODS AND RESULTS 
+ 
+2.1   Re-introduction areas and otters 
+ 
+Between 1987 and 1992 two areas were chosen for otter re-introduction, the first was ca. 100 
+kilometres south west of Stockholm in the county of Södermanland, the second, ca. 60 
+kilometres north of Stockholm, in the county of Uppland. Between 1987 and 1988, 18 otters 
+(11 in Södermanland: 7 in Uppland) were released (none of these were fitted with radio 
+transmitters. The fate of four animals is known – all died because of human influence. 
+From 1989, all re-introduced otters were released in the county of Södermanland. 
+During a four-year period, between 1989 and 1992, 36 juvenile otters were released, 11 were 
+wild-caught and 25 captive-bred. All were fitted with implanted radio transmitters. The 
+method of radio implantation was the same as that used by MELQUIST AND HORNOCKER (1979 
+a, b). Otters, approximately one-year old, were chosen because at this age, they are in a 
+‘natural dispersal’ phase. All the captive otters were born to two breeding females, 12 cubs by 
+the first female, 13 by the second.  All, except one, were released in spring, after the ice had 
+broken up on the lakes and during the spawning season for the majority of fish species, i.e. the 
+season when the availability of food for otters is probably best. The wild-caught animals came 
+from the Norwegian coast, translocated to Sweden where they were held in pens until spring-
+time. All animals were released in lakes without any arrangement for special facilities like 
+open pens with food.  
+ 
+2.2    Fate and survival 
+ 
+Of the 36 animals, 14 were still alive one year after release, radio contact with eight was lost, 
+three drowned in fishing gear, the remaining 11 died of other causes – some probably from 
+stress-related problems (SJÖÅSEN, 1996; Table 1). 
+ 
+Table 1:  Fate in re-introduced otters (Lutra lutra) in the first year after release.  ( ) = animals dead after the 
+first year. 
+ 
+ORIGIN 
+ 
+WILD-CAUGHT 
+OTTERS 
+CAPTIVE-BRED 
+ OTTERS 
+TOTAL 
+Sex 
+males 
+females 
+males 
+females 
+males + females 
+Re-introduced in 1987-1988 
+without radio transmitters 
+3 
+5 
+2 
+1 
+11 
+Fate unknown 
+1 
+5 
+1 
+1 
+8 
+Dead - fishing gear 
+- 
+- 
+1 
+- 
+1 
+Dead – traffic 
+(1) 
+- 
+- 
+- 
+(1) 
+Dead – shot 
+1 
+- 
+- 
+- 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+Re-introduced in 1989-1992 with 
+radio transmitters 
+7 
+4 
+10 
+15 
+36 
+Lost in radio contact 
+1 
+- 
+1 
+6 
+7 
+Alive 
+3 
+4 
+2 
+4 
+13 
+Dead – traffic 
+(2) 
+ 
+ 
+ 
+(2) 
+Dead - fishing gear 
+- 
+- 
+3 
+- 
+3 
+Dead - cause unknown 
+2 
+- 
+4 
+5 
+11 
+
+
+ 
+The survival rate was calculated using the Kaplan-Meier estimation (KREBS, 1989; 
+POLLOCK, WINTERSTEIN AND CONROY, 1989; POLLOCK ET AL., 1989). Captive-bred otters 
+had a significantly lower mean survival rate (0.42%) compared to wild-caught otters (0.79%) 
+(SJÖÅSEN, 1996). The offspring from the breeding females were removed from their mother 
+and kept in other enclosures for a period before release into the study area. This separation-
+release period varied from five to 98 days. Captive-bred otters with a separation-release 
+period shorter than seven weeks had a significantly higher survival rate (0.80%) than otters 
+with a long separation-release period (0.13%), but there was no difference between the groups 
+of offspring from the two females. Thus, the survival rate was the same among captive-bred 
+otters with short separation-release periods compared to wild-caught otters. 
+ 
+2.3   Movements and establishments 
+ 
+To test the method of release, a deliberate decision was taken to release the animals in two 
+different situations. Some were released in areas where there were no other otters, others in 
+areas where otters were already present. Those released in areas unoccupied by other otters 
+often became established in that area at the mean distance of 4.2 kilometres from the release 
+site to the centre of the home area (SJÖÅSEN, 1997). Otters released in areas already occupied 
+by other otters moved out from the release area and became established, on average 11.5 
+kilometres, from the release site. Experiments continued with some of the subsequent releases 
+being in areas now occupied by earlier released animals. These newly released animals 
+responded as expected by moving out from the occupied area to find an area free from otters – 
+or at least free from otters of the same sex.  
+In other words, after release the otters had a phase of movement before the phase of 
+establishment. The former phase, especially among otters released in occupied areas, lasted 
+about ten weeks. The maximum linear distance of movement from the release site was 39 
+kilometres in an established female and 75 kilometres in a male found drowned in a fyke net 
+more than two years (750 days) after  release. 
+ 
+2.3   Home ranges 
+ 
+The size of home areas, the home ranges, was measured on maps (1:50,000) as the bank 
+length of lakes and the actual length of water courses, i.e. river and ditches. The size of home 
+ranges was also estimated as minimum convex polygons. The calculation of the convex 
+polygon can be done by using available computer software while the measurement of bank 
+length continues to be done manually on maps. Otters spent most of their time along bank 
+lines, at least in freshwater systems. The bank length is therefore a better biological factor, 
+compared to a convex polygon, to measure the home range. However, sometimes the convex 
+polygon can be useful to compare the size of otter home ranges with home range size of other 
+species for example in correlation to the body weight, etc (SANDELL, 1989).  
+The home range size estimated as bank length was between 19-35 kilometres in 
+females and 23-62 kilometres in males, or estimated as minimum convex polygon between 7-
+42 km2 in females and 10-175 km2 in males.  
+There were no differences in home range size between the sexes until May of the 
+second year. At that time, males increased their areas to more or less twice that of female 
+home ranges. The conclusion is that females have breeding and feeding home ranges, while 
+those of males seem to be more important for finding mates. In other words, females seem to 
+be more careful and fastidious in their choice of home areas.   
+ 
+
+
+2.4   Intra-sexual interactions of females 
+ 
+In 1993, six females had established exclusive home ranges without any overlap. The length 
+of the areas was 15-30 kilometres and most had a stable core area with some fluctuations 
+depending on the season. The intra-sexual relations with rather sharp borders between the 
+females probably illustrate the normal situation in the study area. 
+There were, however, two areas with a degree of overlap. In these, the borders 
+between them were fluctuating back and forth. Almost at the same time when one female 
+withdrew, the other advanced so the home ranges were separated in time.  
+ 
+2.5   Habitat use 
+ 
+In all the six female home ranges there were habitats suitable for all seasons with water 
+courses free from ice during the winter and lakes with good fish production during the 
+summer. One female showed a seasonal migration between two different areas adjacent to 
+each other. During the summer she used the lake, but when the ice covered the lake, she 
+moved downstream to the river and estuary close to the sea. Similar behaviour was observed 
+among other females, but not as evident as the one mentioned. Some females decreased their 
+home range sizes and their activities were concentrated to areas with open water during the 
+winter. Between August and October 1993 one female had a very small home area (only ca.  
+2-3 km). The reason was that she had cubs and became restricted to this area for taking care of 
+her offspring. 
+The study area is a mosaic of lakes and water courses. Otters had good possibilities to 
+choose suitable habitats to find food. They mainly used the lakes, but rivers and ditches were 
+of significance during the winter, especially during January and February. Approximately 
+30% of all otter observations were made in that kind of habitat.  These months compared to a 
+maximum 10% of the observations in April to November 
+ 
+2.6   Day and night activity 
+ 
+As expected, otters in freshwater systems are nocturnal animals, with approximately 80% of 
+the activity at night, compared to 15-20% during the day. With only small differences 
+between seasons, approximately 40% of the 24-hour period is spent on activities. 
+ 
+ 
+3.   CONCLUSIONS 
+ 
+Important experiences from the project were that: 
+ 
+• 
+ radio-telemetry was an excellent tool to track individuals and to study different 
+aspects of their biology such as movements, the size of home ranges, activity pattern, 
+survival, death causes, etc. 
+• 
+ radio-telemetry provides relatively short range signals from the radio transmitter of a 
+semi-aquatic species like the otter. The range of the signal will be even weaker if an 
+implanted radio transmitter without external antenna is used, which has been a 
+common type of transmitter in several otter projects. 
+• 
+ it is necessary to have access to an aeroplane for radio-tracking from the air to search 
+for “missing” animals. 
+• 
+ Radio-telemetry is very time and personnel consuming especially when re-introduced 
+otters are radio-tracked. The reason is that these animals can move long distances 
+
+
+from the release site before becoming are established. Therefore they need to be 
+radio-tracked intensely (at least once a day) during the phase of movement to avoid 
+losing them.   
+ 
+ 
+5.   REFERENCES 
+ 
+KREBS, C. J. 1989. Ecological Methodology. Harper & Row, New York. 
+MELQUIST W. E. & HORNOCKER, M. G. 1979a. Development and use of a telemetry technique for studying      
+river otter. In Proceedings Second International Conference on Wildlife Biotelemetry (Edited by F. M. Long)      
+Pp. 104-114. Laramie, WY. 
+MELQUIST, W. E. & HORNOCKER, M. G. 1979b. Methods and techniques for studying and censusing river      
+otter populations. University of Idaho, Contributions, No. 154: 1-17. 
+MELQUIST, W. E. & HORNOCKER, M. G. 1983. Ecology of river otters in west central Idaho. Wildife.      
+Monograph, 83: 1-60. 
+POLLOCK, K. H., WINTERSTEIN, S. R. & CONROY, M. J. 1989a. Estimation and analysis of survival      
+distributions for radio-tagged animals. Biometrics, 45: 99-109. 
+POLLOCK, K. H., WINTERSTEIN, S. R., BUNCK, C. M. & CURTIS, P. D. 1989. Survival analysis in telemetry      
+studies: the staggered entry design. Journal of  Wildlife Management, 53: 7-15. 
+SANDELL, M. 1989. The mating tactics and spacing patterns of solitary carnivores. In Carnivore Behaviour,      
+Ecology, and Evolution. (Edited by Gittleman, J.L.) Pp. 164-182. Cornell University Press, Ithaca, New York. 
+SJÖÅSEN, T. 1996. Survivorship of captive-bred and wild-caught re-introduced European otters Lutra lutra in      
+Sweden. Biological Conservation, 76: 161-165. 
+SJÖÅSEN, T. 1997. Movements and establishment of re-introduced European otters (Lutra lutra). Journal of       
+Applied Ecology, 34: 1070-1080 
+ 
+ 

@@ -1,0 +1,42 @@
+--- 
+source: GUTLEB & JEFFERIES.pdf
+--- 
+
+A REVIEW OF THE CONTRIBUTION OF POLLUTION TO THE DECLINE OF LUTRA LUTRA 
+ 
+Arno GUTLEB1 & Don JEFFERIES2 
+ 
+1.  IVM, Vrije Universiteit Amsterdam, De Boelelaan 1087, NL-1081 HV Amsterdam, The Netherlands. 
+email: arno.gutleb@ivm.vu.nl 
+2.  The Vincent Wildlife Trust, 3 & 4 Bronsil Courtyard, Eastnor, Ledbury, Herefordshire, HR8 1EP, England, UK 
+ 
+ 
+Over the last decades otter (Lutra lutra) populations have declined markedly in Europe. In addition 
+to physical threats, such as habitat destruction, traffic accidents and drowning in fish nets and fykes, 
+mercury, dieldrin and polyhalogenated aromatic hydrocarbon- (PHAH), and more specifically 
+polychlorinated biphenyl- (PCB) pollution is considered to be one of the major factors in this 
+decline (Gutleb, 2000; Jefferies and Hanson, 2000). Mercury may form a problem in areas with 
+local pollution or where acidification results in increased mobility of mercury present in soils. 
+Dieldrin may have had a contribution in the 1960’s, mainly in the United Kingdom, as the use on 
+the continent was much lower, but no tissue samples for comparative analysis are available 
+anymore, so that the role of dieldrin cannot be sufficiently investigated retrospectively. For practical 
+and ethical reasons, no toxicological experiments with PCBs have been conducted with the Eurasian 
+otter itself. Because of the lack of necessary data, a field study was performed to derive a no 
+observed effect level for otters in the otter itself, its food and sediment (Murk et al., 1998). In this 
+paper, the comparison of hepatic retinoid levels were compared with information on the health 
+status of the dead otters, which has been presented in more detail by Leonards et al. (1996). A 
+strong negative correlation was observed between hepatic vitamin A levels and TEQ levels in 
+environmentally-exposed Eurasian otters. The results indicated that otters are sensitive for AhR-
+related toxic effects of PCBs, and that current environmental PCB levels are high enough to cause 
+adverse effects. Otters exposed to more than 2 ng TEQ/g lipid had strongly reduced hepatic retinoid 
+levels, which coincided with a higher incidence of infectious diseases. Whereas for PCBs 
+decreasing levels have been reported (Roos et al., 2001) other classes of compounds with similar 
+toxicological properties such as polybrominated diphenylethers are widely used with increasing 
+production volumes resulting in exponential increasing concentrations in biota including humans. 
+The significance of these compounds for wildlife cannot be estimated yet. 
+ 
+ 
+ 
+ 
+ 
+ 
