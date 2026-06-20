@@ -721,6 +721,213 @@ def generate_obsidian_note(metadata: dict, output_dir: Path) -> None:
     note_path.write_text(note_content, encoding="utf-8")
 
 
+def process_image_directory(
+    dir_path: Path,
+    output_dir: Path,
+    device_name: str,
+    detected_at: str | None = None,
+    num_threads: int = 16,
+) -> int:
+    """디렉토리 내의 모든 사진 파일을 찾아 EXIF 정보를 병렬로 고속 추출하고 통합 CSV와 Obsidian 노트를 생성합니다."""
+    import concurrent.futures
+    import os
+    from PIL import Image
+    from PIL.ExifTags import TAGS, GPSTAGS
+
+    # 1. 대상 사진 파일 수집
+    image_paths = []
+    # os.walk를 활용해 recursive하게 이미지 수집
+    for root, subdirs, files in os.walk(dir_path):
+        # 숨김 디렉토리 제외
+        subdirs[:] = [d for d in subdirs if not d.startswith('.')]
+        for f in files:
+            if f.startswith('.'):
+                continue
+            path = Path(root) / f
+            if path.suffix.lower() in IMAGE_EXTENSIONS:
+                image_paths.append(path)
+
+    total_images = len(image_paths)
+    if total_images == 0:
+        print(f"디렉토리에서 이미지 파일을 찾을 수 없습니다: {dir_path}")
+        return 0
+
+    print(f"총 {total_images}개의 이미지 파일 감지. {num_threads}개 스레드로 고속 병렬 EXIF 추출을 개시합니다...")
+
+    dirs = ensure_dirs(output_dir)
+    results = []
+    success_count = 0
+    failed_count = 0
+
+    def extract_single(source_path: Path) -> dict | None:
+        nonlocal success_count, failed_count
+        stem = safe_stem(source_path)
+        image_info = {
+            "source_name": source_path.name,
+            "source_type": source_path.suffix.lower().lstrip("."),
+            "size_bytes": source_path.stat().st_size,
+            "path": str(source_path),
+            "width": None,
+            "height": None,
+            "mode": None,
+            "format": None,
+            "datetime_taken": "",
+            "camera_make": "",
+            "camera_model": "",
+            "gps_lat": "",
+            "gps_lon": "",
+            "status": "success",
+            "error": "",
+        }
+        try:
+            with Image.open(source_path) as image:
+                image_info.update({
+                    "width": image.width,
+                    "height": image.height,
+                    "mode": image.mode,
+                    "format": image.format,
+                })
+                raw_exif = image._getexif() if hasattr(image, "_getexif") else None
+                if raw_exif:
+                    exif = {TAGS.get(k, k): v for k, v in raw_exif.items()}
+                    if "DateTimeOriginal" in exif:
+                        image_info["datetime_taken"] = str(exif["DateTimeOriginal"])
+                    if "Make" in exif:
+                        image_info["camera_make"] = str(exif["Make"])
+                    if "Model" in exif:
+                        image_info["camera_model"] = str(exif["Model"])
+
+                    # GPS 추출
+                    gps_info = exif.get("GPSInfo")
+                    if isinstance(gps_info, dict):
+                        gps = {GPSTAGS.get(k, k): v for k, v in gps_info.items()}
+                        def to_deg(val):
+                            d, m, s = val
+                            return float(d) + float(m) / 60 + float(s) / 3600
+                        try:
+                            lat = to_deg(gps["GPSLatitude"])
+                            if gps.get("GPSLatitudeRef") == "S":
+                                lat = -lat
+                            lon = to_deg(gps["GPSLongitude"])
+                            if gps.get("GPSLongitudeRef") == "W":
+                                lon = -lon
+                            image_info["gps_lat"] = round(lat, 6)
+                            image_info["gps_lon"] = round(lon, 6)
+                        except Exception:
+                            pass
+            success_count += 1
+            return image_info
+        except Exception as exc:
+            image_info["status"] = "failed"
+            image_info["error"] = str(exc)
+            failed_count += 1
+            return image_info
+
+    # ThreadPoolExecutor를 이용해 병렬 처리
+    processed_count = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=num_threads) as executor:
+        future_to_path = {executor.submit(extract_single, path): path for path in image_paths}
+        for future in concurrent.futures.as_completed(future_to_path):
+            res = future.result()
+            if res:
+                results.append(res)
+                processed_count += 1
+                if processed_count % 100 == 0 or processed_count == total_images:
+                    print(f"진행 상황: {processed_count}/{total_images} 완료...")
+
+    # 2. 통합 CSV 파일 작성
+    csv_file_path = output_dir / "image_metadata_summary.csv"
+    headers = [
+        "source_name", "source_type", "size_bytes", "path", "width", "height",
+        "mode", "format", "datetime_taken", "camera_make", "camera_model",
+        "gps_lat", "gps_lon", "status", "error"
+    ]
+
+    try:
+        with csv_file_path.open("w", encoding="utf-8-sig", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=headers)
+            writer.writeheader()
+            for res in results:
+                writer.writerow(res)
+        print(f"통합 CSV 메타데이터 저장 완료: {csv_file_path}")
+    except Exception as e:
+        print(f"CSV 저장 중 오류 발생: {e}", file=sys.stderr)
+
+    # 3. 각 이미지 메타데이터 파일 및 Obsidian 노트 생성
+    print("각 이미지의 Obsidian 노트를 생성하고 있습니다...")
+    obsidian_count = 0
+    for res in results:
+        if res["status"] != "success":
+            continue
+
+        path_obj = Path(res["path"])
+        stem = safe_stem(path_obj)
+
+        meta = build_metadata(
+            path_obj,
+            device_name,
+            detected_at,
+            "success",
+            {
+                "text": str(dirs["text"] / f"{stem}.txt"),
+                "tables": [str(dirs["tables"] / f"{stem}.image.json")]
+            },
+            None
+        )
+        meta["image_info"] = {
+            "width": res["width"],
+            "height": res["height"],
+            "mode": res["mode"],
+            "format": res["format"],
+            "datetime_taken": res["datetime_taken"],
+            "camera_make": res["camera_make"],
+            "camera_model": res["camera_model"],
+            "gps_lat": res["gps_lat"],
+            "gps_lon": res["gps_lon"]
+        }
+
+        # 파일명 기반 생물종 분류 추정
+        species_candidate = ""
+        hangul_words = re.findall(r'[가-힣]{2,}', path_obj.name)
+        if hangul_words:
+            species_candidate = hangul_words[0]
+
+        ai_meta = {
+            "year_vendor": "2026 LH",
+            "project_name": dir_path.name,
+            "class_name": species_candidate if species_candidate else "사진",
+            "tags": [f"#{species_candidate}"] if species_candidate else [],
+            "summary": f"{species_candidate if species_candidate else '사진'} 이미지 파일. 파일명: {path_obj.name}",
+            "is_ambiguous": False,
+            "question": ""
+        }
+
+        if species_candidate:
+            ai_meta["tags"].append("#특이종")
+            ai_meta["tags"].append(f"#{species_candidate}")
+
+        meta["ai_classification"] = ai_meta
+
+        try:
+            write_metadata(meta, output_dir, path_obj)
+
+            text_lines = [f"{k}: {v}" for k, v in res.items()]
+            write_text(dirs["text"] / f"{stem}.txt", "\n".join(text_lines) + "\n")
+
+            (dirs["tables"] / f"{stem}.image.json").write_text(
+                json.dumps(res, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
+
+            generate_obsidian_note(meta, output_dir)
+            obsidian_count += 1
+        except Exception:
+            pass
+
+    print(f"Obsidian 노트 {obsidian_count}개 생성 완료.")
+    print(f"=== 고속 배치 이미지 추출 완료: 성공 {success_count}개, 실패 {failed_count}개 ===")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("legacy_input", nargs="?", help="이전 형식의 입력 파일 경로")
@@ -732,6 +939,7 @@ def main() -> int:
     parser.add_argument("--no-ocr", action="store_true", help="원격 OCR 연동을 생략하고 로컬 추출만 수행")
     parser.add_argument("--no-telegram", action="store_true", help="텔레그램 알림 발송 생략 (배치 모드용)")
     parser.add_argument("--no-ai", action="store_true", help="Hermes AI 분류 생략 — 경로 파싱으로 대체 (배치 고속 모드)")
+    parser.add_argument("--threads", type=int, default=16, help="디렉토리 스캔 시 병렬 작업자(스레드) 수")
     args = parser.parse_args()
 
     input_value = args.input_path or args.legacy_input
@@ -760,6 +968,21 @@ def main() -> int:
         write_metadata(metadata, output_dir, source_path)
         print(error["message"], file=sys.stderr)
         return 1
+
+    if source_path.is_dir():
+        print(f"디렉토리 감지: {source_path}")
+        print("이미지 고속 병렬 추출 프로세스를 실행합니다.")
+        try:
+            return process_image_directory(
+                source_path,
+                output_dir,
+                args.device_name,
+                args.detected_at,
+                args.threads,
+            )
+        except Exception as e:
+            print(f"디렉토리 이미지 추출 중 오류 발생: {e}", file=sys.stderr)
+            return 1
 
     try:
         outputs = run_extraction(source_path, output_dir, args.no_ocr, args.ocr_endpoint)
