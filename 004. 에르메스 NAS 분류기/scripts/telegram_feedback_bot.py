@@ -296,10 +296,18 @@ async def handle_feedback_reply(update: Update, context: ContextTypes.DEFAULT_TY
                 except Exception as e:
                     logger.error(f"Failed to read last_pending.json: {e}")
 
-        # 그 외의 모든 일반 대화/질문은 RAG 질문으로 취급하여 아톰 서버에서 조회를 수행
-        await message.reply_text("🤔 아톰 서버 RAG 엔진에서 해당 질문과 관련된 문서를 찾아 요약하고 있습니다. 잠시만 기다려 주세요...")
-        rag_answer = run_rag_query(user_text)
-        await message.reply_text(rag_answer, parse_mode="Markdown")
+        # 일반 질문은 RAG 조회를 수행하지 않고, 아우룸봇의 역할에 맞춰 안내를 전송합니다.
+        info_msg = (
+            "💰 **에르메스_인베스트먼트 (아우룸봇)**\n\n"
+            "안녕하세요! 저는 사내 보고서 검수 및 최종 배포를 제어하는 아우룸봇입니다.\n"
+            "이 대화방은 분류 대기 보류 건에 대한 **피드백 수집 및 알림 채널**로 사용됩니다.\n\n"
+            "💡 **사용 가능 명령:**\n"
+            "- ⚠️ **[분류 모호성 감지]** 알림 메시지에 **답장(Reply)**하여 수정 지시\n"
+            "- `브리핑` 또는 `월요일` 또는 `대기 목록`: 현재 보류된 검수 대기 파일 목록 확인\n"
+            "- `안내` 또는 `방법`: 피드백 가이드 리포트 발송\n\n"
+            "📚 **RAG 지식 검색 및 일반 질문**은 **에르메스 아톰 (아톰봇)** 또는 **에르메스_리서치 (모하비봇)** 채널을 이용해 주시기 바랍니다."
+        )
+        await message.reply_text(info_msg, parse_mode="Markdown")
         return
 
     reply_text = message.reply_to_message.text
