@@ -9,14 +9,20 @@ BOT_SCRIPT="$SCRIPT_DIR/telegram_feedback_bot.py"
 LOG_DIR="$BASE_DIR/logs"
 PID_FILE="$LOG_DIR/telegram_feedback_bot.pid"
 LOG_FILE="$LOG_DIR/telegram_feedback_bot.log"
-ENV_FILE="/home/caiser77/.hermes/.env"
+ENV_FILE="$BASE_DIR/.env"
+GLOBAL_ENV="/home/caiser77/.hermes/.env"
 
 mkdir -p "$LOG_DIR"
 
 if [ -f "$ENV_FILE" ]; then
+  echo "Loading project specific .env from $ENV_FILE"
   set -a
-  # shellcheck disable=SC1090
   source "$ENV_FILE"
+  set +a
+elif [ -f "$GLOBAL_ENV" ]; then
+  echo "Fallback: Loading global .env from $GLOBAL_ENV"
+  set -a
+  source "$GLOBAL_ENV"
   set +a
 fi
 
