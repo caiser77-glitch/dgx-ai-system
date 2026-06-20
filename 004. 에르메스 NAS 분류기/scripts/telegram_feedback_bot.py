@@ -19,6 +19,8 @@ logging.basicConfig(
     level=logging.INFO
 )
 logger = logging.getLogger("TelegramFeedbackBot")
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("telegram").setLevel(logging.WARNING)
 
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 ALLOWED_USER_ID = int(os.environ.get("ALLOWED_USER_ID", "0"))
@@ -129,7 +131,7 @@ def mark_pending_resolved(original_path: str) -> None:
 def run_rag_query(query: str) -> str:
     """아톰 서버의 rag_query.py를 구동하여 RAG 답변을 가져옵니다."""
     script_path = "/home/caiser77/dgx_workspace/002. 회사 NAS 분석/scripts/rag_query.py"
-    index_dir = "/home/caiser77/dgx_workspace/002. 회사 NAS 분석/data/indexes/faiss"
+    index_dir = os.environ.get("AURUM_RAG_INDEX_DIR", "/home/caiser77/dgx_workspace/cache/faiss_current")
     model = "Qwen/Qwen2.5-72B-Instruct-AWQ"
     endpoint = "http://localhost:8088/v1/chat/completions"
     

@@ -10,11 +10,15 @@ export LC_ALL=ko_KR.UTF-8
 PROJECT_DIR="/home/caiser77/dgx_workspace"
 SCRIPT_PATH="${PROJECT_DIR}/003. NAS 장기 배치 파이프라인/scripts/longterm_batch_slicer.py"
 VENV_ACTIVATE="${PROJECT_DIR}/venv/bin/activate"
+NAS_AI_ROOT="/mnt/dgxbackup/_AURUM_AI_PROCESSED"
+PROCESSED_DIR="${NAS_AI_ROOT}/processed"
+INDEX_DIR="${PROJECT_DIR}/cache/faiss_current"
 
 CRON_LOG="${PROJECT_DIR}/003. NAS 장기 배치 파이프라인/logs/cron_run.log"
 DAILY_REPORT="${PROJECT_DIR}/003. NAS 장기 배치 파이프라인/logs/daily_report.log"
 
 mkdir -p "$(dirname "${CRON_LOG}")"
+mkdir -p "${PROCESSED_DIR}" "${INDEX_DIR}" "${NAS_AI_ROOT}/logs"
 
 echo "=== [$(date)] 배치 기동 프로세스 시작 ===" >> "${CRON_LOG}"
 
@@ -29,8 +33,8 @@ fi
 # 3. 슬라이싱 일괄 배치 실행 (하루 한도 300개 파일 설정)
 python3 "${SCRIPT_PATH}" \
   --input-dir "/mnt/dgxbackup" \
-  --processed-dir "${PROJECT_DIR}/data/processed" \
-  --index-dir "${PROJECT_DIR}/data/indexes/faiss" \
+  --processed-dir "${PROCESSED_DIR}" \
+  --index-dir "${INDEX_DIR}" \
   --limit 300 \
   --ocr-endpoint "http://localhost:7870" \
   --vllm-endpoint "http://localhost:8088/v1/chat/completions" \

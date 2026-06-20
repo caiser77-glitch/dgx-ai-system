@@ -23,7 +23,7 @@ def load_index(index_dir: Path):
 
     mapping = json.loads(mapping_path.read_text(encoding="utf-8"))
     index = faiss.read_index(str(faiss_path))
-    model = SentenceTransformer(mapping["model_name"])
+    model = SentenceTransformer(mapping["model_name"], device="cpu")
     return index, mapping, model
 
 
@@ -110,7 +110,11 @@ def call_llm(prompt: str, model: str, endpoint: str) -> dict:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--query", required=True, help="검색 또는 RAG 질의")
-    parser.add_argument("--index-dir", default="data/indexes/faiss", help="FAISS 인덱스 경로")
+    parser.add_argument(
+        "--index-dir",
+        default=os.getenv("AURUM_RAG_INDEX_DIR", "data/indexes/faiss"),
+        help="FAISS 인덱스 경로",
+    )
     parser.add_argument("--top-k", type=int, default=5, help="검색 결과 수")
     parser.add_argument("--model", default=os.getenv("OLLAMA_MODEL"), help="Ollama 또는 vLLM 모델명")
     parser.add_argument(

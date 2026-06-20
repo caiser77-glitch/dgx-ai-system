@@ -11,35 +11,44 @@
   - 로컬 가상환경 경로: `/home/caiser77/dgx_workspace/venv`
 * **회사 NAS (Synology) IP**: **`100.94.64.83`** (Tailscale)
   - 삼바(SMB) 전용 계정: `aurum-rag` / 패스워드: `Aurum2026!!`
-  - 마운트 대상 공유 폴더: **`26Project 2026`**
+  - 마운트 대상 공유 폴더:
+    - `00Project2023 이전` → `/mnt/nas2023old`
+    - `24Project 2024` → `/mnt/nas2024`
+    - `25Project 2025` → `/mnt/nas2025`
+    - `26Project 2026` → `/mnt/nas2026`
 * **마운트 세부 사항**:
-  - 아톰 서버 내 마운트 경로: `/mnt/dgxbackup`
+  - 아톰 서버 내 공식 감시 마운트 경로: `/mnt/nas2023old`, `/mnt/nas2024`, `/mnt/nas2025`, `/mnt/nas2026`
   - 아톰 서버 크레덴셜 파일: `/home/caiser77/.smbcredentials_nas`
-  - 자동 마운트 설정: `/etc/fstab`에 `//100.94.64.83/26Project\0402026` 공백 치환 자동 연동 등록 완료
+  - 자동 마운트 설정: `/etc/fstab`에 위 4개 SMB 공유 자동 연동 등록 완료
+  - 이전 감시 경로 명칭은 신규 운영 설명이나 감시 대상으로 사용하지 않습니다.
+* **운영 원칙**:
+  - NAS 원본 파일은 DGX 로컬로 복사하지 않고, SMB 마운트 경로에서 직접 읽습니다.
+  - DGX 로컬에는 로그, 상태파일, 색인, 메타데이터 등 작은 파생 데이터만 저장합니다.
+  - 현재 공식 감시 데몬은 `atom-watcher` systemd 서비스이며, 이전 watchdog_pipeline 직접 감시 방식은 사용하지 않습니다.
 
 ---
 
 ## 🛠️ 빌드, 실행 및 검증 명령어 (Operation Command Line)
 
 ### 1. 실시간 감시 데몬 기동 및 프로세스 체크
-아톰 서버 내부에서 NAS 폴더 감시 데몬을 백그라운드로 실행하고 확인하는 명령입니다.
+아톰 서버 내부에서 NAS 폴더 감시 데몬을 systemd 서비스로 실행하고 확인하는 명령입니다.
 ```bash
-# 데몬 실행 (마운트 포인트인 /mnt/dgxbackup을 실시간 감시)
-bash scripts/start_nas_watcher.sh
+# 감시 서비스 재시작
+sudo systemctl restart atom-watcher
 
 # 감시 프로세스 생존 여부 확인
-ps aux | grep watchdog_pipeline | grep -v grep
+ps aux | grep -E 'atom-watcher|watcher.py' | grep -v grep
 
 # 실시간 감시 로그 확인
-tail -f logs/watchdog_pipeline.log
+tail -f /var/log/atom-watcher/atom-watcher.log
 ```
 
 ### 2. 파이프라인 수동 수집 및 색인(FAISS) 검증
 * **텍스트 가공 추출**:
   ```bash
   ./venv/bin/python scripts/extract_data.py \
-    --input "/mnt/dgxbackup/경로/파일명.xlsx" \
-    --device-name "NAS_2026" \
+    --input "/mnt/nas2026/경로/파일명.xlsx" \
+    --device-name "atom-watcher" \
     --output-dir "data/processed"
   ```
 * **FAISS 지식베이스 인덱싱**:

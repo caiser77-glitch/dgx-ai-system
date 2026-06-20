@@ -1,0 +1,11 @@
+[Unit]
+Description=Atom Watcher Service
+After=network.target
+
+[Service]
+User=caiser77
+ExecStart=/usr/bin/python3 /home/caiser77/dgx_workspace/Atom_works/03-development/atom_watcher.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

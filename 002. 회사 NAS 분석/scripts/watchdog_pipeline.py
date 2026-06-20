@@ -194,6 +194,25 @@ class NewFileHandler(FileSystemEventHandler):
         self.processed_dir = processed_dir
         self.index_dir = index_dir
 
+    def is_ignored_path(self, file_path: Path) -> bool:
+        ignored_roots = [self.processed_dir, self.index_dir]
+        try:
+            resolved_file = file_path.resolve()
+        except OSError:
+            resolved_file = file_path
+
+        for root in ignored_roots:
+            try:
+                resolved_root = root.resolve()
+            except OSError:
+                resolved_root = root
+            try:
+                resolved_file.relative_to(resolved_root)
+                return True
+            except ValueError:
+                continue
+        return False
+
     def run_auto_index(self, file_path: Path) -> None:
         index_started_at = time.time()
         run_command = build_index_command(
@@ -275,6 +294,9 @@ class NewFileHandler(FileSystemEventHandler):
         if event.is_directory:
             return
         file_path = Path(event.src_path)
+        if self.is_ignored_path(file_path):
+            self.logger.info("ignored_generated_file file=%s", file_path)
+            return
         started_at = time.time()
         detected_at = now_iso()
         self.logger.info(
