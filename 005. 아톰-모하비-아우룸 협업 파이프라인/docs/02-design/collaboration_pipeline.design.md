@@ -35,11 +35,11 @@ last_updated: "2026-06-20T18:57:00+09:00"
 
 ```mermaid
 stateDiagram-v2
-    [*] --> raw_analyzed : NAS 신규 파일 감지 (Atom)
-    raw_analyzed --> drafting : 초안 작성 개시 (Mohave)
-    drafting --> review_pending : 초안 작성 완료 (Mohave)
-    review_pending --> reviewed : 수치 및 서식 검수 (Aurum)
-    reviewed --> published : HWP/PDF 변환 및 NAS 배포 (Aurum)
+    [*] --> raw_analyzed : "NAS 신규 파일 감지 (Atom)"
+    raw_analyzed --> drafting : "초안 작성 개시 (Mohave)"
+    drafting --> review_pending : "초안 작성 완료 (Mohave)"
+    review_pending --> reviewed : "수치 및 서식 검수 (Aurum)"
+    reviewed --> published : "HWP/PDF 변환 및 NAS 배포 (Aurum)"
     published --> [*]
 ```
 
