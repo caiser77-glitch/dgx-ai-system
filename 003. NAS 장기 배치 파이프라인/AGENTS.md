@@ -6,7 +6,7 @@
 
 ## 🔌 1. 시스템 아키텍처 및 핵심 경로 정보
 * **아톰(Atom) 서버 Tailscale IP**: `100.98.149.127` (SSH 계정: `caiser77`)
-* **NAS 마운트 경로 (아톰 서버 기준)**: `/mnt/dgxbackup` (시놀로지 SMB 공유 `26Project 2026` 마운트 지점)
+* **NAS 마운트 경로 (아톰 서버 기준)**: `/mnt/nas2023old`, `/mnt/nas2024`, `/mnt/nas2025`, `/mnt/nas2026` (4개 공식 SMB 마운트 지점)
 * **배치 가공 결과 경로**: `/home/caiser77/dgx_workspace/data/processed`
 * **FAISS 로컬 벡터 DB 경로**: `/home/caiser77/dgx_workspace/data/indexes/faiss`
 * **가상환경(venv) 파이썬**: `/home/caiser77/dgx_workspace/venv/bin/python`

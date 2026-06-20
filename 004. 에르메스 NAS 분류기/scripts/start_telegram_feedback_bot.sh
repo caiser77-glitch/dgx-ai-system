@@ -20,7 +20,7 @@ if [ -f "$ENV_FILE" ]; then
   set +a
 fi
 
-export AURUM_RAG_INDEX_DIR="${AURUM_RAG_INDEX_DIR:-/home/caiser77/dgx_workspace/cache/faiss_current}"
+export AURUM_RAG_INDEX_DIR="${AURUM_RAG_INDEX_DIR:-/home/caiser77/dgx_workspace/data/indexes/faiss}"
 
 if [ -z "${ALLOWED_USER_ID:-}" ] && [ -n "${TELEGRAM_ALLOWED_USERS:-}" ]; then
   ALLOWED_USER_ID="${TELEGRAM_ALLOWED_USERS%%,*}"
