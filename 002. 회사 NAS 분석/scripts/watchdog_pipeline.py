@@ -182,6 +182,9 @@ class NewFileHandler(FileSystemEventHandler):
         index_command,
         processed_dir,
         index_dir,
+        index_mode,
+        index_debounce_seconds,
+        index_every_n_files,
     ):
         self.command = command
         self.device_name = device_name
@@ -193,6 +196,11 @@ class NewFileHandler(FileSystemEventHandler):
         self.index_command = index_command
         self.processed_dir = processed_dir
         self.index_dir = index_dir
+        self.index_mode = index_mode
+        self.index_debounce_seconds = index_debounce_seconds
+        self.index_every_n_files = max(index_every_n_files, 1)
+        self.pending_index_files = []
+        self.last_index_completed_at = time.time()
 
     def is_ignored_path(self, file_path: Path) -> bool:
         ignored_roots = [self.processed_dir, self.index_dir]
@@ -290,6 +298,66 @@ class NewFileHandler(FileSystemEventHandler):
             if slack_enabled():
                 send_slack_message(f"자동 색인 실패: {file_path}\n{error_text}")
 
+    def maybe_run_auto_index(self, file_path: Path) -> None:
+        if not self.auto_index:
+            return
+
+        if self.index_mode == "immediate":
+            self.run_auto_index(file_path)
+            self.last_index_completed_at = time.time()
+            return
+
+        self.pending_index_files.append(str(file_path))
+        pending_count = len(self.pending_index_files)
+        elapsed_since_index = time.time() - self.last_index_completed_at
+        should_index = False
+        reason = ""
+
+        if self.index_mode == "batch":
+            should_index = pending_count >= self.index_every_n_files
+            reason = f"batch_count={pending_count}/{self.index_every_n_files}"
+        elif self.index_mode == "debounced":
+            should_index = (
+                pending_count >= self.index_every_n_files
+                or elapsed_since_index >= self.index_debounce_seconds
+            )
+            reason = (
+                f"pending_count={pending_count}, "
+                f"elapsed_since_index={elapsed_since_index:.2f}s, "
+                f"debounce={self.index_debounce_seconds}s"
+            )
+
+        if not should_index:
+            self.logger.info(
+                "auto_index_deferred file=%s mode=%s pending=%s",
+                file_path,
+                self.index_mode,
+                pending_count,
+            )
+            update_state(
+                self.state_file,
+                self.device_name,
+                {
+                    "type": "auto_index_deferred",
+                    "status": "deferred",
+                    "file_path": str(file_path),
+                    "index_mode": self.index_mode,
+                    "pending_count": pending_count,
+                    "index_dir": str(self.index_dir),
+                },
+            )
+            return
+
+        self.logger.info(
+            "auto_index_flush_started file=%s mode=%s reason=%s",
+            file_path,
+            self.index_mode,
+            reason,
+        )
+        self.run_auto_index(file_path)
+        self.last_index_completed_at = time.time()
+        self.pending_index_files.clear()
+
     def on_created(self, event):
         if event.is_directory:
             return
@@ -380,8 +448,7 @@ class NewFileHandler(FileSystemEventHandler):
                 send_slack_message(
                     f"데이터 추출 완료: {event.src_path}"
                 )
-            if self.auto_index:
-                self.run_auto_index(file_path)
+            self.maybe_run_auto_index(file_path)
         except subprocess.CalledProcessError as e:
             error_text = (e.stderr or str(e)).strip()
             self.logger.error(
@@ -421,6 +488,24 @@ def main():
     p.add_argument('--processed-dir', default=str(DEFAULT_PROCESSED_DIR), help='자동 색인 입력 추출 결과 루트')
     p.add_argument('--index-dir', default=str(DEFAULT_INDEX_DIR), help='자동 색인 FAISS 저장 경로')
     p.add_argument(
+        '--index-mode',
+        choices=('immediate', 'debounced', 'batch'),
+        default='immediate',
+        help='자동 색인 실행 방식. immediate는 기존 동작, debounced/batch는 대량 유입 시 전체 재색인 빈도를 낮춤',
+    )
+    p.add_argument(
+        '--index-debounce-seconds',
+        type=float,
+        default=1800.0,
+        help='index-mode=debounced일 때 마지막 색인 이후 이 시간이 지나면 누적분을 색인',
+    )
+    p.add_argument(
+        '--index-every-n-files',
+        type=int,
+        default=50,
+        help='debounced/batch 모드에서 이 개수만큼 누적되면 색인',
+    )
+    p.add_argument(
         '--observer',
         choices=('native', 'polling'),
         default='native',
@@ -446,6 +531,9 @@ def main():
         args.index_command,
         Path(args.processed_dir),
         Path(args.index_dir),
+        args.index_mode,
+        args.index_debounce_seconds,
+        args.index_every_n_files,
     )
     observer = PollingObserver() if args.observer == 'polling' else Observer()
     observer.schedule(handler, str(watch_path), recursive=True)

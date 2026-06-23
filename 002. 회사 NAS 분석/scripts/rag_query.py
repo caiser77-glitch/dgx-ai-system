@@ -9,7 +9,7 @@ import urllib.error
 import urllib.request
 
 
-def load_index(index_dir: Path):
+def load_index(index_dir: Path, embedding_device: str, expected_embedding_model: str | None, allow_model_mismatch: bool):
     try:
         import faiss
         from sentence_transformers import SentenceTransformer
@@ -22,8 +22,17 @@ def load_index(index_dir: Path):
         raise RuntimeError(f"index files missing in {index_dir}")
 
     mapping = json.loads(mapping_path.read_text(encoding="utf-8"))
+    mapping_model = mapping.get("model_name")
+    if expected_embedding_model and mapping_model != expected_embedding_model:
+        message = (
+            f"embedding model mismatch: index={mapping_model}, "
+            f"expected={expected_embedding_model}"
+        )
+        if not allow_model_mismatch:
+            raise RuntimeError(message)
+        print(f"WARNING: {message}", file=sys.stderr)
     index = faiss.read_index(str(faiss_path))
-    model = SentenceTransformer(mapping["model_name"], device="cpu")
+    model = SentenceTransformer(mapping_model, device=embedding_device)
     return index, mapping, model
 
 
@@ -116,6 +125,9 @@ def main() -> int:
         help="FAISS 인덱스 경로",
     )
     parser.add_argument("--top-k", type=int, default=5, help="검색 결과 수")
+    parser.add_argument("--embedding-device", default=os.getenv("AURUM_RAG_EMBEDDING_DEVICE", "cpu"), help="질의 임베딩 실행 장치")
+    parser.add_argument("--expected-embedding-model", default=os.getenv("AURUM_RAG_EMBEDDING_MODEL"), help="인덱스 임베딩 모델 검증값")
+    parser.add_argument("--allow-model-mismatch", action="store_true", help="expected embedding model과 mapping 모델이 달라도 경고만 출력")
     parser.add_argument("--model", default=os.getenv("OLLAMA_MODEL"), help="Ollama 또는 vLLM 모델명")
     parser.add_argument(
         "--llm-endpoint",
@@ -136,7 +148,12 @@ def main() -> int:
         index_dir = Path.cwd() / index_dir
 
     try:
-        index, mapping, embedding_model = load_index(index_dir)
+        index, mapping, embedding_model = load_index(
+            index_dir,
+            args.embedding_device,
+            args.expected_embedding_model,
+            args.allow_model_mismatch,
+        )
         results = search(args.query, index, mapping, embedding_model, args.top_k)
     except RuntimeError as exc:
         print(str(exc), file=sys.stderr)
@@ -146,6 +163,8 @@ def main() -> int:
     response = {
         "query": args.query,
         "model": args.model,
+        "embedding_model": mapping.get("model_name"),
+        "embedding_device": args.embedding_device,
         "answer": None,
         "model_error": None,
         "references": [

@@ -12,6 +12,9 @@ WATCH_DIR="/mnt/dgxbackup/_AURUM_AI_INBOX"
 PROCESSED_DIR="$NAS_AI_ROOT/processed"
 STATE_FILE="$PROCESSED_DIR/state.json"
 INDEX_DIR="/home/caiser77/dgx_workspace/cache/faiss_current"
+INDEX_MODE="${AURUM_WATCHER_INDEX_MODE:-immediate}"
+INDEX_DEBOUNCE_SECONDS="${AURUM_WATCHER_INDEX_DEBOUNCE_SECONDS:-1800}"
+INDEX_EVERY_N_FILES="${AURUM_WATCHER_INDEX_EVERY_N_FILES:-50}"
 
 mkdir -p "$BASE_DIR/logs"
 mkdir -p "$PROCESSED_DIR"
@@ -23,6 +26,7 @@ echo "Starting Watchdog pipeline for Company NAS (26Project 2026)..."
 echo "Watch target: $WATCH_DIR"
 echo "Processed output: $PROCESSED_DIR"
 echo "FAISS cache: $INDEX_DIR"
+echo "Index mode: $INDEX_MODE"
 echo "Log: $LOG_FILE"
 echo "PID file: $PID_FILE"
 
@@ -41,6 +45,9 @@ setsid -f "$VENV_PYTHON" "$SCRIPT_DIR/watchdog_pipeline.py" \
   --state-file "$STATE_FILE" \
   --processed-dir "$PROCESSED_DIR" \
   --index-dir "$INDEX_DIR" \
+  --index-mode "$INDEX_MODE" \
+  --index-debounce-seconds "$INDEX_DEBOUNCE_SECONDS" \
+  --index-every-n-files "$INDEX_EVERY_N_FILES" \
   --observer native \
   --auto-index \
   > "$BASE_DIR/logs/watcher_stdout.log" 2>&1

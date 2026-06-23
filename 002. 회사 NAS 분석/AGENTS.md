@@ -58,7 +58,7 @@ tail -f /var/log/atom-watcher/atom-watcher.log
     --index-dir "data/indexes/faiss"
   ```
 
-### 3. vLLM 72B API 연동 RAG 질의 처리
+### 3. vLLM 운영 프로파일 기반 RAG 질의 처리
 ```bash
 ./venv/bin/python scripts/rag_query.py \
   --query "질문 내용 입력" \
@@ -67,17 +67,23 @@ tail -f /var/log/atom-watcher/atom-watcher.log
   --model "Qwen/Qwen2.5-72B-Instruct-AWQ"
 ```
 
+기본 `high_quality` 프로파일은 기존 72B 모델을 유지합니다. 대규모 NAS 전수조사 중 처리량이 우선인 경우에는 환경 변수로 중형 모델 프로파일을 선택할 수 있으나, 기존 인덱스와 산출물을 덮어쓰기 전에 별도 `index-dir`에서 검증해야 합니다.
+
 ---
 
 ## 📋 코딩 지침 및 주의사항 (Coding Rules)
 
-1. **임베딩 모델 CPU 고정 (OOM 방지)**:
+1. **임베딩 모델 CPU 기본값 유지 (OOM 방지)**:
    * 아톰 서버의 GPU 메모리(VRAM)는 72B 대형 모델(`vllm-server` 컨테이너)이 90% 이상 점유하고 있습니다.
-   * 따라서 [index_documents.py](file:///Volumes/caiser77/dgx_workspace/002. 회사 NAS 분서ך/scripts/index_documents.py) 등에서 `SentenceTransformer` 모델을 로드할 때는 반드시 **`device='cpu'`** 인자를 지정하여 GPU 메모리 충돌을 예방해야 합니다.
-2. **한글 자모분리(NFC/NFD) 방지**:
+   * 따라서 [index_documents.py](file:///Volumes/caiser77/dgx_workspace/002. 회사 NAS 분서ך/scripts/index_documents.py) 등에서 `SentenceTransformer` 모델을 로드할 때는 기본적으로 **`device='cpu'`** 인자를 지정하여 GPU 메모리 충돌을 예방해야 합니다.
+   * `bge-m3`, `Qwen3-Embedding` 등 새 임베딩 모델을 시험할 때는 기존 `data/indexes/faiss`를 바로 덮어쓰지 말고 별도 경로에 구축한 뒤 `rag_query.py --expected-embedding-model`로 모델 정합성을 검증합니다.
+2. **자동 색인 모드 호환성**:
+   * 기존 `--auto-index` 즉시 갱신 방식은 `--index-mode immediate`로 보존합니다.
+   * 대량 파일 유입 시에는 `--index-mode debounced` 또는 `--index-mode batch`를 사용해 전체 FAISS 재빌드 빈도를 낮출 수 있습니다. 이 변경은 처리량 개선용 운영 프로파일이며, 추출 산출물과 상태 frontmatter 규약은 변경하지 않습니다.
+3. **한글 자모분리(NFC/NFD) 방지**:
    * macOS 사용자가 SMB/NAS에 업로드한 파일은 한글 자모가 분리(NFD 방식)되어 저장되어, 리눅스 파일시스템 단에서 파일 경로 접근 시 인식 오류가 빈번합니다.
    * 파일 및 디렉터리 경로를 수집하여 접근하는 로직 초입에서는 반드시 `unicodedata.normalize('NFC', path)` 처리를 거치도록 설계하십시오.
-3. **임시 테스트 파일 잔여 금지**:
+4. **임시 테스트 파일 잔여 금지**:
    * 네트워크 연동 검증이나 자격증명 브루트포스 테스트를 위해 생성된 임시 스크립트(예: `crack_nas_auth.py`, `list_nas_shares.py` 등)는 세션 종료 전에 즉각 삭제하여, 원격 및 로컬 워크스페이스에 불필요한 파일을 남겨두지 마십시오.
-4. **결과물 언어**:
+5. **결과물 언어**:
    * 본 프로젝트의 보고서 및 코드 내 주석, 최종 결과물 작성 언어는 **한국어**로 통일합니다.

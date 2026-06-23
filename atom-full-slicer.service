@@ -1,0 +1,16 @@
+[Unit]
+Description=Atom Full RAG Indexing Slicer Service (Temporary for 1st Full Scan)
+After=network.target docker.service
+
+[Service]
+Type=simple
+User=caiser77
+WorkingDirectory=/home/caiser77/dgx_workspace
+ExecStart=/bin/bash /home/caiser77/dgx_workspace/run_all_slicers.sh
+Restart=always
+RestartSec=5
+StandardOutput=append:/home/caiser77/dgx_workspace/003. NAS 장기 배치 파이프라인/logs/slicer_systemd.log
+StandardError=append:/home/caiser77/dgx_workspace/003. NAS 장기 배치 파이프라인/logs/slicer_systemd.log
+
+[Install]
+WantedBy=multi-user.target

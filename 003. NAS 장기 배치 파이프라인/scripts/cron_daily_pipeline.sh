@@ -7,10 +7,6 @@
 export LANG=ko_KR.UTF-8
 export LC_ALL=ko_KR.UTF-8
 
-# 1. 환경 변수 로드 및 경로 설정
-export LANG=ko_KR.UTF-8
-export LC_ALL=ko_KR.UTF-8
-
 PROJECT_DIR="/home/caiser77/dgx_workspace"
 SCRIPT_PATH="${PROJECT_DIR}/003. NAS 장기 배치 파이프라인/scripts/longterm_batch_slicer.py"
 VENV_ACTIVATE="${PROJECT_DIR}/venv/bin/activate"
@@ -19,6 +15,15 @@ VENV_ACTIVATE="${PROJECT_DIR}/venv/bin/activate"
 PROCESSED_DIR="${PROJECT_DIR}/data/processed"
 INDEX_DIR="${PROJECT_DIR}/data/indexes/faiss"
 
+# 운영 프로파일: 기본값은 기존 high_quality 계약을 보존한다.
+ATOM_PROFILE="${AURUM_ATOM_PROFILE:-high_quality}"
+VLLM_ENDPOINT="${AURUM_VLLM_ENDPOINT:-http://localhost:8088/v1/chat/completions}"
+VLLM_MODEL="${AURUM_VLLM_MODEL:-Qwen/Qwen2.5-72B-Instruct-AWQ}"
+EMBEDDING_MODEL="${AURUM_EMBEDDING_MODEL:-sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2}"
+EMBEDDING_DEVICE="${AURUM_EMBEDDING_DEVICE:-cpu}"
+EMBEDDING_BATCH_SIZE="${AURUM_EMBEDDING_BATCH_SIZE:-32}"
+SKIP_CURRENT_INDEX="${AURUM_SKIP_CURRENT_INDEX:-1}"
+
 CRON_LOG="${PROJECT_DIR}/003. NAS 장기 배치 파이프라인/logs/cron_run.log"
 DAILY_REPORT="${PROJECT_DIR}/003. NAS 장기 배치 파이프라인/logs/daily_report.log"
 
@@ -26,6 +31,7 @@ mkdir -p "$(dirname "${CRON_LOG}")"
 mkdir -p "${PROCESSED_DIR}" "${INDEX_DIR}"
 
 echo "=== [$(date)] 배치 기동 프로세스 시작 ===" >> "${CRON_LOG}"
+echo "운영 프로파일: ${ATOM_PROFILE}, LLM: ${VLLM_MODEL}, Embedding: ${EMBEDDING_MODEL}/${EMBEDDING_DEVICE}" >> "${CRON_LOG}"
 
 # 2. 가상환경(venv) 활성화
 if [ -f "${VENV_ACTIVATE}" ]; then
@@ -35,20 +41,30 @@ else
     echo "[경고] 가상환경 활성화 스크립트가 없습니다. 기본 python3으로 실행을 시도합니다." >> "${CRON_LOG}"
 fi
 
-# 3. 4개 공식 NAS 마운트 디렉토리 순회 및 가공 (총합 limit 300을 위해 경로당 75개씩 배분)
-NAS_PATHS=("/mnt/nas2023old" "/mnt/nas2024" "/mnt/nas2025" "/mnt/nas2026")
+# 3. 공식 NAS 마운트 디렉토리 /mnt 가공 (개수 제한 없이 전수조사 최고속 가공 진행)
+NAS_PATHS=("/mnt")
 
 for path in "${NAS_PATHS[@]}"; do
     if [ -d "${path}" ]; then
-        echo "[$(date)] ${path} 디렉토리 배치 가공 개시 (Limit: 75)" >> "${CRON_LOG}"
+        echo "[$(date)] ${path} 디렉토리 배치 가공 개시 (제한 없음 - 전수조사 모드, Workers: 2)" >> "${CRON_LOG}"
+        INDEX_ARGS=()
+        if [ "${SKIP_CURRENT_INDEX}" = "1" ]; then
+          INDEX_ARGS+=(--skip-current-index)
+        fi
+
         python3 "${SCRIPT_PATH}" \
           --input-dir "${path}" \
           --processed-dir "${PROCESSED_DIR}" \
           --index-dir "${INDEX_DIR}" \
-          --limit 75 \
+          --limit 500000 \
+          --workers 2 \
           --ocr-endpoint "http://localhost:7870" \
-          --vllm-endpoint "http://localhost:8088/v1/chat/completions" \
-          --vllm-model "Qwen/Qwen2.5-72B-Instruct-AWQ" \
+          --vllm-endpoint "${VLLM_ENDPOINT}" \
+          --vllm-model "${VLLM_MODEL}" \
+          --embedding-model "${EMBEDDING_MODEL}" \
+          --embedding-device "${EMBEDDING_DEVICE}" \
+          --embedding-batch-size "${EMBEDDING_BATCH_SIZE}" \
+          "${INDEX_ARGS[@]}" \
           --report-file "${DAILY_REPORT}" \
           >> "${CRON_LOG}" 2>&1
     else
