@@ -293,81 +293,115 @@ if 'survey_log' not in st.session_state:
 
 # 5. 1차 전수조사 RAG 인덱싱 진행 현황 로깅 파서
 def get_full_scan_progress():
-    total = 0
-    completed = 0
-    pending = 0
-    current_file = ""
-    if os.path.exists(CRON_LOG_FILE):
-        try:
-            with open(CRON_LOG_FILE, 'r', encoding='utf-8', errors='replace') as f:
-                f.seek(0, os.SEEK_END)
-                size = f.tell()
-                read_size = min(size, 2000000)
-                f.seek(size - read_size)
-                content = f.read()
+    import glob
+    log_dir = os.path.join(PROJECT_ROOT, "003. NAS 장기 배치 파이프라인", "logs")
+    log_paths = glob.glob(os.path.join(log_dir, "slicer_*.log"))
+    
+    # 활성 슬라이서 로그들 취득 (크기 > 0)
+    active_logs = [p for p in log_paths if os.path.exists(p) and os.path.getsize(p) > 0]
+    if not active_logs:
+        active_logs = [CRON_LOG_FILE]
 
-            marker = "=== NAS 장기 배치 파이프라인 스캔 개시 ==="
-            marker_pos = content.rfind(marker)
-            current_run = content[marker_pos:] if marker_pos >= 0 else content
+    combined_total = 0
+    combined_completed = 0
+    combined_pending = 0
+    current_files = []
 
-            totals = re.findall(r"발견된 지원 포맷 파일 수:\s*(\d+)개", current_run)
-            skips = re.findall(r"가공 완료 스킵 파일 수:\s*(\d+)개", current_run)
-            pendings = re.findall(r"남은 미처리 가공 대상 수:\s*(\d+)개", current_run)
-            positions = re.findall(r"\[(\d+)/(\d+)\]\s*처리 시작:\s*(.*)", current_run)
-            successes = len(re.findall(r"✅\s*가공 완료", current_run))
+    for log_path in active_logs:
+        if os.path.exists(log_path):
+            try:
+                with open(log_path, 'r', encoding='utf-8', errors='replace') as f:
+                    f.seek(0, os.SEEK_END)
+                    size = f.tell()
+                    read_size = min(size, 2000000)
+                    f.seek(size - read_size)
+                    content = f.read()
 
-            if totals:
-                total = int(totals[-1])
-            skipped = int(skips[-1]) if skips else 0
-            if positions:
-                current_pos = int(positions[-1][0])
-                completed = skipped + max(successes, current_pos - 1)
-                current_file = positions[-1][2].strip()
-            else:
-                completed = skipped
-            if pendings:
-                pending = int(pendings[-1])
-        except Exception:
-            pass
-    if total > 0:
-        completed = min(completed, total)
-        pending = max(total - completed, 0)
-    progress_rate = (completed / total * 100) if total > 0 else 0.0
-    return total, completed, pending, progress_rate, current_file
+                marker = "=== NAS 장기 배치 파이프라인 스캔 개시 ==="
+                marker_pos = content.rfind(marker)
+                current_run = content[marker_pos:] if marker_pos >= 0 else content
+
+                totals = re.findall(r"발견된 지원 포맷 파일 수:\s*(\d+)개", current_run)
+                skips = re.findall(r"가공 완료 스킵 파일 수:\s*(\d+)개", current_run)
+                pendings = re.findall(r"남은 미처리 가공 대상 수:\s*(\d+)개", current_run)
+                positions = re.findall(r"\[(\d+)/(\d+)\]\s*처리 시작:\s*(.*)", current_run)
+                successes = len(re.findall(r"✅\s*가공 완료", current_run))
+
+                sub_total = 0
+                sub_completed = 0
+                sub_pending = 0
+                sub_current_file = ""
+
+                if totals:
+                    sub_total = int(totals[-1])
+                skipped = int(skips[-1]) if skips else 0
+                if positions:
+                    current_pos = int(positions[-1][0])
+                    sub_completed = skipped + max(successes, current_pos - 1)
+                    sub_current_file = positions[-1][2].strip()
+                else:
+                    sub_completed = skipped
+                if pendings:
+                    sub_pending = int(pendings[-1])
+
+                if sub_total > 0:
+                    sub_completed = min(sub_completed, sub_total)
+                    sub_pending = max(sub_total - sub_completed, 0)
+
+                combined_total += sub_total
+                combined_completed += sub_completed
+                combined_pending += sub_pending
+                if sub_current_file:
+                    label = os.path.basename(log_path).replace('slicer_', '').replace('.log', '')
+                    current_files.append(f"{label}: {sub_current_file}")
+            except Exception:
+                pass
+
+    if combined_total > 0:
+        combined_completed = min(combined_completed, combined_total)
+        combined_pending = max(combined_total - combined_completed, 0)
+    
+    progress_rate = (combined_completed / combined_total * 100) if combined_total > 0 else 0.0
+    combined_current_file = " | ".join(current_files) if current_files else ""
+    return combined_total, combined_completed, combined_pending, progress_rate, combined_current_file
 
 
 def get_rag_index_info():
-    count = 0
-    model_name = "미정"
+    best_count = 0
+    best_model_name = "미정"
 
+    # 1. mapping.json 파일들 우선 탐색하여 실 데이터 기준으로 확인
+    for mapping_file in (PRIMARY_RAG_MAPPING_FILE, BATCH_RAG_MAPPING_FILE):
+        if os.path.exists(mapping_file):
+            try:
+                with open(mapping_file, "r", encoding="utf-8") as f:
+                    header = f.read(4096)
+                count_match = re.search(r'"document_count":\s*(\d+)', header)
+                model_match = re.search(r'"model_name":\s*"([^"]+)"', header)
+                if count_match:
+                    count = int(count_match.group(1))
+                    if count > best_count:
+                        best_count = count
+                        if model_match:
+                            best_model_name = model_match.group(1)
+            except Exception:
+                pass
+
+    # 2. state.json 도 비교하여 최대치 반영
     if os.path.exists(PRIMARY_RAG_STATE_FILE):
         try:
             with open(PRIMARY_RAG_STATE_FILE, "r", encoding="utf-8") as f:
                 state = json.load(f)
-            # 1. state.json의 index -> document_count 및 model_name 우선 확인
             if "index" in state and isinstance(state["index"], dict):
                 count = state["index"].get("document_count", 0)
                 model_name = state["index"].get("model_name", "미정")
+                if count > best_count:
+                    best_count = count
+                    best_model_name = model_name
         except Exception:
             pass
 
-    # 만약 state.json에서 구하지 못한 경우에만 mapping 파일에서 패턴 추출 (대형 JSON 파싱 지연 방지)
-    if not count or model_name == "미정":
-        for mapping_file in (PRIMARY_RAG_MAPPING_FILE, BATCH_RAG_MAPPING_FILE):
-            if os.path.exists(mapping_file):
-                try:
-                    with open(mapping_file, "r", encoding="utf-8") as f:
-                        header = f.read(4096)
-                    count_match = re.search(r'"document_count":\s*(\d+)', header)
-                    if count_match and not count:
-                        count = int(count_match.group(1))
-                    model_match = re.search(r'"model_name":\s*"([^"]+)"', header)
-                    if model_match and model_name == "미정":
-                        model_name = model_match.group(1)
-                except Exception:
-                    pass
-
-    return count, model_name
+    return best_count, best_model_name
 
 # 6. 실시간 시스템 자원 파싱 함수 (psutil 연동)
 def get_system_resources():
@@ -908,5 +942,5 @@ with tab2:
 
 # 11. 자동 갱신 루프 처리
 if auto_refresh:
-    time.sleep(60)
-    st.rerun()
+    from streamlit_autorefresh import st_autorefresh
+    st_autorefresh(interval=60000, key="datarefresh")

@@ -16,3 +16,4 @@ services:
       - NODE_ENV=production
       # 구글 Gemini API 키 연동 (NAS 시스템 환경변수 또는 .env에서 자동 주입)
       - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+

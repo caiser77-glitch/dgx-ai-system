@@ -58,3 +58,5 @@ obsidian/.trash/
 .env.development.local
 .env.test.local
 .env.production.local
+# Atom watcher baseline runtime DB
+data/atom_watcher/
