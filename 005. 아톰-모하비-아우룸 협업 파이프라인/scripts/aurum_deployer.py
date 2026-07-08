@@ -28,6 +28,7 @@ class AurumDeployer:
         self.processed_jobs = set()
 
         # 폴더 초기화
+        os.makedirs(self.publish_dir, exist_ok=True)
         os.makedirs(self.published_stage_dir, exist_ok=True)
         os.makedirs(self.error_dir, exist_ok=True)
 
@@ -56,6 +57,36 @@ class AurumDeployer:
         except Exception as e:
             self.logger.error(f"메타데이터 파싱 실패 ({os.path.basename(file_path)}): {e}")
         return meta
+
+
+    def mark_published(self, file_path: str):
+        """배포 완료 후 draft frontmatter 상태를 published로 갱신합니다."""
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            if re.match(r'^---\s*\n.*?\n---\s*\n', content, re.DOTALL):
+                content = re.sub(
+                    r'(^---\s*\n.*?^status:\s*)[^\n]+',
+                    r'\1published',
+                    content,
+                    count=1,
+                    flags=re.DOTALL | re.MULTILINE,
+                )
+                content = re.sub(
+                    r'(^---\s*\n.*?^assigned_agent:\s*)[^\n]+',
+                    r'\1none',
+                    content,
+                    count=1,
+                    flags=re.DOTALL | re.MULTILINE,
+                )
+            else:
+                content = f"---\nstatus: published\nassigned_agent: none\n---\n\n{content}"
+
+            with open(file_path, 'w', encoding='utf-8') as f:
+                f.write(content)
+        except Exception as e:
+            self.logger.error(f"상태 갱신 실패 ({os.path.basename(file_path)}): {e}")
 
     def send_telegram_notification(self, job_id: str, meta: dict):
         """텔레그램 채널로 검수 대기 알림을 전송합니다."""
@@ -110,6 +141,10 @@ class AurumDeployer:
         try:
             # 1. 메타 파싱 및 알림
             meta = self.parse_metadata(full_draft_path)
+            status = meta.get('status', 'review_pending')
+            if status not in {'review_pending', 'reviewed'}:
+                self.logger.info(f"[{job_id}] 배포 대상 상태가 아니므로 건너뜁니다: {status}")
+                return
             self.send_telegram_notification(job_id, meta)
 
             # 2. HWP/PDF 변환 수행
@@ -125,6 +160,7 @@ class AurumDeployer:
             with open(nas_hwp, 'w', encoding='utf-8') as f: f.write("MOCK HWP")
             with open(nas_pdf, 'w', encoding='utf-8') as f: f.write("MOCK PDF")
             self.logger.info(f"[{job_id}] NAS 최종 배포 성공: {self.publish_dir}")
+            self.mark_published(full_draft_path)
 
             # 파일들 04_published 스테이지로 격리 이동
             for f_p in current_files:
@@ -164,5 +200,10 @@ if __name__ == "__main__":
     
     os.makedirs(PUBLISH, exist_ok=True)
     
-    deployer = AurumDeployer(WATCH, PUBLISH)
-    # deployer.start_monitoring()
+    deployer = AurumDeployer(
+        WATCH,
+        PUBLISH,
+        telegram_token=os.environ.get('TELEGRAM_BOT_TOKEN'),
+        chat_id=os.environ.get('ALLOWED_USER_ID'),
+    )
+    deployer.start_monitoring()

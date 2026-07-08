@@ -1,0 +1,16 @@
+{
+  "paths": {
+    "watch_dir": "~/AI_BASE/01_raw_analyzed",
+    "dest_dir": "~/AI_BASE/02_drafting",
+    "publish_dir": "~/AI_BASE/NAS_Distribution"
+  },
+  "settings": {
+    "poll_interval": 2,
+    "max_retry_attempts": 3,
+    "track_interval": 5
+  },
+  "env": {
+    "TELEGRAM_BOT_TOKEN": "set in shell, do not commit secrets",
+    "ALLOWED_USER_ID": "set in shell, do not commit secrets"
+  }
+}

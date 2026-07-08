@@ -7,6 +7,8 @@ import re
 import unicodedata
 from datetime import datetime
 
+READY_STATUSES = {"raw_analyzed", "completed"}
+
 class NFCGuard:
     """macOS(NFD)와 Linux/Windows(NFC) 간의 한글 깨짐을 방지하기 위한 유틸리티."""
     @staticmethod
@@ -46,7 +48,7 @@ class PipelineEngine:
                 with open(actual_config_path, 'r', encoding='utf-8') as f:
                     config = json.load(f)
                 self.watch_dir = NFCGuard.normalize(os.path.expanduser(config['paths']['watch_dir']))
-                self.dest_dir = NFCGuard.normalize(os.path.expanduser(config['paths']['dest_dir']))
+                self.dest_dir = NFCGuard.normalize(os.path.expanduser(config['paths'].get('dest_dir', '')))
                 self.poll_interval = config['settings'].get('poll_interval', 2)
                 self.max_retries = config['settings'].get('max_retry_attempts', 3)
             except Exception as e:
@@ -91,14 +93,24 @@ class PipelineEngine:
             return "unknown"
 
     def _generate_markdown(self, data: dict, job_id: str) -> str:
-        content = f"# [DRAFT] 생태 조사 결과 보고서 ({job_id})\n\n"
-        content += f"## 1. 기초 정보\n- 작업 ID: {data['metadata']['job_id']}\n- 생성 시각: {data['metadata']['timestamp']}\n\n"
-        content += f"## 2. 주요 정밀 지표 (Metrics)\n"
-        for k, v in data['payload']['metrics'].items():
+        metadata = data.get('metadata', {})
+        payload = data.get('payload', {})
+        content = (
+            "---\n"
+            "status: drafting\n"
+            "assigned_agent: Mohave\n"
+            f"job_id: \"{metadata.get('job_id', job_id)}\"\n"
+            f"last_updated: \"{datetime.now().isoformat(timespec='seconds')}\"\n"
+            "---\n\n"
+        )
+        content += f"# [DRAFT] 생태 조사 결과 보고서 ({job_id})\n\n"
+        content += f"## 1. 기초 정보\n- 작업 ID: {metadata.get('job_id', job_id)}\n- 생성 시각: {metadata.get('timestamp', '')}\n\n"
+        content += "## 2. 주요 정밀 지표 (Metrics)\n"
+        for k, v in payload.get('metrics', {}).items():
             name = k.replace("_", " ").title()
             content += f"- {name}: {v}\n"
         content += "\n## 3. 공간적 관측 데이터\n"
-        for obs in data['payload']['spatial_observations']:
+        for obs in payload.get('spatial_observations', []):
             content += f"- 위치: ({obs['lat']}, {obs['lon']}) | 개체수: {obs['count']} | 비고: {obs.get('note', '')}\n"
         return content
 
@@ -110,7 +122,8 @@ class PipelineEngine:
 
         try:
             status = self.parse_status(full_summary_path)
-            if status != "completed": return
+            if status not in READY_STATUSES:
+                return
 
             self.logger.info(f"[{job_id}] 작업 감지 - 상태 확인 완료.")
             result_file = os.path.join(self.watch_dir, f"{job_id}.result.json")
@@ -172,4 +185,4 @@ if __name__ == "__main__":
     # 인자 전달 (config.json 우선 처리)
     ENTRY = sys.argv[1] if len(sys.argv) > 1 else os.path.expanduser("~/AI_BASE/config.json")
     engine = PipelineEngine(ENTRY)
-    # engine.start_monitoring()
+    engine.start_monitoring()
