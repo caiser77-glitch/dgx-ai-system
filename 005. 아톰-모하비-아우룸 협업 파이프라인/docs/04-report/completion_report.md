@@ -8,6 +8,7 @@
 - `scripts/track_pipeline_status.py`: 모하비가 초안을 `status: review_pending` 또는 `status: reviewed`로 바꾸면 관련 파일 세트를 `03_review_pending`으로 이동한다.
 - `scripts/aurum_deployer.py`: `03_review_pending`의 draft를 배포 처리하고 HWP/PDF 산출물을 만든 뒤 `04_published`로 아카이빙한다.
 - `scripts/sync_obsidian_notes.sh`: 아톰, 모하비, 아우룸 간 stage 디렉터리와 피드백 DB를 rsync로 교환한다.
+- `scripts/export_processed_to_pipeline.py`: 002/003 `processed/metadata`와 `processed/text` 산출물을 005 `01_raw_analyzed` 입력으로 변환한다.
 - `scripts/simulate_pipeline_e2e.py`: 임시 디렉터리에서 전체 상태 전이를 검증한다.
 - `scripts/run_pipeline_local.sh`: 단일 호스트에서 3개 데몬을 함께 기동한다.
 - `scripts/pipeline_config.example.json`: 운영 경로 설정 예시를 제공한다.
@@ -60,6 +61,34 @@ TELEGRAM_BOT_TOKEN=... ALLOWED_USER_ID=... python3 scripts/aurum_deployer.py
 ATOM_PIPELINE_ROOT=~/AI_BASE MOHAVE_PIPELINE_ROOT=user@mac:/Users/user/Obsidian/AurumPipeline AURUM_PIPELINE_ROOT=user@aurum:/srv/aurum-pipeline scripts/sync_obsidian_notes.sh all
 ```
 
+
+002/003 산출물 export:
+
+```bash
+python3 scripts/export_processed_to_pipeline.py \
+  --processed-dir /home/caiser77/dgx_workspace/data/processed \
+  --pipeline-root ~/AI_BASE
+```
+
+002 단건 추출에서 바로 005로 export:
+
+```bash
+python3 "../002. 회사 NAS 분석/scripts/extract_data.py" \
+  --input /path/to/source.pdf \
+  --output-dir /home/caiser77/dgx_workspace/data/processed \
+  --pipeline-root ~/AI_BASE
+```
+
+003 장기 배치에서 성공 건을 바로 005로 export:
+
+```bash
+python3 "../003. NAS 장기 배치 파이프라인/scripts/longterm_batch_slicer.py" \
+  --input-dir /mnt/nas2026 \
+  --processed-dir /home/caiser77/dgx_workspace/data/processed \
+  --index-dir /home/caiser77/dgx_workspace/data/indexes/faiss \
+  --pipeline-root ~/AI_BASE
+```
+
 로컬 E2E 검증:
 
 ```bash
@@ -81,4 +110,5 @@ PYTHONDONTWRITEBYTECODE=1 scripts/simulate_pipeline_e2e.py
 
 - 실제 HWP/PDF 변환은 `AURUM_CONVERT_COMMAND`에 외부 변환 명령을 연결해야 한다. 미설정 상태에서는 검수/배포 흐름을 끊지 않기 위해 HWP/PDF 변환 대기 산출물과 원본 MD를 생성한다.
 - 모하비의 실제 RAG 초안 작성 엔진은 외부 에이전트/옵시디언 워크플로에 연결해야 한다. 현재 트래커는 완료된 draft의 상태 전이를 담당한다.
+- 텔레그램 피드백 봇은 에이전트 간 봇 토큰 충돌 방지를 위해 이번 통합에서 변경하지 않았다. 005는 파일 기반 export/sync만 수행한다.
 - rsync 원격 경로와 인증키, macOS 자모 변환 옵션(`RSYNC_ICONV`)은 운영 장비별로 환경변수에서 확정해야 한다.
