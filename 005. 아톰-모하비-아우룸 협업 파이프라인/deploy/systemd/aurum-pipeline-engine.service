@@ -1,0 +1,14 @@
+[Unit]
+Description=Atom-Mohave-Aurum Pipeline Engine
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/caiser77/dgx_workspace/005. 아톰-모하비-아우룸 협업 파이프라인
+EnvironmentFile=-/home/caiser77/AI_BASE/pipeline.env
+ExecStart=/usr/bin/python3 scripts/pipeline_engine.py ${PIPELINE_ROOT}/01_raw_analyzed
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target

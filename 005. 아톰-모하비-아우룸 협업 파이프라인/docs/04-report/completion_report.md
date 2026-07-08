@@ -9,7 +9,11 @@
 - `scripts/aurum_deployer.py`: `03_review_pending`의 draft를 배포 처리하고 HWP/PDF 산출물을 만든 뒤 `04_published`로 아카이빙한다.
 - `scripts/sync_obsidian_notes.sh`: 아톰, 모하비, 아우룸 간 stage 디렉터리와 피드백 DB를 rsync로 교환한다.
 - `scripts/simulate_pipeline_e2e.py`: 임시 디렉터리에서 전체 상태 전이를 검증한다.
+- `scripts/run_pipeline_local.sh`: 단일 호스트에서 3개 데몬을 함께 기동한다.
 - `scripts/pipeline_config.example.json`: 운영 경로 설정 예시를 제공한다.
+- `scripts/pipeline.env.example`: 운영 환경변수 템플릿을 제공한다.
+- `deploy/systemd/*.service`: Linux/systemd 서비스 템플릿을 제공한다.
+- `deploy/launchd/com.aurum.pipeline.tracker.plist`: macOS/launchd 트래커 템플릿을 제공한다.
 
 ## 2. 표준 상태 전이
 
@@ -75,6 +79,6 @@ PYTHONDONTWRITEBYTECODE=1 scripts/simulate_pipeline_e2e.py
 
 ## 5. 남은 프로덕션 연동 과제
 
-- 현재 HWP/PDF 변환은 `MOCK HWP`, `MOCK PDF` 파일 생성이다. 실제 운영에서는 Pandoc, Weasyprint, 한글 OLE Automation 중 하나로 `convert_to_hwp_pdf()`를 교체해야 한다.
+- 실제 HWP/PDF 변환은 `AURUM_CONVERT_COMMAND`에 외부 변환 명령을 연결해야 한다. 미설정 상태에서는 검수/배포 흐름을 끊지 않기 위해 HWP/PDF 변환 대기 산출물과 원본 MD를 생성한다.
 - 모하비의 실제 RAG 초안 작성 엔진은 외부 에이전트/옵시디언 워크플로에 연결해야 한다. 현재 트래커는 완료된 draft의 상태 전이를 담당한다.
 - rsync 원격 경로와 인증키, macOS 자모 변환 옵션(`RSYNC_ICONV`)은 운영 장비별로 환경변수에서 확정해야 한다.

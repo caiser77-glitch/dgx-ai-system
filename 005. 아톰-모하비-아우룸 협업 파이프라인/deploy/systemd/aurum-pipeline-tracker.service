@@ -1,0 +1,15 @@
+[Unit]
+Description=Atom-Mohave-Aurum Pipeline Status Tracker
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/caiser77/dgx_workspace/005. 아톰-모하비-아우룸 협업 파이프라인
+EnvironmentFile=-/home/caiser77/AI_BASE/pipeline.env
+ExecStartPre=/usr/bin/python3 scripts/track_pipeline_status.py --root ${PIPELINE_ROOT} init
+ExecStart=/usr/bin/python3 scripts/track_pipeline_status.py --root ${PIPELINE_ROOT} watch --interval ${PIPELINE_TRACK_INTERVAL}
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target
