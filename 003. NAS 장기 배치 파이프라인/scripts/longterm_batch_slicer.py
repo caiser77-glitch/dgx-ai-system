@@ -39,7 +39,10 @@ def safe_stem(source_path: Path) -> str:
 
 def call_vllm_for_summary(text: str, endpoint: str, model_name: str) -> dict:
     """vLLM API를 호출하여 핵심 요약 3줄, 카테고리, 키워드 태그를 생성합니다."""
-    truncated_text = text[:6000] # 성능 및 컨텍스트 한계 고려
+    # 모델 max_model_len=4096 토큰 한도 내에 프롬프트(지침+스키마)+응답(512토큰)을 모두
+    # 담아야 하는데, 한글/CJK는 문자당 토큰 소모가 커서 6000자는 쉽게 4096 토큰을 넘겨
+    # vLLM이 요청 자체를 거부했다(VLLMValidationError). 안전 마진을 두고 2000자로 축소.
+    truncated_text = text[:2000] # 성능 및 컨텍스트 한계 고려
 
     prompt = (
         "당신은 아우룸생태연구소의 문서 분석 및 요약 전문가입니다. "
@@ -144,6 +147,7 @@ def main():
     parser.add_argument("--mtime-days", type=int, default=0, help="N일 이내에 수정된 파일만 대상 (0이면 제한 없음)")
     parser.add_argument("--sort-newest", action="store_true", help="최신 수정 파일부터 순차 가공 (미설정 시 오래된 파일부터)")
     parser.add_argument("--report-file", default="", help="일일 배치 결과 리포트 파일 경로")
+    parser.add_argument("--pipeline-root", default="", help="005 협업 파이프라인 stage 루트. 지정 시 성공 metadata를 raw_analyzed로 export")
     parser.add_argument("--workers", type=int, default=2, help="병렬 가공을 위한 스레드 워커 수 (디폴트: 2)")
 
     args = parser.parse_args()
@@ -156,6 +160,7 @@ def main():
     project_root = Path(__file__).resolve().parent.parent.parent
     extract_script = project_root / "002. 회사 NAS 분석" / "scripts" / "extract_data.py"
     index_script = project_root / "002. 회사 NAS 분석" / "scripts" / "index_documents.py"
+    exporter_script = project_root / "005. 아톰-모하비-아우룸 협업 파이프라인" / "scripts" / "export_processed_to_pipeline.py"
 
     if not extract_script.exists():
         # Fallback: 로컬 스크립트 디렉토리 탐색
@@ -336,6 +341,24 @@ def main():
         metadata_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
 
         update_text_file_with_summary(text_path, ai_summary)
+
+        if args.pipeline_root:
+            if exporter_script.exists():
+                export_cmd = [
+                    python_exe,
+                    str(exporter_script),
+                    "--processed-dir", str(processed_dir),
+                    "--pipeline-root", str(Path(args.pipeline_root).expanduser()),
+                    "--metadata-file", str(metadata_path),
+                    "--overwrite",
+                ]
+                export_res = subprocess.run(export_cmd, capture_output=True, text=True)
+                if export_res.returncode != 0:
+                    with print_lock:
+                        print(f"⚠️ 005 협업 파이프라인 export 실패 ({file_path.name}): {export_res.stderr.strip()}", file=sys.stderr)
+            else:
+                with print_lock:
+                    print(f"⚠️ 005 exporter 없음: {exporter_script}", file=sys.stderr)
 
         with print_lock:
             print(f"✅ 가공 완료 (카테고리: {category}) [{file_path.name}]")

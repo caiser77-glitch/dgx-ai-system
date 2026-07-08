@@ -7,10 +7,12 @@ import argparse
 from datetime import datetime, timezone, timedelta
 import json
 import logging
+import os
 from pathlib import Path
 import shlex
 import subprocess
 import sys
+import threading
 import time
 
 from watchdog.events import FileSystemEventHandler
@@ -60,30 +62,40 @@ def setup_logger(log_path: Path) -> logging.Logger:
     return logger
 
 
-def update_state(state_path: Path, device_name: str, event: dict) -> None:
-    state_path.parent.mkdir(parents=True, exist_ok=True)
-    try:
-        state = json.loads(state_path.read_text(encoding="utf-8"))
-    except (FileNotFoundError, json.JSONDecodeError):
-        state = {"watchers": {}, "recent_events": []}
+# 여러 감시 경로에서 파일이 거의 동시에 감지되면 워치독 콜백이 별도 스레드에서
+# 겹쳐 실행될 수 있다. 잠금 없이는 두 스레드가 같은 고정 임시 파일명을 놓고
+# 경쟁하다 replace()가 FileNotFoundError로 죽거나, 한쪽 이벤트 기록이 조용히
+# 유실될 수 있어 프로세스 내 잠금과 스레드별 고유 임시 파일명을 함께 사용한다.
+_state_lock = threading.Lock()
 
-    event = {"timestamp": now_iso(), "device_name": device_name, **event}
-    watchers = state.setdefault("watchers", {})
-    watcher = watchers.setdefault(device_name, {})
-    watcher.update(
-        {
-            "last_event": event.get("type"),
-            "last_event_at": event["timestamp"],
-            "last_file": event.get("file_path", watcher.get("last_file")),
-            "last_status": event.get("status", watcher.get("last_status")),
-        }
-    )
-    state.setdefault("recent_events", []).insert(0, event)
-    state["recent_events"] = state["recent_events"][:50]
-    state["updated_at"] = event["timestamp"]
-    tmp_path = state_path.with_suffix(state_path.suffix + ".tmp")
-    tmp_path.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
-    tmp_path.replace(state_path)
+
+def update_state(state_path: Path, device_name: str, event: dict) -> None:
+    with _state_lock:
+        state_path.parent.mkdir(parents=True, exist_ok=True)
+        try:
+            state = json.loads(state_path.read_text(encoding="utf-8"))
+        except (FileNotFoundError, json.JSONDecodeError):
+            state = {"watchers": {}, "recent_events": []}
+
+        event = {"timestamp": now_iso(), "device_name": device_name, **event}
+        watchers = state.setdefault("watchers", {})
+        watcher = watchers.setdefault(device_name, {})
+        watcher.update(
+            {
+                "last_event": event.get("type"),
+                "last_event_at": event["timestamp"],
+                "last_file": event.get("file_path", watcher.get("last_file")),
+                "last_status": event.get("status", watcher.get("last_status")),
+            }
+        )
+        state.setdefault("recent_events", []).insert(0, event)
+        state["recent_events"] = state["recent_events"][:50]
+        state["updated_at"] = event["timestamp"]
+        tmp_path = state_path.with_suffix(
+            f"{state_path.suffix}.{os.getpid()}.{threading.get_ident()}.tmp"
+        )
+        tmp_path.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+        tmp_path.replace(state_path)
 
 
 def wait_for_stable_file(path: Path, checks: int, interval: float) -> bool:
@@ -202,7 +214,23 @@ class NewFileHandler(FileSystemEventHandler):
         self.pending_index_files = []
         self.last_index_completed_at = time.time()
 
+    # AI 파이프라인 자체 산출물(맥/아톰 출력 미러, 인박스)이 NAS에 다시 올라오면서
+    # 원본 문서로 오인되어 재처리되는 것을 방지 (예: nas2026/_AURUM_AI_PROCESSED)
+    EXCLUDED_DIR_NAMES = {"_AURUM_AI_PROCESSED", "_AURUM_AI_INBOX"}
+
+    # longterm_batch_slicer.py의 --extensions 기본값과 동일하게 맞춰,
+    # 문서 확장자가 아닌 모든 파일 생성 이벤트(사진, json, 임시 파일 등)를 건너뛴다.
+    ALLOWED_EXTENSIONS = {
+        ".pdf", ".docx", ".txt", ".pptx", ".xlsx", ".csv", ".hwp", ".hwpx", ".xls",
+    }
+
     def is_ignored_path(self, file_path: Path) -> bool:
+        if self.EXCLUDED_DIR_NAMES.intersection(file_path.parts):
+            return True
+
+        if file_path.suffix.lower() not in self.ALLOWED_EXTENSIONS:
+            return True
+
         ignored_roots = [self.processed_dir, self.index_dir]
         try:
             resolved_file = file_path.resolve()
@@ -478,7 +506,7 @@ class NewFileHandler(FileSystemEventHandler):
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument('--watch', required=True, help='감시할 폴더 경로')
+    p.add_argument('--watch', required=True, nargs='+', help='감시할 폴더 경로 (여러 개 지정 가능)')
     p.add_argument('--command', default=str(DEFAULT_EXTRACTOR), help='호출할 스크립트 경로')
     p.add_argument('--device-name', default='unknown', help='메타데이터에 기록할 장비명')
     p.add_argument('--log-file', default=str(DEFAULT_LOG), help='watcher 로그 파일 경로')
@@ -516,9 +544,10 @@ def main():
     args = p.parse_args()
 
     logger = setup_logger(Path(args.log_file))
-    watch_path = Path(args.watch)
-    if not watch_path.exists():
-        raise SystemExit(f"감시 경로 없음: {watch_path}")
+    watch_paths = [Path(w) for w in args.watch]
+    for watch_path in watch_paths:
+        if not watch_path.exists():
+            raise SystemExit(f"감시 경로 없음: {watch_path}")
 
     handler = NewFileHandler(
         args.command,
@@ -536,33 +565,35 @@ def main():
         args.index_every_n_files,
     )
     observer = PollingObserver() if args.observer == 'polling' else Observer()
-    observer.schedule(handler, str(watch_path), recursive=True)
+    for watch_path in watch_paths:
+        observer.schedule(handler, str(watch_path), recursive=True)
     observer.start()
-    logger.info("watch_started path=%s device=%s", watch_path, args.device_name)
+    watch_paths_str = ", ".join(str(w) for w in watch_paths)
+    logger.info("watch_started paths=%s device=%s", watch_paths_str, args.device_name)
     update_state(
         Path(args.state_file),
         args.device_name,
         {
             "type": "watch_started",
             "status": "running",
-            "watch_path": str(watch_path),
+            "watch_path": watch_paths_str,
         },
     )
     if slack_enabled():
-        send_slack_message(f"Watchdog 감시 시작: {args.watch}")
+        send_slack_message(f"Watchdog 감시 시작: {watch_paths_str}")
     try:
         while True:
             time.sleep(1)
     except KeyboardInterrupt:
         observer.stop()
-        logger.info("watch_stopped path=%s device=%s", watch_path, args.device_name)
+        logger.info("watch_stopped paths=%s device=%s", watch_paths_str, args.device_name)
         update_state(
             Path(args.state_file),
             args.device_name,
             {
                 "type": "watch_stopped",
                 "status": "stopped",
-                "watch_path": str(watch_path),
+                "watch_path": watch_paths_str,
             },
         )
     observer.join()

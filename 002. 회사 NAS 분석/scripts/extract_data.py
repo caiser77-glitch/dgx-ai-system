@@ -2,6 +2,7 @@
 """Extract text, table outputs, and metadata from uploaded local files."""
 import argparse
 import os
+import subprocess
 import csv
 import hashlib
 import json
@@ -89,13 +90,22 @@ def extract_text(source_path: Path, dirs: dict[str, Path], stem: str) -> dict:
     return {"text": str(output_path), "tables": []}
 
 
+def read_csv_rows_with_fallback(source_path: Path) -> list:
+    """국내 구버전 문헌 CSV는 UTF-8이 아닌 CP949/EUC-KR로 저장된 경우가 많아
+    순서대로 시도하고, 전부 실패하면 손상 바이트를 치환해서라도 읽어낸다."""
+    for encoding in ("utf-8-sig", "cp949", "euc-kr"):
+        try:
+            with source_path.open("r", encoding=encoding, newline="") as src:
+                return list(csv.reader(src))
+        except UnicodeDecodeError:
+            continue
+    with source_path.open("r", encoding="utf-8", errors="replace", newline="") as src:
+        return list(csv.reader(src))
+
+
 def extract_csv(source_path: Path, dirs: dict[str, Path], stem: str) -> dict:
     table_path = dirs["tables"] / f"{stem}.csv"
-    rows = []
-    with source_path.open("r", encoding="utf-8-sig", newline="") as src:
-        reader = csv.reader(src)
-        for row in reader:
-            rows.append(row)
+    rows = read_csv_rows_with_fallback(source_path)
 
     with table_path.open("w", encoding="utf-8", newline="") as dst:
         writer = csv.writer(dst)
@@ -120,30 +130,41 @@ def extract_xlsx(source_path: Path, dirs: dict[str, Path], stem: str) -> dict:
     except ImportError as exc:
         raise RuntimeError("openpyxl is required for .xlsx extraction") from exc
 
-    workbook = load_workbook(source_path, read_only=True, data_only=True)
-    table_paths = []
-    summaries = [
-        f"source_name: {source_path.name}",
-        "source_type: xlsx",
-    ]
-    for worksheet in workbook.worksheets:
-        sheet_name = re.sub(r"[^A-Za-z0-9_.-]+", "_", worksheet.title).strip("._")
-        table_path = dirs["tables"] / f"{stem}.{sheet_name or 'sheet'}.csv"
-        rows = list(worksheet.iter_rows(values_only=True))
-        with table_path.open("w", encoding="utf-8", newline="") as dst:
-            writer = csv.writer(dst)
-            writer.writerows(
-                ["" if cell is None else cell for cell in row]
-                for row in rows
+    try:
+        workbook = load_workbook(source_path, read_only=True, data_only=True)
+        table_paths = []
+        summaries = [
+            f"source_name: {source_path.name}",
+            "source_type: xlsx",
+        ]
+        for worksheet in workbook.worksheets:
+            sheet_name = re.sub(r"[^A-Za-z0-9_.-]+", "_", worksheet.title).strip("._")
+            table_path = dirs["tables"] / f"{stem}.{sheet_name or 'sheet'}.csv"
+            rows = list(worksheet.iter_rows(values_only=True))
+            with table_path.open("w", encoding="utf-8", newline="") as dst:
+                writer = csv.writer(dst)
+                writer.writerows(
+                    ["" if cell is None else cell for cell in row]
+                    for row in rows
+                )
+            table_paths.append(str(table_path))
+            summaries.append(
+                f"sheet: {worksheet.title}, rows: {len(rows)}, columns: {worksheet.max_column}"
             )
-        table_paths.append(str(table_path))
-        summaries.append(
-            f"sheet: {worksheet.title}, rows: {len(rows)}, columns: {worksheet.max_column}"
-        )
 
-    text_path = dirs["text"] / f"{stem}.txt"
-    write_text(text_path, "\n".join(summaries) + "\n")
-    return {"text": str(text_path), "tables": table_paths}
+        text_path = dirs["text"] / f"{stem}.txt"
+        write_text(text_path, "\n".join(summaries) + "\n")
+        return {"text": str(text_path), "tables": table_paths}
+    except Exception as exc:
+        # 손상된 XML 등으로 openpyxl이 workbook 자체를 열지 못하는 파일은
+        # 매 배치마다 영구히 재시도되는 것을 막기 위해 기본 메타데이터로 대체한다.
+        print(f"xlsx 파싱 실패, 기본 메타데이터로 대체: {source_path.name}: {exc}", file=sys.stderr)
+        outputs = extract_basic_metadata(source_path, dirs, stem)
+        text_path = Path(outputs["text"])
+        note = f"content_extraction_error: {exc}\n"
+        with text_path.open("a", encoding="utf-8") as f:
+            f.write(note)
+        return outputs
 
 
 def extract_image(source_path: Path, dirs: dict[str, Path], stem: str) -> dict:
@@ -1137,6 +1158,31 @@ def process_image_directory(
     return 0
 
 
+
+def export_to_collaboration_pipeline(metadata_path: Path, output_dir: Path, pipeline_root: str | None) -> None:
+    """성공 metadata를 005 협업 파이프라인 raw_analyzed 입력으로 변환한다."""
+    if not pipeline_root:
+        return
+    project_root = Path(__file__).resolve().parent.parent.parent
+    exporter = project_root / "005. 아톰-모하비-아우룸 협업 파이프라인" / "scripts" / "export_processed_to_pipeline.py"
+    if not exporter.exists():
+        print(f"005 pipeline exporter not found: {exporter}", file=sys.stderr)
+        return
+    cmd = [
+        sys.executable or "python3",
+        str(exporter),
+        "--processed-dir", str(output_dir),
+        "--pipeline-root", str(Path(pipeline_root).expanduser()),
+        "--metadata-file", str(metadata_path),
+        "--overwrite",
+    ]
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    if result.stdout.strip():
+        print(result.stdout.strip())
+    if result.returncode != 0:
+        print(f"005 pipeline export failed: {result.stderr.strip()}", file=sys.stderr)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("legacy_input", nargs="?", help="이전 형식의 입력 파일 경로")
@@ -1149,6 +1195,7 @@ def main() -> int:
     parser.add_argument("--no-telegram", action="store_true", help="텔레그램 알림 발송 생략 (배치 모드용)")
     parser.add_argument("--no-ai", action="store_true", help="Hermes AI 분류 생략 — 경로 파싱으로 대체 (배치 고속 모드)")
     parser.add_argument("--threads", type=int, default=16, help="디렉토리 스캔 시 병렬 작업자(스레드) 수")
+    parser.add_argument("--pipeline-root", help="005 협업 파이프라인 stage 루트. 지정 시 raw_analyzed 입력 파일을 생성")
     args = parser.parse_args()
 
     input_value = args.input_path or args.legacy_input
@@ -1232,6 +1279,7 @@ def main() -> int:
             generate_obsidian_note(metadata, output_dir)
         except Exception as e:
             print(f"Failed to generate obsidian note: {e}", file=sys.stderr)
+        export_to_collaboration_pipeline(metadata_path, output_dir, args.pipeline_root)
         print(f"metadata={metadata_path}")
         return 0
     except Exception as exc:

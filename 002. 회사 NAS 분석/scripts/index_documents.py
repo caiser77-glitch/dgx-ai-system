@@ -113,7 +113,9 @@ def load_metadata(processed_dir: Path) -> dict[str, dict]:
     for metadata_path in metadata_dir.glob("*.metadata.json"):
         try:
             metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
-        except json.JSONDecodeError:
+        except (json.JSONDecodeError, UnicodeDecodeError, OSError):
+            # 손상되었거나 인코딩이 깨진 개별 metadata.json 하나 때문에
+            # 전체 인덱스 빌드가 중단되지 않도록 건너뛴다.
             continue
         text_output = metadata.get("outputs", {}).get("text")
         if text_output:
