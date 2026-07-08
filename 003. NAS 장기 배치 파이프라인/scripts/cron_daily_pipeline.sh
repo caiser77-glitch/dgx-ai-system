@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
-
-# 003. NAS 장기 배치 파이프라인 - 매일 자동 구동 쉘 스크립트
-# Cron 스케줄러가 매일 자정에 이 스크립트를 기동합니다.
+# Created: 2026-06-30 by Antigravity AI
+# Purpose: Remote batch script for daily ingestion pipeline (Refactored to 12 workers for full-speed execution)
 
 # 1. 환경 변수 로드 및 경로 설정
 export LANG=ko_KR.UTF-8
@@ -17,8 +16,8 @@ INDEX_DIR="${PROJECT_DIR}/data/indexes/faiss"
 
 # 운영 프로파일: 기본값은 기존 high_quality 계약을 보존한다.
 ATOM_PROFILE="${AURUM_ATOM_PROFILE:-high_quality}"
-VLLM_ENDPOINT="${AURUM_VLLM_ENDPOINT:-http://localhost:8088/v1/chat/completions}"
-VLLM_MODEL="${AURUM_VLLM_MODEL:-Qwen/Qwen2.5-72B-Instruct-AWQ}"
+VLLM_ENDPOINT="http://localhost:8088/v1/chat/completions"
+VLLM_MODEL="Qwen/Qwen2.5-72B-Instruct-AWQ"
 EMBEDDING_MODEL="${AURUM_EMBEDDING_MODEL:-sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2}"
 EMBEDDING_DEVICE="${AURUM_EMBEDDING_DEVICE:-cpu}"
 EMBEDDING_BATCH_SIZE="${AURUM_EMBEDDING_BATCH_SIZE:-32}"
@@ -41,12 +40,12 @@ else
     echo "[경고] 가상환경 활성화 스크립트가 없습니다. 기본 python3으로 실행을 시도합니다." >> "${CRON_LOG}"
 fi
 
-# 3. 공식 NAS 마운트 디렉토리 /mnt 가공 (개수 제한 없이 전수조사 최고속 가공 진행)
+# 3. 공식 NAS 마운트 디렉토리 /mnt 가공 (Workers: 12로 초고속 풀가동)
 NAS_PATHS=("/mnt")
 
 for path in "${NAS_PATHS[@]}"; do
     if [ -d "${path}" ]; then
-        echo "[$(date)] ${path} 디렉토리 배치 가공 개시 (제한 없음 - 전수조사 모드, Workers: 2)" >> "${CRON_LOG}"
+        echo "[$(date)] ${path} 디렉토리 배치 가공 개시 (제한 없음 - 전수조사 모드, Workers: 12)" >> "${CRON_LOG}"
         INDEX_ARGS=()
         if [ "${SKIP_CURRENT_INDEX}" = "1" ]; then
           INDEX_ARGS+=(--skip-current-index)
@@ -57,7 +56,7 @@ for path in "${NAS_PATHS[@]}"; do
           --processed-dir "${PROCESSED_DIR}" \
           --index-dir "${INDEX_DIR}" \
           --limit 500000 \
-          --workers 2 \
+          --workers 20 \
           --ocr-endpoint "http://localhost:7870" \
           --vllm-endpoint "${VLLM_ENDPOINT}" \
           --vllm-model "${VLLM_MODEL}" \

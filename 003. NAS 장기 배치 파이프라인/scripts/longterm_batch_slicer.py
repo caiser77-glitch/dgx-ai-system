@@ -175,12 +175,15 @@ def main():
     print(f"- 병렬 워커 수: {args.workers} 개")
 
     # 1. 파일 목록 순회 및 스캔
+    # AI 파이프라인 자체 산출물(맥/아톰 출력 미러, 인박스)이 NAS에 다시 올라오면서
+    # 원본 문서로 오인되어 재처리되는 것을 방지 (예: nas2026/_AURUM_AI_PROCESSED)
+    EXCLUDED_DIR_NAMES = {"_AURUM_AI_PROCESSED", "_AURUM_AI_INBOX"}
     raw_files = []
     for root, dirs, files in os.walk(input_dir):
-        # 숨김 폴더 제외
-        dirs[:] = [d for d in dirs if not d.startswith('.')]
+        # 숨김 폴더 및 AI 파이프라인 산출물 폴더 제외
+        dirs[:] = [d for d in dirs if not d.startswith('.') and d not in EXCLUDED_DIR_NAMES]
         for file in files:
-            if file.startswith('.'):
+            if file.startswith('.') or file.startswith('~$'):
                 continue
             file_path = Path(root) / file
             ext = file_path.suffix.lower()
@@ -193,8 +196,20 @@ def main():
     target_files = []
     skipped_count = 0
 
+    completed_meta_map = {}
+    meta_dir = processed_dir / "metadata"
+    if meta_dir.exists():
+        try:
+            for entry in os.scandir(meta_dir):
+                if entry.is_file() and entry.name.endswith(".metadata.json"):
+                    try:
+                        completed_meta_map[entry.name] = entry.stat().st_size
+                    except Exception:
+                        pass
+        except Exception:
+            pass
+
     for file_path in raw_files:
-        # 시간 제한이 설정되어 있으면 확인
         if args.mtime_days > 0:
             mtime = datetime.fromtimestamp(file_path.stat().st_mtime)
             age = datetime.now() - mtime
@@ -202,19 +217,13 @@ def main():
                 continue
 
         stem = safe_stem(file_path)
-        metadata_path = processed_dir / "metadata" / f"{stem}.metadata.json"
+        meta_filename = f"{stem}.metadata.json"
 
-        # 메타데이터가 정상적이고 ai_summary가 존재하면 완료된 것으로 판단
-        if metadata_path.exists():
-            try:
-                meta = json.loads(metadata_path.read_text(encoding="utf-8"))
-                if meta.get("status") == "success" and "ai_summary" in meta:
-                    skipped_count += 1
-                    continue
-            except Exception:
-                pass
+        if meta_filename in completed_meta_map:
+            if completed_meta_map[meta_filename] >= 1024:
+                skipped_count += 1
+                continue
 
-        # 가공 대상 리스트에 추가 (파일 경로, 수정 시각)
         target_files.append((file_path, file_path.stat().st_mtime))
 
     print(f"가공 완료 스킵 파일 수: {skipped_count}개")
@@ -309,13 +318,27 @@ def main():
         ai_summary = call_vllm_for_summary(text_content, args.vllm_endpoint, args.vllm_model)
 
         meta["ai_summary"] = ai_summary
+        category = ai_summary.get("category") or "기타"
+        ai_classification = meta.get("ai_classification")
+        if not isinstance(ai_classification, dict):
+            ai_classification = {}
+        if not ai_classification.get("class_name"):
+            ai_classification["class_name"] = category
+        if not ai_classification.get("summary"):
+            summary_lines = ai_summary.get("summary", [])
+            ai_classification["summary"] = "\n".join(line for line in summary_lines if line)
+        if not ai_classification.get("tags"):
+            ai_classification["tags"] = [f"#{kw}" for kw in ai_summary.get("keywords", []) if kw]
+        ai_classification.setdefault("is_ambiguous", False)
+        ai_classification.setdefault("question", "")
+        meta["ai_classification"] = ai_classification
         meta["processed_at"] = now_iso()
         metadata_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
 
         update_text_file_with_summary(text_path, ai_summary)
 
         with print_lock:
-            print(f"✅ 가공 완료 (카테고리: {ai_summary.get('category')}) [{file_path.name}]")
+            print(f"✅ 가공 완료 (카테고리: {category}) [{file_path.name}]")
         with counter_lock:
             success_count += 1
 
