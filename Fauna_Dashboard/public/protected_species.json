@@ -1,8 +1,0 @@
-[
-  {"name": "수달", "rank": "멸종위기 I급", "category": "포유류"},
-  {"name": "삵", "rank": "멸종위기 II급", "category": "포유류"},
-  {"name": "참매", "rank": "천연기념물", "category": "조류"},
-  {"name": "금개구리", "rank": "멸종위기 II급", "category": "양서류"},
-  {"name": "맹꽁이", "rank": "멸종위기 II급", "category": "양서류"},
-  {"name": "담비", "rank": "멸종위기 II급", "category": "포유류"}
-]
