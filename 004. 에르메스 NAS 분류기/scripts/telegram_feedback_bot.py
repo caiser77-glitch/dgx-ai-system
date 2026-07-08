@@ -76,13 +76,29 @@ def parse_original_message(text: str) -> dict:
     return info
 
 
-def extract_approved_class(user_text: str) -> str:
+def extract_approved_class(user_text: str) -> str | None:
     """사용자 텍스트에서 정정하고자 하는 생물 분류군 키워드를 추출합니다."""
     classes = ["양서파충류", "조류", "포유류", "어류", "식물상", "육상곤충", "해충", "담수조류"]
     for cls in classes:
         if cls in user_text:
             return cls
-    return "기타"
+    return None
+
+
+def is_approval_reply(user_text: str) -> bool:
+    """분류군 정정 없이 현재 추론을 승인하는 짧은 답장인지 판별합니다."""
+    text = re.sub(r"\s+", "", user_text or "").lower()
+    approval_keywords = [
+        "승인",
+        "맞아",
+        "맞습니다",
+        "그래",
+        "그대로",
+        "ok",
+        "okay",
+        "yes",
+    ]
+    return any(keyword in text for keyword in approval_keywords)
 
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -132,6 +148,15 @@ async def handle_feedback_reply(update: Update, context: ContextTypes.DEFAULT_TY
 
     user_text = message.text
     user_approved = extract_approved_class(user_text)
+    if user_approved is None and is_approval_reply(user_text):
+        user_approved = info["inferred_class"]
+
+    if not user_approved:
+        await message.reply_text(
+            "💡 **안내**: 분류를 승인하려면 `승인`이라고 답장하고, 정정하려면 `조류`, `양서파충류`처럼 올바른 분류군을 포함해 주세요.",
+            parse_mode="Markdown"
+        )
+        return
 
     # DB에 저장
     success = insert_feedback_rule(

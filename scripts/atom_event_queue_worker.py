@@ -102,7 +102,14 @@ def process_row(conn: sqlite3.Connection, row: sqlite3.Row, args: argparse.Names
         print(f"skipped id={row_id} decision={decision} path={abs_path}")
         return 0
 
-    if not Path(abs_path).exists():
+    try:
+        exists = Path(abs_path).exists()
+    except Exception as e:
+        mark_status(conn, row_id, "failed", f"path check error: {str(e)}")
+        print(f"failed id={row_id} path check error={e} path={abs_path}")
+        return 1
+
+    if not exists:
         mark_status(conn, row_id, "failed", "path no longer exists")
         print(f"failed id={row_id} missing path={abs_path}")
         return 1

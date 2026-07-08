@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Extract text, table outputs, and metadata from uploaded local files."""
 import argparse
+import os
 import csv
 import hashlib
 import json
@@ -18,6 +19,35 @@ CSV_EXTENSIONS = {".csv"}
 XLSX_EXTENSIONS = {".xlsx"}
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png"}
 PDF_EXTENSIONS = {".pdf"}
+
+TAXON_GROUPS = [
+    "양서파충류",
+    "조류",
+    "포유류",
+    "어류",
+    "식물상",
+    "육상곤충",
+    "저서성대형무척추동물",
+    "담수조류",
+    "해충",
+]
+
+DOCUMENT_TYPE_KEYWORDS = [
+    "동식물상",
+    "식물상",
+    "부록",
+    "사업의 개요",
+    "사업개요",
+    "검토의견",
+    "문헌",
+    "현장사진",
+    "사진",
+    "야장",
+    "영수증",
+    "출장복명서",
+    "보고서",
+    "조사표",
+]
 
 
 def now_iso() -> str:
@@ -295,6 +325,58 @@ def extract_via_ocr(source_path: Path, dirs: dict[str, Path], stem: str, ocr_end
             return fallback_res
 
 
+def extract_via_marker(source_path: Path, dirs: dict[str, Path], stem: str) -> dict:
+    """Marker-PDF 엔진을 호출하여 PDF를 정밀 마크다운 텍스트로 추출합니다."""
+    text_path = dirs["text"] / f"{stem}.txt"
+    tmp_out_dir = dirs["text"] / f"tmp_{stem}"
+    
+    # 아톰 서버 venv 경로 또는 시스템 환경에 설치된 marker_single 바이너리 위치 추적
+    marker_bin = "/home/caiser77/dgx_workspace/venv/bin/marker_single"
+    if not Path(marker_bin).exists():
+        import shutil
+        marker_bin = shutil.which("marker_single") or "marker_single"
+
+    import subprocess
+    cmd = [
+        marker_bin,
+        str(source_path),
+        "--output_dir",
+        str(tmp_out_dir),
+        "--output_format",
+        "markdown"
+    ]
+    
+    try:
+        # 최초 구동 시 모델 다운로드 등으로 시간이 걸릴 수 있으므로 600초 타임아웃
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=600, encoding="utf-8")
+        if result.returncode != 0:
+            raise RuntimeError(f"Marker CLI execution failed: {result.stderr}")
+            
+        # 변환 완료된 md 파일 찾기 (marker_single은 output_dir/폴더명/파일명.md 형태로 저장함)
+        expected_md_file = tmp_out_dir / source_path.stem / f"{source_path.stem}.md"
+        if not expected_md_file.exists():
+            expected_md_file = tmp_out_dir / stem / f"{stem}.md"
+            
+        if not expected_md_file.exists():
+            md_files = list(tmp_out_dir.glob("**/*.md"))
+            if md_files:
+                expected_md_file = md_files[0]
+                
+        if expected_md_file.exists():
+            md_content = expected_md_file.read_text(encoding="utf-8")
+            write_text(text_path, md_content)
+            
+            import shutil
+            shutil.rmtree(tmp_out_dir, ignore_errors=True)
+            return {"text": str(text_path), "tables": []}
+        else:
+            raise FileNotFoundError("Parsed markdown output not found from Marker")
+            
+    except Exception as exc:
+        print(f"Marker extraction failed, falling back to basic extraction: {exc}", file=sys.stderr)
+        return extract_basic_metadata(source_path, dirs, stem)
+
+
 def run_extraction(source_path: Path, output_dir: Path, no_ocr: bool = False, ocr_endpoint: str | None = None) -> dict:
     dirs = ensure_dirs(output_dir)
     stem = safe_stem(source_path)
@@ -307,13 +389,10 @@ def run_extraction(source_path: Path, output_dir: Path, no_ocr: bool = False, oc
     elif suffix in XLSX_EXTENSIONS:
         outputs = extract_xlsx(source_path, dirs, stem)
     elif suffix in IMAGE_EXTENSIONS:
-        # 사진은 항상 메타데이터(EXIF·크기·경로)만 추출 — OCR 불필요
         outputs = extract_image(source_path, dirs, stem)
     elif suffix in PDF_EXTENSIONS:
-        if no_ocr or not ocr_endpoint:
-            outputs = extract_basic_metadata(source_path, dirs, stem)
-        else:
-            outputs = extract_via_ocr(source_path, dirs, stem, ocr_endpoint, is_pdf=True)
+        # 로컬 아톰 서버에서는 고성능 Marker로 파싱을 우선 시도
+        outputs = extract_via_marker(source_path, dirs, stem)
     else:
         outputs = extract_basic_metadata(source_path, dirs, stem)
 
@@ -377,7 +456,15 @@ def query_user_rules(file_path: Path) -> str:
 
         for term in search_terms:
             cursor.execute(
-                "SELECT user_approved_class, user_instruction FROM aurum_nas_rules WHERE original_path LIKE ? LIMIT 5",
+                """
+                SELECT user_approved_class, user_instruction
+                FROM aurum_nas_rules
+                WHERE original_path LIKE ?
+                  AND user_approved_class IS NOT NULL
+                  AND user_approved_class != ''
+                ORDER BY feedback_at DESC, id DESC
+                LIMIT 5
+                """,
                 (f"%{term}%",)
             )
             rows = cursor.fetchall()
@@ -494,46 +581,158 @@ def send_telegram_feedback_request(file_path: Path, ai_meta: dict, extracted_tex
         print(f"Failed to send Telegram request: {e}", file=sys.stderr)
 
 
-def classify_from_path(file_path: Path, watch_path: str = "/mnt/dgxbackup") -> dict:
-    """경로 구조에서 메타데이터 추출 — AI 없이 즉시 분류."""
+def clean_path_label(value: str, strip_numbering: bool = True) -> str:
+    text = (value or "").replace("+", " ").strip()
+    if strip_numbering:
+        text = re.sub(r"^\d+(?:\.\d+)*[._\s-]+", "", text).strip()
+    return text
+
+
+def infer_structured_labels(file_path: Path, watch_path: str = "/mnt/dgxbackup") -> dict:
+    """경로와 파일명에서 안정적인 구조 필드를 분리 추정합니다."""
     try:
         rel = file_path.relative_to(watch_path)
         parts = rel.parts
-        year_vendor = parts[0] if len(parts) > 0 else "unknown"
-        project_name = parts[1] if len(parts) > 1 else "unknown"
-        category = re.sub(r"^\d+\.\s*", "", parts[2]) if len(parts) > 2 else ""
-        ext = file_path.suffix.upper().lstrip(".")
-        return {
-            "year_vendor": year_vendor,
-            "project_name": project_name,
-            "class_name": category or ext,
-            "tags": [f"#{year_vendor}", f"#{project_name}"],
-            "summary": f"{project_name} 관련 {ext} 파일",
-            "is_ambiguous": False,
-            "question": "",
-        }
-    except Exception:
-        return {}
+    except ValueError:
+        raw_parts = file_path.parts
+        if len(raw_parts) >= 4 and raw_parts[1] == "mnt":
+            parts = raw_parts[3:]
+        else:
+            parts = raw_parts[1:] if raw_parts and raw_parts[0] == "/" else raw_parts
+
+    if len(parts) >= 3 and re.fullmatch(r"20\d{2}", clean_path_label(parts[0], strip_numbering=False)):
+        year = clean_path_label(parts[0], strip_numbering=False)
+        vendor = clean_path_label(parts[1], strip_numbering=False)
+        year_vendor = vendor if vendor.startswith(year) else f"{year} {vendor}".strip()
+        project_name = clean_path_label(parts[2], strip_numbering=False)
+    else:
+        year_vendor = clean_path_label(parts[0], strip_numbering=False) if len(parts) > 0 else "unknown"
+        project_name = clean_path_label(parts[1], strip_numbering=False) if len(parts) > 1 else "unknown"
+
+    cleaned_parts = [clean_path_label(part) for part in parts]
+    searchable = " ".join(cleaned_parts)
+
+    document_type = "미확정"
+    for keyword in DOCUMENT_TYPE_KEYWORDS:
+        if keyword in searchable:
+            document_type = keyword
+            break
+
+    taxon_group = "미확정"
+    taxon_searchable = searchable.replace("동식물상", " ")
+    for group in TAXON_GROUPS:
+        if group in taxon_searchable:
+            taxon_group = group
+            break
+
+    if document_type == "미확정":
+        ext = file_path.suffix.lower().lstrip(".") or "unknown"
+        document_type = ext.upper()
+
+    tags = [f"#{year_vendor}", f"#{project_name}"]
+    if taxon_group != "미확정":
+        tags.append(f"#{taxon_group}")
+    if document_type != "미확정":
+        clean_doc_tag = re.sub(r"[^A-Za-z0-9가-힣_]+", "", document_type).strip()
+        if clean_doc_tag:
+            tags.append(f"#{clean_doc_tag}")
+
+    return {
+        "year_vendor": year_vendor,
+        "project_name": project_name,
+        "taxon_group": taxon_group,
+        "document_type": document_type,
+        "class_name": taxon_group if taxon_group != "미확정" else document_type,
+        "tags": tags,
+        "summary": f"{project_name} 관련 {document_type} 파일",
+        "is_ambiguous": taxon_group == "미확정",
+        "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다." if taxon_group == "미확정" else "",
+    }
+
+
+def normalize_classification(ai_meta: dict, file_path: Path) -> dict:
+    """기존 class_name 중심 결과를 taxon_group/document_type 분리 구조로 정규화합니다."""
+    base = infer_structured_labels(file_path)
+    if not ai_meta or not isinstance(ai_meta, dict):
+        return base
+
+    merged = {**base, **ai_meta}
+    class_name = str(merged.get("class_name") or "").strip()
+
+    if not merged.get("taxon_group"):
+        merged["taxon_group"] = class_name if class_name in TAXON_GROUPS else base["taxon_group"]
+    if not merged.get("document_type"):
+        merged["document_type"] = class_name if class_name in DOCUMENT_TYPE_KEYWORDS else base["document_type"]
+
+    if merged.get("taxon_group") in DOCUMENT_TYPE_KEYWORDS:
+        merged["document_type"] = merged["taxon_group"]
+        merged["taxon_group"] = base["taxon_group"]
+
+    if class_name in DOCUMENT_TYPE_KEYWORDS and base["taxon_group"] == "미확정":
+        merged["document_type"] = class_name
+        merged["taxon_group"] = "미확정"
+
+    merged_taxon = merged.get("taxon_group")
+    merged_doc = merged.get("document_type")
+    merged["class_name"] = merged_taxon if merged_taxon and merged_taxon != "미확정" else (merged_doc or class_name)
+
+    tags = []
+    for tag in base.get("tags", []) + merged.get("tags", []):
+        if tag and tag not in tags:
+            tags.append(tag)
+    merged["tags"] = tags
+    return merged
+
+
+def classify_from_path(file_path: Path, watch_path: str = "/mnt/dgxbackup") -> dict:
+    """경로 구조에서 메타데이터 추출 — AI 없이 즉시 분류."""
+    return infer_structured_labels(file_path, watch_path)
+
+
+def has_usable_extracted_text(extracted_text: str) -> bool:
+    """본문 추출 실패 안내문만 있는 경우 AI 분류 근거로 쓰지 않습니다."""
+    if not extracted_text or not extracted_text.strip():
+        return False
+    failure_markers = (
+        "content_extraction: unsupported_file_type",
+        "ocr_error:",
+    )
+    if not any(marker in extracted_text for marker in failure_markers):
+        return True
+
+    ignored_prefixes = ("source_name:", "source_type:", "size_bytes:", "content_extraction:", "ocr_error:")
+    meaningful_lines = [
+        line.strip()
+        for line in extracted_text.splitlines()
+        if line.strip() and not line.strip().startswith(ignored_prefixes)
+    ]
+    return bool(meaningful_lines)
 
 
 def classify_via_hermes(file_path: Path, extracted_text: str) -> dict:
     """Hermes 에이전트를 원샷 호출하여 NAS 데이터 지능형 분류를 수행합니다."""
     truncated_text = extracted_text[:2500] if extracted_text else ""
-    if not truncated_text:
-        return {}
+    if not has_usable_extracted_text(truncated_text):
+        return classify_from_path(file_path)
 
     user_rules = query_user_rules(file_path)
 
     # 프롬프트 조립 (JSON 형식을 엄격하게 강제 및 최우선 순위 지침 삽입)
     prompt = f"""[중요 지침 - 최우선 순위]
 아래에 제공되는 [과거 사용자 교정 피드백 / 학습 규칙]은 사용자가 이미 직접 검증하고 수정한 내용입니다.
-과거 학습 규칙이 존재한다면, 본문 내용이나 경로명이 상충되더라도 반드시 사용자의 과거 피드백 지시사항을 100% 신뢰하여 분류 결과(year_vendor, class_name 등)를 결정해야 합니다.
+과거 학습 규칙이 존재한다면, 본문 내용이나 경로명이 상충되더라도 반드시 사용자의 과거 피드백 지시사항을 100% 신뢰하여 분류 결과(year_vendor, project_name, taxon_group, document_type 등)를 결정해야 합니다.
 그럴 경우 "is_ambiguous"는 무조건 false로 설정하고 "question"은 빈 문자열("")로 리턴하십시오. 질문을 던지거나 모호성을 true로 중복 보고해서는 안 됩니다.
 
 {user_rules}
 
 위 최우선 지침과 aurum_nas_classifier 스킬 규격에 맞추어 다음 입력 데이터를 분석하고 JSON으로만 응답해 주세요.
 반드시 마크다운 코드 블록(```json ...) 없이 순수 JSON 텍스트만 출력해야 합니다.
+
+분류 원칙:
+- taxon_group은 생물 분류군만 입력합니다: 양서파충류, 조류, 포유류, 어류, 식물상, 육상곤충, 저서성대형무척추동물, 담수조류, 해충, 미확정.
+- document_type은 문서/자료 유형만 입력합니다: 동식물상, 부록, 사업개요, 검토의견, 문헌, 현장사진, 사진, 야장, 영수증, 보고서, 조사표 등.
+- 동식물상, 부록, 사업의 개요, 검토의견은 생물 분류군이 아니므로 taxon_group에 넣지 말고 document_type에 넣습니다.
+- 생물 분류군 근거가 없으면 taxon_group은 반드시 "미확정"으로 둡니다.
 
 입력 데이터:
 {{
@@ -545,7 +744,9 @@ def classify_via_hermes(file_path: Path, extracted_text: str) -> dict:
 {{
   "year_vendor": "추론된 년도 및 업체 (예: 2026 LH)",
   "project_name": "추론된 사업명 (예: 인천용역)",
-  "class_name": "추론된 생물 분류군 (예: 인천용역 등에서 유추한 분류군 명칭)",
+  "taxon_group": "생물 분류군 또는 미확정",
+  "document_type": "문서/자료 유형",
+  "class_name": "하위 호환용 대표 분류값: taxon_group이 확정이면 taxon_group, 아니면 document_type",
   "tags": ["#태그1", "#태그2"],
   "summary": "본문 내용 요약 (3줄 이내)",
   "is_ambiguous": false,
@@ -592,14 +793,14 @@ def classify_via_hermes(file_path: Path, extracted_text: str) -> dict:
         if match:
             json_str = match.group(1)
             try:
-                return json.loads(json_str)
+                return normalize_classification(json.loads(json_str), file_path)
             except json.JSONDecodeError:
                 # 개행 문자 등을 이스케이프하여 2차 파싱 시도
                 try:
-                    return json.loads(json_str.replace('\n', '\\n'))
+                    return normalize_classification(json.loads(json_str.replace('\n', '\\n')), file_path)
                 except Exception:
                     pass
-        return json.loads(stdout_clean)
+        return normalize_classification(json.loads(stdout_clean), file_path)
     except Exception as e:
         print(f"Error during Hermes classification: {e}", file=sys.stderr)
         print(f"Raw Hermes stdout was: {result.stdout if 'result' in locals() else 'None'}", file=sys.stderr)
@@ -637,7 +838,10 @@ def generate_obsidian_note(metadata: dict, output_dir: Path) -> None:
         if len(parts) >= 2:
             path_meta["사업명"] = parts[1].strip()
         if len(parts) >= 3:
-            path_meta["분류군"] = parts[2].strip()
+            inferred = infer_structured_labels(source_path)
+            path_meta["생물분류군"] = inferred.get("taxon_group", "미확정")
+            path_meta["문서유형"] = inferred.get("document_type", parts[2].strip())
+            path_meta["분류군"] = inferred.get("taxon_group", "미확정")
     except ValueError:
         mac_link_path = f"file://{source_path}"
 
@@ -656,8 +860,13 @@ def generate_obsidian_note(metadata: dict, output_dir: Path) -> None:
             path_meta["년도_업체"] = ai_meta["year_vendor"]
         if ai_meta.get("project_name"):
             path_meta["사업명"] = ai_meta["project_name"]
-        if ai_meta.get("class_name"):
+        if ai_meta.get("taxon_group"):
+            path_meta["생물분류군"] = ai_meta["taxon_group"]
+            path_meta["분류군"] = ai_meta["taxon_group"]
+        elif ai_meta.get("class_name"):
             path_meta["분류군"] = ai_meta["class_name"]
+        if ai_meta.get("document_type"):
+            path_meta["문서유형"] = ai_meta["document_type"]
 
     extracted_text_path = metadata.get("outputs", {}).get("text")
     preview = ""
@@ -1002,7 +1211,7 @@ def main() -> int:
             ai_classification = classify_from_path(source_path)
         elif not args.no_ocr:
             print("Running Hermes AI classification...")
-            ai_classification = classify_via_hermes(source_path, extracted_text)
+            ai_classification = normalize_classification(classify_via_hermes(source_path, extracted_text), source_path)
             print(f"AI classification result: {ai_classification}")
             if ai_classification.get("is_ambiguous") and not getattr(args, "no_telegram", False):
                 print("Ambiguity detected. Sending Telegram alert...")
