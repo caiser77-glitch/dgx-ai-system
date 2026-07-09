@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2._2023_e16ea5187c.txt",
+  "source_name": "2._2023_e16ea5187c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:51+09:00",
+  "processed_at": "2026-07-08T11:55:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2._2023_e16ea5187c_f848f6b88e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2._2023_e16ea5187c_f848f6b88e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2023년 성남낙생 지역에 대한 현지조사표 PDF 파일입니다.",
+      "파일 크기는 40,980,216 바이트이며, OCR 처리에 실패하였습니다.",
+      "URL에 제어 문자가 포함되어 있어 처리가 불가능한 것으로 보입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "2023년",
+      "현지조사표",
+      "성남낙생"
+    ]
+  }
+}

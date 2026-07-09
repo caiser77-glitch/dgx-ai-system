@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5927743_01335d44da.txt",
+  "source_name": "5927743_01335d44da.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:00:04+09:00",
+  "processed_at": "2026-07-08T12:00:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5927743_01335d44da_b5a32a0e34.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5927743_01335d44da_b5a32a0e34.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 3월부터 9월까지 음성 도엽 일대에서 양서·파충류 분포 현황 조사를 실시함",
+      "조사 결과 양서류 7종과 파충류 5종이 발견되었으며, 한국고유종인 한국산개구리 1종이 확인됨",
+      "멸종위기야생생물 및 생태계교란생물은 해당 조사 지역에서 발견되지 않음"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "양서류",
+      "파충류",
+      "음성 일대",
+      "한국산개구리",
+      "전국자연환경조사"
+    ]
+  }
+}

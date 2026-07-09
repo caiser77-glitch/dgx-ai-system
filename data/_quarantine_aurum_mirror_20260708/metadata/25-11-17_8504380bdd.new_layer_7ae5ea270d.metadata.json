@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/25-11-17_8504380bdd.new_layer.csv",
+  "source_name": "25-11-17_8504380bdd.new_layer.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:29+09:00",
+  "processed_at": "2026-07-08T12:02:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/25-11-17_8504380bdd.new_layer_7ae5ea270d.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/25-11-17_8504380bdd.new_layer_7ae5ea270d.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/25-11-17_8504380bdd.new_layer_7ae5ea270d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일 생성된 CSV 형식의 데이터 파일입니다.",
+      "사진 파일명, 경도, 위도, 타임스탬프 정보를 포함하고 있습니다.",
+      "총 13개의 데이터 행으로 구성된 위치 기반 이미지 기록 문서입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "위치 데이터",
+      "이미지 파일",
+      "경위도"
+    ]
+  }
+}

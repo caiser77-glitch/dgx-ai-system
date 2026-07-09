@@ -1,0 +1,41 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/347111_41ec7e5224_ocr.xlsx",
+  "source_name": "347111_41ec7e5224_ocr.xlsx",
+  "source_type": "xlsx",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T12:04:06+09:00",
+  "processed_at": "2026-07-06T12:04:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/347111_41ec7e5224_ocr_5523d7f36c.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/347111_41ec7e5224_ocr_5523d7f36c.Sheet1.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/347111_41ec7e5224_ocr_5523d7f36c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "XLSX",
+    "class_name": "XLSX",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#XLSX"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "요약을 생성하지 못했습니다.",
+      "",
+      ""
+    ],
+    "category": "기타",
+    "keywords": []
+  }
+}

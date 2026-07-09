@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02.__20250206_847434e636.txt",
+  "source_name": "02.__20250206_847434e636.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:20:56+09:00",
+  "processed_at": "2026-07-08T13:21:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02.__20250206_847434e636_09248ceb8f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02.__20250206_847434e636_09248ceb8f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 국가산업단지 개발사업의 일정계획안이 2025년 2월 6일에 작성되었습니다.",
+      "일정표는 2021년부터 시작되며, 총 86행과 143열로 구성되어 있습니다.",
+      "추가로 간략화된 일정표가 21행 25열로 제공됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥 국가산업단지",
+      "개발사업",
+      "일정계획"
+    ]
+  }
+}

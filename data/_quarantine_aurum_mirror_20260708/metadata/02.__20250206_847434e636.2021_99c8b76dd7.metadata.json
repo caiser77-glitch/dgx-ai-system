@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02.__20250206_847434e636.2021.csv",
+  "source_name": "02.__20250206_847434e636.2021.csv",
+  "source_type": "csv",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:50:05+09:00",
+  "processed_at": "2026-07-01T11:50:05+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02.__20250206_847434e636.2021.csv",
+    "return_code": 1
+  }
+}

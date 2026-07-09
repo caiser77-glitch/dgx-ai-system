@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_910_0755fe0294.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_910_0755fe0294.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T05:57:30+09:00",
+  "processed_at": "2026-06-24T05:59:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_910_0755fe0294_9c8e155141.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_910_0755fe0294_9c8e155141.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "포곤",
+    "tags": [
+      "#Canon",
+      "#PowerShot",
+      "#SX70HS"
+    ],
+    "summary": "Canon PowerShot SX70 HS 카메라로 촬영된 사진. 2025년 3월 27일에 촬영, 해상도 5184x3888, RGB 모드, MPO 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS로 촬영된 사진",
+      "2025년 3월 27일 09시 29분 38초에 촬영",
+      "해상도 5184x3888, RGB 모드, MPO 형식"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "사진",
+      "2025년 3월 27일"
+    ]
+  }
+}

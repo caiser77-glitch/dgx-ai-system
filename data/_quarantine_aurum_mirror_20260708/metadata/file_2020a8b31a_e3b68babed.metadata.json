@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_2020a8b31a.txt",
+  "source_name": "file_2020a8b31a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:50+09:00",
+  "processed_at": "2026-07-08T13:54:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_2020a8b31a_e3b68babed.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_2020a8b31a_e3b68babed.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 파일은 '워터드롭 이미지.jpg'라는 명칭의 이미지 파일입니다.",
+      "파일 경로는 설계도면 관련 폴더 내에 저장되어 있습니다.",
+      "이미지 규격은 1120x1332 해상도의 RGB 모드 JPEG 형식입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "워터드롭 이미지",
+      "설계도면",
+      "JPEG"
+    ]
+  }
+}

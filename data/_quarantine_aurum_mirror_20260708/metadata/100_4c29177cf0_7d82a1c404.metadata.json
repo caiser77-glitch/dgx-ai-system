@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/100_4c29177cf0.txt",
+  "source_name": "100_4c29177cf0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:59:49+09:00",
+  "processed_at": "2026-07-08T11:59:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/100_4c29177cf0_7d82a1c404.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/100_4c29177cf0_7d82a1c404.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '100 사업의내용.pdf'는 PDF 형식의 파일로 약 3.9MB 크기입니다.",
+      "지원되지 않는 파일 유형으로 인해 문서 내용 추출이 실패하였습니다.",
+      "OCR 과정에서 파일 경로 내 공백 문자로 인한 제어 문자 오류가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "파일추출오류",
+      "OCR"
+    ]
+  }
+}

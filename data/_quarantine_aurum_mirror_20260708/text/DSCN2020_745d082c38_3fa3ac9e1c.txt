@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 경산도로확장, 현장사진, GPS좌표
+● 3줄 요약:
+- 2025년 11월 17일에 촬영된 경산 도로 확장 프로젝트 관련 사진
+- NIKON COOLPIX AW100s 카메라로 촬영, GPS 좌표: 35.766918, 128.821377
+- JPEG 형식, 4608x3456 해상도, 3533979 바이트 크기
+=========================================
+source_name: DSCN2020.JPG
+source_type: jpg
+size_bytes: 3533979
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/이박/20251117-경산도로확장(아우룸)/DSCN2020.JPG
+width: 4608
+height: 3456
+mode: RGB
+format: JPEG
+datetime_taken: 2025:11:17 13:18:32
+camera_make: NIKON
+camera_model: COOLPIX AW100s 
+gps_lat: 35.766918
+gps_lon: 128.821377

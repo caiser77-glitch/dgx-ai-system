@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 측정결과
+● 핵심 키워드: 성남낙생, 측정표, 제2차년도
+● 3줄 요약:
+- 성남낙생 지역에서 수행된 제2차년도 측정 결과를 담고 있습니다.
+- PDF 파일의 OCR 처리 과정 중 오류가 발생하여 내용 추출이 불가능합니다.
+- 파일명 내 공백 문자 포함 및 파일 형식 문제로 인해 데이터 처리에 어려움이 있었습니다.
+=========================================
+source_name: 붙임3. 측정표(성남낙생-제2차년도).pdf
+source_type: pdf
+size_bytes: 1275508
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/붙임3. 측정표(성남낙생-제2차년도)_pages_1_taxa.xlsx' (found at least ' ')

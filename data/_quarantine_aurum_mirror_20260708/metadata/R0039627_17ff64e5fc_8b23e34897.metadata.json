@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039627_17ff64e5fc.txt",
+  "source_name": "R0039627_17ff64e5fc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:41:24+09:00",
+  "processed_at": "2026-07-08T14:41:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039627_17ff64e5fc_8b23e34897.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039627_17ff64e5fc_8b23e34897.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.",
+      "2026년 2월 26일 성남 낙생 지역 인근에서 촬영되었습니다.",
+      "파일 경로는 아우룸생태연구소의 성남낙생 프로젝트 관련 경로로 확인됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "RICOH WG-6",
+      "성남낙생",
+      "이미지 메타데이터"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/03__2___9_3495f931cd.8.csv",
+  "source_name": "03__2___9_3495f931cd.8.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:01:33+09:00",
+  "processed_at": "2026-07-08T12:01:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_3495f931cd.8_b10ffdfb0c.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/03__2___9_3495f931cd.8_b10ffdfb0c.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_3495f931cd.8_b10ffdfb0c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제8호표에 따른 운영 시 측정분석비 조사단가 산출 내역을 포함하고 있습니다.",
+      "총 863개의 행으로 구성된 CSV 형식의 데이터 문서입니다.",
+      "측정 및 분석 비용 산출을 위한 세부 단가 정보를 다루고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "측정분석비",
+      "조사단가",
+      "산출내역"
+    ]
+  }
+}

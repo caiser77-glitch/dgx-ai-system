@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025_233p._1_f8b5a86a2a.txt",
+  "source_name": "2025_233p._1_f8b5a86a2a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:07:37+09:00",
+  "processed_at": "2026-07-08T12:07:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2025_233p._1_f8b5a86a2a_839ccb7438.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2025_233p._1_f8b5a86a2a_839ccb7438.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 아산시 주요업무 추진계획 중 도시생태현황지도 관련 내용이 포함된 문서입니다.",
+      "PDF 파일 크기는 523,417 바이트이며 OCR 처리에 실패한 것으로 확인됩니다.",
+      "파일명 내 공백 및 특수문자로 인해 데이터 추출 과정에서 오류가 발생하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "2025년",
+      "아산시",
+      "도시생태현황지도"
+    ]
+  }
+}

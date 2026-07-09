@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/03__2___9_3495f931cd.1.csv",
+  "source_name": "03__2___9_3495f931cd.1.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:01:19+09:00",
+  "processed_at": "2026-07-08T12:01:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_3495f931cd.1_90952069f0.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/03__2___9_3495f931cd.1_90952069f0.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_3495f931cd.1_90952069f0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경부 고시 제2018-23호를 기준으로 한 환경영향평가 대행비용 산정 기준 문서입니다.",
+      "규모별 할증률 산정을 위한 세부적인 비용 산출 근거를 포함하고 있습니다.",
+      "총 51개의 행으로 구성된 데이터셋으로 규모에 따른 할증 체계를 다룹니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "환경영향평가",
+      "대행비용",
+      "할증률"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1977_2ba87824a8.txt",
+  "source_name": "1977_2ba87824a8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:46:11+09:00",
+  "processed_at": "2026-07-08T11:46:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1977_2ba87824a8_2482f560dc.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1977_2ba87824a8_2482f560dc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "1977년 한국보존협회에서 발행한 격열비열도의 식물상에 대한 조사보고서입니다.",
+      "해당 파일은 PDF 형식이며 용량은 약 1.95MB입니다.",
+      "파일 내 텍스트 추출(OCR) 실패 및 파일명 공백으로 인한 URL 생성 오류가 확인되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "격열비열도",
+      "식물상",
+      "한국보존협회"
+    ]
+  }
+}

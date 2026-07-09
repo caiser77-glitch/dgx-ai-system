@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/05_f5a2ca80fb.txt",
+  "source_name": "05_f5a2ca80fb.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:36+09:00",
+  "processed_at": "2026-07-08T12:14:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05_f5a2ca80fb_0e902c3d7f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05_f5a2ca80fb_0e902c3d7f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경보전목표의 설정에 대한 평가준비서로 추정됩니다.",
+      "파일 크기는 201,728 바이트이며, 내용 추출이 지원되지 않는 HWP 파일 형식입니다.",
+      "환경 보전 목표 설정과 관련된 세부 내용은 확인 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경보전목표",
+      "평가준비서",
+      "HWP"
+    ]
+  }
+}

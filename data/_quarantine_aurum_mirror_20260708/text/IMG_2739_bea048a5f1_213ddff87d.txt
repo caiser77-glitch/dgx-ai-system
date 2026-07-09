@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 단풍잎돼지풀, Canon PowerShot SX70 HS, 아산방축 이부
+● 3줄 요약:
+- 2025년 5월 28일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 단풍잎돼지풀 사진
+- 사진의 해상도는 5184x3888 픽셀이며, RGB 모드로 촬영되었습니다.
+- GPS 좌표는 위도 36.783752, 경도 126.985947로, 아산방축 이부 지역에서 촬영되었습니다.
+=========================================
+source_name: IMG_2739 단풍잎돼지풀.JPG
+source_type: jpg
+size_bytes: 10051521
+path: /mnt/dgxbackup/2026 이산/아산방축/02. 사진/2025.05.28-29/2025.05.28~29 아산방축 이부/IMG_2739 단풍잎돼지풀.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:05:28 14:34:08
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.783752
+gps_lon: 126.985947

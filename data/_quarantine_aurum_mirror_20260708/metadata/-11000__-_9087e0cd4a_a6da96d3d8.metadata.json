@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-11000__-_9087e0cd4a.txt",
+  "source_name": "-11000__-_9087e0cd4a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:15+09:00",
+  "processed_at": "2026-07-08T12:10:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-11000__-_9087e0cd4a_a6da96d3d8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-11000__-_9087e0cd4a_a6da96d3d8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역 주민들의 생활환경과 재산상의 환경피해에 대한 조사 결과를 담은 문서.",
+      "환경피해의 원인과 그에 따른 대책을 제시하고 있음.",
+      "문서는 현재 편집 완료된 초안 상태임."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥",
+      "환경피해",
+      "대책"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_0723_6403d82634.txt",
+  "source_name": "-_0723_6403d82634.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:14:22+09:00",
+  "processed_at": "2026-07-08T13:14:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_0723_6403d82634_aebe2ba51e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_0723_6403d82634_aebe2ba51e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 악취 관련 문제에 대한 정보를 담고 있으나, OCR 처리 중 오류가 발생하여 내용 추출이 불가능합니다.",
+      "파일 크기는 5,264,273 바이트이며, PDF 형식입니다.",
+      "문서의 출처는 '충주-본안'이며, 날짜는 2023년 7월 23일로 추정됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "악취",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

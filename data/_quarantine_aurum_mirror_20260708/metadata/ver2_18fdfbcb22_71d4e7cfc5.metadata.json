@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/ver2_18fdfbcb22.txt",
+  "source_name": "ver2_18fdfbcb22.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:06:10+09:00",
+  "processed_at": "2026-07-08T12:06:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/ver2_18fdfbcb22_71d4e7cfc5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/ver2_18fdfbcb22_71d4e7cfc5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획 조치계획 대안 문서의 엑셀 파일 분석 결과",
+      "총 52개의 행과 10개의 열로 구성되어 있음",
+      "2023년 08월 26일 날짜의 토지이용계획 시트 포함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용계획",
+      "조치계획",
+      "엑셀"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0059599_d0751c70a7.txt",
+  "source_name": "R0059599_d0751c70a7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:12:16+09:00",
+  "processed_at": "2026-07-08T14:12:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0059599_d0751c70a7_e36bcae979.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0059599_d0751c70a7_e36bcae979.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.",
+      "2026년 2월 5일 오전 10시경 광양항 낙포부두 인근에서 촬영되었습니다.",
+      "GPS 좌표(34.850895, 127.638942)가 포함된 RGB 모드의 MPO 형식 파일입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "RICOH WG-6",
+      "광양항 낙포부두",
+      "이미지 메타데이터"
+    ]
+  }
+}

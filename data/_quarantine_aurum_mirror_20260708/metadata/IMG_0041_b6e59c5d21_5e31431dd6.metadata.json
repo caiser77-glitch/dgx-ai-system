@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0041_b6e59c5d21.txt",
+  "source_name": "IMG_0041_b6e59c5d21.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T20:21:03+09:00",
+  "processed_at": "2026-06-25T20:23:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0041_b6e59c5d21_5e31431dd6.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0041_b6e59c5d21_5e31431dd6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 3월 27일에 촬영된 고들빼기 사진\nCanon PowerShot SX70 HS 카메라로 촬영\nGPS 좌표: 위도 34.450852, 경도 127.485648",
+    "tags": [
+      "#고들빼기",
+      "#Canon PowerShot SX70 HS",
+      "#GPS 좌표"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일에 촬영된 고들빼기 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영",
+      "GPS 좌표: 위도 34.450852, 경도 127.485648"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고들빼기",
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-06000_ba813740aa.txt",
+  "source_name": "-06000_ba813740aa.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:09:59+09:00",
+  "processed_at": "2026-07-08T12:10:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-06000_ba813740aa_98545aefd4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-06000_ba813740aa_98545aefd4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역의 대안 설정 및 평가에 관한 초안 문서입니다.",
+      "파일 크기는 약 70MB이며 hwp 형식으로 구성되어 있습니다.",
+      "내용 추출이 지원되지 않는 파일 유형으로 구체적인 내용은 확인이 불가합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥",
+      "대안설정",
+      "평가"
+    ]
+  }
+}

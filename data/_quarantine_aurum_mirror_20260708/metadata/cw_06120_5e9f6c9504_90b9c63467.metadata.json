@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/cw_06120_5e9f6c9504.txt",
+  "source_name": "cw_06120_5e9f6c9504.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:54:32+09:00",
+  "processed_at": "2026-07-08T11:54:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/cw_06120_5e9f6c9504_90b9c63467.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/cw_06120_5e9f6c9504_90b9c63467.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 'cw 06120 자연환경자산_삽도.hwp'는 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 13,283,840 바이트입니다.",
+      "내용 추출이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "자연환경자산",
+      "삽도"
+    ]
+  }
+}

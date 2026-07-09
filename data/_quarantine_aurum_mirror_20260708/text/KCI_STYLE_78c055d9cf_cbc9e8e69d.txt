@@ -1,0 +1,12 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: hwp, 지원되지 않는 파일, KCI 보고서
+● 3줄 요약:
+- 문서 'KCI 보고서 STYLE.hwp'는 지원되지 않는 파일 유형으로 내용 추출이 불가능합니다.
+- 파일 크기는 212,480 바이트입니다.
+- 문서의 유형은 hwp입니다.
+=========================================
+source_name: KCI 보고서 STYLE.hwp
+source_type: hwp
+size_bytes: 212480
+content_extraction: unsupported_file_type

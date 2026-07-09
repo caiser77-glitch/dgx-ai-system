@@ -1,0 +1,32 @@
+---
+생성일: 2026-06-25
+장비명: overnight_batch
+원본이름: IMG_0015_3ed27e2a6b.txt
+원본유형: txt
+태그: #자동색인 #NAS_데이터
+---
+# 📄 IMG_0015_3ed27e2a6b.txt 요약본
+
+* **처리 시각**: 2026-06-25T09:41:34+09:00
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0015_3ed27e2a6b.txt
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: IMG_0015.JPG
+source_type: jpg
+size_bytes: 3268014
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/무인카메라 및 송메타/날짜 오류난 거/IMG_0015.JPG
+width: 4608
+height: 2592
+mode: RGB
+format: MPO
+datetime_taken: 2020:01:01 19:30:27
+camera_make: BROWNING
+camera_model: BTC-8E
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [IMG_0015_3ed27e2a6b.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0015_3ed27e2a6b.txt)

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-01_-_712a101d35.8.csv",
+  "source_name": "01-01_-_712a101d35.8.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:41:14+09:00",
+  "processed_at": "2026-07-08T13:41:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-01_-_712a101d35.8_b3366cf832.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-01_-_712a101d35.8_b3366cf832.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-01_-_712a101d35.8_b3366cf832.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 파일명 '01-01_-_712a101d35.8.csv'를 가진 CSV 형식의 문서입니다.",
+      "문서 내에는 총 5개의 행(row)이 포함되어 있으나 구체적인 컬럼 정보가 누락되었습니다.",
+      "데이터의 상세 내용이 존재하지 않아 분석 및 요약이 불가능한 상태입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 파일",
+      "데이터 미포함",
+      "구조 정보 부족"
+    ]
+  }
+}

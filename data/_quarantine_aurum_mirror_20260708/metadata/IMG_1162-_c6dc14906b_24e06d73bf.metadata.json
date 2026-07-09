@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1162-_c6dc14906b.txt",
+  "source_name": "IMG_1162-_c6dc14906b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T15:44:17+09:00",
+  "processed_at": "2026-07-06T15:44:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1162-_c6dc14906b_24e06d73bf.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1162-_c6dc14906b_24e06d73bf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "IMG_1162-두더지 터널.JPG 파일은 13,792,042 바이트 크기의 MPO 형식 이미지입니다.",
+      "이미지는 5184x3888 픽셀 해상도를 가지고 있으며 RGB 모드로 저장되어 있습니다.",
+      "OCR 처리 시 서버 내부 오류가 발생하여 텍스트 인식이 실패했습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "두더지",
+      "터널",
+      "이미지"
+    ]
+  }
+}

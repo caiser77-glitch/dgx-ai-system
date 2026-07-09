@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 콘텐츠 추출, OCR 오류
+● 3줄 요약:
+- 문서는 PDF 형태로 제공되나, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.
+- 파일 크기는 25,311,356 바이트이며, OCR 처리에 문제가 발생했습니다.
+- URL에 제어 문자가 포함되어 있어 처리할 수 없습니다.
+=========================================
+source_name: (본안)13 부록(완).pdf
+source_type: pdf
+size_bytes: 25311356
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/(본안)13 부록(완)_pages_1_taxa.xlsx' (found at least ' ')

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4_2017_336034_efca955471.txt",
+  "source_name": "4_2017_336034_efca955471.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:47:14+09:00",
+  "processed_at": "2026-07-08T13:47:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/4_2017_336034_efca955471_6e8f0f59e7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/4_2017_336034_efca955471_6e8f0f59e7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제4차 전국자연환경조사의 일환으로 2017년 포유류 조사 결과를 포함하고 있습니다.",
+      "PDF 파일 크기는 약 1.2MB이며, OCR 처리 과정에서 문제가 발생했습니다.",
+      "파일명 내 공백 문자로 인해 URL 접근 및 데이터 추출 오류가 확인되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "포유류",
+      "OCR 오류"
+    ]
+  }
+}

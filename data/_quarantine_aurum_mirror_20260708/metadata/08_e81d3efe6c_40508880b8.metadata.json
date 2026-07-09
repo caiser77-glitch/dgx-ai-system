@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/08_e81d3efe6c.txt",
+  "source_name": "08_e81d3efe6c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:11:00+09:00",
+  "processed_at": "2026-07-08T13:11:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_e81d3efe6c_40508880b8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_e81d3efe6c_40508880b8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경 영향 저감 방안에 대한 사후 환경 평가를 다룹니다.",
+      "국가종합비행성능시험장의 환경 영향을 분석합니다.",
+      "OCR 오류로 인해 일부 내용이 제대로 추출되지 않았습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향",
+      "저감방안",
+      "국가종합비행성능시험장"
+    ]
+  }
+}

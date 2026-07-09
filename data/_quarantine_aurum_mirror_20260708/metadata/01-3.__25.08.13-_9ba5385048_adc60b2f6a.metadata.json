@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-3.__25.08.13-_9ba5385048.txt",
+  "source_name": "01-3.__25.08.13-_9ba5385048.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:06:59+09:00",
+  "processed_at": "2026-07-08T12:07:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-3.__25.08.13-_9ba5385048_adc60b2f6a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-3.__25.08.13-_9ba5385048_adc60b2f6a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "업종배치계획도 관련 PDF 문서입니다.",
+      "북측 구역계 조정에 대한 정보를 포함하고 있습니다.",
+      "OCR 처리 과정에서 파일 경로에 제어 문자가 포함되어 오류가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "업종배치계획도",
+      "북측 구역계",
+      "OCR 오류"
+    ]
+  }
+}

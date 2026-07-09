@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2025.05.11_13-_23bb3b17a6_06d8ccbf93.txt",
+  "source_name": "-2025.05.11_13-_23bb3b17a6_06d8ccbf93.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:31:08+09:00",
+  "processed_at": "2026-07-08T11:31:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-2025.05.11_13-_23bb3b17a6_06d8ccbf93_8c857f490f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-2025.05.11_13-_23bb3b17a6_06d8ccbf93_8c857f490f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 2025년 5월 11일부터 13일까지 진행된 양서류 야장 활동의 사진",
+      "사진은 JPEG 형식으로, 크기는 2480x3507 픽셀이며, 파일 크기는 516,373 바이트",
+      "야장 활동과 관련된 영수증 등의 서류와 함께 저장되어 있음"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "양서류 야장",
+      "현장조사"
+    ]
+  }
+}

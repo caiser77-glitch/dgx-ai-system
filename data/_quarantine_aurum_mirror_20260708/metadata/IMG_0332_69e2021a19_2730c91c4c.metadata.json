@@ -1,0 +1,46 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0332_69e2021a19.txt",
+  "source_name": "IMG_0332_69e2021a19.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T15:56:43+09:00",
+  "processed_at": "2026-06-29T15:57:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0332_69e2021a19_2730c91c4c.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0332_69e2021a19_2730c91c4c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 성남낙생 송전선로 소규모",
+    "project_name": "성남낙생 송전선로 소규모",
+    "taxon_group": "미확정",
+    "document_type": "현장사진",
+    "class_name": "현장사진",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#Canon",
+      "#PowerShot",
+      "#GPS"
+    ],
+    "summary": "Canon PowerShot SX70 HS로 촬영된 현장 사진. GPS 좌표: 37.352238, 127.077492",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 4월 1일 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "위치: 위도 37.352238, 경도 127.077492",
+      "사진 크기: 5184x3888 픽셀, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS 위치",
+      "사진"
+    ]
+  }
+}

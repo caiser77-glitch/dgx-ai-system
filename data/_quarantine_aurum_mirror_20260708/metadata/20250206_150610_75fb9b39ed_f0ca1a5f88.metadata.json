@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250206_150610_75fb9b39ed.txt",
+  "source_name": "20250206_150610_75fb9b39ed.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T10:17:14+09:00",
+  "processed_at": "2026-06-23T10:17:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250206_150610_75fb9b39ed_f0ca1a5f88.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250206_150610_75fb9b39ed_f0ca1a5f88.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "현장조사",
+    "tags": [
+      "#고흥",
+      "#산단",
+      "#현장조사"
+    ],
+    "summary": "2025년 2월 6일에 삼성 카메라로 촬영된 사진 메타데이터. 위치: 환평, GPS 좌표: (34.447553, 127.488347)",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "삼성 스마트폰으로 촬영된 고화질 사진",
+      "2025년 2월 6일 15시 6분 10초에 촬영",
+      "GPS 좌표: 위도 34.447553, 경도 127.488347"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "GPS",
+      "삼성"
+    ]
+  }
+}

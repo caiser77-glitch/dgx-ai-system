@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2022_2025_43098d013d.txt",
+  "source_name": "2022_2025_43098d013d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:48:43+09:00",
+  "processed_at": "2026-07-08T11:48:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2022_2025_43098d013d_0b10429bf0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2022_2025_43098d013d_0b10429bf0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "청지천의 저서성대형무척추동물에 대한 데이터가 포함된 엑셀 파일입니다.",
+      "2022년부터 2025년까지의 정보를 담고 있습니다.",
+      "하천 생물측정망 분석 정보를 제공합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "청지천",
+      "저서성대형무척추동물",
+      "하천 생물측정망"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00._25.10.13___v5_c5819649eb.txt",
+  "source_name": "00._25.10.13___v5_c5819649eb.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:14+09:00",
+  "processed_at": "2026-07-08T12:04:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00._25.10.13___v5_c5819649eb_460c0457a4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00._25.10.13___v5_c5819649eb_460c0457a4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획에 대한 다양한 대안이 제시된 엑셀 파일",
+      "기본구상안, 수용통보, 개발계획 검토안 및 수립안, 존치안 등이 포함",
+      "각 시트는 해당 대안의 상세 정보를 담고 있음"
+    ],
+    "category": "개발계획",
+    "keywords": [
+      "토지이용계획",
+      "개발계획",
+      "대안"
+    ]
+  }
+}

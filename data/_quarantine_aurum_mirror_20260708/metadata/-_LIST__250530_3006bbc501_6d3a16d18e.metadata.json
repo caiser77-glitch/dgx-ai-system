@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_LIST__250530_3006bbc501.txt",
+  "source_name": "-_LIST__250530_3006bbc501.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:07:16+09:00",
+  "processed_at": "2026-06-22T22:08:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-_LIST__250530_3006bbc501_6d3a16d18e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-_LIST__250530_3006bbc501_6d3a16d18e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 포항기업혁신파크",
+    "project_name": "단지설계",
+    "class_name": "필요자료",
+    "tags": [
+      "#포항기업혁신파크",
+      "#단지설계",
+      "#필요자료"
+    ],
+    "summary": "포항기업혁신파크 단지설계 관련 필요자료 목록 파일.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항기업혁신파크의 단지 설계 관련 필요 자료 목록이 포함된 ZIP 파일입니다.",
+      "파일 크기는 약 142MB이며, 내부 자료의 상세 내용은 추출되지 않았습니다.",
+      "ZIP 파일 내의 자료는 단지 설계와 관련된 다양한 문서를 포함할 것으로 예상됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "포항기업혁신파크",
+      "단지설계",
+      "ZIP파일"
+    ]
+  }
+}

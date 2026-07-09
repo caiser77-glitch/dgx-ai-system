@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0267-_9d56cf8af4.txt",
+  "source_name": "IMG_0267-_9d56cf8af4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T03:31:32+09:00",
+  "processed_at": "2026-07-06T03:34:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0267-_9d56cf8af4_a6149825df.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0267-_9d56cf8af4_a6149825df.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "큰산개구리 올챙이의 사진",
+      "2026년 4월 1일 촬영",
+      "RGB 모드, JPEG 형식, 1157x868 해상도"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "큰산개구리",
+      "올챙이",
+      "사진"
+    ]
+  }
+}

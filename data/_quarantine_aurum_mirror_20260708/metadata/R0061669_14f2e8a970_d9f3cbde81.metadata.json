@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061669_14f2e8a970.txt",
+  "source_name": "R0061669_14f2e8a970.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:27:31+09:00",
+  "processed_at": "2026-07-08T09:27:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061669_14f2e8a970_d9f3cbde81.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061669_14f2e8a970_d9f3cbde81.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.",
+      "촬영 일시는 2026년 5월 28일 18시 53분이며, 고덕강일 모니터링 현장 데이터입니다.",
+      "GPS 좌표(북위 37.5573, 동경 127.178762)를 포함한 사진 파일의 기술적 속성을 나타냅니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "모니터링",
+      "RICOH WG-6",
+      "GPS 좌표"
+    ]
+  }
+}

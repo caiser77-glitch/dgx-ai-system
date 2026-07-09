@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2022_-_377094_ce3744bb24.txt",
+  "source_name": "5_2022_-_377094_ce3744bb24.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:53:33+09:00",
+  "processed_at": "2026-07-08T11:53:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2022_-_377094_ce3744bb24_380cdd1b25.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2022_-_377094_ce3744bb24_380cdd1b25.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "5차 전국자연환경조사의 포유류 관련 보고서입니다.",
+      "능평 지역의 포유류 조사 결과 내용을 포함하고 있습니다.",
+      "OCR 처리 실패로 인해 상세 내용 추출이 불가능한 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "포유류",
+      "능평"
+    ]
+  }
+}

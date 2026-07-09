@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-09110_11de1242b3.txt",
+  "source_name": "-09110_11de1242b3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:06:01+09:00",
+  "processed_at": "2026-07-08T12:06:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-09110_11de1242b3_d44d0fd288.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-09110_11de1242b3_d44d0fd288.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '고흥-09110_동식물상'은 지원되지 않는 파일 형식으로 내용 추출이 불가능합니다.",
+      "파일 크기는 89,325,568 바이트입니다.",
+      "문서의 종류는 한글 문서(hwp)입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "hwp",
+      "고흥-09110_동식물상"
+    ]
+  }
+}

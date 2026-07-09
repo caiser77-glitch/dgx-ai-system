@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/PDF_1_c99ee1d23e.txt",
+  "source_name": "PDF_1_c99ee1d23e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:16+09:00",
+  "processed_at": "2026-07-08T12:14:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/PDF_1_c99ee1d23e_d39f40dbcc.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/PDF_1_c99ee1d23e_d39f40dbcc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 글로벌 기업혁신파크의 환경영향평가 준비서 관련 문서입니다.",
+      "문서 크기는 약 9.75MB이며, 파일 유형 문제로 내용 추출이 지원되지 않습니다.",
+      "OCR 처리 과정에서 제어 문자 포함 등의 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "포항 글로벌 기업혁신파크",
+      "환경영향평가",
+      "평가준비서"
+    ]
+  }
+}

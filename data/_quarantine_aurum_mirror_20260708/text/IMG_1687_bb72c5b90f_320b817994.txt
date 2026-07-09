@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, 2024.10.24, 5184x3888
+● 3줄 요약:
+- 2024년 10월 24일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- 사진 크기: 5184x3888, RGB 모드, MPO 포맷
+- 파일 크기: 11,712,149 바이트, 경로: /mnt/dgxbackup/2026 경일/금산 제원지구 소평/02.사진/2024.10.24/김부 양,곤/IMG_1687.JPG
+=========================================
+source_name: IMG_1687.JPG
+source_type: jpg
+size_bytes: 11712149
+path: /mnt/dgxbackup/2026 경일/금산 제원지구 소평/02.사진/2024.10.24/김부 양,곤/IMG_1687.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2024:10:24 14:48:01
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/00_f9226e690f.3.csv",
+  "source_name": "00_f9226e690f.3.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:38:02+09:00",
+  "processed_at": "2026-07-08T13:38:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_f9226e690f.3_bbe807fc9e.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/00_f9226e690f.3_bbe807fc9e.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_f9226e690f.3_bbe807fc9e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "철근의 종류 및 규격에 관한 데이터가 포함된 CSV 파일입니다.",
+      "열 이름은 '철', '근', '집', '계', '표(연강)' 등으로 구성되어 있습니다.",
+      "총 33개의 행을 포함하고 있는 구조화된 문서 자료입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "철근",
+      "연강",
+      "데이터시트"
+    ]
+  }
+}

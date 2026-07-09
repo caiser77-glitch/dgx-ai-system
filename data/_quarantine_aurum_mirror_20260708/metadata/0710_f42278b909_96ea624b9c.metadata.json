@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0710_f42278b909.txt",
+  "source_name": "0710_f42278b909.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:06+09:00",
+  "processed_at": "2026-07-08T11:55:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0710_f42278b909_96ea624b9c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0710_f42278b909_96ea624b9c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 자연생태환경분야에 관한 PDF 파일입니다.",
+      "파일 크기는 22,675,796 바이트입니다.",
+      "OCR 처리 중 URL에 제어 문자가 포함되어 오류가 발생했습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "자연생태환경",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

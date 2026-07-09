@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/00_d1e160c5f2.0.csv",
+  "source_name": "00_d1e160c5f2.0.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:44:41+09:00",
+  "processed_at": "2026-07-08T11:44:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_d1e160c5f2.0_c68a7829e2.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/00_d1e160c5f2.0_c68a7829e2.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_d1e160c5f2.0_c68a7829e2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "배수공, 구조물공, 포장공, 부대공 등 공종별 내역을 포함한 데이터입니다.",
+      "총 135개의 행으로 구성된 CSV 형식의 공사 물량 산출 문서입니다.",
+      "각 공종별 수량과 할증 등을 포함하여 전체 계를 산출하는 구조입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "공종",
+      "배수공",
+      "구조물공"
+    ]
+  }
+}

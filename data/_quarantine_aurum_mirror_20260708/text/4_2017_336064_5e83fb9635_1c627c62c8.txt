@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 곤충, PDF
+● 3줄 요약:
+- 제4차 전국자연환경조사 2017년도 곤충 관련 자료입니다.
+- 해당 문서는 PDF 형식의 파일로 용량은 약 5.6MB입니다.
+- OCR 처리 실패로 인해 상세 내용 추출이 지원되지 않습니다.
+=========================================
+source_name: (제4차)전국자연환경조사 2017 곤충 귀일336064.pdf
+source_type: pdf
+size_bytes: 5601054
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/(제4차)전국자연환경조사 2017 곤충 귀일336064_pages_1_taxa.xlsx' (found at least ' ')

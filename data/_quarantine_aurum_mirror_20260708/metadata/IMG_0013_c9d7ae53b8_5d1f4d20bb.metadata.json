@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0013_c9d7ae53b8.txt",
+  "source_name": "IMG_0013_c9d7ae53b8.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T09:06:59+09:00",
+  "processed_at": "2026-06-25T09:08:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0013_c9d7ae53b8_5d1f4d20bb.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0013_c9d7ae53b8_5d1f4d20bb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2026년 2월 23일에 촬영된 Canon PowerShot SX70 HS 카메라 사진\n사진 크기는 5184x3888 픽셀, RGB 모드로 촬영\n파일 크기는 4,041,286 바이트, MPO 포맷",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#2026-02-23",
+      "#평택통복"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 23일에 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "사진 크기는 5184x3888 픽셀, RGB 모드로 촬영",
+      "파일 크기는 4,041,286 바이트, MPO 포맷"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "2026-02-23",
+      "평택통복"
+    ]
+  }
+}

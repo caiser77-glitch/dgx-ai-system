@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0059556_77453bd96b.txt",
+  "source_name": "R0059556_77453bd96b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:17:55+09:00",
+  "processed_at": "2026-07-08T14:18:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0059556_77453bd96b_4b59cde1ef.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0059556_77453bd96b_4b59cde1ef.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.",
+      "2026년 2월 5일 오전 9시 31분에 촬영되었습니다.",
+      "광양항 낙포부두 인근의 GPS 좌표 정보를 포함하고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "RICOH WG-6",
+      "GPS 좌표"
+    ]
+  }
+}

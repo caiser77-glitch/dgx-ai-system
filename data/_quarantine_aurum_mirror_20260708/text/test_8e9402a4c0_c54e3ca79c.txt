@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 메타데이터, OCR, 서버 에러
+● 3줄 요약:
+- 테스트 이미지 파일에 대한 메타데이터 정보 제공
+- OCR 처리 시 서버 에러 발생
+- 파일 크기, 해상도, 모드, 형식 등의 정보 포함
+=========================================
+source_name: test.png
+source_type: png
+size_bytes: 5763
+width: 382
+height: 196
+mode: RGBA
+format: PNG
+ocr_error: HTTP Error 500: Internal Server Error

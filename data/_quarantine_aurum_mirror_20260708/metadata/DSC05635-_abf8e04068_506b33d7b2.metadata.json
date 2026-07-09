@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05635-_abf8e04068.txt",
+  "source_name": "DSC05635-_abf8e04068.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T16:50:16+09:00",
+  "processed_at": "2026-06-24T16:52:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05635-_abf8e04068_506b33d7b2.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05635-_abf8e04068_506b33d7b2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 SONY ILCE-7RM4 카메라로 찍은 사진\n울산 온산국가산업단지에서 진행된 1차 조사 결과물\n우리가시허리노린재를 포착한 고해상도 이미지",
+    "tags": [
+      "#우리가시허리노린재",
+      "#울산 온산국가산업단지",
+      "#곤충"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 SONY ILCE-7RM4 카메라로 찍은 사진",
+      "울산 온산국가산업단지에서 진행된 1차 조사 결과물",
+      "우리가시허리노린재를 포착한 고해상도 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "우리가시허리노린재",
+      "울산 온산국가산업단지",
+      "곤충"
+    ]
+  }
+}

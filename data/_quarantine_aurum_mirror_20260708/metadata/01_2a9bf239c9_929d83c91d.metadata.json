@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_2a9bf239c9.txt",
+  "source_name": "01_2a9bf239c9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:17:13+09:00",
+  "processed_at": "2026-06-22T22:18:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/01_2a9bf239c9_929d83c91d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/01_2a9bf239c9_929d83c91d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "고흥 산단",
+    "class_name": "위치도",
+    "tags": [
+      "#위치도",
+      "#고흥",
+      "#산단"
+    ],
+    "summary": "위치도 이미지, 크기: 4065x3557, RGB 모드, JPEG 형식",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단의 위치를 나타내는 이미지 파일입니다.",
+      "2025년 3월 13일 환평자료의 일부로 사용되었습니다.",
+      "이미지는 RGB 모드로, 크기는 4065x3557 픽셀입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "위치도",
+      "고흥 산단",
+      "환평자료"
+    ]
+  }
+}

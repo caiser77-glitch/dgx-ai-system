@@ -1,0 +1,10 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 고흥산단  2025년 02월 조사계획서(아우룸)_25-28일 조사.hwp
+source_type: hwp
+size_bytes: 23693312
+content_extraction: unsupported_file_type

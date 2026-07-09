@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN2045_d163a8bf24.txt",
+  "source_name": "DSCN2045_d163a8bf24.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T03:17:39+09:00",
+  "processed_at": "2026-06-25T03:19:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSCN2045_d163a8bf24_e54ea403a5.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSCN2045_d163a8bf24_e54ea403a5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 11월 17일에 촬영된 경산 도로 확장 프로젝트 관련 사진\nNIKON COOLPIX AW100s 카메라로 촬영, GPS 좌표: 35.766612, 128.820235\nJPEG 형식, 2048x1536 해상도, 776,552 바이트 크기",
+    "tags": [
+      "#경산도로확장",
+      "#아우룸생태연구소",
+      "#현장사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일에 촬영된 경산 도로 확장 프로젝트 관련 사진",
+      "NIKON COOLPIX AW100s 카메라로 촬영, GPS 좌표: 35.766612, 128.820235",
+      "JPEG 형식, 2048x1536 해상도, 776,552 바이트 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "경산도로확장",
+      "아우룸생태연구소",
+      "현장사진"
+    ]
+  }
+}

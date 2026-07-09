@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/6-1_ecdf45ba3b.txt",
+  "source_name": "6-1_ecdf45ba3b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:15:50+09:00",
+  "processed_at": "2026-07-08T12:15:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/6-1_ecdf45ba3b_d71c4b7714.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/6-1_ecdf45ba3b_d71c4b7714.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경현황조사 및 영향예측, 저감방안에 관한 내용을 다룹니다.",
+      "PDF 파일 크기는 17,837,463 바이트입니다.",
+      "OCR 처리 과정에서 URL 제어 문자 포함으로 인한 오류가 발생했습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경현황조사",
+      "영향예측",
+      "저감방안"
+    ]
+  }
+}

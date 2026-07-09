@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1300_ccfaee36db_a2525e17f1.txt",
+  "source_name": "-1300_ccfaee36db_a2525e17f1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:31:30+09:00",
+  "processed_at": "2026-07-08T11:31:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-1300_ccfaee36db_a2525e17f1_2bb5aaf7a5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-1300_ccfaee36db_a2525e17f1_2bb5aaf7a5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제안로-1300 부록 파일에 대한 정보 제공",
+      "파일 크기는 416,267,264 바이트",
+      "내용 추출 불가능한 파일 형식"
+    ],
+    "category": "기타",
+    "keywords": [
+      "제안로-1300",
+      "부록",
+      "hwp"
+    ]
+  }
+}

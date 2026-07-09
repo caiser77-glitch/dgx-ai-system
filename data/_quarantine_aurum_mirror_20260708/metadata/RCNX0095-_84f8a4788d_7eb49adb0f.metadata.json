@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/RCNX0095-_84f8a4788d.txt",
+  "source_name": "RCNX0095-_84f8a4788d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:02:09+09:00",
+  "processed_at": "2026-07-08T09:02:18+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/RCNX0095-_84f8a4788d_7eb49adb0f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/RCNX0095-_84f8a4788d_7eb49adb0f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 온산국가산업단지 내 1등급지 무인카메라를 통해 촬영된 고라니 사진 데이터입니다.",
+      "2025년 12월 28일 밤 RECONYX 카메라로 포착된 야생동물 관찰 기록입니다.",
+      "4차 조사(2026.03.18-20) 과정의 일환으로 수집된 생태 조사 이미지 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고라니",
+      "무인카메라",
+      "울산 온산국가산업단지"
+    ]
+  }
+}

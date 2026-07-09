@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0055_f19b087c61.txt",
+  "source_name": "IMG_0055_f19b087c61.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T16:51:02+09:00",
+  "processed_at": "2026-06-30T16:53:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0055_f19b087c61_262a177f8d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0055_f19b087c61_262a177f8d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 사진",
+      "사진은 고흥 산단에서 촬영되었으며, GPS 좌표는 34.44511, 127.488945",
+      "사진의 해상도는 5184x3888 픽셀, 파일 크기는 8,722,006 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "고흥 산단",
+      "GPS 좌표"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_b5d1693192.txt",
+  "source_name": "2_b5d1693192.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:35:46+09:00",
+  "processed_at": "2026-06-23T20:37:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_b5d1693192_209ffeb9c2.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_b5d1693192_209ffeb9c2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "포유류",
+    "tags": [
+      "#고라니",
+      "#경북경산",
+      "#20251117"
+    ],
+    "summary": "2025년 11월 17일 경북 경산에서 촬영된 고라니 사진. Panasonic DC-TZ99 카메라로 촬영.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일 경북 경산에서 촬영된 고라니 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, GPS 좌표 (35.766075, 128.825956) 기록",
+      "JPEG 형식, 1024x768 해상도, 497,039 바이트 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고라니",
+      "경북 경산",
+      "Panasonic DC-TZ99"
+    ]
+  }
+}

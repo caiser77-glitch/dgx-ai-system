@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.06_2_0d2e07321c.txt",
+  "source_name": "2026.03.06_2_0d2e07321c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:11:35+09:00",
+  "processed_at": "2026-06-23T18:12:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.06_2_0d2e07321c_85748218d6.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.06_2_0d2e07321c_85748218d6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "군포대야미",
+    "class_name": "식물상",
+    "tags": [
+      "#식물상",
+      "#군포대야미",
+      "#2026"
+    ],
+    "summary": "2026년 3월 6일 군포대야미에서 촬영한 식물상 사진입니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "군포대야미 지역의 식물상 사진",
+      "2026년 3월 6일 촬영",
+      "JPEG 형식, 2480x3507 픽셀"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "군포대야미",
+      "식물상",
+      "사진"
+    ]
+  }
+}

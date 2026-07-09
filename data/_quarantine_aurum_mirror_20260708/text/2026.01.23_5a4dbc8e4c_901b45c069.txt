@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 계양 사업지구, 종료, 영수증
+● 3줄 요약:
+- 2026년 1월 23일에 촬영된 계양 사업지구 종료 관련 영수증 사진
+- 사진은 SAMSUNG Galaxy S25 Ultra로 촬영되었으며, 크기는 640x1567 픽셀
+- 사진은 2026년 1분기 계양 테크노밸리 사후 관리 영수증 파일에 포함됨
+=========================================
+source_name: 2026.01.23 계양 사업지구 종료.jpg
+source_type: jpg
+size_bytes: 215615
+path: /mnt/dgxbackup/2026 이산/계양 테크노밸리 사후/05. 야장 및 영수증/영수증/1분기/2026.01.23 계양 사업지구 종료.jpg
+width: 640
+height: 1567
+mode: RGB
+format: JPEG
+datetime_taken: 2026:01:23 17:09:46
+camera_make: SAMSUNG
+camera_model: Galaxy S25 Ultra

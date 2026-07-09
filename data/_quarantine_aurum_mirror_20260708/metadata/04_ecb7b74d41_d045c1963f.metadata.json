@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/04_ecb7b74d41.txt",
+  "source_name": "04_ecb7b74d41.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:59:05+09:00",
+  "processed_at": "2026-07-08T11:59:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_ecb7b74d41_d045c1963f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_ecb7b74d41_d045c1963f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '04 부문별계획_(완).hwp'는 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 332,463,616 바이트입니다.",
+      "내용 추출이 불가능하므로 분석을 진행할 수 없습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "부문별계획",
+      "내용 추출 불가"
+    ]
+  }
+}

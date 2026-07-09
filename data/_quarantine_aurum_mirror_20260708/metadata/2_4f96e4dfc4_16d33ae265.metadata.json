@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_4f96e4dfc4.txt",
+  "source_name": "2_4f96e4dfc4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:17:15+09:00",
+  "processed_at": "2026-06-23T20:18:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_4f96e4dfc4_16d33ae265.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_4f96e4dfc4_16d33ae265.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "고흥 산단 용역",
+    "class_name": "우수배제계획",
+    "tags": [
+      "#고흥산단",
+      "#설계사",
+      "#우수배제계획"
+    ],
+    "summary": "고흥 산단 용역의 설계분야 중점검토사항 중 우수배제계획 관련 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "우수배제계획 관련 설계 자료 이미지 파일",
+      "고흥 산단 환평자료 중 조사설계용역 착수보고서의 일부",
+      "중점검토사항(설계분야)에 포함된 내용"
+    ],
+    "category": "설계자료",
+    "keywords": [
+      "우수배제계획",
+      "고흥 산단",
+      "설계자료"
+    ]
+  }
+}

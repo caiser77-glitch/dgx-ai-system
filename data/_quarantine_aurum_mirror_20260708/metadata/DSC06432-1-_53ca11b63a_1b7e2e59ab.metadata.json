@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC06432-1-_53ca11b63a.txt",
+  "source_name": "DSC06432-1-_53ca11b63a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T13:12:53+09:00",
+  "processed_at": "2026-06-30T13:14:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/DSC06432-1-_53ca11b63a_1b7e2e59ab.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/DSC06432-1-_53ca11b63a_1b7e2e59ab.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 9월 3일에 촬영된 청솔귀뚜라미 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 1600x1066, RGB 모드",
+      "파일 크기 1,204,345 바이트, JPEG 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "곤충",
+      "청솔귀뚜라미",
+      "사진"
+    ]
+  }
+}

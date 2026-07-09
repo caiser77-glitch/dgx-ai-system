@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-6_c2d205e0e5.txt",
+  "source_name": "01-6_c2d205e0e5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:13+09:00",
+  "processed_at": "2026-07-08T11:57:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-6_c2d205e0e5_56c41c5405.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-6_c2d205e0e5_56c41c5405.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용 및 업종배치에 대한 비교 데이터가 포함된 엑셀 파일입니다.",
+      "토지이용 시트는 27행 20열, 업종배치 시트는 48행 28열로 구성되어 있습니다.",
+      "각 시트는 해당 분야의 상세한 정보를 제공합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "토지이용",
+      "업종배치",
+      "비교데이터"
+    ]
+  }
+}

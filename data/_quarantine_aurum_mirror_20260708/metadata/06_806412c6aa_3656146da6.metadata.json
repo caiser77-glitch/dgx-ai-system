@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/06_806412c6aa.txt",
+  "source_name": "06_806412c6aa.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:42:43+09:00",
+  "processed_at": "2026-07-08T11:42:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/06_806412c6aa_3656146da6.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/06_806412c6aa_3656146da6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소의 다양한 생태학적 데이터 시트를 포함하는 엑셀 파일입니다.",
+      "조사 결과 및 자료 집계 등 여러 종류의 시트로 구성되어 있습니다.",
+      "특히 '포수' 시트는 125개의 열을 보유하여 가장 방대한 정보를 담고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "엑셀",
+      "생태학",
+      "데이터"
+    ]
+  }
+}

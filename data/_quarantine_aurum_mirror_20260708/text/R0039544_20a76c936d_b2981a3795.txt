@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 메타데이터, RICOH WG-6, 현장 촬영 기록
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 2026년 2월 10일 오전 9시 42분에 경남 양곡부두 인근에서 촬영되었습니다.
+- GPS 좌표를 통해 특정 위치(북위 35.053587, 동경 128.795325)의 기록임을 알 수 있습니다.
+=========================================
+source_name: R0039544.JPG
+source_type: jpg
+size_bytes: 2132285
+path: /mnt/dgxbackup/2026 세일/양곡부두/02. 사진/2026.02.10/유과/R0039544.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:10 09:42:04
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 35.053587
+gps_lon: 128.795325

@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060793_b2af595b25.txt",
+  "source_name": "R0060793_b2af595b25.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:48:19+09:00",
+  "processed_at": "2026-07-01T11:48:19+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060793_b2af595b25.txt",
+    "return_code": 1
+  }
+}

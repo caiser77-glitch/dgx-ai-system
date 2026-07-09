@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 고흥 산단, GPS 좌표, Galaxy S24+
+● 3줄 요약:
+- 2025년 2월 6일에 촬영된 고화질 사진
+- 사진은 고흥 산단에서 촬영되었으며 GPS 좌표는 34.459383, 127.483168
+- 삼성 Galaxy S24+로 촬영된 RGB 모드의 JPEG 형식 이미지
+=========================================
+source_name: 20250206_164220(0).jpg
+source_type: jpg
+size_bytes: 9140409
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.13 환평자료/02_현장조사 - 01임정래 -2/20250206_164220(0).jpg
+width: 4000
+height: 3000
+mode: RGB
+format: JPEG
+datetime_taken: 2025:02:06 16:42:21
+camera_make: samsung
+camera_model: Galaxy S24+
+gps_lat: 34.459383
+gps_lon: 127.483168

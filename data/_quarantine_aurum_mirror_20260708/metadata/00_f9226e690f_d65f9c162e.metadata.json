@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00_f9226e690f.txt",
+  "source_name": "00_f9226e690f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:37:55+09:00",
+  "processed_at": "2026-07-08T13:38:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_f9226e690f_d65f9c162e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_f9226e690f_d65f9c162e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "총자재집계 내용을 담은 여러 시트 구성의 엑셀 파일입니다.",
+      "자재, 수량집계표, 골재, 레미콘, 철근, 배수관 등의 시트를 포함합니다.",
+      "각 시트에는 다양한 자재의 상세 수량과 관련 정보가 기록되어 있습니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "자재관리",
+      "엑셀",
+      "수량집계"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0048_1ec88fe33a.txt",
+  "source_name": "IMG_0048_1ec88fe33a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T16:25:54+09:00",
+  "processed_at": "2026-06-30T16:28:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0048_1ec88fe33a_3ea0374a6a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0048_1ec88fe33a_3ea0374a6a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2020년 1월 2일 20시 35분 54초에 촬영된 무인카메라 사진",
+      "BROWNING BTC-8E 카메라로 촬영, 해상도 4608x2592, RGB 모드",
+      "고흥 산단에서 촬영된 사진으로, 피해방지 및 조사계획서 관련 자료의 일부"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "고흥 산단",
+      "조사계획서"
+    ]
+  }
+}

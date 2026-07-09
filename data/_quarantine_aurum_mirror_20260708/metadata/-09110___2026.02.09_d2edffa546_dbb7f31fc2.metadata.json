@@ -1,0 +1,39 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-09110___2026.02.09_d2edffa546.txt",
+  "source_name": "-09110___2026.02.09_d2edffa546.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T09:36:57+09:00",
+  "processed_at": "2026-07-06T09:37:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-09110___2026.02.09_d2edffa546_dbb7f31fc2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-09110___2026.02.09_d2edffa546_dbb7f31fc2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "요약을 생성하지 못했습니다.",
+      "",
+      ""
+    ],
+    "category": "기타",
+    "keywords": []
+  }
+}

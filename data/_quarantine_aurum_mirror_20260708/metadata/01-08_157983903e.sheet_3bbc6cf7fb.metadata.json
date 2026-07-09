@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-08_157983903e.sheet.csv",
+  "source_name": "01-08_157983903e.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:40:15+09:00",
+  "processed_at": "2026-07-08T13:40:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_157983903e.sheet_3bbc6cf7fb.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-08_157983903e.sheet_3bbc6cf7fb.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_157983903e.sheet_3bbc6cf7fb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "건축물 철거 및 콘크리트 파쇄 관련 공종 데이터입니다.",
+      "철근/무근 콘크리트 깨기 및 아스팔트 포장 절단 작업이 포함됩니다.",
+      "폐기물 상차, 철재류, 보도블럭, 폐목재 등 처리 항목을 다룹니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "건축물철거",
+      "콘크리트깨기",
+      "폐기물처리"
+    ]
+  }
+}

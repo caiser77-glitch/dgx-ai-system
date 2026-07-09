@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4-_-7.1_7.5__26_1__2026.04.08_5d14e60250.txt",
+  "source_name": "4-_-7.1_7.5__26_1__2026.04.08_5d14e60250.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:27+09:00",
+  "processed_at": "2026-07-08T11:50:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/4-_-7.1_7.5__26_1__2026.04.08_5d14e60250_3512ea152e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/4-_-7.1_7.5__26_1__2026.04.08_5d14e60250_3512ea152e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "인천계양 결과통보서의 7.1장부터 7.5장까지의 내용을 포함하는 문서입니다.",
+      "파일 형식은 HWP이며, 파일 크기는 약 526MB입니다.",
+      "현재 파일 형식 특성상 직접적인 내용 추출 및 분석이 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "인천계양",
+      "결과통보서",
+      "HWP"
+    ]
+  }
+}

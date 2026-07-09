@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN2042-_24bf68b879.txt",
+  "source_name": "DSCN2042-_24bf68b879.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T03:12:23+09:00",
+  "processed_at": "2026-06-25T03:13:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSCN2042-_24bf68b879_387219ba88.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSCN2042-_24bf68b879_387219ba88.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "큰산개구리 사진 파일\nJPEG 형식, RGB 모드\n파일 크기 509,840 바이트, 해상도 884x663",
+    "tags": [
+      "#큰산개구리",
+      "#사진",
+      "#현장조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "큰산개구리 사진 파일",
+      "JPEG 형식, RGB 모드",
+      "파일 크기 509,840 바이트, 해상도 884x663"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "큰산개구리",
+      "사진",
+      "현장조사"
+    ]
+  }
+}

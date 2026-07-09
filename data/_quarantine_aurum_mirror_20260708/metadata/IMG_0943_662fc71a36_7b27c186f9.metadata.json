@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0943_662fc71a36.txt",
+  "source_name": "IMG_0943_662fc71a36.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T13:52:01+09:00",
+  "processed_at": "2026-07-06T13:52:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0943_662fc71a36_7b27c186f9.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0943_662fc71a36_7b27c186f9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 1월 21일에 촬영된 무인카메라 사진",
+      "Prometheus BTC-5PXD 카메라로 촬영",
+      "무덤 옆에서 촬영된 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "무덤",
+      "Prometheus"
+    ]
+  }
+}

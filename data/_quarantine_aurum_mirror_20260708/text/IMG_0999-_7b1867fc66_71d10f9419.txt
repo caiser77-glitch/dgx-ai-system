@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 민물가마우지, 메타데이터, OCR 오류
+● 3줄 요약:
+- 민물가마우지 사진 파일에 대한 메타데이터 정보 제공
+- OCR 처리 시 서버 오류로 인해 텍스트 추출 실패
+- 파일 크기, 해상도, 색상 모드 등의 정보 포함
+=========================================
+source_name: IMG_0999-민물가마우지.jpg
+source_type: jpg
+size_bytes: 509363
+width: 1046
+height: 785
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

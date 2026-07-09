@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_66490dd5d5.txt",
+  "source_name": "file_66490dd5d5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:47:27+09:00",
+  "processed_at": "2026-07-08T13:47:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_66490dd5d5_6655df19db.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_66490dd5d5_6655df19db.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제주시 애월읍 광령리 지역의 자연재해 위험 개선 사업 관련 동식물상 조사 보고서",
+      "PDF 파일 크기: 43,054,189 바이트",
+      "OCR 처리 오류: URL에 제어 문자 포함"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "자연재해위험개선지구",
+      "동식물상",
+      "애월읍 광령리"
+    ]
+  }
+}

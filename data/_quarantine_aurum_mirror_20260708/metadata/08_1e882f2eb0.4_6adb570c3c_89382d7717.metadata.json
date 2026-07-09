@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/08_1e882f2eb0.4_6adb570c3c.csv",
+  "source_name": "08_1e882f2eb0.4_6adb570c3c.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:52+09:00",
+  "processed_at": "2026-07-08T11:32:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0.4_6adb570c3c_89382d7717.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/08_1e882f2eb0.4_6adb570c3c_89382d7717.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0.4_6adb570c3c_89382d7717.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "가배수로의 수량 집계 및 연장 산출을 위한 데이터 파일입니다.",
+      "총 10개의 행으로 구성된 CSV 형식의 문서입니다.",
+      "가배수로 관련 물량 산출을 목적으로 작성되었습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "가배수로",
+      "수량 집계",
+      "연장 산출"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4b6cb4ea44.txt",
+  "source_name": "file_4b6cb4ea44.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:50+09:00",
+  "processed_at": "2026-07-08T13:51:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4b6cb4ea44_1a7c757d24.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4b6cb4ea44_1a7c757d24.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제시된 파일은 진천초평산업단지 관련 공사계획평면도 이미지 데이터입니다.",
+      "파일의 크기는 4,767바이트이며 가로 93, 세로 73 픽셀의 저해상도 이미지입니다.",
+      "경로 정보를 통해 2025년 8월 13일자 토지이용 관련 자료임을 확인할 수 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "진천초평산업단지",
+      "공사계획평면도",
+      "토지이용"
+    ]
+  }
+}

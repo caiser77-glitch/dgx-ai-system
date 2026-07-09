@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 기후위기, 적응방안, PDF
+● 3줄 요약:
+- 문서는 기후위기에 대한 적응 방안에 관한 내용을 다루고 있습니다.
+- PDF 파일 크기는 35,584,985 바이트이며, OCR 처리 과정에서 인코딩 오류가 발생했습니다.
+- 문서의 본문 내용 추출이 지원되지 않는 파일 형식으로 인해 불가능합니다.
+=========================================
+source_name: (본안)+0431+기후위기+적응.pdf
+source_type: pdf
+size_bytes: 35584985
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

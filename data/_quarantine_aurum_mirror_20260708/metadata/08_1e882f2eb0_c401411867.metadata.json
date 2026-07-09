@@ -1,0 +1,44 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/08_1e882f2eb0.txt",
+  "source_name": "08_1e882f2eb0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:41:41+09:00",
+  "processed_at": "2026-07-08T11:41:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0_c401411867.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0_c401411867.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "엑셀 파일 '08 부대공.xlsx'은 총 28개의 시트로 구성되어 있습니다.",
+      "각 시트는 특정 공사나 재료에 대한 데이터를 담고 있으며, 행과 열의 수가 다양합니다.",
+      "특히 '가설방음판넬조서'와 '11.비산방지살수' 시트의 데이터가 가장 많습니다."
+    ],
+    "category": "공사보고서",
+    "keywords": [
+      "엑셀",
+      "공사",
+      "재료",
+      "데이터"
+    ]
+  }
+}

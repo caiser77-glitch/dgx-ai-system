@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_746_604603dd1e.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_746_604603dd1e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T03:53:18+09:00",
+  "processed_at": "2026-06-24T03:54:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_746_604603dd1e_19f90ecdb6.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_746_604603dd1e_19f90ecdb6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2025년 3월 26일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍힌 사진\n사진의 해상도는 5184x3888 픽셀이며, RGB 모드로 촬영되었습니다.\nGPS 좌표는 위도 34.456123, 경도 127.4962로 고흥 산단 허대 포곤에서 촬영되었습니다.",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#고흥 산단",
+      "#허대 포곤"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 26일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍힌 사진",
+      "사진의 해상도는 5184x3888 픽셀이며, RGB 모드로 촬영되었습니다.",
+      "GPS 좌표는 위도 34.456123, 경도 127.4962로 고흥 산단 허대 포곤에서 촬영되었습니다."
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "고흥 산단",
+      "허대 포곤"
+    ]
+  }
+}

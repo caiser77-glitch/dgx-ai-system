@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 영수증
+● 핵심 키워드: 영수증, 이미지, SAMSUNG Galaxy S25 Ultra
+● 3줄 요약:
+- 2026년 3월 17일에 촬영된 영수증 이미지
+- SAMSUNG Galaxy S25 Ultra로 촬영
+- 이미지 크기: 640x1774, RGB 모드, JPEG 형식
+=========================================
+source_name: 17일 시작.jpg
+source_type: jpg
+size_bytes: 684925
+path: /mnt/dgxbackup/2026 아라기술/오천항 정비공사 사후/05. 야장 및 영수증/영수증/26년 1분기/17일 시작.jpg
+width: 640
+height: 1774
+mode: RGB
+format: JPEG
+datetime_taken: 2026:03:17 17:43:05
+camera_make: SAMSUNG
+camera_model: Galaxy S25 Ultra

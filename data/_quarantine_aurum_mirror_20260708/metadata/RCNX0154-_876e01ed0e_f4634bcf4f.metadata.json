@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/RCNX0154-_876e01ed0e.txt",
+  "source_name": "RCNX0154-_876e01ed0e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:00:26+09:00",
+  "processed_at": "2026-07-08T09:00:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/RCNX0154-_876e01ed0e_f4634bcf4f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/RCNX0154-_876e01ed0e_f4634bcf4f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 온산국가산업단지 인근 무인카메라 촬영 이미지",
+      "2025년 8월 26일 새벽 시간대 멧돼지 포착",
+      "RECONYX HYPERFIRE 2 COVERT 카메라로 촬영된 현장 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "멧돼지",
+      "무인카메라",
+      "울산 온산국가산업단지"
+    ]
+  }
+}

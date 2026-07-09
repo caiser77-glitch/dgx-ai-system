@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_11f94c2ee3.txt",
+  "source_name": "-_11f94c2ee3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:48:13+09:00",
+  "processed_at": "2026-07-08T11:48:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_11f94c2ee3_b870473d96.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_11f94c2ee3_b870473d96.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "진천초평 지역의 훼손수목 이식 및 폐기물 처리에 대한 데이터를 포함하는 엑셀 파일입니다.",
+      "이식수목과 훼손수목의 수량, 폐기물 포함 여부에 따른 이식량을 상세히 기록하고 있습니다.",
+      "공원 내외의 식재 및 이식 수량과 폐기물 처리시설에 대한 정보를 포함합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "훼손수목",
+      "이식수목",
+      "폐기물 처리"
+    ]
+  }
+}

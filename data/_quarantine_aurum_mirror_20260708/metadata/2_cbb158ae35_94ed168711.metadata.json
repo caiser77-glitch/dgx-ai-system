@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_cbb158ae35.txt",
+  "source_name": "2_cbb158ae35.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:40:42+09:00",
+  "processed_at": "2026-06-23T20:41:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_cbb158ae35_94ed168711.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_cbb158ae35_94ed168711.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "울산 온산국가산업단지",
+    "class_name": "포유류",
+    "tags": [
+      "#새",
+      "#울산",
+      "#포유류"
+    ],
+    "summary": "2026년 2월 13일, Panasonic DC-TZ99 카메라로 촬영된 새 사진. GPS 좌표: 35.456303, 129.314728",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 13일에 촬영된 새 사진",
+      "울산 온산국가산업단지에서 포유류 조사 중 촬영",
+      "Panasonic DC-TZ99 카메라로 GPS 좌표 (35.456303, 129.314728)에서 촬영"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "새",
+      "울산 온산국가산업단지",
+      "포유류 조사"
+    ]
+  }
+}

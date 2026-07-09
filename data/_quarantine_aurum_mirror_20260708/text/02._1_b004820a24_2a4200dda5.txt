@@ -1,0 +1,4 @@
+source_name: 02. 초안 (1).zip
+source_type: zip
+size_bytes: 215363198
+content_extraction: unsupported_file_type

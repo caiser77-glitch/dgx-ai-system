@@ -1,0 +1,40 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02__-_01_-3_8198d8bb64.txt",
+  "source_name": "02__-_01_-3_8198d8bb64.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:31:29+09:00",
+  "processed_at": "2026-06-22T22:32:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/02__-_01_-3_8198d8bb64_dbf881a821.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/02__-_01_-3_8198d8bb64_dbf881a821.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "현장조사",
+    "class_name": "01임정래",
+    "tags": [
+      "#현장조사",
+      "#임정래"
+    ],
+    "summary": "현장조사 관련 zip 파일, 크기 391MB, 지원하지 않는 파일 타입.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "임정래가 수행한 현장조사 자료 압축파일",
+      "파일 크기: 391,099,589 바이트",
+      "내용 추출 불가능한 파일 유형 포함"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "현장조사",
+      "임정래",
+      "압축파일"
+    ]
+  }
+}

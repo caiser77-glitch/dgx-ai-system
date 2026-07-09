@@ -1,0 +1,42 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 05 구조물공.xlsx
+source_type: xlsx
+sheet: 간4, rows: 53, columns: 29
+sheet: 구내, rows: 48, columns: 5
+sheet: 구집, rows: 65, columns: 24
+sheet: 전수, rows: 53, columns: 18
+sheet: 돌단일, rows: 53, columns: 33
+sheet: 전조, rows: 62, columns: 20
+sheet: 데집, rows: 60, columns: 13
+sheet: 데조, rows: 49, columns: 13
+sheet: Sheet1, rows: 0, columns: 1
+sheet: 박단, rows: 53, columns: 13
+sheet: 박스, rows: 53, columns: 123
+sheet: 식집, rows: 53, columns: 19
+sheet: 식단, rows: 175, columns: 27
+sheet: 식조, rows: 53, columns: 256
+sheet: 석수, rows: 53, columns: 16
+sheet: 석단, rows: 54, columns: 33
+sheet: 석부보, rows: 54, columns: 33
+sheet: 석조, rows: 53, columns: 256
+sheet: 망집, rows: 53, columns: 13
+sheet: 망단, rows: 53, columns: 35
+sheet: 돌망조, rows: 53, columns: 8
+sheet: 연단, rows: 174, columns: 27
+sheet: 세집, rows: 53, columns: 13
+sheet: 세단1, rows: 100, columns: 21
+sheet: 세단(2), rows: 102, columns: 21
+sheet: 세단(3), rows: 104, columns: 21
+sheet: 세조, rows: 53, columns: 9
+sheet: 날수, rows: 53, columns: 8
+sheet: 날단, rows: 53, columns: 59
+sheet: 날토, rows: 53, columns: 20
+sheet: 배수시설, rows: 170, columns: 27
+sheet: 석축복, rows: 53, columns: 45
+sheet: 옹벽, rows: 57, columns: 45
+sheet: 옹벽2, rows: 123, columns: 52

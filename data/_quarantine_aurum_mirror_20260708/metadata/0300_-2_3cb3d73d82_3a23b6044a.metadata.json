@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0300_-2_3cb3d73d82.txt",
+  "source_name": "0300_-2_3cb3d73d82.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:19+09:00",
+  "processed_at": "2026-07-08T11:57:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0300_-2_3cb3d73d82_3a23b6044a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0300_-2_3cb3d73d82_3a23b6044a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경 영향 조사 실시 내용에 대한 것입니다.",
+      "문서 형식은 .hwp로, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 약 454MB입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향조사",
+      "hwp",
+      "콘텐츠추출"
+    ]
+  }
+}

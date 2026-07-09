@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_1b5e7514cb.txt",
+  "source_name": "1_1b5e7514cb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:18:57+09:00",
+  "processed_at": "2026-06-22T23:20:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_1b5e7514cb_05ddc81b1f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_1b5e7514cb_05ddc81b1f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥 산단",
+    "class_name": "생태자연도 1등급",
+    "tags": [
+      "#생태자연도",
+      "#고흥",
+      "#산단"
+    ],
+    "summary": "생태자연도 1등급 이미지, 크기: 1417x1594, RGB 모드, JPEG 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "생태자연도 1등급 이미지 파일로, 고화질의 생태 환경 정보를 제공합니다.",
+      "이미지는 보호수와 관련된 생태 자연도를 나타내며, 환경 보호에 중요한 역할을 합니다.",
+      "파일 크기는 740,216 바이트로, RGB 모드의 JPEG 형식으로 저장되어 있습니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "생태자연도",
+      "보호수",
+      "JPEG"
+    ]
+  }
+}

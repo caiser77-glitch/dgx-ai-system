@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060354_9b7537aa99.txt",
+  "source_name": "R0060354_9b7537aa99.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T10:20:50+09:00",
+  "processed_at": "2026-07-08T10:20:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060354_9b7537aa99_366e44a954.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060354_9b7537aa99_366e44a954.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 문서 데이터에 실제 텍스트 내용이 포함되어 있지 않습니다.",
+      "파일 정보(이미지 크기, 형식 등)만 존재하며 OCR 오류가 발생했습니다.",
+      "분석할 수 있는 유의미한 콘텐츠가 부재합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "데이터 부재",
+      "OCR 오류",
+      "파일 정보"
+    ]
+  }
+}

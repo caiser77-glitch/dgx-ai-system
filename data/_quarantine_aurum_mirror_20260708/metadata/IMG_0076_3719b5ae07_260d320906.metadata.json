@@ -1,0 +1,29 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0076_3719b5ae07.txt",
+  "source_name": "IMG_0076_3719b5ae07.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-26T11:47:34+09:00",
+  "processed_at": "2026-06-26T11:50:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0076_3719b5ae07_260d320906.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0076_3719b5ae07_260d320906.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {},
+  "ai_summary": {
+    "summary": [
+      "2025년 8월 8일 16시 01분 03초에 촬영된 무인카메라 사진",
+      "BROWNING BTC-8E 카메라로 촬영, 해상도 6016x3384, RGB 모드",
+      "고흥 산단에서 촬영된 사진으로, 피해방지 및 조사계획서 관련 자료"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "고흥 산단",
+      "조사계획서"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_23.01_7462ae049d.txt",
+  "source_name": "1_23.01_7462ae049d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:20:03+09:00",
+  "processed_at": "2026-07-08T13:20:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_23.01_7462ae049d_65a3050b67.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_23.01_7462ae049d_65a3050b67.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '환경보전방안 검토의견(변경1차)'에 대한 PDF 파일이 제공되었습니다.",
+      "파일 크기는 4,347,646 바이트이며, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "OCR 오류로 인해 파일 처리에 문제가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "환경보전방안",
+      "검토의견",
+      "PDF"
+    ]
+  }
+}

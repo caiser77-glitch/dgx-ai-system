@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4_a40d17afab.txt",
+  "source_name": "4_a40d17afab.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:25:33+09:00",
+  "processed_at": "2026-06-23T21:26:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/4_a40d17afab_d32e90ebb0.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/4_a40d17afab_d32e90ebb0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#2024.04.04~05",
+      "#4일 시작"
+    ],
+    "summary": "2024년 4월 4일부터 5일까지의 영수증 이미지. 크기: 639x1488, 형식: JPEG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "4일 시작.jpg는 홍익기술의 진천초평산업단지 프로젝트와 관련된 영수증 이미지입니다.",
+      "이미지는 2024년 4월 4일부터 5일까지의 활동과 관련된 비용 증빙 자료를 포함하고 있습니다.",
+      "이미지 크기는 639x1488 픽셀이며, RGB 모드의 JPEG 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "프로젝트 비용",
+      "증빙 자료"
+    ]
+  }
+}

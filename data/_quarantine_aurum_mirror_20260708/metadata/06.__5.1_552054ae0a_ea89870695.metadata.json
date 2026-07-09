@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/06.__5.1_552054ae0a.txt",
+  "source_name": "06.__5.1_552054ae0a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:49:43+09:00",
+  "processed_at": "2026-07-08T11:49:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/06.__5.1_552054ae0a_ea89870695.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/06.__5.1_552054ae0a_ea89870695.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "광령리 자연재해위험개선지구 정비사업 관련 문서입니다.",
+      "문서 크기는 약 10.7MB입니다.",
+      "OCR 처리 실패로 인해 상세 내용 추출이 불가능합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "광령리",
+      "자연재해위험개선지구",
+      "정비사업"
+    ]
+  }
+}

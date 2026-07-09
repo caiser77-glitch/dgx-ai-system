@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0046_5a422ae879.txt",
+  "source_name": "IMG_0046_5a422ae879.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T22:26:42+09:00",
+  "processed_at": "2026-06-25T22:29:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0046_5a422ae879_40ab96c20b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0046_5a422ae879_40ab96c20b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 6월 17일에 촬영된 무인카메라 사진\nPrometheus BTC-5PXD 카메라로 촬영\n고흥 산단에서 촬영된 환경 이미지",
+    "tags": [
+      "#무인카메라",
+      "#고흥 산단",
+      "#환경 이미지"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 6월 17일에 촬영된 무인카메라 사진",
+      "Prometheus BTC-5PXD 카메라로 촬영",
+      "고흥 산단에서 촬영된 환경 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "고흥 산단",
+      "환경 이미지"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1798_f5f4fff3ac.txt",
+  "source_name": "IMG_1798_f5f4fff3ac.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T22:32:30+09:00",
+  "processed_at": "2026-07-06T22:33:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1798_f5f4fff3ac_512358be13.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1798_f5f4fff3ac_512358be13.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 1월 15일에 촬영된 광주도시철도 관련 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 (35.179638, 126.842552) 기록",
+      "이미지 크기 5184x3888, RGB 모드, MPO 포맷"
+    ],
+    "category": "사진",
+    "keywords": [
+      "광주도시철도",
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표"
+    ]
+  }
+}

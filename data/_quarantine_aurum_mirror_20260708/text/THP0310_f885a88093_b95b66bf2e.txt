@@ -1,0 +1,10 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: THP0310 환경영향조사 실시내용 및 조사결과에 따른 조치 등.hwp
+source_type: hwp
+size_bytes: 30903296
+content_extraction: unsupported_file_type

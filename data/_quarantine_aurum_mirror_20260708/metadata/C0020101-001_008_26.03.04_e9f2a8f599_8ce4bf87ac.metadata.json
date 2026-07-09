@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/C0020101-001_008_26.03.04_e9f2a8f599.txt",
+  "source_name": "C0020101-001_008_26.03.04_e9f2a8f599.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:51:27+09:00",
+  "processed_at": "2026-07-08T11:51:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/C0020101-001_008_26.03.04_e9f2a8f599_8ce4bf87ac.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/C0020101-001_008_26.03.04_e9f2a8f599_8ce4bf87ac.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "AutoCAD 파일 C0020101-001~008 (26.03.04 버전) 업로드 완료",
+      "XREF 외부 참조 파일 및 다양한 폰트 파일 포함",
+      "FONTALT 설정을 통한 폰트 누락 문제 해결 방안 안내"
+    ],
+    "category": "장비",
+    "keywords": [
+      "AutoCAD",
+      "XREF",
+      "폰트"
+    ]
+  }
+}

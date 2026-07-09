@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_479_bc48f205e7.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_479_bc48f205e7.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T00:27:18+09:00",
+  "processed_at": "2026-06-24T00:28:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_479_bc48f205e7_b1633fbbbf.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_479_bc48f205e7_b1633fbbbf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2025년 3월 25일 13시 54분 41초에 촬영된 사진\n위치: GPS 좌표 (34.441428, 127.49453), 허대 포곤 지역\n카메라: Canon PowerShot SX70 HS, 해상도 5184x3888, RGB 모드",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#GPS",
+      "#허대 포곤"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 25일 13시 54분 41초에 촬영된 사진",
+      "위치: GPS 좌표 (34.441428, 127.49453), 허대 포곤 지역",
+      "카메라: Canon PowerShot SX70 HS, 해상도 5184x3888, RGB 모드"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS",
+      "허대 포곤"
+    ]
+  }
+}

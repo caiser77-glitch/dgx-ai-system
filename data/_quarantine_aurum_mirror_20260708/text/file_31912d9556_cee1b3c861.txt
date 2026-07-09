@@ -1,0 +1,4 @@
+source_name: 환경영향평가협의회 심의 의견서.zip
+source_type: zip
+size_bytes: 803355
+content_extraction: unsupported_file_type

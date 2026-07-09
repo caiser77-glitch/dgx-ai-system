@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_23d7be0df8.txt",
+  "source_name": "1_23d7be0df8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:20:17+09:00",
+  "processed_at": "2026-07-08T13:20:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_23d7be0df8_9059500a10.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_23d7be0df8_9059500a10.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '1.+보완요청내용.pdf'는 PDF 형식이며 파일 크기는 403,460 바이트입니다.",
+      "해당 파일은 문서 내용 추출이 지원되지 않는 유형으로 분류되었습니다.",
+      "OCR 처리 과정에서 'ascii' 코덱 인코딩 오류가 발생하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "파일크기",
+      "OCR오류"
+    ]
+  }
+}

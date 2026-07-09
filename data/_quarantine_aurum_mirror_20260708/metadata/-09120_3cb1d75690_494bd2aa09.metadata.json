@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-09120_3cb1d75690.txt",
+  "source_name": "-09120_3cb1d75690.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:26+09:00",
+  "processed_at": "2026-07-08T12:05:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-09120_3cb1d75690_494bd2aa09.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-09120_3cb1d75690_494bd2aa09.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 고흥 지역의 자연환경자산에 대한 정보를 담고 있습니다.",
+      "파일 형식이 hwp로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "추가적인 정보나 분석을 위해서는 hwp 파일의 콘텐츠 추출이 필요합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "자연환경자산",
+      "고흥",
+      "hwp"
+    ]
+  }
+}

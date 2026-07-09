@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0026-_335f2133f5.txt",
+  "source_name": "IMG_0026-_335f2133f5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T13:50:42+09:00",
+  "processed_at": "2026-06-25T13:52:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0026-_335f2133f5_c013446aa5.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0026-_335f2133f5_c013446aa5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2026년 2월 23일에 촬영된 방울새 사진\nCanon PowerShot SX70 HS 카메라로 촬영\n사진 크기: 5184x3888, RGB 모드, MPO 포맷",
+    "tags": [
+      "#방울새",
+      "#Canon PowerShot SX70 HS",
+      "#2026-02-23"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 23일에 촬영된 방울새 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영",
+      "사진 크기: 5184x3888, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "방울새",
+      "Canon PowerShot SX70 HS",
+      "2026-02-23"
+    ]
+  }
+}

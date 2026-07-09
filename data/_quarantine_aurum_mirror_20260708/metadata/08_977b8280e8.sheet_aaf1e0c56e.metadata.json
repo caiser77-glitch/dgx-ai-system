@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/08_977b8280e8.sheet.csv",
+  "source_name": "08_977b8280e8.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:37:51+09:00",
+  "processed_at": "2026-07-08T13:37:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_977b8280e8.sheet_aaf1e0c56e.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/08_977b8280e8.sheet_aaf1e0c56e.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_977b8280e8.sheet_aaf1e0c56e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "필지 경계점 말박기 위치에 관한 조사 데이터입니다.",
+      "외부 말뚝을 포함한 필지 경계 설정 정보를 담고 있습니다.",
+      "총 15개의 행으로 구성된 CSV 형식의 위치 조서 문서입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "필지경계점",
+      "말박기",
+      "위치조서"
+    ]
+  }
+}

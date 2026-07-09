@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/10000_5de38acff8.txt",
+  "source_name": "10000_5de38acff8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:12:34+09:00",
+  "processed_at": "2026-07-08T13:12:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/10000_5de38acff8_9c97c0c41a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/10000_5de38acff8_9c97c0c41a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "주민의 생활환경 및 재산상의 환경오염 대책에 관한 내용을 다룹니다.",
+      "해당 문서는 PDF 형식의 파일로 용량은 145,442 바이트입니다.",
+      "서버 오류로 인해 현재 문서의 상세 내용 추출이 불가능한 상태입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "생활환경",
+      "환경오염대책",
+      "PDF"
+    ]
+  }
+}

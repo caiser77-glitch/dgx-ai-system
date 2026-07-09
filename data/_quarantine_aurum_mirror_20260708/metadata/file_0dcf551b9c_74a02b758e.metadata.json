@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_0dcf551b9c.txt",
+  "source_name": "file_0dcf551b9c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:18+09:00",
+  "processed_at": "2026-07-08T13:54:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_0dcf551b9c_74a02b758e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_0dcf551b9c_74a02b758e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단 관련 해양항목의 측정 지점을 나타내는 도면 자료입니다.",
+      "해양 환경 조사를 위한 구체적인 조사 위치와 범위를 시각화하고 있습니다.",
+      "착수보고회 제출을 목적으로 작성된 해양항목 조사지점도 이미지 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "해양항목",
+      "조사지점도",
+      "고흥 산단"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/060606_900k_9b7508f25a.txt",
+  "source_name": "060606_900k_9b7508f25a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:01:53+09:00",
+  "processed_at": "2026-06-29T17:04:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/060606_900k_9b7508f25a_8783e14f43.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/060606_900k_9b7508f25a_8783e14f43.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 부장리 고분군 기반시설 정비사업 관련 토목단가 견적서 이미지 파일",
+      "파일 크기: 65238 bytes, 해상도: 911x214, 형식: JPEG",
+      "이미지는 2025년 6월 10일 보고서 자료 및 설계자료 폴더에 저장됨"
+    ],
+    "category": "견적서",
+    "keywords": [
+      "서산 부장리 고분군",
+      "토목단가",
+      "견적서"
+    ]
+  }
+}

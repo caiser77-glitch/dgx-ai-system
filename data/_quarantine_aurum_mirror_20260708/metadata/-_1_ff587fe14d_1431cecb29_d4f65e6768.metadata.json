@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_1_ff587fe14d_1431cecb29.txt",
+  "source_name": "-_1_ff587fe14d_1431cecb29.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:30:27+09:00",
+  "processed_at": "2026-07-08T11:30:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_1_ff587fe14d_1431cecb29_d4f65e6768.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_1_ff587fe14d_1431cecb29_d4f65e6768.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천 탐문 조사 결과를 담은 사진 파일",
+      "EPSON ES-580W 카메라로 촬영",
+      "JPEG 형식, RGB 모드, 1770x2494 해상도"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "탐문조사",
+      "EPSON ES-580W"
+    ]
+  }
+}

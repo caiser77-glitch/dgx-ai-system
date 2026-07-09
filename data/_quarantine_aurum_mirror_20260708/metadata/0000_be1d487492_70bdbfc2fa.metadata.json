@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0000_be1d487492.txt",
+  "source_name": "0000_be1d487492.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:49:36+09:00",
+  "processed_at": "2026-07-08T11:49:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0000_be1d487492_70bdbfc2fa.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0000_be1d487492_70bdbfc2fa.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 PDF 형식의 파일로 크기는 91,372 바이트입니다.",
+      "파일 경로 내 제어 문자 포함으로 인해 OCR 처리에 실패하였습니다.",
+      "파일명은 '(본안) 0000 표지, 세네카, 목차.pdf'입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "OCR 오류",
+      "제어 문자"
+    ]
+  }
+}

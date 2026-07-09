@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/359063_5_2019_-_2cab3f9f6c.txt",
+  "source_name": "359063_5_2019_-_2cab3f9f6c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:08:36+09:00",
+  "processed_at": "2026-07-08T12:08:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/359063_5_2019_-_2cab3f9f6c_6cf8e20085.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/359063_5_2019_-_2cab3f9f6c_6cf8e20085.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 지역의 5차 전국자연환경조사 결과에 대한 PDF 문서입니다.",
+      "양서파충류 조사 내용이 포함되어 있으나 파일 형식 문제로 추출이 지원되지 않습니다.",
+      "OCR 오류 및 특정 URL 처리 문제로 인해 데이터 추출에 제한이 발생했습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "울산",
+      "전국자연환경조사",
+      "양서파충류"
+    ]
+  }
+}

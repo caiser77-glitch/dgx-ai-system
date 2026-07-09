@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC06423-1-_f552a94f15.txt",
+  "source_name": "DSC06423-1-_f552a94f15.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T23:39:01+09:00",
+  "processed_at": "2026-06-24T23:40:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC06423-1-_f552a94f15_880d798ec6.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC06423-1-_f552a94f15_880d798ec6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 9월 3일에 촬영된 선녀벌레 사진\nSONY ILCE-7RM4 카메라로 촬영\n사진 크기: 1600x1066, 파일 크기: 1185284 bytes",
+    "tags": [
+      "#선녀벌레",
+      "#곤충",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 9월 3일에 촬영된 선녀벌레 사진",
+      "SONY ILCE-7RM4 카메라로 촬영",
+      "사진 크기: 1600x1066, 파일 크기: 1185284 bytes"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "선녀벌레",
+      "곤충",
+      "사진"
+    ]
+  }
+}

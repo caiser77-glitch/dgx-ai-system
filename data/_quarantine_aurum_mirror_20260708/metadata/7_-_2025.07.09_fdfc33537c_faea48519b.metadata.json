@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/7_-_2025.07.09_fdfc33537c.txt",
+  "source_name": "7_-_2025.07.09_fdfc33537c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:09:33+09:00",
+  "processed_at": "2026-07-08T12:09:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/7_-_2025.07.09_fdfc33537c_faea48519b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/7_-_2025.07.09_fdfc33537c_faea48519b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 아산방축 지역에서 여름철 양서류 현장조사를 계획",
+      "조사 목적은 지역 내 양서류 종 다양성 및 서식 환경 평가",
+      "주요 조사 항목: 양서류 개체 수, 서식지 상태, 환경 요인 분석"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "아산방축",
+      "양서류조사",
+      "2025년 7월"
+    ]
+  }
+}

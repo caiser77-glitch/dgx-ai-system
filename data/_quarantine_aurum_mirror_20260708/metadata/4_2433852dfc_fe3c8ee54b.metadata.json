@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4_2433852dfc.txt",
+  "source_name": "4_2433852dfc.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:18:09+09:00",
+  "processed_at": "2026-06-23T21:19:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/4_2433852dfc_fe3c8ee54b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/4_2433852dfc_fe3c8ee54b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 고흥 산단",
+    "project_name": "2025.03.13 환평자료",
+    "class_name": "설계분야",
+    "tags": [
+      "#설계",
+      "#오폐수처리",
+      "#고흥산단"
+    ],
+    "summary": "오폐수 처리 계획 관련 설계 분야의 삽도 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "오폐수 처리 계획에 대한 설계 분야 중점 검토 사항 문서",
+      "PNG 형식의 이미지 파일로, 크기는 3508x4963 픽셀",
+      "파일 크기는 12,306,539 바이트"
+    ],
+    "category": "설계문서",
+    "keywords": [
+      "오폐수처리",
+      "설계분야",
+      "중점검토사항"
+    ]
+  }
+}

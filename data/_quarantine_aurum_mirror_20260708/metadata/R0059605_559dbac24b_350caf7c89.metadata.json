@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0059605_559dbac24b.txt",
+  "source_name": "R0059605_559dbac24b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:12:40+09:00",
+  "processed_at": "2026-07-08T14:12:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0059605_559dbac24b_350caf7c89.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0059605_559dbac24b_350caf7c89.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.",
+      "촬영 일시는 2026년 2월 5일 오전 10시 2분경입니다.",
+      "광양항 낙포부두 해충 모니터링 관련 경로의 사진 데이터입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "RICOH WG-6",
+      "해충모니터링",
+      "광양항 낙포부두"
+    ]
+  }
+}

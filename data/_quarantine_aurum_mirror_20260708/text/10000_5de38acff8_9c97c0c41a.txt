@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 생활환경, 환경오염대책, PDF
+● 3줄 요약:
+- 주민의 생활환경 및 재산상의 환경오염 대책에 관한 내용을 다룹니다.
+- 해당 문서는 PDF 형식의 파일로 용량은 145,442 바이트입니다.
+- 서버 오류로 인해 현재 문서의 상세 내용 추출이 불가능한 상태입니다.
+=========================================
+source_name: (본안)10000(주민의+생활환경,+재산상의+환경오염대책).pdf
+source_type: pdf
+size_bytes: 145442
+content_extraction: unsupported_file_type
+ocr_error: HTTP Error 500: Internal Server Error

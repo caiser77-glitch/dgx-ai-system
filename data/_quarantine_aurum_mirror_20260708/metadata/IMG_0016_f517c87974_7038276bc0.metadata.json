@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0016_f517c87974.txt",
+  "source_name": "IMG_0016_f517c87974.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T10:15:45+09:00",
+  "processed_at": "2026-06-25T10:17:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0016_f517c87974_7038276bc0.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0016_f517c87974_7038276bc0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 3월 27일에 촬영된 고흥 산단 이부 동정 사진\nCanon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 (34.45842, 127.488883) 기록\n사진 크기: 5184x3888, RGB 모드, MPO 포맷",
+    "tags": [
+      "#고흥 산단",
+      "#이부 동정",
+      "#GPS 좌표"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일에 촬영된 고흥 산단 이부 동정 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 (34.45842, 127.488883) 기록",
+      "사진 크기: 5184x3888, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "이부 동정",
+      "GPS 좌표"
+    ]
+  }
+}

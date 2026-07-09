@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024_1-2_-_ea9f715b87.txt",
+  "source_name": "2024_1-2_-_ea9f715b87.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:13:29+09:00",
+  "processed_at": "2026-07-08T12:13:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2024_1-2_-_ea9f715b87_3711abd715.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2024_1-2_-_ea9f715b87_3711abd715.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 초곡천의 2024년 1-2회차 어류 건강성 평가 데이터를 포함하고 있습니다.",
+      "하천 생물측정망을 통해 수집된 어류 관련 정보를 기록한 문서입니다.",
+      "해당 데이터는 Excel 파일 형태로 제공되는 연구 자료입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "초곡천",
+      "어류 건강성 평가",
+      "하천 생물측정망"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_e41d23ef1e.txt",
+  "source_name": "file_e41d23ef1e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:47:29+09:00",
+  "processed_at": "2026-07-08T13:47:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_e41d23ef1e_bf6fd27fd2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_e41d23ef1e_bf6fd27fd2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제주시 애월읍 광령리 지역의 자연재해 위험 개선을 위한 정비사업 개요 문서입니다.",
+      "PDF 파일 형식으로 제공되나 현재 콘텐츠 추출이 지원되지 않는 상태입니다.",
+      "OCR 처리 과정에서 URL 내 제어 문자로 인한 오류가 발생하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "자연재해위험개선",
+      "정비사업",
+      "애월읍 광령리"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-04_cd1b10d5c7.txt",
+  "source_name": "01-04_cd1b10d5c7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:42:23+09:00",
+  "processed_at": "2026-07-08T13:42:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-04_cd1b10d5c7_fa8a4b4dfa.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-04_cd1b10d5c7_fa8a4b4dfa.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "도로토적표 엑셀 파일로, 여러 시트를 포함하고 있음.",
+      "각 시트는 특정 구간의 데이터를 담고 있으며, 행과 열의 수가 다양함.",
+      "총괄표 시트는 가장 많은 행(32)을 가지고 있어 전체적인 정보를 제공할 가능성이 높음."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "도로토적표",
+      "엑셀",
+      "시트"
+    ]
+  }
+}

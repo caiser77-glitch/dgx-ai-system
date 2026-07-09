@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_a0aa584743.txt",
+  "source_name": "1_a0aa584743.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:59+09:00",
+  "processed_at": "2026-07-08T12:06:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_a0aa584743_b15f67f173.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_a0aa584743_b15f67f173.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "전주 탄소소재 국가산업단지 산업시설 용지 공급에 관한 공고문입니다.",
+      "해당 문서는 PDF 형식의 파일로 데이터 크기는 316,681 바이트입니다.",
+      "OCR 처리 과정에서 인코딩 오류가 발생하여 상세 내용 추출이 불가능합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "전주탄소소재국가산업단지",
+      "산업시설용지",
+      "공급공고문"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: PDF, OCR 오류, 콘텐츠 추출 불가
+● 3줄 요약:
+- 해당 문서는 PDF 형식의 파일로 크기는 24,038 바이트입니다.
+- OCR 처리 과정에서 'ascii' 코덱 인코딩 오류가 발생하였습니다.
+- 인코딩 문제로 인해 문서 내 콘텐츠 추출이 불가능한 상태입니다.
+=========================================
+source_name: [ME20130168](본안)00표지.pdf
+source_type: pdf
+size_bytes: 24038
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 26-27: ordinal not in range(128)

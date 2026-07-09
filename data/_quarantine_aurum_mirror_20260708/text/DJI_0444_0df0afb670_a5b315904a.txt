@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 드론영상
+● 핵심 키워드: DJI, 드론, GPS
+● 3줄 요약:
+- DJI 드론 카메라로 촬영된 고화질 이미지
+- GPS 좌표 (34.439062, 127.484271)에서 촬영
+- 2025년 2월 7일 16시 49분 47초에 촬영됨
+=========================================
+source_name: DJI_0444.JPG
+source_type: jpg
+size_bytes: 5435270
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.04 드론영상(외부유출 주의)/드론/DJI_0444.JPG
+width: 4032
+height: 3024
+mode: RGB
+format: MPO
+datetime_taken: 2025:02:07 16:49:47
+camera_make: DJI
+camera_model: FC3582
+gps_lat: 34.439062
+gps_lon: 127.484271

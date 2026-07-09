@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 우주센터, 수질, 수리수문
+● 3줄 요약:
+- 우주센터-07210의 수질 및 수리수문에 관한 연구 보고서입니다.
+- 파일 크기는 약 95.6MB이며, 현재 콘텐츠 추출이 지원되지 않는 파일 유형입니다.
+- OCR 처리 과정에서 제어 문자 포함으로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 우주센터-07210(수질 및 수리수문).pdf
+source_type: pdf
+size_bytes: 95569955
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/우주센터-07210(수질 및 수리수문)_pages_1_taxa.xlsx' (found at least ' ')

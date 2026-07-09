@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05612-_528916591b.txt",
+  "source_name": "DSC05612-_528916591b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T11:59:09+09:00",
+  "processed_at": "2026-06-30T12:00:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/DSC05612-_528916591b_99c1dad1cf.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/DSC05612-_528916591b_99c1dad1cf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일 밤나무잎벌레 사진 촬영",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336",
+      "울산 온산국가산업단지 1차 조사 결과"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "밤나무잎벌레",
+      "울산 온산국가산업단지",
+      "1차조사"
+    ]
+  }
+}

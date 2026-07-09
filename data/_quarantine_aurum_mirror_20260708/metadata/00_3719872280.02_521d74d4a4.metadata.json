@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/00_3719872280.02.csv",
+  "source_name": "00_3719872280.02.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:03+09:00",
+  "processed_at": "2026-07-08T11:57:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_3719872280.02_521d74d4a4.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/00_3719872280.02_521d74d4a4.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_3719872280.02_521d74d4a4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 580개의 행을 포함하고 있는 CSV 형식의 데이터 파일입니다.",
+      "데이터 구조상 상단에 다수의 빈 열과 특정 수치(23092)가 포함된 형태를 보입니다.",
+      "구체적인 데이터 내용 파악이 어려운 구조화되지 않은 원시 데이터 파일입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 데이터",
+      "데이터 구조",
+      "원시 데이터"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+source_name: 아산방축 샘플보고서.zip
+source_type: zip
+size_bytes: 395541107
+content_extraction: unsupported_file_type

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05503-_058c8c65be.txt",
+  "source_name": "DSC05503-_058c8c65be.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T13:19:18+09:00",
+  "processed_at": "2026-06-24T13:20:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05503-_058c8c65be_424ef3beb1.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05503-_058c8c65be_424ef3beb1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 무당알노린재 사진\n울산 온산국가산업단지에서 실시한 1차 조사 결과\nSONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336",
+    "tags": [
+      "#무당알노린재",
+      "#울산 온산국가산업단지",
+      "#곤충"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 무당알노린재 사진",
+      "울산 온산국가산업단지에서 실시한 1차 조사 결과",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무당알노린재",
+      "울산 온산국가산업단지",
+      "곤충"
+    ]
+  }
+}

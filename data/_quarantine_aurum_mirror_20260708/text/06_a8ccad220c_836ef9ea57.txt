@@ -1,0 +1,4 @@
+source_name: 06_착수보고회.zip
+source_type: zip
+size_bytes: 1468837611
+content_extraction: unsupported_file_type

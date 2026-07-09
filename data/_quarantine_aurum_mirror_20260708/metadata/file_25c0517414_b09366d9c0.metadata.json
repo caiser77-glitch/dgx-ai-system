@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_25c0517414.txt",
+  "source_name": "file_25c0517414.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:57+09:00",
+  "processed_at": "2026-07-08T13:55:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_25c0517414_b09366d9c0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_25c0517414_b09366d9c0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단 관련 착수보고회 제출용 생태자연도 도면 이미지입니다.",
+      "해당 파일은 생태자연도 정보를 담고 있는 시각적 자료입니다.",
+      "경로상 2025년 3월 13일 환평자료의 일환으로 분류된 문서입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "생태자연도",
+      "고흥 산단",
+      "환경영향평가"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03-_50c8f8fab5.txt",
+  "source_name": "03-_50c8f8fab5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:33:57+09:00",
+  "processed_at": "2026-06-22T22:35:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/03-_50c8f8fab5_4502f72ffc.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/03-_50c8f8fab5_4502f72ffc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "토목 설계도면",
+    "tags": [
+      "#토목",
+      "#설계도면",
+      "#인천용역"
+    ],
+    "summary": "토목 설계도면 압축 파일 (275,619,833 bytes)의 메타데이터 추출",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토목 설계도면 파일이 포함된 ZIP 압축 파일입니다.",
+      "파일 크기는 275,619,833 바이트입니다.",
+      "내용 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "토목",
+      "설계도면",
+      "ZIP"
+    ]
+  }
+}

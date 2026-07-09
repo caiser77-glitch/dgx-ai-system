@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 우주센터-12000, 종합평가, 결론
+● 3줄 요약:
+- 우주센터-12000에 대한 종합평가 및 결론을 다루고 있습니다.
+- 파일 크기는 9,369,441 바이트이며 PDF 형식의 문서입니다.
+- OCR 처리 과정에서 파일명 내 제어 문자 포함으로 인한 오류가 발생했습니다.
+=========================================
+source_name: 우주센터-12000(종합평가 및 결론).pdf
+source_type: pdf
+size_bytes: 9369441
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/우주센터-12000(종합평가 및 결론)_pages_1_taxa.xlsx' (found at least ' ')

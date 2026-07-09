@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061464_71308ae8c3.txt",
+  "source_name": "R0061464_71308ae8c3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:33:03+09:00",
+  "processed_at": "2026-07-08T09:33:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061464_71308ae8c3_51237ffe19.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061464_71308ae8c3_51237ffe19.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 광양항 낙포부두 관련 이미지 데이터입니다.",
+      "2026년 5월 19일 오전 9시 50분에 촬영된 사진 파일 정보입니다.",
+      "GPS 좌표(북위 34.8525, 동경 127.640135)가 포함된 현장 기록물입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "광양항 낙포부두",
+      "해충모니터링",
+      "현장사진"
+    ]
+  }
+}

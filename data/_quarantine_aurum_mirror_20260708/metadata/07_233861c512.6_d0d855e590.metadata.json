@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/07_233861c512.6.csv",
+  "source_name": "07_233861c512.6.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:41:26+09:00",
+  "processed_at": "2026-07-08T11:41:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512.6_d0d855e590.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/07_233861c512.6_d0d855e590.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512.6_d0d855e590.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 '07_233861c512.6.csv'라는 파일명을 가진 CSV 형식의 데이터입니다.",
+      "총 52개의 행(row)으로 구성되어 있으며, 컬럼 구조는 다수의 빈 필드를 포함하고 있습니다.",
+      "데이터의 구체적인 수치나 내용은 확인되지 않으며 구조적 정보만을 담고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 파일",
+      "데이터 구조",
+      "행 개수"
+    ]
+  }
+}

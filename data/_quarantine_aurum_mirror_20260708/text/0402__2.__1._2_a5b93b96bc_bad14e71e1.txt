@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 콘텐츠 추출, OCR 오류
+● 3줄 요약:
+- 문서는 PDF 형태로 제공되나, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.
+- OCR 오류가 발생하여 문서의 내용을 정확히 파악할 수 없습니다.
+- 문서의 크기는 1,437,576 바이트입니다.
+=========================================
+source_name: 기평본안_0402(기후위기+적응_2.영향예측+및+분석_1.취약성~2.모티브).pdf
+source_type: pdf
+size_bytes: 1437576
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-16: ordinal not in range(128)

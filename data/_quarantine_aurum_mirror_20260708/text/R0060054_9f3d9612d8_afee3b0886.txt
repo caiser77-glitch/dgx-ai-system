@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 메타데이터, RICOH WG-6, GPS 위치 정보
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.
+- 촬영 일시는 2025년 11월 13일 오전 9시 42분입니다.
+- 위도 36.360457, 경도 127.739992 지점의 위치 정보를 포함합니다.
+=========================================
+source_name: R0060054.JPG
+source_type: jpg
+size_bytes: 155628
+path: /mnt/dgxbackup/2026 홍익기술/영동-보은/02. 사진/0219-20/이과/우/부시레기/16+190/변환본/R0060054.JPG
+width: 400
+height: 300
+mode: RGB
+format: JPEG
+datetime_taken: 2025:11:13 09:42:50
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 36.360457
+gps_lon: 127.739992

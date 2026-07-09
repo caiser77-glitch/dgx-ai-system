@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_fce8344b66.txt",
+  "source_name": "1_fce8344b66.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:21:42+09:00",
+  "processed_at": "2026-06-29T17:23:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_fce8344b66_b5cf9c9c6d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_fce8344b66_b5cf9c9c6d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지 파일 '탐문1.jpg'는 평택호 관련 조사 자료의 일부입니다.",
+      "파일 크기는 538,846 바이트이며, 해상도는 2480x3507 픽셀입니다.",
+      "이미지는 흑백(L) 모드로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "평택호",
+      "야장",
+      "조사자료"
+    ]
+  }
+}

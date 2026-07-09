@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_1_f9ff22aa31.txt",
+  "source_name": "1_1_f9ff22aa31.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:48:03+09:00",
+  "processed_at": "2026-07-08T13:48:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_1_f9ff22aa31_e3531a3a3a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_1_f9ff22aa31_e3531a3a3a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아산 방축지구 도시개발사업에 대한 전략환경영향평가서 검토의견 문서입니다.",
+      "문서의 실제 내용은 추출되지 않았으며, 파일 형식이 지원되지 않아 분석이 불가능합니다.",
+      "파일 크기는 57,375 바이트입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전략환경영향평가서",
+      "아산 방축지구",
+      "도시개발사업"
+    ]
+  }
+}

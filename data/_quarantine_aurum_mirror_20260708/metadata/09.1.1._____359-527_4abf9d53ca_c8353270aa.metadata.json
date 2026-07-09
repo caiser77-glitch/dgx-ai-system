@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/09.1.1._____359-527_4abf9d53ca.txt",
+  "source_name": "09.1.1._____359-527_4abf9d53ca.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:33+09:00",
+  "processed_at": "2026-07-08T11:40:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/09.1.1._____359-527_4abf9d53ca_c8353270aa.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/09.1.1._____359-527_4abf9d53ca_c8353270aa.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "남양주 지역의 공공하수 민간투자 전략에 대한 입지 타당성 평가를 다룹니다.",
+      "자연환경 보전과 생물다양성 서식지 보전에 초점을 맞추고 있습니다.",
+      "OCR 오류로 인해 일부 내용이 제대로 추출되지 않았습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "남양주",
+      "공공하수",
+      "민간투자"
+    ]
+  }
+}

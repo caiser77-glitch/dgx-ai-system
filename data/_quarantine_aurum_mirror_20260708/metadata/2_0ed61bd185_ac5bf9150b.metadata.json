@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_0ed61bd185.txt",
+  "source_name": "2_0ed61bd185.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:05:28+09:00",
+  "processed_at": "2026-06-23T20:06:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_0ed61bd185_ac5bf9150b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_0ed61bd185_ac5bf9150b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥 산단",
+    "class_name": "착수보고회 현황",
+    "tags": [
+      "#착수보고회",
+      "#고흥산단",
+      "#2025년"
+    ],
+    "summary": "고흥 산단 착수보고회 현황 사진. 2025년 3월 5일에 촬영된 삼성 Galaxy S23로 촬영.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "착수보고회 현황 사진, 2025년 3월 5일 14시 1분 41초에 촬영",
+      "사진 크기: 4000x3000, JPEG 형식, Samsung Galaxy S23로 촬영",
+      "GPS 위치: 위도 35.178226, 경도 128.146901"
+    ],
+    "category": "회의록",
+    "keywords": [
+      "착수보고회",
+      "현황",
+      "사진"
+    ]
+  }
+}

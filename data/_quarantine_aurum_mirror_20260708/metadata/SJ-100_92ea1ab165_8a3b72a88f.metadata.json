@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/SJ-100_92ea1ab165.txt",
+  "source_name": "SJ-100_92ea1ab165.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:35:53+09:00",
+  "processed_at": "2026-07-08T13:36:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/SJ-100_92ea1ab165_8a3b72a88f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/SJ-100_92ea1ab165_8a3b72a88f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "SJ-100 사업 개요 문서에 대한 OCR 처리 과정에서 오류가 발생하였습니다.",
+      "파일명 내 포함된 제어 문자로 인해 URL 접근 및 파일 경로 인식에 문제가 생겼습니다.",
+      "이로 인해 문서의 실제 내용을 추출하지 못하고 프로세스가 중단되었습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "SJ-100 사업",
+      "OCR 오류",
+      "제어 문자"
+    ]
+  }
+}

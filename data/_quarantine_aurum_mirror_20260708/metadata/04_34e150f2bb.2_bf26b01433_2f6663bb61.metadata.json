@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/04_34e150f2bb.2_bf26b01433.txt",
+  "source_name": "04_34e150f2bb.2_bf26b01433.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:34:52+09:00",
+  "processed_at": "2026-07-08T11:35:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_34e150f2bb.2_bf26b01433_2f6663bb61.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_34e150f2bb.2_bf26b01433_2f6663bb61.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '04_34e150f2bb.2'은 총 54개의 행을 포함하고 있습니다.",
+      "컬럼명은 '판 석 포 장 단 위 수 량'이며, 나머지 53개 컬럼은 비명시적 상태입니다.",
+      "데이터의 구체적인 내용과 목적은 명확히 파악되지 않습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV",
+      "54행",
+      "비명시적 컬럼"
+    ]
+  }
+}

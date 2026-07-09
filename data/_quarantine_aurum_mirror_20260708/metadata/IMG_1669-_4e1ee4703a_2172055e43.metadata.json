@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1669-_4e1ee4703a.txt",
+  "source_name": "IMG_1669-_4e1ee4703a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T20:56:06+09:00",
+  "processed_at": "2026-07-06T20:56:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1669-_4e1ee4703a_2172055e43.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1669-_4e1ee4703a_2172055e43.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "청머리오리 사진 파일 정보 제공",
+      "파일 크기: 507,739 바이트, 해상도: 1021x766 픽셀",
+      "JPEG 형식, RGB 모드로 저장"
+    ],
+    "category": "사진",
+    "keywords": [
+      "청머리오리",
+      "사진",
+      "JPEG"
+    ]
+  }
+}

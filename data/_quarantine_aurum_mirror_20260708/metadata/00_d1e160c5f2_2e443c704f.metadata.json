@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00_d1e160c5f2.txt",
+  "source_name": "00_d1e160c5f2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:44:41+09:00",
+  "processed_at": "2026-07-08T11:44:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_d1e160c5f2_2e443c704f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_d1e160c5f2_2e443c704f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "00 총자재집계.xlsx 파일은 여러 시트로 구성된 엑셀 문서입니다.",
+      "주요 시트는 '간', '자재', '0.수량집계표', '1 골재집계표', '2 레미콘', '3 철근', '4 배수관'입니다.",
+      "각 시트는 다양한 자재에 대한 정보를 담고 있으며, 행과 열의 수가 각기 다릅니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "엑셀",
+      "자재",
+      "집계표"
+    ]
+  }
+}

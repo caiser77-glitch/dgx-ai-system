@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0031_0a54fdb1cd.txt",
+  "source_name": "IMG_0031_0a54fdb1cd.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T15:50:04+09:00",
+  "processed_at": "2026-06-25T15:52:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0031_0a54fdb1cd_4af7c1631d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0031_0a54fdb1cd_4af7c1631d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 3월 27일에 촬영된 고흥 산단의 사진\nCanon PowerShot SX70 HS 카메라로 촬영, GPS 좌표는 34.457203, 127.496238\n사진 크기는 5184x3888 픽셀, RGB 모드, MPO 포맷",
+    "tags": [
+      "#고흥 산단",
+      "#사진",
+      "#GPS 좌표"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일에 촬영된 고흥 산단의 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표는 34.457203, 127.496238",
+      "사진 크기는 5184x3888 픽셀, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "사진",
+      "GPS 좌표"
+    ]
+  }
+}

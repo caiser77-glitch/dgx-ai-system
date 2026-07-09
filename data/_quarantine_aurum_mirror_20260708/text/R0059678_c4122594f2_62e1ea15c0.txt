@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 파일 정보, 파일 규격, OCR 오류
+● 3줄 요약:
+- 제공된 문서 데이터는 이미지 파일 정보(R0059678.JPG)를 포함하고 있습니다.
+- 파일의 규격은 5184x3888 해상도이며 RGB 모드의 MPO 형식입니다.
+- OCR 처리 과정에서 서버 내부 오류(HTTP Error 500)가 발생하여 내용을 읽을 수 없습니다.
+=========================================
+source_name: R0059678.JPG
+source_type: jpg
+size_bytes: 4210140
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

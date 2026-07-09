@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 증평, 곤충, PDF
+● 3줄 요약:
+- 2019년 증평 지역의 곤충 관련 조사 내용을 담은 PDF 문서입니다.
+- 문서 파일 크기는 약 1.4MB이며, 데이터 추출 과정에서 오류가 발생했습니다.
+- OCR 처리 중 URL 내 제어 문자 포함으로 인한 시스템 오류가 확인되었습니다.
+=========================================
+source_name: 2019 증평-곤충.pdf
+source_type: pdf
+size_bytes: 1423313
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2019 증평-곤충_pages_1_taxa.xlsx' (found at least ' ')

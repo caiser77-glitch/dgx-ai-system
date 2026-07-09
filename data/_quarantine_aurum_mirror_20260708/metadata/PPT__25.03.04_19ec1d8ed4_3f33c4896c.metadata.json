@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/PPT__25.03.04_19ec1d8ed4.txt",
+  "source_name": "PPT__25.03.04_19ec1d8ed4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:48:27+09:00",
+  "processed_at": "2026-07-08T13:48:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/PPT__25.03.04_19ec1d8ed4_3f33c4896c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/PPT__25.03.04_19ec1d8ed4_3f33c4896c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "전남 고흥 국가산단 환경영향평가에 대한 착수 보고서입니다.",
+      "2025년 3월 4일에 작성된 최종 버전 문서입니다.",
+      "해당 프로젝트의 추진 방향 및 계획을 포함하고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "착수보고서",
+      "전남고흥",
+      "국가산단"
+    ]
+  }
+}

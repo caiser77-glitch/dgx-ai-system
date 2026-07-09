@@ -1,0 +1,30 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_INBOX/test_connection_20260626.summary.md",
+  "source_name": "test_connection_20260626.summary.md",
+  "source_type": "md",
+  "device_name": "atom-baseline-queue",
+  "detected_at": "2026-07-07T15:39:39+09:00",
+  "processed_at": "2026-07-07T15:39:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/test_connection_20260626.summary_5a5f91eb0a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/test_connection_20260626.summary_5a5f91eb0a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_INBOX",
+    "project_name": "test_connection_20260626.summary.md",
+    "taxon_group": "미확정",
+    "document_type": "MD",
+    "class_name": "MD",
+    "tags": [
+      "#_AURUM_AI_INBOX",
+      "#test_connection_20260626.summary.md",
+      "#MD"
+    ],
+    "summary": "test_connection_20260626.summary.md 관련 MD 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  }
+}

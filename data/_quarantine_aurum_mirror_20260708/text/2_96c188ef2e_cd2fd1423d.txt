@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 포유류, 경북 경산, Panasonic DC-TZ99
+● 3줄 요약:
+- 2025년 11월 17일 경북 경산에서 촬영된 포유류 관찰 전경 사진
+- Panasonic DC-TZ99 카메라로 촬영, 해상도 1024x768, RGB 모드
+- 사진 크기 399,505 바이트, JPEG 형식
+=========================================
+source_name: 전경2.jpg
+source_type: jpg
+size_bytes: 399505
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/남이/25년 11월 17일 경북 경산_포유류/25년 11월 17일 경북 경산_포유류/전경2.jpg
+width: 1024
+height: 768
+mode: RGB
+format: JPEG
+datetime_taken: 2025:11:17 10:24:34
+camera_make: Panasonic
+camera_model: DC-TZ99

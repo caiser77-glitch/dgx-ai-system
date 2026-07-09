@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5927533_06ce53d1aa.txt",
+  "source_name": "5927533_06ce53d1aa.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:00:00+09:00",
+  "processed_at": "2026-07-08T12:00:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5927533_06ce53d1aa_62d9568c62.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5927533_06ce53d1aa_62d9568c62.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 3~10월 음성 일대에서 포유류 현황 및 서식 유형 파악을 위한 조사를 실시함.",
+      "조사 결과 총 10종의 포유류가 확인되었으며, 수달(Ⅰ급)과 삵(Ⅱ급)이 포함됨.",
+      "9개 격자 중 5개 격자를 대상으로 제6차 전국자연환경조사 지침을 준용하여 조사함."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포유류",
+      "멸종위기 야생생물",
+      "음성"
+    ]
+  }
+}

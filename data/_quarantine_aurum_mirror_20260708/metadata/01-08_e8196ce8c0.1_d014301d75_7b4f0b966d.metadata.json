@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-08_e8196ce8c0.1_d014301d75.txt",
+  "source_name": "01-08_e8196ce8c0.1_d014301d75.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:36:35+09:00",
+  "processed_at": "2026-07-08T11:36:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0.1_d014301d75_7b4f0b966d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0.1_d014301d75_7b4f0b966d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 형식으로 제공된 96개의 행을 포함하는 데이터셋입니다.",
+      "데이터 내에 '산출근거'와 '비고' 항목이 포함되어 있습니다.",
+      "그 외의 열들은 정보가 비어있거나 명확한 내용을 제공하지 않습니다."
+    ],
+    "category": "데이터셋",
+    "keywords": [
+      "CSV",
+      "산출근거",
+      "비고"
+    ]
+  }
+}

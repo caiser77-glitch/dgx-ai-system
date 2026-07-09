@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2018-40__optimize_b946a2dc1e.txt",
+  "source_name": "2018-40__optimize_b946a2dc1e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:15:05+09:00",
+  "processed_at": "2026-07-08T12:15:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2018-40__optimize_b946a2dc1e_ebb90d9eee.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2018-40__optimize_b946a2dc1e_ebb90d9eee.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "다도해해상국립공원의 육상 자연자원 조사 보고서에 대한 PDF 파일입니다.",
+      "파일 크기는 약 54.5MB이며, 현재 콘텐츠 추출이 지원되지 않는 상태입니다.",
+      "OCR 처리 과정에서 제어 문자 포함으로 인한 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "다도해해상국립공원",
+      "자연자원조사",
+      "육상분야"
+    ]
+  }
+}

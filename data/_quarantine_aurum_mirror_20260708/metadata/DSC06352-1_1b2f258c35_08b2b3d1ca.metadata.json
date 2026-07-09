@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC06352-1_1b2f258c35.txt",
+  "source_name": "DSC06352-1_1b2f258c35.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T23:19:55+09:00",
+  "processed_at": "2026-06-24T23:21:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC06352-1_1b2f258c35_08b2b3d1ca.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC06352-1_1b2f258c35_08b2b3d1ca.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "참개구리 사진, 2025년 9월 2일 촬영\nSONY ILCE-7RM4 카메라 사용\n해상도 1600x1066, RGB 모드, JPEG 형식",
+    "tags": [
+      "#참개구리",
+      "#사진",
+      "#SONY ILCE-7RM4"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "참개구리 사진, 2025년 9월 2일 촬영",
+      "SONY ILCE-7RM4 카메라 사용",
+      "해상도 1600x1066, RGB 모드, JPEG 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "참개구리",
+      "사진",
+      "SONY ILCE-7RM4"
+    ]
+  }
+}

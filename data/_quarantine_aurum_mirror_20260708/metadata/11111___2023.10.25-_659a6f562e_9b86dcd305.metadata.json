@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11111___2023.10.25-_659a6f562e.txt",
+  "source_name": "11111___2023.10.25-_659a6f562e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:46:14+09:00",
+  "processed_at": "2026-07-08T13:46:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11111___2023.10.25-_659a6f562e_9b86dcd305.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11111___2023.10.25-_659a6f562e_9b86dcd305.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천 자연환경자산에 대한 보호수 삭제 관련 문서",
+      "2023년 10월 25일 작성",
+      "HWP 파일 형식으로 제공됨"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "자연환경자산",
+      "보호수"
+    ]
+  }
+}

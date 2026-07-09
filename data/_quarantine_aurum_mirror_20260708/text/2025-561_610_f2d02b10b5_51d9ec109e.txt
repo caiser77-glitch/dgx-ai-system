@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 소나무재선충병, 방제조치, 한동대학교
+● 3줄 요약:
+- 소나무재선충병 방제를 위한 제2025-561~610호 명령서 관련 문서입니다.
+- 한동대학교와 관련된 방제 조치 사항을 포함하고 있습니다.
+- 파일 형식 및 URL 제어 문자로 인해 콘텐츠 추출이 지원되지 않습니다.
+=========================================
+source_name: 소나무재선충병 방제조치명령(제2025-561~610호， 한동대).pdf
+source_type: pdf
+size_bytes: 147065
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/소나무재선충병 방제조치명령(제2025-561~610호， 한동대)_pages_1_taxa.xlsx' (found at least ' ')

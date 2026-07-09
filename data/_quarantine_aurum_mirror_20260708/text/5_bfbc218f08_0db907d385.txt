@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 5일 종료.jpg
+source_type: jpg
+size_bytes: 257367
+path: /mnt/dgxbackup/2026 홍익기술/진천초평산업단지/05. 야장 및 영수증/영수증/2024.04.04~05/5일 종료.jpg
+width: 640
+height: 1692
+mode: RGB
+format: JPEG
+datetime_taken: 2024:04:05 16:06:41
+camera_make: samsung
+camera_model: Galaxy A34 5G

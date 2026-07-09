@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/250626_2401c055c6.txt",
+  "source_name": "250626_2401c055c6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:30+09:00",
+  "processed_at": "2026-07-08T12:05:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/250626_2401c055c6_7bb475e95c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/250626_2401c055c6_7bb475e95c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥우주발사체국가산업단지 사전경관계획보고서 PDF 파일에 대한 정보 제공",
+      "파일 크기는 약 10MB(10,011,930 바이트)임",
+      "OCR 처리 과정에서 인코딩 오류가 발생하여 내용 추출이 지원되지 않음"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥우주발사체국가산업단지",
+      "사전경관계획보고서",
+      "OCR 오류"
+    ]
+  }
+}

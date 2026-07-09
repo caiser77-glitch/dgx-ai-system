@@ -1,0 +1,41 @@
+---
+생성일: 2026-06-22
+장비명: overnight_batch
+원본이름: 01_b10aadfcad.txt
+원본유형: txt
+년도_업체: 2026 LH
+사업명: 고흥 산단
+분류군: 토공계획
+AI_요약: 고흥 산단의 단지 정보 및 토공 계획 관련 설계 분야 대안 검토 자료.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #토공계획 #단지정보 #설계분야
+---
+# 📄 01_b10aadfcad.txt 요약본
+
+* **처리 시각**: 2026-06-22T22:19:33+09:00
+* **년도_업체**: 2026 LH
+* **사업명**: 고흥 산단
+* **분류군**: 토공계획
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_b10aadfcad.txt
+
+---
+### 🤖 AI 분석 요약
+> 고흥 산단의 단지 정보 및 토공 계획 관련 설계 분야 대안 검토 자료.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: 01.단지정보 및 토공계획.jpg
+source_type: jpg
+size_bytes: 1363715
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.13 환평자료/03_설계사/25.02.26 조사설계용역 착수보고 삽도/설계분야 대안 검토/01.단지정보 및 토공계획.jpg
+width: 1045
+height: 951
+mode: CMYK
+format: JPEG
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [01_b10aadfcad.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_b10aadfcad.txt)

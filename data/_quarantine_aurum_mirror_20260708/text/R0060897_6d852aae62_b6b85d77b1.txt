@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: RICOH WG-6, 이미지 메타데이터, GPS 좌표
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.
+- 촬영 일시는 2026년 5월 4일 오후 12시 33분입니다.
+- 인천 청라 6블록 인근의 GPS 좌표 정보를 포함하고 있습니다.
+=========================================
+source_name: R0060897.JPG
+source_type: jpg
+size_bytes: 4345021
+path: /mnt/dgxbackup/2026 LH/청라 6블록/02. 사진/R0060897.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:04 12:33:38
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 37.517023
+gps_lon: 126.618405

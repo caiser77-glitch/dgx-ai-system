@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11111_____2023.10.25-_56b3e6a2c3.txt",
+  "source_name": "11111_____2023.10.25-_56b3e6a2c3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:46:16+09:00",
+  "processed_at": "2026-07-08T13:46:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11111_____2023.10.25-_56b3e6a2c3_c547e0a9b7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11111_____2023.10.25-_56b3e6a2c3_c547e0a9b7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천 육상동식물상에 대한 조사 보고서",
+      "2023년 10월 25일 작성, (주)아우룸생태연구소",
+      "새호리 기록 제외"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "음성천",
+      "육상동식물상",
+      "아우룸생태연구소"
+    ]
+  }
+}

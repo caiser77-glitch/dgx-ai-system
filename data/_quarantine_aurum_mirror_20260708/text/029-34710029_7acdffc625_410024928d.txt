@@ -1,0 +1,4 @@
+source_name: 손죽029-34710029.zip
+source_type: zip
+size_bytes: 26781
+content_extraction: unsupported_file_type

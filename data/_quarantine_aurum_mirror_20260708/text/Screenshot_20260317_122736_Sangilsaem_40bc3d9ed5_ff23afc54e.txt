@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 메타데이터, 이미지 파일, Sangilsaem
+● 3줄 요약:
+- 제공된 데이터는 이미지 파일의 메타데이터 정보입니다.
+- 파일명은 Sangilsaem이며 촬영 일시는 2026년 3월 17일입니다.
+- 파일 경로는 부산2-4 트랙 상반기 폴더 내에 저장되어 있습니다.
+=========================================
+source_name: Screenshot_20260317_122736_Sangilsaem.jpg
+source_type: jpg
+size_bytes: 1853621
+path: /mnt/dgxbackup/2026 혜인/부산2-4/07. 트랙/상반기/Screenshot_20260317_122736_Sangilsaem.jpg
+width: 1440
+height: 3120
+mode: RGB
+format: JPEG
+datetime_taken: 2026:03:17 12:27:36

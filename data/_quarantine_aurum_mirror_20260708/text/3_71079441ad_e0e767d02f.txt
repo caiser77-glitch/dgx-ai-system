@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 멧돼지, 경북 경산, Panasonic DC-TZ99
+● 3줄 요약:
+- 2025년 11월 17일 경북 경산에서 촬영된 멧돼지 사진
+- Panasonic DC-TZ99 카메라로 촬영, GPS 좌표 (35.765769, 128.819881) 기록
+- JPEG 형식, 1024x768 해상도, 357,928 바이트 크기
+=========================================
+source_name: 멧돼지3.jpg
+source_type: jpg
+size_bytes: 357928
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/남이/25년 11월 17일 경북 경산_포유류/25년 11월 17일 경북 경산_포유류/멧돼지3.jpg
+width: 1024
+height: 768
+mode: RGB
+format: JPEG
+datetime_taken: 2025:11:17 11:59:21
+camera_make: Panasonic
+camera_model: DC-TZ99
+gps_lat: 35.765769
+gps_lon: 128.819881

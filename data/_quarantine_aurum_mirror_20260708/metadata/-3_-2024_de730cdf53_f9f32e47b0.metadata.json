@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-3_-2024_de730cdf53.txt",
+  "source_name": "-3_-2024_de730cdf53.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:45+09:00",
+  "processed_at": "2026-07-08T11:55:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-3_-2024_de730cdf53_f9f32e47b0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-3_-2024_de730cdf53_f9f32e47b0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "성남낙생과 성남금토 지역의 3차년 조사 결과를 담고 있습니다.",
+      "2024년 공동 조사의 측정표로, 파일 크기는 226,820 바이트입니다.",
+      "OCR 처리 중 인코딩 오류가 발생하여 내용 추출이 불가능합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "측정표",
+      "성남낙생",
+      "성남금토"
+    ]
+  }
+}

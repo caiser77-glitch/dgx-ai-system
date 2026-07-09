@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.05.07-08_d7675d52e9.txt",
+  "source_name": "2025.05.07-08_d7675d52e9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T01:47:19+09:00",
+  "processed_at": "2026-06-23T01:48:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.05.07-08_d7675d52e9_1f20e0fb89.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.05.07-08_d7675d52e9_1f20e0fb89.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 5월 7일부터 8일까지 촬영된 조류 사진\nJPEG 형식, RGB 모드, 해상도 1440x2035 픽셀\n파일 크기 507,922 바이트",
+    "tags": [
+      "#조류",
+      "#야장",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 5월 7일부터 8일까지 촬영된 조류 사진",
+      "JPEG 형식, RGB 모드, 해상도 1440x2035 픽셀",
+      "파일 크기 507,922 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "조류",
+      "야장",
+      "사진"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/08_1e882f2eb0.3.csv",
+  "source_name": "08_1e882f2eb0.3.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:41:52+09:00",
+  "processed_at": "2026-07-08T11:42:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0.3_d8820baa76.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/08_1e882f2eb0.3_d8820baa76.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0.3_d8820baa76.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 건설 현장의 가설 사무소 및 건물 관련 데이터를 포함한 CSV 파일입니다.",
+      "공종별 가설사무소의 면적과 레미콘 관련 정보를 기록하고 있습니다.",
+      "총 5개의 행으로 구성된 데이터셋이며 공종, 면적, 비고 등의 열을 포함합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "가설사무소",
+      "건물 면적",
+      "공종"
+    ]
+  }
+}

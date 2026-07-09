@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 포유류, PDF
+● 3줄 요약:
+- 제5차 전국자연환경조사 2022년도 포유류 관련 보고서입니다.
+- 해당 파일은 PDF 형식으로 약 1.9MB의 용량을 가집니다.
+- OCR 처리 오류로 인해 현재 문서 내용 추출이 지원되지 않습니다.
+=========================================
+source_name: 제5차 전국자연환경조사 2022 환호-포유류.pdf
+source_type: pdf
+size_bytes: 1925119
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제5차 전국자연환경조사 2022 환호-포유류_pages_1_taxa.xlsx' (found at least ' ')

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_96c188ef2e.txt",
+  "source_name": "2_96c188ef2e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:28:53+09:00",
+  "processed_at": "2026-06-23T20:30:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_96c188ef2e_cd2fd1423d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_96c188ef2e_cd2fd1423d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "포유류",
+    "tags": [
+      "#포유류",
+      "#경북경산",
+      "#20251117"
+    ],
+    "summary": "2025년 11월 17일 경북 경산에서 촬영된 포유류 사진. 카메라는 Panasonic DC-TZ99로 촬영.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일 경북 경산에서 촬영된 포유류 관찰 전경 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, 해상도 1024x768, RGB 모드",
+      "사진 크기 399,505 바이트, JPEG 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포유류",
+      "경북 경산",
+      "Panasonic DC-TZ99"
+    ]
+  }
+}

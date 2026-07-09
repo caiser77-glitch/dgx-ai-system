@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0017_999f3dbf1b.txt",
+  "source_name": "IMG_0017_999f3dbf1b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T10:29:07+09:00",
+  "processed_at": "2026-06-25T10:31:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0017_999f3dbf1b_0f97d5d7a2.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0017_999f3dbf1b_0f97d5d7a2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 6월 22일 04시 42분에 촬영된 고흥 산단 무인카메라 사진\nBROWNING BTC-8E 카메라로 촬영, 해상도 6016x3384, RGB 모드\n파일 크기 5,337,095 바이트, MPO 포맷",
+    "tags": [
+      "#고흥 산단",
+      "#무인카메라",
+      "#BROWNING BTC-8E"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 6월 22일 04시 42분에 촬영된 고흥 산단 무인카메라 사진",
+      "BROWNING BTC-8E 카메라로 촬영, 해상도 6016x3384, RGB 모드",
+      "파일 크기 5,337,095 바이트, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "무인카메라",
+      "BROWNING BTC-8E"
+    ]
+  }
+}

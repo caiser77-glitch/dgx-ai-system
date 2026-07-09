@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 메타데이터, RICOH WG-6, 고흥 산단
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 2025년 7월 17일 고흥 산단 인근에서 촬영된 것으로 확인됩니다.
+- GPS 좌표(34.447512, 127.490715)를 포함한 상세 파일 정보를 담고 있습니다.
+=========================================
+source_name: R0052779.JPG
+source_type: jpg
+size_bytes: 3973379
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.07.17~18 고흥산단/이대/R0052779.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:07:17 21:46:33
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 34.447512
+gps_lon: 127.490715

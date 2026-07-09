@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 표지목차, OCR 오류
+● 3줄 요약:
+- 문서는 PDF 형태로, 표지와 목차를 포함하고 있습니다.
+- 파일 크기는 110,899 바이트입니다.
+- OCR 처리 과정에서 인코딩 오류가 발생하여 내용 추출이 지원되지 않습니다.
+=========================================
+source_name: (소규모)NGGS_0000-표지목차.pdf
+source_type: pdf
+size_bytes: 110899
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-16: ordinal not in range(128)

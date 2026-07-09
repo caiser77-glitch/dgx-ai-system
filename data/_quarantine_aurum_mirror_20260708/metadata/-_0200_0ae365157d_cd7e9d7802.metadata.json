@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_0200_0ae365157d.txt",
+  "source_name": "-_0200_0ae365157d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:13:39+09:00",
+  "processed_at": "2026-07-08T13:13:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_0200_0ae365157d_cd7e9d7802.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_0200_0ae365157d_cd7e9d7802.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 PDF 형태로 제공되었으나, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "OCR 처리 과정에서 'ascii' 코덱 인코딩 오류가 발생하였습니다.",
+      "파일의 총 크기는 45,783,764 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "콘텐츠 추출",
+      "OCR 오류"
+    ]
+  }
+}

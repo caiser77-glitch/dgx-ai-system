@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 서산조류, PDF, OCR 오류
+● 3줄 요약:
+- 서산조류 5 9.pdf 파일에 대한 정보 제공
+- 파일 크기는 882,113 바이트
+- 내용 추출 및 OCR 처리에 실패
+=========================================
+source_name: 서산조류 5 9.pdf
+source_type: pdf
+size_bytes: 882113
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/서산조류 5 9_pages_1_taxa.xlsx' (found at least ' ')

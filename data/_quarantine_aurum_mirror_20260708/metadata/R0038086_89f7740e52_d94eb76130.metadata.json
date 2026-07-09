@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0038086_89f7740e52.txt",
+  "source_name": "R0038086_89f7740e52.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:53:15+09:00",
+  "processed_at": "2026-07-08T14:53:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0038086_89f7740e52_d94eb76130.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0038086_89f7740e52_d94eb76130.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 9일 오전 10시 43분경 포항 혁신도시 유대 육수에서 촬영된 사진 데이터입니다.",
+      "RICOH WG-6 카메라로 촬영되었으며, GPS 좌표(북위 36.101237, 동경 129.38547)를 포함하고 있습니다.",
+      "해당 파일은 R0038086.JPG 명칭의 RGB 모드 이미지 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "유대 육수",
+      "RICOH WG-6"
+    ]
+  }
+}

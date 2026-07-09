@@ -1,0 +1,49 @@
+---
+생성일: 2026-07-08
+장비명: aurum_macbook
+원본이름: 1_3e0be6ada9.txt
+원본유형: txt
+년도_업체: unknown
+사업명: unknown
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: Hermes binary not found locally.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #Users #nams #TXT
+---
+# 📄 1_3e0be6ada9.txt 요약본
+
+* **처리 시각**: 2026-07-08T13:48:05+09:00
+* **년도_업체**: unknown
+* **사업명**: unknown
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /Users/nams/AI_BASE/data/raw_cache/1_3e0be6ada9.txt
+
+---
+### 🤖 AI 분석 요약
+> Hermes binary not found locally.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 지원되지 않는 파일, pptx, 파일 크기
+● 3줄 요약:
+- 파일 형식이 지원되지 않아 내용 추출 불가
+- 파일 크기: 818,064 바이트
+- 파일 이름: 그림1.pptx
+=========================================
+source_name: 그림1.pptx
+source_type: pptx
+size_bytes: 818064
+content_extraction: unsupported_file_type
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [1_3e0be6ada9.txt 열기](file:///Users/nams/AI_BASE/data/raw_cache/1_3e0be6ada9.txt)

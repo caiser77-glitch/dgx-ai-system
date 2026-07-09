@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02000_d084bbaa81.txt",
+  "source_name": "02000_d084bbaa81.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:01+09:00",
+  "processed_at": "2026-07-08T13:45:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02000_d084bbaa81_3af7788a4f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02000_d084bbaa81_3af7788a4f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "'02000 사업의 개요(진천초평)'에 대한 초안 문서입니다.",
+      "hwp 파일 형식으로 인해 실제 내용 추출이 제한적입니다.",
+      "파일 크기는 약 84.8MB이며 한글 프로그램용 문서입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "초안",
+      "사업개요",
+      "hwp"
+    ]
+  }
+}

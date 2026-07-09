@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-09_0aa3d494b9.sheet.csv",
+  "source_name": "01-09_0aa3d494b9.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:22+09:00",
+  "processed_at": "2026-07-08T11:43:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-09_0aa3d494b9.sheet_7ffde59050.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-09_0aa3d494b9.sheet_7ffde59050.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-09_0aa3d494b9.sheet_7ffde59050.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "비옥토 수량 산출을 위한 기초 데이터가 포함된 CSV 파일입니다.",
+      "총 25개의 행으로 구성되어 있으며 비옥토 관련 수치 정보를 담고 있습니다.",
+      "수량 산출 근거를 바탕으로 한 정량적 데이터 분석용 문서입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "비옥토",
+      "수량 산출",
+      "데이터 시트"
+    ]
+  }
+}

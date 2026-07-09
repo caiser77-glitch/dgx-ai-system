@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 야생생물, 포획채취, 허가
+● 3줄 요약:
+- 야생생물 포획채취 허가 알림에 관한 문서입니다.
+- 파일 크기는 138,041 바이트이며 PDF 형식입니다.
+- 콘텐츠 추출이 지원되지 않으며 OCR 오류가 발생하였습니다.
+=========================================
+source_name: 야생생물 포획채취 등 허가 알림.pdf
+source_type: pdf
+size_bytes: 138041
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/야생생물 포획채취 등 허가 알림_pages_1_taxa.xlsx' (found at least ' ')

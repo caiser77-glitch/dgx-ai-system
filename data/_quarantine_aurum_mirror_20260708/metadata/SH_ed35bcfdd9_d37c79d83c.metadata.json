@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/SH_ed35bcfdd9.txt",
+  "source_name": "SH_ed35bcfdd9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:54:25+09:00",
+  "processed_at": "2026-07-08T11:54:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/SH_ed35bcfdd9_d37c79d83c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/SH_ed35bcfdd9_d37c79d83c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "죽동천 용지면적 정보를 담고 있는 엑셀 형식의 문서입니다.",
+      "파일의 크기는 총 732,160 바이트입니다.",
+      "현재 해당 파일은 내용 추출이 지원되지 않는 상태입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "죽동천",
+      "용지면적",
+      "엑셀"
+    ]
+  }
+}

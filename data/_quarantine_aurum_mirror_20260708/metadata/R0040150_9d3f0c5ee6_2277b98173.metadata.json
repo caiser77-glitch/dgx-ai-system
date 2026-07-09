@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0040150_9d3f0c5ee6.txt",
+  "source_name": "R0040150_9d3f0c5ee6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:25:54+09:00",
+  "processed_at": "2026-07-08T14:26:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0040150_9d3f0c5ee6_2277b98173.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0040150_9d3f0c5ee6_2277b98173.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 파일은 고라니의 배설물을 촬영한 이미지 데이터입니다.",
+      "파일 형식은 MPO이며 RGB 모드로 구성되어 있습니다.",
+      "OCR 처리 과정에서 서버 내부 오류가 발생하여 텍스트 추출이 불가능합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고라니",
+      "배설물",
+      "이미지 데이터"
+    ]
+  }
+}

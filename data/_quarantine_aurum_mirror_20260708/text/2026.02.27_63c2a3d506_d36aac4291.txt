@@ -1,0 +1,15 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 2026.02.27 계양 오금리 종료.jpg
+source_type: jpg
+size_bytes: 244794
+path: /mnt/dgxbackup/2026 이산/계양 테크노밸리 사후/05. 야장 및 영수증/영수증/1분기/2026.02.27 계양 오금리 종료.jpg
+width: 834
+height: 1279
+mode: RGB
+format: JPEG
+camera_model: CamScanner

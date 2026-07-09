@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_85ec3ba04d.txt",
+  "source_name": "file_85ec3ba04d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:50:01+09:00",
+  "processed_at": "2026-07-08T13:50:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_85ec3ba04d_5bd9ba0073.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_85ec3ba04d_5bd9ba0073.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지 파일명은 '달팽이 회전착시 이미지'로 확인됩니다.",
+      "파일 경로는 호미반도 산림복지단지 조경설계 관련 경로에 저장되어 있습니다.",
+      "해당 파일은 2000x1500 해상도의 RGB 모드 JPEG 이미지입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "달팽이 회전착시",
+      "조경설계",
+      "이미지 파일"
+    ]
+  }
+}

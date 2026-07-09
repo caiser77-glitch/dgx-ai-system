@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 붕어, 과천 주암, 유과
+● 3줄 요약:
+- 과천 주암 지역에서 촬영된 붕어 개체 사진 데이터입니다.
+- 2026년 3월 4일 오후 1시경 RICOH WG-6 카메라로 촬영되었습니다.
+- 유과 관련 현장 조사 과정에서 확보된 이미지 파일입니다.
+=========================================
+source_name: R0039688 붕어.JPG
+source_type: jpg
+size_bytes: 2108915
+path: /mnt/dgxbackup/2026 이산/과천주암/02. 사진/2026.03.04/유과/R0039688 붕어.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:04 13:05:28
+camera_make: RICOH
+camera_model: RICOH WG-6

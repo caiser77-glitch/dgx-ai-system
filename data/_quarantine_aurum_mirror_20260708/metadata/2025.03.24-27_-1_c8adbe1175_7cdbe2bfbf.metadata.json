@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.03.24-27_-1_c8adbe1175.txt",
+  "source_name": "2025.03.24-27_-1_c8adbe1175.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:47:42+09:00",
+  "processed_at": "2026-06-29T17:49:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2025.03.24-27_-1_c8adbe1175_7cdbe2bfbf.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2025.03.24-27_-1_c8adbe1175_7cdbe2bfbf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 24일부터 27일까지 고흥 산단에서 촬영된 식물상 이미지",
+      "이미지는 흑백 모드로 저장되어 있으며, 해상도는 2480x3507 픽셀",
+      "파일 크기는 726,118 바이트이며, JPEG 형식으로 저장"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥산단",
+      "식물상",
+      "이부-1"
+    ]
+  }
+}

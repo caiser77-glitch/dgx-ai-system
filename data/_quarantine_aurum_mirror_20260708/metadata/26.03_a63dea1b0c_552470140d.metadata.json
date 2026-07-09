@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/26.03_a63dea1b0c.txt",
+  "source_name": "26.03_a63dea1b0c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:01:10+09:00",
+  "processed_at": "2026-06-23T20:02:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/26.03_a63dea1b0c_552470140d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/26.03_a63dea1b0c_552470140d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 천안산단",
+    "project_name": "세륜세차시설 철거",
+    "class_name": "건축/철거",
+    "tags": [
+      "#건축",
+      "#철거",
+      "#천안산단"
+    ],
+    "summary": "세륜세차시설 철거 관련 사진. 크기: 1613x907, 형식: PNG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "세륜세차시설 철거 작업 사진",
+      "2026년 3월 26일 천안산단에서 촬영",
+      "PNG 형식, 1613x907 해상도"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "세륜세차",
+      "철거",
+      "천안산단"
+    ]
+  }
+}

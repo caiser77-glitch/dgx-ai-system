@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/05_05130e0fef.sheet_5f4208f7b7.txt",
+  "source_name": "05_05130e0fef.sheet_5f4208f7b7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:34:06+09:00",
+  "processed_at": "2026-07-08T11:34:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05_05130e0fef.sheet_5f4208f7b7_0aeef4006f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05_05130e0fef.sheet_5f4208f7b7_0aeef4006f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '05_05130e0fef.sheet.csv'에 대한 데이터가 포함되어 있습니다.",
+      "총 56개의 행이 있으며, 열은 'L형옹벽 단위수량'으로 구성됩니다.",
+      "추가적인 열 정보는 비어 있습니다."
+    ],
+    "category": "데이터셋",
+    "keywords": [
+      "CSV",
+      "L형옹벽",
+      "단위수량"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5928247_7182a052a6.txt",
+  "source_name": "5928247_7182a052a6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:54:16+09:00",
+  "processed_at": "2026-07-08T11:54:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5928247_7182a052a6_1508888d6f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5928247_7182a052a6_1508888d6f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 2~9월 진영 일대에서 총 105종의 조류가 확인되었다.",
+      "멸종위기 야생생물 Ⅰ급 1종(흰꼬리수리)과 Ⅱ급 9종이 포함되었다.",
+      "서식지 유형별로 인공지역 30종, 내륙습지 6종, 하천 40종, 호소 66종 등이 확인되었다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "조류조사",
+      "멸종위기 야생생물",
+      "서식지 유형"
+    ]
+  }
+}

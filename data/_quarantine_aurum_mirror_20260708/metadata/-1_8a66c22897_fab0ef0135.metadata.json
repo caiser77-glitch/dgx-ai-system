@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/-1_8a66c22897.txt",
+  "source_name": "-1_8a66c22897.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T16:39:04+09:00",
+  "processed_at": "2026-06-29T16:40:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/-1_8a66c22897_fab0ef0135.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/-1_8a66c22897_fab0ef0135.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획 조치계획 대안 설명 이미지 파일",
+      "고흥 산단의 토지이용계획 변경 본안용 자료",
+      "RGB 모드의 JPEG 형식, 해상도 4962x7016"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용계획",
+      "조치계획",
+      "고흥 산단"
+    ]
+  }
+}

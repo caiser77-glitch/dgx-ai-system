@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: RICOH WG-6, GPS 좌표, 현장 사진
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 데이터입니다.
+- 촬영 일시는 2025년 11월 13일 12시 18분이며 GPS 좌표를 포함합니다.
+- 영동-보은 지역의 특정 경로 내에 위치한 사진 자료입니다.
+=========================================
+source_name: R0060176.JPG
+source_type: jpg
+size_bytes: 4240750
+path: /mnt/dgxbackup/2026 홍익기술/영동-보은/02. 사진/0219-20/이과/좌/10+800/R0060176.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:11:13 12:18:01
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 36.342182
+gps_lon: 127.77711

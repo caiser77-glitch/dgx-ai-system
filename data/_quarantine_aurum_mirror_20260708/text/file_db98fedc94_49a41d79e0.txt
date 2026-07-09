@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 환경보전, 우주센터, 조성사업
+● 3줄 요약:
+- 문서는 환경 보전 방안에 대한 검토 및 보완 요청에 관한 내용을 담고 있습니다.
+- 우주센터 조성 사업과 관련된 환경 영향 평가가 포함되어 있습니다.
+- 문서 처리 과정에서 OCR 오류가 발생하여 일부 내용이 제대로 추출되지 않았습니다.
+=========================================
+source_name: 환경보전방안검토 보완 요청[우주센터 조성사업].pdf
+source_type: pdf
+size_bytes: 1460258
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/환경보전방안검토 보완 요청[우주센터 조성사업]_pages_1_taxa.xlsx' (found at least ' ')

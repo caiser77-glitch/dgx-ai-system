@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_335_-_e67bd79600.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_335_-_e67bd79600.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T22:54:11+09:00",
+  "processed_at": "2026-06-23T22:55:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_335_-_e67bd79600_0dc16de5a1.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_335_-_e67bd79600_0dc16de5a1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 Canon",
+    "project_name": "고흥 산단",
+    "class_name": "배설물",
+    "tags": [
+      "#Canon_PowerShot_SX70_HS",
+      "#GPS",
+      "#RGB"
+    ],
+    "summary": "Canon PowerShot SX70 HS로 촬영된 배설물 사진. GPS 좌표: 34.450882, 127.497718",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS로 촬영된 사진",
+      "2025년 3월 25일 10시 08분 18초에 촬영",
+      "GPS 좌표: 위도 34.450882, 경도 127.497718"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "사진",
+      "GPS"
+    ]
+  }
+}

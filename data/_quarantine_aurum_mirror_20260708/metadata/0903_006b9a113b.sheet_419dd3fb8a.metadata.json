@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/0903_006b9a113b.sheet.csv",
+  "source_name": "0903_006b9a113b.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:40+09:00",
+  "processed_at": "2026-07-08T12:05:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0903_006b9a113b.sheet_419dd3fb8a.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/0903_006b9a113b.sheet_419dd3fb8a.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0903_006b9a113b.sheet_419dd3fb8a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "기업별 희망 면적 및 주요 업종 정보를 포함한 데이터셋입니다.",
+      "총 12개의 행으로 구성된 CSV 형식의 문서입니다.",
+      "업종 코드와 희망 면적 등 기업 요구 사항을 관리하기 위한 용도로 보입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "기업명",
+      "희망면적",
+      "주요 업종"
+    ]
+  }
+}

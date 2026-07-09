@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN2078-_111d327abb.txt",
+  "source_name": "DSCN2078-_111d327abb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T04:15:09+09:00",
+  "processed_at": "2026-06-25T04:17:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSCN2078-_111d327abb_1b8fe1a79b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSCN2078-_111d327abb_1b8fe1a79b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2025년 11월 17일에 촬영된 도롱뇽 사진\nNIKON COOLPIX AW100s 카메라로 촬영\nJPEG 형식, 4608x3456 해상도",
+    "tags": [
+      "#도롱뇽",
+      "#사진",
+      "#NIKON"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일에 촬영된 도롱뇽 사진",
+      "NIKON COOLPIX AW100s 카메라로 촬영",
+      "JPEG 형식, 4608x3456 해상도"
+    ],
+    "category": "사진",
+    "keywords": [
+      "도롱뇽",
+      "사진",
+      "NIKON"
+    ]
+  }
+}

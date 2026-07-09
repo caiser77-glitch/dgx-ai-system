@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/250317_ef69c94dfa.txt",
+  "source_name": "250317_ef69c94dfa.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:44+09:00",
+  "processed_at": "2026-07-08T12:16:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/250317_ef69c94dfa_26457d6631.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/250317_ef69c94dfa_26457d6631.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "호미반도 산림복지단지 편입토지 조사 결과를 담은 엑셀 파일",
+      "총괄, 자연휴양림, 치유의숲, 산림레포츠 4개 시트로 구성",
+      "각 시트별로 편입토지의 상세 정보 기재 (행 수와 열 수 다름)"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "호미반도",
+      "산림복지단지",
+      "편입토지"
+    ]
+  }
+}

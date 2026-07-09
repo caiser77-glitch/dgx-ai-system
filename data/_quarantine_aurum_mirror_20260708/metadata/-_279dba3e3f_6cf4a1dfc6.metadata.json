@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/-_279dba3e3f.txt",
+  "source_name": "-_279dba3e3f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-05T17:58:32+09:00",
+  "processed_at": "2026-07-05T17:58:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_279dba3e3f_6cf4a1dfc6.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_279dba3e3f_6cf4a1dfc6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "준공용 도서 - 사진첩 양식 파일에 대한 정보 제공",
+      "파일 크기는 119,296 바이트",
+      "내용 추출은 지원되지 않는 파일 유형으로 불가능"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "준공용 도서",
+      "사진첩 양식",
+      "hwp 파일"
+    ]
+  }
+}

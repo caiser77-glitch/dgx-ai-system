@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0100_70319c3e0d.txt",
+  "source_name": "0100_70319c3e0d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:15:14+09:00",
+  "processed_at": "2026-07-08T13:15:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0100_70319c3e0d_b1701733c9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0100_70319c3e0d_b1701733c9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 PDF 형태로 제공되나, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 38,430,110 바이트이며, OCR 처리 중 인코딩 오류가 발생했습니다.",
+      "문서의 이름은 '(본안)+0100+사업의+개요.pdf'입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "콘텐츠 추출",
+      "OCR 오류"
+    ]
+  }
+}

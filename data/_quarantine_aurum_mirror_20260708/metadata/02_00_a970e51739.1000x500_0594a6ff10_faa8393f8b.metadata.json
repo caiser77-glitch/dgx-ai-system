@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02_00_a970e51739.1000x500_0594a6ff10.txt",
+  "source_name": "02_00_a970e51739.1000x500_0594a6ff10.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:35:47+09:00",
+  "processed_at": "2026-07-08T11:35:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.1000x500_0594a6ff10_faa8393f8b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.1000x500_0594a6ff10_faa8393f8b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '02_00_a970e51739.1000x500.csv'에 대한 정보 제공",
+      "총 38개의 행이 포함되어 있음",
+      "주요 열은 석재 배수로 단위수량임"
+    ],
+    "category": "데이터셋",
+    "keywords": [
+      "CSV",
+      "데이터셋",
+      "석재 배수로"
+    ]
+  }
+}

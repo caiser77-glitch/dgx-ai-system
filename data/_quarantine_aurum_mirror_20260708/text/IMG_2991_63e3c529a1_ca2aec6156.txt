@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: Canon PowerShot SX70 HS, GPS 위치, 사진
+● 3줄 요약:
+- 2026년 5월 18일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 사진
+- 위치 정보: 위도 37.257388, 경도 126.485725
+- 사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식
+=========================================
+source_name: IMG_2991.JPG
+source_type: jpg
+size_bytes: 3849533
+path: /mnt/dgxbackup/2026 건화/영흥화력/02. 사진/05.18-19/허과 포곤/IMG_2991.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:18 11:26:06
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.257388
+gps_lon: 126.485725

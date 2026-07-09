@@ -1,0 +1,32 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/tables/02_00_a970e51739.1000x500_0594a6ff10.csv",
+  "source_name": "02_00_a970e51739.1000x500_0594a6ff10.csv",
+  "source_type": "csv",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-05T16:28:31+09:00",
+  "processed_at": "2026-07-05T16:28:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.1000x500_0594a6ff10_d502170d4d.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/02_00_a970e51739.1000x500_0594a6ff10_d502170d4d.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.1000x500_0594a6ff10_d502170d4d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  }
+}

@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 황새냉이, Canon PowerShot SX70 HS, GPS
+● 3줄 요약:
+- 2024년 2월 23일 촬영된 황새냉이 사진
+- Canon PowerShot SX70 HS 카메라로 촬영
+- GPS 좌표: 36.803002, 127.520118
+=========================================
+source_name: IMG_1704 황새냉이.JPG
+source_type: jpg
+size_bytes: 9581946
+path: /mnt/dgxbackup/2026 홍익기술/진천초평산업단지/03. 사진/2024.02.23-24/이부/IMG_1704 황새냉이.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2024:02:23 10:11:27
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.803002
+gps_lon: 127.520118

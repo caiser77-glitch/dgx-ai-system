@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0720_02-__2026.05.17_3e741c8745.txt",
+  "source_name": "0720_02-__2026.05.17_3e741c8745.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:41:05+09:00",
+  "processed_at": "2026-07-08T11:41:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0720_02-__2026.05.17_3e741c8745_ddb4a0358b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0720_02-__2026.05.17_3e741c8745_ddb4a0358b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소에서 작성한 환경영향조사 증빙자료 문서입니다.",
+      "2026년 5월 17일에 작성되었으며, 부록 02로 분류됩니다.",
+      "파일 크기는 98,476,544 바이트이며, HWP 파일 형식으로 제공됩니다."
+    ],
+    "category": "증빙자료",
+    "keywords": [
+      "아우룸생태연구소",
+      "환경영향조사",
+      "증빙자료"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_2999_8525c6b774.txt",
+  "source_name": "IMG_2999_8525c6b774.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-07T01:38:36+09:00",
+  "processed_at": "2026-07-07T01:39:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_2999_8525c6b774_a2dc275c5d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_2999_8525c6b774_a2dc275c5d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "변환IMG_2999.jpg는 평택호 사후 조사에서 촬영된 석과 식물 사진입니다.",
+      "이미지 크기는 400x300 픽셀이며, RGB 모드로 저장되어 있습니다.",
+      "파일 크기는 207,989 바이트이며, JPEG 형식으로 변환되었습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "평택호",
+      "석과 식물",
+      "사후조사"
+    ]
+  }
+}

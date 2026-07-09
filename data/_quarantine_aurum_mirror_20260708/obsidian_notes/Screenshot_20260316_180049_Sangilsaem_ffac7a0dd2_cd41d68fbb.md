@@ -1,0 +1,46 @@
+---
+생성일: 2026-07-08
+장비명: aurum_macbook
+원본이름: Screenshot_20260316_180049_Sangilsaem_ffac7a0dd2.txt
+원본유형: txt
+년도_업체: unknown
+사업명: unknown
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: Hermes binary not found locally.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #Users #nams #TXT
+---
+# 📄 Screenshot_20260316_180049_Sangilsaem_ffac7a0dd2.txt 요약본
+
+* **처리 시각**: 2026-07-08T08:38:45+09:00
+* **년도_업체**: unknown
+* **사업명**: unknown
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /Users/nams/AI_BASE/data/raw_cache/Screenshot_20260316_180049_Sangilsaem_ffac7a0dd2.txt
+
+---
+### 🤖 AI 분석 요약
+> Hermes binary not found locally.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: Screenshot_20260316_180049_Sangilsaem.jpg
+source_type: jpg
+size_bytes: 1849508
+path: /mnt/dgxbackup/2026 혜인/부산2-4/07. 트랙/상반기/Screenshot_20260316_180049_Sangilsaem.jpg
+width: 1440
+height: 3120
+mode: RGB
+format: JPEG
+datetime_taken: 2026:03:16 18:00:49
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [Screenshot_20260316_180049_Sangilsaem_ffac7a0dd2.txt 열기](file:///Users/nams/AI_BASE/data/raw_cache/Screenshot_20260316_180049_Sangilsaem_ffac7a0dd2.txt)

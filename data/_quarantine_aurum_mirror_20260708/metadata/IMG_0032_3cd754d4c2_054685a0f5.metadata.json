@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0032_3cd754d4c2.txt",
+  "source_name": "IMG_0032_3cd754d4c2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T16:19:13+09:00",
+  "processed_at": "2026-06-25T16:21:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0032_3cd754d4c2_054685a0f5.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0032_3cd754d4c2_054685a0f5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2025년 3월 27일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 사진\n사진 크기는 5184x3888 픽셀, RGB 모드, MPO 포맷\n사진 파일 크기는 5,309,956 바이트",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#2025-03-27",
+      "#고흥 산단"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 사진",
+      "사진 크기는 5184x3888 픽셀, RGB 모드, MPO 포맷",
+      "사진 파일 크기는 5,309,956 바이트"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "2025-03-27",
+      "고흥 산단"
+    ]
+  }
+}

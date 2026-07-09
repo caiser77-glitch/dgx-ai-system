@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-0800_d6b96c4de8_67958b9b97.txt",
+  "source_name": "-0800_d6b96c4de8_67958b9b97.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:04+09:00",
+  "processed_at": "2026-07-08T11:32:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-0800_d6b96c4de8_67958b9b97_7598706575.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-0800_d6b96c4de8_67958b9b97_7598706575.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제안로-0800에 대한 공개된 전략환경향평가 항목에 대한 주민들의 의견을 담고 있습니다.",
+      "상세한 내용 확인이 불가능한 .hwp 형식의 파일입니다.",
+      "파일 크기는 2,365,440 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "전략환경향평가",
+      "주민 의견",
+      "제안로-0800"
+    ]
+  }
+}

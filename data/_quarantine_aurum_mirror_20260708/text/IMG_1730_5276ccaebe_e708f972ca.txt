@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 꽃다지, Canon PowerShot SX70 HS, GPS
+● 3줄 요약:
+- 2024년 2월 23일 촬영된 꽃다지 사진
+- Canon PowerShot SX70 HS 카메라로 촬영
+- 위치: GPS 좌표 (36.799702, 127.517403)
+=========================================
+source_name: IMG_1730 꽃다지.JPG
+source_type: jpg
+size_bytes: 10008813
+path: /mnt/dgxbackup/2026 홍익기술/진천초평산업단지/03. 사진/2024.02.23-24/이부/IMG_1730 꽃다지.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2024:02:23 10:44:52
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.799702
+gps_lon: 127.517403

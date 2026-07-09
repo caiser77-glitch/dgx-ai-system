@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: RICOH WG-6, 이미지 메타데이터, 군포대야미
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.
+- 촬영 일시는 2026년 3월 6일 오후 12시 37분입니다.
+- 파일 경로는 군포대야미 프로젝트의 유과 관련 폴더에 저장되어 있습니다.
+=========================================
+source_name: R0039783.JPG
+source_type: jpg
+size_bytes: 2200896
+path: /mnt/dgxbackup/2026 KCI/군포대야미/02. 사진/03.06/유과/R0039783.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:06 12:37:15
+camera_make: RICOH
+camera_model: RICOH WG-6

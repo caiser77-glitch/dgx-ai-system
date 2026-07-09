@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/04_0fab87f010.txt",
+  "source_name": "04_0fab87f010.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:39:02+09:00",
+  "processed_at": "2026-07-08T13:39:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_0fab87f010_9f1d3d629c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_0fab87f010_9f1d3d629c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "엑셀 파일 '04 포장공.xlsx'은 41개의 시트로 구성되어 있습니다.",
+      "각 시트는 특정 작업 또는 재료에 대한 데이터를 포함하며, 행과 열의 수가 다양합니다.",
+      "특히 '포조산' 시트는 1,048,508행으로 가장 큰 데이터셋을 가지고 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "포장공",
+      "엑셀",
+      "데이터셋"
+    ]
+  }
+}

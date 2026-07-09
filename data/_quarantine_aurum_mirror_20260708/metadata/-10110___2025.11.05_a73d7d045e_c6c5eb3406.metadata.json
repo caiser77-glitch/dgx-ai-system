@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-10110___2025.11.05_a73d7d045e.txt",
+  "source_name": "-10110___2025.11.05_a73d7d045e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:03:25+09:00",
+  "processed_at": "2026-07-08T12:03:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-10110___2025.11.05_a73d7d045e_c6c5eb3406.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-10110___2025.11.05_a73d7d045e_c6c5eb3406.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아산 방축지구의 생물다양성 서식지 보전에 대한 문서입니다.",
+      "2025년 11월 5일에 작성된 아우룸생태연구소의 보고서입니다.",
+      "문서 형식은 HWP이며, 콘텐츠 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "아산 방축지구",
+      "생물다양성",
+      "서식지 보전"
+    ]
+  }
+}

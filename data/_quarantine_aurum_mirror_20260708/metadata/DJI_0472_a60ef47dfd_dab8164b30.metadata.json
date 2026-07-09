@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_0472_a60ef47dfd.txt",
+  "source_name": "DJI_0472_a60ef47dfd.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T10:00:41+09:00",
+  "processed_at": "2026-06-24T10:02:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DJI_0472_a60ef47dfd_dab8164b30.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DJI_0472_a60ef47dfd_dab8164b30.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 DJI",
+    "project_name": "고흥 산단",
+    "class_name": "드론 영상",
+    "tags": [
+      "#드론",
+      "#GPS",
+      "#DJI"
+    ],
+    "summary": "2025년 2월 7일에 찍힌 DJI 드론 영상. 위치: 고흥 산단.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "DJI 드론 촬영 이미지, 2025년 2월 7일 16시 54분 57초에 촬영",
+      "GPS 좌표: 위도 34.450688, 경도 127.491704",
+      "해상도 4032x3024, RGB 모드, MPO 포맷"
+    ],
+    "category": "드론영상",
+    "keywords": [
+      "DJI",
+      "드론 촬영",
+      "GPS 좌표"
+    ]
+  }
+}

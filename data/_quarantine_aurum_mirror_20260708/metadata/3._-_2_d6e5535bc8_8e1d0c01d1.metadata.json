@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3._-_2_d6e5535bc8.txt",
+  "source_name": "3._-_2_d6e5535bc8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:49+09:00",
+  "processed_at": "2026-07-08T11:55:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/3._-_2_d6e5535bc8_8e1d0c01d1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/3._-_2_d6e5535bc8_8e1d0c01d1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "성남낙생 지역에서 수행된 제2차년도 측정 결과를 담고 있습니다.",
+      "PDF 파일의 OCR 처리 과정 중 오류가 발생하여 내용 추출이 불가능합니다.",
+      "파일명 내 공백 문자 포함 및 파일 형식 문제로 인해 데이터 처리에 어려움이 있었습니다."
+    ],
+    "category": "측정결과",
+    "keywords": [
+      "성남낙생",
+      "측정표",
+      "제2차년도"
+    ]
+  }
+}

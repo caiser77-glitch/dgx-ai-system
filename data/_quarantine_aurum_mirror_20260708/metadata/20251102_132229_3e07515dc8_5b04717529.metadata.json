@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20251102_132229_3e07515dc8.txt",
+  "source_name": "20251102_132229_3e07515dc8.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T16:24:58+09:00",
+  "processed_at": "2026-06-23T16:26:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20251102_132229_3e07515dc8_5b04717529.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20251102_132229_3e07515dc8_5b04717529.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아산방축",
+    "project_name": "2025.11.03 수정요청",
+    "class_name": "필수요소",
+    "tags": [
+      "#필수요소",
+      "#주황색",
+      "#빨간색"
+    ],
+    "summary": "20251102_132229.jpg 파일의 수정요청 사항이 포함된 이미지. 빨간색은 반영, 주황색은 미반영, 주황색은 최소한의 필수요소.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지 파일은 20251102_132229로, 빨간색 반영과 주황색 미반영을 나타냅니다.",
+      "파일 크기는 196,038 바이트이며, 해상도는 808x401 픽셀입니다.",
+      "RGB 모드의 JPEG 형식으로 저장되어 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지",
+      "반영",
+      "미반영"
+    ]
+  }
+}

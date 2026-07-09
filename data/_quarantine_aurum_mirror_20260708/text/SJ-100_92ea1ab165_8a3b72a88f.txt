@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: SJ-100 사업, OCR 오류, 제어 문자
+● 3줄 요약:
+- SJ-100 사업 개요 문서에 대한 OCR 처리 과정에서 오류가 발생하였습니다.
+- 파일명 내 포함된 제어 문자로 인해 URL 접근 및 파일 경로 인식에 문제가 생겼습니다.
+- 이로 인해 문서의 실제 내용을 추출하지 못하고 프로세스가 중단되었습니다.
+=========================================
+source_name: SJ-100 사업의개요(완).pdf
+source_type: pdf
+size_bytes: 3956128
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/SJ-100 사업의개요(완)_pages_1_taxa.xlsx' (found at least ' ')

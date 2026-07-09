@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/2024_-_fa40e4d7e1.sheet.csv",
+  "source_name": "2024_-_fa40e4d7e1.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:03:05+09:00",
+  "processed_at": "2026-07-08T12:03:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2024_-_fa40e4d7e1.sheet_664ba215cd.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/2024_-_fa40e4d7e1.sheet_664ba215cd.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2024_-_fa40e4d7e1.sheet_664ba215cd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 하천 생물측정망 조사 데이터 관련 문서입니다.",
+      "저서성 대형 무척추동물의 출현 종 정보를 포함하고 있습니다.",
+      "CSV 형식의 데이터로 구성된 생태 조사 기록입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "하천 생물측정망",
+      "저서성 대형 무척추동물",
+      "출현종 정보"
+    ]
+  }
+}

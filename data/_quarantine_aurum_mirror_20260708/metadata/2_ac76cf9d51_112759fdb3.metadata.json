@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_ac76cf9d51.txt",
+  "source_name": "2_ac76cf9d51.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:47+09:00",
+  "processed_at": "2026-07-08T11:57:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_ac76cf9d51_112759fdb3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_ac76cf9d51_112759fdb3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제주외항 2단계(잡화부두) 사후 견적 문서에 대한 정보 제공",
+      "파일 크기는 2,020,352 바이트이며, HWP 파일 형식임",
+      "내용 추출은 지원되지 않는 파일 형식으로 인해 불가능함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "제주외항",
+      "사후견적",
+      "HWP"
+    ]
+  }
+}

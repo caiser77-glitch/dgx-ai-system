@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0037970_63e5a75be7.txt",
+  "source_name": "R0037970_63e5a75be7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:55:22+09:00",
+  "processed_at": "2026-07-08T14:55:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0037970_63e5a75be7_aa0873a870.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0037970_63e5a75be7_aa0873a870.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 8일 포항 혁신도시 유대 육수 지역에서 촬영된 왼돌이물달팽이 사진 데이터입니다.",
+      "RICOH WG-6 카메라를 사용하여 촬영되었으며, GPS 좌표(36.09955, 129.39435) 정보가 포함되어 있습니다.",
+      "아우룸생태연구소의 수성 지역 현장 조사 기록 중 하나로 분류됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "왼돌이물달팽이",
+      "포항 혁신도시",
+      "유대 육수"
+    ]
+  }
+}

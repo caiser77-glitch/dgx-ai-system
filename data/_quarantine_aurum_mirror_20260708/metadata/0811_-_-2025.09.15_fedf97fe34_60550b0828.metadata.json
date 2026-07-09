@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0811_-_-2025.09.15_fedf97fe34.txt",
+  "source_name": "0811_-_-2025.09.15_fedf97fe34.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:06+09:00",
+  "processed_at": "2026-07-08T12:05:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0811_-_-2025.09.15_fedf97fe34_60550b0828.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0811_-_-2025.09.15_fedf97fe34_60550b0828.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "(주)아우룸생태연구소의 2025년 9월 15일자 수정본 초안 문서입니다.",
+      "동식물상에 관한 정보를 포함하고 있으나 파일 형식 문제로 내용 추출이 불가합니다.",
+      "해당 파일의 크기는 약 287MB이며 hwp 형식으로 작성되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "아우룸생태연구소",
+      "동식물상",
+      "hwp"
+    ]
+  }
+}

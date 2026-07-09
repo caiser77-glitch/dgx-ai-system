@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061047_3954066bd1.txt",
+  "source_name": "R0061047_3954066bd1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:54:15+09:00",
+  "processed_at": "2026-07-08T09:54:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061047_3954066bd1_fec5d0f2b2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061047_3954066bd1_fec5d0f2b2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 문서 데이터는 이미지 파일 정보(R0061047.JPG)를 포함하고 있습니다.",
+      "파일의 크기, 해상도 및 색상 모드 등 기술적인 메타데이터가 기록되어 있습니다.",
+      "OCR 처리 과정에서 내부 서버 오류(HTTP Error 500)가 발생하여 텍스트 추출이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "서버 오류",
+      "OCR 실패"
+    ]
+  }
+}

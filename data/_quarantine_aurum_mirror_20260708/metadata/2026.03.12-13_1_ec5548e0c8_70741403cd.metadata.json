@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.12-13_1_ec5548e0c8.txt",
+  "source_name": "2026.03.12-13_1_ec5548e0c8.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:28:14+09:00",
+  "processed_at": "2026-06-23T18:29:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.12-13_1_ec5548e0c8_70741403cd.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.12-13_1_ec5548e0c8_70741403cd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "야장",
+    "tags": [
+      "#야장",
+      "#계양사후",
+      "#2026"
+    ],
+    "summary": "2026년 3월 12-13일 계양사후 탐문 관련 야장 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "계양사후 탐문 관련 이미지 파일",
+      "2026년 3월 12-13일에 촬영된 야장 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "계양사후",
+      "탐문",
+      "야장"
+    ]
+  }
+}

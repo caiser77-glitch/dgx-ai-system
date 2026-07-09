@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00220_2_5db5bed137.txt",
+  "source_name": "00220_2_5db5bed137.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:16:48+09:00",
+  "processed_at": "2026-07-08T13:16:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00220_2_5db5bed137_7acf7cda34.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00220_2_5db5bed137_7acf7cda34.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 대기질 및 악취에 관한 내용을 다루고 있습니다.",
+      "파일 크기는 10,023,893 바이트이며, OCR 처리 중 오류가 발생했습니다.",
+      "오류 메시지는 'ascii' 코덱이 특정 위치의 문자를 인코딩하지 못하는 것으로 나타났습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "대기질",
+      "악취",
+      "OCR 오류"
+    ]
+  }
+}

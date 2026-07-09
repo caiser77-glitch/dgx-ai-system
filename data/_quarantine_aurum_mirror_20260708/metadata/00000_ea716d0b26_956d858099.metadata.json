@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00000_ea716d0b26.txt",
+  "source_name": "00000_ea716d0b26.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:13:10+09:00",
+  "processed_at": "2026-07-08T12:13:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00000_ea716d0b26_956d858099.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00000_ea716d0b26_956d858099.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "PDF 파일의 표지와 목차 부분에 대한 정보 제공",
+      "파일 크기는 87,054 바이트임",
+      "OCR 처리 중 URL 내 제어 문자 포함으로 인한 오류 발생"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "표지",
+      "목차"
+    ]
+  }
+}

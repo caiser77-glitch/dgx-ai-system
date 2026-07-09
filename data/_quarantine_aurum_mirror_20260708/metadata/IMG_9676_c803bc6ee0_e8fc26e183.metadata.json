@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_9676_c803bc6ee0.txt",
+  "source_name": "IMG_9676_c803bc6ee0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:41:26+09:00",
+  "processed_at": "2026-07-01T11:41:26+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_9676_c803bc6ee0.txt",
+    "return_code": 1
+  }
+}

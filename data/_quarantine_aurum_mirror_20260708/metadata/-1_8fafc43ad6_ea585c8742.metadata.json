@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1_8fafc43ad6.txt",
+  "source_name": "-1_8fafc43ad6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:53:06+09:00",
+  "processed_at": "2026-07-08T11:53:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-1_8fafc43ad6_ea585c8742.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-1_8fafc43ad6_ea585c8742.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "동막천에서 측정한 저서성대형무척추동물 출현종 정보를 담은 데이터입니다.",
+      "단일 시트로 구성되어 있으며 하천 생물측정망 관련 정보를 제공합니다.",
+      "현재 데이터는 1행 1열의 제한적인 형태로 제공되고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "동막천",
+      "저서성대형무척추동물",
+      "생물측정망"
+    ]
+  }
+}

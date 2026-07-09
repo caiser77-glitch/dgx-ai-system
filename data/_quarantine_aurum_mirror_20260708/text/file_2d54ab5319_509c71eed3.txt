@@ -1,0 +1,12 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: pptx, 지원되지 않음, 파일 크기
+● 3줄 요약:
+- 파일 형식이 지원되지 않아 내용 추출 불가
+- 파일 크기: 1,803,510 바이트
+- 파일 이름: 참석자.pptx
+=========================================
+source_name: 참석자.pptx
+source_type: pptx
+size_bytes: 1803510
+content_extraction: unsupported_file_type

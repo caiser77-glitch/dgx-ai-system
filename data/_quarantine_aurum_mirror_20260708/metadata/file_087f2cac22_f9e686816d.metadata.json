@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_087f2cac22.txt",
+  "source_name": "file_087f2cac22.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:23+09:00",
+  "processed_at": "2026-07-08T12:05:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_087f2cac22_f9e686816d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_087f2cac22_f9e686816d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 우주발사체 국가산업단지의 삽도 변경에 대한 문서입니다.",
+      "문서 형식은 .hwp이며, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 8,037,888 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥",
+      "우주발사체",
+      "국가산업단지"
+    ]
+  }
+}

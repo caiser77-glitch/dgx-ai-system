@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/23.08.07_13.38_-_31d8e488ea.txt",
+  "source_name": "23.08.07_13.38_-_31d8e488ea.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:50:06+09:00",
+  "processed_at": "2026-06-23T19:51:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/23.08.07_13.38_-_31d8e488ea_0e5244954c.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/23.08.07_13.38_-_31d8e488ea_0e5244954c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "음성천",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#2023.08.07",
+      "#육수종료"
+    ],
+    "summary": "2023년 8월 7일 13시 38분에 촬영된 육수 종료 관련 영수증 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2023년 8월 7일 13시 38분에 촬영된 영수증 이미지",
+      "육수 종료 관련 비용 지출 증빙 자료",
+      "RGB 모드, JPEG 형식, 343x862 픽셀 크기의 사진"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "육수 종료",
+      "지출 증빙"
+    ]
+  }
+}

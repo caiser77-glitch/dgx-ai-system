@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 새, 울산 온산국가산업단지, 포유류 조사
+● 3줄 요약:
+- 2026년 2월 13일에 촬영된 새 사진
+- 울산 온산국가산업단지에서 포유류 조사 중 촬영
+- Panasonic DC-TZ99 카메라로 GPS 좌표 (35.456303, 129.314728)에서 촬영
+=========================================
+source_name: 새 (3).JPG
+source_type: jpg
+size_bytes: 1024830
+path: /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/01. 조사사진_울산온산_포유류/새 (3).JPG
+width: 1624
+height: 1218
+mode: RGB
+format: JPEG
+datetime_taken: 2026:02:13 09:55:08
+camera_make: Panasonic
+camera_model: DC-TZ99
+gps_lat: 35.456303
+gps_lon: 129.314728

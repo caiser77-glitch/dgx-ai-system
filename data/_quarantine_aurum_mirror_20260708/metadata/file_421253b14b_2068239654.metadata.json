@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_421253b14b.txt",
+  "source_name": "file_421253b14b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:32+09:00",
+  "processed_at": "2026-07-08T13:51:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_421253b14b_2068239654.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_421253b14b_2068239654.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 부장리 고분군 공원 조성 계획을 위한 설계 자료입니다.",
+      "CAD 기반의 위성 베이스 이미지를 포함하고 있습니다.",
+      "공원 조성 및 설계를 목적으로 작성된 시각적 데이터입니다."
+    ],
+    "category": "설계자료",
+    "keywords": [
+      "부장리고분군",
+      "공원조성계획",
+      "위성베이스"
+    ]
+  }
+}

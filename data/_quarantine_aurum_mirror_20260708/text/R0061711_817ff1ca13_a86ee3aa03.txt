@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 평택호, 모니터링, 현장사진
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 평택호 사후 모니터링 관련 이미지 데이터입니다.
+- 2026년 5월 28일 22시 10분경에 촬영되었으며 GPS 좌표 정보가 포함되어 있습니다.
+- 평택호 지역의 현장 조사를 위한 시각적 기록물로 판단됩니다.
+=========================================
+source_name: R0061711.JPG
+source_type: jpg
+size_bytes: 4188258
+path: /mnt/dgxbackup/2026 세광/평택호 사후/02.사진/모니터링/0528/R0061711.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:28 22:10:24
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 37.026973
+gps_lon: 126.874825

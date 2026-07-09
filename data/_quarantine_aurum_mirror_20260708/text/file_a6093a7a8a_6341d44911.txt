@@ -1,0 +1,4 @@
+source_name: 아산 방축 전략 관련자료.zip
+source_type: zip
+size_bytes: 117317325
+content_extraction: unsupported_file_type

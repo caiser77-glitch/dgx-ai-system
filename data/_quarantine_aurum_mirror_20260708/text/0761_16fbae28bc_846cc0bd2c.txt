@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: PDF, 콘텐츠 추출 불가, OCR 오류
+● 3줄 요약:
+- 제공된 PDF 파일은 콘텐츠 추출이 지원되지 않는 유형입니다.
+- 파일 크기는 약 181KB이며 OCR 처리 중 인코딩 오류가 발생했습니다.
+- 데이터 추출 불가로 인해 구체적인 내용 요약 및 키워드 추출이 불가능합니다.
+=========================================
+source_name: (본안)+0761+인구주거.pdf
+source_type: pdf
+size_bytes: 181253
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

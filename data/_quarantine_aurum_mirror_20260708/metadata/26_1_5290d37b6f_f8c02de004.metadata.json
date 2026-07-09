@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/26_1_5290d37b6f.txt",
+  "source_name": "26_1_5290d37b6f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:01:12+09:00",
+  "processed_at": "2026-06-23T20:02:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/26_1_5290d37b6f_f8c02de004.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/26_1_5290d37b6f_f8c02de004.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "포항-안동 출장",
+    "class_name": "관리문서",
+    "tags": [
+      "#출장복명서",
+      "#영수증",
+      "#포항안동"
+    ],
+    "summary": "2026년 1분기 포항-안동 출장 복명서 및 영수증 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "26년 1분기 포항안동 출장복명서 이미지 파일",
+      "JPEG 형식, RGB 모드, 2480x3507 픽셀 크기",
+      "파일 크기 725,988 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "출장복명서",
+      "포항안동",
+      "1분기"
+    ]
+  }
+}

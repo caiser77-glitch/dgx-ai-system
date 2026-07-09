@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02.__1_20fbe07ec2.txt",
+  "source_name": "02.__1_20fbe07ec2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:49:27+09:00",
+  "processed_at": "2026-07-08T11:49:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02.__1_20fbe07ec2_be4a5e4441.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02.__1_20fbe07ec2_be4a5e4441.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "학곤내 소하천 정비사업에 대한 개요 문서입니다.",
+      "PDF 파일 크기는 7,377,304 바이트입니다.",
+      "OCR 처리 중 URL 제어 문자 포함으로 인한 오류가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "학곤내 소하천",
+      "정비사업",
+      "PDF"
+    ]
+  }
+}

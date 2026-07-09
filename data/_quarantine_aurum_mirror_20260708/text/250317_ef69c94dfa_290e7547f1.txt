@@ -1,0 +1,12 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 250317 호미반도 산림복지단지 편입토지조서(시설별 구분) 최종.xlsx
+source_type: xlsx
+sheet: 편입토지조서(총괄), rows: 233, columns: 28
+sheet: 자연휴양림, rows: 236, columns: 25
+sheet: 치유의숲, rows: 80, columns: 25
+sheet: 산림레포츠, rows: 9, columns: 25

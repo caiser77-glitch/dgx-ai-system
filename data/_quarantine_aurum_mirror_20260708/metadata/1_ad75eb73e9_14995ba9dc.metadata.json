@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_ad75eb73e9.txt",
+  "source_name": "1_ad75eb73e9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:19:47+09:00",
+  "processed_at": "2026-06-29T17:21:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_ad75eb73e9_14995ba9dc.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_ad75eb73e9_14995ba9dc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 1차 조류 야장 사진",
+      "JPEG 형식, RGB 모드, 1019x1440 해상도",
+      "파일 크기 234,425 바이트, 경로: /mnt/dgxbackup/2026 이산/고흥 산단/05. 야장 및 영수증/야장/3월/"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥",
+      "조류",
+      "야장"
+    ]
+  }
+}

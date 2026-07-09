@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/TimePhoto_20251117_115302_86ba222231.txt",
+  "source_name": "TimePhoto_20251117_115302_86ba222231.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T08:36:50+09:00",
+  "processed_at": "2026-07-08T08:37:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/TimePhoto_20251117_115302_86ba222231_b5f25f5702.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/TimePhoto_20251117_115302_86ba222231_b5f25f5702.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일 오전 11시 53분경 촬영된 현장 사진입니다.",
+      "숨편한 힐링숲 진입도로의 양부 상태를 확인하기 위한 기록물입니다.",
+      "삼성 갤럭시 S21(SM-G996N) 기기로 촬영되었으며 GPS 위치 정보가 포함되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "숨편한 힐링숲",
+      "진입도로 양부",
+      "현장 사진"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4_-OO_393c538842.txt",
+  "source_name": "4_-OO_393c538842.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:51:29+09:00",
+  "processed_at": "2026-07-08T11:51:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/4_-OO_393c538842_6e4aa7b097.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/4_-OO_393c538842_6e4aa7b097.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포천-OO 자원회수시설에 대한 4월 조사계획서입니다.",
+      "민간투자사업의 일환으로 환경영향평가를 실시할 예정입니다.",
+      "문서는 .hwp 파일로, 현재 콘텐츠 추출이 지원되지 않습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포천-OO",
+      "자원회수시설",
+      "환경영향평가"
+    ]
+  }
+}

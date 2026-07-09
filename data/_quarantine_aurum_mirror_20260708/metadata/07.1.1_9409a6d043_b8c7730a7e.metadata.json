@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07.1.1_9409a6d043.txt",
+  "source_name": "07.1.1_9409a6d043.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:11:28+09:00",
+  "processed_at": "2026-07-08T13:11:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07.1.1_9409a6d043_b8c7730a7e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07.1.1_9409a6d043_b8c7730a7e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 동식물상에 대한 정보를 포함하고 있으나, OCR 오류로 인해 내용 추출이 불가능합니다.",
+      "파일 크기는 11,949,483 바이트이며, PDF 형식입니다.",
+      "문서의 이름은 '(본안)+07.1.1+동식물상(국가종합비행성능시험장).pdf'입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "동식물상",
+      "OCR 오류",
+      "PDF"
+    ]
+  }
+}

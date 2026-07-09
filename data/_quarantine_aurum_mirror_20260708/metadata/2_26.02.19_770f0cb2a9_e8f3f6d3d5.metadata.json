@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_26.02.19_770f0cb2a9.txt",
+  "source_name": "2_26.02.19_770f0cb2a9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:58:43+09:00",
+  "processed_at": "2026-07-08T11:58:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_26.02.19_770f0cb2a9_e8f3f6d3d5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_26.02.19_770f0cb2a9_e8f3f6d3d5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획 2공구 개발지역 면적 정리를 다룬 엑셀 파일입니다.",
+      "시트1에 총 20개의 행과 6개의 열이 포함되어 있습니다.",
+      "2019년 2월 26일 동명이 수정한 최종 버전입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용계획",
+      "개발지역",
+      "면적"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1048_2aa7c572df.txt",
+  "source_name": "IMG_1048_2aa7c572df.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T14:45:37+09:00",
+  "processed_at": "2026-07-06T14:46:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1048_2aa7c572df_4ca803de5b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1048_2aa7c572df_4ca803de5b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 12일에 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "위치: GPS 좌표 (37.555165, 126.76638), 계양 테크노밸리 사후 1분기 조사 지역",
+      "이미지 크기: 5184x3888, RGB 모드, MPO 포맷, 3.8MB"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "GPS",
+      "Canon"
+    ]
+  }
+}

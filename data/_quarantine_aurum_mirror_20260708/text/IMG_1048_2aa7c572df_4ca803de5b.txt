@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 사진, GPS, Canon
+● 3줄 요약:
+- 2026년 3월 12일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- 위치: GPS 좌표 (37.555165, 126.76638), 계양 테크노밸리 사후 1분기 조사 지역
+- 이미지 크기: 5184x3888, RGB 모드, MPO 포맷, 3.8MB
+=========================================
+source_name: IMG_1048.JPG
+source_type: jpg
+size_bytes: 3847010
+path: /mnt/dgxbackup/2026 이산/계양 테크노밸리 사후/02. 사진/01. 사진/03.12-13 1분기/권이/IMG_1048.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:12 11:24:16
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.555165
+gps_lon: 126.76638

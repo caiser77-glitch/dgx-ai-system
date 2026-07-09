@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 장비
+● 핵심 키워드: 흰뺨검둥오리, 사진, 메타데이터
+● 3줄 요약:
+- 흰뺨검둥오리 사진 파일에 대한 메타데이터 정보 제공
+- OCR 처리 시 서버 에러 발생으로 텍스트 추출 불가
+- 파일 크기 508,228바이트, 해상도 950x713, RGB 모드, JPEG 형식
+=========================================
+source_name: IMG_1006-흰뺨검둥오리.jpg
+source_type: jpg
+size_bytes: 508228
+width: 950
+height: 713
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

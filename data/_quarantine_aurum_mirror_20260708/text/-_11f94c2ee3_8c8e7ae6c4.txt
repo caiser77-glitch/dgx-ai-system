@@ -1,0 +1,14 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 진천초평-훼손수목 이식수목 관련_폐기물 포함이식량.xlsx
+source_type: xlsx
+sheet: 완충녹지 이식수량(폐기물 포함), rows: 30, columns: 20
+sheet: 완충녹지 이식수량(폐기물 제외), rows: 20, columns: 12
+sheet: 식재수량표 및 이식수량표(공원, 공원외), rows: 36, columns: 22
+sheet: 훼손수목, rows: 54, columns: 11
+sheet: 이식수목(생태계), rows: 77, columns: 20
+sheet: 폐기물 처리시설(이식수목), rows: 23, columns: 11

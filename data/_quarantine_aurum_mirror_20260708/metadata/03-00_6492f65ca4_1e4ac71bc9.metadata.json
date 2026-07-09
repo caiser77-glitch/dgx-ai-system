@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03-00_6492f65ca4.txt",
+  "source_name": "03-00_6492f65ca4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:37+09:00",
+  "processed_at": "2026-07-08T11:43:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03-00_6492f65ca4_1e4ac71bc9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03-00_6492f65ca4_1e4ac71bc9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파일 '03-00.오수공.xls'은 엑셀 파일 형식입니다.",
+      "파일 크기는 660,480 바이트입니다.",
+      "파일 내용 추출이 지원되지 않는 형식입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "엑셀",
+      "파일크기",
+      "지원안됨"
+    ]
+  }
+}

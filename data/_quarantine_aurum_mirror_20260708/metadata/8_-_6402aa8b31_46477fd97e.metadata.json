@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/8_-_6402aa8b31.txt",
+  "source_name": "8_-_6402aa8b31.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:08:01+09:00",
+  "processed_at": "2026-07-08T12:08:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/8_-_6402aa8b31_46477fd97e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/8_-_6402aa8b31_46477fd97e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아산방축 지역에서 8월에 양서파충류 정밀조사 계획서 작성",
+      "조사는 (주)아우룸생태연구소가 수행",
+      "문서 형식은 hwp로, 크기는 2,147,328 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "아산방축",
+      "양서파충류",
+      "정밀조사"
+    ]
+  }
+}

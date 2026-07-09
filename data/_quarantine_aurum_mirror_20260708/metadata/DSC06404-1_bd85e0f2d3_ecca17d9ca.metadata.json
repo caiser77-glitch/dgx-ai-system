@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC06404-1_bd85e0f2d3.txt",
+  "source_name": "DSC06404-1_bd85e0f2d3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T23:34:01+09:00",
+  "processed_at": "2026-06-24T23:35:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC06404-1_bd85e0f2d3_ecca17d9ca.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC06404-1_bd85e0f2d3_ecca17d9ca.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 9월 2일에 촬영된 수달 배설물 사진\nSONY ILCE-7RM4 카메라로 촬영, 해상도 1600x1066, RGB 모드\n파일 크기 1,766,328 바이트, JPEG 형식",
+    "tags": [
+      "#수달",
+      "#배설물",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 9월 2일에 촬영된 수달 배설물 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 1600x1066, RGB 모드",
+      "파일 크기 1,766,328 바이트, JPEG 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "수달",
+      "배설물",
+      "사진"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_03_1a7d2fe217.txt",
+  "source_name": "-_03_1a7d2fe217.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:04+09:00",
+  "processed_at": "2026-07-08T12:02:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_03_1a7d2fe217_e2709948e0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_03_1a7d2fe217_e2709948e0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "청량천 하구 지역의 저서 생물 측정 정보를 담은 데이터 파일입니다.",
+      "하구 생물측정망 저서 분석정보 시트에 기초 데이터가 포함되어 있습니다.",
+      "물환경정보시스템에서 활용되는 자료로 추정됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "청량천",
+      "하구",
+      "저서생물"
+    ]
+  }
+}

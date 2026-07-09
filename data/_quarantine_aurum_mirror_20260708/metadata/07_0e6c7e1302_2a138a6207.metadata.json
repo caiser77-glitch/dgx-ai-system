@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07_0e6c7e1302.txt",
+  "source_name": "07_0e6c7e1302.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:35+09:00",
+  "processed_at": "2026-07-08T13:45:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_0e6c7e1302_2a138a6207.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_0e6c7e1302_2a138a6207.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "은암리 공장부지 관련 PDF 문서의 OCR 처리에 실패함.",
+      "파일명에 제어 문자 포함으로 인한 URL 오류 발생.",
+      "문서 내용 추출이 지원되지 않는 파일 유형."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "은암리",
+      "공장부지",
+      "OCR 오류"
+    ]
+  }
+}

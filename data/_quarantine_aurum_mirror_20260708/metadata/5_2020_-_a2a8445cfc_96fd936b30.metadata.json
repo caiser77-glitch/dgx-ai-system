@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2020_-_a2a8445cfc.txt",
+  "source_name": "5_2020_-_a2a8445cfc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:36:18+09:00",
+  "processed_at": "2026-07-08T13:36:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2020_-_a2a8445cfc_96fd936b30.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2020_-_a2a8445cfc_96fd936b30.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제5차 전국자연환경조사의 일환으로 진행된 2020년도 광덕 지역 양서파충류 조사 보고서입니다.",
+      "해당 파일은 PDF 형식이며 데이터 크기는 약 531,955 바이트입니다.",
+      "파일 이름의 공백 및 특수문자로 인해 OCR 처리와 콘텐츠 추출에 오류가 발생한 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "광덕",
+      "양서파충류"
+    ]
+  }
+}

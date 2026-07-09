@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_ad75eb73e9.txt",
+  "source_name": "1_ad75eb73e9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:40:23+09:00",
+  "processed_at": "2026-06-22T23:41:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_ad75eb73e9_3fac20de54.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_ad75eb73e9_3fac20de54.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥 산단",
+    "class_name": "조류",
+    "tags": [
+      "#고흥",
+      "#야장",
+      "#조류"
+    ],
+    "summary": "고흥 1차 조류 야장.jpg, 크기 234,425 bytes, 해상도 1019x1440, RGB 모드, JPEG 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 1차 조류 야장 사진",
+      "JPEG 형식, RGB 모드, 1019x1440 해상도",
+      "파일 크기 234,425 바이트, 경로는 /mnt/dgxbackup/2026 이산/고흥 산단/05. 야장 및 영수증/야장/3월/"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥",
+      "조류",
+      "야장"
+    ]
+  }
+}

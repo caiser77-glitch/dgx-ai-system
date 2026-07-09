@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 진천, 식물상, PDF
+● 3줄 요약:
+- 2019년 진천 지역의 식물상을 다룬 PDF 문서입니다.
+- 문서 파일 크기는 약 1.14MB입니다.
+- OCR 처리 과정에서 제어 문자 포함으로 인한 오류가 발생했습니다.
+=========================================
+source_name: 2019 진천-식물상.pdf
+source_type: pdf
+size_bytes: 1144062
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2019 진천-식물상_pages_1_taxa.xlsx' (found at least ' ')

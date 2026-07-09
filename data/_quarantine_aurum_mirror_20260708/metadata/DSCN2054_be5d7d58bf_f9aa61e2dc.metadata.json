@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN2054_be5d7d58bf.txt",
+  "source_name": "DSCN2054_be5d7d58bf.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T13:49:14+09:00",
+  "processed_at": "2026-06-30T13:52:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/DSCN2054_be5d7d58bf_f9aa61e2dc.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/DSCN2054_be5d7d58bf_f9aa61e2dc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일 경산 도로 확장 프로젝트에서 촬영된 사진",
+      "NIKON COOLPIX AW100s 카메라로 촬영, 해상도 2048x1536, RGB 모드",
+      "사진 크기 762,669 바이트, 2025년 11월 17일 13시 36분 46초에 촬영"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "경산도로확장",
+      "아우룸생태연구소",
+      "현장조사사진"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5000_a8dc152de4.txt",
+  "source_name": "5000_a8dc152de4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:45+09:00",
+  "processed_at": "2026-07-08T11:47:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5000_a8dc152de4_821d367fae.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5000_a8dc152de4_821d367fae.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 PDF 형식의 파일로 약 12.4MB의 용량을 가집니다.",
+      "파일 유형 미지원으로 인해 문서 내용 추출 작업이 실패하였습니다.",
+      "URL 내 제어 문자 포함 문제로 인한 OCR 오류가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "지원되지 않는 파일",
+      "OCR 오류"
+    ]
+  }
+}

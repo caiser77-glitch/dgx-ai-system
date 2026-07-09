@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0023_3656440015.txt",
+  "source_name": "IMG_0023_3656440015.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T15:07:20+09:00",
+  "processed_at": "2026-06-30T15:09:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0023_3656440015_8683006da8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0023_3656440015_8683006da8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 6월 29일 21시 12분 31초에 촬영된 무인카메라 사진",
+      "BROWNING BTC-8E 카메라로 촬영, 해상도 6016x3384, RGB 모드",
+      "사진 파일 크기 4,161,842 바이트, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "사진",
+      "BROWNING"
+    ]
+  }
+}

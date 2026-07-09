@@ -1,0 +1,50 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 08 부대공.xlsx
+source_type: xlsx
+sheet: 1 간지, rows: 11, columns: 8
+sheet: 1.부내역, rows: 73, columns: 5
+sheet: 2 간지, rows: 11, columns: 8
+sheet: 2.총자재, rows: 19, columns: 14
+sheet: 3 간지, rows: 11, columns: 8
+sheet: 3.총토공, rows: 21, columns: 11
+sheet: 4 간지 , rows: 11, columns: 8
+sheet: 4.가배수로, rows: 11, columns: 15
+sheet: 가단, rows: 78, columns: 11
+sheet: 5 간지, rows: 11, columns: 8
+sheet: 5.침사지집, rows: 21, columns: 11
+sheet: 침유단, rows: 27, columns: 10
+sheet: 침단, rows: 193, columns: 58
+sheet: 6 간지, rows: 11, columns: 8
+sheet: 3.가콘테집, rows: 6, columns: 6
+sheet: 7 간지, rows: 11, columns: 8
+sheet: 세륜토, rows: 10, columns: 7
+sheet: 세토단, rows: 20, columns: 8
+sheet: 세재집, rows: 13, columns: 22
+sheet: 세재단, rows: 32, columns: 7
+sheet: 8 간지, rows: 11, columns: 8
+sheet: 가설울타리및가설방음벽집계, rows: 15, columns: 5
+sheet: 가설방음판넬조서, rows: 442, columns: 7
+sheet: 8 간지 , rows: 11, columns: 8
+sheet: 가설수, rows: 27, columns: 18
+sheet: 여기까지, rows: 0, columns: 1
+sheet: 9 간지  , rows: 11, columns: 8
+sheet: 폐유보관소 수량산출, rows: 42, columns: 18
+sheet: 흄관 수량집계표 , rows: 23, columns: 11
+sheet: 흄관 단위수량 , rows: 29, columns: 9
+sheet: 10 간지, rows: 11, columns: 8
+sheet: 흄관 수량집계표, rows: 23, columns: 11
+sheet: 흄관 단위수량, rows: 29, columns: 9
+sheet: 말박기토공집계, rows: 11, columns: 7
+sheet: 말박기토공단위수량, rows: 33, columns: 6
+sheet: 말박기재료집계, rows: 10, columns: 8
+sheet: 말박기수량산출, rows: 10, columns: 5
+sheet: 말박기재료단위수량, rows: 73, columns: 6
+sheet: 말박기위치조서, rows: 16, columns: 18
+sheet: 11. 간지, rows: 7, columns: 8
+sheet: 11.비산방지살수, rows: 64, columns: 256
+sheet: Sheet1, rows: 0, columns: 1

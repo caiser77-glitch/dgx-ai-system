@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 측정표
+● 핵심 키워드: OCR 오류, 인코딩 문제, 측정표
+● 3줄 요약:
+- 측정표 파일 내 OCR 오류 발생
+- 파일 인코딩 문제로 인한 데이터 처리 불가
+- 2024년 성남낙생 3차년도 측정표 관련 내용
+=========================================
+source_name: 측정표(성남낙생-3차년)-2024년.pdf
+source_type: pdf
+size_bytes: 216534
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-15: ordinal not in range(128)

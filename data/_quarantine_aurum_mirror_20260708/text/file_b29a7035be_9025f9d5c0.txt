@@ -1,0 +1,14 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 종료.png
+source_type: png
+size_bytes: 15171
+path: /mnt/dgxbackup/2026 이산/광주도시철도/05. 야장 및 영수증/영수증/1월/종료.png
+width: 220
+height: 311
+mode: RGB
+format: PNG

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_199dc5e0d6.txt",
+  "source_name": "file_199dc5e0d6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:20:02+09:00",
+  "processed_at": "2026-07-08T12:20:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_199dc5e0d6_fcc42593e4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_199dc5e0d6_fcc42593e4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥산단 예정공정표는 엑셀 파일로 구성되어 있습니다.",
+      "시트1에 26행과 40열의 데이터가 포함되어 있습니다.",
+      "이 파일은 고흥 산업단지의 공정 예정 사항을 상세히 기술하고 있을 것으로 추정됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥산단",
+      "예정공정표",
+      "엑셀"
+    ]
+  }
+}

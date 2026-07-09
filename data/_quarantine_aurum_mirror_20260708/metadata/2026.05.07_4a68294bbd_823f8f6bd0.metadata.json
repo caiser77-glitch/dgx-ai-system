@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.05.07_4a68294bbd.txt",
+  "source_name": "2026.05.07_4a68294bbd.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:46:22+09:00",
+  "processed_at": "2026-07-08T11:46:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2026.05.07_4a68294bbd_823f8f6bd0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2026.05.07_4a68294bbd_823f8f6bd0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소에서 2026년 5월 7일에 실시한 진천초평산업단지 환평의 생태계 현장조사 자료",
+      "참여분야, 현장조사자 정보 등의 시트로 구성되어 있으며, 각 시트는 다양한 정보를 담고 있음",
+      "총 3개의 시트로 구성되어 있으며, 각 시트의 행과 열 수가 상세히 기재되어 있음"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "생태계",
+      "현장조사",
+      "진천초평산업단지"
+    ]
+  }
+}

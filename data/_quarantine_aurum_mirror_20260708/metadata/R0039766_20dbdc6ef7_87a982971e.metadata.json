@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039766_20dbdc6ef7.txt",
+  "source_name": "R0039766_20dbdc6ef7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:40:26+09:00",
+  "processed_at": "2026-07-08T14:40:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039766_20dbdc6ef7_87a982971e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039766_20dbdc6ef7_87a982971e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 방울실잠자리 사진 데이터입니다.",
+      "2026년 3월 6일 오전 10시 55분에 촬영되었습니다.",
+      "군포 대야미 지역의 유과 관련 현장 조사 자료로 추정됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "방울실잠자리",
+      "RICOH WG-6",
+      "생태사진"
+    ]
+  }
+}

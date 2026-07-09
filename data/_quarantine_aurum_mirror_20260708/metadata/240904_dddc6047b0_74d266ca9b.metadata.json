@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/240904_dddc6047b0.txt",
+  "source_name": "240904_dddc6047b0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:54:40+09:00",
+  "processed_at": "2026-06-23T19:55:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/240904_dddc6047b0_74d266ca9b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/240904_dddc6047b0_74d266ca9b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "계획 현황도",
+    "class_name": "계획 현황도 관련 분류군",
+    "tags": [
+      "#계획현황도",
+      "#AURUM",
+      "#2026"
+    ],
+    "summary": "240904_계획 현황도.zip 파일의 메타데이터. zip 형식, 크기 5064495 bytes, 내용 추출 불가.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파일 '240904_계획 현황도.zip'은 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 5,064,495 바이트입니다.",
+      "내용 추출이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "zip",
+      "지원되지 않는 파일",
+      "내용 추출 불가"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: PDF, 토지 이용 현황, OCR 오류
+● 3줄 요약:
+- 문서는 PDF 형태로 제공되나, OCR 처리 과정에서 인코딩 오류가 발생하여 내용 추출이 불가능합니다.
+- 파일 크기는 1,088,085 바이트이며, 대상 지역의 주변 지역에 대한 토지 이용 현황에 관한 자료로 추정됩니다.
+- 문서의 정확한 내용을 확인하기 위해서는 인코딩 문제를 해결하거나 다른 방법으로 접근해야 합니다.
+=========================================
+source_name: 4.+대상지역의++주변지역에+대한+토지+이용+현황.pdf
+source_type: pdf
+size_bytes: 1088085
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 16-20: ordinal not in range(128)

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/file_d6888093b3.sheet.csv",
+  "source_name": "file_d6888093b3.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:38+09:00",
+  "processed_at": "2026-07-08T11:57:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_d6888093b3.sheet_06a0623ecf.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/file_d6888093b3.sheet_06a0623ecf.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_d6888093b3.sheet_06a0623ecf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하천 생물측정망을 통한 저서성 대형 무척추동물의 출현 종 정보를 포함하고 있습니다.",
+      "총 61개의 데이터 행으로 구성된 CSV 형식의 조사 결과 문서입니다.",
+      "하천 생태계의 생물 다양성을 파악하기 위한 기초 자료로 활용됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "하천 생물측정망",
+      "저서성 대형 무척추동물",
+      "출현종 정보"
+    ]
+  }
+}

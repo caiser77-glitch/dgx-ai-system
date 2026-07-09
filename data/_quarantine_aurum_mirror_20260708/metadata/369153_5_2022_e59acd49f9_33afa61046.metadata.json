@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/369153_5_2022_e59acd49f9.txt",
+  "source_name": "369153_5_2022_e59acd49f9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:19+09:00",
+  "processed_at": "2026-07-08T12:16:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/369153_5_2022_e59acd49f9_33afa61046.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/369153_5_2022_e59acd49f9_33afa61046.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2022년 진행된 5차 전국자연환경조사의 육상곤충 관련 문서입니다.",
+      "파일 크기는 약 1.7MB이며, 시스템상의 OCR 처리 과정에서 오류가 발생했습니다.",
+      "오류 원인은 파일 경로 내 URL에 포함된 제어 문자 때문인 것으로 분석됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "5차 전국자연환경조사",
+      "육상곤충",
+      "OCR 오류"
+    ]
+  }
+}

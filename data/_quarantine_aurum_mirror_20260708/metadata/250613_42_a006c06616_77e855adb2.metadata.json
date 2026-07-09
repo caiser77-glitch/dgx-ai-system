@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/250613_42_a006c06616.txt",
+  "source_name": "250613_42_a006c06616.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:11:06+09:00",
+  "processed_at": "2026-07-08T12:11:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/250613_42_a006c06616_77e855adb2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/250613_42_a006c06616_77e855adb2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "기업혁신파크의 토지이용계획에 대한 다양한 대안이 제시됨.",
+      "토지이용계획, 인구 및 주택계획, 통신계획, 학교용지 검토 등의 항목 포함.",
+      "각 시트는 특정 계획의 세부 정보를 담고 있으며, 총 16개의 시트로 구성."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "토지이용계획",
+      "기업혁신파크",
+      "인구주택계획"
+    ]
+  }
+}

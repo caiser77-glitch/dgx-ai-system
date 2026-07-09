@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_f89b57891d.txt",
+  "source_name": "file_f89b57891d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:34+09:00",
+  "processed_at": "2026-07-08T13:49:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_f89b57891d_35e89559fc.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_f89b57891d_35e89559fc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "오천항 정비공사 사후 조사 과정에서 촬영된 사진 데이터입니다.",
+      "2026년 3월 19일 파나소닉 DC-TZ99 카메라로 촬영되었습니다.",
+      "삵(동물)을 피사체로 하며 특정 GPS 좌표 정보를 포함하고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "삵",
+      "오천항 정비공사",
+      "사후 조사"
+    ]
+  }
+}

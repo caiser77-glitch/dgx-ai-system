@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026_1____2026.03.04_ec715a6d96.txt",
+  "source_name": "2026_1____2026.03.04_ec715a6d96.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:50+09:00",
+  "processed_at": "2026-07-08T11:57:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2026_1____2026.03.04_ec715a6d96_7e62420cd3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2026_1____2026.03.04_ec715a6d96_7e62420cd3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "군포대야미 지역의 2026년 1분기 생태계 조사 계획서",
+      "아우룸생태연구소에서 작성, 2026년 3월 4일 발행",
+      "문서 형식은 hwp이며, 크기는 19,993,600 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "군포대야미",
+      "생태계조사",
+      "2026년 1분기"
+    ]
+  }
+}

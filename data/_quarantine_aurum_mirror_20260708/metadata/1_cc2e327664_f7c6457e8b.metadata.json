@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_cc2e327664.txt",
+  "source_name": "1_cc2e327664.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:43:34+09:00",
+  "processed_at": "2026-06-22T23:44:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_cc2e327664_f7c6457e8b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_cc2e327664_f7c6457e8b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "광양항 낙포부두 해충모니터링",
+    "class_name": "해충",
+    "tags": [
+      "#해충모니터링",
+      "#증빙자료",
+      "#하이패스"
+    ],
+    "summary": "해충 모니터링 증빙자료 이미지 (1분기.jpg) - 크기: 454x321, 형식: JPEG",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "1분기.jpg는 광양항 낙포부두 해충모니터링 프로젝트의 증빙자료 이미지입니다.",
+      "이미지는 하이패스 관련 자료로, RGB 모드의 JPEG 형식으로 저장되어 있습니다.",
+      "이미지 크기는 454x321 픽셀이며, 파일 크기는 48,275 바이트입니다."
+    ],
+    "category": "증빙자료",
+    "keywords": [
+      "증빙자료",
+      "하이패스",
+      "해충모니터링"
+    ]
+  }
+}

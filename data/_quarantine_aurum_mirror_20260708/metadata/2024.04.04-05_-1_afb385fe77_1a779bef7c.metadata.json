@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.04.04-05_-1_afb385fe77.txt",
+  "source_name": "2024.04.04-05_-1_afb385fe77.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:28:37+09:00",
+  "processed_at": "2026-06-29T17:30:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2024.04.04-05_-1_afb385fe77_1a779bef7c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2024.04.04-05_-1_afb385fe77_1a779bef7c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 4월 4일부터 5일까지 촬영된 진천 초평 지역의 식생 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "파일 크기는 632,875 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천 초평",
+      "식생",
+      "야장"
+    ]
+  }
+}

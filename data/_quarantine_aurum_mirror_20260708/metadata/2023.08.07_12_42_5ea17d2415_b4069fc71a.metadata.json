@@ -1,0 +1,40 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2023.08.07_12_42_5ea17d2415.txt",
+  "source_name": "2023.08.07_12_42_5ea17d2415.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:50:40+09:00",
+  "processed_at": "2026-06-22T23:51:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2023.08.07_12_42_5ea17d2415_b4069fc71a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2023.08.07_12_42_5ea17d2415_b4069fc71a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "음성천",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#2023.08.07"
+    ],
+    "summary": "2023년 8월 7일 12시 42분에 촬영된 영수증 이미지. 크기: 272954바이트, 해상도: 865x1695, 형식: JPEG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2023년 8월 7일 12시 42분에 촬영된 영수증 이미지",
+      "JPEG 형식, RGB 모드, 865x1695 픽셀 크기",
+      "파일 크기는 272,954 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "이미지",
+      "JPEG"
+    ]
+  }
+}

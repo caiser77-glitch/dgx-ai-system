@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 무인카메라, 사진, Prometheus
+● 3줄 요약:
+- 2025년 8월 14일에 촬영된 무인카메라 사진
+- Prometheus BTC-5PXD 카메라로 촬영
+- 해상도 6528x3680, RGB 모드, MPO 포맷
+=========================================
+source_name: IMG_2761.JPG
+source_type: jpg
+size_bytes: 6049649
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/무인카메라 및 송메타/3-2(25.06.17-09.08)/IMG_2761.JPG
+width: 6528
+height: 3680
+mode: RGB
+format: MPO
+datetime_taken: 2025:08:14 16:51:12
+camera_make: Prometheus
+camera_model: BTC-5PXD

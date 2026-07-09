@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 우주센터-08000, 환경영향조사, 저감방안
+● 3줄 요약:
+- 우주센터-08000 프로젝트의 환경 영향 저감 방안 보고서입니다.
+- 사후 환경 영향 조사 내용을 포함하고 있습니다.
+- 파일 크기는 약 15.6MB이며 데이터 추출 과정에서 오류가 확인되었습니다.
+=========================================
+source_name: 우주센터-08000(환경에 미치는 영향의 저감방안 및 사후환경영향조사(총괄)).pdf
+source_type: pdf
+size_bytes: 15591712
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/우주센터-08000(환경에 미치는 영향의 저감방안 및 사후환경영향조사(총괄))_pages_1_taxa.xlsx' (found at least ' ')

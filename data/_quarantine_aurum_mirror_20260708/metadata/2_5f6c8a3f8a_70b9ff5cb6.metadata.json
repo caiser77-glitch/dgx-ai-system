@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_5f6c8a3f8a.txt",
+  "source_name": "2_5f6c8a3f8a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:19:31+09:00",
+  "processed_at": "2026-06-23T20:20:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_5f6c8a3f8a_70b9ff5cb6.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_5f6c8a3f8a_70b9ff5cb6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "오천항 정비공사 사후",
+    "class_name": "고양이",
+    "tags": [
+      "#고양이",
+      "#Panasonic",
+      "#DC-TZ99"
+    ],
+    "summary": "2026년 3월 19일 오천항 정비공사 사후 남이에서 촬영된 고양이 사진. Panasonic DC-TZ99 카메라로 촬영.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 19일 오전 3시 15분 37초에 촬영된 고양이 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, GPS 좌표는 위도 36.439364, 경도 126.523475",
+      "JPEG 형식, RGB 모드, 1124x843 해상도, 파일 크기 943,889 바이트"
+    ],
+    "category": "사진",
+    "keywords": [
+      "고양이",
+      "Panasonic DC-TZ99",
+      "GPS 좌표"
+    ]
+  }
+}

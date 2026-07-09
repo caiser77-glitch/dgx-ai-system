@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/08_1e882f2eb0.4.csv",
+  "source_name": "08_1e882f2eb0.4.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:41:54+09:00",
+  "processed_at": "2026-07-08T11:42:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0.4_9875c0c615.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/08_1e882f2eb0.4_9875c0c615.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0.4_9875c0c615.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "가배수로의 수량 집계 및 연장 산출을 위한 데이터 파일입니다.",
+      "총 10개의 행으로 구성된 CSV 형식의 문서입니다.",
+      "가배수로 관련 수량 산출 내역을 포함하고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "가배수로",
+      "수량 집계",
+      "연장 산출"
+    ]
+  }
+}

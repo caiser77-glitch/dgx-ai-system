@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 파일 크기, OCR 오류
+● 3줄 요약:
+- 문서 '07210(기상).pdf'는 PDF 형식으로, 크기가 32,391,900 바이트입니다.
+- 내용 추출이 지원되지 않는 파일 유형으로 표시되었습니다.
+- OCR 처리 중 HTTP 500 에러가 발생하여 서버 내부 오류를 겪었습니다.
+=========================================
+source_name: (본안)07210(기상).pdf
+source_type: pdf
+size_bytes: 32391900
+content_extraction: unsupported_file_type
+ocr_error: HTTP Error 500: Internal Server Error

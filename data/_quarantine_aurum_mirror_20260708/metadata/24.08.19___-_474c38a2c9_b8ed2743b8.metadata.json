@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/24.08.19___-_474c38a2c9.txt",
+  "source_name": "24.08.19___-_474c38a2c9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:43:35+09:00",
+  "processed_at": "2026-07-08T13:43:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/24.08.19___-_474c38a2c9_b8ed2743b8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/24.08.19___-_474c38a2c9_b8ed2743b8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "진천조평산단 육수 현지조사 데이터에 대한 분석 결과입니다.",
+      "파일 크기는 약 2MB이며 OCR 처리 과정에서 오류가 발생했습니다.",
+      "파일 경로 내 공백 포함으로 인해 URL 처리에 문제가 확인되었습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천조평산단",
+      "육수",
+      "현지조사"
+    ]
+  }
+}

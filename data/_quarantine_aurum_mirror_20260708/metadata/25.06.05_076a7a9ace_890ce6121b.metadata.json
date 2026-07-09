@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/25.06.05_076a7a9ace.txt",
+  "source_name": "25.06.05_076a7a9ace.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:54:50+09:00",
+  "processed_at": "2026-06-23T19:55:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/25.06.05_076a7a9ace_890ce6121b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/25.06.05_076a7a9ace_890ce6121b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "토지이용계획, 유치업종계획, 인구",
+    "class_name": "토지이용계획, 유치업종계획, 인구",
+    "tags": [
+      "#토지이용계획",
+      "#유치업종계획",
+      "#인구"
+    ],
+    "summary": "토지이용계획, 유치업종계획, 인구 관련 자료의 압축 파일입니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획, 유치업종계획, 인구에 관한 ZIP 파일입니다.",
+      "파일 크기는 약 39MB이며, 내용 추출이 지원되지 않는 형식입니다.",
+      "파일 내부의 구체적인 내용은 확인되지 않았습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용계획",
+      "유치업종계획",
+      "인구"
+    ]
+  }
+}

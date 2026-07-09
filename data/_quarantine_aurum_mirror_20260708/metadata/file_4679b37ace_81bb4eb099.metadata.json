@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4679b37ace.txt",
+  "source_name": "file_4679b37ace.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:37+09:00",
+  "processed_at": "2026-07-08T13:51:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4679b37ace_81bb4eb099.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4679b37ace_81bb4eb099.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일(하이패스.png)에 대한 메타데이터 정보입니다.",
+      "파일 경로는 도로건설공사 관련 야장 및 영수증 폴더 내 1분기 자료로 분류됩니다.",
+      "이미지 규격은 439x311 해상도의 RGB 모드 PNG 파일임을 나타냅니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "하이패스",
+      "영수증",
+      "메타데이터"
+    ]
+  }
+}

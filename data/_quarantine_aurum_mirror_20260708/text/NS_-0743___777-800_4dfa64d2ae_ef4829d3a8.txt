@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 파일 크기, OCR 오류
+● 3줄 요약:
+- PDF 파일 'NS(본안)-0743(지형지질)_(777-800).pdf'의 크기는 5,942,264 바이트입니다.
+- 파일 내용 추출이 지원되지 않는 파일 유형입니다.
+- OCR 처리 중 인코딩 오류가 발생하여 데이터 추출에 실패했습니다.
+=========================================
+source_name: NS(본안)-0743(지형지질)_(777-800).pdf
+source_type: pdf
+size_bytes: 5942264
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 16-17: ordinal not in range(128)

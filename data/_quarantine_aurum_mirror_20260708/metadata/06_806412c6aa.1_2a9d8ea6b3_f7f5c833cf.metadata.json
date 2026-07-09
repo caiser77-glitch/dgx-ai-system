@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/06_806412c6aa.1_2a9d8ea6b3.txt",
+  "source_name": "06_806412c6aa.1_2a9d8ea6b3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:34:02+09:00",
+  "processed_at": "2026-07-08T11:34:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/06_806412c6aa.1_2a9d8ea6b3_f7f5c833cf.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/06_806412c6aa.1_2a9d8ea6b3_f7f5c833cf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "80개의 행으로 구성된 CSV 파일 분석 결과입니다.",
+      "총괄 자재 집계표 정보를 포함하고 있습니다.",
+      "열 정보의 부족으로 인해 상세 내용 파악에는 한계가 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "CSV",
+      "자재",
+      "집계표"
+    ]
+  }
+}

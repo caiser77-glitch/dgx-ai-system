@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039367_3c78522cda.txt",
+  "source_name": "R0039367_3c78522cda.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:53:26+09:00",
+  "processed_at": "2026-07-08T14:53:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039367_3c78522cda_1aa1d9149e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039367_3c78522cda_1aa1d9149e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.",
+      "2026년 1월 9일 오전 9시 56분에 촬영된 RGB 모드의 MPO 형식 파일입니다.",
+      "파일 경로는 안성테크노 세일 관련 현장 사진 저장 경로를 포함하고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "RICOH WG-6",
+      "촬영 정보"
+    ]
+  }
+}

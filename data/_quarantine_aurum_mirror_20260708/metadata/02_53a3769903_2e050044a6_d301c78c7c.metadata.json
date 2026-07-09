@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02_53a3769903_2e050044a6.txt",
+  "source_name": "02_53a3769903_2e050044a6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:29:14+09:00",
+  "processed_at": "2026-07-08T11:29:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_53a3769903_2e050044a6_d301c78c7c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_53a3769903_2e050044a6_d301c78c7c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "재대행 계약 승인신청서 관련 문서입니다.",
+      "파일 형식이 hwp로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "문서 크기는 3,590,656 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "재대행",
+      "계약",
+      "승인신청서"
+    ]
+  }
+}

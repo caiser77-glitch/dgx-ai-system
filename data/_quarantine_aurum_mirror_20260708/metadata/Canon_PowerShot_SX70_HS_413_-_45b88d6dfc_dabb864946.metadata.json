@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_413_-_45b88d6dfc.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_413_-_45b88d6dfc.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T23:41:56+09:00",
+  "processed_at": "2026-06-23T23:43:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_413_-_45b88d6dfc_dabb864946.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_413_-_45b88d6dfc_dabb864946.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "수달",
+    "tags": [
+      "#수달",
+      "#배설물",
+      "#Canon_PowerShot_SX70_HS"
+    ],
+    "summary": "2025년 3월 25일, 고흥 산단에서 촬영된 수달 배설물 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 25일에 촬영된 수달 배설물 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, 해상도 5184x3888, RGB 모드",
+      "GPS 좌표: 위도 34.442395, 경도 127.482155"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "수달",
+      "배설물",
+      "GPS"
+    ]
+  }
+}

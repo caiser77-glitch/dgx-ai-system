@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_0200_28c63de69d.txt",
+  "source_name": "-_0200_28c63de69d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:14:40+09:00",
+  "processed_at": "2026-07-08T13:14:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_0200_28c63de69d_8e1f11a69d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_0200_28c63de69d_8e1f11a69d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "(충주-본안)0200+사업의개요.pdf 파일에 대한 문서 정보입니다.",
+      "파일 크기는 약 8.7MB이며 PDF 형식으로 구성되어 있습니다.",
+      "OCR 처리 과정에서 특정 위치의 문자를 인코딩하지 못하는 오류가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "OCR 오류",
+      "파일 크기"
+    ]
+  }
+}

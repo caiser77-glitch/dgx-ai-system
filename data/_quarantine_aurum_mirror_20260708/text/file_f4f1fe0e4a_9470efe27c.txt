@@ -1,0 +1,11 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 우주발사체 국가산단 환경영향평가 초안 의견 관련 자료협조 요청.pdf
+source_type: pdf
+size_bytes: 103253
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/우주발사체 국가산단 환경영향평가 초안 의견 관련 자료협조 요청_pages_1_taxa.xlsx' (found at least ' ')

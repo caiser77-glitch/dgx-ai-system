@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_870_-_a40940c0c1.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_870_-_a40940c0c1.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T05:26:51+09:00",
+  "processed_at": "2026-06-24T05:28:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_870_-_a40940c0c1_b865562db5.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_870_-_a40940c0c1_b865562db5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2025년 3월 26일에 촬영된 도마뱀 사진\nCanon PowerShot SX70 HS 카메라로 촬영\n사진 크기: 5184x3888, RGB 모드, MPO 형식",
+    "tags": [
+      "#도마뱀",
+      "#Canon PowerShot SX70 HS",
+      "#2025년 3월 26일"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 26일에 촬영된 도마뱀 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영",
+      "사진 크기: 5184x3888, RGB 모드, MPO 형식"
+    ],
+    "category": "사진",
+    "keywords": [
+      "도마뱀",
+      "Canon PowerShot SX70 HS",
+      "2025년 3월 26일"
+    ]
+  }
+}

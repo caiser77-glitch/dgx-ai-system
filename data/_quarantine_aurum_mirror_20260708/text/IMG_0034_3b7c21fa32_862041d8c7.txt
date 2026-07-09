@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 고흥 산단, 무인카메라, 날짜 오류
+● 3줄 요약:
+- 2020년 1월 2일에 촬영된 고흥 산단 무인카메라 사진
+- BROWNING BTC-8E 카메라로 촬영, 해상도 4608x2592, RGB 모드
+- 날짜 오류가 발생한 사진으로 분류
+=========================================
+source_name: IMG_0034.JPG
+source_type: jpg
+size_bytes: 2751264
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/무인카메라 및 송메타/날짜 오류난 거/IMG_0034.JPG
+width: 4608
+height: 2592
+mode: RGB
+format: MPO
+datetime_taken: 2020:01:02 18:33:05
+camera_make: BROWNING
+camera_model: BTC-8E

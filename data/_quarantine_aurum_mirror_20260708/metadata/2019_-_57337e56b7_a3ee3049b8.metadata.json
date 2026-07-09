@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2019_-_57337e56b7.txt",
+  "source_name": "2019_-_57337e56b7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:56+09:00",
+  "processed_at": "2026-07-08T13:46:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2019_-_57337e56b7_a3ee3049b8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2019_-_57337e56b7_a3ee3049b8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2019년 진천 지역의 곤충 관련 데이터를 담은 PDF 문서입니다.",
+      "파일 크기는 약 1.46MB이며, 파일 경로 내 제어 문자로 인해 오류가 발생했습니다.",
+      "OCR 처리 과정에서 URL 오류로 인해 콘텐츠 추출이 지원되지 않았습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "진천",
+      "곤충",
+      "PDF"
+    ]
+  }
+}

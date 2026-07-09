@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 얼록동사리, RICOH WG-6, 군포 대야미
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 얼록동사리 사진 데이터입니다.
+- 2026년 3월 6일 오전 10시 48분에 촬영되었습니다.
+- 군포 대야미 유과 지역의 현장 조사 이미지 파일입니다.
+=========================================
+source_name: R0039756 얼록동사리.JPG
+source_type: jpg
+size_bytes: 2151660
+path: /mnt/dgxbackup/2026 KCI/군포대야미/02. 사진/03.06/유과/R0039756 얼록동사리.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:06 10:48:35
+camera_make: RICOH
+camera_model: RICOH WG-6

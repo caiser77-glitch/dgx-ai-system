@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_0449_435c845207.txt",
+  "source_name": "DJI_0449_435c845207.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T08:46:18+09:00",
+  "processed_at": "2026-06-24T08:47:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DJI_0449_435c845207_08cbb0bbcc.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DJI_0449_435c845207_08cbb0bbcc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "드론영상",
+    "summary": "DJI 드론 카메라로 촬영된 고화질 이미지\n2025년 2월 7일 16시 51분 44초에 촬영됨\nGPS 좌표: 위도 34.441195, 경도 127.48591",
+    "tags": [
+      "#DJI",
+      "#드론",
+      "#GPS"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "DJI 드론 카메라로 촬영된 고화질 이미지",
+      "2025년 2월 7일 16시 51분 44초에 촬영됨",
+      "GPS 좌표: 위도 34.441195, 경도 127.48591"
+    ],
+    "category": "드론영상",
+    "keywords": [
+      "DJI",
+      "드론",
+      "GPS"
+    ]
+  }
+}

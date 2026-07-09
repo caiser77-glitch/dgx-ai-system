@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01.__25.09.09_9749dc5ac2.txt",
+  "source_name": "01.__25.09.09_9749dc5ac2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:15+09:00",
+  "processed_at": "2026-07-08T12:05:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01.__25.09.09_9749dc5ac2_4d5a413dda.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01.__25.09.09_9749dc5ac2_4d5a413dda.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경영향평가서 초안에 대한 검토의견 조치계획 문서",
+      "2025년 9월 9일 작성된 참고자료",
+      "hwp 파일 형식으로 현재 콘텐츠 추출이 지원되지 않음"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "환경영향평가서",
+      "초안검토",
+      "조치계획"
+    ]
+  }
+}

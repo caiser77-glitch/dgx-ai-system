@@ -1,0 +1,4 @@
+source_name: 03-설계도면(토목).zip
+source_type: zip
+size_bytes: 275619833
+content_extraction: unsupported_file_type

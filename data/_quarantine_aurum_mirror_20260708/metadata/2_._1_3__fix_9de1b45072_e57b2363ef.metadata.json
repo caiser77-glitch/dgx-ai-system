@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_._1_3__fix_9de1b45072.txt",
+  "source_name": "2_._1_3__fix_9de1b45072.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:58:39+09:00",
+  "processed_at": "2026-07-08T11:58:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_._1_3__fix_9de1b45072_e57b2363ef.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_._1_3__fix_9de1b45072_e57b2363ef.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2공구의 훼손면적에 대한 공사계획 평면도를 초안과 본안, 1~3안까지 비교한 자료입니다.",
+      "각 계획안별로 발생하는 훼손면적의 차이를 시각적으로 확인할 수 있습니다.",
+      "공사 계획 수립 및 결정 과정에서 중요한 참고자료로 활용될 예정입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "훼손면적",
+      "공사계획",
+      "평면도"
+    ]
+  }
+}

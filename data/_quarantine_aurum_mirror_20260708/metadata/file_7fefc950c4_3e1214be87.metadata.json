@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_7fefc950c4.txt",
+  "source_name": "file_7fefc950c4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:49+09:00",
+  "processed_at": "2026-07-08T13:49:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_7fefc950c4_3e1214be87.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_7fefc950c4_3e1214be87.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 파일은 '숨편한 힐링숲 진입도로' 지역의 양서류 관련 조사 자료입니다.",
+      "이미지 파일(JPG) 형식으로 현장 야장에서 작성된 기록물로 추정됩니다.",
+      "파일 경로는 2026 KCI 프로젝트의 야장 및 영수증 관리 폴더에 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "숨편한 힐링숲",
+      "진입도로",
+      "양서류"
+    ]
+  }
+}

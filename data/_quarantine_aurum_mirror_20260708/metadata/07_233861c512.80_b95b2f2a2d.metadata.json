@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/07_233861c512.80.csv",
+  "source_name": "07_233861c512.80.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:41:29+09:00",
+  "processed_at": "2026-07-08T11:41:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512.80_b95b2f2a2d.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/07_233861c512.80_b95b2f2a2d.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512.80_b95b2f2a2d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "소형고압블럭(T80) 제품의 단위 수량 데이터를 포함한 CSV 파일입니다.",
+      "총 40개의 행으로 구성된 데이터셋을 보유하고 있습니다.",
+      "자재 규격 및 수량 관리를 위한 기초 자료로 판단됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "소형고압블럭(T80)",
+      "단위수량",
+      "자재데이터"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_._1_3__fix_19dfb70508.txt",
+  "source_name": "2_._1_3__fix_19dfb70508.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:58:35+09:00",
+  "processed_at": "2026-07-08T11:58:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_._1_3__fix_19dfb70508_1a360971f9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_._1_3__fix_19dfb70508_1a360971f9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2공구의 훼손면적 비교를 위한 공사계획평면도 초안 및 본안 1~3안이 포함된 데이터입니다.",
+      "각 안별로 훼손면적을 비교할 수 있는 상세 데이터가 제공됩니다.",
+      "총 20개의 행과 6개의 열로 구성되어 면적 비교 분석에 활용 가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "훼손면적",
+      "공사계획평면도",
+      "비교"
+    ]
+  }
+}

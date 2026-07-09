@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-09110_b6607e55d6.txt",
+  "source_name": "-09110_b6607e55d6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:00:20+09:00",
+  "processed_at": "2026-07-08T12:00:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-09110_b6607e55d6_396f52e1c1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-09110_b6607e55d6_396f52e1c1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역 동식물상 조사를 위한 진입도로 대안 통일 필요성을 다룸",
+      "파일 형식 미지원으로 인해 상세 내용 추출이 불가능함",
+      "정확한 분석을 위해 원본 파일 확인이 필요함"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥",
+      "동식물상",
+      "진입도로"
+    ]
+  }
+}

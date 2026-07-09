@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 확장공사, 진입도로, 힐링숲
+● 3줄 요약:
+- 숨편한 힐링숲의 진입도로 확장공사에 관한 내용을 다루는 보고서입니다.
+- 파일 크기는 약 6.2MB이며, OCR 처리 과정에서 오류가 발생하였습니다.
+- 파일명 내 공백 및 특수문자로 인해 URL 처리 문제가 확인되었습니다.
+=========================================
+source_name: 보고서(숨편한 힐링숲(숲속야영장) 진입도로 확장공사).pdf
+source_type: pdf
+size_bytes: 6224447
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/보고서(숨편한 힐링숲(숲속야영장) 진입도로 확장공사)_pages_1_taxa.xlsx' (found at least ' ')

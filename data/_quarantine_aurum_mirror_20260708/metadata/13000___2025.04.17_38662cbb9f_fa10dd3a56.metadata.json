@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/13000___2025.04.17_38662cbb9f.txt",
+  "source_name": "13000___2025.04.17_38662cbb9f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:57+09:00",
+  "processed_at": "2026-07-08T12:15:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/13000___2025.04.17_38662cbb9f_fa10dd3a56.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/13000___2025.04.17_38662cbb9f_fa10dd3a56.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "호미반도 관련 부록 문서",
+      "2025년 4월 17일 작성",
+      "파일 크기: 64,378,368 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "호미반도",
+      "부록",
+      "2025"
+    ]
+  }
+}

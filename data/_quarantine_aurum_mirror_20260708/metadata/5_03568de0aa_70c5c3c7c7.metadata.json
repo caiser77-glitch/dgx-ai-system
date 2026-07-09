@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_03568de0aa.txt",
+  "source_name": "5_03568de0aa.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:33+09:00",
+  "processed_at": "2026-07-08T12:16:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_03568de0aa_70c5c3c7c7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_03568de0aa_70c5c3c7c7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '5. 기본계획.hwp'는 지원되지 않는 파일 유형으로 내용 추출이 불가능합니다.",
+      "파일 크기는 286,736,384 바이트입니다.",
+      "문서의 실제 내용에 대한 정보는 제공할 수 없습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "기본계획",
+      "hwp",
+      "지원되지 않는 파일 유형"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/08_1e882f2eb0.8_ea0c55b2e1.txt",
+  "source_name": "08_1e882f2eb0.8_ea0c55b2e1.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:51:07+09:00",
+  "processed_at": "2026-07-01T11:51:07+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/08_1e882f2eb0.8_ea0c55b2e1.txt",
+    "return_code": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02_2_dcef0c7648.txt",
+  "source_name": "02_2_dcef0c7648.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:48+09:00",
+  "processed_at": "2026-07-08T12:16:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_2_dcef0c7648_9c1f0d235a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_2_dcef0c7648_9c1f0d235a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "평택제2첨단복합일반산업단지의 조경 계획설명서에 대한 정보 제공",
+      "문서 크기는 약 222MB로 대용량 파일임",
+      "파일 형식 지원 불가로 인해 상세 내용 추출이 불가능함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "평택제2첨단복합일반산업단지",
+      "계획설명서",
+      "조경"
+    ]
+  }
+}

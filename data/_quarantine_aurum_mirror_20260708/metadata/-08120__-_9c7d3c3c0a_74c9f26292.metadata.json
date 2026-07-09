@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-08120__-_9c7d3c3c0a.txt",
+  "source_name": "-08120__-_9c7d3c3c0a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:51+09:00",
+  "processed_at": "2026-07-08T12:10:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-08120__-_9c7d3c3c0a_74c9f26292.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-08120__-_9c7d3c3c0a_74c9f26292.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역의 자연환경자산에 대한 편집 완료 초안 문서입니다.",
+      "파일 형식은 HWP이며 파일 크기는 약 11.3MB입니다.",
+      "지원되지 않는 파일 유형으로 인해 상세 내용 추출이 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥",
+      "자연환경자산",
+      "HWP"
+    ]
+  }
+}

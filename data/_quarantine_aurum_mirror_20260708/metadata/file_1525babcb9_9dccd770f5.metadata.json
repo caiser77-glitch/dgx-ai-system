@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_1525babcb9.txt",
+  "source_name": "file_1525babcb9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:25+09:00",
+  "processed_at": "2026-07-08T13:54:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_1525babcb9_9dccd770f5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_1525babcb9_9dccd770f5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "호미반도 산림복지단지 조경설계 관련 워터터널 이미지 파일",
+      "빛공해 저감방안 설계도면의 일부로 포함된 시각 자료",
+      "이미지 형식(JPEG) 및 해상도 정보를 포함한 파일 데이터"
+    ],
+    "category": "기타",
+    "keywords": [
+      "워터터널",
+      "조경설계",
+      "호미반도"
+    ]
+  }
+}

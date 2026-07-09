@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_18072217b9.txt",
+  "source_name": "file_18072217b9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T09:36:50+09:00",
+  "processed_at": "2026-07-06T09:37:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_18072217b9_0a2b390ed9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_18072217b9_0a2b390ed9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '사업지구내 녹지면적'은 HWP 파일 형식으로 제공되었습니다.",
+      "파일 크기는 31,232 바이트입니다.",
+      "현재 시스템에서는 HWP 파일의 내용 추출을 지원하지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "HWP",
+      "녹지면적",
+      "사업지구"
+    ]
+  }
+}

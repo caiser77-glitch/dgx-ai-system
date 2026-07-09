@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/05_05130e0fef.2.csv",
+  "source_name": "05_05130e0fef.2.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:28+09:00",
+  "processed_at": "2026-07-08T11:43:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05_05130e0fef.2_dcc38efc76.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/05_05130e0fef.2_dcc38efc76.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05_05130e0fef.2_dcc38efc76.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "L형옹벽 단위수량에 관한 데이터를 포함한 CSV 형식의 문서입니다.",
+      "총 122개의 행(row)으로 구성되어 있으며 데이터 구조를 나타냅니다.",
+      "상세 수치 데이터가 포함된 공사 또는 토목 관련 자료로 추정됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "L형옹벽",
+      "단위수량",
+      "CSV데이터"
+    ]
+  }
+}

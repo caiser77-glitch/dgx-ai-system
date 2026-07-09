@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0900_abc453d5fc.txt",
+  "source_name": "0900_abc453d5fc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:35+09:00",
+  "processed_at": "2026-07-08T11:47:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0900_abc453d5fc_f23c446eeb.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0900_abc453d5fc_f23c446eeb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '0900 만흥 소하천'에 대한 부록 자료입니다.",
+      "파일 형식은 hwpx로, 현재 지원되지 않는 파일 유형입니다.",
+      "문서의 크기는 약 69MB입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "만흥 소하천",
+      "부록",
+      "hwpx"
+    ]
+  }
+}

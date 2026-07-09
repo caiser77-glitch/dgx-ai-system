@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-00000_389b26d779.txt",
+  "source_name": "-00000_389b26d779.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:06+09:00",
+  "processed_at": "2026-07-08T12:10:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-00000_389b26d779_84c74623a8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-00000_389b26d779_84c74623a8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역 관련 초안 문서로 표지, 세네카, 목차를 포함하고 있습니다.",
+      "파일 크기는 114,688 바이트이며 hwp 형식의 파일입니다.",
+      "내용 추출이 지원되지 않는 파일 유형으로 구체적인 내용은 확인되지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "초안",
+      "고흥",
+      "hwp"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05866_91c5c6f7bb.txt",
+  "source_name": "DSC05866_91c5c6f7bb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T13:05:40+09:00",
+  "processed_at": "2026-06-30T13:08:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/DSC05866_91c5c6f7bb_aea5286afa.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/DSC05866_91c5c6f7bb_aea5286afa.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 울산 온산국가산업단지 박부 지역의 곤충과 청개구리 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336, RGB 모드, MPO 포맷",
+      "파일 크기 43,909,120 바이트, 경로는 /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/1차조사 25.07.28-30/박부 (곤충, 청개구리)/DSC05866.JPG"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "울산 온산국가산업단지",
+      "박부",
+      "곤충",
+      "청개구리",
+      "SONY ILCE-7RM4"
+    ]
+  }
+}

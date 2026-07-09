@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 해오라기, Canon PowerShot SX70 HS, GPS 좌표
+● 3줄 요약:
+- 2026년 1월 16일에 촬영된 해오라기 사진
+- Canon PowerShot SX70 HS 카메라로 촬영
+- GPS 좌표: 위도 35.217217, 경도 126.857712
+=========================================
+source_name: IMG_1897-해오라기.JPG
+source_type: jpg
+size_bytes: 6268233
+path: /mnt/dgxbackup/2026 이산/광주도시철도/02. 사진/2026.01.15-16/IMG_1897-해오라기.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:01:16 13:20:16
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.217217
+gps_lon: 126.857712

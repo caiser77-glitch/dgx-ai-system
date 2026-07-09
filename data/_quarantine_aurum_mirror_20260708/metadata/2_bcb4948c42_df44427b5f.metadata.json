@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_bcb4948c42.txt",
+  "source_name": "2_bcb4948c42.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:35:50+09:00",
+  "processed_at": "2026-06-23T20:36:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_bcb4948c42_df44427b5f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_bcb4948c42_df44427b5f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "포유류",
+    "tags": [
+      "#포유류",
+      "#두더지",
+      "#경북경산"
+    ],
+    "summary": "두더지 사진, 크기 589141바이트, 1024x768 RGB JPEG 형식",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "두더지 사진, 해상도 1024x768, RGB 모드, JPEG 형식",
+      "파일 크기 589,141 바이트, 경북 경산에서 촬영",
+      "2025년 11월 17일 포유류 관찰 결과"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "두더지",
+      "포유류",
+      "경북 경산"
+    ]
+  }
+}

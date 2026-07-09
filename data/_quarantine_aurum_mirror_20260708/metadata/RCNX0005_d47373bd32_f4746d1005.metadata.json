@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/RCNX0005_d47373bd32.txt",
+  "source_name": "RCNX0005_d47373bd32.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:19:28+09:00",
+  "processed_at": "2026-07-08T09:19:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/RCNX0005_d47373bd32_f4746d1005.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/RCNX0005_d47373bd32_f4746d1005.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 온산국가산업단지 내 무인카메라로 촬영된 이미지 데이터입니다.",
+      "RECONYX HYPERFIRE 2 모델을 사용하여 2025년 10월 24일에 촬영되었습니다.",
+      "4차 조사(2026.03.18-20) 과정 중 상단부 위치에서 수집된 사진 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "울산 온산국가산업단지",
+      "무인카메라",
+      "RECONYX"
+    ]
+  }
+}

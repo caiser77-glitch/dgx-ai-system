@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11.1.1.1_d3abe7ff5b.txt",
+  "source_name": "11.1.1.1_d3abe7ff5b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:08:23+09:00",
+  "processed_at": "2026-07-08T12:08:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11.1.1.1_d3abe7ff5b_d6e8c8f0e5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11.1.1.1_d3abe7ff5b_d6e8c8f0e5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "동·식물상에 관한 PDF 파일의 데이터 처리 결과입니다.",
+      "OCR 과정에서 URL 내 제어 문자 포함으로 인한 오류가 발생했습니다.",
+      "파일 이름의 공백 문자가 처리에 문제를 일으킨 것으로 분석됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "동·식물상",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

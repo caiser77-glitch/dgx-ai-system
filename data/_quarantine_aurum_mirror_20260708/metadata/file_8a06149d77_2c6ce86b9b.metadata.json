@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_8a06149d77.txt",
+  "source_name": "file_8a06149d77.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:53:49+09:00",
+  "processed_at": "2026-07-08T11:53:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_8a06149d77_2c6ce86b9b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_8a06149d77_2c6ce86b9b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "새로운 스프레드시트 문서에 6개의 행과 6개의 열이 포함되어 있습니다.",
+      "문서는 'Sheet1' 시트에서 시작됩니다.",
+      "데이터의 구체적인 내용은 제공되지 않았습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "스프레드시트",
+      "Sheet1",
+      "행렬"
+    ]
+  }
+}

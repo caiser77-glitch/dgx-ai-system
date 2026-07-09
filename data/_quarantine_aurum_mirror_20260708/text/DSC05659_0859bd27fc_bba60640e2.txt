@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 울산 온산국가산업단지, 박부, 곤충, 청개구리, SONY ILCE-7RM4
+● 3줄 요약:
+- 2025년 7월 29일에 촬영된 울산 온산국가산업단지 박부 지역의 곤충 및 청개구리 사진
+- SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336, RGB 모드, MPO 포맷
+- 파일 크기 28,770,304 바이트, 1차 조사 기간(2025.07.28-30)에 촬영된 사진
+=========================================
+source_name: DSC05659.JPG
+source_type: jpg
+size_bytes: 28770304
+path: /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/1차조사 25.07.28-30/박부 (곤충, 청개구리)/DSC05659.JPG
+width: 9504
+height: 6336
+mode: RGB
+format: MPO
+datetime_taken: 2025:07:29 08:49:36
+camera_make: SONY
+camera_model: ILCE-7RM4

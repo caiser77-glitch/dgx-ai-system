@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_72e1e6d25a.txt",
+  "source_name": "file_72e1e6d25a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:38+09:00",
+  "processed_at": "2026-07-08T13:52:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_72e1e6d25a_b4c664635e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_72e1e6d25a_b4c664635e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 파일은 호미반도 산림복지단지 조경설계 관련 이미지 데이터입니다.",
+      "부엉이 티핑버켓의 형상을 포함한 시각적 자료로 추정됩니다.",
+      "조경 설계 도면(DWG) 경로 내에 저장된 JPEG 형식의 이미지 파일입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "부엉이 티핑버켓",
+      "호미반도 산림복지단지",
+      "조경설계"
+    ]
+  }
+}

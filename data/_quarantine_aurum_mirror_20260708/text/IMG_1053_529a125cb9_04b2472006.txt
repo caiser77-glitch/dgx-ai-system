@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 파일, MPO 형식, OCR 오류
+● 3줄 요약:
+- IMG_1053.JPG는 4771323 바이트 크기의 MPO 형식 이미지 파일입니다.
+- 이미지는 RGB 모드로, 해상도는 5184x3888 픽셀입니다.
+- OCR 처리 시 서버 내부 오류가 발생하여 텍스트 인식이 실패했습니다.
+=========================================
+source_name: IMG_1053.JPG
+source_type: jpg
+size_bytes: 4771323
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

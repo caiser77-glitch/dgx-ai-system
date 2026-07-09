@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 장비
+● 핵심 키워드: 푸른부전나비, 이미지, OCR 오류
+● 3줄 요약:
+- 푸른부전나비 사진 파일의 크기와 해상도 정보 제공
+- JPEG 형식, RGB 모드로 저장된 이미지
+- OCR 처리 시 서버 오류 발생
+=========================================
+source_name: [크기변환]IMG_1020-푸른부전나비.JPG
+source_type: jpg
+size_bytes: 928472
+width: 2592
+height: 1944
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_60cdd353b0.txt",
+  "source_name": "1_60cdd353b0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:14:08+09:00",
+  "processed_at": "2026-06-29T17:15:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_60cdd353b0_f716f6d8b2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_60cdd353b0_f716f6d8b2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "1분기 시작 이미지 파일에 대한 메타데이터 제공",
+      "OCR 처리 시 서버 에러 발생",
+      "파일 크기, 해상도, 색상 모드 및 형식 정보 포함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "메타데이터",
+      "OCR 에러",
+      "JPEG"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 데이터 부재, OCR 오류, 파일 정보
+● 3줄 요약:
+- 제공된 문서 데이터에 실제 내용이 포함되어 있지 않습니다.
+- 파일 정보(이미지 크기, 형식 등)만 존재하며 OCR 오류가 발생했습니다.
+- 분석할 수 있는 텍스트 데이터가 부재하여 요약이 불가능합니다.
+=========================================
+source_name: R0060429.JPG
+source_type: jpg
+size_bytes: 83224
+width: 400
+height: 300
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN2081_d7057f62a0.txt",
+  "source_name": "DSCN2081_d7057f62a0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T04:22:22+09:00",
+  "processed_at": "2026-06-25T04:24:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSCN2081_d7057f62a0_b9ec4223df.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSCN2081_d7057f62a0_b9ec4223df.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 11월 17일 경산 도로 확장 프로젝트에서 촬영된 사진\nNIKON COOLPIX AW100s 카메라로 촬영, GPS 좌표: 35.769033, 128.824607\n사진 크기: 4608x3456, 파일 크기: 3607735 바이트",
+    "tags": [
+      "#경산도로확장",
+      "#현장조사",
+      "#NIKON COOLPIX AW100s"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일 경산 도로 확장 프로젝트에서 촬영된 사진",
+      "NIKON COOLPIX AW100s 카메라로 촬영, GPS 좌표: 35.769033, 128.824607",
+      "사진 크기: 4608x3456, 파일 크기: 3607735 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "경산도로확장",
+      "현장조사",
+      "NIKON COOLPIX AW100s"
+    ]
+  }
+}

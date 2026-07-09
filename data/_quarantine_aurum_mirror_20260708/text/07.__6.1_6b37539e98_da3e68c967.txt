@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 학곤내 소하천, 자연생태환경, 정비사업
+● 3줄 요약:
+- 학곤내 소하천 정비사업 관련 자연생태환경 문서입니다.
+- PDF 파일 크기는 약 9.8MB입니다.
+- OCR 처리 오류로 인해 상세 내용 추출이 불가능합니다.
+=========================================
+source_name: 07. 학곤내 소하천 정비사업_6.1 자연생태환경.pdf
+source_type: pdf
+size_bytes: 9824869
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/07. 학곤내 소하천 정비사업_6.1 자연생태환경_pages_1_taxa.xlsx' (found at least ' ')

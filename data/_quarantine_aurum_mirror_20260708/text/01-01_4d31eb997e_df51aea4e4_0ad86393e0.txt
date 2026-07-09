@@ -1,0 +1,49 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 01-01 토공내역.xlsx
+source_type: xlsx
+sheet: 간지1, rows: 6, columns: 3
+sheet: 내역서적용수량, rows: 65, columns: 5
+sheet: 간지2, rows: 6, columns: 3
+sheet: 토공총괄표, rows: 39, columns: 7
+sheet: 지구내토공집계, rows: 29, columns: 25
+sheet: 토공유용계획, rows: 23, columns: 10
+sheet: 총괄토적집계표, rows: 33, columns: 25
+sheet: 구조물잔토집계, rows: 30, columns: 13
+sheet: 간지3, rows: 6, columns: 3
+sheet: 운반거리집계표, rows: 27, columns: 10
+sheet: 무대집계표, rows: 14, columns: 8
+sheet: 1차무대, rows: 34, columns: 5
+sheet: 2차무대, rows: 55, columns: 6
+sheet: 도쟈운반집계, rows: 11, columns: 5
+sheet: 도쟈운반(토사), rows: 43, columns: 7
+sheet: 덤프운반거리집계, rows: 14, columns: 7
+sheet: 덤프운반(토사→성토), rows: 23, columns: 13
+sheet: 간지4, rows: 6, columns: 3
+sheet: 간지5, rows: 6, columns: 16
+sheet: 간지6, rows: 6, columns: 3
+sheet: 간지8, rows: 6, columns: 3
+sheet: 임목폐기물수량 집계, rows: 5, columns: 6
+sheet: 임목폐기물산출, rows: 39, columns: 22
+sheet: 벌개제근수량산출, rows: 15, columns: 4
+sheet: 간지9(X), rows: 6, columns: 3
+sheet: 비옥토수량집계, rows: 6, columns: 7
+sheet: 비옥토적치장단위, rows: 29, columns: 14
+sheet: 비옥토산출조서, rows: 7, columns: 8
+sheet: 비옥토수량산출근거, rows: 26, columns: 5
+sheet: 비탈면보호공집계, rows: 6, columns: 8
+sheet: 비탈면보호산출, rows: 23, columns: 8
+sheet: 간지10, rows: 6, columns: 3
+sheet: 규준틀수량집계, rows: 6, columns: 5
+sheet: 규준틀수량, rows: 19, columns: 14
+sheet: Sheet7, rows: 0, columns: 1
+sheet: 간지9, rows: 6, columns: 16
+sheet: 간지7, rows: 6, columns: 3
+sheet: 마운딩 수량 집계, rows: 8, columns: 5
+sheet: 마운딩산출조서, rows: 19, columns: 4
+sheet: 간지11, rows: 17, columns: 3
+sheet: 임목폐기물산출 (2), rows: 46, columns: 23

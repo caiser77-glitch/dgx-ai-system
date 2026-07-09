@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07000_ea0ad53c41.txt",
+  "source_name": "07000_ea0ad53c41.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:22+09:00",
+  "processed_at": "2026-07-08T13:45:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07000_ea0ad53c41_e6fabe7246.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07000_ea0ad53c41_e6fabe7246.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "연담리 지역의 군관리계획 관련 부록 문서로 정보가림 처리가 적용되었습니다.",
+      "파일 형식은 PDF이며 파일 크기는 약 8.3MB입니다.",
+      "OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "연담리",
+      "군관리계획",
+      "정보가림"
+    ]
+  }
+}

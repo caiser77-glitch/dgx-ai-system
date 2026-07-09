@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 왜가리, 사진, GPS 위치
+● 3줄 요약:
+- 2026년 3월 30일 촬영된 왜가리 사진
+- Canon PowerShot SX70 HS 카메라로 촬영
+- 위치: 위도 36.742348, 경도 126.472953
+=========================================
+source_name: IMG_1090-왜가리.JPG
+source_type: jpg
+size_bytes: 8123020
+path: /mnt/dgxbackup/2026 장맥/서산 남부일반산업단지 진입도로 소규모/02. 사진/0330/사진/IMG_1090-왜가리.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:30 11:21:13
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.742348
+gps_lon: 126.472953

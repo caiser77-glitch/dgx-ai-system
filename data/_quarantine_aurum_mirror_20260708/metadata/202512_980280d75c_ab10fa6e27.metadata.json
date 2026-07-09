@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/202512_980280d75c.txt",
+  "source_name": "202512_980280d75c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:51:37+09:00",
+  "processed_at": "2026-07-08T11:51:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/202512_980280d75c_ab10fa6e27.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/202512_980280d75c_ab10fa6e27.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "관리대장 파일은 협의내용과 이행현황, 관련 사진을 포함하고 있습니다.",
+      "파일 크기는 36,583,936 바이트이며, HWP 형식입니다.",
+      "현재 해당 파일 형식의 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "관리대장",
+      "협의내용",
+      "이행현황"
+    ]
+  }
+}

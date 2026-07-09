@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/24_1.2__20250610_4c65b221e8.txt",
+  "source_name": "24_1.2__20250610_4c65b221e8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:11:34+09:00",
+  "processed_at": "2026-07-08T12:11:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/24_1.2__20250610_4c65b221e8_74d7c374ae.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/24_1.2__20250610_4c65b221e8_74d7c374ae.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "신장천의 저서성대형무척추동물 출현종 정보를 포함하는 데이터입니다.",
+      "2024년 1월 2일 회차 자료를 2025년 6월 10일에 조회한 결과입니다.",
+      "하천 생물측정망 데이터의 일부로, 1개의 행과 열로 구성되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "신장천",
+      "저서성대형무척추동물",
+      "생물측정망"
+    ]
+  }
+}

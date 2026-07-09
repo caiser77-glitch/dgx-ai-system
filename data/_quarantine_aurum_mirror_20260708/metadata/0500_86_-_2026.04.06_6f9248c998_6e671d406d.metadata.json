@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0500_86_-_2026.04.06_6f9248c998.txt",
+  "source_name": "0500_86_-_2026.04.06_6f9248c998.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:41+09:00",
+  "processed_at": "2026-07-08T11:50:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0500_86_-_2026.04.06_6f9248c998_6e671d406d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0500_86_-_2026.04.06_6f9248c998_6e671d406d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소에서 작성한 환경현황 보고서",
+      "국지도86호선 확장에 대한 내용 포함",
+      "2026년 4월 6일 작성"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경현황",
+      "국지도86호선",
+      "확장"
+    ]
+  }
+}

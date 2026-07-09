@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0049_48e01faf36.txt",
+  "source_name": "IMG_0049_48e01faf36.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T16:29:05+09:00",
+  "processed_at": "2026-06-30T16:31:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0049_48e01faf36_b78a2562da.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0049_48e01faf36_b78a2562da.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "산속 무인카메라로 촬영된 이미지",
+      "2020년 3월 2일 22시 00분 44초에 촬영",
+      "Prometheus BTC-5PXD 카메라 사용"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "산속",
+      "Prometheus"
+    ]
+  }
+}

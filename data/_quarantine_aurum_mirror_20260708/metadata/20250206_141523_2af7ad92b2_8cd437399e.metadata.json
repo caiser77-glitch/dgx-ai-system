@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/20250206_141523_2af7ad92b2.txt",
+  "source_name": "20250206_141523_2af7ad92b2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T11:29:20+09:00",
+  "processed_at": "2026-06-30T11:32:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/20250206_141523_2af7ad92b2_8cd437399e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/20250206_141523_2af7ad92b2_8cd437399e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "삼성 스마트폰으로 촬영된 고화질 사진",
+      "사진은 2025년 2월 6일 14시 15분 24초에 촬영됨",
+      "GPS 좌표는 34.451246, 127.480405로, 고흥 지역에서 촬영된 것으로 추정"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "고흥",
+      "GPS"
+    ]
+  }
+}

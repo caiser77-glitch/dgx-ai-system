@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: DSCN1970.JPG
+source_type: jpg
+size_bytes: 752688
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/이박/20251117-경산도로확장(아우룸)/DSCN1970.JPG
+width: 2048
+height: 1536
+mode: RGB
+format: JPEG
+datetime_taken: 2025:11:17 12:43:17
+camera_make: NIKON
+camera_model: COOLPIX AW100s 
+gps_lat: 35.770668
+gps_lon: 128.826373

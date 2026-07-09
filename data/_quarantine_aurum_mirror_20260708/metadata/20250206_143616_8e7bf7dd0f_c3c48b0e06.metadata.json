@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250206_143616_8e7bf7dd0f.txt",
+  "source_name": "20250206_143616_8e7bf7dd0f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T06:46:49+09:00",
+  "processed_at": "2026-06-23T06:48:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250206_143616_8e7bf7dd0f_c3c48b0e06.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250206_143616_8e7bf7dd0f_c3c48b0e06.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 삼성",
+    "project_name": "고흥 산단",
+    "class_name": "현장조사",
+    "tags": [
+      "#현장조사",
+      "#삼성",
+      "#고흥산단"
+    ],
+    "summary": "2025년 2월 6일 삼성 Galaxy S24+로 촬영된 사진 메타데이터.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 2월 6일에 촬영된 고화질 사진",
+      "사진은 삼성 Galaxy S24+로 촬영",
+      "GPS 좌표: 위도 34.441945, 경도 127.486092"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "삼성 Galaxy S24+",
+      "GPS 좌표"
+    ]
+  }
+}

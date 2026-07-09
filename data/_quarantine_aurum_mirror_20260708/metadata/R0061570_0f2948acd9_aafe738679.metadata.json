@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061570_0f2948acd9.txt",
+  "source_name": "R0061570_0f2948acd9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:35:38+09:00",
+  "processed_at": "2026-07-08T09:35:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061570_0f2948acd9_aafe738679.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061570_0f2948acd9_aafe738679.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 데이터입니다.",
+      "2026년 5월 28일 오후 2시 39분에 부천 대장 지역에서 촬영되었습니다.",
+      "GPS 좌표(37.540873, 126.792702)를 포함한 현장 사진 정보입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "부천대장",
+      "모니터링",
+      "현장사진"
+    ]
+  }
+}

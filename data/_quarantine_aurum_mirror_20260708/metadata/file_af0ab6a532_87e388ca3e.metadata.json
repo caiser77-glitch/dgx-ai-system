@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_af0ab6a532.txt",
+  "source_name": "file_af0ab6a532.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:11:44+09:00",
+  "processed_at": "2026-07-08T12:11:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_af0ab6a532_87e388ca3e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_af0ab6a532_87e388ca3e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획표.xlsx 파일은 30행 12열로 구성된 시트를 포함하고 있습니다.",
+      "이 문서는 토지 이용에 대한 계획을 상세히 기술한 표 형태의 데이터를 제공합니다.",
+      "각 행은 특정 토지의 이용 목적, 위치, 면적 등의 정보를 포함하고 있을 것으로 추정됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용계획",
+      "xlsx",
+      "시트"
+    ]
+  }
+}

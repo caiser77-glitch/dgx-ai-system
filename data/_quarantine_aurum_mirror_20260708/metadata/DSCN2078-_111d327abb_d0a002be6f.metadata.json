@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN2078-_111d327abb.txt",
+  "source_name": "DSCN2078-_111d327abb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T13:56:16+09:00",
+  "processed_at": "2026-06-30T13:58:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/DSCN2078-_111d327abb_d0a002be6f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/DSCN2078-_111d327abb_d0a002be6f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일에 촬영된 도롱뇽 사진",
+      "NIKON COOLPIX AW100s 카메라로 촬영",
+      "JPEG 형식, 4608x3456 해상도"
+    ],
+    "category": "사진",
+    "keywords": [
+      "도롱뇽",
+      "사진",
+      "NIKON"
+    ]
+  }
+}

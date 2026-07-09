@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 사후환경영향조사, PDF, OCR오류
+● 3줄 요약:
+- 문서는 사후 환경 영향 조사에 관한 PDF 파일입니다.
+- 파일 크기는 71,796 바이트이며, OCR 처리 중 인코딩 오류가 발생했습니다.
+- 콘텐츠 추출이 지원되지 않는 파일 유형으로 표시됩니다.
+=========================================
+source_name: 기평본안_0500(사후환경영향조사).pdf
+source_type: pdf
+size_bytes: 71796
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-16: ordinal not in range(128)

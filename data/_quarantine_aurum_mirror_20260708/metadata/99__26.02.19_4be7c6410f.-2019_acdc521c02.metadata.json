@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/99__26.02.19_4be7c6410f.-2019.csv",
+  "source_name": "99__26.02.19_4be7c6410f.-2019.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:10+09:00",
+  "processed_at": "2026-07-08T11:57:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/99__26.02.19_4be7c6410f.-2019_acdc521c02.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/99__26.02.19_4be7c6410f.-2019_acdc521c02.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/99__26.02.19_4be7c6410f.-2019_acdc521c02.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2019년 기준 특정 산업 업종별 용수 사용 및 폐수 발생 현황 데이터입니다.",
+      "업소 수, 추정 면적, 공업용수원 단위 등 기초 통계 정보를 포함하고 있습니다.",
+      "폐수 발생량, 폐수화율 및 유기물 부하량에 대한 상세 수치를 다룹니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "공업용수",
+      "폐수 발생",
+      "유기물 부하량"
+    ]
+  }
+}

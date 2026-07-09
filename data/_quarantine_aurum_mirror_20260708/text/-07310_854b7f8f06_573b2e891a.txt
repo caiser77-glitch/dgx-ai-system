@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 토지이용, OCR 오류
+● 3줄 요약:
+- 문서 '우주센터-07310(토지이용).pdf'는 PDF 형식의 파일로 약 17.7MB 크기입니다.
+- 해당 파일은 내용 추출이 지원되지 않는 유형이며 OCR 처리 과정에서 오류가 발생했습니다.
+- 오류 원인은 'ascii' 코덱이 특정 문자를 인코딩할 수 없는 문제로 확인되었습니다.
+=========================================
+source_name: 우주센터-07310(토지이용).pdf
+source_type: pdf
+size_bytes: 17702585
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-16: ordinal not in range(128)

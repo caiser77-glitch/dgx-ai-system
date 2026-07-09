@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07.6.1_74d766315b.txt",
+  "source_name": "07.6.1_74d766315b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:11:05+09:00",
+  "processed_at": "2026-07-08T13:11:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07.6.1_74d766315b_0a41063e35.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07.6.1_74d766315b_0a41063e35.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "인구 및 주거에 관한 국가종합비행성능시험장 정보를 포함하고 있습니다.",
+      "PDF 파일의 크기는 162,929 바이트입니다.",
+      "OCR 처리 중 인코딩 오류로 인해 상세 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "인구",
+      "주거",
+      "국가종합비행성능시험장"
+    ]
+  }
+}

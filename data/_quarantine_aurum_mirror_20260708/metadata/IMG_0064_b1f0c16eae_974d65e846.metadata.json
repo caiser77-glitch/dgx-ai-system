@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0064_b1f0c16eae.txt",
+  "source_name": "IMG_0064_b1f0c16eae.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T17:18:38+09:00",
+  "processed_at": "2026-06-30T17:21:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0064_b1f0c16eae_974d65e846.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0064_b1f0c16eae_974d65e846.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 4월 1일 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "위치: 위도 37.35593, 경도 127.075882",
+      "사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS 위치",
+      "사진"
+    ]
+  }
+}

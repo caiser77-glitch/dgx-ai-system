@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.05.07-08_-2_4ab290fee4.txt",
+  "source_name": "2025.05.07-08_-2_4ab290fee4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:56:26+09:00",
+  "processed_at": "2026-06-29T17:58:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2025.05.07-08_-2_4ab290fee4_5f336231ef.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2025.05.07-08_-2_4ab290fee4_5f336231ef.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 5월 7-8일 진천초평 산업단지에서 촬영된 식생 사진",
+      "JPEG 형식, RGB 모드, 해상도 2480x3507 픽셀",
+      "파일 크기 649,380 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천초평",
+      "식생조사",
+      "사진"
+    ]
+  }
+}

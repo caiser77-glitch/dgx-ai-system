@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/-_03_1a7d2fe217.sheet.csv",
+  "source_name": "-_03_1a7d2fe217.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:05+09:00",
+  "processed_at": "2026-07-08T12:02:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_03_1a7d2fe217.sheet_67311a53ce.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/-_03_1a7d2fe217.sheet_67311a53ce.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_03_1a7d2fe217.sheet_67311a53ce.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하구 생물측정망의 저서 생물 관련 데이터 정보를 포함하고 있습니다.",
+      "CSV 형식의 파일로 구성된 데이터셋입니다.",
+      "해당 문서에는 하구 생태계 분석을 위한 기초 정보가 담겨 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "하구",
+      "생물측정망",
+      "저서 분석"
+    ]
+  }
+}

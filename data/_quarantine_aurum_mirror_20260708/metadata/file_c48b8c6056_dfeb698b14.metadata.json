@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_c48b8c6056.txt",
+  "source_name": "file_c48b8c6056.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:43+09:00",
+  "processed_at": "2026-07-08T11:57:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_c48b8c6056_dfeb698b14.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_c48b8c6056_dfeb698b14.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하천 생물측정망에서 수집된 어류 출현종 정보를 담은 데이터 파일입니다.",
+      "총 61개의 행과 9개의 열로 구성되어 있으며 각 행은 특정 종의 정보를 포함합니다.",
+      "엑셀 형식을 통해 하천 내 어류 출현 현황을 체계적으로 기록하고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "하천",
+      "생물측정망",
+      "어류"
+    ]
+  }
+}

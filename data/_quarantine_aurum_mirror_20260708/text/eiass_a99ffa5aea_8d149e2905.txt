@@ -1,0 +1,14 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: eiass 안내사항.jpg
+source_type: jpg
+size_bytes: 338312
+path: /mnt/dgxbackup/2026 이산/아산방축/00. 받은 파일/2025.11.07/eiass 안내사항.jpg
+width: 649
+height: 867
+mode: RGB
+format: JPEG

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0040009_3dfd236168.txt",
+  "source_name": "R0040009_3dfd236168.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:32:00+09:00",
+  "processed_at": "2026-07-08T14:32:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0040009_3dfd236168_8db2307805.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0040009_3dfd236168_8db2307805.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 남부일반산업단지 진입도로 현장에서 촬영된 미꾸리 사진 데이터입니다.",
+      "2026년 3월 30일 오전 10시 57분에 RICOH WG-6 카메라로 촬영되었습니다.",
+      "해당 파일은 유과 지역의 생물 종 확인을 위한 현장 조사 자료로 판단됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "미꾸리",
+      "서산 남부일반산업단지",
+      "생태조사"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 데이터 부재, 서버 오류, 분석 불가
+● 3줄 요약:
+- 제공된 문서 데이터에 실제 텍스트 내용이 포함되어 있지 않습니다.
+- 이미지 파일 정보(종료.jpg)와 시스템 오류 메시지만 확인됩니다.
+- OCR 처리 과정에서 내부 서버 오류가 발생하여 분석이 불가능합니다.
+=========================================
+source_name: 종료.jpg
+source_type: jpg
+size_bytes: 842546
+width: 1701
+height: 3669
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

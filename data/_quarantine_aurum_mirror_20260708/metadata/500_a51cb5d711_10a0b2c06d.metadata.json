@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/500_a51cb5d711.txt",
+  "source_name": "500_a51cb5d711.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:33:03+09:00",
+  "processed_at": "2026-06-23T21:34:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/500_a51cb5d711_10a0b2c06d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/500_a51cb5d711_10a0b2c06d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 천마기술단",
+    "project_name": "서산 부장리 고분군 기반시설 정비사업",
+    "class_name": "토목단가",
+    "tags": [
+      "#서산",
+      "#고분군",
+      "#토목공사"
+    ],
+    "summary": "원맨 연직 500.jpg의 토목단가 견적서. 사이즈: 63796 bytes, 해상도: 896x208, 형식: JPEG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "원맨 연직 500.jpg는 서산 부장리 고분군 기반시설 정비사업 관련 토목단가 견적서 이미지입니다.",
+      "이미지는 RGB 모드로, 크기는 896x208 픽셀이며, 파일 크기는 63,796 바이트입니다.",
+      "이 이미지는 2025년 6월 10일 보고서 자료 및 설계자료의 일부로 제공되었습니다."
+    ],
+    "category": "견적서",
+    "keywords": [
+      "원맨 연직",
+      "토목단가",
+      "견적서"
+    ]
+  }
+}

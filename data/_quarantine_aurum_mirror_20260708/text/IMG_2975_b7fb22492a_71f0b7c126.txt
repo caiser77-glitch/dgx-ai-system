@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 환삼덩굴, 평택호, Canon PowerShot SX70 HS
+● 3줄 요약:
+- Canon PowerShot SX70 HS로 촬영된 환삼덩굴 사진
+- 2026년 3월 3일 평택호에서 촬영, GPS 좌표 (36.915733, 126.913002)
+- RGB 모드, 5184x3888 해상도, 8MB 크기의 MPO 포맷 이미지
+=========================================
+source_name: IMG_2975 환삼덩굴.JPG
+source_type: jpg
+size_bytes: 8017465
+path: /mnt/dgxbackup/2026 세광/평택호 사후/02.사진/2026.03.03/석과 식물/IMG_2975 환삼덩굴.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:03 11:10:23
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.915733
+gps_lon: 126.913002

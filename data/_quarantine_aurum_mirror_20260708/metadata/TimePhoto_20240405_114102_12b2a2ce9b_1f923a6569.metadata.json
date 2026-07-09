@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/TimePhoto_20240405_114102_12b2a2ce9b.txt",
+  "source_name": "TimePhoto_20240405_114102_12b2a2ce9b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:56:53+09:00",
+  "processed_at": "2026-07-08T13:57:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/TimePhoto_20240405_114102_12b2a2ce9b_1f923a6569.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/TimePhoto_20240405_114102_12b2a2ce9b_1f923a6569.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 4월 5일 오전 11시 41분경 촬영된 삼성 갤럭시 S21(SM-G996N) 기기의 사진 데이터입니다.",
+      "진천 초평 산업단지 인근 양부 식물 관련 현장 기록을 목적으로 촬영되었습니다.",
+      "GPS 좌표(36.794728, 127.528211)가 포함된 이미지 파일로 위치 정보가 기록되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천 초평산업단지",
+      "양부 식물",
+      "현장 사진"
+    ]
+  }
+}

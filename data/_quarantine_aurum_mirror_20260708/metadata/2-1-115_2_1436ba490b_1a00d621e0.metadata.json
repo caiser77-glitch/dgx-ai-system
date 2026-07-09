@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2-1-115_2_1436ba490b.txt",
+  "source_name": "2-1-115_2_1436ba490b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:47:24+09:00",
+  "processed_at": "2026-07-08T13:47:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2-1-115_2_1436ba490b_1a00d621e0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2-1-115_2_1436ba490b_1a00d621e0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제주시 애조로에서 성지요양원 구간의 확장사업과 관련된 동식물상 조사 보고서입니다.",
+      "해당 문서는 도로 확장 사업에 따른 생태계 변화를 파악하기 위한 목적을 가집니다.",
+      "파일 용량은 약 22.7MB이며, 데이터 추출 과정에서 일부 OCR 오류가 확인되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "애조로",
+      "성지요양원",
+      "확장사업"
+    ]
+  }
+}

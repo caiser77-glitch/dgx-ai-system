@@ -1,0 +1,14 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 변환IMG_3493 강아지풀.jpg
+source_type: jpg
+size_bytes: 108846
+path: /mnt/dgxbackup/2026 아라기술/오천항 정비공사 사후/02. 사진/03.17/석과 식물/변환/변환IMG_3493 강아지풀.jpg
+width: 400
+height: 300
+mode: RGB
+format: JPEG

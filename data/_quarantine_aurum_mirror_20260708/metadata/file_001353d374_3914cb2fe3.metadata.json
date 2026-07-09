@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_001353d374.txt",
+  "source_name": "file_001353d374.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:06+09:00",
+  "processed_at": "2026-07-08T13:54:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_001353d374_3914cb2fe3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_001353d374_3914cb2fe3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 파일은 '워터샤원 썬 이미지'라는 명칭의 JPEG 이미지 파일입니다.",
+      "파일 경로는 설계도면 관련 폴더 내에 저장되어 있습니다.",
+      "이미지 규격은 864x1276 해상도의 RGB 모드로 구성되어 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "워터샤원 썬 이미지",
+      "설계도면",
+      "JPEG"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/05.1.1_6c6279f0e4.txt",
+  "source_name": "05.1.1_6c6279f0e4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:43+09:00",
+  "processed_at": "2026-07-08T13:45:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05.1.1_6c6279f0e4_b2510e4d87.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05.1.1_6c6279f0e4_b2510e4d87.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "은암리 공장부지의 동식물상을 조사한 보고서입니다.",
+      "파일 크기는 약 8.7MB이며 PDF 형식으로 되어 있습니다.",
+      "OCR 처리 실패로 인해 상세 내용 추출이 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "은암리",
+      "공장부지",
+      "동식물상"
+    ]
+  }
+}

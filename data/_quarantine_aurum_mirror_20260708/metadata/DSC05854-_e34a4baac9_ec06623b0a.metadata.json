@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05854-_e34a4baac9.txt",
+  "source_name": "DSC05854-_e34a4baac9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T22:34:03+09:00",
+  "processed_at": "2026-06-24T22:35:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05854-_e34a4baac9_ec06623b0a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05854-_e34a4baac9_ec06623b0a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 줄박각시 사진\nSONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336 픽셀\n울산 온산국가산업단지 1차 조사 결과물",
+    "tags": [
+      "#줄박각시",
+      "#울산 온산국가산업단지",
+      "#1차조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 줄박각시 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336 픽셀",
+      "울산 온산국가산업단지 1차 조사 결과물"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "줄박각시",
+      "울산 온산국가산업단지",
+      "1차조사"
+    ]
+  }
+}

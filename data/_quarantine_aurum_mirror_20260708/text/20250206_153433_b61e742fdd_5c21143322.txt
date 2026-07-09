@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 20250206_153433.jpg
+source_type: jpg
+size_bytes: 9456873
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.13 환평자료/02_현장조사 - 01임정래 -2/20250206_153433.jpg
+width: 4000
+height: 3000
+mode: RGB
+format: JPEG
+datetime_taken: 2025:02:06 15:34:33
+camera_make: samsung
+camera_model: Galaxy S24+
+gps_lat: 34.451985
+gps_lon: 127.492906

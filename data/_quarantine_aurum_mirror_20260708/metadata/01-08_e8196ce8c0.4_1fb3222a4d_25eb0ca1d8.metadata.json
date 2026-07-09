@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-08_e8196ce8c0.4_1fb3222a4d.txt",
+  "source_name": "01-08_e8196ce8c0.4_1fb3222a4d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:36:27+09:00",
+  "processed_at": "2026-07-08T11:36:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0.4_1fb3222a4d_25eb0ca1d8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0.4_1fb3222a4d_25eb0ca1d8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "면벽 및 집수정 깨기 작업에 대한 수량산출서 데이터입니다.",
+      "총 44개의 행으로 구성된 CSV 형식의 문서입니다.",
+      "상세 컬럼 정보는 제목 외에 별도로 명시되지 않았습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "CSV",
+      "수량산출서",
+      "면벽및 집수정"
+    ]
+  }
+}

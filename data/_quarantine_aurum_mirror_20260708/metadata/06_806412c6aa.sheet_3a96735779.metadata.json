@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/06_806412c6aa.sheet.csv",
+  "source_name": "06_806412c6aa.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:42:48+09:00",
+  "processed_at": "2026-07-08T11:42:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/06_806412c6aa.sheet_3a96735779.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/06_806412c6aa.sheet_3a96735779.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/06_806412c6aa.sheet_3a96735779.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 토공단위중량(덧씌우기포장D25) 데이터를 포함한 CSV 형식의 파일입니다.",
+      "총 52개의 행으로 구성되어 있으며, 특정 공종에 대한 중량 정보를 다루고 있습니다.",
+      "데이터 구조상 열 이름이 반복되거나 비어 있는 형태를 보이고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "토공단위중량",
+      "덧씌우기포장",
+      "CSV데이터"
+    ]
+  }
+}

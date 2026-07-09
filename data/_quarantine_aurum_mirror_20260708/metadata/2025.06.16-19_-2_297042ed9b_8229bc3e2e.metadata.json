@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.06.16-19_-2_297042ed9b.txt",
+  "source_name": "2025.06.16-19_-2_297042ed9b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T02:08:12+09:00",
+  "processed_at": "2026-06-23T02:09:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.06.16-19_-2_297042ed9b_8229bc3e2e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.06.16-19_-2_297042ed9b_8229bc3e2e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 6월 16일부터 19일까지 고흥 산단에서 촬영된 식물상 이미지\nJPEG 형식, 2480x3507 픽셀 크기의 흑백 사진\n파일 크기는 744,844 바이트",
+    "tags": [
+      "#고흥산단",
+      "#식물상",
+      "#이부-2"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 6월 16일부터 19일까지 고흥 산단에서 촬영된 식물상 이미지",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 사진",
+      "파일 크기는 744,844 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥산단",
+      "식물상",
+      "이부-2"
+    ]
+  }
+}

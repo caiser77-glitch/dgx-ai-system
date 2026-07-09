@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 서수평장, 식물상, 사진
+● 3줄 요약:
+- 2026년 2월 3일부터 4일까지 서수평장에서 촬영된 식물상 사진
+- JPEG 형식, 2480x3507 픽셀, 678KB 크기의 흑백 이미지
+- OCR 처리 중 서버 오류로 인해 텍스트 추출 실패
+=========================================
+source_name: 2026.02.03-04 서수평장 식물상1.jpg
+source_type: jpg
+size_bytes: 678034
+width: 2480
+height: 3507
+mode: L
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

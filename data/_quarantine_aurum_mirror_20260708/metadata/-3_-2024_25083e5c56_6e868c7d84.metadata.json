@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-3_-2024_25083e5c56.txt",
+  "source_name": "-3_-2024_25083e5c56.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:43+09:00",
+  "processed_at": "2026-07-08T11:55:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-3_-2024_25083e5c56_6e868c7d84.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-3_-2024_25083e5c56_6e868c7d84.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "측정표 파일 내 OCR 오류 발생",
+      "파일 인코딩 문제로 인한 데이터 처리 불가",
+      "2024년 성남낙생 3차년도 측정표 관련 내용"
+    ],
+    "category": "측정표",
+    "keywords": [
+      "OCR 오류",
+      "인코딩 문제",
+      "측정표"
+    ]
+  }
+}

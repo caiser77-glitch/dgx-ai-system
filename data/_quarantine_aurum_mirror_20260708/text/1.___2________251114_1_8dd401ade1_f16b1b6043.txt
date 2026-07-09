@@ -1,0 +1,11 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 1. 최종 견적서_충청내륙 고속화(제2공구)도로건설공사 사후환경영향조사_토양_견적서_네고_251114 (1).pdf
+source_type: pdf
+size_bytes: 98381
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 15-21: ordinal not in range(128)

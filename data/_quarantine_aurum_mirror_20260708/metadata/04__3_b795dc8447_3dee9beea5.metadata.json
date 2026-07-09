@@ -1,0 +1,40 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/04__3_b795dc8447.txt",
+  "source_name": "04__3_b795dc8447.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:47:48+09:00",
+  "processed_at": "2026-06-22T22:48:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/04__3_b795dc8447_3dee9beea5.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/04__3_b795dc8447_3dee9beea5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "인천용역",
+    "tags": [
+      "#인천용역",
+      "#2026LH"
+    ],
+    "summary": "파일 04_참고자료 (3).zip은 지원되지 않는 파일 타입으로 크기가 1209669719 bytes입니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파일 유형이 지원되지 않아 내용 추출 불가",
+      "파일 크기: 약 1.2GB",
+      "파일 이름: 04_참고자료 (3).zip"
+    ],
+    "category": "기타",
+    "keywords": [
+      "ZIP 파일",
+      "지원되지 않는 파일 유형",
+      "참고자료"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2026-03-23_d7971da84b.txt",
+  "source_name": "-2026-03-23_d7971da84b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:52:19+09:00",
+  "processed_at": "2026-07-08T11:52:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-2026-03-23_d7971da84b_359fe91ad9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-2026-03-23_d7971da84b_359fe91ad9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Excel 파일 형태의 '편입용지조서(최종수정)-2026-03-23.xls' 문서입니다.",
+      "파일 크기는 860,672 바이트이며 내용 추출이 지원되지 않는 유형입니다.",
+      "해당 문서는 편입 용지에 대한 조사 결과를 담고 있는 것으로 추정됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "Excel",
+      "편입용지",
+      "조사"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/C0090101-001_008__250327_b3885b3ac5.txt",
+  "source_name": "C0090101-001_008__250327_b3885b3ac5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:08+09:00",
+  "processed_at": "2026-07-08T11:40:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/C0090101-001_008__250327_b3885b3ac5_676b13df65.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/C0090101-001_008__250327_b3885b3ac5_676b13df65.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "AutoCAD 파일(C0090101-001~008_250327.dwg) 업로드 및 관련 데이터 제공",
+      "DWG 파일 내 xref 사용으로 인한 외부 참조 파일 연결 문제 확인",
+      "FONTALT 설정을 통한 폰트 누락 문제 해결 방법 안내"
+    ],
+    "category": "장비",
+    "keywords": [
+      "AutoCAD",
+      "DWG",
+      "xref",
+      "폰트"
+    ]
+  }
+}

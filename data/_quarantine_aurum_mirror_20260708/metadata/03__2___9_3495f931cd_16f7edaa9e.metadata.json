@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03__2___9_3495f931cd.txt",
+  "source_name": "03__2___9_3495f931cd.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:01:14+09:00",
+  "processed_at": "2026-07-08T12:01:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_3495f931cd_16f7edaa9e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_3495f931cd_16f7edaa9e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "충청2 사후 9차 설계서는 총 13개 시트로 구성되어 다양한 항목과 데이터를 포함하고 있습니다.",
+      "주요 시트에는 총괄, 설계내역서, 설계예산서, 소요인력, 측정비 등이 포함되어 있습니다.",
+      "소요인력 및 측정비 관련 상세 정보를 통해 프로젝트의 자원 관리에 중요한 정보를 제공합니다."
+    ],
+    "category": "설계서",
+    "keywords": [
+      "설계서",
+      "자원관리",
+      "프로젝트"
+    ]
+  }
+}

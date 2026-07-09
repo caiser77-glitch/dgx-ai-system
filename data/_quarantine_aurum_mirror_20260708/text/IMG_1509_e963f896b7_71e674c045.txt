@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 포천-OO 자원회수시설, 환경영향평가, 1차 조사
+● 3줄 요약:
+- 2026년 4월 29일 포천-OO 자원회수시설에서 촬영된 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 (37.96421, 127.239693) 기록
+- 환경영향평가 1차 조사 관련 이미지
+=========================================
+source_name: IMG_1509.JPG
+source_type: jpg
+size_bytes: 5264862
+path: /mnt/dgxbackup/2026 이산/포천-OO 자원회수시설 민간투자사업 환경영향평가/02. 사진/2026.04.28-29 1차 조사/2026.04.28-29 허과/IMG_1509.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:04:29 10:33:04
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.96421
+gps_lon: 127.239693

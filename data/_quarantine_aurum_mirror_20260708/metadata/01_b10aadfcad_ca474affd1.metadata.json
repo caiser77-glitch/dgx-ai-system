@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_b10aadfcad.txt",
+  "source_name": "01_b10aadfcad.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:19:33+09:00",
+  "processed_at": "2026-06-22T22:20:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/01_b10aadfcad_ca474affd1.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/01_b10aadfcad_ca474affd1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "고흥 산단",
+    "class_name": "토공계획",
+    "tags": [
+      "#토공계획",
+      "#단지정보",
+      "#설계분야"
+    ],
+    "summary": "고흥 산단의 단지 정보 및 토공 계획 관련 설계 분야 대안 검토 자료.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단의 단지 정보 및 토공 계획에 대한 이미지 파일입니다.",
+      "이미지는 CMYK 모드로 1045x951 픽셀 크기입니다.",
+      "파일 크기는 1,363,715 바이트이며, 설계 분야 대안 검토 자료의 일부입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "토공 계획",
+      "설계 분야"
+    ]
+  }
+}

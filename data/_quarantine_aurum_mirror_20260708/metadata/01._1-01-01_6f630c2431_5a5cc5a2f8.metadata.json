@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01._1-01-01_6f630c2431.txt",
+  "source_name": "01._1-01-01_6f630c2431.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:09:53+09:00",
+  "processed_at": "2026-06-22T22:11:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/01._1-01-01_6f630c2431_5a5cc5a2f8.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/01._1-01-01_6f630c2431_5a5cc5a2f8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥 산단",
+    "class_name": "토지이용계획(안)도",
+    "tags": [
+      "#토지이용계획",
+      "#고흥산단",
+      "#2026"
+    ],
+    "summary": "토지이용계획(안)도1-01-01.jpg, 크기 6,885,137바이트, 해상도 2739x2502, CMYK 모드, JPEG 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획(안)도 이미지 파일로, 고흥 산단의 토지 이용 계획을 시각적으로 나타내고 있음.",
+      "파일 크기는 6,885,137 바이트이며, 해상도는 2739x2502 픽셀, CMYK 모드의 JPEG 형식임.",
+      "이 파일은 2025년 3월 13일 환평자료의 설계사 관련 자료 중 조사설계용역 착수보고서의 삽도로 사용됨."
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "토지이용계획",
+      "고흥 산단",
+      "설계사"
+    ]
+  }
+}

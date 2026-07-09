@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-01_4d31eb997e.sheet_b2c99b3925.txt",
+  "source_name": "01-01_4d31eb997e.sheet_b2c99b3925.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:36:42+09:00",
+  "processed_at": "2026-07-08T11:36:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-01_4d31eb997e.sheet_b2c99b3925_bed202941c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-01_4d31eb997e.sheet_b2c99b3925_bed202941c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '01-01_4d31eb997e.sheet.csv'에 대한 정보 제공",
+      "총 18개의 행이 포함되어 있음",
+      "주요 컬럼은 '마운딩 수량 산출'임"
+    ],
+    "category": "데이터 파일",
+    "keywords": [
+      "CSV",
+      "마운딩 수량",
+      "데이터"
+    ]
+  }
+}

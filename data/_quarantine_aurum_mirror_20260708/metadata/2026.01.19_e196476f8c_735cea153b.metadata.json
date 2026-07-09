@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.01.19_e196476f8c.txt",
+  "source_name": "2026.01.19_e196476f8c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:11+09:00",
+  "processed_at": "2026-07-08T12:02:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2026.01.19_e196476f8c_735cea153b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2026.01.19_e196476f8c_735cea153b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산온산 관련 자료로 추정되는 문서입니다.",
+      "2026년 1월 19일에 작성된 것으로 확인됩니다.",
+      "파일 형식 문제로 인해 상세 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "울산온산",
+      "2026.01.19",
+      "hwp"
+    ]
+  }
+}

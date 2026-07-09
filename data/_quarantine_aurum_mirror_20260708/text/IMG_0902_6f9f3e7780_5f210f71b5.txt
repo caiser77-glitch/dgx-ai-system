@@ -1,0 +1,13 @@
+source_name: IMG_0902.JPG
+source_type: jpg
+size_bytes: 10858540
+path: /mnt/dgxbackup/2026 수성/포항 혁신도시/02.사진/2025년 5월 11일~13일/2025.05.11~13 포항혁신 이부/IMG_0902.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:05:11 15:36:32
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.100987
+gps_lon: 129.394227

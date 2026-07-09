@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3_3_f24eb1f2bb.txt",
+  "source_name": "3_3_f24eb1f2bb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:57:17+09:00",
+  "processed_at": "2026-06-23T20:58:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/3_3_f24eb1f2bb_36aacd82ba.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/3_3_f24eb1f2bb_36aacd82ba.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "양서류",
+    "tags": [
+      "#HongikTech",
+      "#Jincheon",
+      "#Amphibians"
+    ],
+    "summary": "3차 3.양서류.jpg - 1051x1335 RGB JPEG, 207219 bytes",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "3차 양서류 관련 이미지 파일입니다.",
+      "파일 크기는 207,219 바이트이며, 해상도는 1051x1335 픽셀입니다.",
+      "RGB 모드의 JPEG 형식으로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "양서류",
+      "3차",
+      "JPEG"
+    ]
+  }
+}

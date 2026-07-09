@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 토양, PDF, OCR 오류
+● 3줄 요약:
+- 문서는 토양 관련 정보를 담고 있으나, OCR 처리 중 오류가 발생하여 내용 추출이 불가능합니다.
+- 파일 크기는 5,843,070 바이트이며, PDF 형식입니다.
+- 문서의 출처는 '충주-본안' 0742 토양 관련 자료입니다.
+=========================================
+source_name: (충주-본안)0742+토양.pdf
+source_type: pdf
+size_bytes: 5843070
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

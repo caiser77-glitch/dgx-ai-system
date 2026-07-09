@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 파일 크기, OCR 오류
+● 3줄 요약:
+- 문서 '동식물상.pdf'는 PDF 형식으로, 크기가 9,839,382 바이트입니다.
+- 문서 내용 추출이 지원되지 않는 파일 유형으로 표시되었습니다.
+- OCR 처리 중 'ascii' 코덱 인코딩 오류가 발생했습니다.
+=========================================
+source_name: (보완)+00210+동식물상.pdf
+source_type: pdf
+size_bytes: 9839382
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

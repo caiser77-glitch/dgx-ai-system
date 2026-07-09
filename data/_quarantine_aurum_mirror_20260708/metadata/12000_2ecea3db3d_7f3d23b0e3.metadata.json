@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/12000_2ecea3db3d.txt",
+  "source_name": "12000_2ecea3db3d.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T11:26:34+09:00",
+  "processed_at": "2026-07-06T11:27:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/12000_2ecea3db3d_7f3d23b0e3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/12000_2ecea3db3d_7f3d23b0e3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '12000(종합평가+및+결론).pdf'는 PDF 형식으로 제공됩니다.",
+      "파일 크기는 831,666 바이트입니다.",
+      "OCR 처리 중 서버 오류로 인해 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "파일크기",
+      "OCR오류"
+    ]
+  }
+}

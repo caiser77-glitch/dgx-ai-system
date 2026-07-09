@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: TimePhoto_20251117_170245.jpg
+source_type: jpg
+size_bytes: 1293773
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/2025.11.17-18 숨편한 힐링숲 진입도로 양부/TimePhoto_20251117_170245.jpg
+width: 3648
+height: 2736
+mode: RGB
+format: JPEG
+datetime_taken: 2025:11:17 17:02:45
+camera_make: samsung
+camera_model: SM-G996N
+gps_lat: 35.77203
+gps_lon: 128.829839

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/04_0fab87f010.L.csv",
+  "source_name": "04_0fab87f010.L.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:39:17+09:00",
+  "processed_at": "2026-07-08T13:39:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_0fab87f010.L_5f90baafb0.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/04_0fab87f010.L_5f90baafb0.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_0fab87f010.L_5f90baafb0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 도로 경계석 단위수량 정보를 포함하고 있는 CSV 파일입니다.",
+      "총 45개의 행으로 구성되어 있으며 데이터의 구조를 나타냅니다.",
+      "도로 관련 자재 수량 산출을 위한 기초 자료로 판단됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "도로 경계석",
+      "단위수량",
+      "자재 데이터"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2-1_37933b454b.txt",
+  "source_name": "2-1_37933b454b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:47:33+09:00",
+  "processed_at": "2026-07-08T13:47:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2-1_37933b454b_c4a83382e5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2-1_37933b454b_c4a83382e5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제주시 해안동 산2-1번지 육계 종계장 시설사업 관련 동식물상 조사 보고서",
+      "해당 사업 부지 내의 생태적 가치 및 동식물 분포 현황을 기록함",
+      "조사 결과 데이터는 엑셀 파일 형태로 별도 관리됨"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "육계 종계장",
+      "동식물상",
+      "제주"
+    ]
+  }
+}

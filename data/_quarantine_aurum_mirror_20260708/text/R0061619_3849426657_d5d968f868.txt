@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 모니터링, RICOH WG-6, 김포풍무
+● 3줄 요약:
+- 2026년 5월 28일 오후 4시 11분경 촬영된 이미지 파일 정보입니다.
+- RICOH WG-6 카메라로 촬영되었으며 파일 크기는 약 4.3MB입니다.
+- 김포 풍무 지역의 모니터링을 목적으로 기록된 사진 데이터입니다.
+=========================================
+source_name: R0061619.JPG
+source_type: jpg
+size_bytes: 4307984
+path: /mnt/dgxbackup/2026 김포풍무/02. 사진/모니터링/0528/R0061619.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:28 16:11:55
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 0.0
+gps_lon: 0.0

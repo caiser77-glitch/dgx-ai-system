@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2022_8_9_055b9df1b5.txt",
+  "source_name": "-2022_8_9_055b9df1b5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:55+09:00",
+  "processed_at": "2026-07-08T11:56:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-2022_8_9_055b9df1b5_1b0b62db52.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-2022_8_9_055b9df1b5_1b0b62db52.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "성남낙생 지역에 대한 2022년 8~9월 현지조사표 PDF 파일입니다.",
+      "파일 크기는 약 27MB이며, OCR 처리에 실패하였습니다.",
+      "URL 내 제어 문자 포함으로 인해 파일 유형 처리가 불가능합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "성남낙생",
+      "현지조사",
+      "PDF"
+    ]
+  }
+}

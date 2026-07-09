@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2025.05.11_13-_-2_334b68389b.txt",
+  "source_name": "-2025.05.11_13-_-2_334b68389b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T21:39:06+09:00",
+  "processed_at": "2026-06-22T21:40:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-2025.05.11_13-_-2_334b68389b_397424bc0a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-2025.05.11_13-_-2_334b68389b_397424bc0a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 수성",
+    "project_name": "포항 혁신도시",
+    "class_name": "야장 및 영수증",
+    "tags": [
+      "#포항",
+      "#혁신도시",
+      "#야장"
+    ],
+    "summary": "포항 혁신도시 2025.05.11~13 탐문야장 이미지 파일 정보",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 2025년 5월 11일부터 13일까지 진행된 탐문야장 활동 사진",
+      "사진의 해상도는 1019x1440 픽셀이며, RGB 모드의 JPEG 형식입니다.",
+      "파일 크기는 169,384 바이트로, 관련 경로는 /mnt/dgxbackup/2026 수성/포항 혁신도시/04.야장 및 영수증/2025.05.11~13/에 위치합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "탐문야장",
+      "현장조사"
+    ]
+  }
+}

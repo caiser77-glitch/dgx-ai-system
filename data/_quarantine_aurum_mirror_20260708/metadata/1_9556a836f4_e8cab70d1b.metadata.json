@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_9556a836f4.txt",
+  "source_name": "1_9556a836f4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:17:57+09:00",
+  "processed_at": "2026-06-29T17:19:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_9556a836f4_e8cab70d1b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_9556a836f4_e8cab70d1b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소가 제출한 국립공원 학술연구 신청서",
+      "신청서는 JPEG 형식의 이미지 파일로 제공됨",
+      "파일 크기는 574,045 바이트이며, 해상도는 2480x3507 픽셀"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "아우룸생태연구소",
+      "국립공원",
+      "학술연구"
+    ]
+  }
+}

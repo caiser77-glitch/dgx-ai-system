@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 표지, 목차
+● 3줄 요약:
+- PDF 파일의 표지와 목차 부분에 대한 정보 제공
+- 파일 크기는 87,054 바이트임
+- OCR 처리 중 URL 내 제어 문자 포함으로 인한 오류 발생
+=========================================
+source_name: (본안)00000 표지 목차(완료).pdf
+source_type: pdf
+size_bytes: 87054
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/(본안)00000 표지 목차(완료)_pages_1_taxa.xlsx' (found at least ' ')

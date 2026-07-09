@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/2023-_186ebb5dc2.sheet.csv",
+  "source_name": "2023-_186ebb5dc2.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:36:04+09:00",
+  "processed_at": "2026-07-08T13:36:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2023-_186ebb5dc2.sheet_3abf5007f7.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/2023-_186ebb5dc2.sheet_3abf5007f7.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2023-_186ebb5dc2.sheet_3abf5007f7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하천 생물측정망을 통한 어류의 건강성 평가 데이터입니다.",
+      "어류의 생태적 상태를 분석하기 위한 기초 정보를 포함합니다.",
+      "CSV 형식으로 구성된 하천 생태계 조사 결과 문서입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "하천 생물측정망",
+      "어류 건강성 평가",
+      "생태계 분석"
+    ]
+  }
+}

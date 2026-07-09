@@ -1,0 +1,48 @@
+---
+생성일: 2026-06-30
+장비명: overnight_batch
+원본이름: IMG_0478_aecabee2cc.txt
+원본유형: txt
+년도_업체: 2026 Prometheus
+사업명: 고흥 산단 무인카메라 조사
+생물분류군: 미확정
+분류군: 미확정
+문서유형: 현장사진
+AI_요약: 2025년 7월 1일 15:45:53에 찍힌 무인카메라 사진. 해상도 6528x3680, RGB 형식, Prometheus BTC-5PXD 카메라로 촬영.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #_AURUM_AI_PROCESSED #processed #TXT #현장사진 #무인카메라
+---
+# 📄 IMG_0478_aecabee2cc.txt 요약본
+
+* **처리 시각**: 2026-06-30T21:22:00+09:00
+* **년도_업체**: 2026 Prometheus
+* **사업명**: 고흥 산단 무인카메라 조사
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: 현장사진
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0478_aecabee2cc.txt
+
+---
+### 🤖 AI 분석 요약
+> 2025년 7월 1일 15:45:53에 찍힌 무인카메라 사진. 해상도 6528x3680, RGB 형식, Prometheus BTC-5PXD 카메라로 촬영.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: IMG_0478.JPG
+source_type: jpg
+size_bytes: 5453131
+path: /mnt/dgxbackup/2026 이산/고흥 산단/01-2. 자료(피해방지, 조사계획서 등)/무인카메라 및 송미터 자료(09.01~04)/무인카메라/2/IMG_0478.JPG
+width: 6528
+height: 3680
+mode: RGB
+format: MPO
+datetime_taken: 2025:07:01 15:45:53
+camera_make: Prometheus
+camera_model: BTC-5PXD
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [IMG_0478_aecabee2cc.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0478_aecabee2cc.txt)

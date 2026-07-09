@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.05.17_07.14_90cd3b212b.txt",
+  "source_name": "2024.05.17_07.14_90cd3b212b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T00:37:00+09:00",
+  "processed_at": "2026-06-23T00:38:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024.05.17_07.14_90cd3b212b_da4aaa1068.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024.05.17_07.14_90cd3b212b_da4aaa1068.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "행정문서",
+    "summary": "2024년 5월 17일 부장리 고분군 조사 시작 관련 영수증 이미지\n이미지는 2024년 7월 14일까지의 조사 기간을 포함\nJPEG 형식, 618x1465 픽셀 크기의 흑백 이미지",
+    "tags": [
+      "#영수증",
+      "#고분군",
+      "#조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 5월 17일 부장리 고분군 조사 시작 관련 영수증 이미지",
+      "이미지는 2024년 7월 14일까지의 조사 기간을 포함",
+      "JPEG 형식, 618x1465 픽셀 크기의 흑백 이미지"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "고분군",
+      "조사"
+    ]
+  }
+}

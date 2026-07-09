@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2025.07.07_09-_17015931f9.txt",
+  "source_name": "-2025.07.07_09-_17015931f9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T21:49:11+09:00",
+  "processed_at": "2026-06-22T21:50:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-2025.07.07_09-_17015931f9_7ec238a6ce.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-2025.07.07_09-_17015931f9_7ec238a6ce.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "포항 혁신도시",
+    "class_name": "육상곤충류",
+    "tags": [
+      "#포항혁신도시",
+      "#2025",
+      "#육상곤충류"
+    ],
+    "summary": "2025년 7월 7일부터 9일까지 포항 혁신도시에서 촬영된 육상곤충류 야장 사진.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 2025년 7월 7일부터 9일까지 육상곤충류 야장을 실시한 기록 사진",
+      "사진은 JPEG 형식으로, 해상도는 2480x3507 픽셀이며, 파일 크기는 722,279 바이트",
+      "야장 활동의 결과와 관련 정보를 시각적으로 확인할 수 있는 자료"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "육상곤충류",
+      "야장"
+    ]
+  }
+}

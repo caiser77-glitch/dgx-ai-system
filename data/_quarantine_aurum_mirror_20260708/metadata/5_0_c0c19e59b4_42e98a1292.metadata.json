@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_0_c0c19e59b4.txt",
+  "source_name": "5_0_c0c19e59b4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T12:41:27+09:00",
+  "processed_at": "2026-07-06T12:42:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_0_c0c19e59b4_42e98a1292.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_0_c0c19e59b4_42e98a1292.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해미식물가야산 5 0.pdf 파일에 대한 정보 제공",
+      "파일 크기는 564,027 바이트",
+      "OCR 처리 오류: URL에 제어 문자 포함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "파일크기",
+      "OCR오류"
+    ]
+  }
+}

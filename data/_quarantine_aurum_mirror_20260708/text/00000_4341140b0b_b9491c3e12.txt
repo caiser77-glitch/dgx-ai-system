@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 성남낙생, PDF, OCR 오류
+● 3줄 요약:
+- 문서는 성남낙생에 대한 표지 및 목차를 포함하는 PDF 파일입니다.
+- 파일 크기는 425,716 바이트이며, OCR 처리에 실패하였습니다.
+- URL에 제어 문자가 포함되어 있어 파일 처리에 문제가 발생하였습니다.
+=========================================
+source_name: (본안)성남낙생_00000(표지 및 목차).pdf
+source_type: pdf
+size_bytes: 425716
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/(본안)성남낙생_00000(표지 및 목차)_pages_1_taxa.xlsx' (found at least ' ')

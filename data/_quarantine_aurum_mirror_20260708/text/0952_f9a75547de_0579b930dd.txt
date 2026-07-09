@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: PDF, 콘텐츠 추출 불가, 인코딩 오류
+● 3줄 요약:
+- 제공된 문서는 PDF 형태이나 콘텐츠 추출이 지원되지 않는 파일 유형입니다.
+- 파일 크기는 약 30.5MB이며 OCR 처리 과정에서 인코딩 오류가 발생했습니다.
+- 데이터 추출 불가로 인해 구체적인 내용 요약 및 키워드 추출이 불가능합니다.
+=========================================
+source_name: (본안)+0952+소음진동.pdf
+source_type: pdf
+size_bytes: 30513889
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

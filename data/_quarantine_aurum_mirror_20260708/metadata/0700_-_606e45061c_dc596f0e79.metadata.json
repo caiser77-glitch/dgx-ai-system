@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0700_-_606e45061c.txt",
+  "source_name": "0700_-_606e45061c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:47+09:00",
+  "processed_at": "2026-07-08T11:40:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0700_-_606e45061c_dc596f0e79.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0700_-_606e45061c_dc596f0e79.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '0700 부록 - 해충.hwp'는 지원되지 않는 파일 유형으로 내용 추출이 불가능합니다.",
+      "파일 크기는 687,053,824 바이트입니다.",
+      "해충에 대한 부록 자료로 추정됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "해충",
+      "부록",
+      "hwp"
+    ]
+  }
+}

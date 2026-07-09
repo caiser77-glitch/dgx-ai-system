@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/RCNX0097-_3a18166e62.txt",
+  "source_name": "RCNX0097-_3a18166e62.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:02:23+09:00",
+  "processed_at": "2026-07-08T09:02:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/RCNX0097-_3a18166e62_5a5e82aab7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/RCNX0097-_3a18166e62_5a5e82aab7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 12월 28일 울산 온산국가산업단지 인근 1등급지에서 촬영된 고라니 사진 데이터입니다.",
+      "RECONYX HYPERFIRE 2 COVERT 무인 카메라를 통해 야간에 촬영되었습니다.",
+      "4차 조사(2026.03.18-20) 관련 자료로 분류되는 생태 조사 이미지 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고라니",
+      "울산 온산국가산업단지",
+      "무인카메라"
+    ]
+  }
+}

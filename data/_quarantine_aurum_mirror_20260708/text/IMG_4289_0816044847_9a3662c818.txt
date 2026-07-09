@@ -1,0 +1,11 @@
+source_name: IMG_4289.JPG
+source_type: jpg
+size_bytes: 1724393
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/무인카메라 및 송메타/3-2(25.06.17-09.08)/IMG_4289.JPG
+width: 6528
+height: 3680
+mode: RGB
+format: MPO
+datetime_taken: 2025:09:02 11:33:51
+camera_make: Prometheus
+camera_model: BTC-5PXD

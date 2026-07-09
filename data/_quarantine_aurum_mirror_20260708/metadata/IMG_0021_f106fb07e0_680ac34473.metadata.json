@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0021_f106fb07e0.txt",
+  "source_name": "IMG_0021_f106fb07e0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T15:03:04+09:00",
+  "processed_at": "2026-06-30T15:05:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0021_f106fb07e0_680ac34473.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0021_f106fb07e0_680ac34473.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 6월 17일에 촬영된 무인카메라 사진",
+      "Prometheus BTC-5PXD 카메라로 촬영",
+      "고흥 산단에서 촬영된 환경 모니터링 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "고흥 산단",
+      "환경 모니터링"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250206_145627_2f4fff0b5b.txt",
+  "source_name": "20250206_145627_2f4fff0b5b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T08:04:13+09:00",
+  "processed_at": "2026-06-23T08:05:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250206_145627_2f4fff0b5b_91d87c31e8.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250206_145627_2f4fff0b5b_91d87c31e8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "삼성 스마트폰으로 촬영된 고화질 사진\n사진은 2025년 2월 6일 14시 56분 27초에 촬영됨\nGPS 좌표는 위도 34.445426, 경도 127.48882로 확인됨",
+    "tags": [
+      "#사진",
+      "#GPS",
+      "#삼성"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "삼성 스마트폰으로 촬영된 고화질 사진",
+      "사진은 2025년 2월 6일 14시 56분 27초에 촬영됨",
+      "GPS 좌표는 위도 34.445426, 경도 127.48882로 확인됨"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "GPS",
+      "삼성"
+    ]
+  }
+}

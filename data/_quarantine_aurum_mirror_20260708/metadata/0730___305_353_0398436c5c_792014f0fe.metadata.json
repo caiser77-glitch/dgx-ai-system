@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0730___305_353_0398436c5c.txt",
+  "source_name": "0730___305_353_0398436c5c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:32+09:00",
+  "processed_at": "2026-07-08T11:55:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0730___305_353_0398436c5c_792014f0fe.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0730___305_353_0398436c5c_792014f0fe.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 지원되지 않는 파일 형식으로 내용 추출이 불가능합니다.",
+      "파일 크기는 21,786,112 바이트이며, 이름은 '0730 부록_동･식물상 조사 관련자료(305~353)_完.hwp'입니다.",
+      "문서의 유형은 HWP로, 한글과컴퓨터의 워드프로세싱 프로그램에서 사용되는 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "HWP",
+      "지원되지 않는 파일 형식",
+      "동식물상 조사"
+    ]
+  }
+}

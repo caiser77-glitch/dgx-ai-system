@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-08_e8196ce8c0.3_6b0c66c183.txt",
+  "source_name": "01-08_e8196ce8c0.3_6b0c66c183.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:36:31+09:00",
+  "processed_at": "2026-07-08T11:36:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0.3_6b0c66c183_366d20be1e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0.3_6b0c66c183_366d20be1e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '흄관 및 플륨관 깨기 수량산출서'에 대한 CSV 파일입니다.",
+      "총 44개의 행이 포함되어 있습니다.",
+      "컬럼 정보는 제목 외에 상세히 제공되지 않았습니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "수량산출서",
+      "흄관",
+      "플륨관"
+    ]
+  }
+}

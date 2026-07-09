@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 콘텐츠 추출, OCR 오류
+● 3줄 요약:
+- 문서는 표지 및 제출문, 목차를 포함한 PDF 파일임.
+- 파일 크기는 330,315 바이트이며, 콘텐츠 추출이 지원되지 않는 형식임.
+- OCR 오류로 인해 특정 URL에 제어 문자가 포함되어 있음.
+=========================================
+source_name: 0. 표지 및 제출문, 목차.pdf
+source_type: pdf
+size_bytes: 330315
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/0. 표지 및 제출문, 목차_pages_1_taxa.xlsx' (found at least ' ')

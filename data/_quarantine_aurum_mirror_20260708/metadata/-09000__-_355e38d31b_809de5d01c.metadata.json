@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-09000__-_355e38d31b.txt",
+  "source_name": "-09000__-_355e38d31b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:26+09:00",
+  "processed_at": "2026-07-08T12:10:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-09000__-_355e38d31b_809de5d01c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-09000__-_355e38d31b_809de5d01c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역 환경 영향 저감 방안 및 사후 환경 영향 조사 관련 문서",
+      "문서는 현재 초안 단계이며, 편집 완료 상태",
+      "파일 크기는 3MB로, HWP 형식의 파일임"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥",
+      "환경영향",
+      "저감방안"
+    ]
+  }
+}

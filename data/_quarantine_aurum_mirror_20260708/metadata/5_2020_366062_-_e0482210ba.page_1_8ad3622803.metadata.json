@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/5_2020_366062_-_e0482210ba.page_1.csv",
+  "source_name": "5_2020_366062_-_e0482210ba.page_1.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:23+09:00",
+  "processed_at": "2026-07-08T11:47:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2020_366062_-_e0482210ba.page_1_8ad3622803.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/5_2020_366062_-_e0482210ba.page_1_8ad3622803.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2020_366062_-_e0482210ba.page_1_8ad3622803.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2020년도에 수집된 생물 종별 관찰 데이터 기록 문서입니다.",
+      "총 145개의 행으로 구성되어 있으며 각 격자별 개체수 정보를 포함합니다.",
+      "종명과 관찰된 개체수를 중심으로 한 기초 현장조사 데이터셋입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "종명",
+      "개체수",
+      "격자 데이터"
+    ]
+  }
+}

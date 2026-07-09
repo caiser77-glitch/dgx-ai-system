@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00_3719872280.txt",
+  "source_name": "00_3719872280.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:56:55+09:00",
+  "processed_at": "2026-07-08T11:57:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_3719872280_d9e3cf31ff.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_3719872280_d9e3cf31ff.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지조서 파일은 총 4개의 시트로 구성되어 있습니다.",
+      "각 시트는 토지 정보를 담고 있으며, 가장 많은 데이터를 포함하는 시트는 '02.토지조서'입니다.",
+      "시트 '02.토지조서-출력용'은 출력을 위한 간략화된 정보를 제공합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지조서",
+      "엑셀",
+      "시트"
+    ]
+  }
+}

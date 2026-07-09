@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 동식물상, PDF, OCR 오류
+● 3줄 요약:
+- 문서는 동식물상에 대한 정보를 포함하고 있으나, OCR 오류로 인해 내용 추출이 불가능합니다.
+- 파일 크기는 29,931,625 바이트이며, A3 사이즈의 PDF 파일입니다.
+- 문서의 정확한 내용을 확인하려면 수동으로 열어보거나 OCR 설정을 조정해야 합니다.
+=========================================
+source_name: (본안)+0911+동식물상(A3포함).pdf
+source_type: pdf
+size_bytes: 29931625
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

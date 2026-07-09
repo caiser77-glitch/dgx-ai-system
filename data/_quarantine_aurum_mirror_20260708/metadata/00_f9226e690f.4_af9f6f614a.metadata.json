@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/00_f9226e690f.4.csv",
+  "source_name": "00_f9226e690f.4.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:38:05+09:00",
+  "processed_at": "2026-07-08T13:38:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_f9226e690f.4_af9f6f614a.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/00_f9226e690f.4_af9f6f614a.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_f9226e690f.4_af9f6f614a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 배수관 관련 데이터가 포함된 CSV 형식의 파일입니다.",
+      "총 33개의 행으로 구성되어 있으며, 열 제목은 '배 수 관 집 계 표'로 나타납니다.",
+      "구체적인 수치 데이터보다는 문서의 구조와 명칭을 확인하는 용도의 자료입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "배수관",
+      "집계표",
+      "CSV데이터"
+    ]
+  }
+}

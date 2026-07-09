@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01._250123__00_fdb5f5e847.txt",
+  "source_name": "01._250123__00_fdb5f5e847.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:21:44+09:00",
+  "processed_at": "2026-07-08T13:21:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01._250123__00_fdb5f5e847_584024a33c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01._250123__00_fdb5f5e847_584024a33c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역의 조사 설계 용역 착수 보고회 개최 계획에 관한 문서입니다.",
+      "PDF 파일 형식으로 제공되었으나 OCR 처리 과정에서 오류가 발생하였습니다.",
+      "오류 원인은 파일 URL 내 제어 문자 포함으로 인한 추출 실패입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥",
+      "조사설계용역",
+      "착수보고회"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, GPS 좌표, 고흥 산단
+● 3줄 요약:
+- 2025년 9월 3일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- GPS 좌표 (34.454442, 127.492873)에서 촬영
+- 고흥 산단의 이부 지역에서 촬영된 사진
+=========================================
+source_name: IMG_0534.JPG
+source_type: jpg
+size_bytes: 8219116
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.09.01~09.04/2025.09.02~04 고흥 이부/IMG_0534.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:09:03 09:32:16
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 34.454442
+gps_lon: 127.492873

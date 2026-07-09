@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_734_56a5fb3ce7.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_734_56a5fb3ce7.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T03:42:52+09:00",
+  "processed_at": "2026-06-24T03:44:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_734_56a5fb3ce7_74158c3e15.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_734_56a5fb3ce7_74158c3e15.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "Canon PowerShot SX70 HS로 촬영된 사진\n2025년 3월 26일 10시 54분 2초에 촬영\n해상도 5184x3888, RGB 모드, MPO 형식",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#2025.03.26",
+      "#5184x3888"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS로 촬영된 사진",
+      "2025년 3월 26일 10시 54분 2초에 촬영",
+      "해상도 5184x3888, RGB 모드, MPO 형식"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "2025.03.26",
+      "5184x3888"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0100_5b09388ae3.txt",
+  "source_name": "0100_5b09388ae3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:14+09:00",
+  "processed_at": "2026-07-08T11:47:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0100_5b09388ae3_bb5be22c6b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0100_5b09388ae3_bb5be22c6b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '0100_계획의 목적 및 개요.hwp'는 HWP 파일 형식으로 제공되었습니다.",
+      "파일 크기는 4,792,832 바이트입니다.",
+      "현재 이 파일 형식은 지원되지 않아 내용 추출이 불가능합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "HWP",
+      "파일 크기",
+      "지원되지 않는 파일 형식"
+    ]
+  }
+}

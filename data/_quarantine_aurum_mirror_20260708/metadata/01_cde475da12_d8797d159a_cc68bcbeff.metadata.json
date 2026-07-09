@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_cde475da12_d8797d159a.txt",
+  "source_name": "01_cde475da12_d8797d159a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:29:33+09:00",
+  "processed_at": "2026-07-08T11:29:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01_cde475da12_d8797d159a_cc68bcbeff.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01_cde475da12_d8797d159a_cc68bcbeff.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획(안)도는 고흥 산단의 토지 이용 계획을 시각적으로 표현한 문서입니다.",
+      "이 이미지는 CMYK 모드로 제작되어 프린트 용도에 적합합니다.",
+      "이미지의 해상도는 2739x2502 픽셀로 상세한 정보를 제공합니다."
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "토지이용계획",
+      "고흥 산단",
+      "CMYK"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2-2025_4_-2_3.1_30ca71ae8a.txt",
+  "source_name": "2-2025_4_-2_3.1_30ca71ae8a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:32+09:00",
+  "processed_at": "2026-07-08T11:57:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2-2025_4_-2_3.1_30ca71ae8a_447d7a481a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2-2025_4_-2_3.1_30ca71ae8a_447d7a481a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "과천주암 사후 2-2025년 4분기 분기보고서에 대한 문서입니다.",
+      "문서 크기는 137,756,672 바이트입니다.",
+      "내용 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "과천주암",
+      "분기보고서",
+      "2025년"
+    ]
+  }
+}

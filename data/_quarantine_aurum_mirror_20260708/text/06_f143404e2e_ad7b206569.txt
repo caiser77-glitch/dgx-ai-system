@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 주민 의견 수렴, 국가종합비행성능시험장, OCR 오류
+● 3줄 요약:
+- 문서는 주민 의견 수렴에 관한 내용을 다루고 있습니다.
+- 국가종합비행성능시험장과 관련된 주민들의 의견을 수집한 자료입니다.
+- 문서의 OCR 처리 과정에서 인코딩 오류가 발생하여 내용 추출이 제대로 이루어지지 않았습니다.
+=========================================
+source_name: (본안)+06+주민의견수렴(국가종합비행성능시험장).pdf
+source_type: pdf
+size_bytes: 2410329
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

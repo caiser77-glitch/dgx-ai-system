@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 위생공중보건, OCR 오류
+● 3줄 요약:
+- 위생공중보건 관련 추가 자료를 포함한 PDF 문서입니다.
+- 파일 크기는 약 2.9MB이며 콘텐츠 추출이 지원되지 않는 유형입니다.
+- OCR 처리 과정에서 'ascii' 코덱 인코딩 오류가 발생하였습니다.
+=========================================
+source_name: (본안)+1500+추가자료(위생공중보건).pdf
+source_type: pdf
+size_bytes: 2907058
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

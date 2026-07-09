@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 포유류, 칠포
+● 3줄 요약:
+- 제5차 전국자연환경조사의 일환으로 진행된 2022년도 칠포 지역 포유류 조사 보고서입니다.
+- 해당 문서는 PDF 형식의 파일로 데이터 추출 과정에서 일부 오류가 확인되었습니다.
+- 조사 대상 지역은 칠포이며 주요 연구 대상은 포유류입니다.
+=========================================
+source_name: 제5차 전국자연환경조사 2022 칠포-포유류.pdf
+source_type: pdf
+size_bytes: 508955
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제5차 전국자연환경조사 2022 칠포-포유류_pages_1_taxa.xlsx' (found at least ' ')

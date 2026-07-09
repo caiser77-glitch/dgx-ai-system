@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/B090__2023_347064_8656fffff9.txt",
+  "source_name": "B090__2023_347064_8656fffff9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:21:33+09:00",
+  "processed_at": "2026-07-08T13:21:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/B090__2023_347064_8656fffff9_14ab25a01a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/B090__2023_347064_8656fffff9_14ab25a01a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 위성 제거에 관한 내용을 담고 있으나, OCR 처리 과정에서 에러가 발생하여 내용 추출이 불가능합니다.",
+      "파일 크기는 18,348,774 바이트이며, PDF 형식의 파일입니다.",
+      "문서의 이름은 '(B090)온맵_2023_347064_위성제거.pdf'입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "위성제거",
+      "PDF",
+      "OCR 에러"
+    ]
+  }
+}

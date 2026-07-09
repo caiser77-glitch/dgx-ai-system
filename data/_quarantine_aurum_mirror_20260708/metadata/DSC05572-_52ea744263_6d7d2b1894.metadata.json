@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05572-_52ea744263.txt",
+  "source_name": "DSC05572-_52ea744263.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T15:14:17+09:00",
+  "processed_at": "2026-06-24T15:16:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05572-_52ea744263_6d7d2b1894.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05572-_52ea744263_6d7d2b1894.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "선녀벌레 사진, 울산 온산국가산업단지에서 촬영\n1차 조사 기간: 2025년 7월 28일-30일\n파일 크기: 509,265 바이트, 해상도: 1315x877 픽셀",
+    "tags": [
+      "#선녀벌레",
+      "#울산 온산국가산업단지",
+      "#곤충"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "선녀벌레 사진, 울산 온산국가산업단지에서 촬영",
+      "1차 조사 기간: 2025년 7월 28일-30일",
+      "파일 크기: 509,265 바이트, 해상도: 1315x877 픽셀"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "선녀벌레",
+      "울산 온산국가산업단지",
+      "곤충"
+    ]
+  }
+}

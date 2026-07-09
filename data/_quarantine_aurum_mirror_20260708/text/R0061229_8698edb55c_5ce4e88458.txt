@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 고덕강일, 모니터링, 현장사진
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 고덕강일 지역의 현장 사진 데이터입니다.
+- 촬영 일시는 2026년 5월 12일 오후 3시 38분이며 GPS 좌표를 포함하고 있습니다.
+- SH공사 경동 관련 모니터링 업무의 일환으로 기록된 이미지 파일입니다.
+=========================================
+source_name: R0061229.JPG
+source_type: jpg
+size_bytes: 4293962
+path: /mnt/dgxbackup/2026 SH공사(경동)/고덕강일/모니터링/02. 사진/0512/R0061229.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:12 15:38:48
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 37.557595
+gps_lon: 127.1789

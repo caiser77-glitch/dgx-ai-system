@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.06.16-19_7_18d1fb3030.txt",
+  "source_name": "2025.06.16-19_7_18d1fb3030.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T02:34:26+09:00",
+  "processed_at": "2026-06-23T02:35:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.06.16-19_7_18d1fb3030_e7f9de2bca.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.06.16-19_7_18d1fb3030_e7f9de2bca.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "고흥 산단의 식생 사진\n2025년 6월 16일부터 19일까지 촬영\nJPEG 형식, RGB 모드, 2480x3507 픽셀",
+    "tags": [
+      "#고흥산단",
+      "#식생",
+      "#야장"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단의 식생 사진",
+      "2025년 6월 16일부터 19일까지 촬영",
+      "JPEG 형식, RGB 모드, 2480x3507 픽셀"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥산단",
+      "식생",
+      "야장"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_d0e403c771.txt",
+  "source_name": "file_d0e403c771.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:00+09:00",
+  "processed_at": "2026-07-08T13:49:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_d0e403c771_c88b370f83.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_d0e403c771_c88b370f83.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일의 메타데이터 정보를 포함하고 있습니다.",
+      "파일명은 '흑투싼.png'이며, 경로상 야장 및 영수증 관련 폴더에 위치합니다.",
+      "파일 형식은 PNG이며 해상도는 439x311 픽셀입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "영수증 파일",
+      "흑투싼"
+    ]
+  }
+}

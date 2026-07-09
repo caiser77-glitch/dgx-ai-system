@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_aca172acd2.txt",
+  "source_name": "1_aca172acd2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:19:23+09:00",
+  "processed_at": "2026-06-29T17:21:18+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_aca172acd2_7642f01d81.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_aca172acd2_7642f01d81.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "PNG 형식의 토지이용계획 도면 이미지",
+      "고흥 산단의 환평자료 중 착수보고회 관련 자료",
+      "이미지 크기: 888x772, 파일 크기: 573,611 바이트"
+    ],
+    "category": "도면",
+    "keywords": [
+      "토지이용계획",
+      "고흥 산단",
+      "착수보고회"
+    ]
+  }
+}

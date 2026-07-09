@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_67c6b0574b.txt",
+  "source_name": "file_67c6b0574b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:28+09:00",
+  "processed_at": "2026-07-08T13:52:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_67c6b0574b_3e29ff8b16.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_67c6b0574b_3e29ff8b16.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단 관련 착수보고회 제출용 드론 촬영 이동 경로 이미지 데이터입니다.",
+      "드론을 활용한 현장 조사 및 촬영을 위한 비행 경로를 포함하고 있습니다.",
+      "2025년 3월 13일 환평자료의 일환으로 작성된 도면 자료입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "드론 이동경로",
+      "고흥 산단",
+      "착수보고회"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+source_name: 손죽020-34710020.zip
+source_type: zip
+size_bytes: 46591
+content_extraction: unsupported_file_type

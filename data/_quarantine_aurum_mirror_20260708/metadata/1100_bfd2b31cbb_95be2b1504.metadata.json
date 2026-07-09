@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1100_bfd2b31cbb.txt",
+  "source_name": "1100_bfd2b31cbb.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:38:52+09:00",
+  "processed_at": "2026-07-08T11:38:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1100_bfd2b31cbb_95be2b1504.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1100_bfd2b31cbb_95be2b1504.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해안동마을 주민설명회 개최 결과 보고서",
+      "제안로(평화로~1100도로간) 개설사업에 대한 기본 및 실시설계 설명",
+      "주민 의견 수렴 및 질의응답 진행"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "주민설명회",
+      "개설사업",
+      "설계"
+    ]
+  }
+}

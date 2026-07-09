@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_5d33c02822.txt",
+  "source_name": "2_5d33c02822.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:45:28+09:00",
+  "processed_at": "2026-07-08T11:45:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_5d33c02822_bce5ee299c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_5d33c02822_bce5ee299c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "기후변화 영향 평가서에 대한 보완 요청서로, 고흥 우주발사체 국가산업단지와 관련된 내용 포함",
+      "파일 형식이 HWPX로, 현재 지원되지 않는 파일 타입으로 인해 내용 추출 불가",
+      "문서 크기는 540,737 바이트"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "기후변화영향평가서",
+      "보완요청서",
+      "고흥우주발사체국가산업단지"
+    ]
+  }
+}

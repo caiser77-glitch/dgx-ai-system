@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0013_c2afefb5d4.txt",
+  "source_name": "IMG_0013_c2afefb5d4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T09:06:17+09:00",
+  "processed_at": "2026-06-25T09:08:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0013_c2afefb5d4_49f4270fb1.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0013_c2afefb5d4_49f4270fb1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 3월 27일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 털새 사진\n사진은 고흥 산단에서 촬영되었으며, GPS 좌표는 위도 34.458858, 경도 127.488167\n사진의 해상도는 5184x3888 픽셀, 파일 크기는 9,340,242 바이트",
+    "tags": [
+      "#털새",
+      "#Canon PowerShot SX70 HS",
+      "#GPS 좌표"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 털새 사진",
+      "사진은 고흥 산단에서 촬영되었으며, GPS 좌표는 위도 34.458858, 경도 127.488167",
+      "사진의 해상도는 5184x3888 픽셀, 파일 크기는 9,340,242 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "털새",
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표"
+    ]
+  }
+}

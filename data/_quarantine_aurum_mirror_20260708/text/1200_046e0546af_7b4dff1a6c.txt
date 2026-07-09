@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 종합평가, 결론, OCR 오류
+● 3줄 요약:
+- 문서는 종합 평가 및 결론에 대한 내용을 담고 있으나, OCR 오류로 인해 텍스트 추출이 불가능한 상태입니다.
+- 파일 크기는 201,667 바이트이며, PDF 형식의 파일입니다.
+- OCR 처리 시 'ascii' 코덱에서 문자 인코딩 문제로 오류가 발생했습니다.
+=========================================
+source_name: (본안)+1200+종합평가+및+결론.pdf
+source_type: pdf
+size_bytes: 201667
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_3de7650c27.txt",
+  "source_name": "file_3de7650c27.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:23+09:00",
+  "processed_at": "2026-07-08T13:51:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_3de7650c27_c4e9759408.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_3de7650c27_c4e9759408.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지 파일명은 '워터드롭 이미지'이며 확장자는 jpg입니다.",
+      "파일 경로는 호미반도 산림복지단지 조경설계 관련 폴더 내에 위치합니다.",
+      "해당 파일은 1120x1332 해상도의 RGB 모드 이미지 데이터입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "워터드롭 이미지",
+      "조경설계",
+      "이미지 파일"
+    ]
+  }
+}

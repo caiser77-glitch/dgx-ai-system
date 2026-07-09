@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_17608680fb.txt",
+  "source_name": "file_17608680fb.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:33+09:00",
+  "processed_at": "2026-07-08T13:54:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_17608680fb_0152cbbf9d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_17608680fb_0152cbbf9d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 이미지 파일 형식의 데이터 정보를 포함하고 있습니다.",
+      "파일 경로는 광주도시철도 관련 영수증 폴더 내에 위치합니다.",
+      "이미지의 규격은 220x311 해상도의 RGB 모드입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 파일 정보",
+      "광주도시철도",
+      "영수증 데이터"
+    ]
+  }
+}

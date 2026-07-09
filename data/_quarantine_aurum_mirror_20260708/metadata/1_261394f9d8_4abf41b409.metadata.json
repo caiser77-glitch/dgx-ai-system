@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_261394f9d8.txt",
+  "source_name": "1_261394f9d8.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:19:31+09:00",
+  "processed_at": "2026-06-22T23:20:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_261394f9d8_4abf41b409.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_261394f9d8_4abf41b409.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "인천용역",
+    "tags": [
+      "#인천",
+      "#용역",
+      "#2026"
+    ],
+    "summary": "1분기 종료.jpg, 크기 671,687 bytes, 해상도 620x1781, RGB 모드, JPEG 형식, OCR 처리 실패.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "1분기 종료 이미지 파일에 대한 메타데이터 제공",
+      "OCR 처리 중 서버 오류로 인해 텍스트 추출 실패",
+      "파일 크기, 해상도, 색상 모드 및 형식 정보 포함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "메타데이터",
+      "OCR 오류",
+      "JPEG"
+    ]
+  }
+}

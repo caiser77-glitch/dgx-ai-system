@@ -1,0 +1,4 @@
+source_name: 설계보고서 20250331.zip
+source_type: zip
+size_bytes: 856507882
+content_extraction: unsupported_file_type

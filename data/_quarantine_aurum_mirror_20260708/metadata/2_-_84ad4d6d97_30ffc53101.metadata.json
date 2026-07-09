@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_-_84ad4d6d97.txt",
+  "source_name": "2_-_84ad4d6d97.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:09+09:00",
+  "processed_at": "2026-07-08T12:05:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_-_84ad4d6d97_30ffc53101.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_-_84ad4d6d97_30ffc53101.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 북측 진입 도로에 대한 공사 계획 평면도를 포함하고 있습니다.",
+      "PDF 파일 크기는 1,441,602 바이트입니다.",
+      "OCR 처리 중 인코딩 오류가 발생하여 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "공사계획서",
+    "keywords": [
+      "공사계획서",
+      "북측진입도로",
+      "평면도"
+    ]
+  }
+}

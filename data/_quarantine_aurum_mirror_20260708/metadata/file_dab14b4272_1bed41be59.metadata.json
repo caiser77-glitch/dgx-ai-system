@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_dab14b4272.txt",
+  "source_name": "file_dab14b4272.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:12+09:00",
+  "processed_at": "2026-07-08T13:49:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_dab14b4272_1bed41be59.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_dab14b4272_1bed41be59.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단 인근의 주변 개발 사업 및 도로 현황을 나타내는 도면 자료입니다.",
+      "사업지구 주변의 토지 이용 계획과 주요 도로망 체계를 시각화하고 있습니다.",
+      "착수보고회 제출용으로 작성된 주변 환경 분석 데이터입니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "주변개발사업",
+      "도로현황",
+      "고흥 산단"
+    ]
+  }
+}

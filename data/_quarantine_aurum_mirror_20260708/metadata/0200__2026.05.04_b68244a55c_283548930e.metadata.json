@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0200__2026.05.04_b68244a55c.txt",
+  "source_name": "0200__2026.05.04_b68244a55c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:46:37+09:00",
+  "processed_at": "2026-07-08T11:46:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0200__2026.05.04_b68244a55c_283548930e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0200__2026.05.04_b68244a55c_283548930e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "(주)아우룸생태연구소에서 작성한 실시내용 및 조치결과에 관한 문서입니다.",
+      "문서의 작성 날짜는 2026년 5월 4일이며 파일 크기는 약 2.38MB입니다.",
+      "해당 파일은 현재 내용 추출이 지원되지 않는 유형의 문서입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "아우룸생태연구소",
+      "실시내용",
+      "조치결과"
+    ]
+  }
+}

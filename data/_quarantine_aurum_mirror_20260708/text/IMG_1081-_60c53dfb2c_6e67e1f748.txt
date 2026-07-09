@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 파일, JPEG, OCR 오류
+● 3줄 요약:
+- 이미지 파일 'IMG_1081-딱새.jpg'에 대한 정보 제공
+- 파일 크기: 511,983 바이트, 해상도: 1248x936, 모드: RGB, 형식: JPEG
+- OCR 처리 시 서버 오류 발생 (HTTP 500 Internal Server Error)
+=========================================
+source_name: IMG_1081-딱새.jpg
+source_type: jpg
+size_bytes: 511983
+width: 1248
+height: 936
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

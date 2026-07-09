@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.04.04_15.31_-_e31ac76948.txt",
+  "source_name": "2024.04.04_15.31_-_e31ac76948.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T00:15:54+09:00",
+  "processed_at": "2026-06-23T00:17:15+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024.04.04_15.31_-_e31ac76948_74d3e3dcc8.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024.04.04_15.31_-_e31ac76948_74d3e3dcc8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#2024",
+      "#진천초평산업단지"
+    ],
+    "summary": "2024년 4월 4일 15시 31분에 찍힌 육수 종료 영수증 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 4월 4일 15시 31분에 촬영된 육수 종료 관련 영수증 이미지",
+      "JPEG 형식, RGB 모드, 271x706 픽셀 크기의 사진",
+      "파일 크기는 135,221 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "육수 종료",
+      "JPEG"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_3060e188b3.txt",
+  "source_name": "file_3060e188b3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:09+09:00",
+  "processed_at": "2026-07-08T13:51:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_3060e188b3_85c32c8651.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_3060e188b3_85c32c8651.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "꿀벌의 형태를 활용한 회전 착시 효과 이미지를 포함하고 있습니다.",
+      "이미지 파일 형식인 JPEG로 구성된 시각 자료입니다.",
+      "설계도면 경로 내에 저장된 이미지 데이터입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "꿀벌",
+      "회전착시",
+      "이미지"
+    ]
+  }
+}

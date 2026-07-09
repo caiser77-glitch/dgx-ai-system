@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07.__6.1_6b37539e98.txt",
+  "source_name": "07.__6.1_6b37539e98.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:49:26+09:00",
+  "processed_at": "2026-07-08T11:49:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07.__6.1_6b37539e98_da3e68c967.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07.__6.1_6b37539e98_da3e68c967.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "학곤내 소하천 정비사업 관련 자연생태환경 문서입니다.",
+      "PDF 파일 크기는 약 9.8MB입니다.",
+      "OCR 처리 오류로 인해 상세 내용 추출이 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "학곤내 소하천",
+      "자연생태환경",
+      "정비사업"
+    ]
+  }
+}

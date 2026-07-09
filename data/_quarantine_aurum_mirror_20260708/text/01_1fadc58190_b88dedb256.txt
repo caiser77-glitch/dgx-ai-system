@@ -1,0 +1,4 @@
+source_name: 01_발주처 자료.zip
+source_type: zip
+size_bytes: 1648819
+content_extraction: unsupported_file_type

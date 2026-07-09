@@ -1,0 +1,18 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 01-09 임목.xlsx
+source_type: xlsx
+sheet: 간지8, rows: 6, columns: 3
+sheet: 임목폐기물수량 집계, rows: 5, columns: 6
+sheet: 임목폐기물산출, rows: 39, columns: 22
+sheet: 벌개제근수량산출, rows: 15, columns: 4
+sheet: 산림조사서, rows: 142, columns: 14
+sheet: 간지9(X), rows: 6, columns: 3
+sheet: 비옥토수량집계, rows: 6, columns: 7
+sheet: 비옥토적치장단위, rows: 29, columns: 14
+sheet: 비옥토산출조서, rows: 7, columns: 8
+sheet: 비옥토수량산출근거, rows: 26, columns: 5

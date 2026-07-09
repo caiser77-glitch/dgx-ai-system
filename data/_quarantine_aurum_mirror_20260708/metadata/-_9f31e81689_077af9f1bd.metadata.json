@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_9f31e81689.txt",
+  "source_name": "-_9f31e81689.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:05:52+09:00",
+  "processed_at": "2026-06-22T22:06:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-_9f31e81689_077af9f1bd.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-_9f31e81689_077af9f1bd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "음성천",
+    "class_name": "조류",
+    "tags": [
+      "#음성천",
+      "#조류",
+      "#아라기술"
+    ],
+    "summary": "음성천에서 촬영한 조류 사진. 크기: 366570바이트, 해상도: 1770x2483, 카메라: SEIKO EPSON CORP. ES-580W.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천에서 촬영된 조류 사진",
+      "EPSON ES-580W 카메라로 촬영",
+      "JPEG 형식, 1770x2483 픽셀 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "조류",
+      "EPSON ES-580W"
+    ]
+  }
+}

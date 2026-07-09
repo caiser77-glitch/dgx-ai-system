@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_-_2_37e7c27f3f.txt",
+  "source_name": "-_-_2_37e7c27f3f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:38:52+09:00",
+  "processed_at": "2026-07-08T13:38:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_-_2_37e7c27f3f_8d24db52b5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_-_2_37e7c27f3f_8d24db52b5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "견적서 파일 내 '직접 삽입', '연습', 'Sheet1' 총 3개의 시트가 포함되어 있습니다.",
+      "'직접 삽입' 시트는 36행 39열로 실제 데이터가 포함된 주요 시트입니다.",
+      "'연습' 시트는 비어 있으며, 'Sheet1' 시트는 3행 5열의 데이터를 포함하고 있습니다."
+    ],
+    "category": "견적서",
+    "keywords": [
+      "견적서",
+      "시트",
+      "데이터"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 장비
+● 핵심 키워드: 이미지, JPEG, OCR 오류
+● 3줄 요약:
+- 이미지 파일 'IMG_1311-큰밀잠자리.JPG'의 크기가 753,878 바이트이며, 해상도는 2592x1944 픽셀입니다.
+- 이미지는 RGB 모드로, JPEG 형식으로 저장되어 있습니다.
+- OCR 처리 시 서버 내부 오류가 발생하여 텍스트 인식이 실패했습니다.
+=========================================
+source_name: [크기변환]IMG_1311-큰밀잠자리.JPG
+source_type: jpg
+size_bytes: 753878
+width: 2592
+height: 1944
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

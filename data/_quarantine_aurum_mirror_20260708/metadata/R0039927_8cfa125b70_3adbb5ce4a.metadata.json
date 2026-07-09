@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039927_8cfa125b70.txt",
+  "source_name": "R0039927_8cfa125b70.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:34:06+09:00",
+  "processed_at": "2026-07-08T14:34:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039927_8cfa125b70_3adbb5ce4a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039927_8cfa125b70_3adbb5ce4a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 파일은 '새뱅이'라는 명칭을 가진 이미지 데이터입니다.",
+      "광주도시철도 관련 현장 조사 사진의 일부로 추정됩니다.",
+      "JPEG 형식의 RGB 모드로 구성된 시각 자료입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "새뱅이",
+      "광주도시철도",
+      "현장사진"
+    ]
+  }
+}

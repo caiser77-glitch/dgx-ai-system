@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/347102_1c98136684.txt",
+  "source_name": "347102_1c98136684.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:21:21+09:00",
+  "processed_at": "2026-07-08T13:21:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/347102_1c98136684_6295d1b41c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/347102_1c98136684_6295d1b41c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "다도해해상국립공원 내 천연기념물인 고흥 외나로도 상록수림 지역의 지리 정보 제공",
+      "외나로도 일대의 마을 명칭, 제방 및 교량 등 주요 지형지물 데이터 포함",
+      "2022년 제작된 수치지도와 2024년 5월 고시된 1:25,000 축척의 생태·자연도 정보"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "다도해해상국립공원",
+      "고흥 외나로도 상록수림",
+      "생태·자연도"
+    ]
+  }
+}

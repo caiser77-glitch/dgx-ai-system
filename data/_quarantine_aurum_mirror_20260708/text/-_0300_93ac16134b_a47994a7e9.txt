@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 환경영향평가, 대상지역 설정, OCR 오류
+● 3줄 요약:
+- 문서는 환경영향평가 대상지역 설정에 관한 내용을 포함하고 있습니다.
+- 파일 크기는 1,846,779 바이트이며, PDF 형식입니다.
+- OCR 처리 과정에서 인코딩 오류가 발생하여 내용 추출이 지원되지 않습니다.
+=========================================
+source_name: (충주-본안)0300+환경영향평가+대상지역의+설정.pdf
+source_type: pdf
+size_bytes: 1846779
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

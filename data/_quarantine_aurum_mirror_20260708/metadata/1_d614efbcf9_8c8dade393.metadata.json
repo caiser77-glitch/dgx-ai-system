@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_d614efbcf9.txt",
+  "source_name": "1_d614efbcf9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:45:30+09:00",
+  "processed_at": "2026-07-08T11:45:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_d614efbcf9_8c8dade393.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_d614efbcf9_8c8dade393.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 우주발사체 국가산업단지에 대한 환경영향평가서 본안 보완요청 건임",
+      "해당 문서는 HWPX 형식으로 현재 콘텐츠 추출이 지원되지 않는 상태임",
+      "문서의 전체 크기는 약 3.2MB로 확인됨"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향평가서",
+      "보완요청서",
+      "고흥 우주발사체 국가산업단지"
+    ]
+  }
+}

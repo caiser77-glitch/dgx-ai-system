@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 연담리, 군관리계획, 정보가림
+● 3줄 요약:
+- 연담리 지역의 군관리계획 관련 부록 문서로 정보가림 처리가 적용되었습니다.
+- 파일 형식은 PDF이며 파일 크기는 약 8.3MB입니다.
+- OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 연담리 군관리계획_07000 부록(정보가림).pdf
+source_type: pdf
+size_bytes: 8329781
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/연담리 군관리계획_07000 부록(정보가림)_pages_1_taxa.xlsx' (found at least ' ')

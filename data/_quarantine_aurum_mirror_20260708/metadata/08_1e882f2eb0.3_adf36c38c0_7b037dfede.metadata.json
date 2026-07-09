@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/08_1e882f2eb0.3_adf36c38c0.csv",
+  "source_name": "08_1e882f2eb0.3_adf36c38c0.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:57+09:00",
+  "processed_at": "2026-07-08T11:33:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0.3_adf36c38c0_7b037dfede.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/08_1e882f2eb0.3_adf36c38c0_7b037dfede.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0.3_adf36c38c0_7b037dfede.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 건설 관련 공종 및 가설 시설 현황을 담은 CSV 데이터입니다.",
+      "가설사무소와 가설건물의 면적, 레미콘 공급 등의 항목을 포함하고 있습니다.",
+      "총 5개의 행으로 구성된 기초적인 공정 관리용 자료입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "공종",
+      "가설사무소",
+      "가설건물 면적"
+    ]
+  }
+}

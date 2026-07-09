@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 고흥 우주발사체, 국가산업단지, 기후변화영향평가
+● 3줄 요약:
+- 고흥 우주발사체 국가산업단지 개발사업의 기후변화 영향평가서 초안에 대한 검토 의견 회신 문서입니다.
+- PDF 파일의 OCR 처리 과정에서 파일명 내 공백 문자로 인한 URL 형식 오류가 발생하였습니다.
+- 이로 인해 문서의 실제 내용 추출이 불가능한 상태임을 나타내고 있습니다.
+=========================================
+source_name: 고흥 우주발사체 국가산업단지 개발사업 기후변화영향평가서(초안) 검토 의견 회신.pdf
+source_type: pdf
+size_bytes: 293209
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/고흥 우주발사체 국가산업단지 개발사업 기후변화영향평가서(초안) 검토 의견 회신_pages_1_taxa.xlsx' (found at least ' ')

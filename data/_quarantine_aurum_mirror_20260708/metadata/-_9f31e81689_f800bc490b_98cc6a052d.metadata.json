@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_9f31e81689_f800bc490b.txt",
+  "source_name": "-_9f31e81689_f800bc490b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:30:16+09:00",
+  "processed_at": "2026-07-08T11:30:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_9f31e81689_f800bc490b_98cc6a052d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_9f31e81689_f800bc490b_98cc6a052d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천에서 촬영된 조류 사진 데이터입니다.",
+      "EPSON ES-580W 카메라를 사용하여 촬영되었습니다.",
+      "JPEG 형식의 1770x2483 픽셀 이미지 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "조류",
+      "EPSON ES-580W"
+    ]
+  }
+}

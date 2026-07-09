@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/26_3_2047de97ff.txt",
+  "source_name": "26_3_2047de97ff.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:54:43+09:00",
+  "processed_at": "2026-07-08T11:54:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/26_3_2047de97ff_3585711255.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/26_3_2047de97ff_3585711255.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "소래포구 지역의 2026년 3월 육상생태계 조류조사 계획 수립",
+      "조사 목적 및 구체적인 방법론에 대한 상세 정보 미확인",
+      "hwp 파일 형식 제한으로 인한 본문 내용 추출 불가"
+    ],
+    "category": "연구계획서",
+    "keywords": [
+      "육상생태계",
+      "소래포구",
+      "조류조사"
+    ]
+  }
+}

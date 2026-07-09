@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/b-1_9ff63222d7.txt",
+  "source_name": "b-1_9ff63222d7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:48:55+09:00",
+  "processed_at": "2026-07-08T11:49:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/b-1_9ff63222d7_fd0891a529.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/b-1_9ff63222d7_fd0891a529.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 'b-1 사업개요.pdf'는 콘텐츠 추출이 지원되지 않는 PDF 파일입니다.",
+      "OCR 처리 중 URL 내 제어 문자로 인한 오류가 발생하였습니다.",
+      "특정 경로의 파일명에서 공백 문자가 발견되어 문제가 되었습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "콘텐츠 추출",
+      "OCR 오류"
+    ]
+  }
+}

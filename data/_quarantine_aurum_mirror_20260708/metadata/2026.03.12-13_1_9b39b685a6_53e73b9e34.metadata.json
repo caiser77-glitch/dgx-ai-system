@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.12-13_1_9b39b685a6.txt",
+  "source_name": "2026.03.12-13_1_9b39b685a6.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:28:11+09:00",
+  "processed_at": "2026-06-23T18:29:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.12-13_1_9b39b685a6_53e73b9e34.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.12-13_1_9b39b685a6_53e73b9e34.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "포항-안동",
+    "class_name": "야장",
+    "tags": [
+      "#야장",
+      "#포항안동",
+      "#2026"
+    ],
+    "summary": "2026년 3월 12-13일 포항-안동 탐문 조사 야장 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 12-13일 포항-안동 지역 탐문 활동 기록 사진",
+      "야장(野帳) 형태의 기록으로, 현장 조사 내용 포함",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항안동",
+      "탐문",
+      "야장"
+    ]
+  }
+}

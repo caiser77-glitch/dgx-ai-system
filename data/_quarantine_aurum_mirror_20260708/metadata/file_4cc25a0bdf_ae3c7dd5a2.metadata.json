@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4cc25a0bdf.txt",
+  "source_name": "file_4cc25a0bdf.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:06:33+09:00",
+  "processed_at": "2026-07-08T12:06:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4cc25a0bdf_ae3c7dd5a2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4cc25a0bdf_ae3c7dd5a2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "우주발사체 국가산단의 환경영향평가 초안에 대한 의견 제출 관련 문서입니다.",
+      "파일 크기는 139,114 바이트이며 PDF 형식의 파일입니다.",
+      "파일 경로 내 제어 문자 포함으로 인해 OCR 처리 과정에서 오류가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "우주발사체",
+      "국가산단",
+      "환경영향평가"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: IMG_0306-어치.jpg
+source_type: jpg
+size_bytes: 507889
+path: /mnt/dgxbackup/2026 KCI/성남낙생 송전선로 소규모/02. 사진/2026.04.01/허과 조양/변환/IMG_0306-어치.jpg
+width: 1086
+height: 815
+mode: RGB
+format: JPEG

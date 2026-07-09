@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_b587606df2.txt",
+  "source_name": "1_b587606df2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:41:06+09:00",
+  "processed_at": "2026-06-22T23:42:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_b587606df2_6efc8f9359.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_b587606df2_6efc8f9359.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "고흥 산단",
+    "class_name": "생태통로",
+    "tags": [
+      "#생태네트워크",
+      "#생태통로",
+      "#설계자료"
+    ],
+    "summary": "고흥 산단의 2025.09.01 본안 설계자료 중 생태네트워크분석 및 생태통로 계획 관련 백업 자료.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "생태통로 관련 이미지 파일로, 고흥 산단의 생태네트워크 분석 및 생태통로 계획에 사용됨.",
+      "JPEG 형식의 이미지로, RGB 모드와 2872x3284 해상도를 가짐.",
+      "파일 크기는 7,686,925 바이트이며, 2025년 9월 4일 본안 설계자료 및 보고서 자료 폴더에 저장됨."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "생태통로",
+      "생태네트워크",
+      "고흥 산단"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00270_c56d5b7e28.txt",
+  "source_name": "00270_c56d5b7e28.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:16:38+09:00",
+  "processed_at": "2026-07-08T13:16:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00270_c56d5b7e28_a3818629cf.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00270_c56d5b7e28_a3818629cf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "위생공중보건에 관한 PDF 파일 문서입니다.",
+      "파일 크기는 약 6.76MB이며 OCR 처리 과정에서 오류가 발생했습니다.",
+      "ASCII 인코딩 범위를 벗어난 문자로 인해 텍스트 추출이 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "위생공중보건",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

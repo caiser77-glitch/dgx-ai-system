@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_5908fb0fae.txt",
+  "source_name": "file_5908fb0fae.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:08+09:00",
+  "processed_at": "2026-07-08T13:52:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_5908fb0fae_d0a333390c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_5908fb0fae_d0a333390c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지 파일명은 '워터샤원 썬 이미지'이며 조경 설계 관련 자료임",
+      "호미반도 산림복지단지 조경설계 프로젝트의 일부로 판단됨",
+      "파일 경로는 빛공해 저감방안 및 설계도면 폴더 내에 위치함"
+    ],
+    "category": "기타",
+    "keywords": [
+      "워터샤원",
+      "조경설계",
+      "호미반도"
+    ]
+  }
+}

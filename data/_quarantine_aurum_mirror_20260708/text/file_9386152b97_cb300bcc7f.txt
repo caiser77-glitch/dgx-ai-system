@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 환경영향평가, 논산, 국방국가산업단지
+● 3줄 요약:
+- 논산 국방 국가산업단지 조성사업에 대한 환경영향평가 협의 내용을 포함하고 있습니다.
+- 문서 크기는 353,052 바이트이며 PDF 형식으로 구성되어 있습니다.
+- OCR 처리 과정에서의 인코딩 오류로 인해 상세 내용 추출이 지원되지 않습니다.
+=========================================
+source_name: 환경영향평가+협의내용[논산+국방+국가산업단지+조성사업].pdf
+source_type: pdf
+size_bytes: 353052
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-18: ordinal not in range(128)

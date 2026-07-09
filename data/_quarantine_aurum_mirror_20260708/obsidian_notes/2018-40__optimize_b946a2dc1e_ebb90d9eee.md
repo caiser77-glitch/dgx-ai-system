@@ -1,0 +1,50 @@
+---
+생성일: 2026-07-08
+장비명: aurum_macbook
+원본이름: 2018-40__optimize_b946a2dc1e.txt
+원본유형: txt
+년도_업체: unknown
+사업명: unknown
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: Hermes binary not found locally.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #Users #nams #TXT
+---
+# 📄 2018-40__optimize_b946a2dc1e.txt 요약본
+
+* **처리 시각**: 2026-07-08T12:15:05+09:00
+* **년도_업체**: unknown
+* **사업명**: unknown
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /Users/nams/AI_BASE/data/raw_cache/2018-40__optimize_b946a2dc1e.txt
+
+---
+### 🤖 AI 분석 요약
+> Hermes binary not found locally.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 다도해해상국립공원, 자연자원조사, PDF
+● 3줄 요약:
+- 다도해해상국립공원의 육상 자연자원 조사 보고서에 대한 PDF 파일이 제공되었습니다.
+- 파일 크기는 54,514,615 바이트이며, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.
+- OCR 오류로 인해 특정 URL에 제어 문자가 포함되어 있어 처리할 수 없습니다.
+=========================================
+source_name: 2018-40 다도해해상국립공원 자연자원조사(육상분야)_optimize.pdf
+source_type: pdf
+size_bytes: 54514615
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2018-40 다도해해상국립공원 자연자원조사(육상분야)_optimize_pages_1_taxa.xlsx' (found at least ' ')
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [2018-40__optimize_b946a2dc1e.txt 열기](file:///Users/nams/AI_BASE/data/raw_cache/2018-40__optimize_b946a2dc1e.txt)

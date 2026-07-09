@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.05.07_-3_a50a05f4d9.txt",
+  "source_name": "2025.05.07_-3_a50a05f4d9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T01:53:04+09:00",
+  "processed_at": "2026-06-23T01:54:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.05.07_-3_a50a05f4d9_22a2726bcb.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.05.07_-3_a50a05f4d9_22a2726bcb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 5월 7일에 촬영된 진천초평 육수 야장 사진\nJPEG 형식, RGB 모드, 1080x764 해상도\n파일 크기 258,963 바이트",
+    "tags": [
+      "#야장",
+      "#진천초평",
+      "#육수"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 5월 7일에 촬영된 진천초평 육수 야장 사진",
+      "JPEG 형식, RGB 모드, 1080x764 해상도",
+      "파일 크기 258,963 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "야장",
+      "진천초평",
+      "육수"
+    ]
+  }
+}

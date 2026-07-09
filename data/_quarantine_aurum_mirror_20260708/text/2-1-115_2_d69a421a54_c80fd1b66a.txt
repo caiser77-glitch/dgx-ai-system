@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 확장사업, 제주시, 애조로~성지요양원
+● 3줄 요약:
+- 제주시 애조로~성지요양원 확장사업에 대한 개요 문서입니다.
+- 확장 사업 범위에는 중로2-1-115호선 외 2개 노선이 포함됩니다.
+- OCR 처리 과정에서 파일 이름 내 제어 문자로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 제주시 애조로~성지요양원(중로2-1-115호선 외 2개노선) 확장사업 사업개요.pdf
+source_type: pdf
+size_bytes: 4391226
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제주시 애조로~성지요양원(중로2-1-115호선 외 2개노선) 확장사업 사업개요_pages_1_taxa.xlsx' (found at least ' ')

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지, 메타데이터, OCR 오류
+● 3줄 요약:
+- 이미지 파일 'IMG_2674-왜가리.jpg'에 대한 메타데이터 제공
+- OCR 처리 시 서버 오류 발생
+- 파일 크기 509,039 바이트, 해상도 937x703, RGB 모드, JPEG 형식
+=========================================
+source_name: IMG_2674-왜가리.jpg
+source_type: jpg
+size_bytes: 509039
+width: 937
+height: 703
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0040148_7119de2151.txt",
+  "source_name": "R0040148_7119de2151.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:25:48+09:00",
+  "processed_at": "2026-07-08T14:25:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0040148_7119de2151_f0487d3817.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0040148_7119de2151_f0487d3817.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "수달의 배설물 촬영 이미지 데이터입니다.",
+      "파일명(R0040148 수달배설물.JPG)을 통해 대상물을 식별할 수 있습니다.",
+      "이미지 파일 형식 및 해상도 정보를 포함하고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "수달",
+      "배설물",
+      "생태조사"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-05_bc70f3ad50.txt",
+  "source_name": "01-05_bc70f3ad50.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:58+09:00",
+  "processed_at": "2026-07-08T11:44:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-05_bc70f3ad50_b8c70c9693.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-05_bc70f3ad50_b8c70c9693.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "블럭토적표 파일이 엑셀 형식으로 제공됨",
+      "파일 크기는 1,676,288 바이트임",
+      "파일 내용 추출이 지원되지 않는 형식임"
+    ],
+    "category": "기타",
+    "keywords": [
+      "엑셀",
+      "블럭토적표",
+      "지원되지 않음"
+    ]
+  }
+}

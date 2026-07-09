@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1405_b701c421d2.txt",
+  "source_name": "1405_b701c421d2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:12:08+09:00",
+  "processed_at": "2026-07-08T12:12:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1405_b701c421d2_a6bfbce403.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1405_b701c421d2_a6bfbce403.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항혁신파크 공사기간 산출을 위한 데이터가 포함된 엑셀 파일입니다.",
+      "공사기간 및 예비공기 산정 데이터와 함께 기상 및 법정 공휴일 등의 참고 자료를 포함합니다.",
+      "혹서기, 동절기, 강우, 풍속, 미세먼지 등 공기에 영향을 주는 다양한 변수 데이터를 제공합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "포항혁신파크",
+      "공사기간",
+      "산출데이터"
+    ]
+  }
+}

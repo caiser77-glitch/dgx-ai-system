@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/06_aa4af15850.txt",
+  "source_name": "06_aa4af15850.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:02:14+09:00",
+  "processed_at": "2026-06-29T17:03:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/06_aa4af15850_593adb5ff1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/06_aa4af15850_593adb5ff1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "구조물 계획 관련 이미지 파일입니다.",
+      "고흥 산단의 설계 분야 대안 검토 자료 중 하나입니다.",
+      "2025년 3월 13일 환평자료에 포함되어 있습니다."
+    ],
+    "category": "설계자료",
+    "keywords": [
+      "구조물계획",
+      "고흥산단",
+      "설계대안"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+---
+생성일: 2026-07-06
+장비명: overnight_batch
+원본이름: IMG_1261_94fcb04d4b.txt
+원본유형: txt
+년도_업체: _AURUM_AI_PROCESSED
+사업명: processed
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: processed 관련 TXT 파일
+AI_모호성: true
+AI_질문: 본문 또는 경로에서 생물 분류군을 확정하지 못했습니다.
+태그: #자동색인 #NAS_데이터 #_AURUM_AI_PROCESSED #processed #TXT
+---
+# 📄 IMG_1261_94fcb04d4b.txt 요약본
+
+* **처리 시각**: 2026-07-06T16:38:46+09:00
+* **년도_업체**: _AURUM_AI_PROCESSED
+* **사업명**: processed
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1261_94fcb04d4b.txt
+
+---
+### 🤖 AI 분석 요약
+> processed 관련 TXT 파일
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: IMG_1261.JPG
+source_type: jpg
+size_bytes: 8746684
+path: /mnt/dgxbackup/2026 세일/안성테크노/02. 사진/26.01.08~09/허대양곤/IMG_1261.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:01:08 10:17:18
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.055423
+gps_lon: 127.225312
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [IMG_1261_94fcb04d4b.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1261_94fcb04d4b.txt)

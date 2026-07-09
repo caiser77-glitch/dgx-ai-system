@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/1-2_7b9b7ff493.Pi.csv",
+  "source_name": "1-2_7b9b7ff493.Pi.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:17:14+09:00",
+  "processed_at": "2026-07-08T12:17:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1-2_7b9b7ff493.Pi_31a62b0e04.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/1-2_7b9b7ff493.Pi_31a62b0e04.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1-2_7b9b7ff493.Pi_31a62b0e04.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 1490개의 행을 포함하고 있는 CSV 형식의 데이터 파일입니다.",
+      "문헌종수의 합계를 나타내는 열들이 반복적으로 구성되어 있습니다.",
+      "데이터 구조상 특정 분류에 따른 종수 통계 정보를 담고 있는 것으로 분석됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "문헌종수",
+      "통계 데이터",
+      "CSV"
+    ]
+  }
+}

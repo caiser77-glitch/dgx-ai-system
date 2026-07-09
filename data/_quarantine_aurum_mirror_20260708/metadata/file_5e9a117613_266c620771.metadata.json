@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_5e9a117613.txt",
+  "source_name": "file_5e9a117613.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:11:24+09:00",
+  "processed_at": "2026-07-08T12:11:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_5e9a117613_266c620771.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_5e9a117613_266c620771.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '천마 보고서 스타일.hwp'는 지원되지 않는 파일 형식으로 내용 추출이 불가능합니다.",
+      "파일 크기는 49,152 바이트입니다.",
+      "문서의 실제 내용에 대한 정보는 제공할 수 없습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "천마",
+      "보고서",
+      "지원되지 않는 파일 형식"
+    ]
+  }
+}

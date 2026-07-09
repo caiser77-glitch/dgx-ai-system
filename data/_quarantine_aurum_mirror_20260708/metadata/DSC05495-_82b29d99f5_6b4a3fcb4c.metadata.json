@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05495-_82b29d99f5.txt",
+  "source_name": "DSC05495-_82b29d99f5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T13:12:33+09:00",
+  "processed_at": "2026-06-24T13:14:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05495-_82b29d99f5_6b4a3fcb4c.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05495-_82b29d99f5_6b4a3fcb4c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 두점배허리노린재 사진\nSONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336, RGB 모드\n울산 온산국가산업단지 1차 조사 결과 사진",
+    "tags": [
+      "#두점배허리노린재",
+      "#울산 온산국가산업단지",
+      "#곤충"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 두점배허리노린재 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336, RGB 모드",
+      "울산 온산국가산업단지 1차 조사 결과 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "두점배허리노린재",
+      "울산 온산국가산업단지",
+      "곤충"
+    ]
+  }
+}

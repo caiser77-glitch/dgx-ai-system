@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5927548_aaa7203723.txt",
+  "source_name": "5927548_aaa7203723.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:54:02+09:00",
+  "processed_at": "2026-07-08T11:54:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5927548_aaa7203723_d19c3880ce.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5927548_aaa7203723_d19c3880ce.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 3월부터 10월까지 진영 일대에서 포유류 현황 및 서식 유형 파악을 위한 조사가 실시되었습니다.",
+      "조사 결과 총 12종의 포유류가 확인되었으며, 여기에는 수달(Ⅰ급), 삵 및 담비(Ⅱ급) 등 멸종위기종이 포함되었습니다.",
+      "1:25,000 지형도를 기반으로 한 9개 격자 중 5개 격자를 대상으로 조사 지침에 따라 조사가 수행되었습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포유류",
+      "멸종위기 야생생물",
+      "진영"
+    ]
+  }
+}

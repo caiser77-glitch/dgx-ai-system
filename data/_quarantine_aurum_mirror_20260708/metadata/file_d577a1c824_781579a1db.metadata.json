@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_d577a1c824.txt",
+  "source_name": "file_d577a1c824.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:39:56+09:00",
+  "processed_at": "2026-07-08T11:40:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_d577a1c824_781579a1db.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_d577a1c824_781579a1db.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "AutoCAD 파일 '�����ȹ��鵵.dwg'에 대한 업데이트 알림입니다.",
+      "XREF 파일 및 다양한 폰트 파일들이 포함되어 있습니다.",
+      "누락된 폰트에 대한 대체 설정(FONTALT)이 필요할 수 있습니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "AutoCAD",
+      "DWG",
+      "XREF"
+    ]
+  }
+}

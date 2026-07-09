@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/13220_02_b354aea160.txt",
+  "source_name": "13220_02_b354aea160.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:49:31+09:00",
+  "processed_at": "2026-07-08T11:49:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/13220_02_b354aea160_0d2742e237.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/13220_02_b354aea160_0d2742e237.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 식물 목록을 포함하는 자연환경분야 참고자료입니다.",
+      "PDF 파일 크기는 204,884,706 바이트이며, OCR 처리에 문제가 발생했습니다.",
+      "파일명에 공백이 포함되어 URL에서 오류가 발생하였습니다."
+    ],
+    "category": "참고자 자료",
+    "keywords": [
+      "식물목록",
+      "자연환경",
+      "OCR오류"
+    ]
+  }
+}

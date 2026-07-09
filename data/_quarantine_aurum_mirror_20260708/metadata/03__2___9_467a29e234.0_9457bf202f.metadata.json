@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/03__2___9_467a29e234.0.csv",
+  "source_name": "03__2___9_467a29e234.0.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:00:48+09:00",
+  "processed_at": "2026-07-08T12:00:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_467a29e234.0_9457bf202f.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/03__2___9_467a29e234.0_9457bf202f.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_467a29e234.0_9457bf202f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경영향평가 스코핑 가이드라인(안)에 관한 문서 정보를 포함하고 있습니다.",
+      "환경부에서 2011년 12월에 작성된 자료로 확인됩니다.",
+      "CSV 형식의 데이터 파일로 총 103개의 행으로 구성되어 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "환경영향평가",
+      "스코핑 가이드라인",
+      "환경부"
+    ]
+  }
+}

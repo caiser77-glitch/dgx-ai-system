@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/0203_c79624a624.2.csv",
+  "source_name": "0203_c79624a624.2.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:59:23+09:00",
+  "processed_at": "2026-07-08T11:59:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0203_c79624a624.2_adc94dbeec.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/0203_c79624a624.2_adc94dbeec.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0203_c79624a624.2_adc94dbeec.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 '0203_c79624a624.2.csv'라는 파일명을 가진 CSV 형식의 데이터 파일입니다.",
+      "총 161개의 행(row)으로 구성되어 있으며, 데이터 구조는 다수의 열을 포함하고 있습니다.",
+      "구체적인 데이터 내용이 명시되지 않은 메타데이터 정보만을 담고 있는 문서입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 파일",
+      "데이터 구조",
+      "메타데이터"
+    ]
+  }
+}

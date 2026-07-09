@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.08.19-20_-1_95809501f2.txt",
+  "source_name": "2024.08.19-20_-1_95809501f2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T00:40:05+09:00",
+  "processed_at": "2026-06-23T00:41:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024.08.19-20_-1_95809501f2_0467ac5533.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024.08.19-20_-1_95809501f2_0467ac5533.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2024년 8월 19-20일 진천초평 식물상 조사 결과 사진\nJPEG 형식, RGB 모드, 2480x3507 픽셀 크기\n642,608 바이트 크기의 이미지 파일",
+    "tags": [
+      "#진천초평",
+      "#식물상",
+      "#조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 8월 19-20일 진천초평 식물상 조사 결과 사진",
+      "JPEG 형식, RGB 모드, 2480x3507 픽셀 크기",
+      "642,608 바이트 크기의 이미지 파일"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천초평",
+      "식물상",
+      "조사"
+    ]
+  }
+}

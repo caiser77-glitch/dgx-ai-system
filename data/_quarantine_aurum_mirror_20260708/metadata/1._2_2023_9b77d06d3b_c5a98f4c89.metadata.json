@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1._2_2023_9b77d06d3b.txt",
+  "source_name": "1._2_2023_9b77d06d3b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:53+09:00",
+  "processed_at": "2026-07-08T11:56:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1._2_2023_9b77d06d3b_c5a98f4c89.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1._2_2023_9b77d06d3b_c5a98f4c89.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "성남낙생지구의 2023년도 모니터링 결과 보고서에 관한 문서입니다.",
+      "파일 크기는 약 14MB이며, 파일 경로 내 공백 문자로 인해 OCR 처리에 실패하였습니다.",
+      "해당 파일은 성남낙생지구의 생태계 모니터링 데이터를 포함하고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "성남낙생지구",
+      "모니터링",
+      "결과보고서"
+    ]
+  }
+}

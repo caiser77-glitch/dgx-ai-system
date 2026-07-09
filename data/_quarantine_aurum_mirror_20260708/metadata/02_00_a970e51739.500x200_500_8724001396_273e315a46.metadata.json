@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02_00_a970e51739.500x200_500_8724001396.csv",
+  "source_name": "02_00_a970e51739.500x200_500_8724001396.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:35:30+09:00",
+  "processed_at": "2026-07-08T11:35:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.500x200_500_8724001396_273e315a46.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/02_00_a970e51739.500x200_500_8724001396_273e315a46.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.500x200_500_8724001396_273e315a46.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "석재 배수로 단위수량에 관한 데이터를 포함하고 있는 CSV 파일입니다.",
+      "총 39개의 행으로 구성되어 있으며 관련 수치 데이터가 기록되어 있습니다.",
+      "배수로 시공 및 자재 산출을 위한 기초 자료로 판단됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "석재 배수로",
+      "단위수량",
+      "자재 데이터"
+    ]
+  }
+}

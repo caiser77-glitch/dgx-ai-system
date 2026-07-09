@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20260316-_077b1352ac.txt",
+  "source_name": "20260316-_077b1352ac.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:53:55+09:00",
+  "processed_at": "2026-07-08T11:54:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/20260316-_077b1352ac_99f8147aa8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/20260316-_077b1352ac_99f8147aa8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하천 생물측정망 어류 출현종 정보에 대한 엑셀 파일 제공",
+      "단일 시트로 구성, 1행 1열 데이터 포함",
+      "특정 어류 종류에 대한 상세 정보 미포함"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "하천",
+      "생물측정망",
+      "어류"
+    ]
+  }
+}

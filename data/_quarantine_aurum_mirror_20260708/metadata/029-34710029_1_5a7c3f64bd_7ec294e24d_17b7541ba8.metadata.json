@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/029-34710029_1_5a7c3f64bd_7ec294e24d.txt",
+  "source_name": "029-34710029_1_5a7c3f64bd_7ec294e24d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:29:21+09:00",
+  "processed_at": "2026-07-08T11:29:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/029-34710029_1_5a7c3f64bd_7ec294e24d_17b7541ba8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/029-34710029_1_5a7c3f64bd_7ec294e24d_17b7541ba8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "손죽029-34710029.zip 파일은 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 26,781 바이트입니다.",
+      "내용 추출이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "손죽029-34710029",
+      "zip",
+      "지원되지 않는 파일 유형"
+    ]
+  }
+}

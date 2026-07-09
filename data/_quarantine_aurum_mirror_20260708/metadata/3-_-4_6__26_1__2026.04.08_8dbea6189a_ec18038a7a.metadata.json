@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3-_-4_6__26_1__2026.04.08_8dbea6189a.txt",
+  "source_name": "3-_-4_6__26_1__2026.04.08_8dbea6189a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:29+09:00",
+  "processed_at": "2026-07-08T11:50:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/3-_-4_6__26_1__2026.04.08_8dbea6189a_ec18038a7a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/3-_-4_6__26_1__2026.04.08_8dbea6189a_ec18038a7a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "인천계양 지역에 대한 결과통보서 문서입니다.",
+      "2026년 1분기에 작성된 문서로 확인됩니다.",
+      "파일 형식 문제로 인해 일부 내용의 추출이 제한되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "인천계양",
+      "결과통보서",
+      "hwp"
+    ]
+  }
+}

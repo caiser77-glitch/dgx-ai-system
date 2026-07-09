@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_b587606df2.txt",
+  "source_name": "1_b587606df2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:20:55+09:00",
+  "processed_at": "2026-06-29T17:22:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_b587606df2_f6d750bd8d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_b587606df2_f6d750bd8d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "생태통로 관련 이미지 파일로, 고흥 산단의 생태네트워크 분석 및 생태통로 계획에 사용됨",
+      "JPEG 형식의 이미지로, RGB 모드와 2872x3284 해상도를 가짐",
+      "파일 크기는 7,686,925 바이트이며, 2025년 9월 4일 본안 설계자료 및 보고서 자료 폴더에 저장됨"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "생태통로",
+      "생태네트워크",
+      "고흥 산단"
+    ]
+  }
+}

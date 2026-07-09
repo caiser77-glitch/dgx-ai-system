@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05669_60e0b6c1cc.txt",
+  "source_name": "DSC05669_60e0b6c1cc.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T17:37:58+09:00",
+  "processed_at": "2026-06-24T17:39:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05669_60e0b6c1cc_0d40b069ad.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05669_60e0b6c1cc_0d40b069ad.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 울산 온산국가산업단지 박부 지역의 곤충 및 청개구리 사진\nSONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336, RGB 모드, MPO 포맷\n1차 조사 기간인 2025년 7월 28일부터 30일 사이에 촬영된 사진",
+    "tags": [
+      "#울산 온산국가산업단지",
+      "#박부",
+      "#곤충",
+      "#청개구리",
+      "#1차조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 울산 온산국가산업단지 박부 지역의 곤충 및 청개구리 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336, RGB 모드, MPO 포맷",
+      "1차 조사 기간인 2025년 7월 28일부터 30일 사이에 촬영된 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "울산 온산국가산업단지",
+      "박부",
+      "곤충",
+      "청개구리",
+      "1차조사"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/SJ-900_164a41682e.txt",
+  "source_name": "SJ-900_164a41682e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:35:53+09:00",
+  "processed_at": "2026-07-08T13:35:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/SJ-900_164a41682e_20f3125d9a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/SJ-900_164a41682e_20f3125d9a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 'SJ-900 부록(완).pdf'는 약 4.5MB 크기의 PDF 파일입니다.",
+      "파일 유형 문제로 인해 내용 추출이 지원되지 않으며 OCR 오류가 발생했습니다.",
+      "오류 원인은 파일 경로 내 공백 문자로 인한 제어 문자 포함 문제입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "OCR 오류",
+      "제어 문자"
+    ]
+  }
+}

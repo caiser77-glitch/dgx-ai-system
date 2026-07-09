@@ -1,0 +1,48 @@
+---
+생성일: 2026-07-06
+장비명: overnight_batch
+원본이름: -1_8fafc43ad6.txt
+원본유형: txt
+년도_업체: unknown
+사업명: unknown
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: Hermes binary not found locally.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #Users #nams #TXT
+---
+# 📄 -1_8fafc43ad6.txt 요약본
+
+* **처리 시각**: 2026-07-06T09:08:25+09:00
+* **년도_업체**: unknown
+* **사업명**: unknown
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1_8fafc43ad6.txt
+
+---
+### 🤖 AI 분석 요약
+> Hermes binary not found locally.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 동막천, 저서성대형무척추동물, 생물측정망
+● 3줄 요약:
+- 동막천에서 측정한 저서성대형무척추동물 출현종 정보를 담은 엑셀 파일.
+- 단일 시트로 구성되어 있으며, 해당 시트는 '하천 생물측정망 저서성대형무척추동물 출현종 정보'를 제공.
+- 현재 데이터는 1행 1열로 제한적으로 제공됨.
+=========================================
+source_name: 동막천-1_저서.xlsx
+source_type: xlsx
+sheet: 하천 생물측정망 저서성대형무척추동물 출현종 정보, rows: 1, columns: 1
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [-1_8fafc43ad6.txt 열기](file:///Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1_8fafc43ad6.txt)

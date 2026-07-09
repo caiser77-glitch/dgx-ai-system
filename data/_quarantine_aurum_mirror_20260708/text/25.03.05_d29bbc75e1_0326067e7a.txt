@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 회의록
+● 핵심 키워드: 전남고흥, 국가산업단지, 착수보고회
+● 3줄 요약:
+- 전남고흥 국가산업단지 환경영향평가 착수보고회 관련 회의록 문서입니다.
+- 파일 크기는 155,708 바이트이며 PDF 형식으로 제공되었습니다.
+- URL 내 제어 문자 포함 문제로 인해 OCR 처리에 실패하였습니다.
+=========================================
+source_name: ■ 전남고흥 국가산업단지 환평 착수보고회 회의록_25.03.05.pdf
+source_type: pdf
+size_bytes: 155708
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/■ 전남고흥 국가산업단지 환평 착수보고회 회의록_25.03.05_pages_1_taxa.xlsx' (found at least ' ')

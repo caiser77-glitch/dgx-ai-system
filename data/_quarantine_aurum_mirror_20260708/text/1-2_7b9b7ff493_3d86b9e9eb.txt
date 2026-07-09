@@ -1,0 +1,22 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 아산 방축지구 1-2차 조류.xlsx
+source_type: xlsx
+sheet: 설명서, rows: 44, columns: 5
+sheet: 보고서, rows: 479, columns: 21
+sheet: 포, rows: 153, columns: 73
+sheet: 조, rows: 769, columns: 109
+sheet: 양, rows: 121, columns: 72
+sheet: 어, rows: 571, columns: 103
+sheet: 저, rows: 2049, columns: 109
+sheet: MEMO, rows: 0, columns: 1
+sheet: 가, rows: 206, columns: 68
+sheet: 나, rows: 1309, columns: 128
+sheet: 다, rows: 158, columns: 63
+sheet: 라, rows: 933, columns: 127
+sheet: 마, rows: 3626, columns: 165
+sheet: Pi, rows: 1491, columns: 14

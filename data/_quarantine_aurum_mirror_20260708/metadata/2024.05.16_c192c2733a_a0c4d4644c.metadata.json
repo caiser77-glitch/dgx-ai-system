@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.05.16_c192c2733a.txt",
+  "source_name": "2024.05.16_c192c2733a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:39:58+09:00",
+  "processed_at": "2026-06-29T17:42:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2024.05.16_c192c2733a_a0c4d4644c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2024.05.16_c192c2733a_a0c4d4644c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 5월 16일 숙박 관련 영수증 이미지",
+      "삼성 스마트폰(SM-G996N)으로 촬영",
+      "JPEG 형식, 975x1280 픽셀 크기"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "숙박",
+      "야장"
+    ]
+  }
+}

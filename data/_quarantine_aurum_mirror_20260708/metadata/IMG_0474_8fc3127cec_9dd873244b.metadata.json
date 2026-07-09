@@ -1,0 +1,46 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0474_8fc3127cec.txt",
+  "source_name": "IMG_0474_8fc3127cec.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T20:50:22+09:00",
+  "processed_at": "2026-06-30T20:51:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0474_8fc3127cec_9dd873244b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0474_8fc3127cec_9dd873244b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 고흥 산단",
+    "project_name": "고흥 이부 조사",
+    "taxon_group": "미확정",
+    "document_type": "현장사진",
+    "class_name": "현장사진",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#현장사진",
+      "#CanonPowerShotSX70HS",
+      "#GPS위치정보"
+    ],
+    "summary": "2025년 9월 2일 고흥 이부에서 촬영된 현장 사진. 카메라: Canon PowerShot SX70 HS, GPS 좌표: 34.453305, 127.478538.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 9월 2일에 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "GPS 좌표: 위도 34.453305, 경도 127.478538",
+      "사진 크기: 5184x3888, RGB 모드, MPO 형식"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표",
+      "MPO 형식"
+    ]
+  }
+}

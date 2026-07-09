@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01000_2002ae3c77.txt",
+  "source_name": "01000_2002ae3c77.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:19:38+09:00",
+  "processed_at": "2026-07-08T13:19:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01000_2002ae3c77_14256b6c15.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01000_2002ae3c77_14256b6c15.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "본 문서는 사업계획 변경에 관한 내용을 담고 있는 PDF 파일입니다.",
+      "파일의 크기는 약 13.6MB(13,655,569 바이트)입니다.",
+      "OCR 처리 과정에서 URL 내 제어 문자 포함으로 인한 오류가 발생하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "사업계획",
+      "변경",
+      "PDF"
+    ]
+  }
+}

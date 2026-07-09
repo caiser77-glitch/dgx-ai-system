@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07420_a409e011d6.txt",
+  "source_name": "07420_a409e011d6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:12:58+09:00",
+  "processed_at": "2026-07-08T13:13:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07420_a409e011d6_77257128dd.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07420_a409e011d6_77257128dd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 토양 관련 PDF 파일로, 크기가 15,623,886 바이트입니다.",
+      "내용 추출이 지원되지 않는 파일 유형이며, OCR 오류가 발생했습니다.",
+      "특히 'ascii' 코덱에서 문자 인코딩 문제가 발생하여 처리가 어려웠습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "PDF",
+      "토양",
+      "OCR 오류"
+    ]
+  }
+}

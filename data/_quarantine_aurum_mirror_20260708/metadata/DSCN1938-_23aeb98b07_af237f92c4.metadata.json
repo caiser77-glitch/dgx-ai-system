@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN1938-_23aeb98b07.txt",
+  "source_name": "DSCN1938-_23aeb98b07.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T00:13:20+09:00",
+  "processed_at": "2026-06-25T00:15:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSCN1938-_23aeb98b07_af237f92c4.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSCN1938-_23aeb98b07_af237f92c4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 11월 17일에 촬영된 황소개구리 사진\nNIKON COOLPIX AW100s 카메라로 경산도로확장 지역에서 촬영\nGPS 좌표: 위도 35.771805, 경도 128.830407",
+    "tags": [
+      "#황소개구리",
+      "#경산도로확장",
+      "#GPS"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일에 촬영된 황소개구리 사진",
+      "NIKON COOLPIX AW100s 카메라로 경산도로확장 지역에서 촬영",
+      "GPS 좌표: 위도 35.771805, 경도 128.830407"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "황소개구리",
+      "경산도로확장",
+      "GPS"
+    ]
+  }
+}

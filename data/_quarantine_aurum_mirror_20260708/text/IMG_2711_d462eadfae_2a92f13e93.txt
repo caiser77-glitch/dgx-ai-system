@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 단풍마, Canon PowerShot SX70 HS, 아산방축 이부
+● 3줄 요약:
+- 2025년 5월 28일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 단풍마 사진
+- 사진의 해상도는 5184x3888 픽셀이며, 파일 크기는 9,141,381 바이트
+- GPS 좌표는 위도 36.779208, 경도 126.988907로 아산방축 이부 지역에서 촬영
+=========================================
+source_name: IMG_2711 단풍마.JPG
+source_type: jpg
+size_bytes: 9141381
+path: /mnt/dgxbackup/2026 이산/아산방축/02. 사진/2025.05.28-29/2025.05.28~29 아산방축 이부/IMG_2711 단풍마.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:05:28 13:52:56
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.779208
+gps_lon: 126.988907

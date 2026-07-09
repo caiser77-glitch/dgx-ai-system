@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-06_df9656b244.txt",
+  "source_name": "01-06_df9656b244.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:39:38+09:00",
+  "processed_at": "2026-07-08T13:39:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-06_df9656b244_a15671853a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-06_df9656b244_a15671853a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토적운반에 대한 다양한 집계표와 조서가 포함된 엑셀 파일",
+      "각 시트는 특정 작업의 거리, 수량, 단위 등을 기록",
+      "비옥토와 토사의 운반 및 적치 관련 데이터 집계"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "토적운반",
+      "집계표",
+      "비옥토"
+    ]
+  }
+}

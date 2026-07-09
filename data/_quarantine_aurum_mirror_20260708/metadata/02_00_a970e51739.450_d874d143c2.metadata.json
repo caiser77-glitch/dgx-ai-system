@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02_00_a970e51739.450.csv",
+  "source_name": "02_00_a970e51739.450.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:42:24+09:00",
+  "processed_at": "2026-07-08T11:42:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.450_d874d143c2.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/02_00_a970e51739.450_d874d143c2.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.450_d874d143c2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "우수관(D450) 규격에 대한 평균 토피고 산출 데이터입니다.",
+      "총 26개의 행으로 구성된 CSV 형식의 조사 문서입니다.",
+      "배수 시설물의 매설 깊이 분석을 위한 기초 자료로 활용됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "우수관",
+      "D450",
+      "토피고"
+    ]
+  }
+}

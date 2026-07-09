@@ -1,0 +1,8 @@
+source_name: 변환IMG_2672.jpg
+source_type: jpg
+size_bytes: 236073
+width: 400
+height: 300
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

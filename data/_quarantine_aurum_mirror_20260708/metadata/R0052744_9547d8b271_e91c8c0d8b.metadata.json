@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0052744_9547d8b271.txt",
+  "source_name": "R0052744_9547d8b271.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:22:07+09:00",
+  "processed_at": "2026-07-08T14:22:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0052744_9547d8b271_e91c8c0d8b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0052744_9547d8b271_e91c8c0d8b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 17일 저녁 시간대에 촬영된 RICOH WG-6 카메라 이미지 데이터입니다.",
+      "고흥 산단 인근(위도 34.45793, 경도 127.490815)에서 촬영된 현장 사진입니다.",
+      "파일 경로 및 메타데이터를 통해 고흥 산단 조사 관련 이미지임을 확인할 수 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "RICOH WG-6",
+      "현장 사진"
+    ]
+  }
+}

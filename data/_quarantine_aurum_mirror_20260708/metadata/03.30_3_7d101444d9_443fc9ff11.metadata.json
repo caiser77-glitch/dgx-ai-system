@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03.30_3_7d101444d9.txt",
+  "source_name": "03.30_3_7d101444d9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:38:49+09:00",
+  "processed_at": "2026-06-22T22:39:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/03.30_3_7d101444d9_443fc9ff11.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/03.30_3_7d101444d9_443fc9ff11.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "서산 남부일반산업단지 진입도로 소규모",
+    "class_name": "하천식생단면도",
+    "tags": [
+      "#하천식생단면도",
+      "#서산",
+      "#2026"
+    ],
+    "summary": "하천식생단면도 이미지, 크기 2480x3507, 모노크롬, JPEG 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하천 식생 단면도 사진",
+      "2026년 장맥 프로젝트 관련 자료",
+      "서산 남부일반산업단지 진입도로 소규모 프로젝트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "하천",
+      "식생",
+      "단면도"
+    ]
+  }
+}

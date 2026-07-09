@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 영수증, 사진, 삼성
+● 3줄 요약:
+- 2024년 4월 4일에 촬영된 영수증 사진
+- 삼성 Galaxy A34 5G로 촬영
+- 사진 크기: 1280x1093, RGB 모드, JPEG 형식
+=========================================
+source_name: 4일 종료.jpg
+source_type: jpg
+size_bytes: 297427
+path: /mnt/dgxbackup/2026 홍익기술/진천초평산업단지/05. 야장 및 영수증/영수증/2024.04.04~05/4일 종료.jpg
+width: 1280
+height: 1093
+mode: RGB
+format: JPEG
+datetime_taken: 2024:04:04 17:54:09
+camera_make: samsung
+camera_model: Galaxy A34 5G

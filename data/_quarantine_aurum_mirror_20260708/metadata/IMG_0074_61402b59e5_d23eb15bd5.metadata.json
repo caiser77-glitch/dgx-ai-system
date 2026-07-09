@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0074_61402b59e5.txt",
+  "source_name": "IMG_0074_61402b59e5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-26T10:58:33+09:00",
+  "processed_at": "2026-06-26T11:01:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0074_61402b59e5_d23eb15bd5.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0074_61402b59e5_d23eb15bd5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2026년 4월 1일 촬영된 Canon PowerShot SX70 HS 카메라 사진\n위치: 위도 37.355133, 경도 127.077995\n사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#GPS 위치",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 4월 1일 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "위치: 위도 37.355133, 경도 127.077995",
+      "사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS 위치",
+      "사진"
+    ]
+  }
+}

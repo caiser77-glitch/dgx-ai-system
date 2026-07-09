@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01__01_10_03a4155235.txt",
+  "source_name": "01__01_10_03a4155235.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:03:17+09:00",
+  "processed_at": "2026-07-08T12:03:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01__01_10_03a4155235_b3e6438fc8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01__01_10_03a4155235_b3e6438fc8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "AutoCAD eTransmit을 통해 생성된 2025년 11월 17일자 전송 보고서입니다.",
+      "루트 도면과 외부 참조(xref) 파일, 플롯 스타일(ctb), 프린터 설정(pc3) 파일을 포함합니다.",
+      "일부 폰트 및 외부 참조 파일의 누락 또는 경로 확인이 필요할 수 있습니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "AutoCAD",
+      "eTransmit",
+      "DWG"
+    ]
+  }
+}

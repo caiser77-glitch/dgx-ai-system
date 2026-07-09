@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2022_-_377094_7a4a155978.txt",
+  "source_name": "5_2022_-_377094_7a4a155978.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:53:31+09:00",
+  "processed_at": "2026-07-08T11:53:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2022_-_377094_7a4a155978_87c7911e0e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2022_-_377094_7a4a155978_87c7911e0e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "5차 전국자연환경조사의 일환으로 진행된 2022년 능평 지역 식물상 조사 보고서입니다.",
+      "파일 크기는 약 1MB이며, OCR 처리 과정에서 오류가 발생하였습니다.",
+      "파일명에 포함된 공백 문자로 인해 URL 접근 및 데이터 추출에 문제가 확인되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "능평",
+      "식물상"
+    ]
+  }
+}

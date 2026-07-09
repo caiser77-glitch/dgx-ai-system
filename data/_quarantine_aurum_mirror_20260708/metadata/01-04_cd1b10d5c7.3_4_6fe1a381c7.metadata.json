@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-04_cd1b10d5c7.3_4.csv",
+  "source_name": "01-04_cd1b10d5c7.3_4.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:42:57+09:00",
+  "processed_at": "2026-07-08T13:43:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-04_cd1b10d5c7.3_4_6fe1a381c7.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-04_cd1b10d5c7.3_4_6fe1a381c7.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-04_cd1b10d5c7.3_4_6fe1a381c7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 소3 연4라는 명칭의 CSV 파일 데이터입니다.",
+      "총 31개의 행(row)으로 구성된 데이터셋을 포함하고 있습니다.",
+      "컬럼 정보가 불분명하거나 비어 있는 상태의 기초 데이터 형식입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 파일",
+      "데이터셋",
+      "소3 연4"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+source_name: 04_참고자료 (1).zip
+source_type: zip
+size_bytes: 1634821427
+content_extraction: unsupported_file_type

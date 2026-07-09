@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_de84fd6c59.txt",
+  "source_name": "-_de84fd6c59.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:32+09:00",
+  "processed_at": "2026-07-08T11:47:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_de84fd6c59_49705948d4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_de84fd6c59_49705948d4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파크골프장 조성사업계획에 대한 도면 파일입니다.",
+      "파일 크기는 24,844,834 바이트이며, PDF 형식입니다.",
+      "OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생했습니다."
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "파크골프장",
+      "조성사업계획",
+      "도면"
+    ]
+  }
+}

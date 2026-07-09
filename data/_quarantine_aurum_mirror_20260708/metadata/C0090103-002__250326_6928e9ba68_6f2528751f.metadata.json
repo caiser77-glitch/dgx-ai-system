@@ -1,0 +1,44 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/C0090103-002__250326_6928e9ba68.txt",
+  "source_name": "C0090103-002__250326_6928e9ba68.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:39:53+09:00",
+  "processed_at": "2026-07-08T11:40:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/C0090103-002__250326_6928e9ba68_6f2528751f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/C0090103-002__250326_6928e9ba68_6f2528751f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "AutoCAD 파일 C0090103-002_250326.dwg의 열람을 위한 필수 데이터 목록입니다.",
+      "해당 파일은 xref를 통해 외부 DWG 파일을 참조하고 있으며, 다양한 폰트 및 설정 파일이 필요합니다.",
+      "누락된 폰트는 FONTALT 설정을 통해 대체 폰트로 지정하여 문제를 해결할 수 있습니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "AutoCAD",
+      "DWG",
+      "xref",
+      "폰트"
+    ]
+  }
+}

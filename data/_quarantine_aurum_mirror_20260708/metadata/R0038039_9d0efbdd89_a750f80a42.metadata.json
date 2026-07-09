@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0038039_9d0efbdd89.txt",
+  "source_name": "R0038039_9d0efbdd89.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:58:34+09:00",
+  "processed_at": "2026-07-08T14:58:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0038039_9d0efbdd89_a750f80a42.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0038039_9d0efbdd89_a750f80a42.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 9일 포항 혁신도시 유대 육수 지역에서 촬영된 송장헤엄치게 사진 데이터입니다.",
+      "RICOH WG-6 카메라로 촬영되었으며, GPS 좌표(36.097652, 129.39225)가 포함되어 있습니다.",
+      "해당 파일은 R0038039라는 명칭을 가진 이미지 파일로 생태 조사 기록의 일부입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "송장헤엄치게",
+      "포항 혁신도시",
+      "유대 육수"
+    ]
+  }
+}

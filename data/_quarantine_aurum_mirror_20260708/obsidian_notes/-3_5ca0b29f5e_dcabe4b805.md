@@ -1,0 +1,41 @@
+---
+생성일: 2026-06-22
+장비명: overnight_batch
+원본이름: -3_5ca0b29f5e.txt
+원본유형: txt
+년도_업체: 2026 KCI
+사업명: 숨편한 힐링숲 소규모
+분류군: 식생
+AI_요약: 숨편한 힐링숲 진입도로의 식생 사진입니다.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #식생 #힐링숲 #진입도로
+---
+# 📄 -3_5ca0b29f5e.txt 요약본
+
+* **처리 시각**: 2026-06-22T21:58:18+09:00
+* **년도_업체**: 2026 KCI
+* **사업명**: 숨편한 힐링숲 소규모
+* **분류군**: 식생
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-3_5ca0b29f5e.txt
+
+---
+### 🤖 AI 분석 요약
+> 숨편한 힐링숲 진입도로의 식생 사진입니다.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: 숨편한 힐링숲 진입도로_식생-3.jpg
+source_type: jpg
+size_bytes: 634595
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/05. 야장 및 영수증/야장/숨편한 힐링숲 진입도로_식생-3.jpg
+width: 2480
+height: 3507
+mode: L
+format: JPEG
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [-3_5ca0b29f5e.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-3_5ca0b29f5e.txt)

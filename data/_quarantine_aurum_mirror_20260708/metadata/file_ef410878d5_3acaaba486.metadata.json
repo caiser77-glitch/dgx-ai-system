@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_ef410878d5.txt",
+  "source_name": "file_ef410878d5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:25+09:00",
+  "processed_at": "2026-07-08T11:40:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_ef410878d5_3acaaba486.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_ef410878d5_3acaaba486.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 부장리 고분군 정비사업에 대한 전략환경영향평가서 초안 검토의견 문서입니다.",
+      "PDF 파일 크기는 275,832 바이트이며, OCR 처리에 실패하였습니다.",
+      "파일명 내 공백 문자로 인해 URL 생성 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전략환경영향평가서",
+      "서산 부장리 고분군",
+      "정비사업"
+    ]
+  }
+}

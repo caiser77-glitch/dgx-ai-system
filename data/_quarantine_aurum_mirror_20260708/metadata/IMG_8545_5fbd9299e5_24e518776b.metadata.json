@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_8545_5fbd9299e5.txt",
+  "source_name": "IMG_8545_5fbd9299e5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:38:53+09:00",
+  "processed_at": "2026-07-01T11:38:53+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_8545_5fbd9299e5.txt",
+    "return_code": 1
+  }
+}

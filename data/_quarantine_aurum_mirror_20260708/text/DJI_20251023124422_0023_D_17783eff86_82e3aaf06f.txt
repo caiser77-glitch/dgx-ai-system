@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 드론 사진, 울산 온산국가산업단지, Hasselblad L3D-100c
+● 3줄 요약:
+- 2025년 10월 23일 울산 온산국가산업단지에서 촬영된 드론 사진
+- Hasselblad L3D-100c 카메라로 촬영, GPS 좌표 (35.450755, 129.32071) 기록
+- 6144x4096 해상도의 RGB 형식 MPO 파일, 23,576,576 바이트 크기
+=========================================
+source_name: DJI_20251023124422_0023_D.JPG
+source_type: jpg
+size_bytes: 23576576
+path: /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/2차조사 2025.10.22-24/2025.10.22-24 울산온산 드론/DJI_20251023124422_0023_D.JPG
+width: 6144
+height: 4096
+mode: RGB
+format: MPO
+datetime_taken: 2025:10:23 12:44:22
+camera_make: Hasselblad
+camera_model: L3D-100c
+gps_lat: 35.450755
+gps_lon: 129.32071

@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon, PowerShot SX70 HS, 2025-11-18
+● 3줄 요약:
+- Canon PowerShot SX70 HS로 촬영된 사진
+- 2025년 11월 18일 10시 51분 46초에 촬영
+- 사진 크기: 5184x3888, RGB 모드, MPO 포맷
+=========================================
+source_name: IMG_0969.JPG
+source_type: jpg
+size_bytes: 10959882
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/IMG_0969.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:11:18 10:51:46
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

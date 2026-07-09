@@ -1,0 +1,46 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-01_4d31eb997e_df51aea4e4.txt",
+  "source_name": "01-01_4d31eb997e_df51aea4e4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:30:05+09:00",
+  "processed_at": "2026-07-08T11:30:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-01_4d31eb997e_df51aea4e4_a6cfe49aff.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-01_4d31eb997e_df51aea4e4_a6cfe49aff.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토공내역과 관련된 다양한 시트로 구성된 엑셀 파일입니다.",
+      "토공 총괄, 유용 계획, 운반 거리, 임목 폐기물, 비옥토, 비탈면 보호 등의 데이터를 포함합니다.",
+      "각 시트는 특정 항목에 대한 상세한 수량과 집계 정보를 제공합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "토공",
+      "집계",
+      "운반",
+      "임목폐기물",
+      "비옥토",
+      "비탈면보호"
+    ]
+  }
+}

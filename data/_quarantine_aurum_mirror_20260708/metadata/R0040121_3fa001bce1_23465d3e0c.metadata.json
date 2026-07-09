@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0040121_3fa001bce1.txt",
+  "source_name": "R0040121_3fa001bce1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:24:52+09:00",
+  "processed_at": "2026-07-08T14:24:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0040121_3fa001bce1_23465d3e0c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0040121_3fa001bce1_23465d3e0c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "십자무늬긴노린재의 사진 데이터 파일입니다.",
+      "파일 경로는 만흥소하천 유과 포곤 지역의 기록물입니다.",
+      "이미지 규격은 1296x972 해상도의 RGB 모드입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "십자무늬긴노린재",
+      "만흥소하천",
+      "생물사진"
+    ]
+  }
+}

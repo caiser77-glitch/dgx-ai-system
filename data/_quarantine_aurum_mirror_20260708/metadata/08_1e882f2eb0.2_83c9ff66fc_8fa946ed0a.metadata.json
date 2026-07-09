@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/08_1e882f2eb0.2_83c9ff66fc.txt",
+  "source_name": "08_1e882f2eb0.2_83c9ff66fc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:58+09:00",
+  "processed_at": "2026-07-08T11:33:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0.2_83c9ff66fc_8fa946ed0a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0.2_83c9ff66fc_8fa946ed0a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "레미콘 사용량과 가설방음판넬 설치에 대한 데이터 포함",
+      "방진망, EGI 휀스, 가설출입문, 잡석, 철근 등의 항목 존재",
+      "총 18개의 행과 7개의 열로 구성된 CSV 파일"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "레미콘",
+      "가설방음판넬",
+      "방진망"
+    ]
+  }
+}

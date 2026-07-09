@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_1bfaac38c0.txt",
+  "source_name": "file_1bfaac38c0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:06:03+09:00",
+  "processed_at": "2026-07-08T12:06:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_1bfaac38c0_9e7a845af9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_1bfaac38c0_9e7a845af9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 토지이용계획에 대한 조치계획 대안을 설명하는 PDF 파일입니다.",
+      "파일 크기는 191,020 바이트이며, OCR 처리에 실패하였습니다.",
+      "URL에 제어 문자가 포함되어 있어 처리에 문제가 발생하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용계획",
+      "조치계획",
+      "PDF"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/05.1.1_35ccc9b52c.txt",
+  "source_name": "05.1.1_35ccc9b52c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:45+09:00",
+  "processed_at": "2026-07-08T13:45:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05.1.1_35ccc9b52c_68c3ae5939.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05.1.1_35ccc9b52c_68c3ae5939.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "은암리 태양광부지의 동식물상에 대한 조사 문서입니다.",
+      "문서 크기는 약 9.5MB이며 PDF 형식으로 구성되어 있습니다.",
+      "OCR 처리 과정에서 파일 경로 내 제어 문자로 인한 오류가 발생했습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "은암리",
+      "태양광부지",
+      "동식물상"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/field_info_a0bf9f6765.txt",
+  "source_name": "field_info_a0bf9f6765.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:03:19+09:00",
+  "processed_at": "2026-07-08T12:03:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/field_info_a0bf9f6765_b1def39a08.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/field_info_a0bf9f6765_b1def39a08.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 'field_info.xlsx'는 현장 조사 관련 정보를 담고 있습니다.",
+      "총 3개의 시트로 구성되어 있으며, 각 시트는 작성 규칙, 참여 분야, 현장조사자 정보를 다룹니다.",
+      "각 시트의 열과 행 수는 상이하며, 가장 많은 정보를 포함하는 시트는 '현장조사자 정보'입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "현장조사",
+      "시트구성",
+      "정보관리"
+    ]
+  }
+}

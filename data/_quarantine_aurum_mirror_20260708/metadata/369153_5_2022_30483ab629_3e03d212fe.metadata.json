@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/369153_5_2022_30483ab629.txt",
+  "source_name": "369153_5_2022_30483ab629.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:15+09:00",
+  "processed_at": "2026-07-08T12:16:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/369153_5_2022_30483ab629_3e03d212fe.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/369153_5_2022_30483ab629_3e03d212fe.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2022년 실시된 제5차 전국자연환경조사의 포유류 조사 결과에 관한 문서입니다.",
+      "PDF 형식의 파일로 제공되었으나 OCR 처리 과정에서 기술적인 오류가 발생하였습니다.",
+      "오류의 원인은 파일 경로 내에 포함된 제어 문자로 인해 데이터 추출이 제한된 것입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "포유류",
+      "OCR 오류"
+    ]
+  }
+}

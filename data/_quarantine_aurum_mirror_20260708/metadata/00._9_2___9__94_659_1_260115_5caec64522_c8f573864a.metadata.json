@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00._9_2___9__94_659_1_260115_5caec64522.txt",
+  "source_name": "00._9_2___9__94_659_1_260115_5caec64522.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:01:43+09:00",
+  "processed_at": "2026-07-08T12:01:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00._9_2___9__94_659_1_260115_5caec64522_c8f573864a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00._9_2___9__94_659_1_260115_5caec64522_c8f573864a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "충청2 사후 9차분 설계서에 대한 정보를 제공합니다.",
+      "파일 크기는 41,472 바이트이며 HWP 파일 형식입니다.",
+      "해당 파일은 내용 추출이 지원되지 않는 유형입니다."
+    ],
+    "category": "설계서",
+    "keywords": [
+      "9차분",
+      "설계서",
+      "HWP"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 첨부2-2. 지구단위계획 시행지침(1,2편 건축부문).hwp
+source_type: hwp
+size_bytes: 8641536
+content_extraction: unsupported_file_type

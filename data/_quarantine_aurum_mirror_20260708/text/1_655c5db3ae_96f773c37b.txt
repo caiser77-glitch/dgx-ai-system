@@ -1,0 +1,4 @@
+source_name: 평가준비서 1식.zip
+source_type: zip
+size_bytes: 113518514
+content_extraction: unsupported_file_type

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0047_a8fd4c4e1c.txt",
+  "source_name": "IMG_0047_a8fd4c4e1c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T16:23:43+09:00",
+  "processed_at": "2026-06-30T16:26:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0047_a8fd4c4e1c_1b3f5ff31e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0047_a8fd4c4e1c_1b3f5ff31e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 20일 08시 32분에 촬영된 고흥 산단 무인카메라 사진",
+      "BROWNING BTC-8E 카메라로 촬영, 해상도 6016x3384, RGB 모드",
+      "파일 크기 5MB, MPO 포맷, 경로 /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/무인카메라 및 송메타/3-3/"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "무인카메라",
+      "BROWNING BTC-8E"
+    ]
+  }
+}

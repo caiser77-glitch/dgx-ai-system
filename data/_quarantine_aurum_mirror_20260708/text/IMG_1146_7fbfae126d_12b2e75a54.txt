@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, GPS 위치, MPO 형식
+● 3줄 요약:
+- 2025년 5월 12일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- 위치: GPS 좌표 (36.098537, 129.380997)에서 촬영
+- 이미지 크기: 5184x3888, RGB 모드, MPO 형식
+=========================================
+source_name: IMG_1146.JPG
+source_type: jpg
+size_bytes: 11247253
+path: /mnt/dgxbackup/2026 수성/포항 혁신도시/02.사진/2025년 5월 11일~13일/2025.05.11~13 포항혁신 이부/IMG_1146.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:05:12 14:51:12
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.098537
+gps_lon: 129.380997

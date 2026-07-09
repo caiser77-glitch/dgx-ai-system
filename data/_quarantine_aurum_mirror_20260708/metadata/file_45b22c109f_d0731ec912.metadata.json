@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_45b22c109f.txt",
+  "source_name": "file_45b22c109f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:38:43+09:00",
+  "processed_at": "2026-07-08T11:38:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_45b22c109f_d0731ec912.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_45b22c109f_d0731ec912.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "양주회천 지역의 동식물 관련 소규모 외주 작업 요청 건입니다.",
+      "해당 문서는 hwp 파일 형식으로 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "외주 작업의 구체적인 목적과 범위는 문서 내에 포함되어 있습니다."
+    ],
+    "category": "외주요청서",
+    "keywords": [
+      "양주회천",
+      "동식물",
+      "외주작업"
+    ]
+  }
+}

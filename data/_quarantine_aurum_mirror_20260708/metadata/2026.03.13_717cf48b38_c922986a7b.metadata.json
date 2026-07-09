@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.13_717cf48b38.txt",
+  "source_name": "2026.03.13_717cf48b38.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:49:19+09:00",
+  "processed_at": "2026-06-23T18:50:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.13_717cf48b38_c922986a7b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.13_717cf48b38_c922986a7b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#계양",
+      "#사후시작"
+    ],
+    "summary": "2026년 3월 13일 계양에서 발행된 영수증 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 13일 계양 테크노밸리 사후 시작 관련 영수증 이미지",
+      "JPEG 형식, RGB 모드, 566x1350 픽셀 크기",
+      "353,666 바이트 크기의 파일"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "계양 테크노밸리",
+      "사후 시작"
+    ]
+  }
+}

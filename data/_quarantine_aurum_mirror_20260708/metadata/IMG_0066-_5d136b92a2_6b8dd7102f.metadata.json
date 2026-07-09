@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0066-_5d136b92a2.txt",
+  "source_name": "IMG_0066-_5d136b92a2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-26T07:35:01+09:00",
+  "processed_at": "2026-06-26T07:37:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0066-_5d136b92a2_6b8dd7102f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0066-_5d136b92a2_6b8dd7102f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "물까치 사진 파일 정보 제공\n파일 크기: 509,249 바이트, 해상도: 1410x1058 픽셀\nRGB 모드, JPEG 형식",
+    "tags": [
+      "#물까치",
+      "#사진",
+      "#JPEG"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "물까치 사진 파일 정보 제공",
+      "파일 크기: 509,249 바이트, 해상도: 1410x1058 픽셀",
+      "RGB 모드, JPEG 형식"
+    ],
+    "category": "사진",
+    "keywords": [
+      "물까치",
+      "사진",
+      "JPEG"
+    ]
+  }
+}

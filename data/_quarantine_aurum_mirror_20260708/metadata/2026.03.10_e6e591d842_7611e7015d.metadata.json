@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.10_e6e591d842.txt",
+  "source_name": "2026.03.10_e6e591d842.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:25:52+09:00",
+  "processed_at": "2026-06-23T18:27:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.10_e6e591d842_7611e7015d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.10_e6e591d842_7611e7015d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "충청내륙 식물",
+    "class_name": "식물",
+    "tags": [
+      "#식물",
+      "#충청내륙",
+      "#JPEG"
+    ],
+    "summary": "2026년 3월 10일 충청내륙에서 촬영된 식물 이미지. 크기는 2480x3507, 모노크롬 모드, JPEG 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "충청내륙 식물에 대한 이미지 파일입니다.",
+      "OCR 처리 과정에서 서버 오류가 발생하여 텍스트 추출이 불가능합니다.",
+      "파일 크기: 501,977 바이트, 해상도: 2480x3507 픽셀, 모노크롬 모드"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "충청내륙",
+      "식물",
+      "이미지"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_7871cf6184.txt",
+  "source_name": "file_7871cf6184.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:44+09:00",
+  "processed_at": "2026-07-08T13:52:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_7871cf6184_1d1c0a2420.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_7871cf6184_1d1c0a2420.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 파일은 '숨편한 힐링숲 진입도로' 지역의 파충류 관련 기록을 담고 있는 이미지 문서입니다.",
+      "파일 경로는 야장 및 영수증 폴더 내에 위치하며, 현장 조사 데이터로 추정됩니다.",
+      "이미지 형식(JPEG)과 해상도 정보를 포함한 메타데이터를 보유하고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "숨편한 힐링숲",
+      "진입도로",
+      "파충류"
+    ]
+  }
+}

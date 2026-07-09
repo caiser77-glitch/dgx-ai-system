@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/250605_27c6609e5f.txt",
+  "source_name": "250605_27c6609e5f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:59:07+09:00",
+  "processed_at": "2026-06-23T20:00:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/250605_27c6609e5f_32a4873eed.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/250605_27c6609e5f_32a4873eed.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "인천용역",
+    "tags": [
+      "#설계자료",
+      "#zip",
+      "#130MB"
+    ],
+    "summary": "250605 설계자료.zip 파일, 130,533,075 바이트, 지원되지 않는 파일 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "설계자료.zip 파일은 지원되지 않는 파일 유형으로, 내용 추출이 불가능합니다.",
+      "파일 크기는 약 130MB입니다.",
+      "파일의 구체적인 내용은 확인할 수 없습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "설계자료",
+      "zip",
+      "지원되지 않는 파일 유형"
+    ]
+  }
+}

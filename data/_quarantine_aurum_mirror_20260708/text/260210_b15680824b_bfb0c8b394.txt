@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 설계도면
+● 핵심 키워드: 호미반도, 산림복지단지, 조경설계
+● 3줄 요약:
+- 호미반도 산림복지단지 조성사업의 최종 조경설계도면 파일입니다.
+- 파일 크기는 약 42MB이며, OCR 처리 과정에서 오류가 발생하였습니다.
+- 컨트롤 문자 포함 문제로 인해 상세 내용 추출이 불가능한 상태입니다.
+=========================================
+source_name: 호미반도 산림복지단지 조성사업_조경설계도면_260210(최종).pdf
+source_type: pdf
+size_bytes: 42233183
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/호미반도 산림복지단지 조성사업_조경설계도면_260210(최종)_pages_1_taxa.xlsx' (found at least ' ')

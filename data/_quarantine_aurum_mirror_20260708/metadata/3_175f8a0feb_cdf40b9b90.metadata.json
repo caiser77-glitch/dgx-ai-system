@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3_175f8a0feb.txt",
+  "source_name": "3_175f8a0feb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T11:59:12+09:00",
+  "processed_at": "2026-07-06T11:59:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/3_175f8a0feb_cdf40b9b90.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/3_175f8a0feb_cdf40b9b90.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "소규모 환경영향평가 협의 내용에 대한 문서.",
+      "고흥군 봉래면 외초리 양식장 시설 신축공사 관련.",
+      "PDF 파일 크기 170,725바이트, OCR 처리 오류 발생."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향평가",
+      "고흥군",
+      "양식장시설"
+    ]
+  }
+}

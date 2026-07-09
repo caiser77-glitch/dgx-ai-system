@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 파일크기, OCR오류
+● 3줄 요약:
+- 문서 '2.+보완내용.pdf'는 PDF 형식이며 크기는 1,495,995 바이트입니다.
+- 문서 내용 추출이 지원되지 않는 파일 유형으로 표시되었습니다.
+- OCR 처리 중 'ascii' 코덱 인코딩 오류가 발생했습니다.
+=========================================
+source_name: 2.+보완내용.pdf
+source_type: pdf
+size_bytes: 1495995
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)

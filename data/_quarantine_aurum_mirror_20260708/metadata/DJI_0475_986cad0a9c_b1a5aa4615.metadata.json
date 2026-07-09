@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_0475_986cad0a9c.txt",
+  "source_name": "DJI_0475_986cad0a9c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T10:10:19+09:00",
+  "processed_at": "2026-06-24T10:12:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DJI_0475_986cad0a9c_b1a5aa4615.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DJI_0475_986cad0a9c_b1a5aa4615.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "DJI 드론으로 촬영된 고화질 사진\n2025년 2월 7일 16시 55분 23초에 촬영\nGPS 좌표: 위도 34.452061, 경도 127.492543",
+    "tags": [
+      "#DJI",
+      "#드론사진",
+      "#GPS"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "DJI 드론으로 촬영된 고화질 사진",
+      "2025년 2월 7일 16시 55분 23초에 촬영",
+      "GPS 좌표: 위도 34.452061, 경도 127.492543"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "DJI",
+      "드론사진",
+      "GPS"
+    ]
+  }
+}

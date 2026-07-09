@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/06_c9e89599e8.txt",
+  "source_name": "06_c9e89599e8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:48:00+09:00",
+  "processed_at": "2026-07-08T13:48:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/06_c9e89599e8_909ec82ca1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/06_c9e89599e8_909ec82ca1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "임목폐기물 처리 관련 설계서 파일입니다.",
+      "Excel(.xls) 형식의 데이터로 약 495KB 크기입니다.",
+      "해당 파일은 현재 내용 추출이 지원되지 않는 유형입니다."
+    ],
+    "category": "설계서",
+    "keywords": [
+      "임목폐기물",
+      "Excel",
+      "설계서"
+    ]
+  }
+}

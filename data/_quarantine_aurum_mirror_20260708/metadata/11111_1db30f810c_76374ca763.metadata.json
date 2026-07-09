@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11111_1db30f810c.txt",
+  "source_name": "11111_1db30f810c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:15:03+09:00",
+  "processed_at": "2026-07-08T12:15:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11111_1db30f810c_76374ca763.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11111_1db30f810c_76374ca763.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "호미반도의 육상동식물상에 대한 조사 보고서 작성 건임",
+      "현재 식물 관련 작업이 진행 중인 상태임",
+      "문서는 HWP 형식이며 파일 크기는 약 59.8MB임"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "호미반도",
+      "육상동식물상",
+      "식물 작업"
+    ]
+  }
+}

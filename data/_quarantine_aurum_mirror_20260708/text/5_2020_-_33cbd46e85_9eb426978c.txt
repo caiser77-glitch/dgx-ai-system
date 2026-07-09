@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 광덕, 육상곤충
+● 3줄 요약:
+- 제5차 전국자연환경조사의 일환으로 진행된 2020년도 광덕 지역 육상곤충 조사 보고서입니다.
+- 해당 파일은 PDF 형식이며, 파일명 내 공백 포함 등의 이유로 OCR 처리에 실패하였습니다.
+- 데이터 추출 과정에서 특정 엑셀 파일 경로 인식 오류가 발생한 것으로 확인됩니다.
+=========================================
+source_name: 제5차 전국자연환경조사 2020 광덕-육상곤충.pdf
+source_type: pdf
+size_bytes: 2428601
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제5차 전국자연환경조사 2020 광덕-육상곤충_pages_1_taxa.xlsx' (found at least ' ')

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1121-1_486a713c4f_d5e713b73e.txt",
+  "source_name": "-1121-1_486a713c4f_d5e713b73e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:31:48+09:00",
+  "processed_at": "2026-07-08T11:31:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-1121-1_486a713c4f_d5e713b73e_49d916b057.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-1121-1_486a713c4f_d5e713b73e_49d916b057.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제안로-1121-1(기상) 문서는 지원되지 않는 파일 유형입니다.",
+      "문서의 크기는 3,330,560 바이트입니다.",
+      "내용 추출이 불가능하므로 분석이 제한적입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "문서 크기",
+      "내용 추출 불가"
+    ]
+  }
+}

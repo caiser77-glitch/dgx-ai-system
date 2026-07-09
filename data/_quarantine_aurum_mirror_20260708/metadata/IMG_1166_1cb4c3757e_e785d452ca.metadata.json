@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1166_1cb4c3757e.txt",
+  "source_name": "IMG_1166_1cb4c3757e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T15:46:37+09:00",
+  "processed_at": "2026-07-06T15:47:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1166_1cb4c3757e_e785d452ca.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1166_1cb4c3757e_e785d452ca.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지 파일 'IMG_1166.JPG'의 크기가 변경되었습니다.",
+      "파일 크기는 717,552 바이트이며, 해상도는 2592x1944 픽셀입니다.",
+      "OCR 처리 시 서버 오류가 발생하여 텍스트 인식이 실패했습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지",
+      "크기변경",
+      "OCR 오류"
+    ]
+  }
+}

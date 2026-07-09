@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 동·식물상, PDF, OCR 오류
+● 3줄 요약:
+- 동·식물상에 관한 PDF 파일의 데이터 처리 결과입니다.
+- OCR 과정에서 URL 내 제어 문자 포함으로 인한 오류가 발생했습니다.
+- 파일 이름의 공백 문자가 처리에 문제를 일으킨 것으로 분석됩니다.
+=========================================
+source_name: (본안)11.1.1.1 동·식물상.pdf
+source_type: pdf
+size_bytes: 17855458
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/(본안)11.1.1.1 동·식물상_pages_1_taxa.xlsx' (found at least ' ')

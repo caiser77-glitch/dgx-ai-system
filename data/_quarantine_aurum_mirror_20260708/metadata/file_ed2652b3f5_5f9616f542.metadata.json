@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_ed2652b3f5.txt",
+  "source_name": "file_ed2652b3f5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:43+09:00",
+  "processed_at": "2026-07-08T11:40:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_ed2652b3f5_5f9616f542.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_ed2652b3f5_5f9616f542.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "과천주암 공공지원민간임대주택 공급촉진지구의 사후환경영향조사 결과에 대한 통보서 검토 의견 알림 문서입니다.",
+      "해당 파일은 PDF 형식이나 콘텐츠 추출이 지원되지 않는 유형으로 확인되었습니다.",
+      "OCR 처리 과정에서 제어 문자로 인한 경로 오류가 발생하여 데이터 처리가 제한적입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "사후환경영향조사",
+      "통보서",
+      "검토의견"
+    ]
+  }
+}

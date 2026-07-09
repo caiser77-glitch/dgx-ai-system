@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060921_9e1c06ff7c.txt",
+  "source_name": "R0060921_9e1c06ff7c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T10:00:43+09:00",
+  "processed_at": "2026-07-08T10:00:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060921_9e1c06ff7c_c0868a88ef.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060921_9e1c06ff7c_c0868a88ef.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일의 메타데이터 정보를 포함하고 있습니다.",
+      "파일명 R0060921.jpg을 포함하여 파일 경로 및 규격 정보가 명시되어 있습니다.",
+      "평택호 사후 모니터링 관련 사진 자료로 분류됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "모니터링 사진",
+      "파일 정보"
+    ]
+  }
+}

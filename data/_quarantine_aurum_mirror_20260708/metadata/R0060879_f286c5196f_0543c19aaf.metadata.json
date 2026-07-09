@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060879_f286c5196f.txt",
+  "source_name": "R0060879_f286c5196f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:58:50+09:00",
+  "processed_at": "2026-07-08T09:58:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060879_f286c5196f_0543c19aaf.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060879_f286c5196f_0543c19aaf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.",
+      "촬영 일시는 2026년 5월 4일 오후 12시 22분이며, 청라 6블록 인근 지점의 GPS 좌표를 포함합니다.",
+      "파일 경로는 아우룸생태연구소의 프로젝트 관리 경로 내에 저장되어 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "RICOH WG-6",
+      "청라 6블록"
+    ]
+  }
+}

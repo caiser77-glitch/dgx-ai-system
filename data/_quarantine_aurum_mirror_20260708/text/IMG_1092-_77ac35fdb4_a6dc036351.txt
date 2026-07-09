@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 미디어 파일
+● 핵심 키워드: 방울새, JPEG, 메타데이터
+● 3줄 요약:
+- 방울새 사진 파일에 대한 메타데이터 정보 제공
+- OCR 처리 시 서버 오류 발생
+- 파일 크기, 해상도, 색상 모드 및 형식 정보 포함
+=========================================
+source_name: IMG_1092-방울새.jpg
+source_type: jpg
+size_bytes: 508355
+width: 1592
+height: 1194
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

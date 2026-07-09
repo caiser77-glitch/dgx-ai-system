@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/file_abc1d6ae06.Sheet1.csv",
+  "source_name": "file_abc1d6ae06.Sheet1.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:37+09:00",
+  "processed_at": "2026-07-08T12:04:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_abc1d6ae06.Sheet1_6f878c7b17.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/file_abc1d6ae06.Sheet1_6f878c7b17.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_abc1d6ae06.Sheet1_6f878c7b17.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 식생 조사 데이터가 포함된 CSV 형식의 파일입니다.",
+      "현존식생 및 초안, 본안 등의 열 구성을 가지고 있습니다.",
+      "총 23개의 행으로 구성된 식생 관련 데이터셋입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "현존식생",
+      "초안",
+      "본안"
+    ]
+  }
+}

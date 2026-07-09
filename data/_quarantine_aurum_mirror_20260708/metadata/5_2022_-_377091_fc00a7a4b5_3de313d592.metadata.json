@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2022_-_377091_fc00a7a4b5.txt",
+  "source_name": "5_2022_-_377091_fc00a7a4b5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:53:19+09:00",
+  "processed_at": "2026-07-08T11:53:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2022_-_377091_fc00a7a4b5_3de313d592.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2022_-_377091_fc00a7a4b5_3de313d592.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "5차 전국자연환경조사 2022년도 둔전 지역 식물상 조사 보고서",
+      "PDF 파일 크기는 2,294,102 바이트임",
+      "OCR 처리 오류로 인해 상세 내용 추출이 불가함"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "둔전",
+      "식물상"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.06_2781423328.txt",
+  "source_name": "2026.03.06_2781423328.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:09:47+09:00",
+  "processed_at": "2026-06-23T18:10:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.06_2781423328_0eb57d65de.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.06_2781423328_0eb57d65de.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "군포대야미",
+    "class_name": "양서류",
+    "tags": [
+      "#군포대야미",
+      "#양서류",
+      "#2026"
+    ],
+    "summary": "군포대야미 지역에서 촬영된 양서류 사진. 2026년 3월 6일.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "군포대야미에서 촬영된 양서류 사진",
+      "2026년 3월 6일에 촬영",
+      "JPEG 형식, 2480x3507 픽셀 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "군포대야미",
+      "양서류",
+      "사진"
+    ]
+  }
+}

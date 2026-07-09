@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 흰뺨검둥오리, Canon PowerShot SX70 HS, GPS 좌표
+● 3줄 요약:
+- 2025년 11월 18일 촬영된 흰뺨검둥오리 사진
+- Canon PowerShot SX70 HS 카메라로 촬영
+- GPS 좌표: 위도 35.76669, 경도 128.82042
+=========================================
+source_name: IMG_0974-흰뺨검둥오리.JPG
+source_type: jpg
+size_bytes: 8231561
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/IMG_0974-흰뺨검둥오리.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:11:18 11:07:03
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.76669
+gps_lon: 128.82042

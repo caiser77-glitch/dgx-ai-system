@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_1be688be59.txt",
+  "source_name": "file_1be688be59.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:23+09:00",
+  "processed_at": "2026-07-08T12:16:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_1be688be59_58a68851f2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_1be688be59_58a68851f2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "산림청에서 발행한 전략환경영향평가 관련 행정 공문입니다.",
+      "해당 문서는 PDF 형식이며 파일 크기는 195,762 바이트입니다.",
+      "OCR 처리 과정 중 파일명 내 제어 문자로 인한 오류가 발생하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "전략환경영향평가",
+      "산림청",
+      "공문"
+    ]
+  }
+}

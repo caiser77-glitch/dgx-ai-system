@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/030-34710030_54910221dc.txt",
+  "source_name": "030-34710030_54910221dc.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:40:36+09:00",
+  "processed_at": "2026-06-22T22:41:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/030-34710030_54910221dc_ef90430d96.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/030-34710030_54910221dc_ef90430d96.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "인천용역",
+    "tags": [
+      "#인천용역",
+      "#LH",
+      "#2026"
+    ],
+    "summary": "손죽030-34710030.zip 파일의 크기는 48795바이트이며, 내용 추출이 지원되지 않는 파일 형식입니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "손죽030-34710030.zip 파일은 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 48,795 바이트입니다.",
+      "내용 추출이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "손죽030-34710030",
+      "zip",
+      "지원되지 않는 파일 유형"
+    ]
+  }
+}

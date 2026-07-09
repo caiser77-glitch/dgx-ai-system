@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-6110_1b6ffb6fa2.txt",
+  "source_name": "-6110_1b6ffb6fa2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:45:27+09:00",
+  "processed_at": "2026-07-08T11:45:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-6110_1b6ffb6fa2_903a23bc34.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-6110_1b6ffb6fa2_903a23bc34.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '평내-6110 동식물상'은 HWP 파일 형식으로 제공되었습니다.",
+      "파일 크기는 204,908,032 바이트입니다.",
+      "현재 시스템에서는 HWP 파일의 내용 추출을 지원하지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "HWP",
+      "동식물상",
+      "평내"
+    ]
+  }
+}

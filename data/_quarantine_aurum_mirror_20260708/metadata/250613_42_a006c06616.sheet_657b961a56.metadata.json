@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/250613_42_a006c06616.sheet.csv",
+  "source_name": "250613_42_a006c06616.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:11:15+09:00",
+  "processed_at": "2026-07-08T12:11:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/250613_42_a006c06616.sheet_657b961a56.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/250613_42_a006c06616.sheet_657b961a56.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/250613_42_a006c06616.sheet_657b961a56.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 파일명 '250613_42_a006c06616.sheet.csv'를 가진 CSV 형식의 문서입니다.",
+      "총 21개의 행(row)으로 구성되어 있으나 구체적인 컬럼 명칭과 데이터 내용은 포함되어 있지 않습니다.",
+      "데이터의 세부 내용을 파악하기 위해서는 실제 파일 내의 값에 대한 추가 정보가 필요합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 파일",
+      "데이터 구조 미확인",
+      "행 개수 21"
+    ]
+  }
+}

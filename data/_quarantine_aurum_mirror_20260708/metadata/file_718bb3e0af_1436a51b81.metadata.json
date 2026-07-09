@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_718bb3e0af.txt",
+  "source_name": "file_718bb3e0af.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:36+09:00",
+  "processed_at": "2026-07-08T13:52:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_718bb3e0af_1436a51b81.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_718bb3e0af_1436a51b81.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천 일대의 양서류 조사 관련 야장 이미지 파일입니다.",
+      "파일 경로는 음성천 현장 조사 데이터 중 야장 및 영수증 폴더에 위치합니다.",
+      "흑백 모드(L)로 저장된 JPEG 형식의 문서 이미지입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "양서류",
+      "야장"
+    ]
+  }
+}

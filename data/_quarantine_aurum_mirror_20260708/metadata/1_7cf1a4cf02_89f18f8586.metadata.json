@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_7cf1a4cf02.txt",
+  "source_name": "1_7cf1a4cf02.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:51:24+09:00",
+  "processed_at": "2026-07-08T11:51:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_7cf1a4cf02_89f18f8586.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_7cf1a4cf02_89f18f8586.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파크골프장 조성을 위한 소규모 생태계 과업지시서",
+      "북부권 원북 이원 지역에서 수행",
+      "생태계 보호와 복원을 고려한 조성 계획"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "파크골프장",
+      "생태계",
+      "과업지시서"
+    ]
+  }
+}

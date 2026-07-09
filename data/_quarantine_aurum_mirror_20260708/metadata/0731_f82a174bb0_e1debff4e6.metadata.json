@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0731_f82a174bb0.txt",
+  "source_name": "0731_f82a174bb0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:17:44+09:00",
+  "processed_at": "2026-07-08T13:17:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0731_f82a174bb0_e1debff4e6.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0731_f82a174bb0_e1debff4e6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "본 문서는 수질 및 수리수문에 관한 내용을 담고 있는 PDF 파일입니다.",
+      "파일 크기는 약 20MB이며, 데이터 추출 과정에서 오류가 발생하였습니다.",
+      "오류 원인은 ASCII 인코딩 범위를 벗어난 특수 문자의 존재로 확인되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "수질",
+      "수리수문",
+      "OCR 오류"
+    ]
+  }
+}

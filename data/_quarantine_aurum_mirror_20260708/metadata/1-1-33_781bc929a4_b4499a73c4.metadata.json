@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1-1-33_781bc929a4.txt",
+  "source_name": "1-1-33_781bc929a4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:47:20+09:00",
+  "processed_at": "2026-07-08T13:47:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1-1-33_781bc929a4_b4499a73c4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1-1-33_781bc929a4_b4499a73c4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "외도~애조로(중로1-1-33호선) 도시계획도로 개설공사에 대한 사업개요 문서입니다.",
+      "PDF 파일 형식으로 제공되었으나 OCR 처리 과정에서 오류가 발생하였습니다.",
+      "오류 원인은 URL 내 제어 문자가 포함되어 데이터 추출이 지원되지 않는 문제입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "도시계획도로",
+      "개설공사",
+      "OCR 오류"
+    ]
+  }
+}

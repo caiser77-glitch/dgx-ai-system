@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039501_d910776950.txt",
+  "source_name": "R0039501_d910776950.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:52:12+09:00",
+  "processed_at": "2026-07-08T14:52:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039501_d910776950_a48c772436.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039501_d910776950_a48c772436.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.",
+      "촬영 일시는 2026년 2월 9일 오후 3시 22분입니다.",
+      "경남 창원 진해신항 인근의 GPS 좌표를 포함하고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "RICOH WG-6",
+      "진해신항",
+      "이미지 메타데이터"
+    ]
+  }
+}

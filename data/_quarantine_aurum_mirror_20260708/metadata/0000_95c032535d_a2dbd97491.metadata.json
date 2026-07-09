@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0000_95c032535d.txt",
+  "source_name": "0000_95c032535d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:20:17+09:00",
+  "processed_at": "2026-07-08T12:20:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0000_95c032535d_a2dbd97491.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0000_95c032535d_a2dbd97491.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "PDF 파일의 표지 내용 추출 시도 중 오류 발생",
+      "파일 경로 내 제어 문자 포함으로 인한 URL 생성 오류",
+      "해당 파일의 크기는 3,249,783 바이트임"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "표지",
+      "오류"
+    ]
+  }
+}

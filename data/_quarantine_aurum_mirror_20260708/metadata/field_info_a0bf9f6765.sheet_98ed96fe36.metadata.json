@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/field_info_a0bf9f6765.sheet.csv",
+  "source_name": "field_info_a0bf9f6765.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:03:21+09:00",
+  "processed_at": "2026-07-08T12:03:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/field_info_a0bf9f6765.sheet_98ed96fe36.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/field_info_a0bf9f6765.sheet_98ed96fe36.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/field_info_a0bf9f6765.sheet_98ed96fe36.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소의 현장 조사 인력 및 활동 기록을 담은 데이터셋입니다.",
+      "조사자명, 참여분야, 소속 등 인적 사항과 조사 일시 및 지점 정보를 포함합니다.",
+      "총 6개의 행으로 구성된 CSV 형식의 현장 조사 관리 문서입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "현장조사",
+      "조사자 정보",
+      "조사 기록"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 참새, 메타데이터, 서버오류
+● 3줄 요약:
+- 참새 사진 파일에 대한 메타데이터 정보 제공
+- OCR 처리 시 서버 오류 발생
+- 파일 크기, 해상도, 색상 모드 등의 정보 포함
+=========================================
+source_name: IMG_2953-참새.jpg
+source_type: jpg
+size_bytes: 510254
+width: 1228
+height: 921
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07_233861c512.L_fadc97ae78.txt",
+  "source_name": "07_233861c512.L_fadc97ae78.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T07:45:32+09:00",
+  "processed_at": "2026-07-06T07:46:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512.L_fadc97ae78_a11b2ebb38.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512.L_fadc97ae78_a11b2ebb38.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '07_233861c512.L.csv'에 대한 정보 제공",
+      "총 45개의 행이 포함되어 있음",
+      "주요 컬럼: '도로 경계석 단위수량'"
+    ],
+    "category": "데이터셋",
+    "keywords": [
+      "CSV",
+      "도로 경계석",
+      "단위수량"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: PDF, 타이틀표지, 인코딩오류
+● 3줄 요약:
+- 해당 문서는 PDF 형태의 타이틀 표지 파일입니다.
+- 파일 크기는 30,808 바이트이며 내용 추출이 지원되지 않습니다.
+- OCR 처리 과정에서 인코딩 오류가 발생하여 정보 추출이 불가능합니다.
+=========================================
+source_name: 0.타이틀표지.pdf
+source_type: pdf
+size_bytes: 30808
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 15-19: ordinal not in range(128)

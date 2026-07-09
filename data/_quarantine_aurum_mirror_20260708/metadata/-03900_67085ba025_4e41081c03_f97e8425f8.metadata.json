@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-03900_67085ba025_4e41081c03.txt",
+  "source_name": "-03900_67085ba025_4e41081c03.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:51:08+09:00",
+  "processed_at": "2026-07-01T11:51:08+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-03900_67085ba025_4e41081c03.txt",
+    "return_code": 1
+  }
+}

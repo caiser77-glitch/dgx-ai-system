@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_5ec942319a.txt",
+  "source_name": "file_5ec942319a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:52:11+09:00",
+  "processed_at": "2026-07-08T11:52:18+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_5ec942319a_7706969c7a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_5ec942319a_7706969c7a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "창원 죽동 지역의 육상동식물 검토 결과를 담은 데이터 파일입니다.",
+      "곤충 시트에는 총 473개의 데이터 행과 33개의 열이 포함되어 있습니다.",
+      "저서성대형무척추 시트는 현재 입력된 데이터가 없는 상태입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "창원 죽동",
+      "육상동식물",
+      "곤충"
+    ]
+  }
+}

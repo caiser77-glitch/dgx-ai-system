@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0903_006b9a113b.txt",
+  "source_name": "0903_006b9a113b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:32+09:00",
+  "processed_at": "2026-07-08T12:05:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0903_006b9a113b_510792640a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0903_006b9a113b_510792640a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획과 유치업종계획, 계획인구에 대한 데이터를 포함하는 엑셀 파일입니다.",
+      "총 5개 시트로 구성되어 있으며 각 시트는 다양한 정보를 담고 있습니다.",
+      "입주의향기업 및 입주협약기업 리스트를 통해 기업 유치 상황 파악이 가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "토지이용계획",
+      "유치업종계획",
+      "계획인구"
+    ]
+  }
+}

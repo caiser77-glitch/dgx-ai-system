@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_a0f56f5a1f.txt",
+  "source_name": "1_a0f56f5a1f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:38:06+09:00",
+  "processed_at": "2026-06-22T23:39:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_a0f56f5a1f_07ac2442ab.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_a0f56f5a1f_07ac2442ab.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "평택통복 사후",
+    "class_name": "출장복명서",
+    "tags": [
+      "#출장복명서",
+      "#평택통복",
+      "#1분기"
+    ],
+    "summary": "평택통복 1분기 출장복명서.jpg, 크기: 2207886 bytes, 해상도: 4958x7008, 형식: JPEG",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "평택통복 1분기 출장복명서 이미지 파일",
+      "JPEG 형식, RGB 모드, 4958x7008 픽셀 크기",
+      "파일 크기 2,207,886 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "출장복명서",
+      "평택통복",
+      "1분기"
+    ]
+  }
+}

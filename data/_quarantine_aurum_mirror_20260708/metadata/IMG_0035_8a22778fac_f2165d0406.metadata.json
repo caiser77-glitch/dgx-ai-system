@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0035_8a22778fac.txt",
+  "source_name": "IMG_0035_8a22778fac.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T15:45:46+09:00",
+  "processed_at": "2026-06-30T15:48:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0035_8a22778fac_f2165d0406.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0035_8a22778fac_f2165d0406.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 26일에 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "사진 크기: 5184x3888 픽셀, RGB 모드, MPO 포맷",
+      "파일 크기: 8,762,687 바이트, 경로: /mnt/dgxbackup/2026 KCI/성남낙생/02.사진/02.26/김부/IMG_0035.JPG"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "2026년 2월 26일",
+      "RGB 모드"
+    ]
+  }
+}

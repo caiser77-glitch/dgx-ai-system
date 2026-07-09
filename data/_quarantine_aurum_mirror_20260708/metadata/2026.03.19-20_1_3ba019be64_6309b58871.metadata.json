@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.19-20_1_3ba019be64.txt",
+  "source_name": "2026.03.19-20_1_3ba019be64.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:13:24+09:00",
+  "processed_at": "2026-06-23T19:14:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.19-20_1_3ba019be64_6309b58871.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.19-20_1_3ba019be64_6309b58871.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 광주도시철도",
+    "project_name": "광주도시철도 1분기 양서류 조사",
+    "class_name": "양서류",
+    "tags": [
+      "#광주도시철도",
+      "#1분기",
+      "#양서류"
+    ],
+    "summary": "광주도시철도 1분기 양서류 조사 사진, 크기 512682byte, 해상도 2480x3507",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "광주도시철도 1분기 양서류에 대한 이미지 파일입니다.",
+      "파일 크기는 512,682 바이트이며, 해상도는 2480x3507 픽셀입니다.",
+      "JPEG 형식의 흑백 이미지로, 2026년 3월 19일부터 20일까지의 기록을 포함합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "광주도시철도",
+      "1분기",
+      "양서류"
+    ]
+  }
+}

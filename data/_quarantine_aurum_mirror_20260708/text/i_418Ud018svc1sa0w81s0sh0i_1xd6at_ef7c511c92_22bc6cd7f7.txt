@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: i_418Ud018svc1sa0w81s0sh0i_1xd6at.jpg
+source_type: jpg
+size_bytes: 603357
+path: /mnt/dgxbackup/2026 이산/광주도시철도/05. 야장 및 영수증/영수증/1분기/i_418Ud018svc1sa0w81s0sh0i_1xd6at.jpg
+width: 640
+height: 1450
+mode: RGB
+format: JPEG
+datetime_taken: 2026:03:19 12:53:28
+camera_make: SAMSUNG
+camera_model: Galaxy S25 Ultra

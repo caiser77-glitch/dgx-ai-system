@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_e2d76b6f35.txt",
+  "source_name": "file_e2d76b6f35.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:20+09:00",
+  "processed_at": "2026-07-08T13:49:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_e2d76b6f35_36a368f5b4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_e2d76b6f35_36a368f5b4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "호미반도 산림복지단지 조경설계 관련 전망대 이미지 파일입니다.",
+      "이미지의 규격은 2000x1500 해상도의 RGB 모드 JPEG 형식입니다.",
+      "빛공해 저감방안 설계도면 경로 내에 저장된 시각 자료입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "전망대",
+      "조경설계",
+      "호미반도"
+    ]
+  }
+}

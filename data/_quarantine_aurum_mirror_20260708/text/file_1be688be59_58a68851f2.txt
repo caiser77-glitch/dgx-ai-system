@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 전략환경영향평가, 산림청, 공문
+● 3줄 요약:
+- 산림청에서 발행한 전략환경영향평가 관련 행정 공문입니다.
+- 해당 문서는 PDF 형식이며 파일 크기는 195,762 바이트입니다.
+- OCR 처리 과정 중 파일명 내 제어 문자로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 전략환경영향평가 공문 (산림청).pdf
+source_type: pdf
+size_bytes: 195762
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/전략환경영향평가 공문 (산림청)_pages_1_taxa.xlsx' (found at least ' ')

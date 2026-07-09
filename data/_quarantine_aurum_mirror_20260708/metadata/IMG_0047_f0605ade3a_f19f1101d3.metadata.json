@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0047_f0605ade3a.txt",
+  "source_name": "IMG_0047_f0605ade3a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T23:07:55+09:00",
+  "processed_at": "2026-06-25T23:10:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0047_f0605ade3a_f19f1101d3.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0047_f0605ade3a_f19f1101d3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 3월 27일에 촬영된 고흥 산단의 사진\nCanon PowerShot SX70 HS 카메라로 촬영\nGPS 좌표: 위도 34.454078, 경도 127.473892",
+    "tags": [
+      "#사진",
+      "#고흥 산단",
+      "#GPS"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일에 촬영된 고흥 산단의 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영",
+      "GPS 좌표: 위도 34.454078, 경도 127.473892"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "고흥 산단",
+      "GPS"
+    ]
+  }
+}

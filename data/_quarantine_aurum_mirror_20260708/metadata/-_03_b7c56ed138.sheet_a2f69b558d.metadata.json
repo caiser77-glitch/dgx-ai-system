@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/-_03_b7c56ed138.sheet.csv",
+  "source_name": "-_03_b7c56ed138.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:09+09:00",
+  "processed_at": "2026-07-08T12:02:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_03_b7c56ed138.sheet_a2f69b558d.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/-_03_b7c56ed138.sheet_a2f69b558d.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_03_b7c56ed138.sheet_a2f69b558d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하구 생물측정망의 어류 출현종 정보를 담은 데이터셋입니다.",
+      "CSV 형식으로 구성된 생태 조사 관련 문서입니다.",
+      "해당 파일은 하구 지역의 어류 종 구성을 기록하고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "하구",
+      "생물측정망",
+      "어류 출현종"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 06 상수공.xlsx
+source_type: xlsx
+sheet: 운반, rows: 61, columns: 38
+sheet: 간, rows: 39, columns: 8
+sheet: 배내역, rows: 150, columns: 8
+sheet: 총자1, rows: 81, columns: 11
+sheet: 총폐, rows: 33, columns: 11
+sheet: 자(본), rows: 83, columns: 12
+sheet: 본토집, rows: 38, columns: 7
+sheet: 폐(본), rows: 191, columns: 9
+sheet: 본배집, rows: 85, columns: 9
+sheet: 본현, rows: 58, columns: 29
+sheet: 격점, rows: 85, columns: 47
+sheet: 곡조, rows: 52, columns: 15
+sheet: 본포집, rows: 54, columns: 10
+sheet: 포수, rows: 144, columns: 125
+sheet: 본부, rows: 24, columns: 9
+sheet: 본간, rows: 39, columns: 8
+sheet: 자(가), rows: 31, columns: 12
+sheet: 가토집, rows: 27, columns: 7
+sheet: 가본집, rows: 15, columns: 10
+sheet: 가포집, rows: 33, columns: 8
+sheet: 본포, rows: 32, columns: 13
+sheet: 토단, rows: 46, columns: 36
+sheet: 보호토공, rows: 45, columns: 27
+sheet: 가정분기조서, rows: 31, columns: 27
+sheet: Sheet1, rows: 0, columns: 1
+sheet: 총폐 (3), rows: 191, columns: 9
+sheet: 포자, rows: 17, columns: 17
+sheet: 콘단, rows: 52, columns: 36
+sheet: 덧단, rows: 53, columns: 73

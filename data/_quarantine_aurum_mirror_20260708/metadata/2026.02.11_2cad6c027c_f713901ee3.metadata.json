@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.11_2cad6c027c.txt",
+  "source_name": "2026.02.11_2cad6c027c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:28:42+09:00",
+  "processed_at": "2026-06-23T17:29:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.11_2cad6c027c_f713901ee3.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.11_2cad6c027c_f713901ee3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 대일소각",
+    "project_name": "야장 및 영수증",
+    "class_name": "곤충",
+    "tags": [
+      "#2026",
+      "#대일소각",
+      "#곤충"
+    ],
+    "summary": "2026년 2월 11일 대일소각장에서 촬영한 곤충 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 11일 대일소각장에서 촬영된 곤충 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "파일 크기는 453,649 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "곤충",
+      "대일소각장",
+      "2026년 2월 11일"
+    ]
+  }
+}

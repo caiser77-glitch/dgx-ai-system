@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1000_902af6dd46.txt",
+  "source_name": "1000_902af6dd46.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:17:17+09:00",
+  "processed_at": "2026-07-08T13:17:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1000_902af6dd46_8f3fce8a61.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1000_902af6dd46_8f3fce8a61.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "주민들의 환경오염 피해 사례와 그에 따른 대응 방안을 다루고 있습니다.",
+      "파일 크기는 약 92KB이며 OCR 처리 과정에서 인코딩 오류가 발생했습니다.",
+      "지원되지 않는 파일 형식으로 인해 본문 내용 추출이 불가능한 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경오염",
+      "주민피해",
+      "대책"
+    ]
+  }
+}

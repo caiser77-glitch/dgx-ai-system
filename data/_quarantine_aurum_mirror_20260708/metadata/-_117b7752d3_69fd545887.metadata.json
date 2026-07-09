@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_117b7752d3.txt",
+  "source_name": "-_117b7752d3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:55+09:00",
+  "processed_at": "2026-07-08T12:15:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_117b7752d3_69fd545887.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_117b7752d3_69fd545887.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "현장조사계획서에 아우룸생태연구소 참여자 추가 사항 포함",
+      "환경질 측정 및 생태계조사 관련 내용 포함",
+      "파일 형식이 hwp로, 내용 추출이 지원되지 않음"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "현장조사계획서",
+      "환경질 측정",
+      "생태계조사"
+    ]
+  }
+}

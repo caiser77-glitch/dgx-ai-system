@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: RICOH WG-6, 영흥화력, 현장사진
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 촬영 일시는 2026년 5월 18일 오후 1시 5분이며, 영흥화력 관련 조사 사진으로 추정됩니다.
+- GPS 좌표(북위 37.254762, 동경 126.462387)를 포함한 상세 파일 정보를 담고 있습니다.
+=========================================
+source_name: R0061380.JPG
+source_type: jpg
+size_bytes: 4244683
+path: /mnt/dgxbackup/2026 건화/영흥화력/02. 사진/05.18-19/조사사진/R0061380.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:18 13:05:42
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 37.254762
+gps_lon: 126.462387

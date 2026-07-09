@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0033_6c434a4892.txt",
+  "source_name": "IMG_0033_6c434a4892.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T16:41:43+09:00",
+  "processed_at": "2026-06-25T16:44:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0033_6c434a4892_5b6158cc7b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0033_6c434a4892_5b6158cc7b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2020년 1월 2일에 촬영된 브라우닝 BTC-8E 카메라의 사진\n사진 크기는 4608x2592 픽셀, RGB 모드, MPO 포맷\n파일 크기: 3,273,125 바이트, 경로: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/무인카메라 및 송메타/날짜 오류난 거/",
+    "tags": [
+      "#무인카메라",
+      "#고흥 산단",
+      "#날짜 오류"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2020년 1월 2일에 촬영된 브라우닝 BTC-8E 카메라의 사진",
+      "사진 크기는 4608x2592 픽셀, RGB 모드, MPO 포맷",
+      "파일 크기: 3,273,125 바이트, 경로: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/무인카메라 및 송메타/날짜 오류난 거/"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "고흥 산단",
+      "날짜 오류"
+    ]
+  }
+}

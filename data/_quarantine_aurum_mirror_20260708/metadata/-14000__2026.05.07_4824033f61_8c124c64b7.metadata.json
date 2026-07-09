@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-14000__2026.05.07_4824033f61.txt",
+  "source_name": "-14000__2026.05.07_4824033f61.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:46:20+09:00",
+  "processed_at": "2026-07-08T11:46:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-14000__2026.05.07_4824033f61_8c124c64b7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-14000__2026.05.07_4824033f61_8c124c64b7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소에서 작성한 '진천초평-14000' 프로젝트의 부록 문서입니다.",
+      "2026년 5월 7일에 작성되었으며 HWP 파일 형식으로 제공됩니다.",
+      "현재 시스템상 직접적인 내용 추출이 지원되지 않는 파일 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "아우룸생태연구소",
+      "진천초평-14000",
+      "HWP"
+    ]
+  }
+}

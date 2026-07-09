@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0710___249_268____2026.04.06_2b91c5ef54.txt",
+  "source_name": "0710___249_268____2026.04.06_2b91c5ef54.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:51+09:00",
+  "processed_at": "2026-07-08T11:50:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0710___249_268____2026.04.06_2b91c5ef54_2cd9c99034.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0710___249_268____2026.04.06_2b91c5ef54_2cd9c99034.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경영향조사자의 현황에 대한 정보를 담고 있습니다.",
+      "249페이지부터 268페이지까지의 내용이 포함되어 있습니다.",
+      "아우룸생태연구소에서 2026년 4월 6일에 작성되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향조사",
+      "현황",
+      "아우룸생태연구소"
+    ]
+  }
+}

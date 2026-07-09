@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: OCR 오류, PDF 파일, 문서 처리
+● 3줄 요약:
+- 문서는 OCR 처리 중 오류가 발생하여 내용 추출이 불가능합니다.
+- 파일 형식은 PDF이며, 크기는 193,749 바이트입니다.
+- 문서 이름은 '(충주-본안)1200+종합평가+및+결론.pdf'입니다.
+=========================================
+source_name: (충주-본안)1200+종합평가+및+결론.pdf
+source_type: pdf
+size_bytes: 193749
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

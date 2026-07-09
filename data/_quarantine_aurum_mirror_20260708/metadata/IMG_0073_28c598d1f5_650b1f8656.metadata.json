@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0073_28c598d1f5.txt",
+  "source_name": "IMG_0073_28c598d1f5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-26T10:31:39+09:00",
+  "processed_at": "2026-06-26T10:34:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0073_28c598d1f5_650b1f8656.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0073_28c598d1f5_650b1f8656.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2025년 8월 8일 14시 54분 29초에 촬영된 사진\nBROWNING BTC-8E 카메라로 촬영\n해상도 6016x3384, RGB 모드, MPO 포맷",
+    "tags": [
+      "#사진",
+      "#BROWNING",
+      "#BTC-8E"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 8월 8일 14시 54분 29초에 촬영된 사진",
+      "BROWNING BTC-8E 카메라로 촬영",
+      "해상도 6016x3384, RGB 모드, MPO 포맷"
+    ],
+    "category": "사진",
+    "keywords": [
+      "사진",
+      "BROWNING",
+      "BTC-8E"
+    ]
+  }
+}

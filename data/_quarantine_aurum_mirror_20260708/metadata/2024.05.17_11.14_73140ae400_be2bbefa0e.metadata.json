@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.05.17_11.14_73140ae400.txt",
+  "source_name": "2024.05.17_11.14_73140ae400.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:41:31+09:00",
+  "processed_at": "2026-06-29T17:43:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2024.05.17_11.14_73140ae400_be2bbefa0e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2024.05.17_11.14_73140ae400_be2bbefa0e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 5월 17일 부장리 고분군 조사 종료 관련 영수증 이미지",
+      "이미지는 676x1776 픽셀 크기의 흑백 JPEG 파일로 구성",
+      "파일 크기는 106,119 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "고분군",
+      "조사종료"
+    ]
+  }
+}

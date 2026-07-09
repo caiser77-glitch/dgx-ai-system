@@ -1,0 +1,40 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/19_8435d775f6.txt",
+  "source_name": "19_8435d775f6.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:13:59+09:00",
+  "processed_at": "2026-06-22T23:15:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/19_8435d775f6_fd831d3383.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/19_8435d775f6_fd831d3383.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#2024.08.19~20"
+    ],
+    "summary": "2024년 8월 19일부터 20일까지의 영수증 이미지 (JPEG, 540x1515, 248286 bytes)",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 8월 19일 시작된 활동에 대한 영수증 이미지",
+      "JPEG 형식, RGB 모드, 540x1515 픽셀 크기",
+      "파일 크기: 248,286 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "JPEG",
+      "2024-08-19"
+    ]
+  }
+}

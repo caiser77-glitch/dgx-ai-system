@@ -1,0 +1,48 @@
+---
+생성일: 2026-07-01
+장비명: overnight_batch
+원본이름: IMG_0503_da90ab1aa0.txt
+원본유형: txt
+년도_업체: 2026 고흥 산단
+사업명: 고흥 이부
+생물분류군: 미확정
+분류군: 미확정
+문서유형: 사진
+AI_요약: 2025년 9월 2일Canon PowerShot SX70 HS로 촬영된 고흥 이부 사진
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #_AURUM_AI_PROCESSED #processed #TXT #사진 #Canon #고흥
+---
+# 📄 IMG_0503_da90ab1aa0.txt 요약본
+
+* **처리 시각**: 2026-07-01T00:15:07+09:00
+* **년도_업체**: 2026 고흥 산단
+* **사업명**: 고흥 이부
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: 사진
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0503_da90ab1aa0.txt
+
+---
+### 🤖 AI 분석 요약
+> 2025년 9월 2일Canon PowerShot SX70 HS로 촬영된 고흥 이부 사진
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: IMG_0503.JPG
+source_type: jpg
+size_bytes: 8491964
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.09.01~09.04/2025.09.02~04 고흥 이부/IMG_0503.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:09:02 11:14:26
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [IMG_0503_da90ab1aa0.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0503_da90ab1aa0.txt)

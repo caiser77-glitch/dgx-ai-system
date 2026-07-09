@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0402__3.__2_b02a930583.txt",
+  "source_name": "0402__3.__2_b02a930583.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:17:52+09:00",
+  "processed_at": "2026-07-08T12:17:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0402__3.__2_b02a930583_c13e2ba7e0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0402__3.__2_b02a930583_c13e2ba7e0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 PDF 형태로 제공되나, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 22,687,234 바이트이며, OCR 처리 중 인코딩 오류가 발생했습니다.",
+      "문서의 이름은 '기평본안_0402(기후위기+적응_3.기후변화평가_2.당해사업+적응대책).pdf'입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "PDF",
+      "콘텐츠 추출",
+      "OCR 오류"
+    ]
+  }
+}

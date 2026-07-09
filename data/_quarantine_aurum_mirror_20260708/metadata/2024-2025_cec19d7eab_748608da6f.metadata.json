@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024-2025_cec19d7eab.txt",
+  "source_name": "2024-2025_cec19d7eab.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:24+09:00",
+  "processed_at": "2026-07-08T12:02:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2024-2025_cec19d7eab_748608da6f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2024-2025_cec19d7eab_748608da6f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024-2025년도 겨울철 조류 동시 센서스 관련 PDF 문서입니다.",
+      "문서 크기는 3,726,318 바이트이며, OCR 처리에 실패하였습니다.",
+      "컨트롤 문자 포함 문제로 인해 파일 처리에 어려움이 있었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "조류",
+      "동시 센서스",
+      "겨울철"
+    ]
+  }
+}

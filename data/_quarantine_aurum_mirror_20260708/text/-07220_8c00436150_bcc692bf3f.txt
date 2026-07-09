@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 해양환경, PDF, OCR 오류
+● 3줄 요약:
+- 문서는 해양환경에 관한 내용을 다루고 있으나, OCR 오류로 인해 본문 내용 추출이 불가능합니다.
+- 파일 크기는 151,768,195 바이트이며, PDF 형식입니다.
+- 문서의 정확한 내용을 확인하기 위해서는 OCR 처리나 다른 방법으로 텍스트를 추출해야 합니다.
+=========================================
+source_name: 우주센터-07220(해양환경).pdf
+source_type: pdf
+size_bytes: 151768195
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-16: ordinal not in range(128)

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 육상곤충, PDF
+● 3줄 요약:
+- 제5차 전국자연환경조사 2021년 육상곤충 관련 보고서입니다.
+- 파일 크기는 약 1.87MB의 PDF 형식 문서입니다.
+- OCR 처리 오류로 인해 상세 내용 추출이 불가능합니다.
+=========================================
+source_name: 제5차 전국자연환경조사 2021-귀일(336064)_육상곤충.pdf
+source_type: pdf
+size_bytes: 1870174
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제5차 전국자연환경조사 2021-귀일(336064)_육상곤충_pages_1_taxa.xlsx' (found at least ' ')

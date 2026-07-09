@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02_00_172a6ebc3b.txt",
+  "source_name": "02_00_172a6ebc3b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:38:17+09:00",
+  "processed_at": "2026-07-08T13:38:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_172a6ebc3b_ebc713b248.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_172a6ebc3b_ebc713b248.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "엑셀 파일 '02 00 우수공.xlsx'은 총 38개의 시트로 구성되어 있습니다.",
+      "각 시트는 다양한 데이터를 포함하며, 가장 많은 행을 가진 시트는 '우집'으로 65,431행입니다.",
+      "시트 'Sheet1'은 0행으로 비어 있으며, 다른 시트들은 각각 고유한 열 수와 행 수를 가지고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "우수공",
+      "엑셀",
+      "데이터 시트"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025205103810693_4624021d93.txt",
+  "source_name": "2025205103810693_4624021d93.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T16:45:01+09:00",
+  "processed_at": "2026-06-23T16:46:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025205103810693_4624021d93_5cbf5291de.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025205103810693_4624021d93_5cbf5291de.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥 산단",
+    "class_name": "국토환경성평가지도",
+    "tags": [
+      "#고흥",
+      "#산단",
+      "#환경성평가"
+    ],
+    "summary": "2025년 3월 13일 환평자료 - 국토환경성평가지도 도면 (1912x904 PNG)",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지 파일은 국토환경성평가지도의 일부로 보입니다.",
+      "파일 크기는 176,555 바이트이며, 해상도는 1912x904 픽셀입니다.",
+      "PNG 형식의 RGBA 모드로 저장되어 있습니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "국토환경성평가지도",
+      "PNG",
+      "RGBA"
+    ]
+  }
+}

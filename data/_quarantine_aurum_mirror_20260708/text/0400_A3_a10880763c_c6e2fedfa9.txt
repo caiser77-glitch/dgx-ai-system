@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 지역개황, A3, OCR 오류
+● 3줄 요약:
+- 문서는 A3 크기 포함 지역 개황에 대한 정보를 제공합니다.
+- PDF 파일 크기는 7,616,218 바이트입니다.
+- OCR 처리 중 문자 인코딩 오류가 발생하여 내용 추출이 지원되지 않습니다.
+=========================================
+source_name: (본안)+0400+지역개황(A3포함).pdf
+source_type: pdf
+size_bytes: 7616218
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

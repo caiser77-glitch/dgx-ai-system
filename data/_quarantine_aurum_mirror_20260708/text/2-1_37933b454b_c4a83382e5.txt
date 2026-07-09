@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 육계 종계장, 동식물상, 제주
+● 3줄 요약:
+- 제주시 해안동 산2-1번지 육계 종계장 시설사업 관련 동식물상 조사 보고서
+- 해당 사업 부지 내의 생태적 가치 및 동식물 분포 현황을 기록함
+- 조사 결과 데이터는 엑셀 파일 형태로 별도 관리됨
+=========================================
+source_name: 제주시 해안동 산2-1번지 육계 종계장 시설사업 동식물상.pdf
+source_type: pdf
+size_bytes: 20626783
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제주시 해안동 산2-1번지 육계 종계장 시설사업 동식물상_pages_1_taxa.xlsx' (found at least ' ')

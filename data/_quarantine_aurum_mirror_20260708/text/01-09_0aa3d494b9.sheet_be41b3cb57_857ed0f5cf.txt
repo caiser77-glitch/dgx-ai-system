@@ -1,0 +1,4 @@
+source_name: 01-09_0aa3d494b9.sheet_be41b3cb57.csv
+source_type: csv
+row_count: 25
+columns: 비옥토 수량 산출 근거, , , , 

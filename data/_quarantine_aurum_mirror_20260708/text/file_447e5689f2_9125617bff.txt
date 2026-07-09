@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: PDF, OCR 오류, 인코딩 문제
+● 3줄 요약:
+- 문서 '하천위성.pdf'는 PDF 형식의 파일로 크기는 약 18MB입니다.
+- 내용 추출이 지원되지 않는 파일 유형으로 인해 OCR 오류가 발생했습니다.
+- 'ascii' 코덱 문제로 인한 문자 인코딩 오류가 확인되었습니다.
+=========================================
+source_name: 하천위성.pdf
+source_type: pdf
+size_bytes: 18167402
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-16: ordinal not in range(128)

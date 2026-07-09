@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0019_3469bd85f4.txt",
+  "source_name": "IMG_0019_3469bd85f4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T11:09:24+09:00",
+  "processed_at": "2026-06-25T11:11:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0019_3469bd85f4_573bb8778c.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0019_3469bd85f4_573bb8778c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2026년 2월 23일 평택통복에서 촬영된 사진\nCanon PowerShot SX70 HS 카메라로 촬영\n사진 크기: 5184x3888, RGB 모드, MPO 포맷",
+    "tags": [
+      "#평택통복",
+      "#Canon PowerShot SX70 HS",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 23일 평택통복에서 촬영된 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영",
+      "사진 크기: 5184x3888, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "평택통복",
+      "Canon PowerShot SX70 HS",
+      "사진"
+    ]
+  }
+}

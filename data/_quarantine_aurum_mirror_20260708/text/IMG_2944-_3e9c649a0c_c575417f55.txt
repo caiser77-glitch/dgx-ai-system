@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지, 물까치, 서버오류
+● 3줄 요약:
+- 이미지 파일 'IMG_2944-물까치.jpg'는 크기가 510,412바이트이며, 해상도는 1320x990 픽셀입니다.
+- 이미지는 RGB 모드로, JPEG 형식으로 저장되어 있습니다.
+- OCR 처리 시 서버 오류(500 Internal Server Error)가 발생하여 텍스트 인식이 불가능했습니다.
+=========================================
+source_name: IMG_2944-물까치.jpg
+source_type: jpg
+size_bytes: 510412
+width: 1320
+height: 990
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

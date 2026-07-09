@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.04.04-05_-2_81c79e6e79.txt",
+  "source_name": "2024.04.04-05_-2_81c79e6e79.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T00:02:29+09:00",
+  "processed_at": "2026-06-23T00:03:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024.04.04-05_-2_81c79e6e79_c7a4fb73e4.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024.04.04-05_-2_81c79e6e79_c7a4fb73e4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "식물상",
+    "tags": [
+      "#식물상",
+      "#홍익기술",
+      "#2026"
+    ],
+    "summary": "2024년 4월 4일-5일 촬영된 진천 초평 산업단지 식물상 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 4월 4일부터 5일까지 촬영된 진천 초평 지역 식물상 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "파일 크기는 716,869 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천 초평",
+      "식물상",
+      "현장조사"
+    ]
+  }
+}

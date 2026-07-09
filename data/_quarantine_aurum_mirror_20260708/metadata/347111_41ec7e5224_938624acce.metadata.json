@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/347111_41ec7e5224.txt",
+  "source_name": "347111_41ec7e5224.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:21:16+09:00",
+  "processed_at": "2026-07-08T13:21:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/347111_41ec7e5224_938624acce.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/347111_41ec7e5224_938624acce.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "다도해상국립공원의 식생보전등급 분포를 나타낸 1:25,000 생태·자연도",
+      "2022년 제작되었으며 2024년 5월 고시 예정인 문서임",
+      "환경부의 제4차 및 제5차 전국자연환경조사 결과를 반영함"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "다도해상국립공원",
+      "생태·자연도",
+      "식생보전등급"
+    ]
+  }
+}

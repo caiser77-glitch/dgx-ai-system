@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_6335da239c.txt",
+  "source_name": "file_6335da239c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:37:24+09:00",
+  "processed_at": "2026-07-08T13:37:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_6335da239c_1b0ee878e1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_6335da239c_1b0ee878e1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "본 문서는 아산 방축 전략에 관한 전략환경영향평가 평가준비서입니다.",
+      "파일 형식은 PDF이며 데이터 크기는 약 78.9MB입니다.",
+      "OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전략환경영향평가",
+      "아산 방축",
+      "평가준비서"
+    ]
+  }
+}

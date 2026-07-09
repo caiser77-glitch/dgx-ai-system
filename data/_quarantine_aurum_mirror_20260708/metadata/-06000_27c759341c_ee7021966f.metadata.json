@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-06000_27c759341c.txt",
+  "source_name": "-06000_27c759341c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:10:45+09:00",
+  "processed_at": "2026-07-08T13:10:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-06000_27c759341c_ee7021966f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-06000_27c759341c_ee7021966f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "우주센터-06000 관련 주민 의견 수렴 문서",
+      "PDF 파일 크기: 13,938,657 바이트",
+      "OCR 처리 오류: URL에 제어 문자 포함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "우주센터",
+      "주민 의견",
+      "PDF"
+    ]
+  }
+}

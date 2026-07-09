@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 파일, 메타데이터, OCR 오류
+● 3줄 요약:
+- 제공된 문서 데이터에 대한 분석 결과입니다.
+- 이미지 파일 정보(R0059651.JPG) 및 메타데이터가 포함되어 있습니다.
+- OCR 처리 과정에서 서버 내부 오류(HTTP Error 500)가 발생하였습니다.
+=========================================
+source_name: R0059651.JPG
+source_type: jpg
+size_bytes: 2095976
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: OCR 오류, 이미지 파일, JPEG
+● 3줄 요약:
+- OCR 처리 중 서버 오류로 인해 텍스트 추출 실패
+- 이미지 파일 크기: 580,224 바이트, 해상도: 2480x3507 픽셀
+- 파일 형식: JPEG, 모노크롬 모드(L)
+=========================================
+source_name: 2026.02.05 생태계교란 생물.jpg
+source_type: jpg
+size_bytes: 580224
+width: 2480
+height: 3507
+mode: L
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

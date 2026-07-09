@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/S36C-1i26031116150_8af8807076_ocr.xlsx",
+  "source_name": "S36C-1i26031116150_8af8807076_ocr.xlsx",
+  "source_type": "xlsx",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:54:58+09:00",
+  "processed_at": "2026-07-08T11:55:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/S36C-1i26031116150_8af8807076_ocr_2360934b85.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/S36C-1i26031116150_8af8807076_ocr_2360934b85.Sheet1.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/S36C-1i26031116150_8af8807076_ocr_2360934b85.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "XLSX",
+    "class_name": "XLSX",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#XLSX"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 문서 데이터가 존재하지 않습니다.",
+      "파일 이름과 구조 정보만 포함되어 있습니다.",
+      "분석할 실제 내용이 없어 요약이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "데이터 부재",
+      "파일명 정보",
+      "엑셀 파일"
+    ]
+  }
+}

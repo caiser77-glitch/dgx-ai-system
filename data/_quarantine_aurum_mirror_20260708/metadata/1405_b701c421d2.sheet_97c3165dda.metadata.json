@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/1405_b701c421d2.sheet.csv",
+  "source_name": "1405_b701c421d2.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:12:10+09:00",
+  "processed_at": "2026-07-08T12:12:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1405_b701c421d2.sheet_97c3165dda.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/1405_b701c421d2.sheet_97c3165dda.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1405_b701c421d2.sheet_97c3165dda.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 1405_b701c421d2.sheet.csv 파일의 메타데이터 정보를 포함하고 있습니다.",
+      "CSV 형식의 데이터로 총 22개의 행(row)으로 구성되어 있습니다.",
+      "번호, 구분, 달력일수 및 소계 등의 열(column) 구조를 가지고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 파일",
+      "데이터 구조",
+      "메타데이터"
+    ]
+  }
+}

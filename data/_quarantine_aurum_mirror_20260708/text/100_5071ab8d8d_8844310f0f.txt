@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 콘텐츠 추출, OCR 오류
+● 3줄 요약:
+- 문서 '100_사업개요.pdf'는 PDF 형식이나 콘텐츠 추출이 지원되지 않는 파일 유형입니다.
+- OCR 처리 중 'ascii' 코덱 인코딩 오류가 발생하여 텍스트 추출에 실패했습니다.
+- 정확한 내용 확인을 위해 다른 도구나 메서드를 통한 접근이 필요합니다.
+=========================================
+source_name: 100_사업개요.pdf
+source_type: pdf
+size_bytes: 3242884
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 17-20: ordinal not in range(128)

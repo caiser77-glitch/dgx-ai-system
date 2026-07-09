@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_f11884edab.txt",
+  "source_name": "file_f11884edab.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:26+09:00",
+  "processed_at": "2026-07-08T13:49:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_f11884edab_5227b911c0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_f11884edab_5227b911c0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 파일은 '위치도.png'라는 명칭의 이미지 파일입니다.",
+      "고흥 산단 관련 착수보고회 도면 자료 중 하나로 확인됩니다.",
+      "이미지 규격은 8131x7114 해상도의 고해상도 PNG 형식입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "위치도",
+      "고흥 산단",
+      "도면"
+    ]
+  }
+}

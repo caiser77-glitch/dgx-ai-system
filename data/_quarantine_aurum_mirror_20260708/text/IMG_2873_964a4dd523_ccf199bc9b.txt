@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 사진, 석과 식물, GPS 좌표
+● 3줄 요약:
+- 2026년 2월 26일에 촬영된 석과 식물 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표는 37.355442, 127.089088
+- 사진 크기는 5184x3888 픽셀, 파일 크기는 10,561,900 바이트
+=========================================
+source_name: IMG_2873.JPG
+source_type: jpg
+size_bytes: 10561900
+path: /mnt/dgxbackup/2026 KCI/성남낙생/02.사진/02.26/석과 식물/IMG_2873.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:26 11:40:08
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.355442
+gps_lon: 127.089088

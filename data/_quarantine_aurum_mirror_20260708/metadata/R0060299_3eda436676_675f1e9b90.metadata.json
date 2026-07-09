@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060299_3eda436676.txt",
+  "source_name": "R0060299_3eda436676.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T10:22:48+09:00",
+  "processed_at": "2026-07-08T10:22:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060299_3eda436676_675f1e9b90.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060299_3eda436676_675f1e9b90.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 데이터입니다.",
+      "촬영 일시는 2026년 2월 20일 오후 3시 22분이며, GPS 좌표를 포함하고 있습니다.",
+      "영동-보은 지역의 현장 조사 과정에서 생성된 사진 자료로 판단됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "RICOH WG-6",
+      "현장사진",
+      "GPS좌표"
+    ]
+  }
+}

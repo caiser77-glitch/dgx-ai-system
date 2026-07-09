@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_309ab560ab.txt",
+  "source_name": "1_309ab560ab.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:48:10+09:00",
+  "processed_at": "2026-07-08T11:48:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_309ab560ab_c4933a2af7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_309ab560ab_c4933a2af7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '식물상 목록표 (1)_수정.hwp'는 한글 파일로, 크기가 39,424바이트입니다.",
+      "내용 추출이 지원되지 않는 파일 유형입니다.",
+      "파일의 실제 내용에 대한 정보는 제공되지 않았습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "hwp",
+      "한글파일",
+      "지원되지 않음"
+    ]
+  }
+}

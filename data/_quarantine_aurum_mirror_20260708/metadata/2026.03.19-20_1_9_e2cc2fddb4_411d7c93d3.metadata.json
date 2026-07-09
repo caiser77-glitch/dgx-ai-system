@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.19-20_1_9_e2cc2fddb4.txt",
+  "source_name": "2026.03.19-20_1_9_e2cc2fddb4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:20:51+09:00",
+  "processed_at": "2026-06-23T19:21:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.19-20_1_9_e2cc2fddb4_411d7c93d3.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.19-20_1_9_e2cc2fddb4_411d7c93d3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 광주도시철도",
+    "project_name": "광주도시철도 1분기 조사",
+    "class_name": "교란생물",
+    "tags": [
+      "#광주도시철도",
+      "#1분기",
+      "#교란생물"
+    ],
+    "summary": "광주도시철도 1분기 조사에서 촬영된 교란생물 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "광주도시철도 1분기 교란생물에 대한 사진 문서입니다.",
+      "사진의 크기는 2480x3507 픽셀이며, 단색 모드(L)로 저장되어 있습니다.",
+      "파일 크기는 476,529 바이트이며, JPEG 형식으로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "광주도시철도",
+      "교란생물",
+      "야장"
+    ]
+  }
+}

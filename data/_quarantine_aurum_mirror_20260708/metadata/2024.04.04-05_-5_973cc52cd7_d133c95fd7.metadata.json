@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.04.04-05_-5_973cc52cd7.txt",
+  "source_name": "2024.04.04-05_-5_973cc52cd7.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:31:03+09:00",
+  "processed_at": "2026-06-29T17:32:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2024.04.04-05_-5_973cc52cd7_d133c95fd7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2024.04.04-05_-5_973cc52cd7_d133c95fd7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 4월 4-5일 진천 초평 지역 식생 조사 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "파일 크기 606,233 바이트, 경로는 /mnt/dgxbackup/2026 홍익기술/진천초평산업단지/05. 야장 및 영수증/야장/2차/"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천 초평",
+      "식생 조사",
+      "야장"
+    ]
+  }
+}

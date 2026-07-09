@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-01_4d31eb997e.11_586cb5cbbf.txt",
+  "source_name": "01-01_4d31eb997e.11_586cb5cbbf.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:37:23+09:00",
+  "processed_at": "2026-07-08T11:37:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-01_4d31eb997e.11_586cb5cbbf_8503d8db5f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-01_4d31eb997e.11_586cb5cbbf_8503d8db5f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일로 제공된 데이터는 총 16개의 행을 포함하고 있습니다.",
+      "파일 내에 열 이름이 지정되지 않아 구체적인 데이터 내용을 알 수 없습니다.",
+      "정확한 분석을 위해서는 열 이름과 데이터 타입에 대한 추가 정보가 필요합니다."
+    ],
+    "category": "데이터셋",
+    "keywords": [
+      "CSV",
+      "데이터셋",
+      "행"
+    ]
+  }
+}

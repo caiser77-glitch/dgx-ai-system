@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-___3__3_-1_O_5a412f097a.txt",
+  "source_name": "-___3__3_-1_O_5a412f097a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:21+09:00",
+  "processed_at": "2026-07-08T11:50:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-___3__3_-1_O_5a412f097a_48e0d86b46.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-___3__3_-1_O_5a412f097a_48e0d86b46.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "익산 국대도 서수-평장 구간의 환경질에 대한 3차년도 조사 보고서입니다.",
+      "해당 문서는 .hwp 파일 형식으로 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "파일 크기는 약 189MB이며 환경질 조사 내용을 포함하고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "익산 국대도",
+      "환경질 조사",
+      "3차년도"
+    ]
+  }
+}

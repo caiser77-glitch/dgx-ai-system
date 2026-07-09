@@ -1,0 +1,11 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 1. 최종 견적서 250929 충청내륙 사후 (전체분)(추가분월조사제외)(디에스) (1).pdf
+source_type: pdf
+size_bytes: 2113534
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 15-22: ordinal not in range(128)

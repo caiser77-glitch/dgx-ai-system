@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_617c021922.txt",
+  "source_name": "file_617c021922.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:20+09:00",
+  "processed_at": "2026-07-08T13:52:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_617c021922_41a849dda8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_617c021922_41a849dda8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "평택호 프로젝트 관련 조사 지점 및 침사지 위치를 나타내는 이미지 파일입니다.",
+      "조사 지점도와 침사지 위치 표시가 포함된 시각 자료입니다.",
+      "2026년 4월 29일자 침사지 위치도 데이터로 확인됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "조사지점도",
+      "침사지 위치",
+      "평택호"
+    ]
+  }
+}

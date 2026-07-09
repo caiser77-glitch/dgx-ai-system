@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_2676_4ef7d2b4c4.txt",
+  "source_name": "IMG_2676_4ef7d2b4c4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T23:42:03+09:00",
+  "processed_at": "2026-07-06T23:42:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_2676_4ef7d2b4c4_800d2f1784.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_2676_4ef7d2b4c4_800d2f1784.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "개솔새 사진 파일에 대한 메타데이터 정보 제공",
+      "OCR 처리 시 서버 에러 발생",
+      "이미지 크기: 5184x3888, RGB 모드, MPO 형식"
+    ],
+    "category": "장비",
+    "keywords": [
+      "개솔새",
+      "사진",
+      "메타데이터"
+    ]
+  }
+}

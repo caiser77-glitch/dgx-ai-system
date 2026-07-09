@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_8310_8f5c69f36f.txt",
+  "source_name": "IMG_8310_8f5c69f36f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:38:04+09:00",
+  "processed_at": "2026-07-01T11:38:04+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_8310_8f5c69f36f.txt",
+    "return_code": 1
+  }
+}

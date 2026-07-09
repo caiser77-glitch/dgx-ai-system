@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.01.23_f15e3f3f0e.txt",
+  "source_name": "2026.01.23_f15e3f3f0e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T16:52:49+09:00",
+  "processed_at": "2026-06-23T16:54:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.01.23_f15e3f3f0e_4ab9587177.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.01.23_f15e3f3f0e_4ab9587177.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "야생멧돼지",
+    "tags": [
+      "#인천",
+      "#야생멧돼지",
+      "#영수증"
+    ],
+    "summary": "2026년 1월 23일 계양 오금리에서 촬영한 야생멧돼지 관련 영수증 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 1월 23일 계양 오금리 프로젝트 종료 관련 영수증 이미지",
+      "CamScanner를 사용하여 촬영한 RGB 모드의 JPEG 형식 이미지",
+      "이미지 크기는 639x1407 픽셀, 파일 크기는 180,189 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "프로젝트 종료",
+      "CamScanner"
+    ]
+  }
+}

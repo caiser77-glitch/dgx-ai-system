@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_2713-_57e667e3e3.txt",
+  "source_name": "IMG_2713-_57e667e3e3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T23:54:31+09:00",
+  "processed_at": "2026-07-06T23:54:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_2713-_57e667e3e3_5dd726464c.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_2713-_57e667e3e3_5dd726464c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지는 쇠오리를 촬영한 사진입니다.",
+      "사진의 크기는 1041x781 픽셀이며, RGB 모드로 저장되었습니다.",
+      "OCR 처리 시 서버 오류가 발생하여 텍스트 인식이 불가능합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "쇠오리",
+      "사진",
+      "OCR 오류"
+    ]
+  }
+}

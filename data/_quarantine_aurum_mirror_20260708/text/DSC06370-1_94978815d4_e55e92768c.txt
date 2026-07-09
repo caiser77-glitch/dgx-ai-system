@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 쇠살모사, SONY ILCE-7RM4, 2025-09-02
+● 3줄 요약:
+- 2025년 9월 2일에 촬영된 쇠살모사 사진
+- SONY ILCE-7RM4 카메라로 촬영
+- 해상도 1600x1066, RGB 모드, JPEG 형식
+=========================================
+source_name: 쇠살모사 DSC06370-1.jpg
+source_type: jpg
+size_bytes: 1326525
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.09.01~09.04/쇠살모사 DSC06370-1.jpg
+width: 1600
+height: 1066
+mode: RGB
+format: JPEG
+datetime_taken: 2025:09:02 11:30:32
+camera_make: SONY
+camera_model: ILCE-7RM4

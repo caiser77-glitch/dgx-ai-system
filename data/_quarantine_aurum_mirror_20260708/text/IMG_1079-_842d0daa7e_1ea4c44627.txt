@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 왜가리, Canon PowerShot SX70 HS, GPS 좌표
+● 3줄 요약:
+- 2026년 3월 18일 오전 10시 25분에 촬영된 왜가리 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표는 36.439552, 126.526923
+- 이미지 크기는 5184x3888 픽셀, RGB 모드, MPO 포맷
+=========================================
+source_name: IMG_1079-왜가리.JPG
+source_type: jpg
+size_bytes: 6427384
+path: /mnt/dgxbackup/2026 아라기술/오천항 정비공사 사후/02. 사진/03.17/권이/IMG_1079-왜가리.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:18 10:25:40
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.439552
+gps_lon: 126.526923

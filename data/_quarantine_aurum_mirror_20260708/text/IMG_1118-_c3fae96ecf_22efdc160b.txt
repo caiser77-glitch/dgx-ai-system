@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 황조롱이, 사진, 서버오류
+● 3줄 요약:
+- 이미지 파일 'IMG_1118-황조롱이.jpg'는 황조롱이를 촬영한 사진으로 보입니다.
+- 파일 크기는 506,943 바이트이며, 해상도는 1653x1240 픽셀입니다.
+- OCR 처리 시 서버 오류가 발생하여 텍스트 인식이 불가능합니다.
+=========================================
+source_name: IMG_1118-황조롱이.jpg
+source_type: jpg
+size_bytes: 506943
+width: 1653
+height: 1240
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,24 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 포조목록, 1차조사, 엑셀파일
+● 3줄 요약:
+- 진천 초평산단 포조목록 1차조사 엑셀 파일 분석 결과
+- 다양한 시트로 구성되어 있으며 각 시트별 행과 열의 크기가 상이함
+- 특히 '마' 시트와 'Pi' 시트를 포함하여 다수의 데이터 시트가 존재함
+=========================================
+source_name: 진천 초평산단 포조목록 1차조사.xlsx
+source_type: xlsx
+sheet: 설명서, rows: 42, columns: 2
+sheet: 보고서, rows: 479, columns: 21
+sheet: 포, rows: 153, columns: 73
+sheet: 조, rows: 769, columns: 108
+sheet: 양, rows: 121, columns: 72
+sheet: 어, rows: 571, columns: 103
+sheet: 저, rows: 2049, columns: 109
+sheet: MEMO, rows: 0, columns: 1
+sheet: 가, rows: 206, columns: 68
+sheet: 나, rows: 1309, columns: 128
+sheet: 다, rows: 158, columns: 63
+sheet: 라, rows: 933, columns: 127
+sheet: 마, rows: 3626, columns: 165
+sheet: Pi, rows: 1491, columns: 14

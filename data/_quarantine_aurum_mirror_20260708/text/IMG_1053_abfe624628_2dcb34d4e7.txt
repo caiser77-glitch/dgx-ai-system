@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, GPS 좌표, MPO 포맷
+● 3줄 요약:
+- 2026년 3월 13일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- 사진 크기는 5184x3888 픽셀, RGB 모드, MPO 포맷
+- GPS 좌표는 위도 37.570137, 경도 126.757103
+=========================================
+source_name: IMG_1053.JPG
+source_type: jpg
+size_bytes: 7964519
+path: /mnt/dgxbackup/2026 이산/계양 테크노밸리 사후/02. 사진/01. 사진/03.12-13 1분기/권이/IMG_1053.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:13 10:01:16
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.570137
+gps_lon: 126.757103

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_40259ce08d.txt",
+  "source_name": "file_40259ce08d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:25+09:00",
+  "processed_at": "2026-07-08T13:51:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_40259ce08d_cd1a825a71.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_40259ce08d_cd1a825a71.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "성남 낙생 송전선로 소규모 사업 관련 측정 지점 도면 파일입니다.",
+      "이미지 형식의 데이터로 측정 위치 및 범위를 나타내는 용도입니다.",
+      "2026년 3월 11일자 도면 바운더리 보고서 양식에 포함된 자료입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "측정지점도",
+      "성남낙생 송전선로",
+      "도면"
+    ]
+  }
+}

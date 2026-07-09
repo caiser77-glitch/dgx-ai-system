@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-3_82cb453b65_8dd4958658.txt",
+  "source_name": "-3_82cb453b65_8dd4958658.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:30:37+09:00",
+  "processed_at": "2026-07-08T11:30:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-3_82cb453b65_8dd4958658_bd6ec46ca0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-3_82cb453b65_8dd4958658_bd6ec46ca0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "숨편한 힐링숲 진입도로에 대한 사진 파일입니다.",
+      "파일 크기는 405,411 바이트이며, 해상도는 1440x2035 픽셀입니다.",
+      "RGB 모드의 JPEG 형식으로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "힐링숲",
+      "진입도로",
+      "사진"
+    ]
+  }
+}

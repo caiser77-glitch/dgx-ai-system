@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 표지, 오류
+● 3줄 요약:
+- PDF 파일의 표지 내용 추출 시도 중 오류 발생
+- 파일 경로 내 제어 문자 포함으로 인한 URL 생성 오류
+- 해당 파일의 크기는 3,249,783 바이트임
+=========================================
+source_name: (본안) 0000 표지.pdf
+source_type: pdf
+size_bytes: 3249783
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/(본안) 0000 표지_pages_1_taxa.xlsx' (found at least ' ')

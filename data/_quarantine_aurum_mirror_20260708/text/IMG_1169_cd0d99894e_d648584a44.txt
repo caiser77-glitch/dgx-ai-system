@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 음성천, Canon PowerShot SX70 HS, GPS 좌표
+● 3줄 요약:
+- 2023년 8월 7일에 촬영된 음성천 지역의 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 (36.924935, 127.707902) 기록
+- 이미지 크기 5184x3888, RGB 모드, MPO 포맷
+=========================================
+source_name: IMG_1169.JPG
+source_type: jpg
+size_bytes: 7097711
+path: /mnt/dgxbackup/2026 아라기술/음성천/02.사진/2023.08.07/2023.08.07 음성천 이부/IMG_1169.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2023:08:07 13:39:53
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.924935
+gps_lon: 127.707902

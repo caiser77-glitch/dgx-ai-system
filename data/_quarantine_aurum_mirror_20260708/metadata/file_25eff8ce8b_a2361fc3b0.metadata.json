@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_25eff8ce8b.txt",
+  "source_name": "file_25eff8ce8b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:45:19+09:00",
+  "processed_at": "2026-07-08T11:45:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_25eff8ce8b_a2361fc3b0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_25eff8ce8b_a2361fc3b0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "전주천 서신지구와 상관저수지 개선사업을 위한 소규모 환경 영향 평가 용역 과업지시서입니다.",
+      "해당 문서는 HWP 파일 형식으로 제공되며 데이터 크기는 약 3.16MB입니다.",
+      "현재 파일 형식의 특성상 직접적인 내용 추출 및 상세 분석은 제한적입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "과업지시서",
+      "전주천",
+      "환경영향평가"
+    ]
+  }
+}

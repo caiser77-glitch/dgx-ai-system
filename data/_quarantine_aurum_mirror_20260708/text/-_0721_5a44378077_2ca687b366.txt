@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기상자료
+● 핵심 키워드: 기상, PDF, OCR 오류
+● 3줄 요약:
+- 기상 관련 정보를 담고 있는 PDF 파일입니다.
+- 파일 크기는 약 16.2MB입니다.
+- OCR 처리 중 인코딩 오류로 인해 내용 추출이 불가능합니다.
+=========================================
+source_name: (충주-본안)0721+기상.pdf
+source_type: pdf
+size_bytes: 16221241
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/260210_b15680824b.txt",
+  "source_name": "260210_b15680824b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:59:32+09:00",
+  "processed_at": "2026-07-08T11:59:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/260210_b15680824b_bfb0c8b394.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/260210_b15680824b_bfb0c8b394.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "호미반도 산림복지단지 조성사업의 최종 조경설계도면 파일입니다.",
+      "파일 크기는 약 42MB이며, OCR 처리 과정에서 오류가 발생하였습니다.",
+      "컨트롤 문자 포함 문제로 인해 상세 내용 추출이 불가능한 상태입니다."
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "호미반도",
+      "산림복지단지",
+      "조경설계"
+    ]
+  }
+}

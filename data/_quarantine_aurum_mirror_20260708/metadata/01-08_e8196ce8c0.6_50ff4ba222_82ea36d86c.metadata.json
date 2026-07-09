@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-08_e8196ce8c0.6_50ff4ba222.txt",
+  "source_name": "01-08_e8196ce8c0.6_50ff4ba222.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:36:19+09:00",
+  "processed_at": "2026-07-08T11:36:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0.6_50ff4ba222_82ea36d86c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0.6_50ff4ba222_82ea36d86c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '01-08_e8196ce8c0.6'은 총 38개의 행으로 구성되어 있습니다.",
+      "주요 열 이름은 '호안헐기수량'이며, 나머지 열은 명칭이 지정되지 않았습니다.",
+      "해당 파일은 호안헐기수량에 관한 특정 데이터를 기록하고 있는 데이터 파일입니다."
+    ],
+    "category": "데이터 기록",
+    "keywords": [
+      "CSV",
+      "호안헐기수량",
+      "데이터"
+    ]
+  }
+}

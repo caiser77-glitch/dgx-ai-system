@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4b78204748.txt",
+  "source_name": "file_4b78204748.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:51+09:00",
+  "processed_at": "2026-07-08T13:51:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4b78204748_9a41b2fb02.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4b78204748_9a41b2fb02.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "진천초평산업단지의 공사계획평면도 관련 이미지 파일입니다.",
+      "설계자료 중 구역계 및 도로 변경 사항이 포함된 자료입니다.",
+      "파일 경로는 2026년 3월 6일 요청된 생태계 전달 자료의 일부입니다."
+    ],
+    "category": "설계자료",
+    "keywords": [
+      "진천초평산업단지",
+      "공사계획평면도",
+      "설계변경"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 울산, 자연환경조사, 조류
+● 3줄 요약:
+- 울산 지역의 5차 전국자연환경조사 보고서에 대한 PDF 파일입니다.
+- 파일 크기는 728,719 바이트이며, 조류에 관한 내용을 포함하고 있습니다.
+- OCR 처리 과정에서 URL 제어 문자 포함으로 인한 오류가 발생했습니다.
+=========================================
+source_name: 울산(359063) 5차 전국자연환경조사(2019)-조류.pdf
+source_type: pdf
+size_bytes: 728719
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/울산(359063) 5차 전국자연환경조사(2019)-조류_pages_1_taxa.xlsx' (found at least ' ')

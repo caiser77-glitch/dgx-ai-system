@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 메타데이터, RICOH WG-6, 현장 사진
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 촬영 일시는 2026년 5월 4일 오전 11시 57분이며 파일 크기는 약 3.9MB입니다.
+- 청라 6블록 프로젝트 관련 경로에 저장된 RGB 모드의 MPO 형식 사진입니다.
+=========================================
+source_name: R0060860.JPG
+source_type: jpg
+size_bytes: 3923632
+path: /mnt/dgxbackup/2026 LH/청라 6블록/02. 사진/R0060860.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:04 11:57:02
+camera_make: RICOH
+camera_model: RICOH WG-6

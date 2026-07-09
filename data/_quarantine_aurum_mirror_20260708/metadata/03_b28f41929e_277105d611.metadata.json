@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03_b28f41929e.txt",
+  "source_name": "03_b28f41929e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:43:03+09:00",
+  "processed_at": "2026-06-22T22:44:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/03_b28f41929e_277105d611.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/03_b28f41929e_277105d611.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "고흥 산단",
+    "class_name": "설계분야 대안 검토",
+    "tags": [
+      "#설계분야",
+      "#대안검토",
+      "#상수공급계획"
+    ],
+    "summary": "고흥 산단의 설계분야 대안 검토 자료 중 상수공급계획에 대한 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "상수공급계획 관련 이미지 파일입니다.",
+      "고흥 산단의 설계사 자료 중 하나로, 2025년 3월 13일 환평자료에 포함되어 있습니다.",
+      "CMYK 모드의 JPEG 형식으로, 크기는 1045x951 픽셀입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "상수공급계획",
+      "고흥 산단",
+      "설계사 자료"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_e4773d9b1b.txt",
+  "source_name": "file_e4773d9b1b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:22+09:00",
+  "processed_at": "2026-07-08T13:49:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_e4773d9b1b_9fe3ef5e8a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_e4773d9b1b_9fe3ef5e8a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "오천항 정비공사 사후 조사 과정에서 촬영된 고양이 사진 데이터입니다.",
+      "2026년 3월 19일 파나소닉 DC-TZ99 카메라로 촬영되었습니다.",
+      "GPS 좌표(북위 36.438, 동경 126.517)가 포함된 이미지 파일 정보입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고양이",
+      "오천항 정비공사",
+      "현장사진"
+    ]
+  }
+}

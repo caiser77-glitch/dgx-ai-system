@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/03__2___9_3495f931cd.sheet.csv",
+  "source_name": "03__2___9_3495f931cd.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:01:36+09:00",
+  "processed_at": "2026-07-08T12:01:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_3495f931cd.sheet_39ba53775b.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/03__2___9_3495f931cd.sheet_39ba53775b.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_3495f931cd.sheet_39ba53775b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "본 문서는 운영 시 발생하는 용역비 산출을 위한 세부 내역을 포함하고 있습니다.",
+      "CSV 형식의 데이터로 총 869개의 행으로 구성된 통계적 수치를 담고 있습니다.",
+      "예산 집행 및 비용 산출 근거를 확인하기 위한 기초 자료로 활용됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "용역비",
+      "산출내역",
+      "운영비"
+    ]
+  }
+}

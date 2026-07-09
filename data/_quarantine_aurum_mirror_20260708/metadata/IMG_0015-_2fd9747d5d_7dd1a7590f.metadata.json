@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0015-_2fd9747d5d.txt",
+  "source_name": "IMG_0015-_2fd9747d5d.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T09:34:16+09:00",
+  "processed_at": "2026-06-25T09:36:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0015-_2fd9747d5d_7dd1a7590f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0015-_2fd9747d5d_7dd1a7590f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "큰기러기 사진 파일 정보 제공\n파일 크기: 509,173 바이트, 해상도: 1370x1028 픽셀\nRGB 모드, JPEG 형식",
+    "tags": [
+      "#큰기러기",
+      "#사진",
+      "#해상도"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "큰기러기 사진 파일 정보 제공",
+      "파일 크기: 509,173 바이트, 해상도: 1370x1028 픽셀",
+      "RGB 모드, JPEG 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "큰기러기",
+      "사진",
+      "해상도"
+    ]
+  }
+}

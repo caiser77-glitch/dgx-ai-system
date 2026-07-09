@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03_3046865e85.txt",
+  "source_name": "03_3046865e85.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:11:39+09:00",
+  "processed_at": "2026-07-08T13:11:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03_3046865e85_9ae980119e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03_3046865e85_9ae980119e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경영향평가 대상지역 설정에 관한 내용을 다룹니다.",
+      "특히 국가종합비행성능시험장의 환경 영향 평가를 위한 지역 설정에 초점을 맞추고 있습니다.",
+      "OCR 오류로 인해 일부 내용이 정확히 추출되지 않았습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향평가",
+      "대상지역",
+      "국가종합비행성능시험장"
+    ]
+  }
+}

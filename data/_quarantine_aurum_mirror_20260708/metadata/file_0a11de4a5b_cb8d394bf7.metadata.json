@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_0a11de4a5b.txt",
+  "source_name": "file_0a11de4a5b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:52:27+09:00",
+  "processed_at": "2026-07-08T11:52:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_0a11de4a5b_cb8d394bf7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_0a11de4a5b_cb8d394bf7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 교란식물 관리대장에 대한 정보를 포함하고 있습니다.",
+      "파일 형식은 hwp로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "파일 크기는 2,606,080 바이트입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "교란식물",
+      "관리대장",
+      "hwp"
+    ]
+  }
+}

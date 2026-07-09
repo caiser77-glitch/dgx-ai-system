@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_0400_2591e8f7bd.txt",
+  "source_name": "-_0400_2591e8f7bd.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:14:36+09:00",
+  "processed_at": "2026-07-08T13:14:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_0400_2591e8f7bd_287f215450.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_0400_2591e8f7bd_287f215450.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 충주 지역에 대한 개황 정보를 담고 있습니다.",
+      "PDF 파일 크기는 23,027,578 바이트입니다.",
+      "OCR 처리 중 인코딩 오류가 발생하여 내용 추출이 불가능합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "충주",
+      "지역개황",
+      "PDF"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: RICOH WG-6, 만흥소하천, 유과 포곤
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.
+- 촬영 일시는 2026년 4월 16일 오후 4시 21분입니다.
+- 만흥소하천 유과 포곤 현장의 사진 데이터입니다.
+=========================================
+source_name: R0040095.JPG
+source_type: jpg
+size_bytes: 2199688
+path: /mnt/dgxbackup/2026 신명/만흥소하천/01.사진/04.16-17/유과 포곤/R0040095.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:04:16 16:21:32
+camera_make: RICOH
+camera_model: RICOH WG-6

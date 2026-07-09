@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/AWS_ebaec4a7f6.txt",
+  "source_name": "AWS_ebaec4a7f6.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:52:45+09:00",
+  "processed_at": "2026-06-23T21:53:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/AWS_ebaec4a7f6_9e502c5057.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/AWS_ebaec4a7f6_9e502c5057.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AWS",
+    "project_name": "고흥 산단",
+    "class_name": "도면",
+    "tags": [
+      "#고흥",
+      "#산단",
+      "#도면"
+    ],
+    "summary": "AWS 위치도 도면, 731x828 RGB JPEG, 276KB",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "AWS 위치도는 고흥 산단의 환경 평가 자료에 포함된 도면입니다.",
+      "이 도면은 2025년 3월 13일 착수 보고회에서 사용되었습니다.",
+      "JPEG 형식의 이미지로, 크기는 731x828 픽셀입니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "AWS 위치도",
+      "고흥 산단",
+      "환경 평가"
+    ]
+  }
+}

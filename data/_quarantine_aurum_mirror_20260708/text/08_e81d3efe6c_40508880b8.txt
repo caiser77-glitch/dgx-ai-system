@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 환경영향, 저감방안, 국가종합비행성능시험장
+● 3줄 요약:
+- 문서는 환경 영향 저감 방안에 대한 사후 환경 평가를 다룹니다.
+- 국가종합비행성능시험장의 환경 영향을 분석합니다.
+- OCR 오류로 인해 일부 내용이 제대로 추출되지 않았습니다.
+=========================================
+source_name: (본안)+08+환경영향에미치는영향의저감방안사후환경(국가종합비행성능시험장).pdf
+source_type: pdf
+size_bytes: 448790
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

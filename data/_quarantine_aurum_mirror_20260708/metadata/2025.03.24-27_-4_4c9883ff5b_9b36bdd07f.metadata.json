@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.03.24-27_-4_4c9883ff5b.txt",
+  "source_name": "2025.03.24-27_-4_4c9883ff5b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T01:04:43+09:00",
+  "processed_at": "2026-06-23T01:06:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.03.24-27_-4_4c9883ff5b_9b36bdd07f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.03.24-27_-4_4c9883ff5b_9b36bdd07f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "고흥 산단의 식생 사진\n2025년 3월 24일부터 27일까지 촬영\nJPEG 형식, 2480x3507 픽셀 크기",
+    "tags": [
+      "#고흥산단",
+      "#식생",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단의 식생 사진",
+      "2025년 3월 24일부터 27일까지 촬영",
+      "JPEG 형식, 2480x3507 픽셀 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥산단",
+      "식생",
+      "사진"
+    ]
+  }
+}

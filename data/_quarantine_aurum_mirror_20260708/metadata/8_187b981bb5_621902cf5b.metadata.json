@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/8_187b981bb5.txt",
+  "source_name": "8_187b981bb5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:12:27+09:00",
+  "processed_at": "2026-07-08T12:12:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/8_187b981bb5_621902cf5b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/8_187b981bb5_621902cf5b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '8. 심의 의견서.pdf'는 PDF 형식으로 제공됩니다.",
+      "파일 크기는 384,828 바이트입니다.",
+      "OCR 처리에 실패하였으며, 파일 경로에 제어 문자가 포함되어 오류가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "심의 의견서",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

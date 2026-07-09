@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/04_34e150f2bb.txt",
+  "source_name": "04_34e150f2bb.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:42:51+09:00",
+  "processed_at": "2026-07-08T11:42:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_34e150f2bb_fd87175668.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_34e150f2bb_fd87175668.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 포장공 업무와 관련된 다양한 시트를 포함하고 있습니다.",
+      "시트들은 주로 수량, 포집, 포자, 아집, 아단, 보집 등의 정보를 담고 있으며, 일부 시트는 매우 큰 데이터셋을 포함합니다.",
+      "각 시트는 특정 작업 또는 재료에 대한 상세한 정보를 제공하며, 이는 포장공 업무의 전반적인 이해에 도움이 됩니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "포장공",
+      "시트",
+      "데이터셋"
+    ]
+  }
+}

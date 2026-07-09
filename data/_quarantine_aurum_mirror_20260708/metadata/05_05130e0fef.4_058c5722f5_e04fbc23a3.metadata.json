@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/05_05130e0fef.4_058c5722f5.txt",
+  "source_name": "05_05130e0fef.4_058c5722f5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:34:10+09:00",
+  "processed_at": "2026-07-08T11:34:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05_05130e0fef.4_058c5722f5_e04fbc23a3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05_05130e0fef.4_058c5722f5_e04fbc23a3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일로 제공된 데이터는 52개의 행을 포함하고 있습니다.",
+      "데이터의 열은 '구조물공'을 포함하며, 대부분의 열 이름이 누락되었습니다.",
+      "파일은 건설 또는 공학 관련 정보를 담고 있을 가능성이 높습니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "CSV",
+      "구조물공",
+      "데이터"
+    ]
+  }
+}

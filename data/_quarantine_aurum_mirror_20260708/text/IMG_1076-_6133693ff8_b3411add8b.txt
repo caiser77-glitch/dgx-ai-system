@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 흰뺨검둥오리, Canon PowerShot SX70 HS, 오천항 정비공사 사후 조사
+● 3줄 요약:
+- 2026년 3월 18일 오전 9시 50분에 촬영된 흰뺨검둥오리 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, 해상도 5184x3888, RGB 모드
+- 파일 크기 6,509,485 바이트, MPO 형식
+=========================================
+source_name: IMG_1076-흰뺨검둥오리.JPG
+source_type: jpg
+size_bytes: 6509485
+path: /mnt/dgxbackup/2026 아라기술/오천항 정비공사 사후/02. 사진/03.17/권이/IMG_1076-흰뺨검둥오리.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:18 09:50:04
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

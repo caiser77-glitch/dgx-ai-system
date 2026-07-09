@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/06_806412c6aa.Sheet1_33b0be4a42.txt",
+  "source_name": "06_806412c6aa.Sheet1_33b0be4a42.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:37:44+09:00",
+  "processed_at": "2026-07-08T11:37:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/06_806412c6aa.Sheet1_33b0be4a42_49389e289e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/06_806412c6aa.Sheet1_33b0be4a42_49389e289e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 데이터가 포함되지 않은 빈 CSV 파일입니다.",
+      "컬럼 정보만 존재하여 구체적인 내용 분석이 불가능합니다.",
+      "파일의 용도 및 컬럼에 대한 추가 설명이 필요합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV",
+      "빈 파일",
+      "컬럼 정보"
+    ]
+  }
+}

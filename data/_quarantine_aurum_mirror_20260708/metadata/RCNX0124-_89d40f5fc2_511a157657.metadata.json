@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/RCNX0124-_89d40f5fc2.txt",
+  "source_name": "RCNX0124-_89d40f5fc2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:49:19+09:00",
+  "processed_at": "2026-07-01T11:49:19+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/RCNX0124-_89d40f5fc2.txt",
+    "return_code": 1
+  }
+}

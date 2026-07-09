@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_-_1_bae5c78ce4.txt",
+  "source_name": "-_-_1_bae5c78ce4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:38:55+09:00",
+  "processed_at": "2026-07-08T13:39:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_-_1_bae5c78ce4_e7c41baab7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_-_1_bae5c78ce4_e7c41baab7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 부장리고분군 프로젝트 관련 견적서 파일입니다.",
+      "'직접 삽입' 시트에 주요 데이터가 포함되어 있습니다.",
+      "파일 내 '연습' 및 'Sheet1' 시트의 구성 정보를 포함합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "서산",
+      "부장리고분군",
+      "견적서"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11_b08b117df4.txt",
+  "source_name": "11_b08b117df4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:23+09:00",
+  "processed_at": "2026-07-08T12:14:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11_b08b117df4_2eaad746a7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11_b08b117df4_2eaad746a7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "기후변화 영향 평가를 위한 준비서 문서입니다.",
+      "파일 크기는 약 1.67MB로 확인됩니다.",
+      "현재 파일 유형의 특성상 직접적인 내용 추출은 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "기후변화",
+      "영향평가",
+      "hwp"
+    ]
+  }
+}

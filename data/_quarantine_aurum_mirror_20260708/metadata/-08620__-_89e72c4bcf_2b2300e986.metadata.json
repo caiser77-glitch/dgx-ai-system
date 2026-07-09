@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-08620__-_89e72c4bcf.txt",
+  "source_name": "-08620__-_89e72c4bcf.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:17+09:00",
+  "processed_at": "2026-07-08T12:10:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-08620__-_89e72c4bcf_2b2300e986.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-08620__-_89e72c4bcf_2b2300e986.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '고흥-08620_산업'에 대한 초안으로, 편집이 완료된 상태입니다.",
+      "파일 크기는 15,204,352 바이트이며, 내용 추출이 지원되지 않는 파일 유형입니다.",
+      "문서의 자세한 내용과 정보는 직접 열람해야 확인 가능합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥",
+      "산업",
+      "초안"
+    ]
+  }
+}

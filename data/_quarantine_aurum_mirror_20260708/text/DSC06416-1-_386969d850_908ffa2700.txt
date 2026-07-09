@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 곤충, 끝검은말매미충, 사진
+● 3줄 요약:
+- 2025년 9월 3일에 촬영된 곤충 사진
+- SONY ILCE-7RM4 카메라로 촬영
+- 사진 크기: 1600x1066, RGB 모드, JPEG 형식
+=========================================
+source_name: 곤충 DSC06416-1-끝검은말매미충.jpg
+source_type: jpg
+size_bytes: 1146134
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.09.01~09.04/곤충 DSC06416-1-끝검은말매미충.jpg
+width: 1600
+height: 1066
+mode: RGB
+format: JPEG
+datetime_taken: 2025:09:03 09:36:11
+camera_make: SONY
+camera_model: ILCE-7RM4

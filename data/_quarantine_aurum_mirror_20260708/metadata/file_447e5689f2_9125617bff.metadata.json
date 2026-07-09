@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_447e5689f2.txt",
+  "source_name": "file_447e5689f2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:11:47+09:00",
+  "processed_at": "2026-07-08T12:11:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_447e5689f2_9125617bff.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_447e5689f2_9125617bff.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '하천위성.pdf'는 PDF 형식의 파일로 크기는 약 18MB입니다.",
+      "내용 추출이 지원되지 않는 파일 유형으로 인해 OCR 오류가 발생했습니다.",
+      "'ascii' 코덱 문제로 인한 문자 인코딩 오류가 확인되었습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "PDF",
+      "OCR 오류",
+      "인코딩 문제"
+    ]
+  }
+}

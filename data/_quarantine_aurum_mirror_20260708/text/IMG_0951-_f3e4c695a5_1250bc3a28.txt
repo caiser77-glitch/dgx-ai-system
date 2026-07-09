@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 메타데이터, JPEG, 사진
+● 3줄 요약:
+- 사진 파일 'IMG_0951-물닭.jpg'에 대한 메타데이터 정보 제공
+- 파일 크기: 508,685 바이트, 해상도: 934x701, 모드: RGB, 형식: JPEG
+- 경로: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/변환/
+=========================================
+source_name: IMG_0951-물닭.jpg
+source_type: jpg
+size_bytes: 508685
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/변환/IMG_0951-물닭.jpg
+width: 934
+height: 701
+mode: RGB
+format: JPEG

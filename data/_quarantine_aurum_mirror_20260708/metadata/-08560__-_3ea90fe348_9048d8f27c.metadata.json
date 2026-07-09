@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-08560__-_3ea90fe348.txt",
+  "source_name": "-08560__-_3ea90fe348.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:30+09:00",
+  "processed_at": "2026-07-08T12:10:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-08560__-_3ea90fe348_9048d8f27c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-08560__-_3ea90fe348_9048d8f27c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역의 일조장해에 관한 조사 초안 문서입니다.",
+      "현재 편집이 완료된 상태로 관리되고 있습니다.",
+      "상세 분석을 위해서는 파일 직접 열람이 필요합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "일조장해",
+      "고흥",
+      "편집완료"
+    ]
+  }
+}

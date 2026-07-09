@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2._16507334__3_c308037912.txt",
+  "source_name": "2._16507334__3_c308037912.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:48:16+09:00",
+  "processed_at": "2026-06-22T23:49:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2._16507334__3_c308037912_c598905f7a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2._16507334__3_c308037912_c598905f7a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아산방축",
+    "project_name": "생태자연도 지정사유",
+    "class_name": "정보공개 청구 관련 서류",
+    "tags": [
+      "#정보공개",
+      "#청구회신",
+      "#생태자연도"
+    ],
+    "summary": "정보공개 청구에 대한 회신 문서. 크기: 451860 bytes, 형식: JPEG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "정보공개 청구에 대한 회신 문서입니다.",
+      "문서는 JPEG 형식의 이미지로 제공됩니다.",
+      "문서 크기는 451,860 바이트이며, 해상도는 1785x2523 픽셀입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "정보공개",
+      "청구",
+      "회신"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-02_1b6a1646ba.txt",
+  "source_name": "01-02_1b6a1646ba.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:40:17+09:00",
+  "processed_at": "2026-07-08T13:40:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-02_1b6a1646ba_004caec656.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-02_1b6a1646ba_004caec656.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "01-02 총괄토적.xlsx 파일은 총괄토적표를 포함하고 있으며, 28개의 행과 57개의 열로 구성되어 있습니다.",
+      "이 문서는 토지의 면적, 용도, 소유자 정보 등을 상세히 기록한 표입니다.",
+      "데이터는 토지 관리 및 연구에 활용될 수 있는 중요한 정보를 제공합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "총괄토적표",
+      "토지관리",
+      "면적"
+    ]
+  }
+}

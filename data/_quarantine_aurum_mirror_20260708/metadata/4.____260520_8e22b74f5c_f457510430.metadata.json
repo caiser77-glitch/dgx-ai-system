@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4.____260520_8e22b74f5c.txt",
+  "source_name": "4.____260520_8e22b74f5c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:37+09:00",
+  "processed_at": "2026-07-08T11:40:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/4.____260520_8e22b74f5c_f457510430.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/4.____260520_8e22b74f5c_f457510430.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 도시관리계획 결정(변경)에 대한 계획설명서입니다.",
+      "파일 형식은 .hwp로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "문서 크기는 205,116,416 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "도시관리계획",
+      "변경",
+      "계획설명서"
+    ]
+  }
+}

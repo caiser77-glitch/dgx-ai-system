@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_2a9ea51ad8.txt",
+  "source_name": "01_2a9ea51ad8.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T10:12:40+09:00",
+  "processed_at": "2026-07-06T10:13:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01_2a9ea51ad8_acf92e5b82.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01_2a9ea51ad8_acf92e5b82.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥국가산단 관련 표지 문서입니다.",
+      "문서 형식은 hwp이며, 크기는 34,816 바이트입니다.",
+      "내용 추출이 지원되지 않는 파일 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥국가산단",
+      "표지",
+      "hwp"
+    ]
+  }
+}

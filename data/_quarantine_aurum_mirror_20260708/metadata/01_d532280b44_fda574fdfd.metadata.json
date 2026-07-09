@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_d532280b44.txt",
+  "source_name": "01_d532280b44.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:30+09:00",
+  "processed_at": "2026-07-08T13:45:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01_d532280b44_fda574fdfd.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01_d532280b44_fda574fdfd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "은암리 태양광부지 사업의 개요를 다루는 문서입니다.",
+      "문서 파일 크기는 약 1.7MB 규모입니다.",
+      "OCR 처리 과정에서 제어 문자 포함으로 인한 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "은암리",
+      "태양광부지",
+      "사업의 개요"
+    ]
+  }
+}

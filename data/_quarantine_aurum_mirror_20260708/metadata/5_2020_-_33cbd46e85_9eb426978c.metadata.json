@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2020_-_33cbd46e85.txt",
+  "source_name": "5_2020_-_33cbd46e85.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:36:16+09:00",
+  "processed_at": "2026-07-08T13:36:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2020_-_33cbd46e85_9eb426978c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2020_-_33cbd46e85_9eb426978c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제5차 전국자연환경조사의 일환으로 진행된 2020년도 광덕 지역 육상곤충 조사 보고서입니다.",
+      "해당 파일은 PDF 형식이며, 파일명 내 공백 포함 등의 이유로 OCR 처리에 실패하였습니다.",
+      "데이터 추출 과정에서 특정 엑셀 파일 경로 인식 오류가 발생한 것으로 확인됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "광덕",
+      "육상곤충"
+    ]
+  }
+}

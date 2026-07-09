@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/250418_e494a644cc.txt",
+  "source_name": "250418_e494a644cc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:47+09:00",
+  "processed_at": "2026-07-08T12:14:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/250418_e494a644cc_da129e0d07.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/250418_e494a644cc_da129e0d07.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '식생보전등급 수정(250418).hwp'는 HWP 파일 형식으로 제공됩니다.",
+      "파일 크기는 84,941,312 바이트입니다.",
+      "내용 추출이 지원되지 않는 파일 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "HWP",
+      "파일크기",
+      "내용추출"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 파일 정보, 서버 오류, OCR 에러
+● 3줄 요약:
+- 제공된 문서 데이터에 이미지 파일 정보가 포함되어 있습니다.
+- 파일 형식은 MPO이며 해상도는 5184x3888입니다.
+- OCR 처리 과정에서 내부 서버 오류(HTTP Error 500)가 발생하였습니다.
+=========================================
+source_name: R0061111.JPG
+source_type: jpg
+size_bytes: 4249561
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

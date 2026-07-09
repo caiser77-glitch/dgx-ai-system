@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039928_ce660d7f7e.txt",
+  "source_name": "R0039928_ce660d7f7e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:34:12+09:00",
+  "processed_at": "2026-07-08T14:34:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039928_ce660d7f7e_607c2e6b06.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039928_ce660d7f7e_607c2e6b06.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "광주도시철도 현장 조사 중 촬영된 유과 내 깔따구류(비적) 사진 파일임",
+      "이미지 파일명은 [크기변환]R0039928 깔따구류(비적).JPG이며 RGB 모드임",
+      "2026년 3월 19일 광주도시철도 관련 현장 조사 데이터로 분류됨"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "깔따구류",
+      "유과",
+      "광주도시철도"
+    ]
+  }
+}

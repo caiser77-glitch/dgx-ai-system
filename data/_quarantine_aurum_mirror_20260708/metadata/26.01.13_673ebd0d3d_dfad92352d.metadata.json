@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/26.01.13_673ebd0d3d.txt",
+  "source_name": "26.01.13_673ebd0d3d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:39:59+09:00",
+  "processed_at": "2026-07-08T11:40:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/26.01.13_673ebd0d3d_dfad92352d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/26.01.13_673ebd0d3d_dfad92352d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "AutoCAD 파일 'Ⱦ�ܸ鵵(�����)_26.01.13(���ǥ ����).dwg'의 업로드 및 처리 완료",
+      "XREF, 플롯 설정(CTB), 다양한 폰트 자원 파일의 연결 상태 확인",
+      "FONTALT 설정을 통한 누락된 폰트 대체 처리 수행"
+    ],
+    "category": "장비",
+    "keywords": [
+      "AutoCAD",
+      "DWG",
+      "XREF"
+    ]
+  }
+}

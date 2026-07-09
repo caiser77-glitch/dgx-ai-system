@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 평택호, 모니터링, 이미지 메타데이터
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 2026년 5월 11일 오후 2시 23분에 평택호 사후 모니터링 목적으로 촬영되었습니다.
+- 파일 크기는 약 3.9MB이며 RGB 모드의 MPO 형식을 따르고 있습니다.
+=========================================
+source_name: R0061165.JPG
+source_type: jpg
+size_bytes: 3938358
+path: /mnt/dgxbackup/2026 세광/평택호 사후/02.사진/모니터링/0511/R0061165.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:11 14:23:37
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 0.0
+gps_lon: 0.0

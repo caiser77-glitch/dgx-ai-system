@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2022_-1_679f47899e.txt",
+  "source_name": "-2022_-1_679f47899e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:59+09:00",
+  "processed_at": "2026-07-08T11:56:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-2022_-1_679f47899e_0d402b2ea8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-2022_-1_679f47899e_0d402b2ea8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "성남낙생 지역에서 2022년에 실시된 1차년 조사 결과를 담은 엑셀 파일입니다.",
+      "집계표 시트는 57행 11열, 측정표 시트는 509행 12열로 구성되어 있습니다.",
+      "측정표의 다양한 데이터를 통해 해당 지역의 생태 환경 분석이 가능합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "성남낙생",
+      "2022년",
+      "1차년"
+    ]
+  }
+}

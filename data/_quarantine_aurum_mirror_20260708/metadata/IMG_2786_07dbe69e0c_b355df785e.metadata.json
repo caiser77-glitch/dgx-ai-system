@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_2786_07dbe69e0c.txt",
+  "source_name": "IMG_2786_07dbe69e0c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-07T00:22:53+09:00",
+  "processed_at": "2026-07-07T00:23:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_2786_07dbe69e0c_b355df785e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_2786_07dbe69e0c_b355df785e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "탱자나무 사진, 2025년 5월 28일 촬영",
+      "Canon PowerShot SX70 HS 카메라 사용",
+      "GPS 위치: 위도 36.781043, 경도 126.97776"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "탱자나무",
+      "사진",
+      "GPS"
+    ]
+  }
+}

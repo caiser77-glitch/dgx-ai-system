@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 환경부, 환경영향평가, 포항 글로벌 기업혁신파크
+● 3줄 요약:
+- 환경부가 포항 글로벌 기업혁신파크에 대한 환경영향평가서 초안 검토의견을 제출함
+- 해당 문서는 PDF 형태로 제공되었으나 OCR 처리 과정에서 오류가 발생함
+- 오류의 원인은 파일명 내 포함된 공백 문자 때문인 것으로 파악됨
+=========================================
+source_name: 01.(환경부) 환경영향평가서 초안 검토의견(포항 글로벌 기업혁신파크).pdf
+source_type: pdf
+size_bytes: 152771
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/01.(환경부) 환경영향평가서 초안 검토의견(포항 글로벌 기업혁신파크)_pages_1_taxa.xlsx' (found at least ' ')

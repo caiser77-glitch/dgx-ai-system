@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_734b4643de.txt",
+  "source_name": "1_734b4643de.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:26:16+09:00",
+  "processed_at": "2026-06-22T23:27:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_734b4643de_c49a150449.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_734b4643de_c49a150449.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "조류",
+    "tags": [
+      "#홍익기술",
+      "#진천초평산업단지",
+      "#조류"
+    ],
+    "summary": "1차 조류.jpg, 크기 253573byte, 1051x1358 RGB JPEG 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "1차 조류에 대한 이미지 파일입니다.",
+      "파일 크기는 253,573 바이트이며, 해상도는 1051x1358 픽셀입니다.",
+      "RGB 모드의 JPEG 형식으로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "1차 조류",
+      "JPEG",
+      "현장조사"
+    ]
+  }
+}

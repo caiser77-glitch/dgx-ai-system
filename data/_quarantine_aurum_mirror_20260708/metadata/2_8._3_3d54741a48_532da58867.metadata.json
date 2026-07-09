@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_8._3_3d54741a48.txt",
+  "source_name": "2_8._3_3d54741a48.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:26:39+09:00",
+  "processed_at": "2026-06-23T20:27:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_8._3_3d54741a48_532da58867.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_8._3_3d54741a48_532da58867.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "야장",
+    "tags": [
+      "#야장",
+      "#2차",
+      "#탐문"
+    ],
+    "summary": "야장 이미지 파일, 2차 탐문 (3)에 대한 정보 포함",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지는 야장 관련 2차 탐문 조사의 결과물로 보입니다.",
+      "JPEG 형식의 이미지 파일로, 화질은 1226x1549 픽셀입니다.",
+      "파일 크기는 314,840 바이트이며, RGB 모드로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "야장",
+      "2차 탐문",
+      "JPEG"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.19-20_1_5_af454dac5d.txt",
+  "source_name": "2026.03.19-20_1_5_af454dac5d.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:15:55+09:00",
+  "processed_at": "2026-06-23T19:17:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.19-20_1_5_af454dac5d_381974dff0.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.19-20_1_5_af454dac5d_381974dff0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 광주도시철도",
+    "project_name": "광주도시철도 1분기 교란생물 조사",
+    "class_name": "교란생물",
+    "tags": [
+      "#광주도시철도",
+      "#1분기",
+      "#교란생물"
+    ],
+    "summary": "2026년 3월 19-20일 광주도시철도 1분기 교란생물 조사 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "광주도시철도 1분기 교란생물에 대한 이미지 파일",
+      "파일 크기는 476,749 바이트이며, 해상도는 2480x3507 픽셀",
+      "JPEG 형식의 흑백 이미지로 저장됨"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "광주도시철도",
+      "교란생물",
+      "야장"
+    ]
+  }
+}

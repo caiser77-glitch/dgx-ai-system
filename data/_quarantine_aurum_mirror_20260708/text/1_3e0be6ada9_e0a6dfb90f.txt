@@ -1,0 +1,12 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 지원되지 않는 파일, pptx, 파일 크기
+● 3줄 요약:
+- 파일 형식이 지원되지 않아 내용 추출이 불가능함
+- 파일 크기는 818,064 바이트임
+- 파일명은 그림1.pptx임
+=========================================
+source_name: 그림1.pptx
+source_type: pptx
+size_bytes: 818064
+content_extraction: unsupported_file_type

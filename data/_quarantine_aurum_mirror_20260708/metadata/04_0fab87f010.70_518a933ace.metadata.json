@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/04_0fab87f010.70.csv",
+  "source_name": "04_0fab87f010.70.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:39:13+09:00",
+  "processed_at": "2026-07-08T13:39:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_0fab87f010.70_518a933ace.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/04_0fab87f010.70_518a933ace.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_0fab87f010.70_518a933ace.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 스텐실포장(T-1) 품목의 데이터가 포함된 CSV 파일입니다.",
+      "총 37개의 행으로 구성되어 있으며 단위수량 관련 정보를 포함하고 있습니다.",
+      "구체적인 수치 데이터는 제공되지 않았으나 항목 분류를 확인할 수 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "스텐실포장",
+      "단위수량",
+      "CSV데이터"
+    ]
+  }
+}

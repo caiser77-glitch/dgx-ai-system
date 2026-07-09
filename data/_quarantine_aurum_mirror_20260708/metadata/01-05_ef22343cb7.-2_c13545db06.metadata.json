@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-05_ef22343cb7.-2.csv",
+  "source_name": "01-05_ef22343cb7.-2.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:41:54+09:00",
+  "processed_at": "2026-07-08T13:42:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-05_ef22343cb7.-2_c13545db06.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-05_ef22343cb7.-2_c13545db06.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-05_ef22343cb7.-2_c13545db06.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 사선형-2 데이터를 포함한 CSV 형식의 파일입니다.",
+      "총 14개의 행(row)으로 구성되어 있으며 데이터 구조를 나타냅니다.",
+      "상세 데이터 값은 포함되지 않은 메타데이터 중심의 문서입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV",
+      "사선형-2",
+      "데이터 구조"
+    ]
+  }
+}

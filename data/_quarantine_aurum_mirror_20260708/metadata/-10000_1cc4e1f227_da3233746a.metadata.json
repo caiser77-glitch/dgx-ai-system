@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-10000_1cc4e1f227.txt",
+  "source_name": "-10000_1cc4e1f227.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:20+09:00",
+  "processed_at": "2026-07-08T12:10:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-10000_1cc4e1f227_da3233746a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-10000_1cc4e1f227_da3233746a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경영향에 대한 불가피한 사항을 다루고 있습니다.",
+      "고흥-10000 지역에서 발생한 환경 문제에 대한 설명이 포함되어 있습니다.",
+      "문서의 자세한 내용은 지원되지 않는 파일 형식으로 인해 확인할 수 없습니다."
+    ],
+    "category": "환경보고서",
+    "keywords": [
+      "환경영향",
+      "고흥-10000",
+      "불가피한 사항"
+    ]
+  }
+}

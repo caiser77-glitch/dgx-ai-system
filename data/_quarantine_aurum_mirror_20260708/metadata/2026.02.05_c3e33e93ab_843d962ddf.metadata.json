@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.05_c3e33e93ab.txt",
+  "source_name": "2026.02.05_c3e33e93ab.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:12:56+09:00",
+  "processed_at": "2026-06-23T17:14:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.05_c3e33e93ab_843d962ddf.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.05_c3e33e93ab_843d962ddf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "곤충조사",
+    "class_name": "곤충",
+    "tags": [
+      "#곤충",
+      "#안산장상",
+      "#2026"
+    ],
+    "summary": "2026년 2월 5일 안산장상에서 촬영된 곤충 사진. OCR 처리 중 서버 에러 발생.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "안산장상에서 촬영된 곤충 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기",
+      "OCR 처리 중 서버 오류 발생"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "곤충",
+      "안산장상",
+      "사진"
+    ]
+  }
+}

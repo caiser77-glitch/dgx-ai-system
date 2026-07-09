@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 울산 온산국가산업단지, 포유류 조사, 개
+● 3줄 요약:
+- 울산 온산국가산업단지 내 포유류 조사 과정에서 촬영된 개 사진 데이터입니다.
+- 2026년 2월 12일 오후 4시경 Panasonic 카메라로 촬영되었습니다.
+- 해당 사진은 특정 GPS 좌표(북위 35.44875, 경도 129.311819)를 포함하고 있습니다.
+=========================================
+source_name: 개.JPG
+source_type: jpg
+size_bytes: 886845
+path: /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/01. 조사사진_울산온산_포유류/개.JPG
+width: 1124
+height: 843
+mode: RGB
+format: JPEG
+datetime_taken: 2026:02:12 16:18:09
+camera_make: Panasonic
+camera_model: DC-TZ99
+gps_lat: 35.44875
+gps_lon: 129.311819

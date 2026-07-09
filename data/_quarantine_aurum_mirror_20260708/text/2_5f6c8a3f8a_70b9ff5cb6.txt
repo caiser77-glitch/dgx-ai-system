@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 고양이, Panasonic DC-TZ99, GPS 좌표
+● 3줄 요약:
+- 2026년 3월 19일 오전 3시 15분 37초에 촬영된 고양이 사진
+- Panasonic DC-TZ99 카메라로 촬영, GPS 좌표는 위도 36.439364, 경도 126.523475
+- JPEG 형식, RGB 모드, 1124x843 해상도, 파일 크기 943,889 바이트
+=========================================
+source_name: 고양이 (2).JPG
+source_type: jpg
+size_bytes: 943889
+path: /mnt/dgxbackup/2026 아라기술/오천항 정비공사 사후/02. 사진/03.17/남이/고양이 (2).JPG
+width: 1124
+height: 843
+mode: RGB
+format: JPEG
+datetime_taken: 2026:03:19 15:15:37
+camera_make: Panasonic
+camera_model: DC-TZ99
+gps_lat: 36.439364
+gps_lon: 126.523475

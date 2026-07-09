@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1132_34e6bbfa0b.txt",
+  "source_name": "-1132_34e6bbfa0b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:39:00+09:00",
+  "processed_at": "2026-07-08T11:39:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-1132_34e6bbfa0b_9f6c3d60c4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-1132_34e6bbfa0b_9f6c3d60c4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제안로-1132(인구) 문서는 HWP 파일 형식으로 제공되었습니다.",
+      "파일 크기는 52,224 바이트입니다.",
+      "현재 시스템에서는 HWP 파일의 내용 추출을 지원하지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "HWP",
+      "파일크기",
+      "내용추출"
+    ]
+  }
+}

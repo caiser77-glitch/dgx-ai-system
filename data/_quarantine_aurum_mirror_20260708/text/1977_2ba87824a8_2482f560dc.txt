@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 격열비열도, 식물상, 한국보존협회
+● 3줄 요약:
+- 1977년 한국보존협회에서 발행한 격열비열도의 식물상에 대한 조사보고서입니다.
+- 해당 파일은 PDF 형식이며 용량은 약 1.95MB입니다.
+- 파일 내 텍스트 추출(OCR) 실패 및 파일명 공백으로 인한 URL 생성 오류가 확인되었습니다.
+=========================================
+source_name: 격열비열도의 식물상.1977. 한국보존협회 조사보고서.pdf
+source_type: pdf
+size_bytes: 1950352
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/격열비열도의 식물상.1977. 한국보존협회 조사보고서_pages_1_taxa.xlsx' (found at least ' ')

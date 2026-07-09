@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250207_100857_1ddcf6f4c2.txt",
+  "source_name": "20250207_100857_1ddcf6f4c2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T14:56:22+09:00",
+  "processed_at": "2026-06-23T14:57:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250207_100857_1ddcf6f4c2_864b15d68d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250207_100857_1ddcf6f4c2_864b15d68d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2025 산업단지",
+    "project_name": "고흥 산단 환경조사",
+    "class_name": "환경조사",
+    "tags": [
+      "#환경조사",
+      "#산단",
+      "#고흥"
+    ],
+    "summary": "2025년 2월 7일 삼성 카메라로 촬영된 사진. 위치: 34.438433, 127.482504. 크기: 4000x3000.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "삼성 스마트폰으로 촬영된 고화질 사진",
+      "사진은 2025년 2월 7일 10시 8분 57초에 촬영됨",
+      "GPS 좌표는 경도 127.482504, 위도 34.438433"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "GPS",
+      "삼성"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.03.24-27_be94bf5a0f.txt",
+  "source_name": "2025.03.24-27_be94bf5a0f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:54:19+09:00",
+  "processed_at": "2026-06-29T17:56:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2025.03.24-27_be94bf5a0f_60d5fb417b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2025.03.24-27_be94bf5a0f_60d5fb417b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 24일부터 27일까지 고흥 산단에서 촬영된 곤충 사진",
+      "사진 크기: 2480x3507,JPEG 포맷, 531,776 바이트",
+      "야장 폴더에 저장된 이미지 파일"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "곤충",
+      "고흥 산단",
+      "야장"
+    ]
+  }
+}

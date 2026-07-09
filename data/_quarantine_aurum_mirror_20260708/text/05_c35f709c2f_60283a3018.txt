@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 평가항목, 심의결과, 국가종합비행성능시험장
+● 3줄 요약:
+- 국가종합비행성능시험장의 평가항목 범위 등에 관한 심의 결과 내용을 담고 있습니다.
+- PDF 파일 형식이나 콘텐츠 추출 과정에서 인코딩 오류가 발생하여 내용 확인이 불가능합니다.
+- OCR 처리 시 'ascii' 코덱 관련 오류가 발생하여 데이터 읽기에 실패하였습니다.
+=========================================
+source_name: (본안)+05+평가항목범위등의+심의결과(국가종합비행성능시험장).pdf
+source_type: pdf
+size_bytes: 605046
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

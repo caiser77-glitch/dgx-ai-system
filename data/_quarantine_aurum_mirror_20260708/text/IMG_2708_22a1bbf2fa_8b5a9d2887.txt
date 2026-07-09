@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 이미지 파일
+● 핵심 키워드: JPEG, 이미지, OCR 오류
+● 3줄 요약:
+- 변환IMG_2708.jpg 파일은 254,009 바이트 크기의 JPEG 이미지입니다.
+- 이미지는 400x300 픽셀 크기이며 RGB 모드로 저장되어 있습니다.
+- OCR 처리 시 서버 내부 오류가 발생하여 텍스트 추출에 실패했습니다.
+=========================================
+source_name: 변환IMG_2708.jpg
+source_type: jpg
+size_bytes: 254009
+width: 400
+height: 300
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/6100_6f3e69f69c.txt",
+  "source_name": "6100_6f3e69f69c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:45:13+09:00",
+  "processed_at": "2026-07-08T11:45:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/6100_6f3e69f69c_ebd50e5325.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/6100_6f3e69f69c_ebd50e5325.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경현황조사 및 영향예측, 분석저감방안에 대한 내용을 다룹니다.",
+      "자연환경에 초점을 맞춘 조사결과와 예측, 대책이 포함되어 있습니다.",
+      "OCR 처리 과정에서 서버 오류가 발생하여 내용 추출이 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경현황조사",
+      "영향예측",
+      "분석저감방안"
+    ]
+  }
+}

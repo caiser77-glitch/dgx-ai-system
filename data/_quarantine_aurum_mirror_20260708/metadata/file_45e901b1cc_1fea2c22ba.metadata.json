@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_45e901b1cc.txt",
+  "source_name": "file_45e901b1cc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:33+09:00",
+  "processed_at": "2026-07-08T13:51:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_45e901b1cc_1fea2c22ba.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_45e901b1cc_1fea2c22ba.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단 관련 착수보고회 제출용 도면 자료입니다.",
+      "연안 및 육역의 범위를 나타내는 연안육역도 이미지입니다.",
+      "2025년 3월 13일 환평자료로 분류된 시각적 도면 데이터입니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "연안육역도",
+      "고흥 산단",
+      "착수보고회"
+    ]
+  }
+}

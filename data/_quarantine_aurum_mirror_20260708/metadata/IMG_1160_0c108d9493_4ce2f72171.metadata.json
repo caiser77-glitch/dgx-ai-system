@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1160_0c108d9493.txt",
+  "source_name": "IMG_1160_0c108d9493.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T15:43:12+09:00",
+  "processed_at": "2026-07-06T15:43:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1160_0c108d9493_4ce2f72171.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1160_0c108d9493_4ce2f72171.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "2023년 8월 7일에 촬영된 음성천 지역 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영",
+      "GPS 좌표: 위도 36.924142, 경도 127.707115"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "사진",
+      "GPS"
+    ]
+  }
+}

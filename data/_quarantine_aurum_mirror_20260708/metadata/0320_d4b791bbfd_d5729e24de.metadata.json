@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0320_d4b791bbfd.txt",
+  "source_name": "0320_d4b791bbfd.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:18:05+09:00",
+  "processed_at": "2026-07-08T12:18:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0320_d4b791bbfd_d5729e24de.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0320_d4b791bbfd_d5729e24de.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 온실가스 배출량 산정에 관한 내용을 담고 있으나, OCR 오류로 인해 텍스트 추출이 불가능합니다.",
+      "파일 형식은 PDF이며, 크기는 334,376 바이트입니다.",
+      "OCR 처리 시 'ascii' 코덱 관련 오류가 발생하여 문자 인코딩 문제가 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "온실가스",
+      "배출량",
+      "산정"
+    ]
+  }
+}

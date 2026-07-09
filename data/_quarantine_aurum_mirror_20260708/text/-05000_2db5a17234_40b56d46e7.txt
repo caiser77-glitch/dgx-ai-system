@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 우주센터, 심의결과, PDF
+● 3줄 요약:
+- 우주센터-05000의 평가항목 범위 등에 대한 심의결과를 담은 문서입니다.
+- 해당 파일은 PDF 형식이며 콘텐츠 추출이 지원되지 않는 유형입니다.
+- OCR 처리 과정에서 특정 URL 내 제어 문자로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 우주센터-05000(평가항목범위 등의 심의결과).pdf
+source_type: pdf
+size_bytes: 10036125
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/우주센터-05000(평가항목범위 등의 심의결과)_pages_1_taxa.xlsx' (found at least ' ')

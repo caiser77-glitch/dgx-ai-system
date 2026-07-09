@@ -1,0 +1,4 @@
+source_name: 호미반도 산림복지단지 토목도면 .zip
+source_type: zip
+size_bytes: 269077913
+content_extraction: unsupported_file_type

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-0800_0ad319b384.txt",
+  "source_name": "-0800_0ad319b384.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:00+09:00",
+  "processed_at": "2026-07-08T11:50:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-0800_0ad319b384_892e9ac938.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-0800_0ad319b384_892e9ac938.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경 영향 저감 방안과 사후 환경 영향 조사에 대한 내용을 다룹니다.",
+      "파일 형식이 지원되지 않아 내용 추출이 불가능합니다.",
+      "문서 크기는 8,739,840 바이트입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향",
+      "저감방안",
+      "사후환경영향조사"
+    ]
+  }
+}

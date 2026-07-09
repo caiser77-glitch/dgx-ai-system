@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_aa5fd8ab6f.txt",
+  "source_name": "2_aa5fd8ab6f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:29:06+09:00",
+  "processed_at": "2026-06-23T20:30:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_aa5fd8ab6f_e5071ae95d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_aa5fd8ab6f_e5071ae95d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "고흥 산단",
+    "class_name": "토지이용계획",
+    "tags": [
+      "#고흥산단",
+      "#토지이용계획",
+      "#PNG"
+    ],
+    "summary": "고흥 산단의 토지이용계획 도면. 2공구 따기.png, 2046x1142, RGBA 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2공구 따기 도면은 토지이용계획 관련 자료로, 화질이 선명한 PNG 이미지입니다.",
+      "이미지 크기는 2046x1142 픽셀이며, RGBA 모드로 색상 정보를 포함하고 있습니다.",
+      "파일 크기는 약 1.2MB로, 고해상도의 시각적 정보를 제공합니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "2공구",
+      "토지이용계획",
+      "PNG"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0059836_e4b91f68ef.txt",
+  "source_name": "R0059836_e4b91f68ef.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:01:14+09:00",
+  "processed_at": "2026-07-08T14:01:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0059836_e4b91f68ef_e5d0244e15.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0059836_e4b91f68ef_e5d0244e15.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 데이터입니다.",
+      "촬영 일시는 2025년 11월 12일 오후 2시 10분입니다.",
+      "위도 36.294178, 경도 127.821628 지점의 위치 정보를 포함합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "RICOH WG-6",
+      "GPS 위치 정보"
+    ]
+  }
+}

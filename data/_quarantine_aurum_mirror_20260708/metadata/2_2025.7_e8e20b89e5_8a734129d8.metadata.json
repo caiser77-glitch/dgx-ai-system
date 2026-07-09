@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_2025.7_e8e20b89e5.txt",
+  "source_name": "2_2025.7_e8e20b89e5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:55:24+09:00",
+  "processed_at": "2026-07-08T11:55:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_2025.7_e8e20b89e5_8a734129d8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_2025.7_e8e20b89e5_8a734129d8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 환경영향평가 협의내용 관리책임자 업무안내서 파일입니다.",
+      "파일 형식은 HWPX로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "관리책임자의 역할과 업무 절차에 대한 정보를 담고 있을 것으로 추정됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "환경영향평가",
+      "관리책임자",
+      "업무안내서"
+    ]
+  }
+}

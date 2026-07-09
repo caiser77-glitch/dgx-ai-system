@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/05_05130e0fef.2_38418dcdb1.txt",
+  "source_name": "05_05130e0fef.2_38418dcdb1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:34:17+09:00",
+  "processed_at": "2026-07-08T11:34:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05_05130e0fef.2_38418dcdb1_a2d8e1fa8a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05_05130e0fef.2_38418dcdb1_a2d8e1fa8a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '05_05130e0fef.2'는 총 122개의 행을 포함하고 있습니다.",
+      "주요 데이터 컬럼은 'L형옹벽 단위수량'이며, 그 외의 상세 컬럼 정보는 누락되어 있습니다.",
+      "해당 자료는 특정 프로젝트 또는 현장 조사와 관련된 수치 데이터를 담고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "L형옹벽",
+      "단위수량",
+      "CSV"
+    ]
+  }
+}

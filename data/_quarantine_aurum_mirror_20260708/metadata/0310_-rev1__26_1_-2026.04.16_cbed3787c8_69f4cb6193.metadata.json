@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0310_-rev1__26_1_-2026.04.16_cbed3787c8.txt",
+  "source_name": "0310_-rev1__26_1_-2026.04.16_cbed3787c8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:48:24+09:00",
+  "processed_at": "2026-07-08T11:48:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0310_-rev1__26_1_-2026.04.16_cbed3787c8_69f4cb6193.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0310_-rev1__26_1_-2026.04.16_cbed3787c8_69f4cb6193.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 1분기에 실시된 환경영향조사 결과에 관한 문서입니다.",
+      "해당 파일은 hwpx 형식으로 현재 시스템에서 지원되지 않는 상태입니다.",
+      "문서의 전체 크기는 62,638 바이트로 확인되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향조사",
+      "2026년 1분기",
+      "hwpx"
+    ]
+  }
+}

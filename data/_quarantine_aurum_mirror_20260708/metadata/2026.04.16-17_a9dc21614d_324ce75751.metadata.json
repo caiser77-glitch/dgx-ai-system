@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.04.16-17_a9dc21614d.txt",
+  "source_name": "2026.04.16-17_a9dc21614d.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:36:40+09:00",
+  "processed_at": "2026-06-23T19:37:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.04.16-17_a9dc21614d_324ce75751.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.04.16-17_a9dc21614d_324ce75751.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 신명",
+    "project_name": "만흥소하천",
+    "class_name": "양서류",
+    "tags": [
+      "#양서류",
+      "#만흥소하천",
+      "#2026"
+    ],
+    "summary": "2026년 4월 16-17일 만흥소하천에서 촬영된 양서류 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 4월 16-17일 만흥소하천에서 촬영된 양서류 사진",
+      "JPEG 형식, 2480x3507 픽셀, 510KB 크기의 이미지",
+      "야장 조사 자료로 사용될 예정"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "양서류",
+      "만흥소하천",
+      "야장"
+    ]
+  }
+}

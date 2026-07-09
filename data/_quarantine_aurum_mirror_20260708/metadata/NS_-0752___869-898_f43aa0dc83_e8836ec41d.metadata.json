@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/NS_-0752___869-898_f43aa0dc83.txt",
+  "source_name": "NS_-0752___869-898_f43aa0dc83.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:18:50+09:00",
+  "processed_at": "2026-07-08T13:18:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/NS_-0752___869-898_f43aa0dc83_e8836ec41d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/NS_-0752___869-898_f43aa0dc83_e8836ec41d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 소음진동에 관한 내용을 다루고 있으나, OCR 오류로 인해 내용 추출이 불가능합니다.",
+      "파일 크기는 20,583,449 바이트이며, PDF 형식입니다.",
+      "문서의 정확한 내용을 확인하기 위해서는 OCR 처리나 수동 검토가 필요합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "소음진동",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_9_deedad5896.txt",
+  "source_name": "5_9_deedad5896.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:44:28+09:00",
+  "processed_at": "2026-07-08T13:44:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_9_deedad5896_fccfba4efa.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_9_deedad5896_fccfba4efa.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "운산식물 5 9.pdf 파일에 대한 정보 제공",
+      "파일 크기는 595,190 바이트",
+      "OCR 처리 중 URL 내 제어 문자 포함으로 인한 오류 발생"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "운산식물",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 임목폐기물, 비옥토, 산림조사
+● 3줄 요약:
+- 여러 시트로 구성된 엑셀 파일로 임목 및 비옥토 관련 데이터를 포함하고 있음
+- 임목폐기물 수량 산출 및 벌개제근수량 등 임목 관리 정보를 제공함
+- 비옥토의 수량 집계, 적치장 단위, 산출 조서 등 상세 관리 데이터를 포함함
+=========================================
+source_name: 01-09 임목.xlsx
+source_type: xlsx
+sheet: 간지8, rows: 6, columns: 3
+sheet: 임목폐기물수량 집계, rows: 5, columns: 6
+sheet: 임목폐기물산출, rows: 39, columns: 22
+sheet: 벌개제근수량산출, rows: 15, columns: 4
+sheet: 산림조사서, rows: 142, columns: 14
+sheet: 간지9(X), rows: 6, columns: 3
+sheet: 비옥토수량집계, rows: 6, columns: 7
+sheet: 비옥토적치장단위, rows: 29, columns: 14
+sheet: 비옥토산출조서, rows: 7, columns: 8
+sheet: 비옥토수량산출근거, rows: 26, columns: 5

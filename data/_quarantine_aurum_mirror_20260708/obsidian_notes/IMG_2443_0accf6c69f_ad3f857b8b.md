@@ -1,0 +1,51 @@
+---
+생성일: 2026-07-07
+장비명: overnight_batch
+원본이름: IMG_2443_0accf6c69f.txt
+원본유형: txt
+년도_업체: _AURUM_AI_PROCESSED
+사업명: processed
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: processed 관련 TXT 파일
+AI_모호성: true
+AI_질문: 본문 또는 경로에서 생물 분류군을 확정하지 못했습니다.
+태그: #자동색인 #NAS_데이터 #_AURUM_AI_PROCESSED #processed #TXT
+---
+# 📄 IMG_2443_0accf6c69f.txt 요약본
+
+* **처리 시각**: 2026-07-07T18:53:13+09:00
+* **년도_업체**: _AURUM_AI_PROCESSED
+* **사업명**: processed
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_2443_0accf6c69f.txt
+
+---
+### 🤖 AI 분석 요약
+> processed 관련 TXT 파일
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: IMG_2443.JPG
+source_type: jpg
+size_bytes: 4874464
+path: /mnt/dgxbackup/2026 천마기술단/서산 부장리 고분군/02. 사진/2024.05.16~17/김부 육상동물-양,곤(16)/IMG_2443.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2024:05:16 15:14:24
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.78453
+gps_lon: 126.519103
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [IMG_2443_0accf6c69f.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_2443_0accf6c69f.txt)

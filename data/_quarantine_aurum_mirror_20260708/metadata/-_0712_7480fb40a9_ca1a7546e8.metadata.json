@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_0712_7480fb40a9.txt",
+  "source_name": "-_0712_7480fb40a9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:14:29+09:00",
+  "processed_at": "2026-07-08T13:14:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_0712_7480fb40a9_ca1a7546e8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_0712_7480fb40a9_ca1a7546e8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 자연환경자산에 관한 내용을 담고 있으나, OCR 오류로 인해 텍스트 추출이 불가능합니다.",
+      "파일 크기는 166,944 바이트이며, PDF 형식입니다.",
+      "OCR 처리 시 'ascii' 코덱에서 인코딩 오류가 발생했습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "자연환경자산",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

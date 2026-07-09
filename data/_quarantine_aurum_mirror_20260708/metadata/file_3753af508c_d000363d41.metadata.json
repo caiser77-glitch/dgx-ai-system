@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_3753af508c.txt",
+  "source_name": "file_3753af508c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:43:54+09:00",
+  "processed_at": "2026-07-08T13:44:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_3753af508c_d000363d41.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_3753af508c_d000363d41.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "법정보호종 양서류 이주지 선정 관련 토지사용 추가 요청에 대한 회신 문서입니다.",
+      "PDF 파일 형식으로 제공되었으나, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "OCR 오류로 인해 특정 URL에서 제어 문자가 발견되어 처리에 어려움이 있었습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "법정보호종",
+      "양서류",
+      "토지사용"
+    ]
+  }
+}

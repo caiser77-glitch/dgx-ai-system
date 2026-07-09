@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0603_acf0345e16.txt",
+  "source_name": "0603_acf0345e16.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:11:51+09:00",
+  "processed_at": "2026-07-08T12:11:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0603_acf0345e16_1f38c943c1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0603_acf0345e16_1f38c943c1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획과 인구 계획, 폐기물 계획이 포함된 엑셀 파일입니다.",
+      "주요 시트는 '토지이용계획_저류지x', '업종계획_인구계획', '폐기물계획'으로 구성되어 있습니다.",
+      "각 시트는 다양한 열과 행으로 데이터를 상세히 기록하고 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용계획",
+      "인구계획",
+      "폐기물계획"
+    ]
+  }
+}

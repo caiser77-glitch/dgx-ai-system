@@ -1,0 +1,49 @@
+---
+생성일: 2026-07-06
+장비명: overnight_batch
+원본이름: 2_a4f3efc367.txt
+원본유형: txt
+년도_업체: unknown
+사업명: unknown
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: Hermes binary not found locally.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #Users #nams #TXT
+---
+# 📄 2_a4f3efc367.txt 요약본
+
+* **처리 시각**: 2026-07-06T10:07:00+09:00
+* **년도_업체**: unknown
+* **사업명**: unknown
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_a4f3efc367.txt
+
+---
+### 🤖 AI 분석 요약
+> Hermes binary not found locally.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구계획서
+● 핵심 키워드: 아우룸생태연구소, 조사연구, hwp
+● 3줄 요약:
+- 아우룸생태연구소의 조사연구 계획서 파일이 제공되었습니다.
+- 파일 형식은 .hwp로, 현재 콘텐츠 추출이 지원되지 않는 상태입니다.
+- 추후 해당 파일의 콘텐츠를 분석하기 위해서는 .hwp 파일 형식에 대한 지원이 필요합니다.
+=========================================
+source_name: 붙임 2. 조사연구 계획서(아우룸생태연구소).hwp
+source_type: hwp
+size_bytes: 1695744
+content_extraction: unsupported_file_type
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [2_a4f3efc367.txt 열기](file:///Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_a4f3efc367.txt)

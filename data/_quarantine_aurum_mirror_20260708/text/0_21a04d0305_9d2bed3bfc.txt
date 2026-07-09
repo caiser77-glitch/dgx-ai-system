@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 은암리, 공장부지, PDF
+● 3줄 요약:
+- 은암리 공장부지 관련 PDF 파일에 대한 메타데이터 정보입니다.
+- 파일 크기는 45,132 바이트이며 콘텐츠 추출이 지원되지 않습니다.
+- 파일명 내 공백 등 제어 문자로 인한 OCR 오류가 발생하였습니다.
+=========================================
+source_name: 은암리 공장부지 윤성_(본안) 0.표지.pdf
+source_type: pdf
+size_bytes: 45132
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/은암리 공장부지 윤성_(본안) 0.표지_pages_1_taxa.xlsx' (found at least ' ')

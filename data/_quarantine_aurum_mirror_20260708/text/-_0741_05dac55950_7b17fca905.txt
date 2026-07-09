@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 토지이용, PDF, OCR오류
+● 3줄 요약:
+- 문서는 토지 이용에 관한 내용을 다루고 있으나, OCR 오류로 인해 본문 내용 추출이 불가능합니다.
+- 파일 크기는 34,623,043 바이트이며, PDF 형식입니다.
+- ASCII 코덱이 14-15 위치의 문자를 인코딩하지 못하는 오류가 발생했습니다.
+=========================================
+source_name: (충주-본안)0741+토지이용.pdf
+source_type: pdf
+size_bytes: 34623043
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

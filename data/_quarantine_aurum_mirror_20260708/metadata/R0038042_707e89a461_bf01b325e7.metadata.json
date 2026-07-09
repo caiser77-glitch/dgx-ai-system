@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0038042_707e89a461.txt",
+  "source_name": "R0038042_707e89a461.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:58:42+09:00",
+  "processed_at": "2026-07-08T14:58:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0038042_707e89a461_bf01b325e7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0038042_707e89a461_bf01b325e7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 9일 포항 혁신도시 유대 육수에서 촬영된 재첩 사진 데이터입니다.",
+      "RICOH WG-6 카메라로 촬영되었으며 GPS 좌표(36.09777, 129.392123)가 포함되어 있습니다.",
+      "해당 파일은 R0038042라는 명칭으로 관리되는 이미지 문서입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "재첩",
+      "포항 혁신도시",
+      "유대 육수"
+    ]
+  }
+}

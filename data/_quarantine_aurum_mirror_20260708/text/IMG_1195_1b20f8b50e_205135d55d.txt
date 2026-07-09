@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, RGB, MPO
+● 3줄 요약:
+- 2023년 8월 7일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 사진
+- 사진의 해상도는 5184x3888 픽셀이며, RGB 모드로 촬영되었습니다.
+- 사진은 MPO 포맷으로 저장되었으며, 파일 크기는 11,209,830 바이트입니다.
+=========================================
+source_name: IMG_1195.JPG
+source_type: jpg
+size_bytes: 11209830
+path: /mnt/dgxbackup/2026 아라기술/음성천/02.사진/2023.08.07/2023.08.07 음성천 이부/IMG_1195.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2023:08:07 13:52:11
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.06.16-19_2_eb67faa0dc.txt",
+  "source_name": "2025.06.16-19_2_eb67faa0dc.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T02:25:44+09:00",
+  "processed_at": "2026-06-23T02:27:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.06.16-19_2_eb67faa0dc_99c7db3a61.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.06.16-19_2_eb67faa0dc_99c7db3a61.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥산단",
+    "class_name": "육상곤충류",
+    "tags": [
+      "#고흥산단",
+      "#육상곤충류",
+      "#2026"
+    ],
+    "summary": "2025년 6월 16일 19시, 고흥산단에서 촬영된 육상곤충류 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단에서 촬영된 육상곤충류 사진",
+      "2025년 6월 16일부터 19일까지의 조사 결과",
+      "JPEG 형식, 2480x3507 픽셀 크기의 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥산단",
+      "육상곤충류",
+      "조사"
+    ]
+  }
+}

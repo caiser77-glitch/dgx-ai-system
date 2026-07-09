@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PNG, 이미지, OCR 오류
+● 3줄 요약:
+- 샘플 파일은 522x790 픽셀 크기의 RGBA 모드 PNG 이미지입니다.
+- 파일의 전체 용량은 216,488 바이트로 확인되었습니다.
+- OCR 처리 과정에서 서버 내부 오류(HTTP Error 500)로 인해 인식이 실패했습니다.
+=========================================
+source_name: 샘플파일명.png
+source_type: png
+size_bytes: 216488
+width: 522
+height: 790
+mode: RGBA
+format: PNG
+ocr_error: HTTP Error 500: Internal Server Error

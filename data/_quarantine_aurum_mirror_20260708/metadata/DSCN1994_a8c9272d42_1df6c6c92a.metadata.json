@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN1994_a8c9272d42.txt",
+  "source_name": "DSCN1994_a8c9272d42.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T01:51:41+09:00",
+  "processed_at": "2026-06-25T01:53:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSCN1994_a8c9272d42_1df6c6c92a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSCN1994_a8c9272d42_1df6c6c92a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 11월 17일에 촬영된 경산 도로 확장 프로젝트 관련 사진\nNIKON COOLPIX AW100s 카메라로 촬영, GPS 좌표 (35.769017, 128.824287) 기록\nJPEG 형식, 2048x1536 해상도, 780,165 바이트 크기",
+    "tags": [
+      "#경산도로확장",
+      "#현장사진",
+      "#GPS좌표"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일에 촬영된 경산 도로 확장 프로젝트 관련 사진",
+      "NIKON COOLPIX AW100s 카메라로 촬영, GPS 좌표 (35.769017, 128.824287) 기록",
+      "JPEG 형식, 2048x1536 해상도, 780,165 바이트 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "경산도로확장",
+      "현장사진",
+      "GPS좌표"
+    ]
+  }
+}

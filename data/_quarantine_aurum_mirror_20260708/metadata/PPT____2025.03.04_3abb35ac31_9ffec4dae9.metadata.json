@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/PPT____2025.03.04_3abb35ac31.txt",
+  "source_name": "PPT____2025.03.04_3abb35ac31.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:48:31+09:00",
+  "processed_at": "2026-07-08T13:48:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/PPT____2025.03.04_3abb35ac31_9ffec4dae9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/PPT____2025.03.04_3abb35ac31_9ffec4dae9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "전남 고흥 국가산단 환경영향평가 지역의 해양조사 지점에 관한 착수 보고서입니다.",
+      "해당 문서는 2025년 3월 4일 작성될 예정인 프로젝트의 시작을 알리는 내용입니다.",
+      "PPTX 형식으로 작성되었으며, 해양조사 지점 선정 및 계획을 포함하고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "착수보고서",
+      "해양조사",
+      "전남 고흥"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.06_2_c10a403e30.txt",
+  "source_name": "2026.03.06_2_c10a403e30.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:11:55+09:00",
+  "processed_at": "2026-06-23T18:13:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.06_2_c10a403e30_086fba178e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.06_2_c10a403e30_086fba178e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "군포대야미",
+    "class_name": "탐문",
+    "tags": [
+      "#군포대야미",
+      "#2026",
+      "#KCI"
+    ],
+    "summary": "군포대야미 탐문2.jpg 파일의 메타데이터 및 경로 정보",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "군포대야미 지역에 대한 탐문 조사 사진",
+      "2026년 3월 6일에 촬영된 야장 이미지",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "군포대야미",
+      "탐문조사",
+      "야장"
+    ]
+  }
+}

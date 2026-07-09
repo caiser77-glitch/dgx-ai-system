@@ -1,0 +1,11 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 2025년 아산시 주요업무 추진계획 발췌 232p.(맹꽁이 생태공원 조성) (1).pdf
+source_type: pdf
+size_bytes: 498637
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2025년 아산시 주요업무 추진계획 발췌 232p.(맹꽁이 생태공원 조성) (1)_pages_1_taxa.xlsx' (found at least ' ')

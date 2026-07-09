@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-6__25.08.13-_baa0444bb5.txt",
+  "source_name": "01-6__25.08.13-_baa0444bb5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:06:53+09:00",
+  "processed_at": "2026-07-08T12:07:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-6__25.08.13-_baa0444bb5_8fc62b68fd.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-6__25.08.13-_baa0444bb5_8fc62b68fd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용 및 업종배치에 대한 엑셀 파일 분석 결과 제공",
+      "토지이용 시트는 28행 20열, 업종배치 시트는 56행 25열로 구성",
+      "비교 항목 포함, 북측 구역계 조정에 대한 데이터 포함"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "토지이용",
+      "업종배치",
+      "구역계 조정"
+    ]
+  }
+}

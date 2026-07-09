@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_7518f59d54.txt",
+  "source_name": "file_7518f59d54.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:31+09:00",
+  "processed_at": "2026-07-08T12:02:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_7518f59d54_e3db6b0cf0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_7518f59d54_e3db6b0cf0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "국립공원 학술연구를 위한 현지조사표와 사진자료가 포함된 엑셀 파일입니다.",
+      "현지조사표 시트는 51개 행과 12개 열로 구성되어 있으며, 사진자료 시트는 73개 행과 15개 열로 구성되어 있습니다.",
+      "이 문서는 국립공원의 학술연구를 지원하기 위한 자료 수집 및 관리를 위한 양식입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "국립공원",
+      "학술연구",
+      "현지조사표"
+    ]
+  }
+}

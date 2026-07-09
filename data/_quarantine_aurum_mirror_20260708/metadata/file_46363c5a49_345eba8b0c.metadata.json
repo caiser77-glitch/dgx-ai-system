@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_46363c5a49.txt",
+  "source_name": "file_46363c5a49.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:35+09:00",
+  "processed_at": "2026-07-08T13:51:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_46363c5a49_345eba8b0c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_46363c5a49_345eba8b0c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천 지역의 곤충 채집 관련 야장 기록 이미지입니다.",
+      "파일 경로는 음성천 현장 조사 데이터 중 야장 및 영수증 분류에 속합니다.",
+      "흑백(L mode) 형식의 JPEG 이미지로 구성된 문서 자료입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "곤충 채집",
+      "야장"
+    ]
+  }
+}

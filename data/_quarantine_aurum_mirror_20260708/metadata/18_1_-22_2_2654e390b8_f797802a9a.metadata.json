@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/18_1_-22_2_2654e390b8.txt",
+  "source_name": "18_1_-22_2_2654e390b8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:46:58+09:00",
+  "processed_at": "2026-07-08T13:47:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/18_1_-22_2_2654e390b8_f797802a9a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/18_1_-22_2_2654e390b8_f797802a9a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2018년부터 2022년까지 도근천의 저서성 대형 무척추동물 출현종 정보를 포함한 데이터입니다.",
+      "하천 생물측정망 데이터를 바탕으로 시간 및 위치별 종 분포를 기록하고 있습니다.",
+      "단일 시트로 구성되어 있으며 현재 1행 1열의 기초 데이터가 포함된 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "도근천",
+      "저서성 대형 무척추동물",
+      "하천 생물측정망"
+    ]
+  }
+}

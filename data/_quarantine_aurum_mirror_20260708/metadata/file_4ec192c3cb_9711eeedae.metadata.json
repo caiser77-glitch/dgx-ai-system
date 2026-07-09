@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4ec192c3cb.txt",
+  "source_name": "file_4ec192c3cb.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:54+09:00",
+  "processed_at": "2026-07-08T13:52:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4ec192c3cb_9711eeedae.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4ec192c3cb_9711eeedae.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "이미지 파일명은 '원더랜드의 숲 이미지'이며 확장자는 jpg입니다.",
+      "파일 크기는 약 3MB이며 해상도는 3360x2160(RGB 모드)입니다.",
+      "경로를 통해 설계도면 관련 폴더 내에 저장된 파일임을 알 수 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 파일",
+      "설계도면",
+      "원더랜드의 숲"
+    ]
+  }
+}

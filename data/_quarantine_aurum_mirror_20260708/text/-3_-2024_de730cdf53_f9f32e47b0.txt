@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 측정표, 성남낙생, 성남금토
+● 3줄 요약:
+- 성남낙생과 성남금토 지역의 3차년 조사 결과를 담고 있습니다.
+- 2024년 공동 조사의 측정표로, 파일 크기는 226,820 바이트입니다.
+- OCR 처리 중 인코딩 오류가 발생하여 내용 추출이 불가능합니다.
+=========================================
+source_name: 측정표(성남낙생&성남금토-3차년)-2024년(공동).pdf
+source_type: pdf
+size_bytes: 226820
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-15: ordinal not in range(128)

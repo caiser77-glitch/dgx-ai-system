@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/BM1-0900__2026.05.30_f57aa21916.txt",
+  "source_name": "BM1-0900__2026.05.30_f57aa21916.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:45:58+09:00",
+  "processed_at": "2026-07-08T11:46:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/BM1-0900__2026.05.30_f57aa21916_a6484ed110.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/BM1-0900__2026.05.30_f57aa21916_a6484ed110.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 지원되지 않는 파일 형식으로 인해 내용 추출이 불가능합니다.",
+      "파일 크기는 32,644,608 바이트입니다.",
+      "문서 이름은 'BM1-0900(부록)_2026.05.30(주)아우룸생태연구소.hwp'입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "hwp",
+      "파일 크기"
+    ]
+  }
+}

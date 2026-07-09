@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_-2025.06.25_d9eb738a84.txt",
+  "source_name": "-_-2025.06.25_d9eb738a84.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:58+09:00",
+  "processed_at": "2026-07-08T12:11:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_-2025.06.25_d9eb738a84_15b5b2e628.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_-2025.06.25_d9eb738a84_15b5b2e628.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "진천초평 일반산단에서 왕은점표범나비에 대한 조사 결과를 발표",
+      "조사 결과를 바탕으로 왕은점표범나비의 보호 방안 제시",
+      "2025년 6월 25일에 작성된 보고서"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "왕은점표범나비",
+      "조사결과",
+      "보호방안"
+    ]
+  }
+}

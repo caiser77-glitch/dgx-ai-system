@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-12000_1c54bc79c7.txt",
+  "source_name": "-12000_1c54bc79c7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:20:53+09:00",
+  "processed_at": "2026-07-08T12:21:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-12000_1c54bc79c7_651370ac05.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-12000_1c54bc79c7_651370ac05.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "우주센터-12000에 대한 종합평가 및 결론을 다루고 있습니다.",
+      "파일 크기는 9,369,441 바이트이며 PDF 형식의 문서입니다.",
+      "OCR 처리 과정에서 파일명 내 제어 문자 포함으로 인한 오류가 발생했습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "우주센터-12000",
+      "종합평가",
+      "결론"
+    ]
+  }
+}

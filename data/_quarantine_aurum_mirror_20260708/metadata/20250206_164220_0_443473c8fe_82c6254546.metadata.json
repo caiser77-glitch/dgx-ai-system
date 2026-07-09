@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250206_164220_0_443473c8fe.txt",
+  "source_name": "20250206_164220_0_443473c8fe.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T12:14:45+09:00",
+  "processed_at": "2026-06-23T12:15:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250206_164220_0_443473c8fe_82c6254546.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250206_164220_0_443473c8fe_82c6254546.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 고흥 산단",
+    "project_name": "환평자료 현장조사",
+    "class_name": "현장조사 사진",
+    "tags": [
+      "#현장조사",
+      "#고흥산단",
+      "#환평자료"
+    ],
+    "summary": "2025년 2월 6일 고흥 산단 환평자료 현장조사 사진. Samsung Galaxy S24+로 촬영.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 2월 6일에 촬영된 고화질 사진",
+      "사진은 고흥 산단에서 촬영되었으며 GPS 좌표는 34.459383, 127.483168",
+      "삼성 Galaxy S24+로 촬영된 RGB 모드의 JPEG 형식 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "GPS 좌표",
+      "Galaxy S24+"
+    ]
+  }
+}

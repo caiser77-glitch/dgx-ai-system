@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2020_366062_-_fe59c20b8b.txt",
+  "source_name": "5_2020_366062_-_fe59c20b8b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:51:43+09:00",
+  "processed_at": "2026-07-08T11:51:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2020_366062_-_fe59c20b8b_76e9c6b614.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2020_366062_-_fe59c20b8b_76e9c6b614.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제5차 전국자연환경조사 2020년도 부석 지역 포유류 조사 보고서입니다.",
+      "해당 문서는 PDF 형식의 연구 데이터로 파일 크기는 약 991KB입니다.",
+      "OCR 처리 오류 및 지원되지 않는 파일 유형으로 인해 상세 내용 추출이 불가합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "포유류",
+      "부석"
+    ]
+  }
+}

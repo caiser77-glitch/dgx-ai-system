@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_e750c658c0.txt",
+  "source_name": "file_e750c658c0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:43:16+09:00",
+  "processed_at": "2026-07-08T13:43:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_e750c658c0_b5f30a798b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_e750c658c0_b5f30a798b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "부장리 고분군에 대한 토지이용계획, 시설 및 도로 조사 결과를 포함한 문서입니다.",
+      "토지이용계획표(29행 6열), 시설조서(94행 13열), 도로조서(21행 10열)로 구성되어 있습니다.",
+      "각 시트는 해당 분야의 상세 정보를 제공하여 고분군의 전체적인 조성 계획을 지원합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "부장리 고분군",
+      "토지이용계획",
+      "시설조서"
+    ]
+  }
+}

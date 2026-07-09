@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4_644758d5b4.txt",
+  "source_name": "4_644758d5b4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:20:40+09:00",
+  "processed_at": "2026-07-08T13:20:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/4_644758d5b4_82d1a3633b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/4_644758d5b4_82d1a3633b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 PDF 형태로 제공되나, OCR 처리 과정에서 인코딩 오류가 발생하여 내용 추출이 불가능합니다.",
+      "파일 크기는 1,088,085 바이트이며, 대상 지역의 주변 지역에 대한 토지 이용 현황에 관한 자료로 추정됩니다.",
+      "문서의 정확한 내용을 확인하기 위해서는 인코딩 문제를 해결하거나 다른 방법으로 접근해야 합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "PDF",
+      "토지 이용 현황",
+      "OCR 오류"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061684_02369f85e1.txt",
+  "source_name": "R0061684_02369f85e1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:28:39+09:00",
+  "processed_at": "2026-07-08T09:28:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061684_02369f85e1_f334bbaadc.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061684_02369f85e1_f334bbaadc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 데이터입니다.",
+      "촬영 일시는 2026년 5월 28일 18시 56분이며 위치 정보가 포함되어 있습니다.",
+      "고덕강일 모니터링 현장의 사진 자료로 분류됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "RICOH WG-6",
+      "모니터링",
+      "현장사진"
+    ]
+  }
+}

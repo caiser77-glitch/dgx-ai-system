@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/6_2024_-_a80afe458d.txt",
+  "source_name": "6_2024_-_a80afe458d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:56:34+09:00",
+  "processed_at": "2026-07-08T11:56:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/6_2024_-_a80afe458d_4edb7aa051.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/6_2024_-_a80afe458d_4edb7aa051.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제6차 전국자연환경조사 2024년도 진천 지역 포유류 조사 보고서입니다.",
+      "해당 문서는 PDF 형식의 연구 데이터로 파일 크기는 약 3MB입니다.",
+      "OCR 처리 오류로 인해 일부 내용 추출이 제한적일 수 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "진천",
+      "포유류"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 현장조사, PDF, OCR 오류
+● 3줄 요약:
+- 2월 현장조사 확인서 PDF 파일(293,546 바이트)에 대한 분석 결과입니다.
+- 파일 유형 미지원으로 인해 내용 추출 작업이 실패하였습니다.
+- OCR 처리 과정에서 URL 내 제어 문자 포함으로 인한 오류가 발생했습니다.
+=========================================
+source_name: 2월 현장조사 확인서.pdf
+source_type: pdf
+size_bytes: 293546
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2월 현장조사 확인서_pages_1_taxa.xlsx' (found at least ' ')

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-11000__-_-2025.11.03_ffb98d8446.txt",
+  "source_name": "-11000__-_-2025.11.03_ffb98d8446.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:03:36+09:00",
+  "processed_at": "2026-07-08T12:03:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-11000__-_-2025.11.03_ffb98d8446_4d77369fc7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-11000__-_-2025.11.03_ffb98d8446_4d77369fc7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아산 방축지구-11000에 대한 종합평가 및 결론을 다룹니다.",
+      "문서의 내용 추출이 지원되지 않는 파일 형식으로 인해 불가능합니다.",
+      "(주)아우룸생태연구소에서 2025년 11월 3일에 수정된 문서입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "아산 방축지구",
+      "종합평가",
+      "결론"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2022_-_377091_fc92acb0b4.txt",
+  "source_name": "5_2022_-_377091_fc92acb0b4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:53:27+09:00",
+  "processed_at": "2026-07-08T11:53:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2022_-_377091_fc92acb0b4_5546a467f1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2022_-_377091_fc92acb0b4_5546a467f1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "5차 전국자연환경조사의 육상곤충 관련 보고서입니다.",
+      "둔전 지역(377091)에 대한 조사 결과를 담고 있습니다.",
+      "OCR 처리 실패로 인해 상세 내용 추출이 불가능한 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "5차 전국자연환경조사",
+      "둔전",
+      "육상곤충"
+    ]
+  }
+}

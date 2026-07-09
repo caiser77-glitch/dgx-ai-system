@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/THP0600_5847a00148.txt",
+  "source_name": "THP0600_5847a00148.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:58+09:00",
+  "processed_at": "2026-07-08T11:48:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/THP0600_5847a00148_d315e4671c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/THP0600_5847a00148_d315e4671c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 'THP0600 환경영향조사결과 종합평가'는 HWP 파일 형식으로 제공되었습니다.",
+      "파일 크기는 73,216 바이트이며, 현재 지원되지 않는 파일 형식으로 인해 내용 추출이 불가능합니다.",
+      "따라서, 이 문서의 상세한 내용과 키워드를 제공할 수 없습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "HWP",
+      "환경영향조사",
+      "종합평가"
+    ]
+  }
+}

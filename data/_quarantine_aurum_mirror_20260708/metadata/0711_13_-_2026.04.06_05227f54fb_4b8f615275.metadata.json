@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0711_13_-_2026.04.06_05227f54fb.txt",
+  "source_name": "0711_13_-_2026.04.06_05227f54fb.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:47+09:00",
+  "processed_at": "2026-07-08T11:50:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0711_13_-_2026.04.06_05227f54fb_4b8f615275.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0711_13_-_2026.04.06_05227f54fb_4b8f615275.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소에서 작성한 시도13호선 확장 관련 동식물상 조사 보고서입니다.",
+      "2026년 4월 6일에 작성된 문서로 HWP 파일 형식으로 제공됩니다.",
+      "파일 크기는 약 49MB이며, 내용 추출을 위해서는 직접 열람이 필요합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "동식물상",
+      "시도13호선 확장",
+      "아우룸생태연구소"
+    ]
+  }
+}

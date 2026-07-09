@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2025.05.11_13-_58361d681b.txt",
+  "source_name": "-2025.05.11_13-_58361d681b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T21:44:55+09:00",
+  "processed_at": "2026-06-22T21:46:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-2025.05.11_13-_58361d681b_eb5ac9c7e8.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-2025.05.11_13-_58361d681b_eb5ac9c7e8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 포항 혁신도시",
+    "project_name": "포항 혁신도시",
+    "class_name": "파충류",
+    "tags": [
+      "#포항 혁신도시",
+      "#파충류",
+      "#야장"
+    ],
+    "summary": "포항 혁신도시에서 촬영한 파충류 야장 사진. 크기: 2480x3507, 모노크롬JPEG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 2025년 5월 11일부터 13일까지 진행된 파충류 야장 활동 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "야장 활동 관련 영수증과 함께 저장된 문서"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "파충류 야장",
+      "야장 활동"
+    ]
+  }
+}

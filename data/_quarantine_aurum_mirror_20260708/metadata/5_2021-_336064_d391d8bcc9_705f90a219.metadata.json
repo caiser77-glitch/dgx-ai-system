@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2021-_336064_d391d8bcc9.txt",
+  "source_name": "5_2021-_336064_d391d8bcc9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:49:55+09:00",
+  "processed_at": "2026-07-08T11:50:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2021-_336064_d391d8bcc9_705f90a219.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2021-_336064_d391d8bcc9_705f90a219.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제5차 전국자연환경조사 2021년 육상곤충 관련 보고서입니다.",
+      "파일 크기는 약 1.87MB의 PDF 형식 문서입니다.",
+      "OCR 처리 오류로 인해 상세 내용 추출이 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "육상곤충",
+      "PDF"
+    ]
+  }
+}

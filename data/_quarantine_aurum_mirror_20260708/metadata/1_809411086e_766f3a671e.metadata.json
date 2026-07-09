@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_809411086e.txt",
+  "source_name": "1_809411086e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:15:47+09:00",
+  "processed_at": "2026-06-29T17:17:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_809411086e_766f3a671e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_809411086e_766f3a671e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고라니 사진, 1024x768 해상도, RGB 모드, JPEG 형식",
+      "파일 크기: 494,411 바이트",
+      "경북 경산에서 촬영된 포유류 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고라니",
+      "포유류",
+      "경북 경산"
+    ]
+  }
+}

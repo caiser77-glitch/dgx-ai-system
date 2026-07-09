@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-04_cd1b10d5c7.3_14.csv",
+  "source_name": "01-04_cd1b10d5c7.3_14.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:42:54+09:00",
+  "processed_at": "2026-07-08T13:43:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-04_cd1b10d5c7.3_14_3f6b36018b.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-04_cd1b10d5c7.3_14_3f6b36018b.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-04_cd1b10d5c7.3_14_3f6b36018b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 소3연14를 포함한 데이터 구조를 가진 CSV 형식의 파일입니다.",
+      "총 26개의 행(row)으로 구성되어 있으며 컬럼 정보가 제공되었습니다.",
+      "데이터의 구체적인 수치보다는 파일의 메타데이터 정보를 담고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 데이터",
+      "메타데이터",
+      "행 개수"
+    ]
+  }
+}

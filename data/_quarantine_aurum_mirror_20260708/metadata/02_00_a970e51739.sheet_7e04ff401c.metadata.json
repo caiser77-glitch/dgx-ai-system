@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02_00_a970e51739.sheet.csv",
+  "source_name": "02_00_a970e51739.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:42:39+09:00",
+  "processed_at": "2026-07-08T11:42:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.sheet_7e04ff401c.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/02_00_a970e51739.sheet_7e04ff401c.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.sheet_7e04ff401c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 '우수공수량산출서'를 포함한 CSV 형식의 데이터 파일입니다.",
+      "총 29개의 행(row)으로 구성되어 있으며, 우수 관련 공수 산출 정보를 담고 있습니다.",
+      "파일 구조상 첫 번째 열이 주요 데이터 항목인 것으로 파악됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "우수공수량산출서",
+      "CSV 데이터",
+      "공수 산출"
+    ]
+  }
+}

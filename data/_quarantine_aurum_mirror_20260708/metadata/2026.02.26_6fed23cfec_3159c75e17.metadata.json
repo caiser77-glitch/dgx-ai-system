@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.26_6fed23cfec.txt",
+  "source_name": "2026.02.26_6fed23cfec.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:55:25+09:00",
+  "processed_at": "2026-06-23T17:56:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.26_6fed23cfec_3159c75e17.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.26_6fed23cfec_3159c75e17.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 성남낙생",
+    "project_name": "성남낙생 양서류 조사",
+    "class_name": "양서류",
+    "tags": [
+      "#성남낙생",
+      "#양서류",
+      "#조사"
+    ],
+    "summary": "2026년 2월 26일 성남낙생에서 촬영된 양서류 사진입니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 26일 성남낙생에서 촬영된 양서류 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "파일 크기는 465,030 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "양서류",
+      "성남낙생",
+      "야장"
+    ]
+  }
+}

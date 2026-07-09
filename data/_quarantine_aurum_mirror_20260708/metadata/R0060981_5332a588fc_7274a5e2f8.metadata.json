@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060981_5332a588fc.txt",
+  "source_name": "R0060981_5332a588fc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:52:10+09:00",
+  "processed_at": "2026-07-08T09:52:18+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060981_5332a588fc_7274a5e2f8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060981_5332a588fc_7274a5e2f8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 5월 6일 오전 8시 26분에 촬영된 RICOH WG-6 카메라 이미지 데이터입니다.",
+      "평택호 사후 모니터링 과정 중 0506 현장 조사 기록의 일환으로 생성되었습니다.",
+      "GPS 좌표(37.026775, 126.873737)를 포함한 위치 정보가 기록된 사진 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "평택호",
+      "모니터링",
+      "현장사진"
+    ]
+  }
+}

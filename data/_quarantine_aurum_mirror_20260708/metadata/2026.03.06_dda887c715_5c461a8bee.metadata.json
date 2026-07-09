@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.06_dda887c715.txt",
+  "source_name": "2026.03.06_dda887c715.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:16:29+09:00",
+  "processed_at": "2026-06-23T18:17:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.06_dda887c715_5c461a8bee.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.06_dda887c715_5c461a8bee.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "군포대야미",
+    "class_name": "포유류",
+    "tags": [
+      "#군포대야미",
+      "#포유류",
+      "#2026"
+    ],
+    "summary": "2026년 3월 6일 군포대야미에서 촬영된 포유류 사진에 대한 메타데이터.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "군포대야미 지역에서 촬영된 포유류 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 이미지",
+      "2026년 3월 6일에 촬영된 야장 자료"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "군포대야미",
+      "포유류",
+      "야장"
+    ]
+  }
+}

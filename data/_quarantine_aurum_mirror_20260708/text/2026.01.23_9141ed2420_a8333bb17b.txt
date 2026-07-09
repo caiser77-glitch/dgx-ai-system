@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 영수증
+● 핵심 키워드: 영수증, 계양 오금리, CamScanner
+● 3줄 요약:
+- 2026년 1월 23일 계양 오금리에서 촬영된 영수증 이미지
+- CamScanner를 사용하여 촬영된 RGB 모드의 JPEG 이미지
+- 이미지 크기는 641x1279 픽셀, 파일 크기는 232,658 바이트
+=========================================
+source_name: 2026.01.23 계양 오금리 시작.jpg
+source_type: jpg
+size_bytes: 232658
+path: /mnt/dgxbackup/2026 이산/계양 테크노밸리 사후/05. 야장 및 영수증/영수증/1분기/2026.01.23 계양 오금리 시작.jpg
+width: 641
+height: 1279
+mode: RGB
+format: JPEG
+camera_model: CamScanner

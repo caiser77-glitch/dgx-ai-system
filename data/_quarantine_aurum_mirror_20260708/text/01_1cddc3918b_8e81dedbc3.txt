@@ -1,0 +1,55 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 01. 토공수량집계 .xlsx
+source_type: xlsx
+sheet: 목차, rows: 39, columns: 9
+sheet: 간지(내역서적용수량), rows: 5, columns: 3
+sheet: 내역서, rows: 117, columns: 14
+sheet: 내역적용수량, rows: 189, columns: 11
+sheet: 간지(토공총괄표), rows: 5, columns: 3
+sheet: 토공총괄수량집계, rows: 51, columns: 20
+sheet: 간지(토량유용계획), rows: 5, columns: 3
+sheet: 유용계획표, rows: 36, columns: 13
+sheet: 토공수량 집계표, rows: 69, columns: 18
+sheet: 간지(공종별토량집계표), rows: 10, columns: 12
+sheet: 공제토량집계표(노상노체), rows: 27, columns: 9
+sheet: 공종별토공집계표, rows: 20, columns: 13
+sheet: 간지(총괄토량집계표), rows: 6, columns: 3
+sheet: 토공총괄토적표, rows: 47, columns: 22
+sheet: 간지(토량이동), rows: 5, columns: 3
+sheet: 이동집계표, rows: 25, columns: 19
+sheet: 2차무대량(토사), rows: 36, columns: 6
+sheet: 2차무대량(풍화암), rows: 22, columns: 6
+sheet: 도쟈운반(토사), rows: 125, columns: 10
+sheet: 도쟈운반(풍화암), rows: 12, columns: 10
+sheet: 덤프운반(토사), rows: 11, columns: 10
+sheet: 덤프운반(풍화암), rows: 15, columns: 12
+sheet: 덤프운반(발파암), rows: 11, columns: 12
+sheet: 덤프운반(연암), rows: 13, columns: 12
+sheet: 덤프운반(경암), rows: 16, columns: 12
+sheet: 연약지반덤프운반, rows: 6, columns: 8
+sheet: 치환터파기덤프운반, rows: 7, columns: 8
+sheet: 기타덤프운반(외부반입토사), rows: 7, columns: 8
+sheet: 간지(비옥토), rows: 5, columns: 3
+sheet: 비옥토수량집계표, rows: 17, columns: 8
+sheet: 비옥토적치장수량집계표, rows: 12, columns: 11
+sheet: 적치장수량산출, rows: 5, columns: 7
+sheet: 비옥토적치장단위, rows: 151, columns: 8
+sheet: 적치장단위, rows: 68, columns: 26
+sheet: 비옥토-적치고산출, rows: 10, columns: 8
+sheet: 비옥토수량산출서, rows: 13, columns: 7
+sheet: 비옥토덤프운반거리, rows: 12, columns: 7
+sheet: 간지(표토제거), rows: 5, columns: 3
+sheet: 표토수량집계표, rows: 10, columns: 6
+sheet: 표토적치장수량집계표, rows: 15, columns: 12
+sheet: 표토적치장수량산출, rows: 6, columns: 8
+sheet: 표토적치장단위, rows: 155, columns: 7
+sheet: 적치장단위 (2), rows: 42, columns: 104
+sheet: 표토제거덤프운반거리, rows: 8, columns: 7
+sheet: 간지(규준틀), rows: 5, columns: 3
+sheet: 규준틀집계표, rows: 81, columns: 22
+sheet: 규준틀수량산출, rows: 21, columns: 8

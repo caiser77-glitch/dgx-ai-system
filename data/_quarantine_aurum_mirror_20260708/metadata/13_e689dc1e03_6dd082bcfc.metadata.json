@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/13_e689dc1e03.txt",
+  "source_name": "13_e689dc1e03.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:06:37+09:00",
+  "processed_at": "2026-06-22T23:07:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/13_e689dc1e03_6dd082bcfc.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/13_e689dc1e03_6dd082bcfc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "양정역세권 13호선",
+    "class_name": "시도13(시도, 국지도) 구간별 위치",
+    "tags": [
+      "#시도13",
+      "#국지도",
+      "#구간별위치"
+    ],
+    "summary": "시도13호선 구간별 위치를 나타내는 PNG 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "시도 13호선 구간별 위치를 나타내는 이미지 파일입니다.",
+      "이미지는 RGBA 모드로, 가로 2598px, 세로 1889px의 해상도를 가집니다.",
+      "파일 크기는 10,227,370 바이트이며, PNG 형식으로 저장되어 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "시도13호선",
+      "구간별위치",
+      "PNG"
+    ]
+  }
+}

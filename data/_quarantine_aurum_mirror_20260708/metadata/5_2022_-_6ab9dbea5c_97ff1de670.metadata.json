@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2022_-_6ab9dbea5c.txt",
+  "source_name": "5_2022_-_6ab9dbea5c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:13:43+09:00",
+  "processed_at": "2026-07-08T12:13:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2022_-_6ab9dbea5c_97ff1de670.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2022_-_6ab9dbea5c_97ff1de670.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제5차 전국자연환경조사 2022 포항 지역의 식물상을 다룬 PDF 문서입니다.",
+      "문서 크기는 약 1MB이며, 현재 OCR 처리에 실패한 상태입니다.",
+      "컨트롤 문자 포함 문제로 인해 데이터 추출 및 OCR 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "포항",
+      "식물상"
+    ]
+  }
+}

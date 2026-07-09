@@ -1,0 +1,49 @@
+---
+생성일: 2026-07-06
+장비명: overnight_batch
+원본이름: 2_96aebecc2c.txt
+원본유형: txt
+년도_업체: unknown
+사업명: unknown
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: Hermes binary not found locally.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #Users #nams #TXT
+---
+# 📄 2_96aebecc2c.txt 요약본
+
+* **처리 시각**: 2026-07-06T09:55:51+09:00
+* **년도_업체**: unknown
+* **사업명**: unknown
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_96aebecc2c.txt
+
+---
+### 🤖 AI 분석 요약
+> Hermes binary not found locally.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 2공구, 개발지역, 면적변경
+● 3줄 요약:
+- 2공구 개발지역의 면적 변경 데이터를 담은 엑셀 파일입니다.
+- Sheet1에 12개의 행과 9개의 열이 포함되어 있습니다.
+- Sheet2는 비어있는 상태입니다.
+=========================================
+source_name: 2공구 개발지역 면적변경 비교.xlsx
+source_type: xlsx
+sheet: Sheet1, rows: 12, columns: 9
+sheet: Sheet2, rows: 0, columns: 1
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [2_96aebecc2c.txt 열기](file:///Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_96aebecc2c.txt)

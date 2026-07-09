@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 파일, OCR 오류, 데이터 누락
+● 3줄 요약:
+- 제공된 문서 데이터에 대한 분석 결과입니다.
+- 파일 정보는 이미지 파일(JPG)로 확인됩니다.
+- OCR 오류 발생으로 인해 실제 내용 추출이 불가능합니다.
+=========================================
+source_name: R0040164.JPG
+source_type: jpg
+size_bytes: 1913341
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

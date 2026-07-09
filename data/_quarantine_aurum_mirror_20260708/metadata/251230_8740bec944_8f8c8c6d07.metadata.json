@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/251230_8740bec944.txt",
+  "source_name": "251230_8740bec944.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:59:13+09:00",
+  "processed_at": "2026-07-08T11:59:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/251230_8740bec944_8f8c8c6d07.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/251230_8740bec944_8f8c8c6d07.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "승인신청서 파일의 크기는 약 409MB입니다.",
+      "파일 형식 미지원으로 인해 콘텐츠 추출이 불가능한 상태입니다.",
+      "URL 내 제어 문자 포함으로 인해 OCR 처리에 실패하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "승인신청서",
+      "콘텐츠 추출 오류",
+      "OCR 처리 실패"
+    ]
+  }
+}

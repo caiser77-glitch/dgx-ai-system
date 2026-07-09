@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_72fdd58fe0.txt",
+  "source_name": "file_72fdd58fe0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:42+09:00",
+  "processed_at": "2026-07-08T13:52:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_72fdd58fe0_f3d2c69588.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_72fdd58fe0_f3d2c69588.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단 관련 착수보고회 제출용 대상 지역 설정 도면",
+      "대상 지역의 위치 및 범위를 시각적으로 나타낸 이미지 자료",
+      "2025년 3월 13일 환평자료의 일환으로 작성된 도면 파일"
+    ],
+    "category": "도면",
+    "keywords": [
+      "고흥 산단",
+      "대상지역설정도",
+      "착수보고회"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 블럭토적표, 엑셀, 시트
+● 3줄 요약:
+- 엑셀 파일 '01-05 블럭토적표.xlsx'는 여러 시트로 구성되어 있으며, 각 시트는 다양한 데이터를 포함하고 있습니다.
+- 총괄표 시트는 49행 53열로 가장 큰 크기를 가집니다. 보-1 시트는 83행 52열로 두 번째로 큰 크기입니다.
+- 대부분의 시트가 52열을 가진 반면, 행 수는 시트마다 크게 차이가 납니다.
+=========================================
+source_name: 01-05 블럭토적표.xlsx
+source_type: xlsx
+sheet: 산출근거, rows: 11, columns: 2
+sheet: 총괄표, rows: 49, columns: 53
+sheet: I, rows: 25, columns: 52
+sheet: J, rows: 18, columns: 52
+sheet: 나-3, rows: 25, columns: 52
+sheet: 나-4, rows: 33, columns: 52
+sheet: 나-5, rows: 29, columns: 52
+sheet: 나-6, rows: 27, columns: 52
+sheet: 나-7, rows: 31, columns: 52
+sheet: 나-8, rows: 23, columns: 52
+sheet: 다-1, rows: 29, columns: 52
+sheet: 보-1, rows: 83, columns: 52
+sheet: 보-10, rows: 55, columns: 52
+sheet: 보-11, rows: 29, columns: 52
+sheet: 보-12, rows: 43, columns: 52
+sheet: 보-13, rows: 65, columns: 52
+sheet: 보-14, rows: 61, columns: 52
+sheet: 보-15, rows: 39, columns: 52
+sheet: 보-16, rows: 41, columns: 52
+sheet: 보-17, rows: 35, columns: 52
+sheet: 보-18, rows: 27, columns: 52
+sheet: 보-2, rows: 64, columns: 52
+sheet: 보-4, rows: 57, columns: 52
+sheet: 보-5, rows: 35, columns: 52
+sheet: 보-6, rows: 59, columns: 52
+sheet: 보-7, rows: 33, columns: 52
+sheet: 보-8, rows: 33, columns: 52
+sheet: 보-9, rows: 39, columns: 52
+sheet: 보3, rows: 82, columns: 52
+sheet: 중로3진1-2, rows: 35, columns: 52
+sheet: 중로3진1-3, rows: 39, columns: 52
+sheet: 보조사면-1, rows: 26, columns: 52
+sheet: 나ㅡ4, rows: 13, columns: 52
+sheet: 법면-1, rows: 65, columns: 52
+sheet: 법면-2, rows: 32, columns: 52
+sheet: 법면-3, rows: 22, columns: 52
+sheet: 법면-4, rows: 22, columns: 52
+sheet: 사선형-1, rows: 14, columns: 52
+sheet: 사선형-2, rows: 15, columns: 52
+sheet: 사선형-3, rows: 18, columns: 52
+sheet: 사선형-4, rows: 15, columns: 52
+sheet: 사선형-5, rows: 13, columns: 52
+sheet: 사선형-6, rows: 18, columns: 52
+sheet: 사선형-7, rows: 13, columns: 52

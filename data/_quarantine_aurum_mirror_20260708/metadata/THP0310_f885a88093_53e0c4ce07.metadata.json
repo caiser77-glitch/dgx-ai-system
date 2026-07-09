@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/THP0310_f885a88093.txt",
+  "source_name": "THP0310_f885a88093.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:48:01+09:00",
+  "processed_at": "2026-07-08T11:48:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/THP0310_f885a88093_53e0c4ce07.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/THP0310_f885a88093_53e0c4ce07.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 'THP0310 환경영향조사 실시내용 및 조사결과에 따른 조치 등'은 환경 영향 조사와 관련된 내용을 담고 있습니다.",
+      "파일 형식이 지원되지 않아 실제 문서의 세부 내용은 추출되지 않았습니다.",
+      "해당 문서는 hwp 형식의 파일로 내용 확인이 불가능한 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향조사",
+      "조치",
+      "hwp"
+    ]
+  }
+}

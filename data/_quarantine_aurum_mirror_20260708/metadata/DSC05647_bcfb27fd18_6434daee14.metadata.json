@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05647_bcfb27fd18.txt",
+  "source_name": "DSC05647_bcfb27fd18.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T12:06:19+09:00",
+  "processed_at": "2026-06-30T12:09:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/DSC05647_bcfb27fd18_6434daee14.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/DSC05647_bcfb27fd18_6434daee14.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일 오전 5시 49분에 촬영된 사진",
+      "울산 온산국가산업단지에서 진행된 1차 조사의 결과물",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "울산 온산국가산업단지",
+      "1차조사",
+      "SONY ILCE-7RM4"
+    ]
+  }
+}

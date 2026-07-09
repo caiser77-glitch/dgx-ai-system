@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/6_2024_-_b457f1ec5c.txt",
+  "source_name": "6_2024_-_b457f1ec5c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:56:37+09:00",
+  "processed_at": "2026-07-08T11:56:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/6_2024_-_b457f1ec5c_b50ffe5edd.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/6_2024_-_b457f1ec5c_b50ffe5edd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제6차 전국자연환경조사 2024년도 진천 지역 육상곤충에 관한 연구 보고서입니다.",
+      "파일 크기는 약 8.7MB이며, 시스템 오류로 인해 OCR 처리가 실패하였습니다.",
+      "URL 내 제어 문자 포함 문제로 인해 파일 내용 추출이 정상적으로 이루어지지 않았습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "진천",
+      "육상곤충"
+    ]
+  }
+}

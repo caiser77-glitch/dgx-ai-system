@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/07_233861c512.60_5df4705ee3.csv",
+  "source_name": "07_233861c512.60_5df4705ee3.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:33:31+09:00",
+  "processed_at": "2026-07-08T11:33:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512.60_5df4705ee3_fbbefbaf8b.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/07_233861c512.60_5df4705ee3_fbbefbaf8b.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512.60_5df4705ee3_fbbefbaf8b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 보도블럭(T60) 품목의 단위 수량을 포함한 CSV 데이터 파일입니다.",
+      "총 37개의 행으로 구성되어 있으며 특정 자재의 수량 정보를 담고 있습니다.",
+      "아우룸생태연구소의 자재 관리 또는 현장 물품 목록을 나타내는 것으로 판단됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "보도블럭(T60)",
+      "단위수량",
+      "CSV 데이터"
+    ]
+  }
+}

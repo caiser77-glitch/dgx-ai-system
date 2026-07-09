@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039652_60008571ee.txt",
+  "source_name": "R0039652_60008571ee.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:42:18+09:00",
+  "processed_at": "2026-07-08T14:42:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039652_60008571ee_9701030de8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039652_60008571ee_9701030de8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 왼돌이물달팽이 사진 데이터입니다.",
+      "2026년 3월 4일 오전 10시 41분에 과천 주암 지역에서 촬영되었습니다.",
+      "이미지 파일 형식은 MPO이며 RGB 모드로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "왼돌이물달팽이",
+      "과천주암",
+      "생태사진"
+    ]
+  }
+}

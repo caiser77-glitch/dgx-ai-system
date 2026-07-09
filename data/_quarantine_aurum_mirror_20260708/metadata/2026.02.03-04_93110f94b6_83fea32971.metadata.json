@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.03-04_93110f94b6.txt",
+  "source_name": "2026.02.03-04_93110f94b6.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:03:51+09:00",
+  "processed_at": "2026-06-23T17:04:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.03-04_93110f94b6_83fea32971.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.03-04_93110f94b6_83fea32971.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "서수평장",
+    "class_name": "파충류",
+    "tags": [
+      "#파충류",
+      "#서수평장",
+      "#AURUM"
+    ],
+    "summary": "2026년 2월 3-4일 촬영된 서수평장 파충류 이미지. OCR 처리 중 서버 에러 발생.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서수평장에서 촬영된 파충류 사진",
+      "JPEG 형식, 2480x3507 픽셀, 459KB 크기",
+      "OCR 처리 시 서버 오류 발생"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "서수평장",
+      "파충류",
+      "사진"
+    ]
+  }
+}

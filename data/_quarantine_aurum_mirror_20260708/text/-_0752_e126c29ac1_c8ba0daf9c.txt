@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 파일크기, OCR오류
+● 3줄 요약:
+- 해당 문서는 PDF 형식의 파일로 약 58.5MB의 용량을 가집니다.
+- 현재 시스템상에서 직접적인 내용 추출이 지원되지 않는 유형입니다.
+- OCR 처리 과정에서 특정 위치의 문자 인코딩 오류가 발생하였습니다.
+=========================================
+source_name: (충주-본안)0752+소음진동.pdf
+source_type: pdf
+size_bytes: 58454871
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

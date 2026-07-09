@@ -1,0 +1,13 @@
+source_name: IMG_4292.JPG
+source_type: jpg
+size_bytes: 8447317
+path: /mnt/dgxbackup/2026 이산/광주도시철도/02. 사진/2026.05.07-08/석과 식물/IMG_4292.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:07 17:19:16
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.175252
+gps_lon: 126.841705

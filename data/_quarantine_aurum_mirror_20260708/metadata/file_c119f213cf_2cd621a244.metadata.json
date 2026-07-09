@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_c119f213cf.txt",
+  "source_name": "file_c119f213cf.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:50:49+09:00",
+  "processed_at": "2026-07-08T13:50:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_c119f213cf_2cd621a244.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_c119f213cf_2cd621a244.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "부엉이 티핑버켓 관련 이미지 파일에 대한 메타데이터 정보입니다.",
+      "파일 경로는 설계도면 폴더 내의 JPG 형식 이미지로 확인됩니다.",
+      "이미지의 해상도는 3888x4051이며 RGB 모드로 구성되어 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "부엉이 티핑버켓",
+      "설계도면",
+      "이미지 메타데이터"
+    ]
+  }
+}

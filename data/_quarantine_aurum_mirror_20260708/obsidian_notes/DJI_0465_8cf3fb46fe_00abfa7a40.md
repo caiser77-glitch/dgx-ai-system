@@ -1,0 +1,50 @@
+---
+생성일: 2026-06-30
+장비명: overnight_batch
+원본이름: DJI_0465_8cf3fb46fe.txt
+원본유형: txt
+년도_업체: unknown
+사업명: unknown
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: Hermes binary not found locally.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #Users #nams #TXT
+---
+# 📄 DJI_0465_8cf3fb46fe.txt 요약본
+
+* **처리 시각**: 2026-06-30T11:58:26+09:00
+* **년도_업체**: unknown
+* **사업명**: unknown
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_0465_8cf3fb46fe.txt
+
+---
+### 🤖 AI 분석 요약
+> Hermes binary not found locally.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: DJI_0465.JPG
+source_type: jpg
+size_bytes: 6080659
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.04 드론영상(외부유출 주의)/드론/DJI_0465.JPG
+width: 4032
+height: 3024
+mode: RGB
+format: MPO
+datetime_taken: 2025:02:07 16:53:57
+camera_make: DJI
+camera_model: FC3582
+gps_lat: 34.447535
+gps_lon: 127.489798
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [DJI_0465_8cf3fb46fe.txt 열기](file:///Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_0465_8cf3fb46fe.txt)

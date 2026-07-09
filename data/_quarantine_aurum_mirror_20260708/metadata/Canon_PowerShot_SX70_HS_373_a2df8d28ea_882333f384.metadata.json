@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_373_a2df8d28ea.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_373_a2df8d28ea.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T23:17:41+09:00",
+  "processed_at": "2026-06-23T23:18:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_373_a2df8d28ea_882333f384.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_373_a2df8d28ea_882333f384.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 Canon",
+    "project_name": "고흥 산단",
+    "class_name": "사진",
+    "tags": [
+      "#Canon_PowerShot_SX70_HS",
+      "#고흥_산단",
+      "#2025_03_25"
+    ],
+    "summary": "2025년 3월 25일에 촬영된 Canon PowerShot SX70 HS 카메라 사진. 크기는 5184x3888 픽셀, RGB 모드, MPO 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS로 촬영된 사진",
+      "2025년 3월 25일 11시 09분 06초에 촬영",
+      "해상도 5184x3888, RGB 모드, MPO 형식"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "사진",
+      "MPO"
+    ]
+  }
+}

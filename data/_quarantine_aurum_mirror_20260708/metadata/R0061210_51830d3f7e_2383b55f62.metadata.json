@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061210_51830d3f7e.txt",
+  "source_name": "R0061210_51830d3f7e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:47:11+09:00",
+  "processed_at": "2026-07-08T09:47:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061210_51830d3f7e_2383b55f62.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061210_51830d3f7e_2383b55f62.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.",
+      "촬영 일시는 2026년 4월 24일 오후 5시 27분입니다.",
+      "동북아엘엔지허브터미널 해충조사 관련 사진 데이터입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "해충조사",
+      "RICOH WG-6",
+      "이미지 메타데이터"
+    ]
+  }
+}

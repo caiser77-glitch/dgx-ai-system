@@ -1,0 +1,13 @@
+source_name: IMG_0236.JPG
+source_type: jpg
+size_bytes: 4379340
+path: /mnt/dgxbackup/2026 KCI/성남낙생 송전선로 소규모/02. 사진/2026.04.01/허과 조양/IMG_0236.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:04:01 11:54:28
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.35904
+gps_lon: 127.07534

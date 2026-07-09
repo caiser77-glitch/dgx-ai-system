@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0038021_6c8b30e1b0.txt",
+  "source_name": "R0038021_6c8b30e1b0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:57:41+09:00",
+  "processed_at": "2026-07-08T14:57:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0038021_6c8b30e1b0_1d8d154fde.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0038021_6c8b30e1b0_1d8d154fde.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 8일 오후 4시 42분경 포항 혁신도시 유대 육수에서 촬영된 사진 데이터입니다.",
+      "RICOH WG-6 카메라를 사용하여 촬영되었으며, GPS 좌표(36.101058, 129.398075)가 포함되어 있습니다.",
+      "해당 파일은 R0038021.JPG로, 이미지 크기는 5184x3888 해상도의 RGB 모드입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "유대 육수",
+      "현장 사진"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 동식물상, OCR 오류, PDF
+● 3줄 요약:
+- 문서는 동식물상에 대한 정보를 포함하고 있으나, OCR 오류로 인해 내용 추출이 불가능합니다.
+- 파일 크기는 11,949,483 바이트이며, PDF 형식입니다.
+- 문서의 이름은 '(본안)+07.1.1+동식물상(국가종합비행성능시험장).pdf'입니다.
+=========================================
+source_name: (본안)+07.1.1+동식물상(국가종합비행성능시험장).pdf
+source_type: pdf
+size_bytes: 11949483
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

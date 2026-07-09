@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1131_9b73e3721d.txt",
+  "source_name": "-1131_9b73e3721d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:39:01+09:00",
+  "processed_at": "2026-07-08T11:39:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-1131_9b73e3721d_d5b4926cb9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-1131_9b73e3721d_d5b4926cb9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '제안로-1131(환경친화적 토지이용).hwp'는 환경 친화적인 토지 이용에 대한 제안서입니다.",
+      "파일 크기는 68,694,528 바이트이며 HWP 파일 형식으로 제공되었습니다.",
+      "현재 해당 파일 형식은 콘텐츠 추출을 지원하지 않습니다."
+    ],
+    "category": "제안서",
+    "keywords": [
+      "환경친화적",
+      "토지이용",
+      "HWP"
+    ]
+  }
+}

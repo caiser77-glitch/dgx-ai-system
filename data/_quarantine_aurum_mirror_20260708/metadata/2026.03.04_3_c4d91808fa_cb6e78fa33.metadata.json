@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.04_3_c4d91808fa.txt",
+  "source_name": "2026.03.04_3_c4d91808fa.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:04:20+09:00",
+  "processed_at": "2026-06-23T18:05:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.04_3_c4d91808fa_cb6e78fa33.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.04_3_c4d91808fa_cb6e78fa33.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "과천주암 탐문",
+    "class_name": "야장",
+    "tags": [
+      "#야장",
+      "#과천주암",
+      "#2026"
+    ],
+    "summary": "2026년 3월 4일 과천주암 탐문 관련 야장 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 4일 과천주암 지역 탐문 활동 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "야장(野帳) 1분기 자료에 포함"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "과천주암",
+      "탐문",
+      "야장"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-08_e8196ce8c0.6.csv",
+  "source_name": "01-08_e8196ce8c0.6.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:50+09:00",
+  "processed_at": "2026-07-08T11:43:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0.6_236fa8af01.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-08_e8196ce8c0.6_236fa8af01.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0.6_236fa8af01.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 01-08_e8196ce8c0.6.csv 파일의 데이터 구조를 나타냅니다.",
+      "총 38개의 행으로 구성되어 있으며 호안헐기수량 컬럼을 포함하고 있습니다.",
+      "데이터의 세부 수치보다는 파일명과 열 이름 위주의 메타데이터 정보를 담고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "호안헐기수량",
+      "CSV 데이터",
+      "데이터 구조"
+    ]
+  }
+}

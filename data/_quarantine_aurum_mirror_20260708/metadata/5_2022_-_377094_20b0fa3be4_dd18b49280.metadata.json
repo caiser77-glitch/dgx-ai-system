@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2022_-_377094_20b0fa3be4.txt",
+  "source_name": "5_2022_-_377094_20b0fa3be4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:53:35+09:00",
+  "processed_at": "2026-07-08T11:53:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2022_-_377094_20b0fa3be4_dd18b49280.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2022_-_377094_20b0fa3be4_dd18b49280.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "5차 전국자연환경조사 2022년 능평 지역 보고서 PDF 파일",
+      "파일 크기: 853,004 바이트",
+      "OCR 처리 오류로 인해 콘텐츠 추출 불가"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "능평",
+      "PDF"
+    ]
+  }
+}

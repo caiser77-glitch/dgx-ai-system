@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/08_1e882f2eb0.5_794949d5cf.csv",
+  "source_name": "08_1e882f2eb0.5_794949d5cf.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:49+09:00",
+  "processed_at": "2026-07-08T11:32:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0.5_794949d5cf_9d647487b3.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/08_1e882f2eb0.5_794949d5cf_9d647487b3.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0.5_794949d5cf_9d647487b3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "레미콘, 거푸집, 잡석 등 건설 자재 및 공정별 수량 데이터 포함",
+      "터파기, 되메우기 등 토목 공사 관련 항목이 구성되어 있음",
+      "총 20개의 행으로 이루어진 CSV 형식의 물량 산출 내역서"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "레미콘",
+      "거푸집",
+      "토목공사"
+    ]
+  }
+}

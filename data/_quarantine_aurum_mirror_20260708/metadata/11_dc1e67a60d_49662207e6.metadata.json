@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/11_dc1e67a60d.txt",
+  "source_name": "11_dc1e67a60d.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:04:21+09:00",
+  "processed_at": "2026-06-29T17:06:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/11_dc1e67a60d_49662207e6.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/11_dc1e67a60d_49662207e6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 13일에 촬영된 멧돼지 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, GPS 좌표: 35.450358, 129.319764",
+      "JPEG 형식, 1024x768 해상도, 1013313 바이트 크기"
+    ],
+    "category": "조사사진",
+    "keywords": [
+      "멧돼지",
+      "울산 온산국가산업단지",
+      "포유류"
+    ]
+  }
+}

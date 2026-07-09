@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/6-2025_4_-7.1_7.4_7c8da5d5a8.txt",
+  "source_name": "6-2025_4_-7.1_7.4_7c8da5d5a8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:26+09:00",
+  "processed_at": "2026-07-08T11:57:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/6-2025_4_-7.1_7.4_7c8da5d5a8_9868b07aa8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/6-2025_4_-7.1_7.4_7c8da5d5a8_9868b07aa8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "과천주암 사후 4분기 분기보고서의 7.1~7.4장 내용을 포함하고 있습니다.",
+      "파일 형식이 지원되지 않아 상세 내용 추출이 불가능한 상태입니다.",
+      "보고서의 전체적인 내용 및 주요 결과 확인이 제한적입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "과천주암",
+      "사후관리",
+      "분기보고서"
+    ]
+  }
+}

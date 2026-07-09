@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/08_977b8280e8.5.csv",
+  "source_name": "08_977b8280e8.5.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:37:41+09:00",
+  "processed_at": "2026-07-08T13:37:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_977b8280e8.5_49f4db88d9.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/08_977b8280e8.5_49f4db88d9.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_977b8280e8.5_49f4db88d9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 건설 자재 및 공정별 수량을 기록한 CSV 데이터입니다.",
+      "레미콘, 거푸집, 잡석 등 주요 자재와 터파기, 되메우기 등의 공종이 포함되어 있습니다.",
+      "총 20개의 행으로 구성된 물량 산출 또는 자재 관리용 명세서입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "자재수량",
+      "공사내역",
+      "물량산출"
+    ]
+  }
+}

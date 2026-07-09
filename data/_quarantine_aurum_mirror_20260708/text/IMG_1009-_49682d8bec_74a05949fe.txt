@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 수달, 배설물, 현장조사
+● 3줄 요약:
+- 이미지는 수달의 배설물을 촬영한 사진입니다.
+- 사진의 크기는 838x629 픽셀이며, RGB 모드의 JPEG 형식입니다.
+- OCR 처리 시 서버 오류가 발생하여 텍스트 인식이 불가능합니다.
+=========================================
+source_name: IMG_1009-수달 배설물.jpg
+source_type: jpg
+size_bytes: 509936
+width: 838
+height: 629
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

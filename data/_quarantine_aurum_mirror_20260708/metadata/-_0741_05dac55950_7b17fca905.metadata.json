@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_0741_05dac55950.txt",
+  "source_name": "-_0741_05dac55950.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:14:16+09:00",
+  "processed_at": "2026-07-08T13:14:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_0741_05dac55950_7b17fca905.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_0741_05dac55950_7b17fca905.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 토지 이용에 관한 내용을 다루고 있으나, OCR 오류로 인해 본문 내용 추출이 불가능합니다.",
+      "파일 크기는 34,623,043 바이트이며, PDF 형식입니다.",
+      "ASCII 코덱이 14-15 위치의 문자를 인코딩하지 못하는 오류가 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용",
+      "PDF",
+      "OCR오류"
+    ]
+  }
+}

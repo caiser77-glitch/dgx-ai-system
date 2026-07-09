@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0951-_f3e4c695a5.txt",
+  "source_name": "IMG_0951-_f3e4c695a5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T13:55:44+09:00",
+  "processed_at": "2026-07-06T13:56:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0951-_f3e4c695a5_1250bc3a28.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0951-_f3e4c695a5_1250bc3a28.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "사진 파일 'IMG_0951-물닭.jpg'에 대한 메타데이터 정보 제공",
+      "파일 크기: 508,685 바이트, 해상도: 934x701, 모드: RGB, 형식: JPEG",
+      "경로: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/변환/"
+    ],
+    "category": "사진",
+    "keywords": [
+      "메타데이터",
+      "JPEG",
+      "사진"
+    ]
+  }
+}

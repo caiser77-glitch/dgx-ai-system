@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/05_05130e0fef.txt",
+  "source_name": "05_05130e0fef.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:24+09:00",
+  "processed_at": "2026-07-08T11:43:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05_05130e0fef_9c2e645923.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05_05130e0fef_9c2e645923.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '구조물공'에 대한 다양한 시트를 포함하는 엑셀 파일입니다.",
+      "시트들은 각각 특정 구조물 또는 조사 항목에 대한 데이터를 담고 있으며, 행과 열의 수가 다양합니다.",
+      "특히 '박스', '식조', '석조', '세단(2)', '세단(3)', '배수시설', '옹벽2' 시트들이 많은 열을 가집니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "구조물공",
+      "엑셀",
+      "데이터 시트"
+    ]
+  }
+}

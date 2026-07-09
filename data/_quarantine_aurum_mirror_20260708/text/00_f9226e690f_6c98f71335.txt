@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 00 총자재집계.xlsx
+source_type: xlsx
+sheet: 간 (2), rows: 48, columns: 8
+sheet: 간, rows: 48, columns: 8
+sheet: 자재, rows: 199, columns: 15
+sheet: 0.수량집계표, rows: 136, columns: 11
+sheet: 1 골재집계표, rows: 23, columns: 17
+sheet: 2 레미콘, rows: 19, columns: 15
+sheet: 3 철근, rows: 34, columns: 19
+sheet: 4 배수관, rows: 34, columns: 17

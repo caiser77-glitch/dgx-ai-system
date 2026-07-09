@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: IMG_3951.JPG
+source_type: jpg
+size_bytes: 2296438
+path: /mnt/dgxbackup/2026 이산/포항-안동/02. 사진/2026.03.12-13/산속 무인카메라/100_BTCF/IMG_3951.JPG
+width: 4208
+height: 2368
+mode: RGB
+format: MPO
+datetime_taken: 2020:03:28 00:41:55
+camera_make: Prometheus
+camera_model: BTC-5PXD

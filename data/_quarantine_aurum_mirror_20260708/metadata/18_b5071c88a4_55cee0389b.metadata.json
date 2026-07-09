@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/18_b5071c88a4.txt",
+  "source_name": "18_b5071c88a4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:10:15+09:00",
+  "processed_at": "2026-06-29T17:11:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/18_b5071c88a4_55cee0389b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/18_b5071c88a4_55cee0389b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 19일 오전 9시 21분에 촬영된 영수증 이미지",
+      "SAMSUNG Galaxy S25 Ultra로 촬영된 JPEG 형식의 사진",
+      "이미지 크기는 640x1592 픽셀, 파일 크기는 730,272 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "사진",
+      "2026년"
+    ]
+  }
+}

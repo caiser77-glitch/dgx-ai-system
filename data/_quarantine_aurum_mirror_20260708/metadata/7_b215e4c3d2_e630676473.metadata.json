@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/7_b215e4c3d2.txt",
+  "source_name": "7_b215e4c3d2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:48:12+09:00",
+  "processed_at": "2026-06-23T21:49:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/7_b215e4c3d2_e630676473.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/7_b215e4c3d2_e630676473.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 울산",
+    "project_name": "울산 온산국가산업단지",
+    "class_name": "포유류",
+    "tags": [
+      "#고라니",
+      "#Panasonic",
+      "#DC-TZ99"
+    ],
+    "summary": "울산 온산국가산업단지에서 촬영된 고라니 사진. 크기는 1124x843, 2026년 2월 13일 촬영.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 13일에 촬영된 고라니 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, GPS 좌표: 35.458308, 129.320967",
+      "JPEG 형식, 1124x843 픽셀, 972,435 바이트 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고라니",
+      "울산 온산국가산업단지",
+      "포유류"
+    ]
+  }
+}

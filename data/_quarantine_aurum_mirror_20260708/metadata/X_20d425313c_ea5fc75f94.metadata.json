@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/X_20d425313c.txt",
+  "source_name": "X_20d425313c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:52+09:00",
+  "processed_at": "2026-07-08T12:16:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/X_20d425313c_ea5fc75f94.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/X_20d425313c_ea5fc75f94.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 국방군사시설 설치 여부에 대한 정보를 제공하지 않습니다.",
+      "파일 형식이 지원되지 않아 내용 추출이 불가능합니다.",
+      "파일 크기는 16,896 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "국방군사시설",
+      "설치 여부",
+      "지원되지 않는 파일 형식"
+    ]
+  }
+}

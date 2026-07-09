@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_34a9bd95f0.txt",
+  "source_name": "file_34a9bd95f0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:13+09:00",
+  "processed_at": "2026-07-08T13:51:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_34a9bd95f0_1efe574f47.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_34a9bd95f0_1efe574f47.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 온산국가산업단지 내 포유류 조사 과정에서 촬영된 사진 데이터입니다.",
+      "두더지를 피사체로 하며 2026년 2월 13일 오전 파나소닉 카메라로 촬영되었습니다.",
+      "현장 조사를 위한 시각적 기록물로서의 성격을 가집니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "두더지",
+      "울산 온산국가산업단지",
+      "포유류 조사"
+    ]
+  }
+}

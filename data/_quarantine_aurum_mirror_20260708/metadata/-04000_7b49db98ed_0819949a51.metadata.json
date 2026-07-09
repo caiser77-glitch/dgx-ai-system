@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-04000_7b49db98ed.txt",
+  "source_name": "-04000_7b49db98ed.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:19:52+09:00",
+  "processed_at": "2026-07-08T13:20:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-04000_7b49db98ed_0819949a51.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-04000_7b49db98ed_0819949a51.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 지역개황에 대한 정보를 담고 있으나, OCR 처리 과정에서 에러가 발생하여 내용 추출이 불가능합니다.",
+      "파일 크기는 10,901,633 바이트이며, PDF 형식의 파일입니다.",
+      "문서의 이름은 '우주센터-04000(지역개황).pdf'입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "지역개황",
+      "PDF",
+      "OCR 에러"
+    ]
+  }
+}

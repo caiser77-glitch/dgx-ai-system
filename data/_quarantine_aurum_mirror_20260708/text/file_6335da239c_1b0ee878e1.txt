@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전략환경영향평가, 아산 방축, 평가준비서
+● 3줄 요약:
+- 본 문서는 아산 방축 전략에 관한 전략환경영향평가 평가준비서입니다.
+- 파일 형식은 PDF이며 데이터 크기는 약 78.9MB입니다.
+- OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 전략환경영향평가 평가준비서(아산 방축 전략).pdf
+source_type: pdf
+size_bytes: 78894136
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/전략환경영향평가 평가준비서(아산 방축 전략)_pages_1_taxa.xlsx' (found at least ' ')

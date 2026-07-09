@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_f9d9a48ed3.txt",
+  "source_name": "1_f9d9a48ed3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T12:55:28+09:00",
+  "processed_at": "2026-07-06T12:55:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_f9d9a48ed3_cef8539944.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_f9d9a48ed3_cef8539944.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 형식이 지원되지 않아 내용 추출 불가",
+      "파일 크기: 65934 바이트",
+      "파일 유형: hwpx"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "지원되지 않는 파일",
+      "hwpx",
+      "문서 크기"
+    ]
+  }
+}

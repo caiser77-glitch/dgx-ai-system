@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0015_3ed27e2a6b.txt",
+  "source_name": "IMG_0015_3ed27e2a6b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T09:41:34+09:00",
+  "processed_at": "2026-06-25T09:43:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0015_3ed27e2a6b_f1bdb5c28d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0015_3ed27e2a6b_f1bdb5c28d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2020년 1월 1일 19시 30분 27초에 촬영된 무인카메라 사진\nBROWNING BTC-8E 카메라로 촬영, 해상도 4608x2592, RGB 모드\n파일 크기 3,268,014 바이트, MPO 포맷",
+    "tags": [
+      "#무인카메라",
+      "#사진",
+      "#BROWNING"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2020년 1월 1일 19시 30분 27초에 촬영된 무인카메라 사진",
+      "BROWNING BTC-8E 카메라로 촬영, 해상도 4608x2592, RGB 모드",
+      "파일 크기 3,268,014 바이트, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "사진",
+      "BROWNING"
+    ]
+  }
+}

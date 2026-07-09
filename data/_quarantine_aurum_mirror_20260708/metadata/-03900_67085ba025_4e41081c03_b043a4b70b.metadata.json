@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-03900_67085ba025_4e41081c03.txt",
+  "source_name": "-03900_67085ba025_4e41081c03.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:15+09:00",
+  "processed_at": "2026-07-08T11:32:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-03900_67085ba025_4e41081c03_b043a4b70b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-03900_67085ba025_4e41081c03_b043a4b70b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 고흥 지역의 특정 프로젝트에 대한 사후 보완 내용을 포함하고 있습니다.",
+      "항목별 보완 사항이 상세히 기술되어 있으나, 파일 형식이 지원되지 않아 내용 추출이 불가능합니다.",
+      "파일 크기는 4,156,928 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥",
+      "보완내용",
+      "사후"
+    ]
+  }
+}

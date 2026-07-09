@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 정밀조사, 서산, 태안, 고흥, 보성, 환경부
+● 3줄 요약:
+- 2015년 서산, 태안, 고흥, 보성 권역의 특정 도서 정밀조사 보고서입니다.
+- 환경부에서 발행한 2016년도 보고서로 파일 크기는 약 131MB입니다.
+- OCR 처리 실패 및 파일명 내 공백 문자로 인한 URL 생성 오류가 발생했습니다.
+=========================================
+source_name: 2015특정도서 정밀조사 서산.태안.고흥.보성권역(2016 환경부).pdf
+source_type: pdf
+size_bytes: 131524712
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2015특정도서 정밀조사 서산.태안.고흥.보성권역(2016 환경부)_pages_1_taxa.xlsx' (found at least ' ')

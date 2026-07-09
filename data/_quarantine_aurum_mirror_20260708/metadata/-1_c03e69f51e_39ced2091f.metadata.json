@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1_c03e69f51e.txt",
+  "source_name": "-1_c03e69f51e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T21:36:41+09:00",
+  "processed_at": "2026-06-22T21:37:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-1_c03e69f51e_39ced2091f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-1_c03e69f51e_39ced2091f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "야장",
+    "tags": [
+      "#야장",
+      "#영수증",
+      "#진입도로"
+    ],
+    "summary": "숨편한 힐링숲 소규모 프로젝트의 야장 관련 영수증 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "숨편한 힐링숲 진입도로에 대한 사진 파일입니다.",
+      "파일 크기는 448,740 바이트이며, 해상도는 1440x2035 픽셀입니다.",
+      "RGB 모드의 JPEG 형식으로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "힐링숲",
+      "진입도로",
+      "사진"
+    ]
+  }
+}

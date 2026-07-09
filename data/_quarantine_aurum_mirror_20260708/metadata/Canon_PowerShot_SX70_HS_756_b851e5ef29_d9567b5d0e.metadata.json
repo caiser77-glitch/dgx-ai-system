@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_756_b851e5ef29.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_756_b851e5ef29.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T04:01:25+09:00",
+  "processed_at": "2026-06-24T04:03:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_756_b851e5ef29_d9567b5d0e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_756_b851e5ef29_d9567b5d0e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2025년 3월 26일에 촬영된 Canon PowerShot SX70 HS 카메라 사진\nGPS 좌표: 위도 34.456097, 경도 127.496193\n사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#GPS 좌표",
+      "#MPO 형식"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 26일에 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "GPS 좌표: 위도 34.456097, 경도 127.496193",
+      "사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표",
+      "MPO 형식"
+    ]
+  }
+}

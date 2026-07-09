@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02__-_02_79c599f626.txt",
+  "source_name": "02__-_02_79c599f626.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:32:02+09:00",
+  "processed_at": "2026-06-22T22:33:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/02__-_02_79c599f626_811f24412a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/02__-_02_79c599f626_811f24412a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "현장조사",
+    "class_name": "현장조사",
+    "tags": [
+      "#현장조사",
+      "#AURUM",
+      "#2026"
+    ],
+    "summary": "현장조사 관련 파일의 메타데이터. 압축 파일 형식, 크기 1.3GB, 내용 추출 불가.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소의 현장조사 자료가 ZIP 파일로 제공되었습니다.",
+      "파일 크기는 약 1.3GB이며, 내부 내용은 추출되지 않았습니다.",
+      "내용 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "현장조사",
+      "ZIP파일",
+      "내용추출불가"
+    ]
+  }
+}

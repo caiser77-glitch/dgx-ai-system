@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/04__1_dccb4b7a14.txt",
+  "source_name": "04__1_dccb4b7a14.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:45:46+09:00",
+  "processed_at": "2026-06-22T22:46:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/04__1_dccb4b7a14_d7082030a9.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/04__1_dccb4b7a14_d7082030a9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "인천용역",
+    "class_name": "인천용역 등에서 유추한 분류군 명칭",
+    "tags": [
+      "#인천용역",
+      "#AURUM",
+      "#2026"
+    ],
+    "summary": "참고자료 ZIP 파일, 크기: 1634821427 bytes, 콘텐츠 추출 불가",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파일 유형이 지원되지 않아 내용 추출 불가능",
+      "파일 크기: 1,634,821,427 바이트",
+      "파일 이름: 04_참고자료 (1).zip"
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "ZIP",
+      "참고자료"
+    ]
+  }
+}

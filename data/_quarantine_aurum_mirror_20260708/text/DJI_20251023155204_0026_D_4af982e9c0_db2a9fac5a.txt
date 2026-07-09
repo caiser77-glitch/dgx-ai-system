@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: DJI_20251023155204_0026_D.JPG
+source_type: jpg
+size_bytes: 18079744
+path: /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/2차조사 2025.10.22-24/2025.10.22-24 울산온산 드론/DJI_20251023155204_0026_D.JPG
+width: 6144
+height: 4096
+mode: RGB
+format: MPO
+datetime_taken: 2025:10:23 15:52:04
+camera_make: Hasselblad
+camera_model: L3D-100c
+gps_lat: 35.448422
+gps_lon: 129.314537

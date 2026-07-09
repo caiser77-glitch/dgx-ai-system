@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 무인도서, 자연환경조사, OCR오류
+● 3줄 요약:
+- 2006년 전국 무인도서 자연환경 조사 보고서 중 태안 지역(동격렬, 서격렬)의 조사 결과 내용을 포함함
+- PDF 파일 크기는 약 6MB이며 OCR 처리 과정에서 오류가 발생하여 내용 추출이 불가능한 상태임
+- 오류 원인은 파일명 내 공백 문자로 인해 URL 인식 문제 및 데이터 추출 실패가 발생했기 때문임
+=========================================
+source_name: 2006전국무인도서자연환경조사태안(동격렬, 서격렬).pdf
+source_type: pdf
+size_bytes: 6069718
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2006전국무인도서자연환경조사태안(동격렬, 서격렬)_pages_1_taxa.xlsx' (found at least ' ')

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 0203 토지이용계획_업종배치계획_인구계획.xlsx
+source_type: xlsx
+sheet: 0. 260202_최종, rows: 53, columns: 32
+sheet: 1. 업종별면적세분, rows: 40, columns: 9
+sheet: 2. 계획인구산출, rows: 162, columns: 16
+sheet: 입주의향기업리스트, rows: 100, columns: 21
+sheet: 입주협약기업리스트, rows: 13, columns: 13

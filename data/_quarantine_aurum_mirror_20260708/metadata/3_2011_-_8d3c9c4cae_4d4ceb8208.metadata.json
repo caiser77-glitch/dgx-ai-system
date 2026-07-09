@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3_2011_-_8d3c9c4cae.txt",
+  "source_name": "3_2011_-_8d3c9c4cae.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:13:53+09:00",
+  "processed_at": "2026-07-08T12:14:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/3_2011_-_8d3c9c4cae_4d4ceb8208.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/3_2011_-_8d3c9c4cae_4d4ceb8208.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제3차 전국자연환경조사 2011년도 칠포 지역에 관한 PDF 문서입니다.",
+      "파일 크기는 약 6.75MB이며 콘텐츠 추출이 지원되지 않는 유형입니다.",
+      "OCR 처리 과정에서 제어 문자로 인한 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "칠포",
+      "OCR 오류"
+    ]
+  }
+}

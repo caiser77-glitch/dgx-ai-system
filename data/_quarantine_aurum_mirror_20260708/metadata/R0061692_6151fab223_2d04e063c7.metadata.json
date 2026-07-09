@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061692_6151fab223.txt",
+  "source_name": "R0061692_6151fab223.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:29:15+09:00",
+  "processed_at": "2026-07-08T09:29:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061692_6151fab223_2d04e063c7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061692_6151fab223_2d04e063c7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일(R0061692.jpg)에 대한 메타데이터 정보입니다.",
+      "파일의 크기는 108,764 바이트이며 해상도는 400x300 픽셀입니다.",
+      "경동 SH공사 고덕강일 모니터링 관련 경로를 포함하고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "모니터링 사진",
+      "파일 정보"
+    ]
+  }
+}

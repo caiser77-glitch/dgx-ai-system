@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_632834e08b.txt",
+  "source_name": "file_632834e08b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:24+09:00",
+  "processed_at": "2026-07-08T13:52:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_632834e08b_e7f46a3b74.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_632834e08b_e7f46a3b74.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단 인근 지역의 어업권 및 양식장 위치를 나타내는 현황도입니다.",
+      "해당 도면은 착수보고회 제출을 위한 환평 자료의 일부로 포함되어 있습니다.",
+      "양식장의 구체적인 위치와 경계 등을 시각적으로 보여주는 이미지 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "어업권",
+      "양식장 현황도",
+      "고흥 산단"
+    ]
+  }
+}

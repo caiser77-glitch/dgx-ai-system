@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_2987_d12f4db0a0.txt",
+  "source_name": "IMG_2987_d12f4db0a0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-07T01:34:20+09:00",
+  "processed_at": "2026-07-07T01:35:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_2987_d12f4db0a0_0f7675e04a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_2987_d12f4db0a0_0f7675e04a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "IMG_2987.JPG는 3,663,553 바이트 크기의 MPO 형식 이미지 파일입니다.",
+      "이미지는 5184x3888 픽셀 해상도를 가지고 있으며 RGB 모드로 저장되어 있습니다.",
+      "OCR 처리 시 서버 내부 오류가 발생하여 텍스트 인식이 실패했습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 파일",
+      "MPO 형식",
+      "OCR 오류"
+    ]
+  }
+}

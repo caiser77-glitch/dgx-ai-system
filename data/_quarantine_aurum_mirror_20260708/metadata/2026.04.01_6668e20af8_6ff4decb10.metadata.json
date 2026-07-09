@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.04.01_6668e20af8.txt",
+  "source_name": "2026.04.01_6668e20af8.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:29:46+09:00",
+  "processed_at": "2026-06-23T19:30:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.04.01_6668e20af8_6ff4decb10.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.04.01_6668e20af8_6ff4decb10.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "성남낙생 송전선로 소규모",
+    "class_name": "조류",
+    "tags": [
+      "#성남",
+      "#낙생",
+      "#조류"
+    ],
+    "summary": "2026년 4월 1일 성남낙생 소규모 조류 사진. 크기: 535,090바이트, 해상도: 2480x3507, 형식: JPEG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 4월 1일 성남낙생 지역에서 촬영된 소규모 조류 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "야장 폴더에 저장된 현장 조사 관련 자료"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "성남낙생",
+      "조류",
+      "야장"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 메타데이터, 이미지 파일, 서버 오류
+● 3줄 요약:
+- 제공된 문서 데이터는 이미지 파일의 메타데이터 정보만을 포함하고 있습니다.
+- 파일 형식은 MPO이며 RGB 모드의 고해상도 이미지로 확인됩니다.
+- OCR 처리 과정에서 내부 서버 오류(HTTP Error 500)가 발생하여 텍스트 추출이 불가능합니다.
+=========================================
+source_name: R0060376.JPG
+source_type: jpg
+size_bytes: 4212196
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

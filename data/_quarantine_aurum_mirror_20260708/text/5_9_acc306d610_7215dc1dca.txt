@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 내용추출 불가, OCR 오류
+● 3줄 요약:
+- 문서 '서산식물 5 9.pdf'는 PDF 형식의 파일로 크기는 약 1.8MB입니다.
+- 해당 파일은 현재 내용 추출이 지원되지 않는 유형입니다.
+- OCR 처리 과정에서 URL 내 제어 문자 포함으로 인한 오류가 발생했습니다.
+=========================================
+source_name: 서산식물 5 9.pdf
+source_type: pdf
+size_bytes: 1831837
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/서산식물 5 9_pages_1_taxa.xlsx' (found at least ' ')

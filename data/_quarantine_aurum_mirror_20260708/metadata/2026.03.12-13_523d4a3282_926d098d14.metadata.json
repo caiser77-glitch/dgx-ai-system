@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.12-13_523d4a3282.txt",
+  "source_name": "2026.03.12-13_523d4a3282.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:37:24+09:00",
+  "processed_at": "2026-06-23T18:38:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.12-13_523d4a3282_926d098d14.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.12-13_523d4a3282_926d098d14.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 포항-안동",
+    "project_name": "포항안동 조류",
+    "class_name": "조류",
+    "tags": [
+      "#포항",
+      "#안동",
+      "#조류"
+    ],
+    "summary": "2026년 3월 12-13일 포항-안동 지역에서 촬영된 조류 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 12-13일 포항-안동 지역에서 촬영된 조류 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "야장(野帳) 파일로 분류됨"
+    ],
+    "category": "야장",
+    "keywords": [
+      "포항안동",
+      "조류",
+      "야장"
+    ]
+  }
+}

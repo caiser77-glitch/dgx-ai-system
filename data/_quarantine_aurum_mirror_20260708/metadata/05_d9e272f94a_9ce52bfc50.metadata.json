@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/05_d9e272f94a.txt",
+  "source_name": "05_d9e272f94a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:39:26+09:00",
+  "processed_at": "2026-07-08T13:39:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05_d9e272f94a_9ce52bfc50.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05_d9e272f94a_9ce52bfc50.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "엑셀 파일 '05 구조물공.xlsx'은 총 27개의 시트로 구성되어 다양한 구조물 데이터를 포함하고 있습니다.",
+      "대부분의 시트는 53행 내외로 일관된 구성을 보이나, 식단, 연단, 배수시설 등 일부 시트는 더 많은 행을 포함합니다.",
+      "각 시트별로 열(column)의 개수가 상이하며 구조물 종류에 따라 데이터 규모가 다르게 구성되어 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "구조물",
+      "데이터 시트",
+      "엑셀 파일"
+    ]
+  }
+}

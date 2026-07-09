@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4835ac031e.txt",
+  "source_name": "file_4835ac031e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:39+09:00",
+  "processed_at": "2026-07-08T13:51:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4835ac031e_d708b7c33f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4835ac031e_d708b7c33f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 온산국가산업단지 내에서 촬영된 멧돼지 배설물 사진 데이터입니다.",
+      "2026년 2월 13일 파나소닉 DC-TZ99 카메라로 촬영되었습니다.",
+      "해당 위치의 GPS 좌표(북위 35.457, 동경 129.313) 정보가 포함되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "멧돼지",
+      "배설물",
+      "울산 온산국가산업단지"
+    ]
+  }
+}

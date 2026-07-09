@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_05f75cfe5c.txt",
+  "source_name": "file_05f75cfe5c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:37:03+09:00",
+  "processed_at": "2026-07-08T13:37:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_05f75cfe5c_f92c14243a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_05f75cfe5c_f92c14243a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "본 문서는 아산방축에 관한 환경성 검토서입니다.",
+      "파일 형식은 hwp이며 용량은 약 25MB입니다.",
+      "현재 파일 형식의 직접적인 내용 추출은 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경성 검토서",
+      "아산방축",
+      "hwp"
+    ]
+  }
+}

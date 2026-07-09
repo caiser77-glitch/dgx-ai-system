@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/250305-_d4dd480419.txt",
+  "source_name": "250305-_d4dd480419.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:17:05+09:00",
+  "processed_at": "2026-07-08T12:17:15+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/250305-_d4dd480419_1d71d289c7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/250305-_d4dd480419_1d71d289c7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥산단 착수 보고회 관련 문서",
+      "파일 형식이 hwp로 콘텐츠 추출 불가",
+      "전 이사님의 핸드폰에서 수집된 파일"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥산단",
+      "착수보고회",
+      "hwp"
+    ]
+  }
+}

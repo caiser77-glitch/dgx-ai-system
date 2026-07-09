@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/RCNX0028_3bfdfa44b5.txt",
+  "source_name": "RCNX0028_3bfdfa44b5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:17:00+09:00",
+  "processed_at": "2026-07-08T09:17:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/RCNX0028_3bfdfa44b5_e74b3b62d3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/RCNX0028_3bfdfa44b5_e74b3b62d3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RECONYX 브랜드의 HYPERFIRE 2 COVERT 모델로 촬영된 이미지 파일 정보입니다.",
+      "2025년 11월 16일 12시 02분에 촬영되었으며 파일 크기는 약 680KB입니다.",
+      "울산 온산국가산업단지 무인카메라 조사 과정에서 생성된 데이터입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "RECONYX",
+      "온산국가산업단지"
+    ]
+  }
+}

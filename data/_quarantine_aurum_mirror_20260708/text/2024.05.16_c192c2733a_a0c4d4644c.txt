@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 영수증, 숙박, 야장
+● 3줄 요약:
+- 2024년 5월 16일 숙박 관련 영수증 이미지
+- 삼성 스마트폰(SM-G996N)으로 촬영
+- JPEG 형식, 975x1280 픽셀 크기
+=========================================
+source_name: 2024.05.16 숙박.jpg
+source_type: jpg
+size_bytes: 222265
+path: /mnt/dgxbackup/2026 천마기술단/서산 부장리 고분군/05. 야장 및 영수증/영수증/2024.05.16 숙박.jpg
+width: 975
+height: 1280
+mode: RGB
+format: JPEG
+datetime_taken: 2024:05:17 06:43:40
+camera_make: samsung
+camera_model: SM-G996N

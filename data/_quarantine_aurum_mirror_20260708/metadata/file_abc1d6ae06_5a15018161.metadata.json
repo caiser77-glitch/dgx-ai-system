@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_abc1d6ae06.txt",
+  "source_name": "file_abc1d6ae06.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:35+09:00",
+  "processed_at": "2026-07-08T12:04:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_abc1d6ae06_5a15018161.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_abc1d6ae06_5a15018161.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "훼손면적 보안본안 비교 엑셀 파일 분석",
+      "시트1에 24개 행, 8개 열 데이터 포함",
+      "훼손면적과 보안본안의 비교 자료 제공"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "훼손면적",
+      "보안본안",
+      "엑셀"
+    ]
+  }
+}

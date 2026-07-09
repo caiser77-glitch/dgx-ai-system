@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-___3__7_-2_O_2640a034a8.txt",
+  "source_name": "-___3__7_-2_O_2640a034a8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:19+09:00",
+  "processed_at": "2026-07-08T11:50:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-___3__7_-2_O_2640a034a8_907e95b447.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-___3__7_-2_O_2640a034a8_907e95b447.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "익산 국대도 서수-평장 구간의 사후 공사 시 3차년도 보고서의 일부입니다.",
+      "문서는 HWP 파일 형식으로 작성되었으나 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "파일 크기는 약 191.8MB로 상당히 큰 규모의 문서입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "익산 국대도",
+      "사후 공사",
+      "3차년도 보고서"
+    ]
+  }
+}

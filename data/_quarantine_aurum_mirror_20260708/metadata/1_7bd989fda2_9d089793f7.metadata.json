@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_7bd989fda2.txt",
+  "source_name": "1_7bd989fda2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:28:34+09:00",
+  "processed_at": "2026-06-22T23:29:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_7bd989fda2_9d089793f7.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_7bd989fda2_9d089793f7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "고흥 산단",
+    "class_name": "토지이용계획",
+    "tags": [
+      "#토지이용계획",
+      "#고흥산단",
+      "#2026"
+    ],
+    "summary": "고흥 산단의 토지이용계획 관련 1공구 구역계 도면",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "1공구 구역계 도면은 토지 이용 계획 관련 자료로, 환평자료 착수보고회에서 사용되었습니다.",
+      "PNG 형식의 이미지는 613x713 픽셀 크기이며, RGBA 모드로 색상 정보를 포함하고 있습니다.",
+      "이 도면은 고흥 산단의 토지 이용 계획을 시각적으로 표현한 것으로 보입니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "토지이용계획",
+      "도면",
+      "고흥산단"
+    ]
+  }
+}

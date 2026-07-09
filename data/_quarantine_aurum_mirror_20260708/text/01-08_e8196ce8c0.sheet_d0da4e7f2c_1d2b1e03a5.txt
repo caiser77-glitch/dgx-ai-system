@@ -1,0 +1,4 @@
+source_name: 01-08_e8196ce8c0.sheet_d0da4e7f2c.csv
+source_type: csv
+row_count: 41
+columns: 경계석  단 위 수 량, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0047_c42d892e23.txt",
+  "source_name": "IMG_0047_c42d892e23.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T22:59:27+09:00",
+  "processed_at": "2026-06-25T23:02:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0047_c42d892e23_708a81a32a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0047_c42d892e23_708a81a32a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 3월 27일에 촬영된 고흥 산단의 소리쟁이 사진\nCanon PowerShot SX70 HS 카메라로 촬영, GPS 좌표는 34.454078, 127.473892\n사진 크기는 5184x3888 픽셀, 파일 크기는 10,316,686 바이트",
+    "tags": [
+      "#소리쟁이",
+      "#고흥 산단",
+      "#GPS 좌표"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일에 촬영된 고흥 산단의 소리쟁이 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표는 34.454078, 127.473892",
+      "사진 크기는 5184x3888 픽셀, 파일 크기는 10,316,686 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "소리쟁이",
+      "고흥 산단",
+      "GPS 좌표"
+    ]
+  }
+}

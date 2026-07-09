@@ -1,0 +1,10 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 별첨_울릉공항 건설공사 사후4차년도(2024년) 조류조사계획서(수정).hwp
+source_type: hwp
+size_bytes: 3183616
+content_extraction: unsupported_file_type

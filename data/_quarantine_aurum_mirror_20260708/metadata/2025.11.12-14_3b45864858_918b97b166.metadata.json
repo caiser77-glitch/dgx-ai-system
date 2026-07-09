@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.11.12-14_3b45864858.txt",
+  "source_name": "2025.11.12-14_3b45864858.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T03:10:36+09:00",
+  "processed_at": "2026-06-23T03:12:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.11.12-14_3b45864858_918b97b166.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.11.12-14_3b45864858_918b97b166.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "포항 혁신도시에서 촬영된 곤충 사진\n2025년 11월 12일부터 14일까지의 야장 기록 포함\nJPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+    "tags": [
+      "#곤충",
+      "#포항 혁신도시",
+      "#야장"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 촬영된 곤충 사진",
+      "2025년 11월 12일부터 14일까지의 야장 기록 포함",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "곤충",
+      "포항 혁신도시",
+      "야장"
+    ]
+  }
+}

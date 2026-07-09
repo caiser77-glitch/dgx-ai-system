@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_42bef91e93.txt",
+  "source_name": "1_42bef91e93.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:23:46+09:00",
+  "processed_at": "2026-06-22T23:24:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_42bef91e93_3e59e53f15.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_42bef91e93_3e59e53f15.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "고흥 산단",
+    "class_name": "토지이용계획 변경",
+    "tags": [
+      "#토지이용계획",
+      "#고흥",
+      "#산단"
+    ],
+    "summary": "고흥 산단의 2025년 9월 4일 본안 설계자료 및 보고서 자료 중 25년 8월 29일 토지이용계획 변경 본안용 백업 그림.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "PNG 형식의 그림1.png 파일에 대한 메타데이터 정보 제공",
+      "파일 크기는 1,616,093 바이트이며, 해상도는 1750x2475 픽셀",
+      "RGBA 모드로 저장되어 있으며, 경로는 /mnt/dgxbackup/2026 이산/고흥 산단/.../백업/그림1.png"
+    ],
+    "category": "기타",
+    "keywords": [
+      "PNG",
+      "메타데이터",
+      "백업"
+    ]
+  }
+}

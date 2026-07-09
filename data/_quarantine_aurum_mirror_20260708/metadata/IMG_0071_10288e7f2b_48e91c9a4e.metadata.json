@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0071_10288e7f2b.txt",
+  "source_name": "IMG_0071_10288e7f2b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-26T09:39:02+09:00",
+  "processed_at": "2026-06-26T09:42:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0071_10288e7f2b_48e91c9a4e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0071_10288e7f2b_48e91c9a4e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2020년 1월 3일 21시 03분 56초에 촬영된 무인카메라 사진\nBROWNING BTC-8E 카메라로 촬영, 해상도 4608x2592, RGB 모드\n고흥 산단에서 촬영된 사진으로, 피해방지 및 조사계획서 관련 자료의 일부",
+    "tags": [
+      "#무인카메라",
+      "#고흥 산단",
+      "#조사계획서"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2020년 1월 3일 21시 03분 56초에 촬영된 무인카메라 사진",
+      "BROWNING BTC-8E 카메라로 촬영, 해상도 4608x2592, RGB 모드",
+      "고흥 산단에서 촬영된 사진으로, 피해방지 및 조사계획서 관련 자료의 일부"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "고흥 산단",
+      "조사계획서"
+    ]
+  }
+}

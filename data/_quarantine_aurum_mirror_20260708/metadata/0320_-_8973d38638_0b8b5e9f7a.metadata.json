@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0320_-_8973d38638.txt",
+  "source_name": "0320_-_8973d38638.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:49+09:00",
+  "processed_at": "2026-07-08T11:40:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0320_-_8973d38638_0b8b5e9f7a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0320_-_8973d38638_0b8b5e9f7a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 사후환경영향조사 결과에 따른 조치 및 평가에 관한 내용을 담고 있습니다.",
+      "특히 해충 관리 방안에 대한 논의가 포함되어 있습니다.",
+      "파일 형식이 지원되지 않아 자세한 내용은 확인할 수 없습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사후환경영향조사",
+      "해충관리",
+      "평가"
+    ]
+  }
+}

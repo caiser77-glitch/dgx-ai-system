@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 데이터 부재, OCR 오류, 이미지 메타데이터
+● 3줄 요약:
+- 제공된 문서 데이터에 실제 텍스트 내용이 존재하지 않습니다.
+- 이미지 파일 정보(R0059684.JPG)와 메타데이터만 확인됩니다.
+- OCR 오류로 인해 분석할 수 있는 본문 내용이 없습니다.
+=========================================
+source_name: R0059684.JPG
+source_type: jpg
+size_bytes: 70628
+width: 400
+height: 300
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

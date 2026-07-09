@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_f331b352fe.txt",
+  "source_name": "2_f331b352fe.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:45:30+09:00",
+  "processed_at": "2026-06-23T20:46:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_f331b352fe_cbd3dd374f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_f331b352fe_cbd3dd374f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "조류",
+    "tags": [
+      "#조류",
+      "#산단",
+      "#진천"
+    ],
+    "summary": "진천 초평산단 2차 조류 관련 이미지 파일 정보",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "진천 초평산단 2차 조류에 대한 사진 문서입니다.",
+      "사진의 크기는 1019x1440 픽셀이며, RGB 모드로 저장되었습니다.",
+      "파일 크기는 218,866 바이트입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천 초평산단",
+      "2차 조류",
+      "사진"
+    ]
+  }
+}

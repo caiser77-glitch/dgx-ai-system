@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 소음진동, PDF, OCR 오류
+● 3줄 요약:
+- 문서는 소음진동에 관한 내용을 다루고 있으나, OCR 오류로 인해 내용 추출이 불가능합니다.
+- 파일 크기는 20,583,449 바이트이며, PDF 형식입니다.
+- 문서의 정확한 내용을 확인하기 위해서는 OCR 처리나 수동 검토가 필요합니다.
+=========================================
+source_name: NS(본안)-0752(소음진동)_(869-898).pdf
+source_type: pdf
+size_bytes: 20583449
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 16-17: ordinal not in range(128)

@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1820-_82baa14624.txt",
+  "source_name": "IMG_1820-_82baa14624.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T22:45:53+09:00",
+  "processed_at": "2026-07-06T22:46:18+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1820-_82baa14624_6d4feddb98.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1820-_82baa14624_6d4feddb98.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "청딱다구리 사진 파일 정보 제공",
+      "파일 크기: 510,086 바이트, 해상도: 1041x781 픽셀",
+      "RGB 모드의 JPEG 형식 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "청딱다구리",
+      "사진",
+      "JPEG"
+    ]
+  }
+}

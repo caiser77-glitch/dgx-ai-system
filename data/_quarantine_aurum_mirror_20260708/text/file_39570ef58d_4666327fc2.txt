@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 포항 기업혁신파크, 동식물상, 수정요청사항
+● 3줄 요약:
+- 포항 기업혁신파크 환경영향평가(초안) 동식물상에 대한 수정 요청 사항 문서입니다.
+- 제공된 PDF 파일은 콘텐츠 추출이 지원되지 않는 파일 유형으로 확인되었습니다.
+- OCR 오류로 인해 파일 경로 내 제어 문자가 포함되어 처리에 어려움이 발생하였습니다.
+=========================================
+source_name: 포항 기업혁신파크 환평(초안) 동식물상 수정요청사항.pdf
+source_type: pdf
+size_bytes: 169538158
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/포항 기업혁신파크 환평(초안) 동식물상 수정요청사항_pages_1_taxa.xlsx' (found at least ' ')

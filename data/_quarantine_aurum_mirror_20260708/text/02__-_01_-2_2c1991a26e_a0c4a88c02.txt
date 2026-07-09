@@ -1,0 +1,4 @@
+source_name: 02_현장조사 - 01임정래 -2.zip
+source_type: zip
+size_bytes: 1458776776
+content_extraction: unsupported_file_type

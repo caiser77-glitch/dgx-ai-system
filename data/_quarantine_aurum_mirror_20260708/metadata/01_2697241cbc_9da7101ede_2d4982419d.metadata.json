@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_2697241cbc_9da7101ede.txt",
+  "source_name": "01_2697241cbc_9da7101ede.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:29:41+09:00",
+  "processed_at": "2026-07-08T11:29:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01_2697241cbc_9da7101ede_2d4982419d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01_2697241cbc_9da7101ede_2d4982419d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단의 개발 전략을 시각적으로 표현한 개발 컨셉 이미지 파일입니다.",
+      "인쇄물 제작에 적합하도록 CMYK 모드의 JPEG 형식으로 저장되어 있습니다.",
+      "해상도 1611x546 픽셀로 상세한 정보 전달이 가능한 규격입니다."
+    ],
+    "category": "개발전략",
+    "keywords": [
+      "개발컨셉",
+      "고흥산단",
+      "조사설계"
+    ]
+  }
+}

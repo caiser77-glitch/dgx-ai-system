@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_bf6f717ac3.txt",
+  "source_name": "2_bf6f717ac3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:38:11+09:00",
+  "processed_at": "2026-06-23T20:39:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_bf6f717ac3_9fef64c603.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_bf6f717ac3_9fef64c603.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "오천항 정비공사 사후",
+    "class_name": "수달",
+    "tags": [
+      "#수달",
+      "#오천항",
+      "#정비공사"
+    ],
+    "summary": "2026년 3월 20일 오천항에서 촬영된 수달 사진. 카메라: Panasonic DC-TZ99, GPS 위치: 36.442831, 126.515775",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 20일 오전 10시 35분에 촬영된 수달 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, GPS 좌표는 36.442831, 126.515775",
+      "이미지 크기는 1324x993, RGB 모드, JPEG 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "수달",
+      "Panasonic DC-TZ99",
+      "GPS 좌표"
+    ]
+  }
+}

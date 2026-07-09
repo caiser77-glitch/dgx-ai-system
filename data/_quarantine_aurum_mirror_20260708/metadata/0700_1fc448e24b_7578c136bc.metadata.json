@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0700_1fc448e24b.txt",
+  "source_name": "0700_1fc448e24b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:00+09:00",
+  "processed_at": "2026-07-08T11:47:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0700_1fc448e24b_7578c136bc.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0700_1fc448e24b_7578c136bc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '0700_평가항목및범위등의설정.hwp'는 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 62,843,392 바이트입니다.",
+      "내용 추출이 불가능하므로 분석을 진행할 수 없습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "평가항목",
+      "범위",
+      "설정"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/030490_960_fd2159f950.txt",
+  "source_name": "030490_960_fd2159f950.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:00:14+09:00",
+  "processed_at": "2026-06-29T17:02:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/030490_960_fd2159f950_1504f83212.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/030490_960_fd2159f950_1504f83212.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 부장리 고분군의 기반시설 정비사업 관련 견적서 이미지 파일",
+      "토목단가 항목이 포함된 견적서로 보임",
+      "파일 크기 64,649바이트, 해상도 906x212, RGB 모드, JPEG 형식"
+    ],
+    "category": "견적서",
+    "keywords": [
+      "서산 부장리 고분군",
+      "기반시설 정비사업",
+      "토목단가"
+    ]
+  }
+}

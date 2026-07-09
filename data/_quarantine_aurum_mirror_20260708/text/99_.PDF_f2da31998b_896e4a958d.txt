@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: PDF, OCR 오류, 지원되지 않는 파일 유형
+● 3줄 요약:
+- 문서 '99 도면.PDF.pdf'는 약 20MB 크기의 PDF 파일입니다.
+- 내용 추출이 지원되지 않는 파일 유형으로 인해 OCR 처리 중 HTTP 500 에러가 발생했습니다.
+- 파일의 실제 내용에 대한 정보는 현재 제공되지 않습니다.
+=========================================
+source_name: 99 도면.PDF.pdf
+source_type: pdf
+size_bytes: 20669733
+content_extraction: unsupported_file_type
+ocr_error: HTTP Error 500: Internal Server Error

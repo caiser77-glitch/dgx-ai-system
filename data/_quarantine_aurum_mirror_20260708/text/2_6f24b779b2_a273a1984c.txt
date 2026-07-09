@@ -1,0 +1,12 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 지원되지 않는 파일, 심의 의견서, hwpx
+● 3줄 요약:
+- 문서 형식이 지원되지 않아 내용 추출이 불가함
+- 파일 크기는 59,234 바이트임
+- 파일 유형은 .hwpx 형식임
+=========================================
+source_name: 2. 심의 의견서.hwpx
+source_type: hwpx
+size_bytes: 59234
+content_extraction: unsupported_file_type

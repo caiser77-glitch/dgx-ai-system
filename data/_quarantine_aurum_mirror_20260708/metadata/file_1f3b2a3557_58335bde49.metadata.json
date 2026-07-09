@@ -1,0 +1,19 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_1f3b2a3557.txt",
+  "source_name": "file_1f3b2a3557.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T13:22:41+09:00",
+  "processed_at": "2026-07-06T13:22:41+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "OSError",
+    "message": "[Errno 45] Operation not supported: '/home/caiser77'",
+    "return_code": 1
+  }
+}

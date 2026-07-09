@@ -1,0 +1,13 @@
+source_name: IMG_4288.JPG
+source_type: jpg
+size_bytes: 6566230
+path: /mnt/dgxbackup/2026 세일/양곡부두/02. 사진/2026.02.10/허과/IMG_4288.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:10 09:28:03
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.05357
+gps_lon: 128.79248

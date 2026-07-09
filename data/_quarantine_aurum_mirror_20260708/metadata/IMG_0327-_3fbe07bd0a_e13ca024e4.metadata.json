@@ -1,0 +1,46 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0327-_3fbe07bd0a.txt",
+  "source_name": "IMG_0327-_3fbe07bd0a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T15:21:23+09:00",
+  "processed_at": "2026-06-29T15:22:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0327-_3fbe07bd0a_e13ca024e4.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0327-_3fbe07bd0a_e13ca024e4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "성남낙생 송전선로 소규모",
+    "taxon_group": "미확정",
+    "document_type": "사진",
+    "class_name": "사진",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#사진",
+      "#허과",
+      "#조양"
+    ],
+    "summary": "허과 조양 사진: IMG_0327-왜가리.jpg, 크기 507717바이트, 해상도 1097x823, RGB 형식 JPEG",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "왜가리 사진 파일 정보 제공",
+      "파일 크기: 507,717 바이트, 해상도: 1097x823 픽셀",
+      "RGB 모드, JPEG 형식"
+    ],
+    "category": "사진",
+    "keywords": [
+      "왜가리",
+      "사진",
+      "JPEG"
+    ]
+  }
+}

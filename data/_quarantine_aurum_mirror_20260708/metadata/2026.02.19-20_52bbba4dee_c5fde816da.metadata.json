@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.19-20_52bbba4dee.txt",
+  "source_name": "2026.02.19-20_52bbba4dee.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:30:25+09:00",
+  "processed_at": "2026-06-23T17:30:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.19-20_52bbba4dee_c5fde816da.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.19-20_52bbba4dee_c5fde816da.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 광주도시철도",
+    "project_name": "광주도시철도 동계조류",
+    "class_name": "조류",
+    "tags": [
+      "#광주도시철도",
+      "#동계조류",
+      "#야장"
+    ],
+    "summary": "광주도시철도 동계조류에 대한 야장 사진. 크기는 2480x3507, JPEG 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "광주도시철도 동계조류에 대한 사진 문서입니다.",
+      "2026년 2월 19일부터 20일까지 촬영된 이미지입니다.",
+      "이미지는 흑백(L) 모드로 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "광주도시철도",
+      "동계조류",
+      "야장"
+    ]
+  }
+}

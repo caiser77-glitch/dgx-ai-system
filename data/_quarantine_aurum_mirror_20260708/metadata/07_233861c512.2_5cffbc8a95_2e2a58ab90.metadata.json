@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/07_233861c512.2_5cffbc8a95.csv",
+  "source_name": "07_233861c512.2_5cffbc8a95.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:33:43+09:00",
+  "processed_at": "2026-07-08T11:33:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512.2_5cffbc8a95_2e2a58ab90.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/07_233861c512.2_5cffbc8a95_2e2a58ab90.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512.2_5cffbc8a95_2e2a58ab90.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 판석 포장 단위 수량이 포함된 CSV 형식의 데이터 파일입니다.",
+      "총 54개의 행으로 구성되어 있으며, 특정 자재의 규격 및 수량 정보를 담고 있습니다.",
+      "데이터의 상세 내용은 판석 포장과 관련된 물량 산출 자료로 판단됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "판석 포장",
+      "단위 수량",
+      "CSV 데이터"
+    ]
+  }
+}

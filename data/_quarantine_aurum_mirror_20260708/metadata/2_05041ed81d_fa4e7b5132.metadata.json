@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_05041ed81d.txt",
+  "source_name": "2_05041ed81d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:56:47+09:00",
+  "processed_at": "2026-07-08T11:56:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_05041ed81d_fa4e7b5132.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_05041ed81d_fa4e7b5132.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2월 현장조사 확인서 PDF 파일(293,546 바이트)에 대한 분석 결과입니다.",
+      "파일 유형 미지원으로 인해 내용 추출 작업이 실패하였습니다.",
+      "OCR 처리 과정에서 URL 내 제어 문자 포함으로 인한 오류가 발생했습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "현장조사",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

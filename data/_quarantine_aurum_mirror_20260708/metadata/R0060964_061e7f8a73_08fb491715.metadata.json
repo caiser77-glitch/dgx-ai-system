@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060964_061e7f8a73.txt",
+  "source_name": "R0060964_061e7f8a73.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:56:56+09:00",
+  "processed_at": "2026-07-08T09:57:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060964_061e7f8a73_08fb491715.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060964_061e7f8a73_08fb491715.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 5월 6일 오전 7시 53분에 촬영된 RICOH WG-6 카메라 이미지 데이터입니다.",
+      "평택호 사후 모니터링 현장의 사진 파일로 GPS 좌표(북위 37.022, 동경 126.872)를 포함하고 있습니다.",
+      "해당 이미지는 아우룸생태연구소의 평택호 관련 조사 기록물 중 하나입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "평택호",
+      "모니터링",
+      "현장사진"
+    ]
+  }
+}

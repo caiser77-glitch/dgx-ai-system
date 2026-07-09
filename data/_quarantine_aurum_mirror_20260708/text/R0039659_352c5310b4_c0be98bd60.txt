@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 메타데이터, RICOH WG-6, 촬영 정보
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 2026년 3월 4일 오전 10시 47분에 과천 주암 지역에서 촬영되었습니다.
+- 파일 경로는 유과 관련 폴더 내의 R0039659.JPG로 확인됩니다.
+=========================================
+source_name: R0039659.JPG
+source_type: jpg
+size_bytes: 2094741
+path: /mnt/dgxbackup/2026 이산/과천주암/02. 사진/2026.03.04/유과/R0039659.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:04 10:47:39
+camera_make: RICOH
+camera_model: RICOH WG-6

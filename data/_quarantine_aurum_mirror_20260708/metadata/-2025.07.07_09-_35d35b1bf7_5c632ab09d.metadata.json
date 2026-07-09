@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/-2025.07.07_09-_35d35b1bf7.txt",
+  "source_name": "-2025.07.07_09-_35d35b1bf7.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T16:46:50+09:00",
+  "processed_at": "2026-06-29T16:48:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/-2025.07.07_09-_35d35b1bf7_5c632ab09d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/-2025.07.07_09-_35d35b1bf7_5c632ab09d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 2025년 7월 7일부터 9일까지 진행된 양서류 야장 활동의 사진",
+      "사진은 JPEG 형식으로, 크기는 2480x3507 픽셀이며, 파일 크기는 522,915 바이트",
+      "야장 활동은 야간에 이루어지는 생물 관찰 및 조사 활동을 의미"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "양서류",
+      "야장"
+    ]
+  }
+}

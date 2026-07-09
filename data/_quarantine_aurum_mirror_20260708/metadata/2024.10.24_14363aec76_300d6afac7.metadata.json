@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.10.24_14363aec76.txt",
+  "source_name": "2024.10.24_14363aec76.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T00:44:16+09:00",
+  "processed_at": "2026-06-23T00:45:44+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024.10.24_14363aec76_300d6afac7.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024.10.24_14363aec76_300d6afac7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2024년 10월 24일 금산 제원지구에서 촬영된 포유류 사진\nJPEG 형식, RGB 모드, 2181x3083 픽셀 크기\n428,670 바이트 크기의 이미지 파일",
+    "tags": [
+      "#포유류",
+      "#금산 제원지구",
+      "#야장"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 10월 24일 금산 제원지구에서 촬영된 포유류 사진",
+      "JPEG 형식, RGB 모드, 2181x3083 픽셀 크기",
+      "428,670 바이트 크기의 이미지 파일"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포유류",
+      "금산 제원지구",
+      "야장"
+    ]
+  }
+}

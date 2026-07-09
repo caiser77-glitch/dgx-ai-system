@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0302_617171dc66.txt",
+  "source_name": "0302_617171dc66.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:52:29+09:00",
+  "processed_at": "2026-07-08T11:52:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0302_617171dc66_f984680b87.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0302_617171dc66_f984680b87.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경영향조사의 실시내용 및 조치결과에 대한 수정사항을 다루는 문서입니다.",
+      "PDF 파일 처리 과정에서 OCR 오류가 발생하였습니다.",
+      "파일명 내 제어 문자 포함으로 인해 데이터 추출에 문제가 발생한 것으로 분석됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향조사",
+      "조치결과",
+      "OCR 오류"
+    ]
+  }
+}

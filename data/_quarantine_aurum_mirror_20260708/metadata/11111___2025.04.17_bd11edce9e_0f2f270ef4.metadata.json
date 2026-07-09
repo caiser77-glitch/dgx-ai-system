@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11111___2025.04.17_bd11edce9e.txt",
+  "source_name": "11111___2025.04.17_bd11edce9e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:59+09:00",
+  "processed_at": "2026-07-08T12:15:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11111___2025.04.17_bd11edce9e_0f2f270ef4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11111___2025.04.17_bd11edce9e_0f2f270ef4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "호미반도의 육상동식물상에 대한 조사 보고서",
+      "2025년 4월 17일 작성 예정",
+      "파일 형식이 지원되지 않아 내용 추출 불가"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "호미반도",
+      "육상동식물상",
+      "2025"
+    ]
+  }
+}

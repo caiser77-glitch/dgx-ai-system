@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: RICOH WG-6, 디지털 이미지, 현장 사진
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 디지털 이미지 파일 정보입니다.
+- 2026년 3월 19일 오후 2시 30분에 촬영되었습니다.
+- 광주도시철도 현장 조사 과정에서 생성된 사진 데이터입니다.
+=========================================
+source_name: R0039941 st.4.JPG
+source_type: jpg
+size_bytes: 1872231
+path: /mnt/dgxbackup/2026 이산/광주도시철도/02. 사진/2026.03.19-20/유과/R0039941 st.4.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:19 14:30:17
+camera_make: RICOH
+camera_model: RICOH WG-6

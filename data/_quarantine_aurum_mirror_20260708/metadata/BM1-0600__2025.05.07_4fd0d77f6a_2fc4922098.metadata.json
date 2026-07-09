@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/BM1-0600__2025.05.07_4fd0d77f6a.txt",
+  "source_name": "BM1-0600__2025.05.07_4fd0d77f6a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:46:04+09:00",
+  "processed_at": "2026-07-08T11:46:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/BM1-0600__2025.05.07_4fd0d77f6a_2fc4922098.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/BM1-0600__2025.05.07_4fd0d77f6a_2fc4922098.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 아우룸생태연구소의 입지 타당성에 대한 내용을 다룹니다.",
+      "파일 형식은 .hwp로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "문서 크기는 26,112 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "입지 타당성",
+      "아우룸생태연구소",
+      "hwp 파일"
+    ]
+  }
+}

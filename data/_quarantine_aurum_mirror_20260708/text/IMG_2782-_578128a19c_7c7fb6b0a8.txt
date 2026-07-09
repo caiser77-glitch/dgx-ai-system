@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 쇠오리, 사진, 서버 오류
+● 3줄 요약:
+- 이미지 파일 'IMG_2782-쇠오리.jpg'는 쇠오리를 주제로 한 사진입니다.
+- 파일 크기는 509,883 바이트이며, 해상도는 1106x830 픽셀입니다.
+- OCR 처리 시 서버 오류가 발생하여 텍스트 인식이 불가능합니다.
+=========================================
+source_name: IMG_2782-쇠오리.jpg
+source_type: jpg
+size_bytes: 509883
+width: 1106
+height: 830
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

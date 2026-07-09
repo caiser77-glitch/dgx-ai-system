@@ -1,0 +1,4 @@
+source_name: 25.06.05 토지이용계획, 유치업종계획, 인구.zip
+source_type: zip
+size_bytes: 39180375
+content_extraction: unsupported_file_type

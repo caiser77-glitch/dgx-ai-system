@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3_7._2_aa84fafa14.txt",
+  "source_name": "3_7._2_aa84fafa14.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:02:29+09:00",
+  "processed_at": "2026-06-23T21:03:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/3_7._2_aa84fafa14_1b4f6426f6.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/3_7._2_aa84fafa14_1b4f6426f6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "야장",
+    "tags": [
+      "#야장",
+      "#3차",
+      "#탐문"
+    ],
+    "summary": "야장 3차 7.탐문 (2).jpg, 크기: 305762 bytes, 해상도: 1226x1549, 형식: JPEG",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "3차 탐문 조사 결과를 담은 이미지 파일",
+      "조사 내용은 시각적으로 표현되어 있음",
+      "파일 크기: 305,762 바이트, 해상도: 1226x1549 픽셀"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "3차 탐문",
+      "조사 결과",
+      "이미지 파일"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_d34c6f9645.txt",
+  "source_name": "file_d34c6f9645.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:58+09:00",
+  "processed_at": "2026-07-08T12:05:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_d34c6f9645_613026a609.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_d34c6f9645_613026a609.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "본 문서는 기수갈고둥에 관한 자문의견서입니다.",
+      "파일 형식은 HWP이며 파일 크기는 140,800 바이트입니다.",
+      "내용 추출이 지원되지 않아 직접 확인이 필요한 문서입니다."
+    ],
+    "category": "자문의견서",
+    "keywords": [
+      "기수갈고둥",
+      "자문의견서",
+      "HWP"
+    ]
+  }
+}

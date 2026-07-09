@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_6b52f1180f.txt",
+  "source_name": "file_6b52f1180f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:30+09:00",
+  "processed_at": "2026-07-08T13:52:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_6b52f1180f_ec84d440b3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_6b52f1180f_ec84d440b3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일(포유류.jpg)에 대한 메타데이터 정보입니다.",
+      "파일 경로는 평택호 프로젝트의 야장 및 영수증 관련 폴더 내에 위치합니다.",
+      "이미지 규격은 2181x3083 해상도의 RGB 모드 JPEG 형식입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "포유류.jpg",
+      "메타데이터",
+      "평택호"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061627_85ab548f8e.txt",
+  "source_name": "R0061627_85ab548f8e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:31:12+09:00",
+  "processed_at": "2026-07-08T09:31:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061627_85ab548f8e_2c95cfba09.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061627_85ab548f8e_2c95cfba09.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 5월 28일 김포 풍무 지역에서 촬영된 이미지 파일 정보입니다.",
+      "RICOH WG-6 카메라를 사용하여 오후 4시 15분에 촬영되었습니다.",
+      "해당 파일은 모니터링 목적의 사진 데이터로 GPS 좌표 정보를 포함하고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "김포 풍무",
+      "모니터링",
+      "RICOH WG-6"
+    ]
+  }
+}

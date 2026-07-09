@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_255603b455.txt",
+  "source_name": "2_255603b455.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:07:59+09:00",
+  "processed_at": "2026-06-23T20:09:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_255603b455_646436d630.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_255603b455_646436d630.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "포유류",
+    "tags": [
+      "#경북경산",
+      "#20251117",
+      "#사진"
+    ],
+    "summary": "2025년 11월 17일 경북 경산에서 촬영된 포유류 사진. 파일 크기 592,135바이트, 1024x768 픽셀, RGB 모드, JPEG 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "경북 경산에서 촬영된 포유류 사진",
+      "2025년 11월 17일에 촬영",
+      "1024x768 해상도의 RGB 모드 JPEG 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포유류",
+      "경북 경산",
+      "2025년 11월 17일"
+    ]
+  }
+}

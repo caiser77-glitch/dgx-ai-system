@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/BM1-0800__2026.05.07_219ac0bf39.txt",
+  "source_name": "BM1-0800__2026.05.07_219ac0bf39.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:45:59+09:00",
+  "processed_at": "2026-07-08T11:46:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/BM1-0800__2026.05.07_219ac0bf39_2cc690c5e0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/BM1-0800__2026.05.07_219ac0bf39_2cc690c5e0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 'BM1-0800(종합평가및결론)'은 2026년 5월 7일에 작성된 아우룸생태연구소의 종합 평가 및 결론 문서입니다.",
+      "문서 크기는 27,136 바이트이며, HWP 파일 형식으로 제공됩니다.",
+      "현재 해당 파일 형식은 콘텐츠 추출이 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "종합평가",
+      "결론",
+      "HWP"
+    ]
+  }
+}

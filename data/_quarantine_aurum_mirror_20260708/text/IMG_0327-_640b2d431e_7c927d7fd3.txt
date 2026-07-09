@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 왜가리, Canon PowerShot SX70 HS, GPS 위치
+● 3줄 요약:
+- 2026년 4월 1일에 촬영된 왜가리 사진
+- Canon PowerShot SX70 HS 카메라로 촬영
+- 위치: 위도 37.352455, 경도 127.077385
+=========================================
+source_name: IMG_0327-왜가리.JPG
+source_type: jpg
+size_bytes: 6531287
+path: /mnt/dgxbackup/2026 KCI/성남낙생 송전선로 소규모/02. 사진/2026.04.01/허과 조양/IMG_0327-왜가리.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:04:01 15:17:34
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.352455
+gps_lon: 127.077385

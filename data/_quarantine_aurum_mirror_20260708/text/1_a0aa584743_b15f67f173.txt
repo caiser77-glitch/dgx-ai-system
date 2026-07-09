@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 전주탄소소재국가산업단지, 산업시설용지, 공급공고문
+● 3줄 요약:
+- 전주 탄소소재 국가산업단지 산업시설 용지 공급에 관한 공고문입니다.
+- 해당 문서는 PDF 형식의 파일로 데이터 크기는 316,681 바이트입니다.
+- OCR 처리 과정에서 인코딩 오류가 발생하여 상세 내용 추출이 불가능합니다.
+=========================================
+source_name: 붙임1_전주탄소소재국가산업단지산업시설용지공급공고문.pdf
+source_type: pdf
+size_bytes: 316681
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-14: ordinal not in range(128)

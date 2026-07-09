@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 환경영향평가, 대상지역설정, OCR오류
+● 3줄 요약:
+- 문서는 환경 영향 평가를 위한 대상 지역 설정에 관한 내용을 다룹니다.
+- 파일 형식이 지원되지 않아 내용 추출이 불가능합니다.
+- OCR 오류로 인해 특정 URL에서 제어 문자가 발견되었습니다.
+=========================================
+source_name: 우주센터-03000(환경영향평가 대상지역의 설정).pdf
+source_type: pdf
+size_bytes: 4254850
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/우주센터-03000(환경영향평가 대상지역의 설정)_pages_1_taxa.xlsx' (found at least ' ')

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 표지, 목차, PDF
+● 3줄 요약:
+- 문서는 표지 및 목차를 포함하는 PDF 파일입니다.
+- 파일 크기는 143,535 바이트입니다.
+- OCR 처리에 실패하여 내용 추출이 지원되지 않습니다.
+=========================================
+source_name: 0000 표지 및 목차.hwp.pdf
+source_type: pdf
+size_bytes: 143535
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/0000 표지 및 목차.hwp_pages_1_taxa.xlsx' (found at least ' ')

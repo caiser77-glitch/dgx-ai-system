@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/08_1e882f2eb0.sheet_10cc922ad9.txt",
+  "source_name": "08_1e882f2eb0.sheet_10cc922ad9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:28+09:00",
+  "processed_at": "2026-07-08T11:32:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0.sheet_10cc922ad9_7e775ed876.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0.sheet_10cc922ad9_7e775ed876.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일은 '필지경계점 말박기 위치조서'와 관련된 데이터를 포함하고 있습니다.",
+      "총 15개의 행이 존재하며, 대부분의 열이 비어있는 상태입니다.",
+      "외부말뚝에 대한 정보가 일부 포함되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "필지경계점",
+      "말박기",
+      "외부말뚝"
+    ]
+  }
+}

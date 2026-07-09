@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20251118_120934_e3206d728a.txt",
+  "source_name": "20251118_120934_e3206d728a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T16:42:24+09:00",
+  "processed_at": "2026-06-23T16:43:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20251118_120934_e3206d728a_b6a42e1c3f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20251118_120934_e3206d728a_b6a42e1c3f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "사진",
+    "tags": [
+      "#35.771944",
+      "#128.829722",
+      "#SM-G996N"
+    ],
+    "summary": "2025년 11월 18일 삼성 SM-G996N으로 촬영된 숨편한 힐링숲 진입도로 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 18일에 촬영된 숨편한 힐링숲 진입도로의 사진",
+      "삼성 스마트폰(SM-G996N)으로 촬영, GPS 좌표는 35.771944, 128.829722",
+      "사진 크기는 1832x2715 픽셀, RGB 모드, JPEG 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "힐링숲",
+      "진입도로",
+      "GPS"
+    ]
+  }
+}

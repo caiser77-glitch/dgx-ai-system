@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/-_2_f216a13a23.txt",
+  "source_name": "-_2_f216a13a23.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T16:50:29+09:00",
+  "processed_at": "2026-06-29T16:52:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/-_2_f216a13a23_37cbab5a4a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/-_2_f216a13a23_37cbab5a4a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천 탐문 조사 결과를 담은 사진 파일",
+      "EPSON ES-580W 카메라로 촬영",
+      "JPEG 형식, RGB 모드, 1729x2487 픽셀 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "탐문",
+      "EPSON ES-580W"
+    ]
+  }
+}

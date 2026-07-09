@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060493_98335a13df.txt",
+  "source_name": "R0060493_98335a13df.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T10:11:01+09:00",
+  "processed_at": "2026-07-08T10:11:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060493_98335a13df_83439f0a87.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060493_98335a13df_83439f0a87.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 파일은 R0060493.jpg라는 명칭의 이미지 데이터입니다.",
+      "소래포구 지역의 해충 모니터링 관련 경로에 저장된 사진 파일입니다.",
+      "RGB 모드의 JPEG 형식으로, 400x300 해상도를 가진 이미지입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "해충 모니터링",
+      "소래포구",
+      "이미지 데이터"
+    ]
+  }
+}

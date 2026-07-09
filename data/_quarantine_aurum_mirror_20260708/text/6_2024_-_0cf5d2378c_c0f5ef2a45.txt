@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 증평, 육상곤충
+● 3줄 요약:
+- 제6차 전국자연환경조사 2024 증평-육상곤충 관련 문서입니다.
+- 문서의 크기는 약 5.9MB입니다.
+- OCR 처리 실패로 인해 상세 내용 추출이 불가능합니다.
+=========================================
+source_name: 제6차 전국자연환경조사 2024 증평-육상곤충.pdf
+source_type: pdf
+size_bytes: 5931188
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제6차 전국자연환경조사 2024 증평-육상곤충_pages_1_taxa.xlsx' (found at least ' ')

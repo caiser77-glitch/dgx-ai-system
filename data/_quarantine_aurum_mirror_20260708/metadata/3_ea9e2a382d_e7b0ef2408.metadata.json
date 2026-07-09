@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3_ea9e2a382d.txt",
+  "source_name": "3_ea9e2a382d.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:13:30+09:00",
+  "processed_at": "2026-06-23T21:14:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/3_ea9e2a382d_e7b0ef2408.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/3_ea9e2a382d_e7b0ef2408.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "오천항 정비공사 사후",
+    "class_name": "수달",
+    "tags": [
+      "#수달",
+      "#오천항",
+      "#정비공사"
+    ],
+    "summary": "2026년 3월 20일 오천항 정비공사 사후 남이에서 촬영된 수달 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 20일 오전 10시 36분에 촬영된 수달 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, GPS 좌표는 위도 36.4428, 경도 126.515742",
+      "JPEG 형식, 1424x1068 해상도, 파일 크기 1,066,779 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "수달",
+      "Panasonic DC-TZ99",
+      "GPS 좌표"
+    ]
+  }
+}

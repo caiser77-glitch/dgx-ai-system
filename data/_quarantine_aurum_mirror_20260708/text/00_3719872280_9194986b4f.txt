@@ -1,0 +1,12 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 00_토지조서.xlsx
+source_type: xlsx
+sheet: 01.총괄, rows: 462, columns: 22
+sheet: 02.토지조서, rows: 581, columns: 59
+sheet: 02.토지조서-출력용, rows: 578, columns: 14
+sheet: 03.토지조서 (지구외도로-사격장진입도로), rows: 33, columns: 59

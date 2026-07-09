@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_76a366e1d6.txt",
+  "source_name": "file_76a366e1d6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:21+09:00",
+  "processed_at": "2026-07-08T12:05:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_76a366e1d6_281b2ea809.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_76a366e1d6_281b2ea809.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '본안 설계 자료 요약'은 HWP 파일 형식으로 제공되었습니다.",
+      "파일 크기는 1,344,000 바이트입니다.",
+      "현재 해당 파일 형식의 내용 추출은 지원되지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "HWP",
+      "설계자료",
+      "내용추출"
+    ]
+  }
+}

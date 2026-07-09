@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.05.28-29_586659d3be.txt",
+  "source_name": "2025.05.28-29_586659d3be.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T11:08:41+09:00",
+  "processed_at": "2026-06-30T11:11:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2025.05.28-29_586659d3be_1476d5e5fa.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2025.05.28-29_586659d3be_1476d5e5fa.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 5월 28-29일 아산방축에서 촬영한 식생 사진",
+      "JPEG 형식, 2480x3507 픽셀, 674KB 크기",
+      "야장 및 영수증 폴더에 저장"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "아산방축",
+      "식생",
+      "야장"
+    ]
+  }
+}

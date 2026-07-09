@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/500_6f57264c2a.txt",
+  "source_name": "500_6f57264c2a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:31:03+09:00",
+  "processed_at": "2026-06-23T21:32:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/500_6f57264c2a_300c7f539e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/500_6f57264c2a_300c7f539e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 천마기술단",
+    "project_name": "서산 부장리 고분군 기반시설 정비사업",
+    "class_name": "토목공사",
+    "tags": [
+      "#토목단가",
+      "#견적서",
+      "#서산"
+    ],
+    "summary": "원맨 상부 500.jpg 파일의 토목단가 견적서. 파일 크기 64111바이트, 909x213 RGB JPEG 형식.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "원맨 상부 500.jpg는 서산 부장리 고분군 기반시설 정비사업 관련 토목단가 견적서 이미지입니다.",
+      "이미지는 RGB 모드로, 크기는 909x213 픽셀이며, 파일 크기는 64,111 바이트입니다.",
+      "이 이미지는 2025년 6월 10일 보고서 자료 및 설계자료 폴더에 저장되어 있습니다."
+    ],
+    "category": "견적서",
+    "keywords": [
+      "서산 부장리 고분군",
+      "토목단가",
+      "견적서"
+    ]
+  }
+}

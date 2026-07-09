@@ -1,0 +1,59 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 장비
+● 핵심 키워드: 포장공, 시트, 데이터셋
+● 3줄 요약:
+- 문서는 포장공 업무와 관련된 다양한 시트를 포함하고 있습니다.
+- 시트들은 주로 수량, 포집, 포자, 아집, 아단, 보집 등의 정보를 담고 있으며, 일부 시트는 매우 큰 데이터셋을 포함합니다.
+- 각 시트는 특정 작업 또는 재료에 대한 상세한 정보를 제공하며, 이는 포장공 업무의 전반적인 이해에 도움이 됩니다.
+=========================================
+source_name: 04 포장공.xlsx
+source_type: xlsx
+sheet: 간5, rows: 53, columns: 29
+sheet: 내역서적용수량, rows: 139, columns: 18
+sheet: 포집, rows: 73, columns: 23
+sheet: 포자, rows: 22, columns: 15
+sheet: 아집, rows: 25, columns: 17
+sheet: 아단, rows: 38, columns: 12
+sheet: 보집, rows: 22, columns: 26
+sheet: 보도60, rows: 38, columns: 12
+sheet: 잔블80, rows: 38, columns: 12
+sheet: 판단, rows: 42, columns: 12
+sheet: 경집, rows: 18, columns: 16
+sheet: 경단, rows: 48, columns: 41
+sheet: 포조도, rows: 1048461, columns: 30
+sheet: 포조산, rows: 1048503, columns: 31
+sheet: 차부집, rows: 55, columns: 18
+sheet: 차집, rows: 42, columns: 25
+sheet: 노단, rows: 180, columns: 38
+sheet: 차수, rows: 56, columns: 29
+sheet: 차조수, rows: 21, columns: 27
+sheet: Sheet2, rows: 0, columns: 1
+sheet: 기수, rows: 35, columns: 25
+sheet: 운반, rows: 61, columns: 38
+sheet: 표 (수량), rows: 32, columns: 13
+sheet: 간1, rows: 16, columns: 29
+sheet: 자재, rows: 93, columns: 17
+sheet: 간2, rows: 16, columns: 29
+sheet: 토집, rows: 35, columns: 17
+sheet: 칼아단, rows: 36, columns: 12
+sheet: 콘단, rows: 53, columns: 34
+sheet: 칼아보, rows: 38, columns: 12
+sheet: 전석 (2), rows: 55, columns: 30
+sheet: 포조, rows: 35, columns: 25
+sheet: 콘가집, rows: 53, columns: 17
+sheet: 진포조, rows: 61, columns: 30
+sheet: 블럭80, rows: 41, columns: 12
+sheet: 아포70, rows: 38, columns: 12
+sheet: 아포100, rows: 38, columns: 12
+sheet: 보도조, rows: 46, columns: 29
+sheet: 경조, rows: 53, columns: 20
+sheet: 전석, rows: 55, columns: 30
+sheet: 아덧, rows: 54, columns: 16
+sheet: 간6, rows: 53, columns: 29
+sheet: 물운반, rows: 53, columns: 37
+sheet: 안관, rows: 53, columns: 14
+sheet: 연관, rows: 53, columns: 21
+sheet: 농업, rows: 53, columns: 21
+sheet: L단, rows: 46, columns: 77
+sheet: 도경단, rows: 45, columns: 77
+sheet: 차단, rows: 50, columns: 12

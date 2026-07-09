@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05782_3f47313c45.txt",
+  "source_name": "DSC05782_3f47313c45.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T20:36:22+09:00",
+  "processed_at": "2026-06-24T20:38:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05782_3f47313c45_e9a3108103.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05782_3f47313c45_e9a3108103.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 SONY ILCE-7RM4 카메라 사진\n울산 온산국가산업단지 1차 조사 시점의 박부(곤충, 청개구리) 사진\n9504x6336 해상도의 RGB 형식 MPO 이미지",
+    "tags": [
+      "#울산 온산국가산업단지",
+      "#박부",
+      "#곤충",
+      "#청개구리",
+      "#SONY ILCE-7RM4"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 SONY ILCE-7RM4 카메라 사진",
+      "울산 온산국가산업단지 1차 조사 시점의 박부(곤충, 청개구리) 사진",
+      "9504x6336 해상도의 RGB 형식 MPO 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "울산 온산국가산업단지",
+      "박부",
+      "곤충",
+      "청개구리",
+      "SONY ILCE-7RM4"
+    ]
+  }
+}

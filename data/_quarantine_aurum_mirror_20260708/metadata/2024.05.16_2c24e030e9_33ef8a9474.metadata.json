@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.05.16_2c24e030e9.txt",
+  "source_name": "2024.05.16_2c24e030e9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:37:48+09:00",
+  "processed_at": "2026-06-29T17:39:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2024.05.16_2c24e030e9_33ef8a9474.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2024.05.16_2c24e030e9_33ef8a9474.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 5월 16일 부장리 고분군에서 촬영한 양서류 사진",
+      "사진 크기: 2480x3507, 모노크롬 (L) 모드, JPEG 형식",
+      "파일 크기: 482,356 바이트, 경로: /mnt/dgxbackup/2026 천마기술단/서산 부장리 고분군/05. 야장 및 영수증/야장/"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "양서류",
+      "고분군",
+      "사진"
+    ]
+  }
+}

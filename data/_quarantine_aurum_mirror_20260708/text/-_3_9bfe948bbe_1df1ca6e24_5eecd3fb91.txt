@@ -1,0 +1,18 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 음성천, 탐문조사, EPSON ES-580W
+● 3줄 요약:
+- 음성천 탐문 조사 결과를 담은 사진 파일
+- EPSON ES-580W 카메라로 촬영
+- JPEG 형식, RGB 모드, 1760x2487 해상도
+=========================================
+source_name: 음성천-탐문3.jpg
+source_type: jpg
+size_bytes: 350074
+path: /mnt/dgxbackup/2026 아라기술/음성천/05. 야장 및 영수증/야장/음성천-탐문3.jpg
+width: 1760
+height: 2487
+mode: RGB
+format: JPEG
+camera_make: SEIKO EPSON CORP.
+camera_model: ES-580W

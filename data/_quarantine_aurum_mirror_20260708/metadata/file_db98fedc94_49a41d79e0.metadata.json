@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_db98fedc94.txt",
+  "source_name": "file_db98fedc94.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:19:27+09:00",
+  "processed_at": "2026-07-08T13:19:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_db98fedc94_49a41d79e0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_db98fedc94_49a41d79e0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경 보전 방안에 대한 검토 및 보완 요청에 관한 내용을 담고 있습니다.",
+      "우주센터 조성 사업과 관련된 환경 영향 평가가 포함되어 있습니다.",
+      "문서 처리 과정에서 OCR 오류가 발생하여 일부 내용이 제대로 추출되지 않았습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경보전",
+      "우주센터",
+      "조성사업"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/NS_-0743___777-800_4dfa64d2ae.txt",
+  "source_name": "NS_-0743___777-800_4dfa64d2ae.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:18:54+09:00",
+  "processed_at": "2026-07-08T13:19:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/NS_-0743___777-800_4dfa64d2ae_ef4829d3a8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/NS_-0743___777-800_4dfa64d2ae_ef4829d3a8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "PDF 파일 'NS(본안)-0743(지형지질)_(777-800).pdf'의 크기는 5,942,264 바이트입니다.",
+      "파일 내용 추출이 지원되지 않는 파일 유형입니다.",
+      "OCR 처리 중 인코딩 오류가 발생하여 데이터 추출에 실패했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "파일 크기",
+      "OCR 오류"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 착수보고회 현황 (2).jpg
+source_type: jpg
+size_bytes: 3020468
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.13 환평자료/06_착수보고회/회의록/착수보고회 현황 (2).jpg
+width: 4000
+height: 3000
+mode: RGB
+format: JPEG
+datetime_taken: 2025:03:05 14:01:41
+camera_make: samsung
+camera_model: Galaxy S23
+gps_lat: 35.178226
+gps_lon: 128.146901

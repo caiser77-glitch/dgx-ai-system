@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_547_35870d1399.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_547_35870d1399.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T01:20:58+09:00",
+  "processed_at": "2026-06-24T01:22:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_547_35870d1399_179d12516e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_547_35870d1399_179d12516e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "포곤",
+    "tags": [
+      "#Canon_PowerShot_SX70_HS",
+      "#GPS_34.457043_127.491997",
+      "#RGB"
+    ],
+    "summary": "Canon PowerShot SX70 HS로 촬영된 고흥 산단의 포곤 사진. GPS 좌표: 34.457043, 127.491997.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 25일 14시 58분 30초에 촬영된 Canon PowerShot SX70 HS 카메라 사진",
+      "사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식",
+      "GPS 좌표: 위도 34.457043, 경도 127.491997"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표",
+      "MPO 형식"
+    ]
+  }
+}

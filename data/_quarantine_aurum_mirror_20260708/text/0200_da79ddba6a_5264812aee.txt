@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: PDF, 콘텐츠 추출 불가, OCR 오류
+● 3줄 요약:
+- 문서는 PDF 형태로 제공되나, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.
+- OCR 오류가 발생하여 파일 경로에 제어 문자가 포함되어 있습니다.
+- 파일 크기는 4,021,363 바이트이며, 이름은 '(본안) 0200 계획의 개요.pdf'입니다.
+=========================================
+source_name: (본안) 0200 계획의 개요.pdf
+source_type: pdf
+size_bytes: 4021363
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/(본안) 0200 계획의 개요_pages_1_taxa.xlsx' (found at least ' ')

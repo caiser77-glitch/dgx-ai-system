@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 파일 크기, OCR 오류
+● 3줄 요약:
+- 문서 '13000-5.pdf'는 PDF 형식으로, 크기가 16,149,702 바이트입니다.
+- 내용 추출이 지원되지 않는 파일 유형으로 표시되었습니다.
+- OCR 처리 중 HTTP 500 에러가 발생하여 문서 내용을 읽을 수 없습니다.
+=========================================
+source_name: (본안)13000(부록)-5.pdf
+source_type: pdf
+size_bytes: 16149702
+content_extraction: unsupported_file_type
+ocr_error: HTTP Error 500: Internal Server Error

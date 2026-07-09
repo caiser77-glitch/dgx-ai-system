@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/9-_18a47ca95f.txt",
+  "source_name": "9-_18a47ca95f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:09:15+09:00",
+  "processed_at": "2026-07-08T12:09:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/9-_18a47ca95f_c38a87f3e6.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/9-_18a47ca95f_c38a87f3e6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '문헌9-식물상.xlsx'라는 이름의 엑셀 파일로 구성되어 있습니다.",
+      "시트 이름은 'Sheet1'이며, 총 195개의 행과 1개의 열을 포함하고 있습니다.",
+      "이 파일은 식물상에 대한 정보를 담고 있을 것으로 추정됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "엑셀 파일",
+      "식물상",
+      "데이터 시트"
+    ]
+  }
+}

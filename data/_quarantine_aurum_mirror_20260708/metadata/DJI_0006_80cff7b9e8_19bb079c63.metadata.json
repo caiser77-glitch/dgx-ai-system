@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_0006_80cff7b9e8.txt",
+  "source_name": "DJI_0006_80cff7b9e8.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T07:11:21+09:00",
+  "processed_at": "2026-06-24T07:12:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DJI_0006_80cff7b9e8_19bb079c63.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DJI_0006_80cff7b9e8_19bb079c63.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "DJI 드론 촬영 이미지, 2025년 2월 6일 16시 16분 8초에 촬영\nGPS 좌표: 위도 34.441362, 경도 127.485386\n해상도 5472x3648, RGB 모드, MPO 포맷",
+    "tags": [
+      "#드론",
+      "#GPS",
+      "#DJI"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "DJI 드론 촬영 이미지, 2025년 2월 6일 16시 16분 8초에 촬영",
+      "GPS 좌표: 위도 34.441362, 경도 127.485386",
+      "해상도 5472x3648, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "드론",
+      "GPS",
+      "DJI"
+    ]
+  }
+}

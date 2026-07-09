@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/6_2024_-_9b691f6723.txt",
+  "source_name": "6_2024_-_9b691f6723.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:56:45+09:00",
+  "processed_at": "2026-07-08T11:56:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/6_2024_-_9b691f6723_2318cc48e3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/6_2024_-_9b691f6723_2318cc48e3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제6차 전국자연환경조사 2024년도 진천 지역 식물상에 관한 연구 보고서입니다.",
+      "문서 파일 크기는 약 924KB이며, 시스템상의 OCR 처리 과정에서 오류가 발생하였습니다.",
+      "파일명 내 공백 포함으로 인해 데이터 추출 및 URL 경로 인식에 문제가 확인되었습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "진천",
+      "식물상"
+    ]
+  }
+}

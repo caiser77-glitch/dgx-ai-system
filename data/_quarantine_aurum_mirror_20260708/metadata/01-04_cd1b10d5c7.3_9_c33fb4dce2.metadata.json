@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-04_cd1b10d5c7.3_9.csv",
+  "source_name": "01-04_cd1b10d5c7.3_9.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:43:07+09:00",
+  "processed_at": "2026-07-08T13:43:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-04_cd1b10d5c7.3_9_c33fb4dce2.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-04_cd1b10d5c7.3_9_c33fb4dce2.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-04_cd1b10d5c7.3_9_c33fb4dce2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 소3 연9 데이터를 포함한 CSV 형식의 파일입니다.",
+      "총 10개의 행으로 구성되어 있으며 데이터 컬럼이 다수 존재합니다.",
+      "상세 데이터 내용이 명시되지 않은 구조적 정보 위주의 문서입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV",
+      "데이터셋",
+      "소3 연9"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3000_448e63a837.txt",
+  "source_name": "3000_448e63a837.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:49+09:00",
+  "processed_at": "2026-07-08T11:47:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/3000_448e63a837_cf14c6731a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/3000_448e63a837_cf14c6731a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경영향조사의 실시 내용 및 조사 결과에 대한 조치 사항을 다루고 있습니다.",
+      "PDF 파일 크기는 약 84MB이며, OCR 처리 과정에서 오류가 발생하였습니다.",
+      "파일 경로 내 제어 문자로 인해 URL 접근 시 오류가 발생한 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향조사",
+      "조사결과",
+      "OCR 오류"
+    ]
+  }
+}

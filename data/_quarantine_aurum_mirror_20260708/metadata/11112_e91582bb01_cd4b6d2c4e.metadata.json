@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11112_e91582bb01.txt",
+  "source_name": "11112_e91582bb01.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:41:03+09:00",
+  "processed_at": "2026-07-08T11:41:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11112_e91582bb01_cd4b6d2c4e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11112_e91582bb01_cd4b6d2c4e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '11112 자연환경자산.hwp'는 지원되지 않는 파일 형식입니다.",
+      "파일 크기는 16,744,448 바이트로 확인되었습니다.",
+      "파일 형식 문제로 인해 실제 내용에 대한 요약이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "자연환경자산",
+      "hwp"
+    ]
+  }
+}

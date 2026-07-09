@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4_3f6d0d719c.txt",
+  "source_name": "4_3f6d0d719c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:20:47+09:00",
+  "processed_at": "2026-06-23T21:21:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/4_3f6d0d719c_39d82e314f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/4_3f6d0d719c_39d82e314f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#2024",
+      "#종료"
+    ],
+    "summary": "2024년 4월 4일에 촬영된 Samsung Galaxy A34 5G로 찍힌 영수증 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 4월 4일에 촬영된 영수증 사진",
+      "삼성 Galaxy A34 5G로 촬영",
+      "사진 크기: 1280x1093, RGB 모드, JPEG 형식"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "사진",
+      "삼성"
+    ]
+  }
+}

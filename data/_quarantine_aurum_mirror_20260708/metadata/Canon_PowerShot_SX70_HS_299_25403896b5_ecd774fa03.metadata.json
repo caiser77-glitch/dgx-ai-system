@@ -1,0 +1,42 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_299_25403896b5.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_299_25403896b5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T22:30:09+09:00",
+  "processed_at": "2026-06-23T22:31:15+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_299_25403896b5_ecd774fa03.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_299_25403896b5_ecd774fa03.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "허대 포곤",
+    "tags": [
+      "#Canon",
+      "#PowerShot",
+      "#SX70HS",
+      "#GPS"
+    ],
+    "summary": "Canon PowerShot SX70 HS로 촬영된 허대 포곤 사진. 위치: 경도 127.49398, 위도 34.45229. 크기: 10250507 bytes.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS로 촬영된 사진",
+      "2025년 3월 25일 09:47:49에 촬영",
+      "GPS 좌표: 위도 34.45229, 경도 127.49398"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "사진",
+      "GPS"
+    ]
+  }
+}

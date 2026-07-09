@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2020_366062_-_e0482210ba.txt",
+  "source_name": "5_2020_366062_-_e0482210ba.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:21+09:00",
+  "processed_at": "2026-07-08T11:47:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2020_366062_-_e0482210ba_b0a86634f2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2020_366062_-_e0482210ba_b0a86634f2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제5차 전국자연환경조사 2020년도 부석 지역 조류 데이터 포함",
+      "총 146개의 관찰 기록이 담긴 엑셀 시트 형태의 자료",
+      "각 행은 개별적인 조류 관찰 정보를 나타내는 7개 칼럼으로 구성"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "전국자연환경조사",
+      "부석",
+      "조류"
+    ]
+  }
+}

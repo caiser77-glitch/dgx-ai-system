@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 말똥가리, 사진, 메타데이터
+● 3줄 요약:
+- 말똥가리 사진 파일에 대한 메타데이터 정보 제공
+- OCR 처리 시 서버 에러 발생으로 텍스트 추출 실패
+- 파일 크기 510KB, 해상도 1177x883, RGB 모드, JPEG 형식
+=========================================
+source_name: IMG_2924-말똥가리.jpg
+source_type: jpg
+size_bytes: 510249
+width: 1177
+height: 883
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

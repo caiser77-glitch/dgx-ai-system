@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/00._25.10.13___v5_c5819649eb.05._1.csv",
+  "source_name": "00._25.10.13___v5_c5819649eb.05._1.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:16+09:00",
+  "processed_at": "2026-07-08T12:04:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00._25.10.13___v5_c5819649eb.05._1_8325f5aed2.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/00._25.10.13___v5_c5819649eb.05._1_8325f5aed2.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00._25.10.13___v5_c5819649eb.05._1_8325f5aed2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획표(5-1안)를 포함한 데이터 세트 분석 문서입니다.",
+      "총 93개의 행으로 구성된 CSV 형식의 자료입니다.",
+      "특정 구역에 대한 토지 이용 계획 및 공간 정보 설계를 다룹니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "토지이용계획",
+      "공간설계",
+      "데이터분석"
+    ]
+  }
+}

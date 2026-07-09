@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0500_86_-_4836e49306.txt",
+  "source_name": "0500_86_-_4836e49306.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:58:20+09:00",
+  "processed_at": "2026-07-08T11:58:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0500_86_-_4836e49306_30d0ca0a32.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0500_86_-_4836e49306_30d0ca0a32.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "국지도86호선 확장에 따른 환경현황을 다루는 보고서입니다.",
+      "파일 크기는 약 45MB이며 OCR 처리 과정에서 오류가 발생하였습니다.",
+      "파일명의 공백 및 특수문자로 인해 URL 생성 및 데이터 추출에 문제가 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "국지도86호선",
+      "환경현황",
+      "확장"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/NGGS_0610-_54ad6b92b5.txt",
+  "source_name": "NGGS_0610-_54ad6b92b5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:53+09:00",
+  "processed_at": "2026-07-08T12:03:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/NGGS_0610-_54ad6b92b5_50c123468c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/NGGS_0610-_54ad6b92b5_50c123468c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "소규모 NGGS 프로젝트의 자연생태환경에 관한 PDF 문서입니다.",
+      "파일 크기는 약 17.4MB이며 콘텐츠 추출이 지원되지 않는 유형입니다.",
+      "OCR 처리 과정에서 특정 문자 인코딩 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "NGGS",
+      "자연생태환경",
+      "PDF"
+    ]
+  }
+}

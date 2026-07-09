@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024-12-18_105016_9149e08475.txt",
+  "source_name": "2024-12-18_105016_9149e08475.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:57:52+09:00",
+  "processed_at": "2026-06-22T23:59:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024-12-18_105016_9149e08475_569b109686.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024-12-18_105016_9149e08475_569b109686.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "빛공해 저감방안",
+    "class_name": "호미반도 산림복지단지 조경설계",
+    "tags": [
+      "#빛공해",
+      "#설계도면",
+      "#호미반도"
+    ],
+    "summary": "2024-12-18 105016.jpg, 457069 bytes, 1670x815 RGB JPEG image from 호미반도 산림복지단지 조경설계 DWG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 12월 18일에 캡처된 화면 이미지",
+      "호미반도 산림복지단지 조경설계 관련 DWG 파일의 일부",
+      "RGB 모드, JPEG 형식, 1670x815 픽셀 크기"
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "화면 캡처",
+      "호미반도",
+      "산림복지단지"
+    ]
+  }
+}

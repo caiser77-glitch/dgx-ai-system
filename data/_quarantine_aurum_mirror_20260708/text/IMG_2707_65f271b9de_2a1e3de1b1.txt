@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 미국쑥부쟁이, 사진, 메타데이터
+● 3줄 요약:
+- 미국쑥부쟁이 사진 파일에 대한 메타데이터 정보 제공
+- OCR 처리 시 서버 에러 발생으로 텍스트 추출 불가
+- 이미지 크기: 5184x3888, RGB 모드, MPO 포맷
+=========================================
+source_name: IMG_2707 미국쑥부쟁이.JPG
+source_type: jpg
+size_bytes: 7037355
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

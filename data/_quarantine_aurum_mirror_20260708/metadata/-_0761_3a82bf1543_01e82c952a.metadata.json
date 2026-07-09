@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_0761_3a82bf1543.txt",
+  "source_name": "-_0761_3a82bf1543.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:13:58+09:00",
+  "processed_at": "2026-07-08T13:14:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_0761_3a82bf1543_01e82c952a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_0761_3a82bf1543_01e82c952a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 인구 및 주거에 관한 정보를 포함하고 있으나, OCR 처리 중 오류가 발생하여 내용 추출이 불가능합니다.",
+      "파일 크기는 249,671 바이트이며, PDF 형식의 파일입니다.",
+      "OCR 오류는 'ascii' 코덱이 특정 문자를 인코딩하지 못하는 문제로 인해 발생했습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "인구",
+      "주거",
+      "OCR 오류"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/test_8e9402a4c0.txt",
+  "source_name": "test_8e9402a4c0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:48:47+09:00",
+  "processed_at": "2026-07-08T13:48:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/test_8e9402a4c0_c54e3ca79c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/test_8e9402a4c0_c54e3ca79c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "테스트 이미지 파일에 대한 메타데이터 정보 제공",
+      "OCR 처리 시 서버 에러 발생",
+      "파일 크기, 해상도, 모드, 형식 등의 정보 포함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "메타데이터",
+      "OCR",
+      "서버 에러"
+    ]
+  }
+}

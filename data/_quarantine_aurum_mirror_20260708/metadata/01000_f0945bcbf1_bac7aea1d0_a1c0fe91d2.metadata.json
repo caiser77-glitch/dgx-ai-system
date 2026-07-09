@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01000_f0945bcbf1_bac7aea1d0.txt",
+  "source_name": "01000_f0945bcbf1_bac7aea1d0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:29:50+09:00",
+  "processed_at": "2026-07-08T11:29:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01000_f0945bcbf1_bac7aea1d0_a1c0fe91d2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01000_f0945bcbf1_bac7aea1d0_a1c0fe91d2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "소규모 음성천 01000 사업에 대한 개요 문서입니다.",
+      "문서 형식이 hwp로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "추후 해당 파일 형식에 대한 지원이 필요할 수 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "음성천",
+      "사업개요",
+      "hwp"
+    ]
+  }
+}

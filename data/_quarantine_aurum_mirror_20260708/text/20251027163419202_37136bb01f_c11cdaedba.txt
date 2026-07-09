@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 비어있는 문서, PDF, OCR
+● 3줄 요약:
+- 문서는 비어있는 상태로, 텍스트 내용이 없습니다.
+- PDF 파일의 첫 페이지에는 어떠한 정보도 기재되어 있지 않습니다.
+- OCR 엔진을 통해 처리되었으나, 인식된 텍스트가 없습니다.
+=========================================
+source_name: 20251027163419202.pdf
+source_type: pdf
+ocr_engine: gigabyte-atom-ocr
+ocr_excel_source: http://localhost:7870/outputs/20251027163419202_pages_1_taxa.xlsx
+
+--- Sheet: Sheet1 ---
+페이지, 내용
+1, (텍스트 없음)

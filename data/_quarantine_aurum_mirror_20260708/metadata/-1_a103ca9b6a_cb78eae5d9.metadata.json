@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1_a103ca9b6a.txt",
+  "source_name": "-1_a103ca9b6a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T21:35:11+09:00",
+  "processed_at": "2026-06-22T21:36:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-1_a103ca9b6a_cb78eae5d9.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-1_a103ca9b6a_cb78eae5d9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "식생",
+    "tags": [
+      "#식생",
+      "#힐링숲",
+      "#소규모"
+    ],
+    "summary": "숨편한 힐링숲 진입도로의 식생 사진, 크기 2480x3507, 모노크롬.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "숨편한 힐링숲 진입도로의 식생 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기",
+      "흑백 모드(L)로 저장된 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "힐링숲",
+      "진입도로",
+      "식생"
+    ]
+  }
+}

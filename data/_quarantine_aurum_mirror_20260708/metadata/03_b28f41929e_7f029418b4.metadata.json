@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/03_b28f41929e.txt",
+  "source_name": "03_b28f41929e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:00:28+09:00",
+  "processed_at": "2026-06-29T17:02:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/03_b28f41929e_7f029418b4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/03_b28f41929e_7f029418b4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "상수공급계획 관련 이미지 파일입니다.",
+      "고흥 산단의 설계사 자료 중 하나로, 2025년 3월 13일 환평자료에 포함되어 있습니다.",
+      "CMYK 모드의 JPEG 형식으로, 크기는 1045x951 픽셀입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "상수공급계획",
+      "고흥 산단",
+      "설계사 자료"
+    ]
+  }
+}

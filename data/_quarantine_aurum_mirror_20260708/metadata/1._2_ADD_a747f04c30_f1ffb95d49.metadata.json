@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1._2_ADD_a747f04c30.txt",
+  "source_name": "1._2_ADD_a747f04c30.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:02:39+09:00",
+  "processed_at": "2026-06-29T17:04:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1._2_ADD_a747f04c30_f1ffb95d49.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1._2_ADD_a747f04c30_f1ffb95d49.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2공구 ADD개발대행사업의 계획안 이미지 파일입니다.",
+      "파일 크기는 12,295,816 바이트이며, 해상도는 3508x4963 픽셀입니다.",
+      "PNG 형식의 RGBA 모드로 저장되어 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "2공구",
+      "ADD개발대행사업",
+      "계획안"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_3d115053ae.txt",
+  "source_name": "file_3d115053ae.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:21+09:00",
+  "processed_at": "2026-07-08T13:51:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_3d115053ae_5ca5cdb779.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_3d115053ae_5ca5cdb779.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 부장리 고분군 조성계획과 관련된 위성 베이스 이미지 파일입니다.",
+      "설계 자료 및 조성계획 총괄도 작성을 위한 기초 데이터로 활용됩니다.",
+      "해당 파일은 2026년 5월 본안 작성용으로 분류된 고해상도 PNG 이미지입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "부장리고분군",
+      "위성베이스",
+      "조성계획"
+    ]
+  }
+}

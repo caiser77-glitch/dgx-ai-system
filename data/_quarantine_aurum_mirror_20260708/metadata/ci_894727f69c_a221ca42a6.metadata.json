@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/ci_894727f69c.txt",
+  "source_name": "ci_894727f69c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:00+09:00",
+  "processed_at": "2026-07-08T13:54:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/ci_894727f69c_a221ca42a6.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/ci_894727f69c_a221ca42a6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 파일은 고흥 산업단지 관련 이미지 데이터입니다.",
+      "이미지의 크기는 242x91 픽셀이며 JPEG 형식으로 저장되어 있습니다.",
+      "파일 경로를 통해 2공구 진입도로 검토안과 관련된 자료임을 알 수 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "고흥",
+      "산업단지",
+      "진입도로"
+    ]
+  }
+}

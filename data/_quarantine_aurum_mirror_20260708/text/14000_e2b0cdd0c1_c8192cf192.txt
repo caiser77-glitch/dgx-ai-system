@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 성남낙생, 개인정보보호, PDF
+● 3줄 요약:
+- 성남낙생의 개인정보 보호 관련 내용을 포함하고 있습니다.
+- PDF 파일 크기는 약 72MB입니다.
+- OCR 처리 중 인코딩 오류로 인해 내용 추출이 지원되지 않습니다.
+=========================================
+source_name: (본안)성남낙생_14000(부록)_완_수총개인정보보호.pdf
+source_type: pdf
+size_bytes: 72120046
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

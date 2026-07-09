@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/080808_1700_e8b2884715.txt",
+  "source_name": "080808_1700_e8b2884715.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:54:28+09:00",
+  "processed_at": "2026-06-22T22:55:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/080808_1700_e8b2884715_e27956248e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/080808_1700_e8b2884715_e27956248e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 천마기술단",
+    "project_name": "서산 부장리 고분군 기반시설 정비사업",
+    "class_name": "토목단가",
+    "tags": [
+      "#토목공사",
+      "#견적서",
+      "#서산"
+    ],
+    "summary": "서산 부장리 고분군의 토목공사 견적서 이미지 파일 정보",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 부장리 고분군의 기반시설 정비사업 관련 견적서 이미지 파일",
+      "토목단가 항목에 대한 정보를 포함",
+      "파일 크기: 64,147 바이트, 해상도: 911x216 픽셀, 형식: JPEG"
+    ],
+    "category": "견적서",
+    "keywords": [
+      "서산 부장리 고분군",
+      "기반시설 정비사업",
+      "토목단가"
+    ]
+  }
+}

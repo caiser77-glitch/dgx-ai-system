@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/00_3719872280.02._-.csv",
+  "source_name": "00_3719872280.02._-.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:56:59+09:00",
+  "processed_at": "2026-07-08T11:57:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_3719872280.02._-_59e9d7046b.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/00_3719872280.02._-_59e9d7046b.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_3719872280.02._-_59e9d7046b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "진천군 초평면에 위치한 진천초평 산업단지 관련 토지조서 데이터입니다.",
+      "총 577개의 행으로 구성된 CSV 형식의 문서 자료입니다.",
+      "산업단지 조성 및 관리를 위한 토지 정보가 포함되어 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "진천초평 산업단지",
+      "토지조서",
+      "진천군 초평면"
+    ]
+  }
+}

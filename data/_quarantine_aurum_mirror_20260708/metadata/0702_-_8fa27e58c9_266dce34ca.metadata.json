@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0702_-_8fa27e58c9.txt",
+  "source_name": "0702_-_8fa27e58c9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:46:55+09:00",
+  "processed_at": "2026-07-08T11:47:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0702_-_8fa27e58c9_266dce34ca.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0702_-_8fa27e58c9_266dce34ca.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '0702 자연환경자산 - 수정'은 지원되지 않는 파일 형식인 hwpx로 제공되었습니다.",
+      "파일 크기는 27,219,564 바이트입니다.",
+      "내용 추출이 불가능하므로 상세한 분석과 요약을 제공할 수 없습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "hwpx",
+      "지원되지 않는 파일 형식",
+      "내용 추출 불가"
+    ]
+  }
+}

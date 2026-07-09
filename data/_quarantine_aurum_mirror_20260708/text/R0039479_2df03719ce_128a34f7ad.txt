@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 메타데이터, RICOH WG-6, 촬영정보
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 2026년 2월 9일 오후 2시 13분에 촬영되었으며 파일 경로는 진해신항 관련 경로입니다.
+- 이미지 크기는 2592x1944 해상도이며 GPS 위치 정보는 포함되어 있지 않습니다.
+=========================================
+source_name: R0039479.JPG
+source_type: jpg
+size_bytes: 2214171
+path: /mnt/dgxbackup/2026 세일/진해신항/02. 사진/2026.02.09/유과/R0039479.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:09 14:13:18
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 0.0
+gps_lon: 0.0

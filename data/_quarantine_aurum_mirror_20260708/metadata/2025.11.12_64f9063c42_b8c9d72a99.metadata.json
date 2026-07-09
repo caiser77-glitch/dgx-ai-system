@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.11.12_64f9063c42.txt",
+  "source_name": "2025.11.12_64f9063c42.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T03:16:04+09:00",
+  "processed_at": "2026-06-23T03:17:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.11.12_64f9063c42_b8c9d72a99.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.11.12_64f9063c42_b8c9d72a99.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "행정문서",
+    "summary": "포항혁신도시에서 2025년 11월 12일에 발행된 하이패스 영수증 이미지\n이미지 크기는 590x899 픽셀이며, RGB 모드의 JPEG 형식\n파일 크기는 197,836 바이트",
+    "tags": [
+      "#하이패스",
+      "#영수증",
+      "#포항혁신도시"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항혁신도시에서 2025년 11월 12일에 발행된 하이패스 영수증 이미지",
+      "이미지 크기는 590x899 픽셀이며, RGB 모드의 JPEG 형식",
+      "파일 크기는 197,836 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "하이패스",
+      "영수증",
+      "포항혁신도시"
+    ]
+  }
+}

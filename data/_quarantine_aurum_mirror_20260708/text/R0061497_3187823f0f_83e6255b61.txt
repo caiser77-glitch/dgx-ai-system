@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 광양항 낙포부두, 해충모니터링, 현장사진
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 데이터입니다.
+- 2026년 5월 19일 오전 10시경 광양항 낙포부두 인근에서 촬영되었습니다.
+- 해충 모니터링 현장 조사를 위한 사진 자료로 판단됩니다.
+=========================================
+source_name: R0061497.JPG
+source_type: jpg
+size_bytes: 4015141
+path: /mnt/dgxbackup/2026 아라기술/광양항 낙포부두 해충모니터링/02. 사진/05/R0061497.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:19 10:03:13
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 34.852417
+gps_lon: 127.639913

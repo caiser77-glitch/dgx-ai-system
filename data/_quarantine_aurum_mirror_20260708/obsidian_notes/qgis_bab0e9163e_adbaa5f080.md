@@ -1,0 +1,45 @@
+---
+생성일: 2026-07-06
+장비명: overnight_batch
+원본이름: qgis_bab0e9163e.txt
+원본유형: txt
+년도_업체: unknown
+사업명: unknown
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: Hermes binary not found locally.
+AI_모호성: false
+태그: #자동색인 #NAS_데이터 #Users #nams #TXT
+---
+# 📄 qgis_bab0e9163e.txt 요약본
+
+* **처리 시각**: 2026-07-06T12:02:00+09:00
+* **년도_업체**: unknown
+* **사업명**: unknown
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/qgis_bab0e9163e.txt
+
+---
+### 🤖 AI 분석 요약
+> Hermes binary not found locally.
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 생태계 조사, 동식물 종, 환경 변화
+● 3줄 요약:
+- 아우룸생태연구소는 최근 진행된 생태계 조사 결과를 발표하였습니다.
+- 조사는 지역 내 다양한 동식물 종의 분포와 상호작용에 초점을 맞추었습니다.
+- 특히, 환경 변화에 따른 생태계의 영향을 분석하는 데 중점을 두었습니다.
+=========================================
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [qgis_bab0e9163e.txt 열기](file:///Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/qgis_bab0e9163e.txt)

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0071_55ac74d86f.txt",
+  "source_name": "IMG_0071_55ac74d86f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-26T09:48:00+09:00",
+  "processed_at": "2026-06-26T09:50:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0071_55ac74d86f_debeff880c.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0071_55ac74d86f_debeff880c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "2020년 1월 3일 21시 03분 56초에 촬영된 사진\nBROWNING BTC-8E 카메라로 촬영\n해상도 4608x2592, RGB 모드, MPO 포맷",
+    "tags": [
+      "#촬영",
+      "#BROWNING",
+      "#BTC-8E"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2020년 1월 3일 21시 03분 56초에 촬영된 사진",
+      "BROWNING BTC-8E 카메라로 촬영",
+      "해상도 4608x2592, RGB 모드, MPO 포맷"
+    ],
+    "category": "사진",
+    "keywords": [
+      "촬영",
+      "BROWNING",
+      "BTC-8E"
+    ]
+  }
+}

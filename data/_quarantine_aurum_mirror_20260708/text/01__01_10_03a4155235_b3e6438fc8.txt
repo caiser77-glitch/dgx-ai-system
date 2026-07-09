@@ -1,0 +1,130 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 장비
+● 핵심 키워드: AutoCAD, eTransmit, DWG
+● 3줄 요약:
+- AutoCAD eTransmit을 통해 생성된 2025년 11월 17일자 전송 보고서입니다.
+- 루트 도면과 외부 참조(xref) 파일, 플롯 스타일(ctb), 프린터 설정(pc3) 파일을 포함합니다.
+- 일부 폰트 및 외부 참조 파일의 누락 또는 경로 확인이 필요할 수 있습니다.
+=========================================
+Transmittal Report:
+
+Created by AutoCAD eTransmit 2025�� 11�� 17�� ������, ���� 4:29.
+
+
+
+Drawing:
+
+This is a transmittal based on 01_���� ����鵵(01~10)_���躯��.dwg.
+
+
+
+Files:
+
+
+
+Root Drawing:
+
+	01_���� ����鵵(01~10)_���躯��.dwg
+
+
+
+AutoCAD Drawing (External) References:
+
+	xref-��Ȳ(1000).dwg
+
+	xref-�ǹ� �����.dwg
+
+	xref-���ܸ鵵(����_���躯��_251117).dwg
+
+	xref-�������.dwg
+
+	xref-h-������(����) �����.dwg
+
+	xref-�������_���躯��_251102.dwg
+
+	1.�ʵ�õ���-��ǥ��ȯ.dwg
+
+	xref-���_���躯��_251101.dwg
+
+	xref-�����ȹ_���躯��_251102.dwg
+
+
+
+AutoCADColorDependentPlotStyleTableFile References:
+
+	PlotCfgs\����~���� �뼱��(����).ctb
+
+	PlotCfgs\����~����2(����鵵)��.ctb
+
+
+
+AutoCAD Plotter Configuration File References:
+
+	PlotCfgs\Adobe PDF.pc3
+
+
+
+The following files were excluded from the transmittal:
+
+	acad.fmp
+
+	Fonts\simplex.shx
+
+	Fonts\H2GTRE.TTF
+
+	Fonts\H2HDRM.TTF
+
+	Fonts\malgunbd.ttf
+
+	Fonts\kosdic.shx
+
+	Fonts\arial.ttf
+
+
+
+The following files could not be located:
+
+	Expo M.(shx,ttf)
+
+	KHCLINE.(shx,ttf)
+
+	kscals.(shx,ttf)
+
+	kaceline.(shx,ttf)
+
+
+
+
+
+Notes for distribution:
+
+
+
+.DWG external reference files:
+
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+
+
+.PC3 printer configuration files:
+
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+
+
+.CTB/.STB plot style tables:
+
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+
+
+The AutoCAD variable FONTALT was set to:
+
+C:\Users\User\appdata\roaming\autodesk\autocad 2014\r19.1\enu\support\simplex.shx
+
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
+
+

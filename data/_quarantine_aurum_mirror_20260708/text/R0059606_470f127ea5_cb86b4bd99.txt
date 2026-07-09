@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 메타데이터, RICOH WG-6, 광양항 낙포부두
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 촬영 일시는 2026년 2월 5일 오전 10시이며 광양항 낙포부두 관련 경로를 포함합니다.
+- GPS 좌표(북위 34.85, 동경 127.63)와 이미지 규격 등 기술적 상세 정보를 담고 있습니다.
+=========================================
+source_name: R0059606.JPG
+source_type: jpg
+size_bytes: 3907616
+path: /mnt/dgxbackup/2026 아라기술/광양항 낙포부두 해충모니터링/02. 사진/02.05/R0059606.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:05 10:02:40
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 34.850893
+gps_lon: 127.63893

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0911_A3_bab2a83bec.txt",
+  "source_name": "0911_A3_bab2a83bec.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:18:57+09:00",
+  "processed_at": "2026-07-08T12:19:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0911_A3_bab2a83bec_4999bee47d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0911_A3_bab2a83bec_4999bee47d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 동식물상에 대한 정보를 포함하고 있으나, OCR 오류로 인해 내용 추출이 불가능합니다.",
+      "파일 크기는 29,931,625 바이트이며, A3 사이즈의 PDF 파일입니다.",
+      "문서의 정확한 내용을 확인하려면 수동으로 열어보거나 OCR 설정을 조정해야 합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "동식물상",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

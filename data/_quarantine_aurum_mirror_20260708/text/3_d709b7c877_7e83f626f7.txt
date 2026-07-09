@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 고라니, 울산 온산국가산업단지, 포유류
+● 3줄 요약:
+- 2026년 2월 13일에 촬영된 고라니 사진
+- Panasonic DC-TZ99 카메라로 촬영, GPS 좌표: 35.456344, 129.314786
+- JPEG 형식, 1024x768 해상도, 1,005,914 바이트 크기
+=========================================
+source_name: 고라니 (3).JPG
+source_type: jpg
+size_bytes: 1005914
+path: /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/01. 조사사진_울산온산_포유류/고라니 (3).JPG
+width: 1024
+height: 768
+mode: RGB
+format: JPEG
+datetime_taken: 2026:02:13 09:56:20
+camera_make: Panasonic
+camera_model: DC-TZ99
+gps_lat: 35.456344
+gps_lon: 129.314786

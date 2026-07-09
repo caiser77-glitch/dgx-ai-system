@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 단면위치도, OCR 오류, ASCII 인코딩
+● 3줄 요약:
+- 단면위치도 파일의 OCR 처리 과정에서 오류가 발생하였습니다.
+- 해당 파일의 크기는 2,148,459 바이트입니다.
+- ASCII 인코딩 범위를 벗어난 문자로 인해 데이터 추출이 실패하였습니다.
+=========================================
+source_name: 단면위치도.pdf
+source_type: pdf
+size_bytes: 2148459
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-17: ordinal not in range(128)

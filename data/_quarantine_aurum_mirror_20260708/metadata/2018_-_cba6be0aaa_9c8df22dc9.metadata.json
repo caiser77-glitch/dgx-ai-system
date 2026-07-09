@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2018_-_cba6be0aaa.txt",
+  "source_name": "2018_-_cba6be0aaa.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:50+09:00",
+  "processed_at": "2026-07-08T13:45:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2018_-_cba6be0aaa_9c8df22dc9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2018_-_cba6be0aaa_9c8df22dc9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2018년 미호천 중류 지역의 어류 조사에 관한 PDF 문서입니다.",
+      "문서 용량은 약 1MB(1,043,068 바이트)입니다.",
+      "OCR 처리 과정에서 파일 경로 내 제어 문자로 인한 오류가 발생했습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "미호천",
+      "어류",
+      "PDF"
+    ]
+  }
+}

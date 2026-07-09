@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.16-17_2-4_633eb6fa2c.txt",
+  "source_name": "2026.03.16-17_2-4_633eb6fa2c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:49:24+09:00",
+  "processed_at": "2026-06-23T18:50:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.16-17_2-4_633eb6fa2c_fa0413432e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.16-17_2-4_633eb6fa2c_fa0413432e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 혜인",
+    "project_name": "부산2-4",
+    "class_name": "포유류",
+    "tags": [
+      "#포유류",
+      "#야장",
+      "#상반기"
+    ],
+    "summary": "2026년 3월 16-17일 부산 2-4 지역 포유류 관련 야장 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 16-17일 부산 2-4 지역에서 촬영된 포유류 관련 이미지",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "파일 크기는 561,917 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포유류",
+      "부산 2-4",
+      "야장"
+    ]
+  }
+}

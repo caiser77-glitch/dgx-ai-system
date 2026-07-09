@@ -1,0 +1,40 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.04.04_15.28_-_a9ec7df36c.txt",
+  "source_name": "2024.04.04_15.28_-_a9ec7df36c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T00:14:20+09:00",
+  "processed_at": "2026-06-23T00:15:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024.04.04_15.28_-_a9ec7df36c_5a88467ffb.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024.04.04_15.28_-_a9ec7df36c_5a88467ffb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#육수주유"
+    ],
+    "summary": "2024년 4월 4일 15시 28분에 찍힌 육수 주유 영수증 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 4월 4일 15시 28분에 촬영된 육수 주유 영수증 이미지",
+      "JPEG 형식, RGB 모드, 371x584 픽셀 크기",
+      "파일 크기는 124,163 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "주유",
+      "육수"
+    ]
+  }
+}

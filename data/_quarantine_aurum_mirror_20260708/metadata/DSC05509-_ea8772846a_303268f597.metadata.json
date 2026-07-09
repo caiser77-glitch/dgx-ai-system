@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05509-_ea8772846a.txt",
+  "source_name": "DSC05509-_ea8772846a.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T13:27:19+09:00",
+  "processed_at": "2026-06-24T13:28:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05509-_ea8772846a_303268f597.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05509-_ea8772846a_303268f597.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 네발나비 사진\nSONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336\n울산 온산국가산업단지 1차 조사 결과 사진",
+    "tags": [
+      "#네발나비",
+      "#울산 온산국가산업단지",
+      "#1차조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 네발나비 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336",
+      "울산 온산국가산업단지 1차 조사 결과 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "네발나비",
+      "울산 온산국가산업단지",
+      "1차조사"
+    ]
+  }
+}

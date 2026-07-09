@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_2ccf7eaded.txt",
+  "source_name": "1_2ccf7eaded.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:08:29+09:00",
+  "processed_at": "2026-07-08T12:08:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_2ccf7eaded_b39fa70c38.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_2ccf7eaded_b39fa70c38.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "한국종합기술의 협력업체를 위한 안전관리 계약특수조건에 관한 문서입니다.",
+      "파일 크기는 540,864 바이트이며 PDF 형식으로 되어 있습니다.",
+      "URL 내 제어 문자 포함 문제로 인해 OCR 처리에 실패한 것으로 확인됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "안전관리",
+      "계약특수조건",
+      "협력업체"
+    ]
+  }
+}

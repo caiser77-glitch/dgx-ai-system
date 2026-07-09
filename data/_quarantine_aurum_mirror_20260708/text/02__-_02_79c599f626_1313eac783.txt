@@ -1,0 +1,4 @@
+source_name: 02_현장조사 - 02부터.zip
+source_type: zip
+size_bytes: 1303207737
+content_extraction: unsupported_file_type

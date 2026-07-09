@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0_a46de6c37b.txt",
+  "source_name": "0_a46de6c37b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:28+09:00",
+  "processed_at": "2026-07-08T13:45:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0_a46de6c37b_602516e58f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0_a46de6c37b_602516e58f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "은암리 태양광부지 관련 PDF 문서의 표지 페이지입니다.",
+      "문서 크기는 116,746 바이트입니다.",
+      "OCR 처리에 실패한 것으로 보입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "은암리",
+      "태양광부지",
+      "PDF"
+    ]
+  }
+}

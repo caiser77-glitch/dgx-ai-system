@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2023-_19a1584ad2.txt",
+  "source_name": "2023-_19a1584ad2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:35:58+09:00",
+  "processed_at": "2026-07-08T13:36:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2023-_19a1584ad2_5eb4b8db01.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2023-_19a1584ad2_5eb4b8db01.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "오목천(아산)에서 2023년도에 실시한 저서성 대형 무척추동물 조사 결과를 담은 엑셀 파일입니다.",
+      "하천 생물측정망의 일부로 저서성 대형 무척추동물의 분석 정보를 포함하고 있습니다.",
+      "단일 시트로 구성되어 있으며, 현재 1행 1열의 데이터가 존재합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "오목천",
+      "저서성 대형 무척추동물",
+      "하천 생물측정망"
+    ]
+  }
+}

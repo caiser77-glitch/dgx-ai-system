@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 고라니, 배설물, 울산 온산국가산업단지
+● 3줄 요약:
+- 2025년 7월 29일에 촬영된 고라니 배설물 사진
+- SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336
+- 울산 온산국가산업단지 1차 조사 시점에서 촬영
+=========================================
+source_name: DSC05571-고라니 배설물.JPG
+source_type: jpg
+size_bytes: 47775744
+path: /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/1차조사 25.07.28-30/박부 (곤충, 청개구리)/DSC05571-고라니 배설물.JPG
+width: 9504
+height: 6336
+mode: RGB
+format: MPO
+datetime_taken: 2025:07:29 04:35:38
+camera_make: SONY
+camera_model: ILCE-7RM4

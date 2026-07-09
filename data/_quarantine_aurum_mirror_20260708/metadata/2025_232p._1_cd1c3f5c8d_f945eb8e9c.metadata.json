@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025_232p._1_cd1c3f5c8d.txt",
+  "source_name": "2025_232p._1_cd1c3f5c8d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:07:39+09:00",
+  "processed_at": "2026-07-08T12:07:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2025_232p._1_cd1c3f5c8d_f945eb8e9c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2025_232p._1_cd1c3f5c8d_f945eb8e9c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 아산시 주요업무 추진계획 중 맹꽁이 생태공원 조성에 관한 내용을 포함하고 있습니다.",
+      "파일 내 제어 문자 포함으로 인해 OCR 처리 과정에서 내용 추출 오류가 발생하였습니다.",
+      "문서의 원본은 PDF 형태이나 시스템상 데이터 읽기가 불가능한 상태입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "아산시",
+      "주요업무추진계획",
+      "맹꽁이생태공원"
+    ]
+  }
+}

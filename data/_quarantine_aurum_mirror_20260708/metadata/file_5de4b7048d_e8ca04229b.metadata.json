@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_5de4b7048d.txt",
+  "source_name": "file_5de4b7048d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:13+09:00",
+  "processed_at": "2026-07-08T13:52:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_5de4b7048d_e8ca04229b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_5de4b7048d_e8ca04229b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일 경북 경산 지역에서 촬영된 고양이 사진 데이터입니다.",
+      "Panasonic DC-TZ99 카메라를 사용하여 촬영된 RGB 모드의 JPEG 이미지입니다.",
+      "포유류 분류에 속하는 생물체에 대한 현장 기록 자료입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고양이",
+      "경북 경산",
+      "포유류"
+    ]
+  }
+}

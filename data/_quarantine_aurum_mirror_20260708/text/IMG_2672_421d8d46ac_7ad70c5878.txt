@@ -1,0 +1,13 @@
+source_name: IMG_2672.JPG
+source_type: jpg
+size_bytes: 8018745
+path: /mnt/dgxbackup/2026 세일/진해신항/02. 사진/2026.05.13/IMG_2672.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:05:13 09:25:08
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.040413
+gps_lon: 128.717285

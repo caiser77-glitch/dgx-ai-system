@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060489_d5e23d0f23.txt",
+  "source_name": "R0060489_d5e23d0f23.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T10:10:42+09:00",
+  "processed_at": "2026-07-08T10:10:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060489_d5e23d0f23_9188af191f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060489_d5e23d0f23_9188af191f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 해충 모니터링 관련 이미지 데이터입니다.",
+      "2026년 3월 16일 소래포구 인근 지역에서 촬영되었습니다.",
+      "해당 파일은 이과(곤충) 관련 현장 조사 기록의 일부로 판단됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "해충 모니터링",
+      "소래포구",
+      "RICOH WG-6"
+    ]
+  }
+}

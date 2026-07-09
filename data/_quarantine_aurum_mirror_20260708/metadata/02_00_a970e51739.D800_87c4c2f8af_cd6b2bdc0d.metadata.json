@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02_00_a970e51739.D800_87c4c2f8af.csv",
+  "source_name": "02_00_a970e51739.D800_87c4c2f8af.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:35:09+09:00",
+  "processed_at": "2026-07-08T11:35:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.D800_87c4c2f8af_cd6b2bdc0d.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/02_00_a970e51739.D800_87c4c2f8af_cd6b2bdc0d.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.D800_87c4c2f8af_cd6b2bdc0d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 D800 규격의 종배수관 단위 수량을 포함한 CSV 데이터 파일입니다.",
+      "총 50개의 행(row)으로 구성되어 있으며 배수관 관련 수치 정보를 담고 있습니다.",
+      "데이터의 주요 컬럼은 종배수관단위수량(D800)을 나타내고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "종배수관",
+      "D800",
+      "단위수량"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/-2_d726095875.txt",
+  "source_name": "-2_d726095875.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T16:48:46+09:00",
+  "processed_at": "2026-06-29T16:50:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/-2_d726095875_14d781b81a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/-2_d726095875_14d781b81a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "숨편한 힐링숲 진입도로의 식물상을 촬영한 이미지 파일",
+      "JPEG 형식, 2480x3507 픽셀 크기, 591,326 바이트 용량",
+      "흑백 모드(L)로 저장된 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "힐링숲",
+      "식물상",
+      "진입도로"
+    ]
+  }
+}

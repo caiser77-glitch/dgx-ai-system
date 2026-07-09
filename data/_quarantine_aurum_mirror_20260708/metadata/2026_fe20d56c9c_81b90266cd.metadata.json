@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026_fe20d56c9c.txt",
+  "source_name": "2026_fe20d56c9c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:54+09:00",
+  "processed_at": "2026-07-08T11:58:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2026_fe20d56c9c_81b90266cd.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2026_fe20d56c9c_81b90266cd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '음성천 문헌2026.hwp'는 지원되지 않는 파일 형식으로 내용 추출이 불가능합니다.",
+      "파일 크기는 15,360 바이트입니다.",
+      "문서의 유형은 hwp입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "지원되지 않는 파일",
+      "hwp",
+      "음성천"
+    ]
+  }
+}

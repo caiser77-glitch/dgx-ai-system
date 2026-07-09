@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: IMG_0646.JPG
+source_type: jpg
+size_bytes: 5373378
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/무인카메라 및 송메타/3-2(25.06.17-09.08)/IMG_0646.JPG
+width: 6528
+height: 3680
+mode: RGB
+format: MPO
+datetime_taken: 2025:07:05 13:27:02
+camera_make: Prometheus
+camera_model: BTC-5PXD

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_343_-_3d0c7f34aa.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_343_-_3d0c7f34aa.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T22:58:55+09:00",
+  "processed_at": "2026-06-23T23:00:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_343_-_3d0c7f34aa_603c76f4c6.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_343_-_3d0c7f34aa_603c76f4c6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": " 설치류",
+    "tags": [
+      "#고흥산단",
+      "#설치류",
+      "#사체"
+    ],
+    "summary": "2025년 3월 25일에 촬영된 Canon PowerShot SX70 HS 카메라로 촬영한 설치류 사체 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 25일에 촬영된 설치류 사체 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표: 34.450893, 127.497742",
+      "사진 크기: 5184x3888, RGB 모드, MPO 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "설치류",
+      "사체",
+      "GPS"
+    ]
+  }
+}

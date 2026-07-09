@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 토지이용계획
+● 핵심 키워드: 초평산단, 북측구역, 토지이용계획도
+● 3줄 요약:
+- 초평산단 북측구역의 토지이용계획도에 관한 문서입니다.
+- 파일 크기는 약 4.9MB이며 OCR 처리에 실패하였습니다.
+- URL 내 공백 문자로 인해 데이터 처리 오류가 발생하였습니다.
+=========================================
+source_name: 98.초평산단 토지이용계획도_북측구역계조정-250813.pdf
+source_type: pdf
+size_bytes: 4928994
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/98.초평산단 토지이용계획도_북측구역계조정-250813_pages_1_taxa.xlsx' (found at least ' ')

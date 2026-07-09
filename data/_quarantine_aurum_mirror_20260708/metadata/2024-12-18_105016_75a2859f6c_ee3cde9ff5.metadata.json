@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024-12-18_105016_75a2859f6c.txt",
+  "source_name": "2024-12-18_105016_75a2859f6c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:57:16+09:00",
+  "processed_at": "2026-06-22T23:58:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024-12-18_105016_75a2859f6c_ee3cde9ff5.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024-12-18_105016_75a2859f6c_ee3cde9ff5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "호미반도",
+    "class_name": "설계도면",
+    "tags": [
+      "#설계도면",
+      "#DWG",
+      "#화면캡처"
+    ],
+    "summary": "2024년 12월 18일 생성된 화면 캡처 이미지, 크기 1670x815, JPEG 형식",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 12월 18일에 캡처된 화면 이미지",
+      "JPEG 형식, RGB 모드, 1670x815 픽셀 크기",
+      "457,069 바이트 크기의 파일"
+    ],
+    "category": "화면 캡처",
+    "keywords": [
+      "화면 캡처",
+      "JPEG",
+      "RGB"
+    ]
+  }
+}

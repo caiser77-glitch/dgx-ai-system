@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/250728_a44b4c4967.txt",
+  "source_name": "250728_a44b4c4967.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:07:19+09:00",
+  "processed_at": "2026-07-08T12:07:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/250728_a44b4c4967_1913980005.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/250728_a44b4c4967_1913980005.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 우주발사체 국가산업단지 개발사업 환경영향평가 초안에 대한 전라남도 환경정책과의 검토 의견입니다.",
+      "환경영향평가의 적절성, 필요성 및 구체적인 개선사항에 대한 의견을 포함하고 있습니다.",
+      "해당 문서는 hwp 파일 형식으로 현재 콘텐츠 추출이 지원되지 않는 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥 우주발사체",
+      "국가산업단지",
+      "환경영향평가"
+    ]
+  }
+}

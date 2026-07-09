@@ -1,0 +1,4 @@
+source_name: 호미반도 계획평면도.zip
+source_type: zip
+size_bytes: 99138474
+content_extraction: unsupported_file_type

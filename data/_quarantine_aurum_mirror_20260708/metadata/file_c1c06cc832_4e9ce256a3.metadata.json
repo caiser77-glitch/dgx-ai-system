@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_c1c06cc832.txt",
+  "source_name": "file_c1c06cc832.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:05:51+09:00",
+  "processed_at": "2026-07-08T12:05:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_c1c06cc832_4e9ce256a3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_c1c06cc832_4e9ce256a3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "업종배치계획에 대한 조치계획이 포함된 엑셀 파일입니다.",
+      "총 10개의 행과 4개의 열로 구성되어 있습니다.",
+      "각 업종의 배치와 관련된 정보를 담고 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "업종배치",
+      "조치계획",
+      "엑셀"
+    ]
+  }
+}

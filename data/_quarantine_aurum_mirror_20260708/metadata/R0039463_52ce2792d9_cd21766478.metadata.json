@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039463_52ce2792d9.txt",
+  "source_name": "R0039463_52ce2792d9.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:50:36+09:00",
+  "processed_at": "2026-07-08T14:50:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039463_52ce2792d9_cd21766478.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039463_52ce2792d9_cd21766478.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.",
+      "2026년 2월 9일 오후 1시 54분에 촬영되었으며 파일 경로는 진해신항 관련 경로를 포함합니다.",
+      "이미지 크기는 2592x1944 해상도이며 GPS 위치 정보는 기록되지 않았습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "메타데이터",
+      "RICOH WG-6",
+      "이미지 정보"
+    ]
+  }
+}

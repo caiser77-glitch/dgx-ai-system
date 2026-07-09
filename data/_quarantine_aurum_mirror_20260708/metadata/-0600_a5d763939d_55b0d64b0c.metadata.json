@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-0600_a5d763939d.txt",
+  "source_name": "-0600_a5d763939d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:39:34+09:00",
+  "processed_at": "2026-07-08T11:39:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-0600_a5d763939d_55b0d64b0c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-0600_a5d763939d_55b0d64b0c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제안로-0600에 대한 환경영향평가협의회 심의내용 문서입니다.",
+      "문서는 .hwp 파일 형식으로 제공되어 있습니다.",
+      "문서 내용 추출이 지원되지 않는 파일 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "제안로-0600",
+      "환경영향평가협의회",
+      "심의내용"
+    ]
+  }
+}

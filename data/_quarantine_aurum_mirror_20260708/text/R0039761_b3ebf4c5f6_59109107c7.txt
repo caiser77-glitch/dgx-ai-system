@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 왼돌이물달팽이, 군포대야미, 생태사진
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 왼돌이물달팽이 사진 데이터입니다.
+- 2026년 3월 6일 오전 10시 53분에 촬영되었습니다.
+- 군포 대야미 지역의 유과 지점에서 수집된 이미지 파일입니다.
+=========================================
+source_name: R0039761 왼돌이물달팽이.JPG
+source_type: jpg
+size_bytes: 1962458
+path: /mnt/dgxbackup/2026 KCI/군포대야미/02. 사진/03.06/유과/R0039761 왼돌이물달팽이.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:06 10:53:24
+camera_make: RICOH
+camera_model: RICOH WG-6

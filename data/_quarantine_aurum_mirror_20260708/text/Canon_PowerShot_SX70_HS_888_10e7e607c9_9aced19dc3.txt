@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, 2025.03.26, 5184x3888
+● 3줄 요약:
+- Canon PowerShot SX70 HS로 촬영된 사진
+- 2025년 3월 26일 17시 09분 14초에 촬영
+- 해상도 5184x3888, RGB 모드, MPO 형식
+=========================================
+source_name: Canon PowerShot SX70 HS (888).jpg
+source_type: jpg
+size_bytes: 4535104
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.03.24-27/허대 포곤/Canon PowerShot SX70 HS (888).jpg
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:03:26 17:09:14
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_20251023155209_0027_D_c7ead3e2eb.txt",
+  "source_name": "DJI_20251023155209_0027_D_c7ead3e2eb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T12:44:29+09:00",
+  "processed_at": "2026-06-24T12:46:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DJI_20251023155209_0027_D_c7ead3e2eb_f53eb59de0.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DJI_20251023155209_0027_D_c7ead3e2eb_f53eb59de0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 10월 23일 울산 온산국가산업단지에서 촬영된 드론 사진\n해상도 6144x4096, Hasselblad L3D-100c 카메라 사용\nGPS 좌표: 위도 35.448422, 경도 129.314537",
+    "tags": [
+      "#드론 사진",
+      "#울산 온산국가산업단지",
+      "#Hasselblad L3D-100c"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 10월 23일 울산 온산국가산업단지에서 촬영된 드론 사진",
+      "해상도 6144x4096, Hasselblad L3D-100c 카메라 사용",
+      "GPS 좌표: 위도 35.448422, 경도 129.314537"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "드론 사진",
+      "울산 온산국가산업단지",
+      "Hasselblad L3D-100c"
+    ]
+  }
+}

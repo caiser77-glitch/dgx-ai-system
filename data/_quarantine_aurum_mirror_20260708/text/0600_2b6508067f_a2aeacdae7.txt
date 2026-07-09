@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, OCR 오류, 파일 크기
+● 3줄 요약:
+- 문서는 PDF 형태로, 크기가 5,371,509 바이트입니다.
+- OCR 처리 과정에서 'ascii' 코덱 인코딩 오류가 발생했습니다.
+- 문서 내용 추출이 지원되지 않는 파일 유형으로 표시되었습니다.
+=========================================
+source_name: (본안)+0600+주민+등+의견수렴.pdf
+source_type: pdf
+size_bytes: 5371509
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

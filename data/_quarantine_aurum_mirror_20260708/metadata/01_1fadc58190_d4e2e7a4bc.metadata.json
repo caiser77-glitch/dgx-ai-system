@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_1fadc58190.txt",
+  "source_name": "01_1fadc58190.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:15:03+09:00",
+  "processed_at": "2026-06-22T22:16:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/01_1fadc58190_d4e2e7a4bc.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/01_1fadc58190_d4e2e7a4bc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "인천용역",
+    "tags": [
+      "#인천",
+      "#용역",
+      "#LH"
+    ],
+    "summary": "발주처 자료 압축파일, 크기 1,648,819바이트, 본문 내용 추출 불가",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소의 발주처 자료 압축 파일입니다.",
+      "파일 크기는 1,648,819 바이트입니다.",
+      "내용 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "발주처",
+      "자료",
+      "압축파일"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/06110___2025.05.21_6e8814f505.txt",
+  "source_name": "06110___2025.05.21_6e8814f505.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:12:33+09:00",
+  "processed_at": "2026-07-08T12:12:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/06110___2025.05.21_6e8814f505_f235d76c87.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/06110___2025.05.21_6e8814f505_f235d76c87.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "소규모 호미반도의 육상동식물상에 대한 2025년 5월 21일 수정된 문서입니다.",
+      "문서 형식은 hwp이며, 파일 크기는 약 19.9MB입니다.",
+      "해당 파일은 현재 내용 추출이 지원되지 않는 유형입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "호미반도",
+      "육상동식물상",
+      "hwp"
+    ]
+  }
+}

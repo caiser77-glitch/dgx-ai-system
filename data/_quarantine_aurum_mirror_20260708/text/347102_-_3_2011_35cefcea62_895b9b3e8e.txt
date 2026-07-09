@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 외라도, 자연환경조사, PDF
+● 3줄 요약:
+- 문서는 외라도 지역의 제3차 전국자연환경조사 보고서입니다.
+- PDF 파일 크기는 8,364,291 바이트이며, OCR 처리에 실패하였습니다.
+- 파일명에 공백이 포함되어 URL에서 오류가 발생하였습니다.
+=========================================
+source_name: 외라도(347102) - 제3차 전국자연환경조사 2011.pdf
+source_type: pdf
+size_bytes: 8364291
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/외라도(347102) - 제3차 전국자연환경조사 2011_pages_1_taxa.xlsx' (found at least ' ')

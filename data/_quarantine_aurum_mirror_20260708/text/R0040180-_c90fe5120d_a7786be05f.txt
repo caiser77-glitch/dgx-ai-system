@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 유혈목이, 이미지 파일, OCR 오류
+● 3줄 요약:
+- 파일명 'R0040180-유혈목이.JPG'를 통해 유혈목이 관련 이미지 파일임을 알 수 있음
+- 이미지 규격은 2592x1944 해상도이며 RGB 모드의 MPO 포맷임
+- OCR 처리 과정에서 내부 서버 오류(HTTP Error 500)가 발생하여 텍스트 추출 실패함
+=========================================
+source_name: R0040180-유혈목이.JPG
+source_type: jpg
+size_bytes: 2066415
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

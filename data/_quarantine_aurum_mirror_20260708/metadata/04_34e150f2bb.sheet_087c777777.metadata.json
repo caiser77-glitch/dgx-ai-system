@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/04_34e150f2bb.sheet.csv",
+  "source_name": "04_34e150f2bb.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:09+09:00",
+  "processed_at": "2026-07-08T11:43:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_34e150f2bb.sheet_087c777777.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/04_34e150f2bb.sheet_087c777777.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_34e150f2bb.sheet_087c777777.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "차선 도색 관련 단위 수량 데이터를 포함한 CSV 파일입니다.",
+      "총 49개의 행으로 구성된 데이터셋입니다.",
+      "상세 항목은 차선 도색의 단위 수량 정보를 다루고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "차선도색",
+      "단위수량",
+      "데이터시트"
+    ]
+  }
+}

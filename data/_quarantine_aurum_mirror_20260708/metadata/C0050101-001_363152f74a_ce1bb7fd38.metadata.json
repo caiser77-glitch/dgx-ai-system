@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/C0050101-001_363152f74a.txt",
+  "source_name": "C0050101-001_363152f74a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:05+09:00",
+  "processed_at": "2026-07-08T11:40:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/C0050101-001_363152f74a_ce1bb7fd38.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/C0050101-001_363152f74a_ce1bb7fd38.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "C0050101-001.dwg 파일이 생성되었습니다.",
+      "Xref 파일들과 폰트 파일들이 연결되어 있습니다.",
+      "AutoCAD 폰트 설정에 대한 정보가 포함되어 있습니다."
+    ],
+    "category": "장비",
+    "keywords": [
+      "AutoCAD",
+      "DWG",
+      "Xref"
+    ]
+  }
+}

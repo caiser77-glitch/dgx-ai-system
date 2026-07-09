@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/NS_-0600___121-157_fb3087f046.txt",
+  "source_name": "NS_-0600___121-157_fb3087f046.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:19:14+09:00",
+  "processed_at": "2026-07-08T13:19:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/NS_-0600___121-157_fb3087f046_f17305efb3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/NS_-0600___121-157_fb3087f046_f17305efb3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "PDF 파일 'NS(본안)-0600(주민+등+의견수렴)_(121-157).pdf'의 내용 추출이 지원되지 않는 파일 유형으로 인해 실패하였습니다.",
+      "해당 파일의 크기는 약 26.9MB(26,892,986 바이트)입니다.",
+      "OCR 처리 과정에서 'ascii' 코덱 인코딩 오류가 발생하여 데이터 읽기에 실패하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "오류",
+      "OCR"
+    ]
+  }
+}

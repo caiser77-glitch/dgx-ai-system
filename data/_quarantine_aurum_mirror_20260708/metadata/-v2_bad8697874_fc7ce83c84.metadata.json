@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-v2_bad8697874.txt",
+  "source_name": "-v2_bad8697874.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:08:04+09:00",
+  "processed_at": "2026-06-22T22:09:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-v2_bad8697874_fc7ce83c84.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-v2_bad8697874_fc7ce83c84.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥 산단",
+    "class_name": "지역개황도",
+    "tags": [
+      "#고흥산단",
+      "#지역개황도",
+      "#2025.03.13"
+    ],
+    "summary": "고흥 산단 2025.03.13 환평자료 중 7. 지역개황도 카테고리의 이미지 파일",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "지역개황도-v2.jpg는 고흥 산단의 지역 개황을 나타내는 이미지 파일입니다.",
+      "이미지는 RGB 모드로, 크기는 6637x3378 픽셀이며, 파일 크기는 5,680,551 바이트입니다.",
+      "파일은 2025년 3월 13일 환평자료의 착수보고회 도면 폴더에 저장되어 있습니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "지역개황도",
+      "고흥 산단",
+      "도면"
+    ]
+  }
+}

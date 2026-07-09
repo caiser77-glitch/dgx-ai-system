@@ -1,0 +1,15 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 캡처.JPG
+source_type: jpg
+size_bytes: 214913
+path: /mnt/dgxbackup/2026 천마기술단/서산 부장리 고분군/03. 문헌/문헌5/캡처.JPG
+width: 1063
+height: 779
+mode: RGB
+format: JPEG
+datetime_taken: 2024:07:30 13:59:03

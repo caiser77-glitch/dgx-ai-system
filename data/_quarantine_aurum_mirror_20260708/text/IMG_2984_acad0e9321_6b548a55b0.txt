@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 갈퀴덩굴, 평택호, 현장조사
+● 3줄 요약:
+- 2026년 3월 3일 평택호에서 촬영된 갈퀴덩굴 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 36.915677, 126.913048
+- 사진 크기 5184x3888, RGB 모드, MPO 포맷
+=========================================
+source_name: IMG_2984 갈퀴덩굴.JPG
+source_type: jpg
+size_bytes: 9169246
+path: /mnt/dgxbackup/2026 세광/평택호 사후/02.사진/2026.03.03/석과 식물/IMG_2984 갈퀴덩굴.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:03 11:12:24
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.915677
+gps_lon: 126.913048

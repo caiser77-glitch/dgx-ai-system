@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.05.15_2b7e1e3b47.txt",
+  "source_name": "2026.05.15_2b7e1e3b47.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:44:55+09:00",
+  "processed_at": "2026-07-08T11:45:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2026.05.15_2b7e1e3b47_10c6653b0e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2026.05.15_2b7e1e3b47_10c6653b0e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "성남낙생 지구외사업에 대한 문헌 자료입니다.",
+      "2026년 5월 15일 작성 예정인 문서로, 현재 HWP 파일 형식으로 제공됩니다.",
+      "파일 크기는 77,824 바이트이며, 콘텐츠 추출이 지원되지 않는 파일 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "성남낙생",
+      "지구외사업",
+      "HWP"
+    ]
+  }
+}

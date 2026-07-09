@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 우주센터, 사업의 개요, PDF
+● 3줄 요약:
+- 본 문서는 우주센터-02000 사업의 개요를 다루는 PDF 파일입니다.
+- 파일 크기는 약 17MB이며, 현재 콘텐츠 추출이 지원되지 않는 유형입니다.
+- OCR 처리 과정에서 제어 문자 포함으로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 우주센터-02000(사업의 개요).pdf
+source_type: pdf
+size_bytes: 17085045
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/우주센터-02000(사업의 개요)_pages_1_taxa.xlsx' (found at least ' ')

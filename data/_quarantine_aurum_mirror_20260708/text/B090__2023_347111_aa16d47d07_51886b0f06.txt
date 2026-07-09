@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, OCR 오류, 파일 크기
+● 3줄 요약:
+- 문서는 PDF 형식이며 크기는 8,048,220 바이트입니다.
+- 내용 추출이 지원되지 않는 파일 유형입니다.
+- OCR 처리 중 'ascii' 코덱 인코딩 오류가 발생했습니다.
+=========================================
+source_name: (B090)온맵_2023_347111.pdf
+source_type: pdf
+size_bytes: 8048220
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 19-20: ordinal not in range(128)

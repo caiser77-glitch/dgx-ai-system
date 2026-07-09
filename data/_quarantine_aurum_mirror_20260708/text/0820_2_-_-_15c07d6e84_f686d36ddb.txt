@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 공사계획서
+● 핵심 키워드: 공사계획평면도, 부지배치, 변경검토
+● 3줄 요약:
+- 2공구 부지 배치 변경 검토를 위한 공사계획평면도 문서입니다.
+- PDF 파일 크기는 약 2.3MB이며 OCR 처리에 실패하였습니다.
+- 파일명의 공백으로 인해 URL 처리 과정에서 오류가 발생하였습니다.
+=========================================
+source_name: 0820 공사계획평면도(2공구 부지배치 변경검토) - 복사본-모형.pdf
+source_type: pdf
+size_bytes: 2296913
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/0820 공사계획평면도(2공구 부지배치 변경검토) - 복사본-모형_pages_1_taxa.xlsx' (found at least ' ')

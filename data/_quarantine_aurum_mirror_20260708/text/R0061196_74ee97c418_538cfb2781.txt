@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 메타데이터, RICOH WG-6, 해충조사
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 2026년 4월 24일 오후 5시경에 촬영된 RGB 모드의 MPO 형식 파일입니다.
+- 동북아엘엔지허브터미널 해충조사 관련 경로에 저장된 사진 데이터입니다.
+=========================================
+source_name: R0061196.JPG
+source_type: jpg
+size_bytes: 3843190
+path: /mnt/dgxbackup/2026 혜인/동북아엘엔지허브터미널(해충조사)/02.사진/새 폴더/R0061196.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:04:24 17:06:19
+camera_make: RICOH
+camera_model: RICOH WG-6

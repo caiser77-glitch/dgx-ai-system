@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 심의 의견서, PDF, OCR 오류
+● 3줄 요약:
+- 문서 '9. 심의 의견서.pdf'는 PDF 형식이며 크기는 76,156 바이트입니다.
+- 내용 추출이 지원되지 않는 파일 유형으로 표시되었습니다.
+- OCR 오류 메시지: URL에 제어 문자가 포함될 수 없습니다.
+=========================================
+source_name: 9. 심의 의견서.pdf
+source_type: pdf
+size_bytes: 76156
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/9. 심의 의견서_pages_1_taxa.xlsx' (found at least ' ')

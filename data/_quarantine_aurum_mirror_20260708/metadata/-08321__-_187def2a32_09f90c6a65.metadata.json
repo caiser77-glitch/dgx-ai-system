@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-08321__-_187def2a32.txt",
+  "source_name": "-08321__-_187def2a32.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:19+09:00",
+  "processed_at": "2026-07-08T12:10:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-08321__-_187def2a32_09f90c6a65.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-08321__-_187def2a32_09f90c6a65.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '고흥-08321_해양환경'에 대한 편집 완료 초안입니다.",
+      "파일 크기는 46,186,496 바이트입니다.",
+      "콘텐츠 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥",
+      "해양환경",
+      "편집완"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+source_name: IMG_4294-왜가리.jpg
+source_type: jpg
+size_bytes: 507441
+path: /mnt/dgxbackup/2026 세일/양곡부두/02. 사진/2026.02.10/허과/변환/IMG_4294-왜가리.jpg
+width: 1188
+height: 891
+mode: RGB
+format: JPEG

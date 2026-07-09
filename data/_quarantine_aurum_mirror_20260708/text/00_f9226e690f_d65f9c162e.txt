@@ -1,0 +1,18 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 장비
+● 핵심 키워드: 자재관리, 엑셀, 수량집계
+● 3줄 요약:
+- 총자재집계 내용을 담은 여러 시트 구성의 엑셀 파일입니다.
+- 자재, 수량집계표, 골재, 레미콘, 철근, 배수관 등의 시트를 포함합니다.
+- 각 시트에는 다양한 자재의 상세 수량과 관련 정보가 기록되어 있습니다.
+=========================================
+source_name: 00 총자재집계.xlsx
+source_type: xlsx
+sheet: 간 (2), rows: 48, columns: 8
+sheet: 간, rows: 48, columns: 8
+sheet: 자재, rows: 199, columns: 15
+sheet: 0.수량집계표, rows: 136, columns: 11
+sheet: 1 골재집계표, rows: 23, columns: 17
+sheet: 2 레미콘, rows: 19, columns: 15
+sheet: 3 철근, rows: 34, columns: 19
+sheet: 4 배수관, rows: 34, columns: 17

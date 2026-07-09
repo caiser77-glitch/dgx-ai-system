@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 01-08 깨기수량.xlsx
+source_type: xlsx
+sheet: 폐기물량집계표, rows: 9, columns: 7
+sheet: 깨기수량집계표, rows: 16, columns: 24
+sheet: 1. 기존포장깨기, rows: 97, columns: 33
+sheet: 경단, rows: 42, columns: 40
+sheet: 3. 흄수깨, rows: 45, columns: 42
+sheet: 4. 집수정깨, rows: 45, columns: 50
+sheet: Sheet1, rows: 0, columns: 1
+sheet: 5. 박스, rows: 48, columns: 45
+sheet: 6. 호안깨, rows: 39, columns: 33

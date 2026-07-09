@@ -1,0 +1,4 @@
+source_name: 05. 조사계획서(동절기 조류조사)(㈜이산→충개공).zip
+source_type: zip
+size_bytes: 121769621
+content_extraction: unsupported_file_type

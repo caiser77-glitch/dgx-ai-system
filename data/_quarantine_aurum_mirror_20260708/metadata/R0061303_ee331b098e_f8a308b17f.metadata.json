@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061303_ee331b098e.txt",
+  "source_name": "R0061303_ee331b098e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:39:17+09:00",
+  "processed_at": "2026-07-08T09:39:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061303_ee331b098e_f8a308b17f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061303_ee331b098e_f8a308b17f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 평택호 사후 모니터링 현장 사진 데이터입니다.",
+      "2026년 5월 13일 오전 8시경에 촬영되었으며 GPS 좌표 정보가 포함되어 있습니다.",
+      "평택호 지역의 생태계 변화를 기록하기 위한 현장 조사용 이미지 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "평택호",
+      "모니터링",
+      "현장사진"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.05.07-08_-5_bd45cbd9da.txt",
+  "source_name": "2025.05.07-08_-5_bd45cbd9da.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:59:31+09:00",
+  "processed_at": "2026-06-29T18:01:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2025.05.07-08_-5_bd45cbd9da_8598b27fa5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2025.05.07-08_-5_bd45cbd9da_8598b27fa5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 5월 7-8일에 촬영된 진천초평 식생 사진",
+      "JPEG 형식, RGB 모드, 2480x3507 픽셀 크기",
+      "635,680 바이트 크기의 이미지 파일"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진천초평",
+      "식생조사",
+      "야장"
+    ]
+  }
+}

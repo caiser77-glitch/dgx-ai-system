@@ -1,0 +1,46 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0531_589c530351.txt",
+  "source_name": "IMG_0531_589c530351.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T03:34:46+09:00",
+  "processed_at": "2026-07-01T03:35:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0531_589c530351_69af960e7d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0531_589c530351_69af960e7d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 엔탑엔지니어링",
+    "project_name": "서수평장 26년 2분기 부터 담당",
+    "taxon_group": "양서파충류",
+    "document_type": "현장사진",
+    "class_name": "양서파충류",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#현장사진",
+      "#양서파충류",
+      "#2026.04.03"
+    ],
+    "summary": "2026년 4월 3일 Canon PowerShot SX70 HS로 촬영된 양서류 모니터링 현장 사진",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 4월 3일에 촬영된 양서류 모니터링 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 (35.987633, 126.958068)에서 촬영됨",
+      "사진 크기: 5184x3888, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "양서류 모니터링",
+      "GPS 좌표",
+      "Canon PowerShot SX70 HS"
+    ]
+  }
+}

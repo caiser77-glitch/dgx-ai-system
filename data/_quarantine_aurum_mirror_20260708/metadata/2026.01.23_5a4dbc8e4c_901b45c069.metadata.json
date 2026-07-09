@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.01.23_5a4dbc8e4c.txt",
+  "source_name": "2026.01.23_5a4dbc8e4c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T16:48:13+09:00",
+  "processed_at": "2026-06-23T16:49:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.01.23_5a4dbc8e4c_901b45c069.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.01.23_5a4dbc8e4c_901b45c069.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "계양 테크노밸리 사후",
+    "class_name": "영수증",
+    "tags": [
+      "#영수증",
+      "#계양사업지구",
+      "#SAMSUNG"
+    ],
+    "summary": "2026년 1월 23일 계양 사업지구 종료 관련 영수증 이미지. 크기 215,615바이트, SAMSUNG Galaxy S25 Ultra로 촬영.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 1월 23일에 촬영된 계양 사업지구 종료 관련 영수증 사진",
+      "사진은 SAMSUNG Galaxy S25 Ultra로 촬영되었으며, 크기는 640x1567 픽셀",
+      "사진은 2026년 1분기 계양 테크노밸리 사후 관리 영수증 파일에 포함됨"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "계양 사업지구",
+      "종료",
+      "영수증"
+    ]
+  }
+}

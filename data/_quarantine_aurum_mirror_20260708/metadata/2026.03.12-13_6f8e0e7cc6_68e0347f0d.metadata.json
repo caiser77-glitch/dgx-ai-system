@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.12-13_6f8e0e7cc6.txt",
+  "source_name": "2026.03.12-13_6f8e0e7cc6.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:37:32+09:00",
+  "processed_at": "2026-06-23T18:38:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.12-13_6f8e0e7cc6_68e0347f0d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.12-13_6f8e0e7cc6_68e0347f0d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "식물",
+    "tags": [
+      "#식물",
+      "#인천",
+      "#2026"
+    ],
+    "summary": "2026년 3월 12-13일 계양 사후 식물 사진, JPEG 형식, 537166byte, 2480x3507 픽셀.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "계양 테크노밸리 사후 식물에 대한 이미지 파일",
+      "2026년 3월 12-13일 촬영",
+      "JPEG 형식, 2480x3507 픽셀, 537KB 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "계양 테크노밸리",
+      "사후 식물",
+      "야장"
+    ]
+  }
+}

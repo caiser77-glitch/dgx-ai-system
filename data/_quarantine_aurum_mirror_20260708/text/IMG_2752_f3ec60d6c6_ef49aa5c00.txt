@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 갈풀, 사진, GPS
+● 3줄 요약:
+- 2025년 5월 28일에 촬영된 갈풀 사진
+- Canon PowerShot SX70 HS 카메라로 촬영
+- GPS 좌표: 위도 36.7841, 경도 126.984292
+=========================================
+source_name: IMG_2752 갈풀.JPG
+source_type: jpg
+size_bytes: 8540377
+path: /mnt/dgxbackup/2026 이산/아산방축/02. 사진/2025.05.28-29/2025.05.28~29 아산방축 이부/IMG_2752 갈풀.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:05:28 14:37:22
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.7841
+gps_lon: 126.984292

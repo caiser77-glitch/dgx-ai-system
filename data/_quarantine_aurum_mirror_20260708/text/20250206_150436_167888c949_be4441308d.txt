@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 현장조사, 사진, GPS위치
+● 3줄 요약:
+- 2025년 2월 6일에 촬영된 고화질 사진
+- 사진은 경도 127.488339, 위도 34.447572에서 촬영됨
+- 삼성 Galaxy S24+로 촬영된 현장조사 자료
+=========================================
+source_name: 20250206_150436.jpg
+source_type: jpg
+size_bytes: 9826793
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.13 환평자료/02_현장조사 - 01임정래 -1/20250206_150436.jpg
+width: 4000
+height: 3000
+mode: RGB
+format: JPEG
+datetime_taken: 2025:02:06 15:04:36
+camera_make: samsung
+camera_model: Galaxy S24+
+gps_lat: 34.447572
+gps_lon: 127.488339

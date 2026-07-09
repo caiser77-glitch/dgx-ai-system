@@ -1,0 +1,42 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0574_be3bb5103e.txt",
+  "source_name": "IMG_0574_be3bb5103e.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-05T15:51:05+09:00",
+  "processed_at": "2026-07-05T15:51:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0574_be3bb5103e_8264a99bed.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0574_be3bb5103e_8264a99bed.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 고흥 산단",
+    "project_name": "고흥 이부 조사",
+    "taxon_group": "미확정",
+    "document_type": "현장사진",
+    "class_name": "현장사진",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#Canon",
+      "#GPS",
+      "#고흥"
+    ],
+    "summary": "2025년 9월 3일 고흥 이부에서 촬영된 현장 사진. GPS 좌표: 34.44189, 127.494302",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "요약을 생성하지 못했습니다.",
+      "",
+      ""
+    ],
+    "category": "기타",
+    "keywords": []
+  }
+}

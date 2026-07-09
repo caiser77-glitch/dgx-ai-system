@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/08_1e882f2eb0.4_6adb570c3c.txt",
+  "source_name": "08_1e882f2eb0.4_6adb570c3c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:50+09:00",
+  "processed_at": "2026-07-08T11:32:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/08_1e882f2eb0.4_6adb570c3c_7389967831.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/08_1e882f2eb0.4_6adb570c3c_7389967831.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "가배수로 수량 집계표와 연장 산출에 대한 데이터입니다.",
+      "총 10개의 행으로 구성되어 있습니다.",
+      "주요 컬럼은 가배수로 수량 집계표 및 연장 산출 관련 항목입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "가배수로",
+      "수량 집계표",
+      "연장 산출"
+    ]
+  }
+}

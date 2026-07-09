@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_9556a836f4.txt",
+  "source_name": "1_9556a836f4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:35:44+09:00",
+  "processed_at": "2026-06-22T23:36:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_9556a836f4_7f033522d3.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_9556a836f4_7f033522d3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아우룸생태연구소",
+    "project_name": "국립공원 학술연구",
+    "class_name": "학술연구신청서",
+    "tags": [
+      "#학술연구",
+      "#국립공원",
+      "#아우룸생태연구소"
+    ],
+    "summary": "국립공원 학술연구 신청서 아우룸생태연구소",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소가 제출한 국립공원 학술연구 신청서",
+      "신청서는 JPEG 형식의 이미지 파일로 제공됨",
+      "파일 크기 574KB, 해상도 2480x3507 픽셀"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "아우룸생태연구소",
+      "국립공원",
+      "학술연구"
+    ]
+  }
+}

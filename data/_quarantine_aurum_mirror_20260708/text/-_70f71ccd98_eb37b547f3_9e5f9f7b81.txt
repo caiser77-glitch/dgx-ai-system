@@ -1,0 +1,18 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 음성천, 포유동물, 현장조사
+● 3줄 요약:
+- 음성천에서 촬영된 포유동물 사진 데이터입니다.
+- 사진 크기는 1739x2486이며 RGB 모드의 JPEG 형식입니다.
+- SEIKO EPSON CORP.의 ES-580W 카메라로 촬영되었습니다.
+=========================================
+source_name: 음성천-포유동물.jpg
+source_type: jpg
+size_bytes: 327333
+path: /mnt/dgxbackup/2026 아라기술/음성천/05. 야장 및 영수증/야장/음성천-포유동물.jpg
+width: 1739
+height: 2486
+mode: RGB
+format: JPEG
+camera_make: SEIKO EPSON CORP.
+camera_model: ES-580W

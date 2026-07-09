@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/359101_5_2019_-_06e4e53d4e.txt",
+  "source_name": "359101_5_2019_-_06e4e53d4e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:08:41+09:00",
+  "processed_at": "2026-07-08T12:08:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/359101_5_2019_-_06e4e53d4e_c11eaed568.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/359101_5_2019_-_06e4e53d4e_c11eaed568.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2019년 실시된 제5차 전국자연환경조사의 조류 관련 연구 자료입니다.",
+      "해당 문서는 PDF 형식으로 제공되며 파일 크기는 약 671,781 바이트입니다.",
+      "OCR 처리 실패로 인해 현재 문서의 상세 내용 추출은 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "조류",
+      "2019년"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/01._2_7be10daca5.txt",
+  "source_name": "01._2_7be10daca5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T16:54:06+09:00",
+  "processed_at": "2026-06-29T16:56:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/01._2_7be10daca5_f7b6fcc906.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/01._2_7be10daca5_f7b6fcc906.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획(안)도 이미지 파일로, 고흥 산단의 토지 이용 계획을 시각적으로 표현",
+      "CMYK 모드의 JPEG 형식, 해상도 2739x2502 픽셀, 파일 크기 6,597,072 바이트",
+      "2025년 3월 13일 환평자료의 일부로, 설계사가 제출한 조사설계용역 착수보고서의 삽도"
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "토지이용계획",
+      "고흥 산단",
+      "설계사"
+    ]
+  }
+}

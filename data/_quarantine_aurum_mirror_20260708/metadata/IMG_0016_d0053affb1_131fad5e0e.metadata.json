@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0016_d0053affb1.txt",
+  "source_name": "IMG_0016_d0053affb1.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T14:46:17+09:00",
+  "processed_at": "2026-06-30T14:48:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0016_d0053affb1_131fad5e0e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0016_d0053affb1_131fad5e0e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 23일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 사진",
+      "사진의 해상도는 5184x3888 픽셀이며, RGB 모드로 촬영되었습니다.",
+      "사진은 평택통복 김부에서 촬영되었으며, 파일 크기는 7,085,521 바이트입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "평택통복 김부",
+      "2026-02-23"
+    ]
+  }
+}

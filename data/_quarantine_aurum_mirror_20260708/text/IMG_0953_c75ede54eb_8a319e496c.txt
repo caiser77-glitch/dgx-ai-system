@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon, PowerShot SX70 HS, GPS 위치
+● 3줄 요약:
+- Canon PowerShot SX70 HS로 촬영된 사진
+- 2025년 11월 17일 14시 14분 30초에 촬영
+- 위치: 위도 35.772048, 경도 128.829818
+=========================================
+source_name: IMG_0953.JPG
+source_type: jpg
+size_bytes: 9976606
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/IMG_0953.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:11:17 14:14:30
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.772048
+gps_lon: 128.829818

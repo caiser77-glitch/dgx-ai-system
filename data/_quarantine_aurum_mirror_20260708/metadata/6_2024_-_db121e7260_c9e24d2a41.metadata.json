@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/6_2024_-_db121e7260.txt",
+  "source_name": "6_2024_-_db121e7260.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:56:43+09:00",
+  "processed_at": "2026-07-08T11:56:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/6_2024_-_db121e7260_c9e24d2a41.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/6_2024_-_db121e7260_c9e24d2a41.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제6차 전국자연환경조사 2024년도 진천 지역 조류 관련 보고서입니다.",
+      "해당 문서는 PDF 형식의 파일로 용량은 약 3.15MB입니다.",
+      "OCR 처리 오류로 인해 상세 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "진천",
+      "조류"
+    ]
+  }
+}

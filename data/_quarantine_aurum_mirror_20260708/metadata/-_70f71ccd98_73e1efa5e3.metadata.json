@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_70f71ccd98.txt",
+  "source_name": "-_70f71ccd98.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:05:01+09:00",
+  "processed_at": "2026-06-22T22:06:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-_70f71ccd98_73e1efa5e3.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-_70f71ccd98_73e1efa5e3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "음성천",
+    "class_name": "포유동물",
+    "tags": [
+      "#음성천",
+      "#포유동물",
+      "#SEIKO_EPSON_CORP"
+    ],
+    "summary": "Epson ES-580W 카메라로 촬영된 음성천 지역의 포유동물 사진입니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천에서 촬영된 포유동물 사진",
+      "사진 크기: 1739x2486, RGB 모드, JPEG 형식",
+      "카메라: SEIKO EPSON CORP. ES-580W"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "포유동물",
+      "현장조사"
+    ]
+  }
+}

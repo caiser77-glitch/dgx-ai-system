@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_360e829c7c.txt",
+  "source_name": "file_360e829c7c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:13:35+09:00",
+  "processed_at": "2026-07-08T13:13:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_360e829c7c_43ffc08c8c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_360e829c7c_43ffc08c8c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경영향평가 협의 내용에 관한 문서입니다.",
+      "충주 바이오헬스 국가산업단지 조성 사업 정보를 포함하고 있습니다.",
+      "OCR 처리 과정의 인코딩 오류로 인해 상세 내용 추출이 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향평가",
+      "충주바이오헬스",
+      "국가산업단지"
+    ]
+  }
+}

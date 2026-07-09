@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.10.22-24_b06cd96c97.txt",
+  "source_name": "2025.10.22-24_b06cd96c97.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:33+09:00",
+  "processed_at": "2026-07-08T12:04:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2025.10.22-24_b06cd96c97_437164c33c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2025.10.22-24_b06cd96c97_437164c33c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산온산 지역에서 2025년 10월 22일부터 24일까지 진행되는 드론 비행을 위한 허가 사항임",
+      "해당 문서는 PDF 형식의 파일로 용량은 약 90,773 바이트임",
+      "OCR 처리 과정에서 URL 내 제어 문자 포함으로 인한 오류가 발생함"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "드론",
+      "비행허가증",
+      "울산온산"
+    ]
+  }
+}

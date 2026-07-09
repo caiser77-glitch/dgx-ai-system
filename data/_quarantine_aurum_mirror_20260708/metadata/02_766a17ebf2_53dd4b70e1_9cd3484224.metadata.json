@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02_766a17ebf2_53dd4b70e1.txt",
+  "source_name": "02_766a17ebf2_53dd4b70e1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:29:12+09:00",
+  "processed_at": "2026-07-08T11:29:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_766a17ebf2_53dd4b70e1_9cd3484224.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_766a17ebf2_53dd4b70e1_9cd3484224.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단의 개발 컨셉 및 전략을 시각적으로 표현한 이미지 파일입니다.",
+      "환경영향평가 자료의 일부로 사용되는 CMYK 모드의 JPEG 형식입니다.",
+      "해상도 1611x546 픽셀이며 파일 크기는 약 752KB입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "개발전략",
+      "고흥 산단",
+      "설계사"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC06388-1-_bbf05ccf87.txt",
+  "source_name": "DSC06388-1-_bbf05ccf87.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T23:30:42+09:00",
+  "processed_at": "2026-06-24T23:32:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC06388-1-_bbf05ccf87_7e9da72fb4.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC06388-1-_bbf05ccf87_7e9da72fb4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 9월 2일에 촬영된 호리허리노린재 사진\nSONY ILCE-7RM4 카메라로 촬영, 해상도 1600x1066, RGB 모드\n파일 크기 1,076,451 바이트, JPEG 형식",
+    "tags": [
+      "#곤충",
+      "#호리허리노린재",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 9월 2일에 촬영된 호리허리노린재 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 1600x1066, RGB 모드",
+      "파일 크기 1,076,451 바이트, JPEG 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "곤충",
+      "호리허리노린재",
+      "사진"
+    ]
+  }
+}

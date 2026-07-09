@@ -1,0 +1,4 @@
+source_name: 포항기업혁신파크-필요자료 LIST(단지설계)_250530.zip
+source_type: zip
+size_bytes: 142359118
+content_extraction: unsupported_file_type

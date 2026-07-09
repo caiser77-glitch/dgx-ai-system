@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_b3308fa4ff.txt",
+  "source_name": "file_b3308fa4ff.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:11:53+09:00",
+  "processed_at": "2026-07-08T13:12:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_b3308fa4ff_fa5bc6f0c9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_b3308fa4ff_fa5bc6f0c9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "세종 스마트 국가산업단지 조성사업에 대한 환경영향평가 협의 내용을 포함하고 있습니다.",
+      "문서의 크기는 316,427 바이트이며 PDF 형식으로 구성되어 있습니다.",
+      "OCR 처리 과정에서의 인코딩 오류로 인해 상세 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "세종",
+      "스마트 국가산업단지",
+      "환경영향평가"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_9bbbbba2c5.txt",
+  "source_name": "1_9bbbbba2c5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:38:54+09:00",
+  "processed_at": "2026-07-08T11:39:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1_9bbbbba2c5_b98e20a49d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1_9bbbbba2c5_b98e20a49d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제안로 대안1안에 대한 훼손면적 및 훼손수목량 관련 문서입니다.",
+      "파일 형식이 hwp로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "문서의 크기는 11,776 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "훼손면적",
+      "훼손수목량",
+      "hwp"
+    ]
+  }
+}

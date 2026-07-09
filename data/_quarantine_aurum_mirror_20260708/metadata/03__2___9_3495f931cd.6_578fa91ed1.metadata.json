@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/03__2___9_3495f931cd.6.csv",
+  "source_name": "03__2___9_3495f931cd.6.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:01:29+09:00",
+  "processed_at": "2026-07-08T12:01:36+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_3495f931cd.6_578fa91ed1.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/03__2___9_3495f931cd.6_578fa91ed1.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_3495f931cd.6_578fa91ed1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 운영 시 필요한 소요 인력을 산출한 총괄 내역을 담고 있습니다.",
+      "제6호표 양식을 사용하여 인력 투입 계획 및 비용 산출 근거를 제시합니다.",
+      "총 32개의 행으로 구성된 CSV 데이터로 인력 운용의 효율성을 분석하기 위한 자료입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "소요인력",
+      "산출내역",
+      "운영계획"
+    ]
+  }
+}

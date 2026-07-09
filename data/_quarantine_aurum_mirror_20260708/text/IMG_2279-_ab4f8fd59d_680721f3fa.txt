@@ -1,0 +1,14 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: IMG_2279-원앙.png
+source_type: png
+size_bytes: 1413342
+path: /mnt/dgxbackup/2026 이산/아산방축/02. 사진/2025.01.21-22/허대/변환/IMG_2279-원앙.png
+width: 1314
+height: 986
+mode: RGB
+format: PNG

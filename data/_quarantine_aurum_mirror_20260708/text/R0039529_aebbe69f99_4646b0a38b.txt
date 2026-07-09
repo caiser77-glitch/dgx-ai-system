@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: RICOH WG-6, 이미지 메타데이터, GPS 좌표
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 2026년 2월 10일 오전 9시 15분에 촬영되었으며 GPS 좌표가 포함되어 있습니다.
+- 파일 경로는 양곡부두 관련 폴더 내 유과 항목으로 분류되어 있습니다.
+=========================================
+source_name: R0039529.JPG
+source_type: jpg
+size_bytes: 2147413
+path: /mnt/dgxbackup/2026 세일/양곡부두/02. 사진/2026.02.10/유과/R0039529.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:10 09:15:35
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 35.056918
+gps_lon: 128.792718

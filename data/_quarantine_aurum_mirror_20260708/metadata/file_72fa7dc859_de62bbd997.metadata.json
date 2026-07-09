@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_72fa7dc859.txt",
+  "source_name": "file_72fa7dc859.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:40+09:00",
+  "processed_at": "2026-07-08T13:52:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_72fa7dc859_de62bbd997.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_72fa7dc859_de62bbd997.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 파일은 '백투싼.png'라는 명칭의 이미지 파일입니다.",
+      "파일 경로는 성남낙생 송전선로 관련 야장 및 영수증 폴더 내에 위치합니다.",
+      "이미지 데이터의 크기, 해상도 및 파일 형식 정보를 포함하고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "백투싼",
+      "영수증",
+      "이미지 메타데이터"
+    ]
+  }
+}

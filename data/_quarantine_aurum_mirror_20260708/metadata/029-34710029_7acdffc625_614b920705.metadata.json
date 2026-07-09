@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/029-34710029_7acdffc625.txt",
+  "source_name": "029-34710029_7acdffc625.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:25:19+09:00",
+  "processed_at": "2026-06-22T22:26:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/029-34710029_7acdffc625_614b920705.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/029-34710029_7acdffc625_614b920705.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "인천용역 등에서 유추한 분류군 명칭",
+    "tags": [
+      "#인천",
+      "#용역",
+      "#생물분류"
+    ],
+    "summary": "손죽029-34710029.zip 파일의 크기는 26,781바이트이며, 지원되지 않는 파일 형식으로 인해 콘텐츠 추출이 불가능합니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "손죽029-34710029.zip 파일은 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 26,781 바이트입니다.",
+      "내용 추출이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "손죽029-34710029",
+      "zip",
+      "지원되지 않는 파일 유형"
+    ]
+  }
+}

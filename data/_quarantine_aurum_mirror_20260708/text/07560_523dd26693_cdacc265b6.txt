@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 일조장해, OCR 오류
+● 3줄 요약:
+- 문서 '07560(일조장해).pdf'는 PDF 형식의 파일로 약 21.7MB의 크기를 가집니다.
+- 해당 파일은 현재 내용 추출이 지원되지 않는 유형으로 분류되어 있습니다.
+- OCR 처리 과정에서 서버 내부 오류(HTTP 500)가 발생하여 분석에 실패했습니다.
+=========================================
+source_name: (본안)07560(일조장해).pdf
+source_type: pdf
+size_bytes: 21766233
+content_extraction: unsupported_file_type
+ocr_error: HTTP Error 500: Internal Server Error

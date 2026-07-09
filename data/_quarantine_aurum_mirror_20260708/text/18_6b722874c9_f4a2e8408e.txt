@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 영수증, 오천항, 정비공사
+● 3줄 요약:
+- 2026년 3월 18일에 촬영된 영수증 사진
+- 삼성 Galaxy S25 Ultra로 촬영
+- 오천항 정비공사 사후 관련 영수증
+=========================================
+source_name: 18일 시작.jpg
+source_type: jpg
+size_bytes: 264720
+path: /mnt/dgxbackup/2026 아라기술/오천항 정비공사 사후/05. 야장 및 영수증/영수증/26년 1분기/18일 시작.jpg
+width: 640
+height: 1823
+mode: RGB
+format: JPEG
+datetime_taken: 2026:03:18 13:57:26
+camera_make: SAMSUNG
+camera_model: Galaxy S25 Ultra

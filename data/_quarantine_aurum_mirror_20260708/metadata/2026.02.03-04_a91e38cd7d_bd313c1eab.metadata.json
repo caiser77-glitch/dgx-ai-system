@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.03-04_a91e38cd7d.txt",
+  "source_name": "2026.02.03-04_a91e38cd7d.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:04:36+09:00",
+  "processed_at": "2026-06-23T17:05:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.03-04_a91e38cd7d_bd313c1eab.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.03-04_a91e38cd7d_bd313c1eab.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "인천용역",
+    "class_name": "곤충",
+    "tags": [
+      "#곤충",
+      "#OCR_에러",
+      "#JPEG"
+    ],
+    "summary": "2026년 2월 3-4일 촬영된 서수평장 곤충 이미지. OCR 처리 중 500 에러 발생.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서수평장 곤충에 대한 이미지 파일입니다.",
+      "파일 크기는 467,435 바이트이며, 해상도는 2480x3507 픽셀입니다.",
+      "OCR 처리 중 서버 오류가 발생하여 텍스트 추출이 불가능합니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "서수평장",
+      "곤충",
+      "이미지"
+    ]
+  }
+}

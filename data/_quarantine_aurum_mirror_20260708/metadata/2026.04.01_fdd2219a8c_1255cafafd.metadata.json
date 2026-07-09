@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.04.01_fdd2219a8c.txt",
+  "source_name": "2026.04.01_fdd2219a8c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:32:24+09:00",
+  "processed_at": "2026-06-23T19:33:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.04.01_fdd2219a8c_1255cafafd.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.04.01_fdd2219a8c_1255cafafd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "성남낙생 송전선로 소규모",
+    "class_name": "파충류",
+    "tags": [
+      "#성남낙생",
+      "#송전선로",
+      "#파충류"
+    ],
+    "summary": "2026년 4월 1일 성남낙생 소규모 송전선로에서 촬영된 파충류 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 4월 1일 성남낙생 지역에서 촬영된 파충류 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "파충류 관찰 기록으로 보이는 야장 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "성남낙생",
+      "파충류",
+      "야장"
+    ]
+  }
+}

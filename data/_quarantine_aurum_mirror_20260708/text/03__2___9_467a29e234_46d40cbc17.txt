@@ -1,0 +1,23 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 03_설계내역서(충청2_사후)_9차_설계서(변경).xlsx
+source_type: xlsx
+sheet: 총괄, rows: 861, columns: 23
+sheet: 설계내역서(공), rows: 870, columns: 23
+sheet: 설계예산서(운), rows: 870, columns: 23
+sheet: <표1>소요인력(총괄)(공), rows: 38, columns: 17
+sheet: <표2>소요인력(세부)(공), rows: 59, columns: 17
+sheet: <표3>측정비(공), rows: 894, columns: 20
+sheet: <표4,5>출장,인쇄비(공), rows: 878, columns: 13
+sheet: <표6>소요인력(총괄)(운), rows: 33, columns: 18
+sheet: <표7>소요인력(세부)(운), rows: 59, columns: 17
+sheet: <표8>측정비(운), rows: 864, columns: 15
+sheet: <표9,10>출장,인쇄비(운), rows: 877, columns: 13
+sheet: <표11>각종 단가, rows: 231, columns: 8
+sheet: <별첨1>할증률, rows: 52, columns: 15
+sheet: <별첨2>손해배상공제료, rows: 866, columns: 15
+sheet: 산근0, rows: 104, columns: 6

@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1808_26b13583c2.txt",
+  "source_name": "IMG_1808_26b13583c2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T22:38:14+09:00",
+  "processed_at": "2026-07-06T22:38:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1808_26b13583c2_2252378bc6.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1808_26b13583c2_2252378bc6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "산속 무인카메라로 촬영된 이미지",
+      "2020년 2월 6일 23시 44분 34초에 촬영",
+      "Prometheus BTC-5PXD 카메라 사용"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "산속",
+      "Prometheus"
+    ]
+  }
+}

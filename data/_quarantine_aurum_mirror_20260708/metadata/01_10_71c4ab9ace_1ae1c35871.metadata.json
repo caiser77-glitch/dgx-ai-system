@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_10_71c4ab9ace.txt",
+  "source_name": "01_10_71c4ab9ace.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:47:44+09:00",
+  "processed_at": "2026-07-08T13:47:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01_10_71c4ab9ace_1ae1c35871.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01_10_71c4ab9ace_1ae1c35871.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토공.xls 파일은 엑셀 스프레드시트 형식의 문서입니다.",
+      "파일 크기는 142,336 바이트입니다.",
+      "내용 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "엑셀",
+      "토공",
+      "파일크기"
+    ]
+  }
+}

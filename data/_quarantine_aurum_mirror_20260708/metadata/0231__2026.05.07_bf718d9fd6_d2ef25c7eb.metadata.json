@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0231__2026.05.07_bf718d9fd6.txt",
+  "source_name": "0231__2026.05.07_bf718d9fd6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:46:17+09:00",
+  "processed_at": "2026-07-08T11:46:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0231__2026.05.07_bf718d9fd6_d2ef25c7eb.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0231__2026.05.07_bf718d9fd6_d2ef25c7eb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '0231 동식물상_2026.05.07 (주)아우룸생태연구소.hwp'는 HWP 파일 형식으로 제공되었습니다.",
+      "파일 크기는 98,834,944 바이트입니다.",
+      "현재 이 파일 형식은 지원되지 않아 내용 추출이 불가능합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "HWP",
+      "파일크기",
+      "지원불가"
+    ]
+  }
+}

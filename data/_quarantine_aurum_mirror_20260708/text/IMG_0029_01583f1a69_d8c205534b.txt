@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, 사진, 2026년 2월 23일
+● 3줄 요약:
+- 2026년 2월 23일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- 사진 크기는 5184x3888 픽셀, RGB 모드, MPO 포맷
+- 파일 크기: 5,329,365 바이트, 촬영 시간: 14:04:38
+=========================================
+source_name: IMG_0029.JPG
+source_type: jpg
+size_bytes: 5329365
+path: /mnt/dgxbackup/2026 이산/평택통복 사후/02. 사진/2026.02.23/2026.02.23 평택통복 김부/IMG_0029.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:23 14:04:38
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

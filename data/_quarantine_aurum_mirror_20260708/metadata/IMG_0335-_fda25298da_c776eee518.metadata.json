@@ -1,0 +1,46 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0335-_fda25298da.txt",
+  "source_name": "IMG_0335-_fda25298da.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T16:07:51+09:00",
+  "processed_at": "2026-06-29T16:09:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0335-_fda25298da_c776eee518.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0335-_fda25298da_c776eee518.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "성남낙생 송전선로 소규모",
+    "taxon_group": "조류",
+    "document_type": "현장사진",
+    "class_name": "조류",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#조류",
+      "#현장사진",
+      "#2026"
+    ],
+    "summary": "검은등할미새의 현장 사진. 2026년 성남낙생 송전선로 소규모 프로젝트 관련.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "검은등할미새 사진 파일 정보 제공",
+      "파일 크기: 508,784 바이트, 해상도: 940x705, 모드: RGB, 형식: JPEG",
+      "경로: /mnt/dgxbackup/2026 KCI/성남낙생 송전선로 소규모/02. 사진/2026.04.01/허과 조양/변환/"
+    ],
+    "category": "사진",
+    "keywords": [
+      "검은등할미새",
+      "사진",
+      "JPEG"
+    ]
+  }
+}

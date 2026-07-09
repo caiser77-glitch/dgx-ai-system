@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_718_27e3a39102.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_718_27e3a39102.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T03:30:49+09:00",
+  "processed_at": "2026-06-24T03:32:17+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_718_27e3a39102_dc6dff4fda.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_718_27e3a39102_dc6dff4fda.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "Canon PowerShot SX70 HS로 촬영된 사진\n2025년 3월 26일 10시 37분 27초에 촬영\nGPS 좌표: 위도 34.453522, 경도 127.478875",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#사진",
+      "#GPS"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS로 촬영된 사진",
+      "2025년 3월 26일 10시 37분 27초에 촬영",
+      "GPS 좌표: 위도 34.453522, 경도 127.478875"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "사진",
+      "GPS"
+    ]
+  }
+}

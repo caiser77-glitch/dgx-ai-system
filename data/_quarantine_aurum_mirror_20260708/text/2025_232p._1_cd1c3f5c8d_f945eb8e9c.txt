@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 아산시, 주요업무추진계획, 맹꽁이생태공원
+● 3줄 요약:
+- 2025년 아산시 주요업무 추진계획 중 맹꽁이 생태공원 조성에 관한 내용을 포함하고 있습니다.
+- 파일 내 제어 문자 포함으로 인해 OCR 처리 과정에서 내용 추출 오류가 발생하였습니다.
+- 문서의 원본은 PDF 형태이나 시스템상 데이터 읽기가 불가능한 상태입니다.
+=========================================
+source_name: 2025년 아산시 주요업무 추진계획 발췌 232p.(맹꽁이 생태공원 조성) (1).pdf
+source_type: pdf
+size_bytes: 498637
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2025년 아산시 주요업무 추진계획 발췌 232p.(맹꽁이 생태공원 조성) (1)_pages_1_taxa.xlsx' (found at least ' ')

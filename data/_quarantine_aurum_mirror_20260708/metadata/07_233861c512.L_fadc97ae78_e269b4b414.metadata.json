@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/07_233861c512.L_fadc97ae78.csv",
+  "source_name": "07_233861c512.L_fadc97ae78.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:33:19+09:00",
+  "processed_at": "2026-07-08T11:33:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512.L_fadc97ae78_e269b4b414.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/07_233861c512.L_fadc97ae78_e269b4b414.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512.L_fadc97ae78_e269b4b414.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 도로 경계석 단위수량 정보를 포함하고 있는 CSV 파일입니다.",
+      "총 45개의 행(row)으로 구성된 데이터셋을 나타내고 있습니다.",
+      "데이터의 주요 컬럼은 도로 경계석 단위수량과 관련된 항목들로 추정됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "도로 경계석",
+      "단위수량",
+      "CSV 데이터"
+    ]
+  }
+}

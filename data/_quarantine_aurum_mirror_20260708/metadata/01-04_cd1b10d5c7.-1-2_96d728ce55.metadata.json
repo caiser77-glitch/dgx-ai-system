@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-04_cd1b10d5c7.-1-2.csv",
+  "source_name": "01-04_cd1b10d5c7.-1-2.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:42:26+09:00",
+  "processed_at": "2026-07-08T13:42:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-04_cd1b10d5c7.-1-2_96d728ce55.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-04_cd1b10d5c7.-1-2_96d728ce55.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-04_cd1b10d5c7.-1-2_96d728ce55.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 01-04_cd1b10d5c7.-1-2.csv 파일의 데이터 구조를 나타냅니다.",
+      "총 22개의 행(row)으로 구성되어 있으며, '라-1-2'라는 컬럼명을 포함하고 있습니다.",
+      "대부분의 컬럼이 비어 있는 상태로 데이터의 구체적인 수치 정보는 확인되지 않습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 파일",
+      "데이터 구조",
+      "행 개수"
+    ]
+  }
+}

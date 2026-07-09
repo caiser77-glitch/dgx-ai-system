@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2026.05.29_1ab7864c12.txt",
+  "source_name": "-2026.05.29_1ab7864c12.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:38:06+09:00",
+  "processed_at": "2026-07-08T11:38:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-2026.05.29_1ab7864c12_1a60927f74.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-2026.05.29_1ab7864c12_1a60927f74.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "상원청하 사후 조사계획서는 2026년 5월 29일 작성된 문서입니다.",
+      "문서의 내용 추출이 지원되지 않는 파일 형식(hwp)입니다.",
+      "문서 크기는 5,488,640 바이트입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "상원청하",
+      "사후조사",
+      "생태계"
+    ]
+  }
+}

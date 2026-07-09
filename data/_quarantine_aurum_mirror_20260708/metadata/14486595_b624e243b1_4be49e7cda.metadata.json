@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/14486595_b624e243b1.txt",
+  "source_name": "14486595_b624e243b1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:08:52+09:00",
+  "processed_at": "2026-07-08T12:08:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/14486595_b624e243b1_4be49e7cda.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/14486595_b624e243b1_4be49e7cda.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "PDF 파일 '붙임 정보공개 청구에 따른 회신(14486595).pdf'에 대한 정보 제공",
+      "파일 크기는 124,172 바이트이며 콘텐츠 추출이 지원되지 않는 유형임",
+      "URL 내 제어 문자 포함으로 인한 OCR 오류 발생"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "정보공개",
+      "청구",
+      "회신"
+    ]
+  }
+}

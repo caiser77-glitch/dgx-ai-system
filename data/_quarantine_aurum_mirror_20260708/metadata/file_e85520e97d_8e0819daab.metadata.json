@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_e85520e97d.txt",
+  "source_name": "file_e85520e97d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:09:29+09:00",
+  "processed_at": "2026-07-08T12:09:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_e85520e97d_8e0819daab.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_e85520e97d_8e0819daab.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 기업혁신파크 환평 지역의 동식물상에 대한 현지 조사 결과를 담은 문서입니다.",
+      "문서는 PDF 형태로 약 131MB의 용량을 가지고 있습니다.",
+      "OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생하였습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 기업혁신파크",
+      "동식물상",
+      "현지조사"
+    ]
+  }
+}

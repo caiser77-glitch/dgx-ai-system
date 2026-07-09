@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0062_2a817f031c.txt",
+  "source_name": "IMG_0062_2a817f031c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T17:11:31+09:00",
+  "processed_at": "2026-06-30T17:13:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0062_2a817f031c_9367d93f5f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0062_2a817f031c_9367d93f5f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 12월 25일 13시 35분 58초에 촬영된 무인카메라 사진",
+      "카메라 모델은 Prometheus BTC-5PXD, 해상도는 4208x2368 픽셀",
+      "사진은 무덤 옆에서 촬영되었으며, MPO 형식의 RGB 모드로 저장됨"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "무덤",
+      "Prometheus BTC-5PXD"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 설계도면
+● 핵심 키워드: 포항산림복지단지, 설계도면, PDF
+● 3줄 요약:
+- 포항산림복지단지 조성사업 설계도면 파일에 대한 정보 제공
+- 파일 크기는 약 44MB이며 PDF 형식의 문서임
+- OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생함
+=========================================
+source_name: 포항산림복지단지 조성사업_설계도면_260210.pdf
+source_type: pdf
+size_bytes: 44222888
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/포항산림복지단지 조성사업_설계도면_260210_pages_1_taxa.xlsx' (found at least ' ')

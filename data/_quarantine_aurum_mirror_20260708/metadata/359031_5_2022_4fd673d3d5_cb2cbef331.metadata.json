@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/359031_5_2022_4fd673d3d5.txt",
+  "source_name": "359031_5_2022_4fd673d3d5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:09+09:00",
+  "processed_at": "2026-07-08T12:16:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/359031_5_2022_4fd673d3d5_cb2cbef331.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/359031_5_2022_4fd673d3d5_cb2cbef331.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "구룡포 지역의 5차 전국자연환경조사 결과에 대한 육상곤충 관련 문서입니다.",
+      "해당 파일은 PDF 형식이며 약 2.09MB의 용량을 가지고 있습니다.",
+      "OCR 처리 과정에서 특정 URL 내 제어 문자로 인한 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "구룡포",
+      "전국자연환경조사",
+      "육상곤충"
+    ]
+  }
+}

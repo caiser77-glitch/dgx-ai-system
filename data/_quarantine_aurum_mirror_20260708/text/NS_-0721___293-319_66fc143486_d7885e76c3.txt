@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기상자료
+● 핵심 키워드: PDF, OCR 오류, ASCII 인코딩
+● 3줄 요약:
+- 기상 관련 정보를 포함하고 있는 PDF 파일 문서임
+- 파일 크기는 약 2.96MB이며 OCR 처리 과정에서 오류가 발생함
+- ASCII 인코딩 범위를 벗어난 문자로 인해 데이터 추출이 실패함
+=========================================
+source_name: NS(본안)-0721(기상)_(293-319).pdf
+source_type: pdf
+size_bytes: 2964602
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 16-17: ordinal not in range(128)

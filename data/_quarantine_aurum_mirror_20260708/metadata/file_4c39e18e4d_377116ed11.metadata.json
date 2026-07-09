@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4c39e18e4d.txt",
+  "source_name": "file_4c39e18e4d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:11:42+09:00",
+  "processed_at": "2026-07-08T12:11:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4c39e18e4d_377116ed11.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4c39e18e4d_377116ed11.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "도시관리계획 관련 자료 파일이 HWP 형식으로 제공되었습니다.",
+      "파일 크기는 44,445,696 바이트입니다.",
+      "현재 해당 파일 형식의 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "도시관리계획",
+      "HWP",
+      "내용추출"
+    ]
+  }
+}

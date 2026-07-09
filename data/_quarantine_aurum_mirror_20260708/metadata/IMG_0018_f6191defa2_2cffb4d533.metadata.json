@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0018_f6191defa2.txt",
+  "source_name": "IMG_0018_f6191defa2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T11:02:44+09:00",
+  "processed_at": "2026-06-25T11:04:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0018_f6191defa2_2cffb4d533.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0018_f6191defa2_2cffb4d533.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "산속 무인카메라로 촬영된 이미지\n2020년 2월 2일 20시 12분 51초에 촬영\nPrometheus BTC-5PXD 카메라 사용",
+    "tags": [
+      "#무인카메라",
+      "#산속",
+      "#Prometheus"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "산속 무인카메라로 촬영된 이미지",
+      "2020년 2월 2일 20시 12분 51초에 촬영",
+      "Prometheus BTC-5PXD 카메라 사용"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "산속",
+      "Prometheus"
+    ]
+  }
+}

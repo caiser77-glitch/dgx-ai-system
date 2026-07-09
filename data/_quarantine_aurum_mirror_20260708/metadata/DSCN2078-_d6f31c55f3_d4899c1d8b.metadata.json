@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSCN2078-_d6f31c55f3.txt",
+  "source_name": "DSCN2078-_d6f31c55f3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T04:17:04+09:00",
+  "processed_at": "2026-06-25T04:19:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSCN2078-_d6f31c55f3_d4899c1d8b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSCN2078-_d6f31c55f3_d4899c1d8b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "도롱뇽 사진, 해상도 921x691, RGB 모드, JPEG 형식\n파일 크기 509,121 바이트, 경산 도로 확장 프로젝트 관련\n2025년 11월 17일 촬영, 아우룸생태연구소 이박 활동 기록",
+    "tags": [
+      "#도롱뇽",
+      "#현장조사",
+      "#아우룸생태연구소"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "도롱뇽 사진, 해상도 921x691, RGB 모드, JPEG 형식",
+      "파일 크기 509,121 바이트, 경산 도로 확장 프로젝트 관련",
+      "2025년 11월 17일 촬영, 아우룸생태연구소 이박 활동 기록"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "도롱뇽",
+      "현장조사",
+      "아우룸생태연구소"
+    ]
+  }
+}

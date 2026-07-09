@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 광주도시철도, 사진, GPS
+● 3줄 요약:
+- 2026년 1월 15일에 촬영된 광주도시철도 관련 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 (35.209565, 126.823578) 기록
+- 이미지 크기 5184x3888, RGB 모드, MPO 포맷
+=========================================
+source_name: IMG_1652.JPG
+source_type: jpg
+size_bytes: 9714024
+path: /mnt/dgxbackup/2026 이산/광주도시철도/02. 사진/2026.01.15-16/IMG_1652.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:01:15 14:19:33
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.209565
+gps_lon: 126.823578

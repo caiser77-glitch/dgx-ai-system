@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/347102_-_3_2011_35cefcea62.txt",
+  "source_name": "347102_-_3_2011_35cefcea62.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:19:43+09:00",
+  "processed_at": "2026-07-08T12:19:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/347102_-_3_2011_35cefcea62_895b9b3e8e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/347102_-_3_2011_35cefcea62_895b9b3e8e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 외라도 지역의 제3차 전국자연환경조사 보고서입니다.",
+      "PDF 파일 크기는 8,364,291 바이트이며, OCR 처리에 실패하였습니다.",
+      "파일명에 공백이 포함되어 URL에서 오류가 발생하였습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "외라도",
+      "자연환경조사",
+      "PDF"
+    ]
+  }
+}

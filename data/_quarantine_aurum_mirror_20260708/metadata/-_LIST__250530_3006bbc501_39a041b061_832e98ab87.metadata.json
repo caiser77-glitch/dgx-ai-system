@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_LIST__250530_3006bbc501_39a041b061.txt",
+  "source_name": "-_LIST__250530_3006bbc501_39a041b061.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:30:14+09:00",
+  "processed_at": "2026-07-08T11:30:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_LIST__250530_3006bbc501_39a041b061_832e98ab87.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_LIST__250530_3006bbc501_39a041b061_832e98ab87.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항기업혁신파크의 단지 설계 관련 필요 자료 목록이 포함된 ZIP 파일입니다.",
+      "파일 크기는 약 142MB이며, 내부 자료의 상세 내용은 추출되지 않았습니다.",
+      "ZIP 파일 내의 자료는 단지 설계와 관련된 다양한 정보를 담고 있을 것으로 예상됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "포항기업혁신파크",
+      "단지설계",
+      "ZIP파일"
+    ]
+  }
+}

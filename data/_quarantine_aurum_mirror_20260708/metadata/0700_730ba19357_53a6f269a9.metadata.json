@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0700_730ba19357.txt",
+  "source_name": "0700_730ba19357.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:52:20+09:00",
+  "processed_at": "2026-07-08T11:52:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0700_730ba19357_53a6f269a9.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0700_730ba19357_53a6f269a9.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '0700 부록.hwp'는 지원되지 않는 파일 유형으로 내용 추출이 불가능합니다.",
+      "파일 크기는 261,440,512 바이트입니다.",
+      "문서의 실제 내용에 대한 분석은 제공할 수 없습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "hwp",
+      "내용 추출 불가"
+    ]
+  }
+}

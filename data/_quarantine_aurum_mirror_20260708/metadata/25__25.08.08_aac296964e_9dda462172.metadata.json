@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/25__25.08.08_aac296964e.txt",
+  "source_name": "25__25.08.08_aac296964e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:07:41+09:00",
+  "processed_at": "2026-07-08T12:07:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/25__25.08.08_aac296964e_9dda462172.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/25__25.08.08_aac296964e_9dda462172.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "(주)아우룸생태연구소에서 작성한 '봉정방문 25년 상반기' 파일입니다.",
+      "파일 형식은 hwp로, 콘텐츠 추출이 지원되지 않는 타입입니다.",
+      "파일 크기는 70,190,592 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "봉정방문",
+      "hwp",
+      "콘텐츠 추출"
+    ]
+  }
+}

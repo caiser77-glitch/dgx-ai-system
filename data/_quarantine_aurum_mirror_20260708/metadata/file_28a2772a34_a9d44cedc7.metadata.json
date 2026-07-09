@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_28a2772a34.txt",
+  "source_name": "file_28a2772a34.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:17:25+09:00",
+  "processed_at": "2026-07-08T12:17:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_28a2772a34_a9d44cedc7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_28a2772a34_a9d44cedc7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "전남 고흥 국가산단 환경 평가 착수 보고 계획에 대한 문서입니다.",
+      "파일 형식이 지원되지 않아 상세 내용을 추출할 수 없습니다.",
+      "문서의 실제 내용은 분석이 불가능한 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전남고흥",
+      "국가산단",
+      "환경평가"
+    ]
+  }
+}

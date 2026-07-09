@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 수달, 남이, GPS
+● 3줄 요약:
+- 2026년 3월 20일 오전 10시 39분에 촬영된 수달 사진
+- Panasonic DC-TZ99 카메라로 남이에서 촬영
+- GPS 좌표: 위도 36.443042, 경도 126.515625
+=========================================
+source_name: 수달 (4).JPG
+source_type: jpg
+size_bytes: 1016181
+path: /mnt/dgxbackup/2026 아라기술/오천항 정비공사 사후/02. 사진/03.17/남이/수달 (4).JPG
+width: 1637
+height: 1228
+mode: RGB
+format: JPEG
+datetime_taken: 2026:03:20 10:39:02
+camera_make: Panasonic
+camera_model: DC-TZ99
+gps_lat: 36.443042
+gps_lon: 126.515625

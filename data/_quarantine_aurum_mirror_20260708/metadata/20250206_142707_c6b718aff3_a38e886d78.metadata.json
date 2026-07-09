@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250206_142707_c6b718aff3.txt",
+  "source_name": "20250206_142707_c6b718aff3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T05:45:41+09:00",
+  "processed_at": "2026-06-23T05:47:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250206_142707_c6b718aff3_a38e886d78.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250206_142707_c6b718aff3_a38e886d78.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 2월 6일에 촬영된 고화질 사진\n사진은 삼성 Galaxy S24+로 촬영\nGPS 좌표: 위도 34.446885, 경도 127.486513",
+    "tags": [
+      "#사진",
+      "#삼성 Galaxy S24+",
+      "#GPS 좌표"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 2월 6일에 촬영된 고화질 사진",
+      "사진은 삼성 Galaxy S24+로 촬영",
+      "GPS 좌표: 위도 34.446885, 경도 127.486513"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "삼성 Galaxy S24+",
+      "GPS 좌표"
+    ]
+  }
+}

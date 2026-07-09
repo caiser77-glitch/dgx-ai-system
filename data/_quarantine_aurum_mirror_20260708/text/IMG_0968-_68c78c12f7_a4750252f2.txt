@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 밀화부리, Canon PowerShot SX70 HS, GPS 위치 정보
+● 3줄 요약:
+- 밀화부리 사진, 캐논 파워샷 SX70 HS로 촬영
+- 2025년 11월 18일 10시 31분 28초에 촬영됨
+- 위치: 위도 35.771595, 경도 128.8284
+=========================================
+source_name: IMG_0968-밀화부리.JPG
+source_type: jpg
+size_bytes: 4205345
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/IMG_0968-밀화부리.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:11:18 10:31:28
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.771595
+gps_lon: 128.8284

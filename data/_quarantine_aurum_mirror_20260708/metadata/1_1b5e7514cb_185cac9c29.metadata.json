@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_1b5e7514cb.txt",
+  "source_name": "1_1b5e7514cb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:12:02+09:00",
+  "processed_at": "2026-06-29T17:13:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_1b5e7514cb_185cac9c29.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_1b5e7514cb_185cac9c29.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "생태자연도 1등급 이미지 파일로, 고화질의 생태 환경 정보를 제공합니다.",
+      "이미지는 보호수와 관련된 생태 자연도를 나타내며, 환경 보존에 중요한 역할을 합니다.",
+      "파일 크기는 740,216 바이트로, RGB 모드의 JPEG 형식으로 저장되어 있습니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "생태자연도",
+      "보호수",
+      "JPEG"
+    ]
+  }
+}

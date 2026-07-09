@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_1200_6d3d8017ed.txt",
+  "source_name": "-_1200_6d3d8017ed.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:13:47+09:00",
+  "processed_at": "2026-07-08T13:13:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_1200_6d3d8017ed_7b22eca560.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_1200_6d3d8017ed_7b22eca560.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 OCR 처리 중 오류가 발생하여 내용 추출이 불가능합니다.",
+      "파일 형식은 PDF이며, 크기는 193,749 바이트입니다.",
+      "문서 이름은 '(충주-본안)1200+종합평가+및+결론.pdf'입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "OCR 오류",
+      "PDF 파일",
+      "문서 처리"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_3ba0650bfc.txt",
+  "source_name": "file_3ba0650bfc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:09:01+09:00",
+  "processed_at": "2026-07-08T12:09:08+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_3ba0650bfc_eac0adc61c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_3ba0650bfc_eac0adc61c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "단면위치도 파일의 OCR 처리 과정에서 오류가 발생하였습니다.",
+      "해당 파일의 크기는 2,148,459 바이트입니다.",
+      "ASCII 인코딩 범위를 벗어난 문자로 인해 데이터 추출이 실패하였습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "단면위치도",
+      "OCR 오류",
+      "ASCII 인코딩"
+    ]
+  }
+}

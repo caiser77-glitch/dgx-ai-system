@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/00000_5b1b2d24f5.txt",
+  "source_name": "00000_5b1b2d24f5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:16:57+09:00",
+  "processed_at": "2026-07-08T13:17:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00000_5b1b2d24f5_5fce8830df.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00000_5b1b2d24f5_5fce8830df.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 PDF 형태로 제공되나, 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 137,971 바이트이며, OCR 처리 중 인코딩 오류가 발생했습니다.",
+      "특정한 내용이나 키워드를 추출할 수 없습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "PDF",
+      "콘텐츠 추출 불가",
+      "인코딩 오류"
+    ]
+  }
+}

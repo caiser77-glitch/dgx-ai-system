@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/cw_06110___-0322_2c3fa91b91.txt",
+  "source_name": "cw_06110___-0322_2c3fa91b91.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:52:24+09:00",
+  "processed_at": "2026-07-08T11:52:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/cw_06110___-0322_2c3fa91b91_907dc5ba03.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/cw_06110___-0322_2c3fa91b91_907dc5ba03.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 'cw 06110 동식물상_삽도-0322 이과.hwp'는 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 약 197MB로 확인됩니다.",
+      "내용 추출이 불가능하여 상세 분석이 제한적입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "동식물상",
+      "이과"
+    ]
+  }
+}

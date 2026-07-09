@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/09110_._-ing_1eee5f90a4.txt",
+  "source_name": "09110_._-ing_1eee5f90a4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:23+09:00",
+  "processed_at": "2026-07-08T11:40:30+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/09110_._-ing_1eee5f90a4_43f6e0a8c3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/09110_._-ing_1eee5f90a4_43f6e0a8c3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "부장리 고분군의 생물다양성과 서식지 보전에 관한 내용을 다루고 있습니다.",
+      "hwp 파일 형식으로 인해 현재 내용 추출이 불가능한 상태입니다.",
+      "문서의 전체 크기는 약 69.4MB입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "생물다양성",
+      "서식지 보전",
+      "부장리 고분군"
+    ]
+  }
+}

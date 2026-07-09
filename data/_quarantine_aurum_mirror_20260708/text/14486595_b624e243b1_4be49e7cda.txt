@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 정보공개, 청구, 회신
+● 3줄 요약:
+- PDF 파일 '붙임 정보공개 청구에 따른 회신(14486595).pdf'에 대한 정보 제공
+- 파일 크기는 124,172 바이트이며 콘텐츠 추출이 지원되지 않는 유형임
+- URL 내 제어 문자 포함으로 인한 OCR 오류 발생
+=========================================
+source_name: 붙임 정보공개 청구에 따른 회신(14486595).pdf
+source_type: pdf
+size_bytes: 124172
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/붙임 정보공개 청구에 따른 회신(14486595)_pages_1_taxa.xlsx' (found at least ' ')

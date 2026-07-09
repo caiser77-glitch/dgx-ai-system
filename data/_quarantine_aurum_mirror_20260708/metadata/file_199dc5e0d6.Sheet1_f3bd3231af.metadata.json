@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/file_199dc5e0d6.Sheet1.csv",
+  "source_name": "file_199dc5e0d6.Sheet1.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:20:04+09:00",
+  "processed_at": "2026-07-08T12:20:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_199dc5e0d6.Sheet1_f3bd3231af.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/file_199dc5e0d6.Sheet1_f3bd3231af.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_199dc5e0d6.Sheet1_f3bd3231af.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 2월부터 2026년 2월까지의 월별 데이터 기록을 포함하는 시트 파일입니다.",
+      "구분 항목을 기준으로 총 25개의 행으로 구성된 시계열 데이터 구조를 가집니다.",
+      "CSV 형식의 문서로 향후 연구 또는 관리 목적의 월별 수치 기록용으로 판단됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "월별 데이터",
+      "시계열 기록",
+      "CSV 파일"
+    ]
+  }
+}

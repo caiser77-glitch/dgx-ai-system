@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 삵2.jpg
+source_type: jpg
+size_bytes: 375239
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/남이/25년 11월 17일 경북 경산_포유류/25년 11월 17일 경북 경산_포유류/삵2.jpg
+width: 1024
+height: 768
+mode: RGB
+format: JPEG
+datetime_taken: 2025:11:17 13:00:01
+camera_make: Panasonic
+camera_model: DC-TZ99
+gps_lat: 35.766956
+gps_lon: 128.820441

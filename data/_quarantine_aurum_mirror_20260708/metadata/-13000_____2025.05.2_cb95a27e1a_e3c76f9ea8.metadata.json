@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-13000_____2025.05.2_cb95a27e1a.txt",
+  "source_name": "-13000_____2025.05.2_cb95a27e1a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:12:47+09:00",
+  "processed_at": "2026-07-08T12:12:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-13000_____2025.05.2_cb95a27e1a_e3c76f9ea8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-13000_____2025.05.2_cb95a27e1a_e3c76f9ea8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "(주)아우룸생태연구소의 고흥-13000 프로젝트 부록 초안입니다.",
+      "파일 크기는 24,011,264 바이트이며 HWP 형식으로 구성되어 있습니다.",
+      "해당 파일은 현재 내용 추출이 지원되지 않는 유형입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "아우룸생태연구소",
+      "고흥-13000",
+      "부록"
+    ]
+  }
+}

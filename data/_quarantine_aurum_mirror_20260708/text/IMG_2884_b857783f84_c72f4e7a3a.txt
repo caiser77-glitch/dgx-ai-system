@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, GPS 위치, MPO 형식
+● 3줄 요약:
+- 2026년 2월 26일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- 위치: 위도 37.351395, 경도 127.081482
+- 사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식
+=========================================
+source_name: IMG_2884.JPG
+source_type: jpg
+size_bytes: 9149095
+path: /mnt/dgxbackup/2026 KCI/성남낙생/02.사진/02.26/석과 식물/IMG_2884.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:26 13:07:13
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 37.351395
+gps_lon: 127.081482

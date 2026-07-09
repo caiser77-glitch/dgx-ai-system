@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02_00_a970e51739.3_db9cfae4f7.csv",
+  "source_name": "02_00_a970e51739.3_db9cfae4f7.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:35:42+09:00",
+  "processed_at": "2026-07-08T11:35:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.3_db9cfae4f7_85caaa9e1c.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/02_00_a970e51739.3_db9cfae4f7_85caaa9e1c.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.3_db9cfae4f7_85caaa9e1c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 1호 맨홀 관련 토공사 물량 산출 내역을 포함하고 있습니다.",
+      "CSV 형식의 데이터로 총 44개의 행으로 구성되어 있습니다.",
+      "토공사 산출을 위한 기초 데이터 항목들을 포함하고 있는 것으로 분석됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "1호맨홀",
+      "토공산출",
+      "CSV데이터"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_2a9bf239c9_4b8be44b7f.txt",
+  "source_name": "01_2a9bf239c9_4b8be44b7f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:29:39+09:00",
+  "processed_at": "2026-07-08T11:29:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01_2a9bf239c9_4b8be44b7f_7ec50744d4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01_2a9bf239c9_4b8be44b7f_7ec50744d4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단의 위치를 나타내는 이미지 파일입니다.",
+      "이미지는 RGB 모드로, 크기는 4065x3557 픽셀입니다.",
+      "파일 크기는 2,836,809 바이트입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "위치도",
+      "고흥 산단",
+      "조사설계용역"
+    ]
+  }
+}

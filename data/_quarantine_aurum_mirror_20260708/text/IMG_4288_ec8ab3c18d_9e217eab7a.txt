@@ -1,0 +1,13 @@
+source_name: IMG_4288.JPG
+source_type: jpg
+size_bytes: 16093949
+path: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.03.24-27/김부/IMG_4288.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:03:26 10:26:42
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 34.453373
+gps_lon: 127.479148

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-0900_a129b44eb6_d63cd7042d.txt",
+  "source_name": "-0900_a129b44eb6_d63cd7042d.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:02+09:00",
+  "processed_at": "2026-07-08T11:32:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-0900_a129b44eb6_d63cd7042d_e88edd2fd4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-0900_a129b44eb6_d63cd7042d_e88edd2fd4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "전략환경영향평가서 초안에 대한 주민과 관계행정기관의 의견 수렴 및 반영 여부를 다루는 문서입니다.",
+      "파일 형식이 지원되지 않아 실제 상세 내용은 추출이 불가능한 상태입니다.",
+      "해당 문서는 .hwp 형식이며 파일 크기는 약 121MB입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "전략환경영향평가서",
+      "주민 의견",
+      "관계행정기관"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: 메타데이터, OCR 오류, 이미지 파일
+● 3줄 요약:
+- 1분기 시작 이미지 파일에 대한 메타데이터 제공
+- OCR 처리 시 서버 오류 발생
+- 파일 크기, 해상도, 색상 모드 및 형식 정보 포함
+=========================================
+source_name: 1분기 시작.jpg
+source_type: jpg
+size_bytes: 323062
+width: 606
+height: 1228
+mode: RGB
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/25-11-17_8504380bdd.new_layer.csv",
+  "source_name": "25-11-17_8504380bdd.new_layer.csv",
+  "source_type": "csv",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T11:50:35+09:00",
+  "processed_at": "2026-07-01T11:50:35+09:00",
+  "status": "failed",
+  "outputs": {
+    "text": null,
+    "tables": [],
+    "metadata": null
+  },
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "input file not found: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/25-11-17_8504380bdd.new_layer.csv",
+    "return_code": 1
+  }
+}

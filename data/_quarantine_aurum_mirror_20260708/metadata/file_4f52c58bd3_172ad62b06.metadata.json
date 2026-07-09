@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4f52c58bd3.txt",
+  "source_name": "file_4f52c58bd3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:43:09+09:00",
+  "processed_at": "2026-07-08T13:43:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4f52c58bd3_172ad62b06.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4f52c58bd3_172ad62b06.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제원지구 생태계에 대한 견적 요청 문서입니다.",
+      "파일 형식이 지원되지 않아 내용 추출이 불가능합니다.",
+      "문서 크기는 45,154,304 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "견적의뢰서",
+      "제원지구",
+      "생태계"
+    ]
+  }
+}

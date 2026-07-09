@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250207_101555_1d69876ef5.txt",
+  "source_name": "20250207_101555_1d69876ef5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T15:50:34+09:00",
+  "processed_at": "2026-06-23T15:51:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250207_101555_1d69876ef5_574ba9ea98.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250207_101555_1d69876ef5_574ba9ea98.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "환경조사",
+    "tags": [
+      "#고흥",
+      "#산단",
+      "#환경조사"
+    ],
+    "summary": "2025년 2월 7일에 삼성 카메라로 촬영된 환경조사 사진 메타데이터",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "삼성 스마트폰으로 촬영된 고화질 사진",
+      "GPS 좌표를 통해 촬영 위치 확인 가능",
+      "2025년 2월 7일 10시 15분 55초에 촬영"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "GPS",
+      "현장조사"
+    ]
+  }
+}

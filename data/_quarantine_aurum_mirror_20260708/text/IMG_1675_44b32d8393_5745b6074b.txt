@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, 5184x3888, MPO
+● 3줄 요약:
+- 2024년 2월 22일에 촬영된 캐논 파워샷 SX70 HS 카메라로 찍은 사진
+- 사진의 해상도는 5184x3888 픽셀이며, RGB 모드로 촬영되었습니다.
+- 사진 파일 크기는 7,613,984 바이트이며, MPO 포맷으로 저장되었습니다.
+=========================================
+source_name: IMG_1675.JPG
+source_type: jpg
+size_bytes: 7613984
+path: /mnt/dgxbackup/2026 홍익기술/진천초평산업단지/03. 사진/2024.02.23-24/이부/IMG_1675.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2024:02:22 16:17:43
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/12220___02_-_-2025.10.23_df82ae4f52.txt",
+  "source_name": "12220___02_-_-2025.10.23_df82ae4f52.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:07+09:00",
+  "processed_at": "2026-07-08T12:04:15+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/12220___02_-_-2025.10.23_df82ae4f52_a6b05f80f3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/12220___02_-_-2025.10.23_df82ae4f52_a6b05f80f3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소에서 제공한 자연환경분야 참고자료입니다.",
+      "2025년 10월 23일에 작성된 .hwp 형식의 문서입니다.",
+      "파일 크기는 약 13MB이며 현재 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "참고자 자료",
+    "keywords": [
+      "자연환경",
+      "아우룸생태연구소",
+      "hwp"
+    ]
+  }
+}

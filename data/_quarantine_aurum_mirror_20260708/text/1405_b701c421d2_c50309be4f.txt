@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 포항혁신파크 공사기간 산출_1405일.xlsx
+source_type: xlsx
+sheet: 공사기간 산정, rows: 130, columns: 40
+sheet: 예비공기 산정, rows: 29, columns: 17
+sheet: 참고_혹서기, rows: 97, columns: 19
+sheet: 참고_동절기, rows: 97, columns: 19
+sheet: 참고_강우, rows: 97, columns: 19
+sheet: 참고_풍속, rows: 97, columns: 19
+sheet: 참고_미세먼지, rows: 19, columns: 17
+sheet: 참고_법정공휴일, rows: 23, columns: 17
+sheet: 참고_달력일수, rows: 23, columns: 15

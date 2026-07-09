@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-1114_2b7bac870f.txt",
+  "source_name": "-1114_2b7bac870f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:39:17+09:00",
+  "processed_at": "2026-07-08T11:39:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-1114_2b7bac870f_d8406f9cab.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-1114_2b7bac870f_d8406f9cab.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제안로-1114 문서는 수환경의 보전에 관한 내용을 다루고 있습니다.",
+      "파일 형식이 hwp로, 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "문서의 크기는 12,827,136 바이트입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "수환경",
+      "보전",
+      "hwp"
+    ]
+  }
+}

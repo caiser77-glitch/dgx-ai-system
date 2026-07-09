@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.05.16-17_-2_5915d602d3.txt",
+  "source_name": "2024.05.16-17_-2_5915d602d3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:35:41+09:00",
+  "processed_at": "2026-06-29T17:37:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2024.05.16-17_-2_5915d602d3_cbb407e0da.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2024.05.16-17_-2_5915d602d3_cbb407e0da.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 5월 16-17일 서산 부장리 고분군에서 촬영한 식물상 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "야장 자료로 분류됨"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "서산 부장리 고분군",
+      "식물상",
+      "야장"
+    ]
+  }
+}

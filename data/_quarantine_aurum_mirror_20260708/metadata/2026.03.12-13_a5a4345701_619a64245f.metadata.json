@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.12-13_a5a4345701.txt",
+  "source_name": "2026.03.12-13_a5a4345701.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:39:47+09:00",
+  "processed_at": "2026-06-23T18:40:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.12-13_a5a4345701_619a64245f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.12-13_a5a4345701_619a64245f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 포항-안동",
+    "project_name": "포항-안동 식물상 조사",
+    "class_name": "식물",
+    "tags": [
+      "#식물",
+      "#포항",
+      "#안동"
+    ],
+    "summary": "2026년 3월 12-13일 포항-안동 지역 식물상 조사 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 12-13일 포항-안동 지역 식물상 조사 결과 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "야장 및 영수증 폴더에 저장된 현장 조사 자료"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항-안동",
+      "식물상",
+      "야장"
+    ]
+  }
+}

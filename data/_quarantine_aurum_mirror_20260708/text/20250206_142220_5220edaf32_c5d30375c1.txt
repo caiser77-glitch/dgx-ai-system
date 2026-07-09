@@ -1,0 +1,13 @@
+source_name: 20250206_142220.jpg
+source_type: jpg
+size_bytes: 4240220
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.13 환평자료/02_현장조사 - 01임정래 -1/20250206_142220.jpg
+width: 4000
+height: 3000
+mode: RGB
+format: JPEG
+datetime_taken: 2025:02:06 14:22:20
+camera_make: samsung
+camera_model: Galaxy S24+
+gps_lat: 34.449352
+gps_lon: 127.484781

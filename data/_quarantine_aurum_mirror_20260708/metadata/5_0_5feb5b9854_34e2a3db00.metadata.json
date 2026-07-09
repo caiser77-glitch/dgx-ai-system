@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_0_5feb5b9854.txt",
+  "source_name": "5_0_5feb5b9854.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:44:43+09:00",
+  "processed_at": "2026-07-08T13:44:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_0_5feb5b9854_34e2a3db00.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_0_5feb5b9854_34e2a3db00.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '부석곤충 5 0.pdf'는 PDF 형식의 파일로 크기는 약 1.3MB입니다.",
+      "파일 유형 문제로 인해 내용 추출 및 OCR 처리가 지원되지 않습니다.",
+      "URL 내 제어 문자 포함으로 인한 처리 오류가 발생한 상태입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "OCR 오류",
+      "제어 문자"
+    ]
+  }
+}

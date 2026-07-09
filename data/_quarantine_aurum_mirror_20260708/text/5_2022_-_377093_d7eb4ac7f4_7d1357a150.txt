@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 수원, 식물상
+● 3줄 요약:
+- 2022년 실시된 제5차 전국자연환경조사의 수원 지역 식물상 관련 문서입니다.
+- 해당 파일은 PDF 형식이며 데이터 크기는 약 1.1MB입니다.
+- OCR 처리 및 컨트롤 문자 포함 문제로 인해 콘텐츠 추출에 오류가 발생하였습니다.
+=========================================
+source_name: 5차 전국자연환경조사(2022)-수원(377093)_식물상.pdf
+source_type: pdf
+size_bytes: 1101922
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/5차 전국자연환경조사(2022)-수원(377093)_식물상_pages_1_taxa.xlsx' (found at least ' ')

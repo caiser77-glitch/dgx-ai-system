@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_f9853db072.txt",
+  "source_name": "file_f9853db072.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:36+09:00",
+  "processed_at": "2026-07-08T13:49:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_f9853db072_3603a6eaeb.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_f9853db072_3603a6eaeb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "꿀벌의 형태를 활용한 회전 착시 효과 이미지를 포함하고 있습니다.",
+      "이미지 파일은 RGB 모드의 JPEG 형식으로 구성되어 있습니다.",
+      "호미반도 산림복지단지 조경설계 관련 경로에 저장된 데이터입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "꿀벌",
+      "회전착시",
+      "조경설계"
+    ]
+  }
+}

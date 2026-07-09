@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_0900_c941fe2f04.txt",
+  "source_name": "-_0900_c941fe2f04.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:13:52+09:00",
+  "processed_at": "2026-07-08T13:14:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_0900_c941fe2f04_abcb276c14.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_0900_c941fe2f04_abcb276c14.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 OCR 처리 중 오류가 발생하여 내용 추출이 불가능합니다.",
+      "파일 타입은 PDF이며, 크기는 79,225 바이트입니다.",
+      "문서 이름은 '(충주-본안)0900+불가피한환경영향.pdf'입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "OCR 오류",
+      "PDF 파일",
+      "문서 처리"
+    ]
+  }
+}

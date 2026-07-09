@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07_233861c512.txt",
+  "source_name": "07_233861c512.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:41:17+09:00",
+  "processed_at": "2026-07-08T11:41:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512_c3092e0537.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512_c3092e0537.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "엑셀 파일 '07 조경공.xlsx'은 다양한 시트로 구성되어 있으며, 각 시트는 특정 조경 공사 관련 데이터를 포함하고 있습니다.",
+      "주요 시트로는 '간5', '내역서적용수량', '조집', '조경산', '식재산' 등 다수의 조경 및 자재 관련 데이터 시트가 존재합니다.",
+      "각 시트는 서로 다른 행과 열의 규모를 가지고 있으며, '조경산'이 가장 큰 데이터 규모를 나타냅니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "조경공",
+      "엑셀",
+      "데이터"
+    ]
+  }
+}

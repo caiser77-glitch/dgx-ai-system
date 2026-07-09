@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-02_abad3499a4_2acd97dff7.txt",
+  "source_name": "01-02_abad3499a4_2acd97dff7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:30:02+09:00",
+  "processed_at": "2026-07-08T11:30:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-02_abad3499a4_2acd97dff7_a40c33cf93.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-02_abad3499a4_2acd97dff7_a40c33cf93.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "01-02 총괄토적.xlsx 파일은 총괄토적표를 포함하고 있으며, 28개의 행과 57개의 열로 구성되어 있습니다.",
+      "이 문서는 주로 토지의 면적, 용도, 소유자 정보 등을 기록한 표 형태의 데이터를 제공합니다.",
+      "데이터는 다양한 토지 정보를 상세히 기재하여 관리 및 분석에 활용될 수 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지정보",
+      "총괄토적표",
+      "관리데이터"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07_233861c512.6_f292f12b50.txt",
+  "source_name": "07_233861c512.6_f292f12b50.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:33:33+09:00",
+  "processed_at": "2026-07-08T11:33:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512.6_f292f12b50_a7ef6b3c10.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512.6_f292f12b50_a7ef6b3c10.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '07_233861c512.6'은 총 52개의 행을 포함하고 있습니다.",
+      "총 8개의 열이 존재하나 대부분의 열 이름이 누락된 상태입니다.",
+      "데이터 내에서 확인되는 유일한 열 이름은 '부대공'입니다."
+    ],
+    "category": "데이터셋",
+    "keywords": [
+      "CSV",
+      "부대공",
+      "데이터셋"
+    ]
+  }
+}

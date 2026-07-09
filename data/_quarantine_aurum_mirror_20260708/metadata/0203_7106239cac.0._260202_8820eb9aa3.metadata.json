@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/0203_7106239cac.0._260202.csv",
+  "source_name": "0203_7106239cac.0._260202.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:00:38+09:00",
+  "processed_at": "2026-07-08T12:00:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0203_7106239cac.0._260202_8820eb9aa3.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/0203_7106239cac.0._260202_8820eb9aa3.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0203_7106239cac.0._260202_8820eb9aa3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "공원 및 녹지 면적에 대한 통계 데이터를 포함한 CSV 파일입니다.",
+      "하천 면적을 제외한 공원과 녹지의 구성비 및 면적 비교를 목적으로 합니다.",
+      "총 52개의 행으로 구성되어 있으며 구별 면적 및 구성비 정보를 담고 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "공원 면적",
+      "녹지 구성비",
+      "면적 비교"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/LIST-__250530_f098d10e25.txt",
+  "source_name": "LIST-__250530_f098d10e25.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:12:06+09:00",
+  "processed_at": "2026-07-08T12:12:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/LIST-__250530_f098d10e25_8bb3a41214.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/LIST-__250530_f098d10e25_8bb3a41214.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '단지설계' 관련 필요 자료 목록을 포함하고 있습니다.",
+      "2023년 5월 30일 기준의 자료 리스트로, 파일 형식은 hwp입니다.",
+      "파일 크기는 15,360 바이트이며, 콘텐츠 추출은 지원되지 않는 파일 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "단지설계",
+      "필요자료",
+      "hwp"
+    ]
+  }
+}

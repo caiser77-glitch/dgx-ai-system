@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0576_a481b464a5.txt",
+  "source_name": "IMG_0576_a481b464a5.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-05T16:00:12+09:00",
+  "processed_at": "2026-07-05T16:02:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0576_a481b464a5_1338693bce.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0576_a481b464a5_1338693bce.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 포항-안동",
+    "project_name": "산속 무인카메라",
+    "taxon_group": "미확정",
+    "document_type": "사진",
+    "class_name": "사진",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#사진",
+      "#무인카메라"
+    ],
+    "summary": "산속 무인카메라로 촬영된 사진. 카메라 모델: BTC-5PXD, 촬영 날짜: 2020-02-03 20:43:00.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "요약을 생성하지 못했습니다.",
+      "",
+      ""
+    ],
+    "category": "기타",
+    "keywords": []
+  }
+}

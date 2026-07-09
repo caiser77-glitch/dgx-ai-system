@@ -1,0 +1,26 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 생물군, 데이터셋, 시트
+● 3줄 요약:
+- 문서는 다양한 생물군에 대한 데이터를 포함하는 여러 시트로 구성되어 있습니다.
+- 각 시트는 특정 생물군(포유류, 조류, 곤충 등)의 정보를 담고 있으며, 행과 열의 수가 다양합니다.
+- 특히 '마' 시트가 가장 많은 행(19879)을 가지고 있어 가장 큰 데이터셋을 포함하고 있습니다.
+=========================================
+source_name: 문헌3.xlsx
+source_type: xlsx
+sheet: 설명서, rows: 32, columns: 2
+sheet: 한영분리, rows: 1000, columns: 7
+sheet: 식물, rows: 1501, columns: 10
+sheet: 가, rows: 6056, columns: 47
+sheet: 포유, rows: 4181, columns: 155
+sheet: 나, rows: 127, columns: 82
+sheet: 조류, rows: 4531, columns: 155
+sheet: 다, rows: 633, columns: 87
+sheet: 양파, rows: 4131, columns: 155
+sheet: 라, rows: 96, columns: 82
+sheet: 곤충, rows: 1501, columns: 9
+sheet: 마, rows: 19879, columns: 47
+sheet: 어류, rows: 4181, columns: 155
+sheet: 바, rows: 570, columns: 82
+sheet: 저서, rows: 4531, columns: 155
+sheet: 사, rows: 1875, columns: 82

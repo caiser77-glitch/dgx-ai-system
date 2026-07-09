@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/00_d1e160c5f2.4.csv",
+  "source_name": "00_d1e160c5f2.4.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:44:49+09:00",
+  "processed_at": "2026-07-08T11:44:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/00_d1e160c5f2.4_d006488d0c.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/00_d1e160c5f2.4_d006488d0c.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/00_d1e160c5f2.4_d006488d0c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 배수관 관련 데이터가 포함된 CSV 형식의 파일입니다.",
+      "총 33개의 행으로 구성되어 있으며, 배수관 계측 또는 관리 데이터를 포함하고 있습니다.",
+      "문서의 컬럼 정보는 배수관과 관련된 통계적 수치를 나타내는 것으로 보입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "배수관",
+      "데이터",
+      "CSV"
+    ]
+  }
+}

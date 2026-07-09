@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/09_df1bb41624.txt",
+  "source_name": "09_df1bb41624.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:59:14+09:00",
+  "processed_at": "2026-07-08T11:59:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/09_df1bb41624_71e32b7ea5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/09_df1bb41624_71e32b7ea5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "관계기관 협의 의견 및 반영 여부에 관한 자료입니다.",
+      "hwp 파일 형식으로 현재 콘텐츠 추출이 지원되지 않습니다.",
+      "파일 크기는 71,168 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "관계기관",
+      "협의 의견",
+      "반영 여부"
+    ]
+  }
+}

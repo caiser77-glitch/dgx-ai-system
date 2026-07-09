@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-___3__3_-2_O_da806861a2.txt",
+  "source_name": "-___3__3_-2_O_da806861a2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:14+09:00",
+  "processed_at": "2026-07-08T11:50:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-___3__3_-2_O_da806861a2_dc8df6dffa.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-___3__3_-2_O_da806861a2_dc8df6dffa.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "익산 국대도 서수-평장 지역의 생태계 조사 보고서",
+      "3차년도 공사 후 생태계 변화에 대한 분석 포함",
+      "파일 형식이 지원되지 않아 내용 추출 불가"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "생태계",
+      "공사 후",
+      "익산 국대도"
+    ]
+  }
+}

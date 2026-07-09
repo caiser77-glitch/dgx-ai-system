@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/04_34e150f2bb.6.csv",
+  "source_name": "04_34e150f2bb.6.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:01+09:00",
+  "processed_at": "2026-07-08T11:43:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_34e150f2bb.6_3933428e55.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/04_34e150f2bb.6_3933428e55.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_34e150f2bb.6_3933428e55.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 파일명 '04_34e150f2bb.6.csv'를 가진 CSV 형식의 문서입니다.",
+      "총 52개의 행으로 구성되어 있으며, 열 이름 중 '부대공'이라는 항목이 포함되어 있습니다.",
+      "데이터의 구체적인 수치나 상세 내용은 식별되지 않는 구조적 정보 위주의 문서입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 데이터",
+      "행 개수 52개",
+      "부대공"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 00. 25.10.13_대안별 토지이용계획표_v5.xlsx
+source_type: xlsx
+sheet: 총괄표, rows: 51, columns: 17
+sheet: 01. 기본구상안(23.10), rows: 78, columns: 21
+sheet: 02. 수용통보(25.8), rows: 97, columns: 20
+sheet: 03. 개발계획 검토안, rows: 94, columns: 20
+sheet: 04. 개발계획 수립안(25.11.입안예정), rows: 94, columns: 20
+sheet: 05. 존치 1안_검토중, rows: 94, columns: 20
+sheet: 06. 존치 2안_검토중, rows: 94, columns: 20

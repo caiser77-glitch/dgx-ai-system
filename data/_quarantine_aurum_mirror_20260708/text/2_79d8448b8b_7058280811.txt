@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 견적의뢰서
+● 핵심 키워드: 군산항, 준설토, 투기장
+● 3줄 요약:
+- 군산항 제2준설토 투기장에 대한 육상생태계 조사 관련 견적의뢰서입니다.
+- 파일 크기는 547,603 바이트이며 PDF 형식으로 작성되었습니다.
+- 파일명 내 공백 및 특수문자로 인해 OCR 처리 과정에서 오류가 발생하였습니다.
+=========================================
+source_name: 군산항 제2준설토 투기장 견적의뢰서(육상생태계).pdf
+source_type: pdf
+size_bytes: 547603
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/군산항 제2준설토 투기장 견적의뢰서(육상생태계)_pages_1_taxa.xlsx' (found at least ' ')

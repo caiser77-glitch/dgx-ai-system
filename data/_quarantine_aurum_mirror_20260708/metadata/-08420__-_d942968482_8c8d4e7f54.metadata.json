@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-08420__-_d942968482.txt",
+  "source_name": "-08420__-_d942968482.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:41+09:00",
+  "processed_at": "2026-07-08T12:10:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-08420__-_d942968482_8c8d4e7f54.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-08420__-_d942968482_8c8d4e7f54.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 편집 완료된 고흥 지역의 토양 관련 초안입니다.",
+      "파일 크기는 27,951,104 바이트이며, HWP 형식입니다.",
+      "내용 추출은 지원되지 않는 파일 유형으로 인해 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥",
+      "토양",
+      "HWP"
+    ]
+  }
+}

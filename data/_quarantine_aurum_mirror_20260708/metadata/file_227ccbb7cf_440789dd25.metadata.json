@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_227ccbb7cf.txt",
+  "source_name": "file_227ccbb7cf.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:54+09:00",
+  "processed_at": "2026-07-08T13:55:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_227ccbb7cf_440789dd25.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_227ccbb7cf_440789dd25.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "설계 도면 파일 내에 포함된 평의자의 이미지를 나타내는 데이터입니다.",
+      "파일 경로는 호미반도 관련 설계 도면 폴더 내에 저장되어 있습니다.",
+      "이미지 규격은 1600x900 해상도의 RGB 모드 JPEG 형식입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "평의자",
+      "설계도면",
+      "이미지파일"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039870_bd6e0b65d1.txt",
+  "source_name": "R0039870_bd6e0b65d1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:38:04+09:00",
+  "processed_at": "2026-07-08T14:38:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039870_bd6e0b65d1_f4f23b2ece.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039870_bd6e0b65d1_f4f23b2ece.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.",
+      "2026년 3월 12일 오후 5시경에 촬영되었습니다.",
+      "포항-안동 지역의 유과 관련 경로에 저장된 사진 데이터입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "RICOH WG-6",
+      "이미지 메타데이터",
+      "현장 사진"
+    ]
+  }
+}

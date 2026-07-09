@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 대기질, OCR 오류
+● 3줄 요약:
+- 문서는 '우주센터-07120(대기질).pdf'로, 크기는 27,020,728 바이트입니다.
+- 내용 추출이 지원되지 않는 파일 유형입니다.
+- OCR 처리 중 'ascii' 코덱 인코딩 오류가 발생했습니다.
+=========================================
+source_name: 우주센터-07120(대기질).pdf
+source_type: pdf
+size_bytes: 27020728
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-16: ordinal not in range(128)

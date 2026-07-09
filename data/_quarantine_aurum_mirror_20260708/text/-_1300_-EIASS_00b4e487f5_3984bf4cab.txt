@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 환경영향평가, 충주, OCR 오류
+● 3줄 요약:
+- 충주 지역의 환경영향평가 보고서로 추정되는 문서입니다.
+- 파일 크기는 약 265MB이며, OCR 처리 과정에서 오류가 발생했습니다.
+- 지원되지 않는 파일 형식으로 인해 상세 내용 추출에 제한이 있습니다.
+=========================================
+source_name: (충주-본안)1300+부록-EIASS.pdf
+source_type: pdf
+size_bytes: 265208333
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

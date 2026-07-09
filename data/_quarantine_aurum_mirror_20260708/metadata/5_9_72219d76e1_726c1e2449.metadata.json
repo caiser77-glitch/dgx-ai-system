@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_9_72219d76e1.txt",
+  "source_name": "5_9_72219d76e1.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T12:39:29+09:00",
+  "processed_at": "2026-07-06T12:40:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_9_72219d76e1_726c1e2449.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_9_72219d76e1_726c1e2449.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산조류 5 9.pdf 파일에 대한 정보 제공",
+      "파일 크기는 882,113 바이트",
+      "내용 추출 및 OCR 처리에 실패"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "서산조류",
+      "PDF",
+      "OCR 오류"
+    ]
+  }
+}

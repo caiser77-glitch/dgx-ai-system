@@ -1,0 +1,43 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_1128_479a152c7c.txt",
+  "source_name": "IMG_1128_479a152c7c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T15:27:48+09:00",
+  "processed_at": "2026-07-06T15:28:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_1128_479a152c7c_0d55f9b48c.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_1128_479a152c7c_0d55f9b48c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "_AURUM_AI_PROCESSED",
+    "project_name": "processed",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT"
+    ],
+    "summary": "processed 관련 TXT 파일",
+    "is_ambiguous": true,
+    "question": "본문 또는 경로에서 생물 분류군을 확정하지 못했습니다."
+  },
+  "ai_summary": {
+    "summary": [
+      "IMG_1128.JPG는 크기가 6,283,808 바이트인 MPO 형식의 이미지 파일입니다.",
+      "이미지는 RGB 모드로, 해상도는 5184x3888 픽셀입니다.",
+      "OCR 처리 시 서버 내부 오류가 발생하여 텍스트 인식이 실패했습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 파일",
+      "MPO 형식",
+      "OCR 오류"
+    ]
+  }
+}

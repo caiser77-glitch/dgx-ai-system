@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/05_05130e0fef.sheet.csv",
+  "source_name": "05_05130e0fef.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:35+09:00",
+  "processed_at": "2026-07-08T11:43:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/05_05130e0fef.sheet_d80e2c1c0e.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/05_05130e0fef.sheet_d80e2c1c0e.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/05_05130e0fef.sheet_d80e2c1c0e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "L형옹벽의 단위수량 데이터를 포함한 CSV 형식의 문서입니다.",
+      "총 56개의 행으로 구성되어 있으며 구조물 관련 수치 정보를 담고 있습니다.",
+      "아우룸생태연구소의 데이터 관리 및 분석을 위한 기초 자료입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "L형옹벽",
+      "단위수량",
+      "CSV데이터"
+    ]
+  }
+}

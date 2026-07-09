@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 애조로, 성지요양원, 확장사업
+● 3줄 요약:
+- 제주시 애조로에서 성지요양원 구간의 확장사업과 관련된 동식물상 조사 보고서입니다.
+- 해당 문서는 도로 확장 사업에 따른 생태계 변화를 파악하기 위한 목적을 가집니다.
+- 파일 용량은 약 22.7MB이며, 데이터 추출 과정에서 일부 OCR 오류가 확인되었습니다.
+=========================================
+source_name: 제주시 애조로~성지요양원(중로2-1-115호선 외 2개노선) 확장사업 동식물상.pdf
+source_type: pdf
+size_bytes: 22668610
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제주시 애조로~성지요양원(중로2-1-115호선 외 2개노선) 확장사업 동식물상_pages_1_taxa.xlsx' (found at least ' ')

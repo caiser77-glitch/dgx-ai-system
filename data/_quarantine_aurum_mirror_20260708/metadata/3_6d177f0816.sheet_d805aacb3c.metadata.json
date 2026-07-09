@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/3_6d177f0816.sheet.csv",
+  "source_name": "3_6d177f0816.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:15:27+09:00",
+  "processed_at": "2026-07-08T12:15:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/3_6d177f0816.sheet_d805aacb3c.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/3_6d177f0816.sheet_d805aacb3c.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/3_6d177f0816.sheet_d805aacb3c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 CSV 형식의 데이터 파일로 총 1874개의 행을 포함하고 있습니다.",
+      "데이터 내에는 'Kwon, Eun_Ho(권은호)'라는 특정 인물의 이름이 기록되어 있습니다.",
+      "전반적인 열 구성은 비어있는 값이 많아 구체적인 연구 내용 파악에는 한계가 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 데이터",
+      "권은호",
+      "데이터 목록"
+    ]
+  }
+}

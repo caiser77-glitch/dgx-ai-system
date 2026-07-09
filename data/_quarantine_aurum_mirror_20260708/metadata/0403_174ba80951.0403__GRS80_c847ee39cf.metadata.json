@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/0403_174ba80951.0403__GRS80.csv",
+  "source_name": "0403_174ba80951.0403__GRS80.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:15:42+09:00",
+  "processed_at": "2026-07-08T12:15:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0403_174ba80951.0403__GRS80_c847ee39cf.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/0403_174ba80951.0403__GRS80_c847ee39cf.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0403_174ba80951.0403__GRS80_c847ee39cf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 GRS80 관련 데이터를 포함한 CSV 형식의 파일입니다.",
+      "총 35개의 행으로 구성되어 있으며 구 분 및 구성비 등의 열을 포함합니다.",
+      "상세 데이터 수치보다는 문서의 구조적 메타데이터를 나타내고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "GRS80",
+      "CSV 데이터",
+      "구성비"
+    ]
+  }
+}

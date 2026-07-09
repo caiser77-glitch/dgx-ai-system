@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 지원되지 않는 파일, OCR 오류
+● 3줄 요약:
+- 해당 문서는 PDF 형식의 파일로 약 12MB의 용량을 가집니다.
+- 파일 유형 문제로 인해 직접적인 내용 추출이 지원되지 않습니다.
+- URL 내 제어 문자 포함으로 인한 OCR 처리 오류가 발생하였습니다.
+=========================================
+source_name: 0321 (동식물상)_2026.05.18 아우룸생태연구소.pdf
+source_type: pdf
+size_bytes: 12028119
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/0321 (동식물상)_2026.05.18 아우룸생태연구소_pages_1_taxa.xlsx' (found at least ' ')

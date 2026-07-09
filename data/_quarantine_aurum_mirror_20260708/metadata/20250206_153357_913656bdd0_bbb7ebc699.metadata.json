@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250206_153357_913656bdd0.txt",
+  "source_name": "20250206_153357_913656bdd0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T11:16:04+09:00",
+  "processed_at": "2026-06-23T11:17:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250206_153357_913656bdd0_bbb7ebc699.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250206_153357_913656bdd0_bbb7ebc699.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "현장조사",
+    "tags": [
+      "#현장조사",
+      "#고흥",
+      "#산단"
+    ],
+    "summary": "2025년 2월 6일 현장조사 사진, GPS 좌표: 34.451879, 127.493144, 카메라: Samsung Galaxy S24+",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 2월 6일에 촬영된 고화질 사진",
+      "사진은 고흥 산단에서 촬영되었으며 GPS 좌표가 포함됨",
+      "삼성 Galaxy S24+로 촬영된 4000x3000 해상도의 JPEG 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "GPS 좌표",
+      "삼성 Galaxy S24+"
+    ]
+  }
+}

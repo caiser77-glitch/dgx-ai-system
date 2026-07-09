@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07_f2b8f8f996.txt",
+  "source_name": "07_f2b8f8f996.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:27+09:00",
+  "processed_at": "2026-07-08T12:14:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_f2b8f8f996_e297ccc956.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_f2b8f8f996_e297ccc956.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 평가항목, 범위, 방법 등을 설정하기 위한 평가준비서입니다.",
+      "파일 형식은 HWP이며 파일 크기는 약 4.6MB입니다.",
+      "현재 시스템상에서 직접적인 내용 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "평가준비서",
+      "HWP",
+      "내용추출불가"
+    ]
+  }
+}

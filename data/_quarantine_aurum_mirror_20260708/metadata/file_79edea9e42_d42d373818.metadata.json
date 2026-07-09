@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_79edea9e42.txt",
+  "source_name": "file_79edea9e42.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:52:46+09:00",
+  "processed_at": "2026-07-08T13:52:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_79edea9e42_d42d373818.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_79edea9e42_d42d373818.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단 설계 자료 중 하천 위성 관련 이미지 파일입니다.",
+      "사면 재해 및 해안 재해 발생 가능 예상 지역을 포함한 작업 필요 자료입니다.",
+      "2025년 9월 3일 작성된 재해 관련 지구 지정 현황의 원본 삽도 데이터입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "하천위성",
+      "사면재해",
+      "해안재해"
+    ]
+  }
+}

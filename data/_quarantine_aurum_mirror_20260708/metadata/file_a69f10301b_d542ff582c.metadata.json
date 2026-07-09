@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_a69f10301b.txt",
+  "source_name": "file_a69f10301b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:50:23+09:00",
+  "processed_at": "2026-07-08T13:50:31+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_a69f10301b_d542ff582c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_a69f10301b_d542ff582c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 온산국가산업단지 내 포유류 조사 과정에서 촬영된 전경 사진입니다.",
+      "2026년 2월 12일 오후 4시 40분경 Panasonic 카메라로 촬영되었습니다.",
+      "GPS 좌표(35.449994, 129.314467)가 포함된 현장 조사 이미지 데이터입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "울산 온산국가산업단지",
+      "포유류 조사",
+      "현장 사진"
+    ]
+  }
+}

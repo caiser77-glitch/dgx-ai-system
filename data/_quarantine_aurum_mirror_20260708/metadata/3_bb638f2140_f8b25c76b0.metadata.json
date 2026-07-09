@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3_bb638f2140.txt",
+  "source_name": "3_bb638f2140.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:08:40+09:00",
+  "processed_at": "2026-06-23T21:09:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/3_bb638f2140_f8b25c76b0.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/3_bb638f2140_f8b25c76b0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "오천항 정비공사 사후",
+    "class_name": "동물",
+    "tags": [
+      "#동물",
+      "#사진",
+      "#오천항"
+    ],
+    "summary": "2026년 3월 20일 오천항에서 촬영된 고양이 사진. 카메라: Panasonic DC-TZ99.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 20일 오전 10시 19분에 촬영된 고양이 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, JPEG 형식, RGB 모드",
+      "해상도 1067x800, 파일 크기 1,033,996 바이트"
+    ],
+    "category": "사진",
+    "keywords": [
+      "고양이",
+      "사진",
+      "Panasonic DC-TZ99"
+    ]
+  }
+}

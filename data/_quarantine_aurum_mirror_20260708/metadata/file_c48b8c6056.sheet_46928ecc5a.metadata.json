@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/file_c48b8c6056.sheet.csv",
+  "source_name": "file_c48b8c6056.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:45+09:00",
+  "processed_at": "2026-07-08T11:57:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_c48b8c6056.sheet_46928ecc5a.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/file_c48b8c6056.sheet_46928ecc5a.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_c48b8c6056.sheet_46928ecc5a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하천 생물측정망을 통한 어류 출현종 데이터 분석 결과입니다.",
+      "총 60개의 행으로 구성된 CSV 형식의 조사 기록입니다.",
+      "하천 내 서식하는 다양한 어류 종에 대한 정보를 포함하고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "하천 생물측정망",
+      "어류 출현종",
+      "생태 데이터"
+    ]
+  }
+}

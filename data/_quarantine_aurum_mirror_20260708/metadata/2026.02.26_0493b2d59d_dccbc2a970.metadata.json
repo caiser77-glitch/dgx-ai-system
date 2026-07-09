@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.26_0493b2d59d.txt",
+  "source_name": "2026.02.26_0493b2d59d.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:50:36+09:00",
+  "processed_at": "2026-06-23T17:51:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.26_0493b2d59d_dccbc2a970.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.26_0493b2d59d_dccbc2a970.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 성남낙생",
+    "project_name": "성남낙생 육상곤충 조사",
+    "class_name": "육상곤충",
+    "tags": [
+      "#육상곤충",
+      "#성남낙생",
+      "#2026"
+    ],
+    "summary": "2026년 2월 26일 성남낙생에서 촬영된 육상곤충 사진. 크기 470,944바이트, 해상도 2480x3507.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 26일 성남낙생에서 촬영된 육상곤충 사진",
+      "JPEG 형식, 2480x3507 픽셀, 470,944 바이트 크기",
+      "야장(野帳) 1분기 자료에 포함"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "성남낙생",
+      "육상곤충",
+      "야장"
+    ]
+  }
+}

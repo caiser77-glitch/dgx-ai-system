@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0029_50bdc91c68.txt",
+  "source_name": "IMG_0029_50bdc91c68.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T15:26:38+09:00",
+  "processed_at": "2026-06-30T15:29:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/IMG_0029_50bdc91c68_bfcf5d7a95.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0029_50bdc91c68_bfcf5d7a95.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2020년 1월 2일에 촬영된 무인카메라 사진",
+      "BROWNING BTC-8E 카메라로 촬영",
+      "해상도 4608x2592, RGB 모드, MPO 포맷"
+    ],
+    "category": "무인카메라 자료",
+    "keywords": [
+      "무인카메라",
+      "BROWNING",
+      "BTC-8E"
+    ]
+  }
+}

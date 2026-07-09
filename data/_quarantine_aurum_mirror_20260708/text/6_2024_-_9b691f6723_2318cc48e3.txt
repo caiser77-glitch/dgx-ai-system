@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 진천, 식물상
+● 3줄 요약:
+- 제6차 전국자연환경조사 2024년도 진천 지역 식물상에 관한 연구 보고서입니다.
+- 문서 파일 크기는 약 924KB이며, 시스템상의 OCR 처리 과정에서 오류가 발생하였습니다.
+- 파일명 내 공백 포함으로 인해 데이터 추출 및 URL 경로 인식에 문제가 확인되었습니다.
+=========================================
+source_name: 제6차 전국자연환경조사 2024 진천-식물상.pdf
+source_type: pdf
+size_bytes: 924047
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제6차 전국자연환경조사 2024 진천-식물상_pages_1_taxa.xlsx' (found at least ' ')

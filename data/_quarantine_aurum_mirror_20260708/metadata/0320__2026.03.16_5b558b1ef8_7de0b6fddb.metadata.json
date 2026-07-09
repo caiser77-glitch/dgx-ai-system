@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0320__2026.03.16_5b558b1ef8.txt",
+  "source_name": "0320__2026.03.16_5b558b1ef8.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:54:35+09:00",
+  "processed_at": "2026-07-08T11:54:42+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0320__2026.03.16_5b558b1ef8_7de0b6fddb.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0320__2026.03.16_5b558b1ef8_7de0b6fddb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경영향조사의 실시 내용 및 조사 결과에 대한 조치 사항을 다룹니다.",
+      "2026년 3월 16일 아우룸생태연구소에서 작성된 문서입니다.",
+      "파일 형식 문제로 인해 상세한 문서 내용 추출은 불가능합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향조사",
+      "조치",
+      "아우룸생태연구소"
+    ]
+  }
+}

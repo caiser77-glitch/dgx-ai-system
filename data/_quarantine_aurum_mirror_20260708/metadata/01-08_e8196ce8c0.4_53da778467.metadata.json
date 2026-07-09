@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-08_e8196ce8c0.4.csv",
+  "source_name": "01-08_e8196ce8c0.4.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:46+09:00",
+  "processed_at": "2026-07-08T11:43:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0.4_53da778467.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-08_e8196ce8c0.4_53da778467.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0.4_53da778467.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "면벽 및 집수정 깨기 작업에 대한 수량 산출 내역을 포함한 문서입니다.",
+      "총 44개의 행으로 구성된 CSV 형식의 데이터 파일입니다.",
+      "건설 또는 토목 공사 과정에서의 철거 및 파쇄 물량을 산출하기 위한 용도입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "면벽",
+      "집수정 깨기",
+      "수량산출서"
+    ]
+  }
+}

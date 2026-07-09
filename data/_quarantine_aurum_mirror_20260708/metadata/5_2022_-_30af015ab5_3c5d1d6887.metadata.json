@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2022_-_30af015ab5.txt",
+  "source_name": "5_2022_-_30af015ab5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:04+09:00",
+  "processed_at": "2026-07-08T12:14:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2022_-_30af015ab5_3c5d1d6887.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2022_-_30af015ab5_3c5d1d6887.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제5차 전국자연환경조사 2022년도 청하 지역의 조류 조사 내용을 다루는 문서입니다.",
+      "PDF 파일 형식이나 OCR 처리 과정에서 기술적인 오류가 발생하였습니다.",
+      "파일명 내 공백 및 제어 문자로 인해 내용 추출이 불가능한 상태입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "청하",
+      "조류"
+    ]
+  }
+}

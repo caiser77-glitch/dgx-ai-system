@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/260202______ver4_deb1382ee6.txt",
+  "source_name": "260202______ver4_deb1382ee6.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:48:19+09:00",
+  "processed_at": "2026-07-08T13:48:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/260202______ver4_deb1382ee6_45abe4db5b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/260202______ver4_deb1382ee6_45abe4db5b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지 이용 계획 내 보호수 표기 관련 계획 기준을 다룬 자료입니다.",
+      "해당 문서는 프레젠테이션(pptx) 형식의 파일로 구성되어 있습니다.",
+      "상세 내용 추출이 지원되지 않는 파일 유형임을 명시하고 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "토지이용계획",
+      "보호수",
+      "계획기준"
+    ]
+  }
+}

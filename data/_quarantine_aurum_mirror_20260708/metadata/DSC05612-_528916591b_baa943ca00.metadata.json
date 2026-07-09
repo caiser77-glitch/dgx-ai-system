@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05612-_528916591b.txt",
+  "source_name": "DSC05612-_528916591b.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T16:14:51+09:00",
+  "processed_at": "2026-06-24T16:16:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05612-_528916591b_baa943ca00.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05612-_528916591b_baa943ca00.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일 밤나무잎벌레 사진 촬영\nSONY ILCE-7RM4 카메라로 촬영, MPO 포맷\n울산 온산국가산업단지 1차 조사 결과",
+    "tags": [
+      "#밤나무잎벌레",
+      "#울산 온산국가산업단지",
+      "#1차조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일 밤나무잎벌레 사진 촬영",
+      "SONY ILCE-7RM4 카메라로 촬영, MPO 포맷",
+      "울산 온산국가산업단지 1차 조사 결과"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "밤나무잎벌레",
+      "울산 온산국가산업단지",
+      "1차조사"
+    ]
+  }
+}

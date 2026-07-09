@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/06_806412c6aa.1.csv",
+  "source_name": "06_806412c6aa.1.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:42:49+09:00",
+  "processed_at": "2026-07-08T11:42:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/06_806412c6aa.1_c22739161f.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/06_806412c6aa.1_c22739161f.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/06_806412c6aa.1_c22739161f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "총괄 자재 집계표를 포함한 CSV 형식의 데이터 문서입니다.",
+      "총 80개의 행(row)으로 구성되어 있습니다.",
+      "자재 현황을 집계하기 위한 목적의 자료로 판단됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "총괄 자재 집계표",
+      "자재 관리",
+      "CSV 데이터"
+    ]
+  }
+}

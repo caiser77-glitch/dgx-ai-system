@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02_00_a970e51739.1.5_51c147b1bb.csv",
+  "source_name": "02_00_a970e51739.1.5_51c147b1bb.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:35:57+09:00",
+  "processed_at": "2026-07-08T11:36:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.1.5_51c147b1bb_8eabd15c35.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/02_00_a970e51739.1.5_51c147b1bb_8eabd15c35.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.1.5_51c147b1bb_8eabd15c35.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "박스 단위 수량산출서 데이터를 포함한 건설 관련 자재 및 공정 목록입니다.",
+      "레미콘, 거푸집, 터파기, 되메우기 등 주요 공종과 자재가 명시되어 있습니다.",
+      "총 43개의 행으로 구성된 CSV 형식의 수량 산출 데이터입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "수량산출서",
+      "레미콘",
+      "공종"
+    ]
+  }
+}

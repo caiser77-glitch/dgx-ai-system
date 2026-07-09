@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-13000__-_30a965ea68.txt",
+  "source_name": "-13000__-_30a965ea68.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:09+09:00",
+  "processed_at": "2026-07-08T12:10:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-13000__-_30a965ea68_a96d77df87.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-13000__-_30a965ea68_a96d77df87.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '고흥-13000_부록'의 초안 형태로, 편집이 완료된 상태입니다.",
+      "파일 크기는 143,736,832 바이트이며, HWP 형식의 파일입니다.",
+      "내용 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "초안",
+      "부록",
+      "HWP"
+    ]
+  }
+}

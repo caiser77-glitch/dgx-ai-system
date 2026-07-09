@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060415_266af87744.txt",
+  "source_name": "R0060415_266af87744.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T10:18:49+09:00",
+  "processed_at": "2026-07-08T10:18:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060415_266af87744_2c128d3e9c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060415_266af87744_2c128d3e9c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 문서 데이터에 이미지 파일 정보가 포함되어 있습니다.",
+      "파일 형식은 MPO이며 해상도는 5184x3888입니다.",
+      "OCR 처리 과정에서 내부 서버 오류(HTTP Error 500)가 발생하였습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 파일 정보",
+      "서버 오류",
+      "OCR 에러"
+    ]
+  }
+}

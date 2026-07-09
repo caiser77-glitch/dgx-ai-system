@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 사진, GPS 위치, 캐논 카메라
+● 3줄 요약:
+- 2026년 1월 16일에 캐논 파워샷 SX70 HS로 촬영된 사진
+- 위치: 위도 35.217048, 경도 126.857513
+- 사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식
+=========================================
+source_name: IMG_1909.JPG
+source_type: jpg
+size_bytes: 4519915
+path: /mnt/dgxbackup/2026 이산/광주도시철도/02. 사진/2026.01.15-16/IMG_1909.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:01:16 13:25:20
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.217048
+gps_lon: 126.857513

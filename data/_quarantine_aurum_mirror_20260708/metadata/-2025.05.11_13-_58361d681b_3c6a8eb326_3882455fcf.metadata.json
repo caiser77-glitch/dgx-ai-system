@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2025.05.11_13-_58361d681b_3c6a8eb326.txt",
+  "source_name": "-2025.05.11_13-_58361d681b_3c6a8eb326.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:31:03+09:00",
+  "processed_at": "2026-07-08T11:31:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-2025.05.11_13-_58361d681b_3c6a8eb326_3882455fcf.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-2025.05.11_13-_58361d681b_3c6a8eb326_3882455fcf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 2025년 5월 11일부터 13일까지 진행된 파충류 야장 활동 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 이미지",
+      "야장 활동 관련 영수증과 함께 저장된 문서"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "파충류 야장",
+      "야장 활동"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250207_093427_0e59eb6ced.txt",
+  "source_name": "20250207_093427_0e59eb6ced.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T13:41:15+09:00",
+  "processed_at": "2026-06-23T13:42:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250207_093427_0e59eb6ced_382317fda8.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250207_093427_0e59eb6ced_382317fda8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 고흥 산단",
+    "project_name": "환평자료",
+    "class_name": "현장조사",
+    "tags": [
+      "#고흥",
+      "#산단",
+      "#현장조사"
+    ],
+    "summary": "2025년 2월 7일 삼성 Galaxy S24+로 촬영된 사진. GPS 좌표: 34.474003, 127.459567.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 2월 7일에 촬영된 고화질 사진",
+      "사진은 삼성 Galaxy S24+로 촬영",
+      "GPS 좌표: 위도 34.474003, 경도 127.459567"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사진",
+      "삼성 Galaxy S24+",
+      "GPS 좌표"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 사진, 삼성 Galaxy S24+, GPS 좌표
+● 3줄 요약:
+- 2025년 2월 6일에 촬영된 고화질 사진
+- 사진은 삼성 Galaxy S24+로 촬영
+- GPS 좌표: 위도 34.449286, 경도 127.484514
+=========================================
+source_name: 20250206_142038.jpg
+source_type: jpg
+size_bytes: 5127374
+path: /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.13 환평자료/02_현장조사 - 01임정래 -1/20250206_142038.jpg
+width: 4000
+height: 3000
+mode: RGB
+format: JPEG
+datetime_taken: 2025:02:06 14:20:38
+camera_make: samsung
+camera_model: Galaxy S24+
+gps_lat: 34.449286
+gps_lon: 127.484514

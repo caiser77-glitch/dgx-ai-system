@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0058_542945dcce.txt",
+  "source_name": "IMG_0058_542945dcce.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-26T04:01:40+09:00",
+  "processed_at": "2026-06-26T04:04:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0058_542945dcce_6dc41994dc.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0058_542945dcce_6dc41994dc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 12월 25일에 촬영된 무덤 옆 무인카메라 사진\nPrometheus BTC-5PXD 카메라로 촬영, 해상도 4208x2368, RGB 모드\n파일 크기 2,884,947 바이트, MPO 포맷",
+    "tags": [
+      "#무인카메라",
+      "#무덤",
+      "#Prometheus"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 12월 25일에 촬영된 무덤 옆 무인카메라 사진",
+      "Prometheus BTC-5PXD 카메라로 촬영, 해상도 4208x2368, RGB 모드",
+      "파일 크기 2,884,947 바이트, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "무덤",
+      "Prometheus"
+    ]
+  }
+}

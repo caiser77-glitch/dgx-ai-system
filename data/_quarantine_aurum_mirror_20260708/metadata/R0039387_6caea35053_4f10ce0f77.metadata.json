@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039387_6caea35053.txt",
+  "source_name": "R0039387_6caea35053.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:54:14+09:00",
+  "processed_at": "2026-07-08T14:54:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039387_6caea35053_4f10ce0f77.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039387_6caea35053_4f10ce0f77.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 다슬기 관련 이미지 파일 정보입니다.",
+      "2026년 1월 9일 오전 10시경 안성테크노 인근에서 촬영되었습니다.",
+      "GPS 좌표(37.067612, 127.206945)가 포함된 사진 데이터입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "다슬기",
+      "RICOH WG-6",
+      "현장사진"
+    ]
+  }
+}

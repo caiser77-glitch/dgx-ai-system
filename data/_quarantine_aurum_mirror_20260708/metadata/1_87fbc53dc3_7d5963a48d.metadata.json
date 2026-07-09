@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_87fbc53dc3.txt",
+  "source_name": "1_87fbc53dc3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:31:08+09:00",
+  "processed_at": "2026-06-22T23:32:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_87fbc53dc3_7d5963a48d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_87fbc53dc3_7d5963a48d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "포유류",
+    "tags": [
+      "#멧돼지",
+      "#경북경산",
+      "#20261117"
+    ],
+    "summary": "멧돼지 사진, 1024x768, RGB, JPEG 형식, 561590 바이트",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "경북 경산에서 촬영된 멧돼지 사진",
+      "사진 크기: 1024x768, RGB 모드, JPEG 형식",
+      "파일 크기: 561590 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "멧돼지",
+      "경북 경산",
+      "포유류"
+    ]
+  }
+}

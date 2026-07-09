@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: RICOH WG-6, 이미지 메타데이터, GPS 좌표
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 데이터입니다.
+- 2026년 2월 20일 오후 2시 34분에 촬영되었습니다.
+- 충북 영동-보은 지역의 GPS 좌표 정보를 포함하고 있습니다.
+=========================================
+source_name: R0060240.JPG
+source_type: jpg
+size_bytes: 4373179
+path: /mnt/dgxbackup/2026 홍익기술/영동-보은/02. 사진/0219-20/이과/좌/03+260/R0060240.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:20 14:34:19
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 36.298355
+gps_lon: 127.819712

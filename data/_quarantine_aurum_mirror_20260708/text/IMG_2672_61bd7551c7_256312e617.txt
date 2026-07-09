@@ -1,0 +1,8 @@
+source_name: IMG_2672.JPG
+source_type: jpg
+size_bytes: 12982632
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+ocr_error: HTTP Error 500: Internal Server Error

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.12-13_f3bc97288f.txt",
+  "source_name": "2026.03.12-13_f3bc97288f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:44:28+09:00",
+  "processed_at": "2026-06-23T18:45:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.12-13_f3bc97288f_0118919c32.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.12-13_f3bc97288f_0118919c32.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 포항-안동",
+    "project_name": "포항-안동 야생 동물 조사",
+    "class_name": "파충류",
+    "tags": [
+      "#포항-안동",
+      "#파충류",
+      "#야장"
+    ],
+    "summary": "2026년 3월 12-13일 포항-안동 지역에서 촬영한 파충류 사진.JPEG 형식, 2480x3507 픽셀.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 12-13일 포항-안동 지역에서 촬영한 파충류 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "야장(야간 조사) 자료로 분류"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "파충류",
+      "포항-안동",
+      "야장"
+    ]
+  }
+}

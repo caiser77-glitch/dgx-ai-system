@@ -1,0 +1,4 @@
+source_name: 240904_계획 현황도.zip
+source_type: zip
+size_bytes: 5064495
+content_extraction: unsupported_file_type

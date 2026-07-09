@@ -1,0 +1,25 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 250613 기업혁신파크 토지이용계획 대안42(최종).xlsx
+source_type: xlsx
+sheet: 토지이용계획표_대안35 _33안 비교, rows: 52, columns: 29
+sheet: 토지이용계획표_대안42, rows: 55, columns: 25
+sheet: 토지이용계획표_비교, rows: 57, columns: 28
+sheet: Sheet1, rows: 25, columns: 3
+sheet: 인구 및 주택계획_대안42, rows: 45, columns: 33
+sheet: 통신계획, rows: 13, columns: 6
+sheet: 인구 및 주택계획, rows: 48, columns: 21
+sheet: 학교용지 검토, rows: 44, columns: 13
+sheet: 학교용지검토, rows: 19, columns: 15
+sheet: 주거 용지별(대안31 기준), rows: 88, columns: 57
+sheet: 토지이용계획표_국토부 제안, rows: 38, columns: 17
+sheet: 용도지역, rows: 11, columns: 8
+sheet: 도시계획시설(지구내), rows: 101, columns: 23
+sheet: 가구및획지, rows: 62, columns: 22
+sheet: 무상귀속, rows: 12, columns: 4
+sheet: 직접사용부지, rows: 22, columns: 7
+sheet: 도시계획시설(지구외), rows: 22, columns: 19

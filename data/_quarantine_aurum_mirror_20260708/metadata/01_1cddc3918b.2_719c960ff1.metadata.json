@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01_1cddc3918b.2.csv",
+  "source_name": "01_1cddc3918b.2.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:12:17+09:00",
+  "processed_at": "2026-07-08T12:12:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01_1cddc3918b.2_719c960ff1.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01_1cddc3918b.2_719c960ff1.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01_1cddc3918b.2_719c960ff1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "표토 적치장의 위치별 수량 산출을 위한 데이터입니다.",
+      "적치장 2, C, D, E 등 총 4개 구역에 대한 정보를 포함하고 있습니다.",
+      "CSV 형식의 문서로 각 적치장별 물량을 산출하기 위한 기초 자료입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "표토 적치장",
+      "수량산출",
+      "적치 구역"
+    ]
+  }
+}

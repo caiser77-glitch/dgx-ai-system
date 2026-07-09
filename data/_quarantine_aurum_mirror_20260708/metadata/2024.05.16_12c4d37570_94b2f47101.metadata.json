@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.05.16_12c4d37570.txt",
+  "source_name": "2024.05.16_12c4d37570.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T00:24:49+09:00",
+  "processed_at": "2026-06-23T00:26:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024.05.16_12c4d37570_94b2f47101.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024.05.16_12c4d37570_94b2f47101.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "행정문서",
+    "summary": "2024년 5월 16일 시작된 서산 부장리 고분군 관련 활동의 영수증 이미지\nJPEG 형식, RGB 모드, 639x1529 픽셀 크기의 사진\n311,449 바이트 크기의 파일",
+    "tags": [
+      "#영수증",
+      "#서산 부장리 고분군",
+      "#2024.05.16"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 5월 16일 시작된 서산 부장리 고분군 관련 활동의 영수증 이미지",
+      "JPEG 형식, RGB 모드, 639x1529 픽셀 크기의 사진",
+      "311,449 바이트 크기의 파일"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "서산 부장리 고분군",
+      "2024.05.16"
+    ]
+  }
+}

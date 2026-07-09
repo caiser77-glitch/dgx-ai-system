@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2019_-_3e9c8af0ea.txt",
+  "source_name": "2019_-_3e9c8af0ea.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:41+09:00",
+  "processed_at": "2026-07-08T13:45:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2019_-_3e9c8af0ea_994a91be55.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2019_-_3e9c8af0ea_994a91be55.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2019년 진천 지역의 식물상을 다룬 PDF 문서입니다.",
+      "문서 파일 크기는 약 1.14MB입니다.",
+      "OCR 처리 과정에서 제어 문자 포함으로 인한 오류가 발생했습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "진천",
+      "식물상",
+      "PDF"
+    ]
+  }
+}

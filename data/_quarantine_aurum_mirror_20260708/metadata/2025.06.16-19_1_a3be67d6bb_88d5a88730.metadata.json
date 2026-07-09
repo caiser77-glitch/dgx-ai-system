@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.06.16-19_1_a3be67d6bb.txt",
+  "source_name": "2025.06.16-19_1_a3be67d6bb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T02:20:48+09:00",
+  "processed_at": "2026-06-23T02:22:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.06.16-19_1_a3be67d6bb_88d5a88730.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.06.16-19_1_a3be67d6bb_88d5a88730.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 6월 16일부터 19일까지 고흥 산단 탐문 사진\nJPEG 형식, RGB 모드, 2181x3083 해상도\n파일 크기 529,844 바이트",
+    "tags": [
+      "#고흥산단",
+      "#탐문",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 6월 16일부터 19일까지 고흥 산단 탐문 사진",
+      "JPEG 형식, RGB 모드, 2181x3083 해상도",
+      "파일 크기 529,844 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥산단",
+      "탐문",
+      "사진"
+    ]
+  }
+}

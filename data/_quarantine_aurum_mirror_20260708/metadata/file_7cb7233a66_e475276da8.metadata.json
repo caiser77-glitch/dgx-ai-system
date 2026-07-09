@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_7cb7233a66.txt",
+  "source_name": "file_7cb7233a66.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:45+09:00",
+  "processed_at": "2026-07-08T13:49:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_7cb7233a66_e475276da8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_7cb7233a66_e475276da8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일(캡처.JPG)에 대한 메타데이터 정보입니다.",
+      "파일의 크기는 약 368KB이며, 해상도는 1809x946 픽셀입니다.",
+      "촬영 일시는 2026년 3월 16일 오후 4시 7분으로 기록되어 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "파일 정보",
+      "캡처 파일"
+    ]
+  }
+}

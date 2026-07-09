@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0322_91_202____2025.12.17_12d47535c1.txt",
+  "source_name": "0322_91_202____2025.12.17_12d47535c1.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:51:33+09:00",
+  "processed_at": "2026-07-08T11:51:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0322_91_202____2025.12.17_12d47535c1_3948e23979.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0322_91_202____2025.12.17_12d47535c1_3948e23979.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 환경영향조사 결과에 따른 조치 및 평가를 다루고 있습니다.",
+      "동식물상에 대한 상세한 조사 결과와 그에 따른 조치 방안이 제시되었습니다.",
+      "2025년 12월 17일에 작성된 (주)아우룸생태연구소의 보고서입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향조사",
+      "동식물상",
+      "조치평가"
+    ]
+  }
+}

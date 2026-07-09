@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_ab6538e6d2.txt",
+  "source_name": "-_ab6538e6d2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:47:41+09:00",
+  "processed_at": "2026-07-08T13:47:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-_ab6538e6d2_e80b55a464.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-_ab6538e6d2_e80b55a464.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "전남고흥 국가산업단지 개발사업의 환경영향평가 용역 관련 프레젠테이션 파일입니다.",
+      "해양생태계 정점도를 포함한 초기 안건을 제시하고 있습니다.",
+      "파일 크기는 약 1.8MB이며, 현재 콘텐츠 추출이 지원되지 않는 형식입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전남고흥",
+      "국가산업단지",
+      "환경영향평가"
+    ]
+  }
+}

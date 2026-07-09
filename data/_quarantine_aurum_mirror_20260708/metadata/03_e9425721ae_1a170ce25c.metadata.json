@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03_e9425721ae.txt",
+  "source_name": "03_e9425721ae.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:52+09:00",
+  "processed_at": "2026-07-08T12:05:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03_e9425721ae_1a170ce25c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03_e9425721ae_1a170ce25c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "안전보건서약서는 와탄천 권역에서의 작업 안전을 보장하기 위한 서약서입니다.",
+      "서약서는 작업자의 안전과 건강을 보호하기 위해 필요한 사항들을 명시하고 있습니다.",
+      "서약서는 작업 전에 모든 작업자가 서명해야 합니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "안전보건서약서",
+      "와탄천",
+      "작업 안전"
+    ]
+  }
+}

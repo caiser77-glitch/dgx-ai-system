@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 지형지질, A3, OCR 오류
+● 3줄 요약:
+- 문서는 A3 크기의 지형지질 관련 자료를 포함하고 있습니다.
+- 파일 크기는 9,374,130 바이트이며, OCR 처리에 문제가 발생했습니다.
+- 문서의 내용 추출이 지원되지 않는 파일 형식으로 인해 제한적입니다.
+=========================================
+source_name: (본안)+0943+지형지질(A3포함).pdf
+source_type: pdf
+size_bytes: 9374130
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

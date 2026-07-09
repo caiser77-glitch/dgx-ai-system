@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.09_b42e792c63.txt",
+  "source_name": "2026.02.09_b42e792c63.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:21:31+09:00",
+  "processed_at": "2026-06-23T17:21:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.09_b42e792c63_866fbe0598.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.09_b42e792c63_866fbe0598.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "진해신항",
+    "class_name": "초리도",
+    "tags": [
+      "#진해신항",
+      "#초리도",
+      "#JPEG"
+    ],
+    "summary": "2026년 2월 9일 진해신항 초리도에서 촬영된 JPEG 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 9일 촬영된 진해신항 초리도의 이미지 파일",
+      "JPEG 형식, 2480x3507 픽셀, 457,274 바이트 크기",
+      "야장 1분기 자료에 포함"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "진해신항",
+      "초리도",
+      "야장"
+    ]
+  }
+}

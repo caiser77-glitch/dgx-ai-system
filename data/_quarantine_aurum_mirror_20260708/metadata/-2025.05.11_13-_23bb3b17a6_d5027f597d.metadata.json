@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2025.05.11_13-_23bb3b17a6.txt",
+  "source_name": "-2025.05.11_13-_23bb3b17a6.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T21:42:26+09:00",
+  "processed_at": "2026-06-22T21:43:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-2025.05.11_13-_23bb3b17a6_d5027f597d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-2025.05.11_13-_23bb3b17a6_d5027f597d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 수성",
+    "project_name": "포항 혁신도시",
+    "class_name": "양서류",
+    "tags": [
+      "#포항",
+      "#혁신도시",
+      "#양서류"
+    ],
+    "summary": "포항 혁신도시에서 촬영된 양서류 야장 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 2025년 5월 11일부터 13일까지 진행된 양서류 야장 활동의 사진",
+      "사진은 JPEG 형식으로, 크기는 2480x3507 픽셀이며, 파일 크기는 516,373 바이트",
+      "야장 활동과 관련된 영수증 등의 서류와 함께 저장되어 있음"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "양서류 야장",
+      "현장조사"
+    ]
+  }
+}

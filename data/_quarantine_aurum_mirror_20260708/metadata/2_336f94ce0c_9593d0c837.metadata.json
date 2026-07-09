@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_336f94ce0c.txt",
+  "source_name": "2_336f94ce0c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:10:19+09:00",
+  "processed_at": "2026-06-23T20:11:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_336f94ce0c_9593d0c837.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_336f94ce0c_9593d0c837.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 울산 온산국가산업단지",
+    "project_name": "울산 온산국가산업단지 조사",
+    "class_name": "포유류",
+    "tags": [
+      "#멧돼지",
+      "#사진",
+      "#GPS"
+    ],
+    "summary": "2026년 2월 12일, 울산 온산국가산업단지에서 촬영된 멧돼지 사진. GPS 좌표: 35.448908, 129.312167",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 온산국가산업단지에서 촬영된 멧돼지 사진",
+      "2026년 2월 12일 16시 21분 44초에 Panasonic DC-TZ99 카메라로 촬영",
+      "GPS 좌표: 위도 35.448908, 경도 129.312167"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "멧돼지",
+      "울산 온산국가산업단지",
+      "현장조사"
+    ]
+  }
+}

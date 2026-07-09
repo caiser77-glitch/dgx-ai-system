@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0054_12ac165102.txt",
+  "source_name": "IMG_0054_12ac165102.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-26T01:59:02+09:00",
+  "processed_at": "2026-06-26T02:01:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0054_12ac165102_572b0a5488.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0054_12ac165102_572b0a5488.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 3월 27일 고흥 산단에서 촬영된 갯강아지풀 사진\nCanon PowerShot SX70 HS 카메라로 촬영, GPS 좌표: 34.44772, 127.483117\n사진 크기: 5184x3888, RGB 모드, MPO 포맷",
+    "tags": [
+      "#갯강아지풀",
+      "#고흥 산단",
+      "#현장조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 27일 고흥 산단에서 촬영된 갯강아지풀 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표: 34.44772, 127.483117",
+      "사진 크기: 5184x3888, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "갯강아지풀",
+      "고흥 산단",
+      "현장조사"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/151510_5100_8bcc796d63.txt",
+  "source_name": "151510_5100_8bcc796d63.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:07:02+09:00",
+  "processed_at": "2026-06-22T23:08:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/151510_5100_8bcc796d63_534aff6e45.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/151510_5100_8bcc796d63_534aff6e45.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 천마기술단",
+    "project_name": "서산 부장리 고분군 기반시설 정비사업",
+    "class_name": "토목단가",
+    "tags": [
+      "#서산",
+      "#부장리고분군",
+      "#토목단가"
+    ],
+    "summary": "서산 부장리 고분군 기반시설 정비사업의 토목단가 견적서 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 부장리 고분군 기반시설 정비사업 관련 토목단가 견적서 이미지 파일",
+      "파일 크기: 66,260 바이트, 해상도: 910x215 픽셀, RGB 모드, JPEG 형식",
+      "2025년 6월 10일 보고서 자료 및 설계자료 폴더에 포함"
+    ],
+    "category": "견적서",
+    "keywords": [
+      "서산 부장리 고분군",
+      "토목단가",
+      "견적서"
+    ]
+  }
+}

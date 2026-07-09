@@ -1,0 +1,46 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0495_de85aceb89.txt",
+  "source_name": "IMG_0495_de85aceb89.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T23:21:07+09:00",
+  "processed_at": "2026-06-30T23:22:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0495_de85aceb89_d03d9c431c.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0495_de85aceb89_d03d9c431c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 Prometheus",
+    "project_name": "고흥 산단 무인카메라 및 송메타",
+    "taxon_group": "미확정",
+    "document_type": "사진",
+    "class_name": "사진",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#사진",
+      "#무인카메라",
+      "#고흥산단"
+    ],
+    "summary": "Prometheus BTC-5PXD 카메라로 2025년 7월 2일 15:46:13에 찍은 6528x3680 크기의 사진.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 2일 15시 46분에 촬영된 무인카메라 사진",
+      "Prometheus BTC-5PXD 카메라로 촬영, RGB 모드, MPO 포맷",
+      "해상도 6528x3680, 파일 크기 5,369,726 바이트"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "사진",
+      "Prometheus"
+    ]
+  }
+}

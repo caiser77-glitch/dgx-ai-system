@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0052731_57b9961601.txt",
+  "source_name": "R0052731_57b9961601.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:21:36+09:00",
+  "processed_at": "2026-07-08T14:21:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0052731_57b9961601_9c31a57292.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0052731_57b9961601_9c31a57292.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 17일 오후 6시 15분경 고흥 산단 인근에서 촬영된 사진 데이터입니다.",
+      "RICOH WG-6 카메라로 촬영되었으며 GPS 좌표(34.46139, 127.485182)가 포함되어 있습니다.",
+      "파일 경로는 고흥 산단 현장 조사 과정 중 생성된 이미지 파일임을 나타냅니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥 산단",
+      "RICOH WG-6",
+      "현장 사진"
+    ]
+  }
+}

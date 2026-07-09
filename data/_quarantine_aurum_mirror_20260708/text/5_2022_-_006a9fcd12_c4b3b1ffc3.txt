@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 포항, 포유류
+● 3줄 요약:
+- 제5차 전국자연환경조사 2022 포항 지역의 포유류 관련 문서입니다.
+- 문서 파일 크기는 약 1.99MB(1,989,056 바이트)입니다.
+- OCR 처리 실패로 인해 상세 내용 추출이 불가능한 상태입니다.
+=========================================
+source_name: 제5차 전국자연환경조사 2022 포항-포유류.pdf
+source_type: pdf
+size_bytes: 1989056
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제5차 전국자연환경조사 2022 포항-포유류_pages_1_taxa.xlsx' (found at least ' ')

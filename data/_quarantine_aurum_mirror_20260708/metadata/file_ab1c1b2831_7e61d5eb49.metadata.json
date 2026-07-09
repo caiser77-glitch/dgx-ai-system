@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_ab1c1b2831.txt",
+  "source_name": "file_ab1c1b2831.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:50:29+09:00",
+  "processed_at": "2026-07-08T13:50:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_ab1c1b2831_7e61d5eb49.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_ab1c1b2831_7e61d5eb49.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일(조류.jpg)에 대한 메타데이터 정보를 포함하고 있습니다.",
+      "파일의 경로와 크기, 해상도 및 색상 모드 등 기술적인 속성이 기록되어 있습니다.",
+      "해당 이미지는 이산 제안로 도시계획도로 개설공사 관련 문헌 자료의 일부입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "조류.jpg",
+      "도시계획도로"
+    ]
+  }
+}

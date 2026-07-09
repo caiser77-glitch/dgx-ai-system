@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_644_3149e77cf3.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_644_3149e77cf3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T02:34:40+09:00",
+  "processed_at": "2026-06-24T02:36:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_644_3149e77cf3_fae5614c68.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_644_3149e77cf3_fae5614c68.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "Canon PowerShot SX70 HS로 촬영된 사진\n2025년 3월 26일 09:22:19에 촬영\nGPS 좌표: 위도 34.457097, 경도 127.492043",
+    "tags": [
+      "#Canon PowerShot SX70 HS",
+      "#사진",
+      "#GPS"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS로 촬영된 사진",
+      "2025년 3월 26일 09:22:19에 촬영",
+      "GPS 좌표: 위도 34.457097, 경도 127.492043"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "사진",
+      "GPS"
+    ]
+  }
+}

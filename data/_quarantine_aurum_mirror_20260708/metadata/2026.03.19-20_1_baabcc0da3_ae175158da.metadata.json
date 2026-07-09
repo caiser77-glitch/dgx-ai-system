@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.19-20_1_baabcc0da3.txt",
+  "source_name": "2026.03.19-20_1_baabcc0da3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:23:23+09:00",
+  "processed_at": "2026-06-23T19:24:26+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.19-20_1_baabcc0da3_ae175158da.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.19-20_1_baabcc0da3_ae175158da.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 광주도시철도",
+    "project_name": "2026.03.19-20 광주도시철도 1분기 식물상",
+    "class_name": "식물상",
+    "tags": [
+      "#식물상",
+      "#광주도시철도",
+      "#2026"
+    ],
+    "summary": "광주도시철도 1분기 식물상 사진, 크기 547370바이트, 2480x3507 픽셀.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "광주도시철도 1분기 식물상에 대한 사진 문서입니다.",
+      "사진은 2026년 3월 19일부터 20일까지 촬영되었습니다.",
+      "문서는 야장 및 영수증 폴더 내에 저장되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "광주도시철도",
+      "식물상",
+      "야장"
+    ]
+  }
+}

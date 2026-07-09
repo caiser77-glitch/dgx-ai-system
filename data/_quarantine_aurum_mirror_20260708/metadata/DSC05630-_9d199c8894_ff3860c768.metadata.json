@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05630-_9d199c8894.txt",
+  "source_name": "DSC05630-_9d199c8894.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T12:02:11+09:00",
+  "processed_at": "2026-06-30T12:04:39+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/DSC05630-_9d199c8894_ff3860c768.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/DSC05630-_9d199c8894_ff3860c768.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 두점배허리노린재 사진",
+      "SONY ILCE-7RM4 카메라로 촬영, 해상도 9504x6336, RGB 모드",
+      "울산 온산국가산업단지 1차 조사 결과 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "두점배허리노린재",
+      "울산 온산국가산업단지",
+      "곤충"
+    ]
+  }
+}

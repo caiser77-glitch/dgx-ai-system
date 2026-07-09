@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_d1a0ee361f.txt",
+  "source_name": "file_d1a0ee361f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:04+09:00",
+  "processed_at": "2026-07-08T13:49:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_d1a0ee361f_9c4a1510f0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_d1a0ee361f_9c4a1510f0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일에 대한 메타데이터 정보입니다.",
+      "파일명은 '평의자 이미지.jpg'이며 조경 설계 도면 관련 경로를 포함하고 있습니다.",
+      "이미지 규격은 1600x900 해상도의 RGB 모드 JPEG 형식입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "조경설계",
+      "평의자"
+    ]
+  }
+}

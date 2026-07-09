@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0029_5db476f509.txt",
+  "source_name": "IMG_0029_5db476f509.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T15:15:36+09:00",
+  "processed_at": "2026-06-25T15:17:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0029_5db476f509_ac90fe9b87.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0029_5db476f509_ac90fe9b87.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "사방오리나무 사진, 2025년 3월 27일 촬영\nCanon PowerShot SX70 HS 카메라 사용, GPS 좌표 (34.458003, 127.490738)\n고흥 산단 이부 동정 조사 관련",
+    "tags": [
+      "#사방오리나무",
+      "#Canon PowerShot SX70 HS",
+      "#GPS"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "사방오리나무 사진, 2025년 3월 27일 촬영",
+      "Canon PowerShot SX70 HS 카메라 사용, GPS 좌표 (34.458003, 127.490738)",
+      "고흥 산단 이부 동정 조사 관련"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사방오리나무",
+      "Canon PowerShot SX70 HS",
+      "GPS"
+    ]
+  }
+}

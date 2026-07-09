@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 은암리, 태양광부지, 부록
+● 3줄 요약:
+- 은암리 태양광 부지에 관한 부록 자료입니다.
+- 파일 형식은 PDF이며 용량은 약 9.4MB입니다.
+- OCR 처리 중 파일 경로 내 제어 문자로 인한 오류가 발생했습니다.
+=========================================
+source_name: 은암리 태양광부지_(본안) 07장.부록.pdf
+source_type: pdf
+size_bytes: 9392513
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/은암리 태양광부지_(본안) 07장.부록_pages_1_taxa.xlsx' (found at least ' ')

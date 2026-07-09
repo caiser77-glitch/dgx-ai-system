@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0061263_964b5124cc.txt",
+  "source_name": "R0061263_964b5124cc.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:43:32+09:00",
+  "processed_at": "2026-07-08T09:43:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0061263_964b5124cc_5066dc722c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0061263_964b5124cc_5066dc722c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 고덕강일 지역의 현장 사진 데이터입니다.",
+      "2026년 5월 12일 오후 4시 18분에 촬영된 RGB 모드의 이미지 파일입니다.",
+      "GPS 좌표(37.557317, 127.178797)가 포함된 현장 기록용 사진입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고덕강일",
+      "모니터링",
+      "현장사진"
+    ]
+  }
+}

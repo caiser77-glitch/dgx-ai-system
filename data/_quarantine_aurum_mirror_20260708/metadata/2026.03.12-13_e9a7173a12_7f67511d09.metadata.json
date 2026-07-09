@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.12-13_e9a7173a12.txt",
+  "source_name": "2026.03.12-13_e9a7173a12.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:42:20+09:00",
+  "processed_at": "2026-06-23T18:43:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.12-13_e9a7173a12_7f67511d09.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.12-13_e9a7173a12_7f67511d09.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 계양",
+    "project_name": "계양 테크노밸리 사후 조사",
+    "class_name": "조류",
+    "tags": [
+      "#조류",
+      "#사후조사",
+      "#계양"
+    ],
+    "summary": "2026년 3월 12-13일 계양 테크노밸리 사후 조류 사진. 크기: 395551 bytes, 해상도: 1080x1526, 형식: JPEG.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 12-13일 계양 테크노밸리 사후 조류 사진",
+      "JPEG 형식, RGB 모드, 1080x1526 픽셀 크기",
+      "395,551 바이트 크기의 이미지 파일"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "계양 테크노밸리",
+      "사후 조류",
+      "야장"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_487_-_b7b1353619.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_487_-_b7b1353619.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T00:34:44+09:00",
+  "processed_at": "2026-06-24T00:36:11+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_487_-_b7b1353619_2e54917742.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_487_-_b7b1353619_2e54917742.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "각시메뚜기",
+    "tags": [
+      "#Canon_PowerShot_SX70_HS",
+      "#고흥_산단",
+      "#각시메뚜기"
+    ],
+    "summary": "Canon PowerShot SX70 HS로 촬영된 각시메뚜기 사진 (839x629, RGB, 1.05MB)",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS 카메라로 촬영한 각시메뚜기 사진",
+      "사진 크기는 839x629 픽셀, RGB 모드, PNG 형식",
+      "파일 크기는 1,055,305 바이트"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "각시메뚜기",
+      "PNG"
+    ]
+  }
+}

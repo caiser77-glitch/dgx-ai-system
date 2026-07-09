@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11111_7929f43ecf.txt",
+  "source_name": "11111_7929f43ecf.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:46:25+09:00",
+  "processed_at": "2026-07-08T13:46:32+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11111_7929f43ecf_e3911e37a3.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11111_7929f43ecf_e3911e37a3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "호미반도의 육상동식물상에 대한 환경부 의견 수정 문서",
+      "파일 크기는 약 56MB이며 hwp 형식의 파일임",
+      "현재 파일 형식 문제로 인해 상세 내용 추출이 불가능함"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "호미반도",
+      "육상동식물상",
+      "환경부 의견"
+    ]
+  }
+}

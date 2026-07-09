@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 공사계획서
+● 핵심 키워드: 공사계획평면도, 변경검토안, 북측진입도로
+● 3줄 요약:
+- 공사계획평면도 변경검토안에 대한 북측진입도로 1안과 2안의 비교 문서입니다.
+- PDF 파일 크기는 1,287,721 바이트이며, OCR 처리에 실패하였습니다.
+- 파일명에 공백이 포함되어 URL에서 오류가 발생하였습니다.
+=========================================
+source_name: 공사계획평면도(변경검토안)-북측진입도로 1안 2안 비교-배치1.pdf
+source_type: pdf
+size_bytes: 1287721
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/공사계획평면도(변경검토안)-북측진입도로 1안 2안 비교-배치1_pages_1_taxa.xlsx' (found at least ' ')

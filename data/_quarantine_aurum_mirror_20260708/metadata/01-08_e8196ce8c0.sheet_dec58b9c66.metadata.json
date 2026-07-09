@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-08_e8196ce8c0.sheet.csv",
+  "source_name": "01-08_e8196ce8c0.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:52+09:00",
+  "processed_at": "2026-07-08T11:44:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0.sheet_dec58b9c66.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-08_e8196ce8c0.sheet_dec58b9c66.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0.sheet_dec58b9c66.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 경계석 단위 수량 정보를 포함하고 있는 CSV 형식의 데이터 파일입니다.",
+      "총 41개의 행(row)으로 구성되어 있으며, 특정 자재의 수량을 기록하기 위한 용도로 보입니다.",
+      "데이터 구조상 경계석 관련 물량 산출 또는 관리를 목적으로 작성된 것으로 분석됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "경계석",
+      "수량",
+      "CSV 데이터"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01_c2af7a325f.txt",
+  "source_name": "01_c2af7a325f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:03:28+09:00",
+  "processed_at": "2026-07-08T12:03:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01_c2af7a325f_9a85c24f81.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01_c2af7a325f_9a85c24f81.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경부가 포항 글로벌 기업혁신파크에 대한 환경영향평가서 초안 검토의견을 제출함",
+      "해당 문서는 PDF 형태로 제공되었으나 OCR 처리 과정에서 오류가 발생함",
+      "오류의 원인은 파일명 내 포함된 공백 문자 때문인 것으로 파악됨"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경부",
+      "환경영향평가",
+      "포항 글로벌 기업혁신파크"
+    ]
+  }
+}

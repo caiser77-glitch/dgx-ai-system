@@ -1,0 +1,46 @@
+---
+생성일: 2026-07-07
+장비명: overnight_batch
+원본이름: IMG_3720_22ef4cb5ca.txt
+원본유형: txt
+년도_업체: _AURUM_AI_PROCESSED
+사업명: processed
+생물분류군: 미확정
+분류군: 미확정
+문서유형: TXT
+AI_요약: processed 관련 TXT 파일
+AI_모호성: true
+AI_질문: 본문 또는 경로에서 생물 분류군을 확정하지 못했습니다.
+태그: #자동색인 #NAS_데이터 #_AURUM_AI_PROCESSED #processed #TXT
+---
+# 📄 IMG_3720_22ef4cb5ca.txt 요약본
+
+* **처리 시각**: 2026-07-07T20:48:30+09:00
+* **년도_업체**: _AURUM_AI_PROCESSED
+* **사업명**: processed
+* **생물분류군**: 미확정
+* **분류군**: 미확정
+* **문서유형**: TXT
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_3720_22ef4cb5ca.txt
+
+---
+### 🤖 AI 분석 요약
+> processed 관련 TXT 파일
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: 변환IMG_3720 미국쥐손이.jpg
+source_type: jpg
+size_bytes: 264076
+path: /mnt/dgxbackup/2026 이산/광주도시철도/02. 사진/2026.03.19-20/석과/어치/변환IMG_3720 미국쥐손이.jpg
+width: 400
+height: 300
+mode: RGB
+format: JPEG
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [IMG_3720_22ef4cb5ca.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_3720_22ef4cb5ca.txt)

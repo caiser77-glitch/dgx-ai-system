@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_cb5d60930a.txt",
+  "source_name": "file_cb5d60930a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:07:11+09:00",
+  "processed_at": "2026-07-08T12:07:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_cb5d60930a_384ca85081.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_cb5d60930a_384ca85081.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 우주발사체 국가산업단지의 환경영향평가 및 기후변화영향평가 검토의견서 제출 건임",
+      "제공된 PDF 문서의 OCR 처리 과정에서 파일명 내 공백 문자로 인한 오류 발생",
+      "파일 이름의 특수 문자 또는 공백으로 인해 데이터 추출이 지원되지 않는 상태임"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "고흥 우주발사체",
+      "환경영향평가",
+      "기후변화영향평가"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-2025.07.07_09-_3_2ecb68bfe8_7db1469148.txt",
+  "source_name": "-2025.07.07_09-_3_2ecb68bfe8_7db1469148.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T07:34:06+09:00",
+  "processed_at": "2026-07-06T07:35:12+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-2025.07.07_09-_3_2ecb68bfe8_7db1469148_7e68263203.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-2025.07.07_09-_3_2ecb68bfe8_7db1469148_7e68263203.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항 혁신도시에서 촬영된 식물상 사진",
+      "2025년 7월 7일부터 9일까지의 기록",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항 혁신도시",
+      "식물상",
+      "현장조사"
+    ]
+  }
+}

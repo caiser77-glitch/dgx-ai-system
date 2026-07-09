@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/20250331_61874f81f3.txt",
+  "source_name": "20250331_61874f81f3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T16:23:54+09:00",
+  "processed_at": "2026-06-23T16:24:57+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/20250331_61874f81f3_b5488b5195.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/20250331_61874f81f3_b5488b5195.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "인천용역",
+    "tags": [
+      "#설계보고서",
+      "#인천용역",
+      "#2025"
+    ],
+    "summary": "20250331일자 설계보고서 ZIP 파일, 크기 856MB, 콘텐츠 추출 불가.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "설계보고서 파일은 ZIP 형태로 제공되었습니다.",
+      "파일 크기는 약 856MB입니다.",
+      "내용 추출이 지원되지 않는 파일 유형입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "설계보고서",
+      "ZIP",
+      "내용추출불가"
+    ]
+  }
+}

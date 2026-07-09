@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_b1f9c5a720.txt",
+  "source_name": "file_b1f9c5a720.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:20:09+09:00",
+  "processed_at": "2026-07-08T13:20:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_b1f9c5a720_0f73e20db0.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_b1f9c5a720_0f73e20db0.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "전남고흥 국가산업단지의 환경영향평가 용역에 대한 킥오프 미팅이 진행되었습니다.",
+      "미팅에서는 용역의 목적, 범위, 일정 등을 논의하였습니다.",
+      "참가자들은 환경 보호와 지역 발전의 균형을 맞추기 위한 협력 방안을 모색하였습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "전남고흥",
+      "환경영향평가",
+      "킥오프 미팅"
+    ]
+  }
+}

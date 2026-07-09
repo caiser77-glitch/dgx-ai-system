@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_07d3a1c63e.txt",
+  "source_name": "file_07d3a1c63e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:12+09:00",
+  "processed_at": "2026-07-08T13:54:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_07d3a1c63e_343b683e73.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_07d3a1c63e_343b683e73.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "울산 온산국가산업단지 내 포유류 조사 과정에서 촬영된 고라니 사진 데이터입니다.",
+      "2026년 2월 12일 오후 4시경 Panasonic DC-TZ99 카메라로 촬영되었습니다.",
+      "해당 사진에는 위도 35.449742, 경도 129.312344의 GPS 위치 정보가 포함되어 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고라니",
+      "울산 온산국가산업단지",
+      "포유류 조사"
+    ]
+  }
+}

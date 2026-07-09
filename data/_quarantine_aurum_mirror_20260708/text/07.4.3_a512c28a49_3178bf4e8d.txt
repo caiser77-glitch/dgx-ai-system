@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 지형지질, 국가종합비행성능시험장, PDF
+● 3줄 요약:
+- 문서는 지형지질에 관한 국가종합비행성능시험장의 자료로 보임
+- PDF 파일 형식이지만 OCR 처리 과정에서 에러 발생
+- 파일 크기는 약 4.9MB
+=========================================
+source_name: (본안)+07.4.3+지형지질(국가종합비행성능시험장).pdf
+source_type: pdf
+size_bytes: 4876379
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

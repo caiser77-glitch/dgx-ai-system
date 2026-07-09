@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/23.08.07_09.28_-_e06ec29292.txt",
+  "source_name": "23.08.07_09.28_-_e06ec29292.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T19:48:05+09:00",
+  "processed_at": "2026-06-23T19:49:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/23.08.07_09.28_-_e06ec29292_f319ff91f7.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/23.08.07_09.28_-_e06ec29292_f319ff91f7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "음성천",
+    "class_name": "육수",
+    "tags": [
+      "#육수",
+      "#영수증",
+      "#2023.08.07"
+    ],
+    "summary": "2023년 8월 7일 09시 28분, 육수 시작 관련 영수증 이미지.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2023년 8월 7일 09시 28분에 촬영된 영수증 이미지",
+      "이미지 크기는 257x574 픽셀이며, RGB 모드의 JPEG 형식",
+      "파일 크기는 117,482 바이트"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "이미지",
+      "JPEG"
+    ]
+  }
+}

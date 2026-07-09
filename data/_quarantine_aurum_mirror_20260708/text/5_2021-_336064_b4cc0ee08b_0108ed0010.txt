@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 전국자연환경조사, 귀일, 양파
+● 3줄 요약:
+- 제5차 전국자연환경조사 2021년 귀일 지역의 양파 관련 문서입니다.
+- 파일 크기는 약 667KB이며 PDF 형식으로 구성되어 있습니다.
+- OCR 처리 실패 및 컨트롤 문자 포함 문제로 인해 데이터 추출에 오류가 발생하였습니다.
+=========================================
+source_name: 제5차 전국자연환경조사 2021-귀일(336064)_양파.pdf
+source_type: pdf
+size_bytes: 667187
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제5차 전국자연환경조사 2021-귀일(336064)_양파_pages_1_taxa.xlsx' (found at least ' ')

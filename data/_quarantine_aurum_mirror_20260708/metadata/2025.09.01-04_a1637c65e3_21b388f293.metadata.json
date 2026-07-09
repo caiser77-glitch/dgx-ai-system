@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.09.01-04_a1637c65e3.txt",
+  "source_name": "2025.09.01-04_a1637c65e3.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T03:04:35+09:00",
+  "processed_at": "2026-06-23T03:06:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.09.01-04_a1637c65e3_21b388f293.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.09.01-04_a1637c65e3_21b388f293.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥 산단",
+    "class_name": "파충류",
+    "tags": [
+      "#고흥산단",
+      "#파충류",
+      "#야장"
+    ],
+    "summary": "고흥 산단에서 촬영한 파충류 사진. 크기: 2480x3507, 모노ochrome.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단에서 촬영된 파충류 사진",
+      "2025년 9월 1일부터 4일까지의 조사 기간",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "파충류",
+      "고흥 산단",
+      "조사"
+    ]
+  }
+}

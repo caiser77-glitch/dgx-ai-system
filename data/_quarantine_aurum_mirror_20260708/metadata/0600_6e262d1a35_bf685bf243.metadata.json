@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0600_6e262d1a35.txt",
+  "source_name": "0600_6e262d1a35.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:47:02+09:00",
+  "processed_at": "2026-07-08T11:47:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0600_6e262d1a35_bf685bf243.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0600_6e262d1a35_bf685bf243.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '0600_대안의설정.hwp'는 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 37,888 바이트로 확인되었습니다.",
+      "지원되지 않는 형식으로 인해 상세 내용 추출이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "지원되지 않는 파일",
+      "hwp",
+      "내용 추출 불가"
+    ]
+  }
+}

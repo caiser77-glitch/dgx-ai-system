@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: TimePhoto_20240405_112528.jpg
+source_type: jpg
+size_bytes: 321385
+path: /mnt/dgxbackup/2026 홍익기술/진천초평산업단지/03. 사진/2024.04.04-05/양부 식물/TimePhoto_20240405_112528.jpg
+width: 1440
+height: 1080
+mode: RGB
+format: JPEG
+datetime_taken: 2024:04:05 11:25:28
+camera_make: samsung
+camera_model: SM-G996N
+gps_lat: 36.797341
+gps_lon: 127.517153

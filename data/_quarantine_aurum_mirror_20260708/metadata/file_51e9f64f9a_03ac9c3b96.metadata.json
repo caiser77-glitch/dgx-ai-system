@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_51e9f64f9a.txt",
+  "source_name": "file_51e9f64f9a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:48:12+09:00",
+  "processed_at": "2026-07-08T11:48:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_51e9f64f9a_03ac9c3b96.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_51e9f64f9a_03ac9c3b96.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "환경영향평가서 초안에 대한 주민 의견 수렴 결과를 담고 있음",
+      "주민 의견의 반영 여부와 그 이유를 상세히 설명",
+      "평가서는 환경 보호와 지역 발전의 균형을 목표로 함"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경영향평가",
+      "주민의견",
+      "반영여부"
+    ]
+  }
+}

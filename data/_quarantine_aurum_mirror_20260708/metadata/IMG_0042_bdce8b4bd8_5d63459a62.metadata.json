@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0042_bdce8b4bd8.txt",
+  "source_name": "IMG_0042_bdce8b4bd8.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-25T20:42:19+09:00",
+  "processed_at": "2026-06-25T20:44:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0042_bdce8b4bd8_5d63459a62.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0042_bdce8b4bd8_5d63459a62.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "탱자나무 사진, 2025년 3월 27일 고흥 산단에서 촬영\nCanon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 34.450183, 127.483185\n사진 크기 5184x3888, RGB 모드, MPO 포맷",
+    "tags": [
+      "#탱자나무",
+      "#고흥 산단",
+      "#GPS 좌표"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "탱자나무 사진, 2025년 3월 27일 고흥 산단에서 촬영",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 34.450183, 127.483185",
+      "사진 크기 5184x3888, RGB 모드, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "탱자나무",
+      "고흥 산단",
+      "GPS 좌표"
+    ]
+  }
+}

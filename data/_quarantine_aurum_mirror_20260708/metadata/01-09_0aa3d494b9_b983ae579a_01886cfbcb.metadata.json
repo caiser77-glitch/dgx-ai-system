@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-09_0aa3d494b9_b983ae579a.txt",
+  "source_name": "01-09_0aa3d494b9_b983ae579a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:29:57+09:00",
+  "processed_at": "2026-07-08T11:30:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-09_0aa3d494b9_b983ae579a_01886cfbcb.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-09_0aa3d494b9_b983ae579a_01886cfbcb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "임목폐기물과 비옥토 관련 데이터를 포함하는 엑셀 파일",
+      "산림조사서와 다양한 수량 집계, 산출 조서가 포함되어 있음",
+      "총 10개 시트로 구성, 각 시트의 행과 열 수가 상세히 기재됨"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "임목폐기물",
+      "비옥토",
+      "산림조사"
+    ]
+  }
+}

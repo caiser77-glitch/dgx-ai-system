@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/250317_ef69c94dfa.sheet.csv",
+  "source_name": "250317_ef69c94dfa.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:16:46+09:00",
+  "processed_at": "2026-07-08T12:16:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/250317_ef69c94dfa.sheet_472f01b836.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/250317_ef69c94dfa.sheet_472f01b836.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/250317_ef69c94dfa.sheet_472f01b836.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 산림레포츠 관련 편입 토지 조사 데이터를 포함하고 있습니다.",
+      "CSV 형식의 데이터로 총 8개의 행으로 구성되어 있습니다.",
+      "토지 조사 항목을 관리하기 위한 기초 자료로 판단됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "산림레포츠",
+      "편입토지조서",
+      "토지조사"
+    ]
+  }
+}

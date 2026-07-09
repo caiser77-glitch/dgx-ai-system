@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/01._1-01_e864766dbc.txt",
+  "source_name": "01._1-01_e864766dbc.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T16:52:46+09:00",
+  "processed_at": "2026-06-29T16:54:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/01._1-01_e864766dbc_f982c97fc2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/01._1-01_e864766dbc_f982c97fc2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토지이용계획(안)도 이미지 파일로, 고흥 산단의 토지 이용 계획을 시각적으로 나타내고 있음.",
+      "이미지는 CMYK 모드로 제작되어 프린트 용도에 적합함.",
+      "파일 크기는 6,576,768 바이트로 상당히 큰 크기의 고해상도 이미지임."
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "토지이용계획",
+      "고흥 산단",
+      "고해상도 이미지"
+    ]
+  }
+}

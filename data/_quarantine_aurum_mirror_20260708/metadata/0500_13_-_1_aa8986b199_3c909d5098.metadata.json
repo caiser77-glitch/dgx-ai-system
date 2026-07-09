@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0500_13_-_1_aa8986b199.txt",
+  "source_name": "0500_13_-_1_aa8986b199.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:50:57+09:00",
+  "processed_at": "2026-07-08T11:51:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0500_13_-_1_aa8986b199_3c909d5098.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0500_13_-_1_aa8986b199_3c909d5098.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "시도13호선 확장 사업과 관련된 환경현황 조사 문서입니다.",
+      "주요 내용은 법정보호종의 위치 정보에 관한 문헌조사 결과입니다.",
+      "환경 보호 및 도로 확장 관련 연구를 위한 기초 자료로 활용될 수 있습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "환경현황",
+      "시도13호선",
+      "법정보호종"
+    ]
+  }
+}

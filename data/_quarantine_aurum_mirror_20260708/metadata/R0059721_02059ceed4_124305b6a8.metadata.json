@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0059721_02059ceed4.txt",
+  "source_name": "R0059721_02059ceed4.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:05:02+09:00",
+  "processed_at": "2026-07-08T14:05:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0059721_02059ceed4_124305b6a8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0059721_02059ceed4_124305b6a8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 JPEG 이미지 파일 정보입니다.",
+      "촬영 일시는 2025년 5월 12일 17시 47분이며 해상도는 400x300입니다.",
+      "광양항 낙포부두 해충 모니터링 관련 사진대지 파일로 분류됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "해충모니터링",
+      "광양항 낙포부두",
+      "현장사진"
+    ]
+  }
+}

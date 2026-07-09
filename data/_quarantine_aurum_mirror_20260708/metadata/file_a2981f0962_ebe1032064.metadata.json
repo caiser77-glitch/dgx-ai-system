@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_a2981f0962.txt",
+  "source_name": "file_a2981f0962.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:56:53+09:00",
+  "processed_at": "2026-07-08T11:57:00+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_a2981f0962_ebe1032064.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_a2981f0962_ebe1032064.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파일 형식이 지원되지 않아 내용 추출 불가",
+      "보고서 작성 요청사항.hwp 파일의 크기는 50,176 바이트",
+      "HWP 파일 형식에 대한 처리가 필요"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "HWP",
+      "지원되지 않음",
+      "보고서"
+    ]
+  }
+}

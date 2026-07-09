@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5927931_df9ce4db7c.txt",
+  "source_name": "5927931_df9ce4db7c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:54:12+09:00",
+  "processed_at": "2026-07-08T11:54:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5927931_df9ce4db7c_02adee92c1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5927931_df9ce4db7c_02adee92c1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 제6차 전국자연환경조사의 일환으로 진영 도엽 일대의 육상곤충 분포현황을 조사함.",
+      "총 11목 114과 448종이 확인되었으며, 나비목이 179종으로 가장 높은 다양성을 보임.",
+      "IUCN 적색목록 및 국가적색목록 포함 보호종과 한반도 고유종 등 다양한 생물 종이 관찰됨."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "곤충상",
+      "육상곤충",
+      "분포현황",
+      "나비목",
+      "보호종"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.05.07-08_f4e00e9e72.txt",
+  "source_name": "2025.05.07-08_f4e00e9e72.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-30T11:05:43+09:00",
+  "processed_at": "2026-06-30T11:08:40+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2025.05.07-08_f4e00e9e72_8ec941ed55.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2025.05.07-08_f4e00e9e72_8ec941ed55.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파충류에 대한 사진 자료",
+      "2025년 5월 7일부터 8일까지 촬영",
+      "JPEG 형식, 2480x3507 픽셀 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "파충류",
+      "야장",
+      "사진"
+    ]
+  }
+}

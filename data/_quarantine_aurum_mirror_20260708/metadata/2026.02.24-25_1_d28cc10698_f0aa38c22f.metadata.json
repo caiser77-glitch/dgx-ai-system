@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.24-25_1_d28cc10698.txt",
+  "source_name": "2026.02.24-25_1_d28cc10698.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:38:56+09:00",
+  "processed_at": "2026-06-23T17:39:54+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.24-25_1_d28cc10698_f0aa38c22f.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.24-25_1_d28cc10698_f0aa38c22f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "인천용역",
+    "class_name": "상원청하간 도로건설공사",
+    "tags": [
+      "#상원청하",
+      "#도로건설공사",
+      "#야장"
+    ],
+    "summary": "2026년 2월 24-25일 상원청하 탐문1.jpg, 492,519byte, 2480x3507, L mode, JPEG 형식",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 24-25일 상원청하 탐문 사진",
+      "도로 건설 공사 관련 현장 조사 기록",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "상원청하",
+      "도로건설공사",
+      "현장조사"
+    ]
+  }
+}

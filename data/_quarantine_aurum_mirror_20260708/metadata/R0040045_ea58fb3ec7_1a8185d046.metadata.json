@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0040045_ea58fb3ec7.txt",
+  "source_name": "R0040045_ea58fb3ec7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:28:00+09:00",
+  "processed_at": "2026-07-08T14:28:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0040045_ea58fb3ec7_1a8185d046.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0040045_ea58fb3ec7_1a8185d046.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "서산 남부일반산업단지 진입도로 현장에서 촬영된 녹색말거머리 사진 데이터입니다.",
+      "2026년 3월 30일 RICOH WG-6 카메라로 촬영된 RGB 모드의 이미지 파일입니다.",
+      "해당 문서는 유과 지역의 생물 종을 기록한 시각적 자료입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "녹색말거머리",
+      "서산 남부일반산업단지",
+      "생물종 기록"
+    ]
+  }
+}

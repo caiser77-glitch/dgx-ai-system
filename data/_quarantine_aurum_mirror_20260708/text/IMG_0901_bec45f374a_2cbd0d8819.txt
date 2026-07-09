@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 포항 혁신도시, Canon PowerShot SX70 HS, GPS 좌표
+● 3줄 요약:
+- 2025년 5월 11일 포항 혁신도시에서 촬영된 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표 (36.100987, 129.394227) 기록
+- 이미지 크기 5184x3888, RGB 모드, MPO 형식
+=========================================
+source_name: IMG_0901.JPG
+source_type: jpg
+size_bytes: 10283078
+path: /mnt/dgxbackup/2026 수성/포항 혁신도시/02.사진/2025년 5월 11일~13일/2025.05.11~13 포항혁신 이부/IMG_0901.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:05:11 15:36:30
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 36.100987
+gps_lon: 129.394227

@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 이미지 메타데이터, RICOH WG-6, 성남 낙생
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일에 대한 메타데이터 정보입니다.
+- 촬영 일시는 2026년 2월 26일 오전 11시 47분이며 성남 낙생 지역의 좌표를 포함합니다.
+- 파일 경로는 아우룸생태연구소의 성남낙생 프로젝트 관련 폴더 내에 저장되어 있습니다.
+=========================================
+source_name: R0039631.JPG
+source_type: jpg
+size_bytes: 1765309
+path: /mnt/dgxbackup/2026 KCI/성남낙생/02.사진/02.26/유과/R0039631.JPG
+width: 2592
+height: 1944
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:26 11:47:56
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 37.353893
+gps_lon: 127.083455

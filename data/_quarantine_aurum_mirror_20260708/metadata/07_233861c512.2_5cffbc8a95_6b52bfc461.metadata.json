@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/07_233861c512.2_5cffbc8a95.txt",
+  "source_name": "07_233861c512.2_5cffbc8a95.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:33:41+09:00",
+  "processed_at": "2026-07-08T11:33:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/07_233861c512.2_5cffbc8a95_6b52bfc461.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/07_233861c512.2_5cffbc8a95_6b52bfc461.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "CSV 파일 '07_233861c512.2'은 총 54개의 행을 포함하고 있습니다.",
+      "컬럼명은 '판 석 포 장 단 위 수 량'이며 나머지 컬럼은 비어있는 상태입니다.",
+      "데이터가 실질적으로 담겨 있지 않아 분석 시 제한 사항이 존재할 수 있습니다."
+    ],
+    "category": "데이터셋",
+    "keywords": [
+      "CSV",
+      "데이터셋",
+      "빈 컬럼"
+    ]
+  }
+}

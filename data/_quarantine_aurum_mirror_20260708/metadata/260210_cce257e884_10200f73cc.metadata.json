@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/260210_cce257e884.txt",
+  "source_name": "260210_cce257e884.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:59:35+09:00",
+  "processed_at": "2026-07-08T11:59:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/260210_cce257e884_10200f73cc.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/260210_cce257e884_10200f73cc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항산림복지단지 조성사업 설계도면 파일에 대한 정보 제공",
+      "파일 크기는 약 44MB이며 PDF 형식의 문서임",
+      "OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생함"
+    ],
+    "category": "설계도면",
+    "keywords": [
+      "포항산림복지단지",
+      "설계도면",
+      "PDF"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_928_-_76c98ee338.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_928_-_76c98ee338.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T06:11:14+09:00",
+  "processed_at": "2026-06-24T06:12:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_928_-_76c98ee338_fabe15654e.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_928_-_76c98ee338_fabe15654e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "사진",
+    "summary": "Canon PowerShot SX70 HS 카메라로 촬영한 등줄쥐 사진\n사진 크기: 1248x936, RGB 모드, PNG 형식\n파일 크기: 1,496,679 바이트, 경로: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.03.24-27/허대 포곤/변환/",
+    "tags": [
+      "#등줄쥐",
+      "#Canon PowerShot SX70 HS",
+      "#사진"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "Canon PowerShot SX70 HS 카메라로 촬영한 등줄쥐 사진",
+      "사진 크기: 1248x936, RGB 모드, PNG 형식",
+      "파일 크기: 1,496,679 바이트, 경로: /mnt/dgxbackup/2026 이산/고흥 산단/02. 사진/2025.03.24-27/허대 포곤/변환/"
+    ],
+    "category": "사진",
+    "keywords": [
+      "등줄쥐",
+      "Canon PowerShot SX70 HS",
+      "사진"
+    ]
+  }
+}

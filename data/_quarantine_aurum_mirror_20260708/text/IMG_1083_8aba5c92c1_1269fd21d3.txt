@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 포항 혁신도시, Canon PowerShot SX70 HS, 2025년 5월 12일
+● 3줄 요약:
+- 2025년 5월 12일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- 사진 크기는 5184x3888 픽셀, RGB 모드, MPO 형식
+- 포항 혁신도시에서 촬영된 사진으로, 파일 크기는 9,790,795 바이트
+=========================================
+source_name: IMG_1083.JPG
+source_type: jpg
+size_bytes: 9790795
+path: /mnt/dgxbackup/2026 수성/포항 혁신도시/02.사진/2025년 5월 11일~13일/2025.05.11~13 포항혁신 이부/IMG_1083.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:05:12 11:49:54
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

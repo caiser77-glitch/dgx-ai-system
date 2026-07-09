@@ -1,0 +1,4 @@
+source_name: 경사분석.zip
+source_type: zip
+size_bytes: 5969127
+content_extraction: unsupported_file_type

@@ -1,0 +1,48 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03__2___9_467a29e234.txt",
+  "source_name": "03__2___9_467a29e234.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:00:46+09:00",
+  "processed_at": "2026-07-08T12:00:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_467a29e234_6f767ea6ac.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_467a29e234_6f767ea6ac.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "충청2 사후 9차 설계서로, 총괄, 설계내역서, 예산서, 소요인력, 측정비, 출장 및 인쇄비 등의 시트를 포함",
+      "각 시트는 다양한 항목과 그에 대한 상세 정보를 담고 있으며, 총 13개의 시트로 구성",
+      "특히, 소요인력, 측정비, 출장 및 인쇄비 등에 대한 상세한 데이터가 포함되어 있어 프로젝트 관리에 유용"
+    ],
+    "category": "설계서",
+    "keywords": [
+      "설계서",
+      "충청2",
+      "사후",
+      "9차",
+      "소요인력",
+      "측정비",
+      "출장비",
+      "인쇄비"
+    ]
+  }
+}

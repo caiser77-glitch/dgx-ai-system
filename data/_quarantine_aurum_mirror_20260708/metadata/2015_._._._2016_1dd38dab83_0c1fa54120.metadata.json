@@ -1,0 +1,46 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2015_._._._2016_1dd38dab83.txt",
+  "source_name": "2015_._._._2016_1dd38dab83.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:40:39+09:00",
+  "processed_at": "2026-07-08T11:40:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2015_._._._2016_1dd38dab83_0c1fa54120.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2015_._._._2016_1dd38dab83_0c1fa54120.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2015년 서산, 태안, 고흥, 보성 권역의 특정 도서 정밀조사 보고서입니다.",
+      "환경부에서 발행한 2016년도 보고서로 파일 크기는 약 131MB입니다.",
+      "OCR 처리 실패 및 파일명 내 공백 문자로 인한 URL 생성 오류가 발생했습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "정밀조사",
+      "서산",
+      "태안",
+      "고흥",
+      "보성",
+      "환경부"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_423_28d79b76a9.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_423_28d79b76a9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T23:48:11+09:00",
+  "processed_at": "2026-06-23T23:49:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_423_28d79b76a9_ade76501ce.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_423_28d79b76a9_ade76501ce.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "사진",
+    "tags": [
+      "#Canon",
+      "#PowerShot",
+      "#SX70HS"
+    ],
+    "summary": "Canon PowerShot SX70 HS로 촬영된 2025년 3월 25일 고흥 산단의 사진. GPS 좌표: 34.442383, 127.48214.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 25일 11시 33분에 촬영된 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, 해상도 5184x3888, RGB 모드",
+      "GPS 좌표: 위도 34.442383, 경도 127.48214"
+    ],
+    "category": "사진",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표",
+      "고흥 산단"
+    ]
+  }
+}

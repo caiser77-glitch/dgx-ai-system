@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/2_1eb3dc8c93.sheet.csv",
+  "source_name": "2_1eb3dc8c93.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:52:56+09:00",
+  "processed_at": "2026-07-08T11:53:04+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2_1eb3dc8c93.sheet_78058787ca.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/2_1eb3dc8c93.sheet_78058787ca.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2_1eb3dc8c93.sheet_78058787ca.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하천 생물측정망의 저서성 대형 무척추동물 출현 종 정보를 포함한 데이터입니다.",
+      "CSV 형식으로 구성된 하천 생태계 조사 결과 자료입니다.",
+      "생물종 출현 현황을 파악하기 위한 기초 통계 데이터를 제공합니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "하천 생물측정망",
+      "저서성 대형 무척추동물",
+      "출현종 정보"
+    ]
+  }
+}

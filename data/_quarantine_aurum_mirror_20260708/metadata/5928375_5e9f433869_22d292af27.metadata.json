@@ -1,0 +1,48 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5928375_5e9f433869.txt",
+  "source_name": "5928375_5e9f433869.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:00:14+09:00",
+  "processed_at": "2026-07-08T12:00:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5928375_5e9f433869_22d292af27.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5928375_5e9f433869_22d292af27.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성(367032) 지역의 식물상 조사 결과, 총 302분류군의 관속식물이 확인되었다.",
+      "특정식물종, 한반도고유종, 생태계교란식물, 외래종 등 다양한 식물군이 조사되었다.",
+      "가섭산은 음성지역에서 가장 해발고도가 높고 면적이 넓으며, 삼림이 울창하여 식생이 다양하다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "음성",
+      "식물상",
+      "가섭산",
+      "고등식물",
+      "특정식물종",
+      "한반도고유종",
+      "생태계교란식물",
+      "외래종"
+    ]
+  }
+}

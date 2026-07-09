@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/3_f770cfc3bb.txt",
+  "source_name": "3_f770cfc3bb.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T21:16:04+09:00",
+  "processed_at": "2026-06-23T21:17:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/3_f770cfc3bb_607d9ce3eb.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/3_f770cfc3bb_607d9ce3eb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 울산 온산국가산업단지",
+    "project_name": "울산 온산국가산업단지 조사",
+    "class_name": "포유류",
+    "tags": [
+      "#포유류",
+      "#두더지",
+      "#울산온산국가산업단지"
+    ],
+    "summary": "2026년 2월 13일, Panasonic DC-TZ99 카메라로 촬영된 두더지 사진. GPS 좌표: 35.4553, 129.316028.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 13일에 촬영된 두더지 사진",
+      "울산 온산국가산업단지에서 포유류 조사 사진으로 사용",
+      "Panasonic DC-TZ99 카메라로 GPS 좌표 35.4553, 129.316028에서 촬영"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "두더지",
+      "울산 온산국가산업단지",
+      "포유류 조사"
+    ]
+  }
+}

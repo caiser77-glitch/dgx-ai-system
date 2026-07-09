@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/02_00_a970e51739.2.csv",
+  "source_name": "02_00_a970e51739.2.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:42:20+09:00",
+  "processed_at": "2026-07-08T11:42:28+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_00_a970e51739.2_9781f699e7.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/02_00_a970e51739.2_9781f699e7.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_00_a970e51739.2_9781f699e7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 '2호맨홀 토공산출'과 관련된 데이터를 포함하고 있습니다.",
+      "CSV 형식의 파일로 총 44개의 행으로 구성되어 있습니다.",
+      "토공사 산출을 위한 기초 데이터 항목들을 포함하고 있는 것으로 분석됩니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "2호맨홀",
+      "토공산출",
+      "CSV데이터"
+    ]
+  }
+}

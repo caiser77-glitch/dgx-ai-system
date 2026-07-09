@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 다도해해상국립공원, 자연자원조사, 육상분야
+● 3줄 요약:
+- 다도해해상국립공원의 육상 자연자원 조사 보고서에 대한 PDF 파일입니다.
+- 파일 크기는 약 54.5MB이며, 현재 콘텐츠 추출이 지원되지 않는 상태입니다.
+- OCR 처리 과정에서 제어 문자 포함으로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 2018-40 다도해해상국립공원 자연자원조사(육상분야)_optimize.pdf
+source_type: pdf
+size_bytes: 54514615
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/2018-40 다도해해상국립공원 자연자원조사(육상분야)_optimize_pages_1_taxa.xlsx' (found at least ' ')

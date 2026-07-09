@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 미국가막사리, Canon PowerShot SX70 HS, 2026-03-03
+● 3줄 요약:
+- 2026년 3월 3일에 촬영된 미국가막사리 사진
+- Canon PowerShot SX70 HS 카메라로 촬영
+- 사진 크기: 5184x3888, RGB 모드, MPO 포맷
+=========================================
+source_name: IMG_2954 미국가막사리.JPG
+source_type: jpg
+size_bytes: 6496786
+path: /mnt/dgxbackup/2026 세광/평택호 사후/02.사진/2026.03.03/석과 식물/IMG_2954 미국가막사리.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:03:03 10:51:55
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS

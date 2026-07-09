@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.09.01-04_18_aa3d6dcf0c.txt",
+  "source_name": "2025.09.01-04_18_aa3d6dcf0c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T02:54:55+09:00",
+  "processed_at": "2026-06-23T02:56:20+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2025.09.01-04_18_aa3d6dcf0c_7f1a63ee7d.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2025.09.01-04_18_aa3d6dcf0c_7f1a63ee7d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 이산",
+    "project_name": "고흥산단",
+    "class_name": "식생",
+    "tags": [
+      "#식생",
+      "#고흥산단",
+      "#2025.09.01"
+    ],
+    "summary": "2025년 9월 1일 고흥산단에서 촬영된 식생 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단의 식생 사진",
+      "2025년 9월 1일부터 4일까지 촬영",
+      "JPEG 형식, 2480x3507 픽셀"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥산단",
+      "식생",
+      "사진"
+    ]
+  }
+}

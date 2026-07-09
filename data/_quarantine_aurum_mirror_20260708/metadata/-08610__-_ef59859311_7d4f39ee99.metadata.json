@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-08610__-_ef59859311.txt",
+  "source_name": "-08610__-_ef59859311.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:10:28+09:00",
+  "processed_at": "2026-07-08T12:10:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-08610__-_ef59859311_7d4f39ee99.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-08610__-_ef59859311_7d4f39ee99.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역의 인구 및 주거에 관한 정보를 다루고 있습니다.",
+      "현재 문서는 편집이 완료된 초안 상태입니다.",
+      "파일 형식은 HWP이며 콘텐츠 추출이 지원되지 않는 타입입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥",
+      "인구",
+      "주거"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/26_1____2026.03.04_ec0da0a546.txt",
+  "source_name": "26_1____2026.03.04_ec0da0a546.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:57:48+09:00",
+  "processed_at": "2026-07-08T11:57:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/26_1____2026.03.04_ec0da0a546_bba1a5f635.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/26_1____2026.03.04_ec0da0a546_bba1a5f635.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "포항안동 지역에 대한 2026년 1분기 조사계획서입니다.",
+      "아우룸생태연구소에서 작성되었으며, 2026년 3월 4일에 발행되었습니다.",
+      "문서 형식은 HWP이며, 크기는 1,421,312 바이트입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "포항안동",
+      "조사계획서",
+      "아우룸생태연구소"
+    ]
+  }
+}

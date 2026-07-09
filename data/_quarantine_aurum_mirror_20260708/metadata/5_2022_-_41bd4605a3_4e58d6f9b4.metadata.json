@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/5_2022_-_41bd4605a3.txt",
+  "source_name": "5_2022_-_41bd4605a3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:13:59+09:00",
+  "processed_at": "2026-07-08T12:14:06+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/5_2022_-_41bd4605a3_4e58d6f9b4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/5_2022_-_41bd4605a3_4e58d6f9b4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제5차 전국자연환경조사의 일환으로 진행된 2022년도 칠포 지역 포유류 조사 보고서입니다.",
+      "해당 문서는 PDF 형식의 파일로 데이터 추출 과정에서 일부 오류가 확인되었습니다.",
+      "조사 대상 지역은 칠포이며 주요 연구 대상은 포유류입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "전국자연환경조사",
+      "포유류",
+      "칠포"
+    ]
+  }
+}

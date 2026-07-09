@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-03100___2026.05.27_2d0e876efa_b11dfe02e2.txt",
+  "source_name": "-03100___2026.05.27_2d0e876efa_b11dfe02e2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:32:16+09:00",
+  "processed_at": "2026-07-08T11:32:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-03100___2026.05.27_2d0e876efa_b11dfe02e2_133612bbbf.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-03100___2026.05.27_2d0e876efa_b11dfe02e2_133612bbbf.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 지역 동식물상에 대한 항목별 보완 내용 문서",
+      "2026년 5월 27일 작성, 아우룸생태연구소에서 발행",
+      "HWP 파일 형식으로 제공, 콘텐츠 추출 불가능"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥",
+      "동식물상",
+      "보완내용"
+    ]
+  }
+}

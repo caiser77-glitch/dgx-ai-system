@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/1_7bd989fda2.txt",
+  "source_name": "1_7bd989fda2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:15:32+09:00",
+  "processed_at": "2026-06-29T17:17:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/1_7bd989fda2_5694ccc18d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/1_7bd989fda2_5694ccc18d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "1공구 구역계 도면은 토지 이용 계획 관련 자료로, 환평자료 착수보고회에서 사용되었습니다.",
+      "PNG 형식의 이미지는 RGBA 모드로, 크기는 613x713 픽셀입니다.",
+      "파일 크기는 53,706 바이트이며, 경로는 /mnt/dgxbackup/2026 이산/고흥 산단/00.받은자료/2025.03.13 환평자료/06_착수보고회/도면/토지이용계획/1공구 구역계.png 입니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "1공구",
+      "구역계",
+      "토지이용계획"
+    ]
+  }
+}

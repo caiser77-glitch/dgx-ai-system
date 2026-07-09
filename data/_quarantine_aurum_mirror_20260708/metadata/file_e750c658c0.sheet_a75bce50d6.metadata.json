@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/file_e750c658c0.sheet.csv",
+  "source_name": "file_e750c658c0.sheet.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:43:17+09:00",
+  "processed_at": "2026-07-08T13:43:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_e750c658c0.sheet_a75bce50d6.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/file_e750c658c0.sheet_a75bce50d6.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_e750c658c0.sheet_a75bce50d6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "부장리 고분군 일대의 도로 관련 조사 데이터입니다.",
+      "총 20개의 행으로 구성된 CSV 형식의 문서입니다.",
+      "도로 조서 작성을 목적으로 하는 현장 조사 기록입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "부장리 고분군",
+      "도로조서",
+      "현장 데이터"
+    ]
+  }
+}

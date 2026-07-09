@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0100_34078ad6b2.txt",
+  "source_name": "0100_34078ad6b2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:38:26+09:00",
+  "processed_at": "2026-07-08T11:38:33+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0100_34078ad6b2_33616a533f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0100_34078ad6b2_33616a533f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 '0100 사업의 개요'에 대한 내용을 담고 있으며, 삼패사거리와 관련된 사업을 설명합니다.",
+      "문서의 본문 내용은 추출되지 않았습니다.",
+      "문서 형식은 HWP로, 현재 지원되지 않는 파일 형식입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "사업의 개요",
+      "삼패사거리",
+      "HWP"
+    ]
+  }
+}

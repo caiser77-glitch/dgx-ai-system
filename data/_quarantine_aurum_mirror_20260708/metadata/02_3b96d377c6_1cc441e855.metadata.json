@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/02_3b96d377c6.txt",
+  "source_name": "02_3b96d377c6.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-06T12:05:51+09:00",
+  "processed_at": "2026-07-06T12:06:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/02_3b96d377c6_1cc441e855.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/02_3b96d377c6_1cc441e855.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서 '착수보고 자리배치'는 PDF 형식으로 제공됩니다.",
+      "파일 크기는 38,374 바이트입니다.",
+      "OCR 처리에 실패하여 내용 추출이 지원되지 않습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "PDF",
+      "착수보고",
+      "OCR 오류"
+    ]
+  }
+}

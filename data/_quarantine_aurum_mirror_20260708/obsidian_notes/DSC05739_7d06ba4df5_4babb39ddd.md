@@ -1,0 +1,32 @@
+---
+생성일: 2026-06-24
+장비명: overnight_batch
+원본이름: DSC05739_7d06ba4df5.txt
+원본유형: txt
+태그: #자동색인 #NAS_데이터
+---
+# 📄 DSC05739_7d06ba4df5.txt 요약본
+
+* **처리 시각**: 2026-06-24T19:33:36+09:00
+* **파일 상대경로**: /mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05739_7d06ba4df5.txt
+
+---
+### 🔍 문서 미리보기 (첫 15줄)
+
+```text
+source_name: DSC05739.JPG
+source_type: jpg
+size_bytes: 33423360
+path: /mnt/dgxbackup/2026 수성/울산 온산국가산업단지/사진/1차조사 25.07.28-30/박부 (곤충, 청개구리)/DSC05739.JPG
+width: 9504
+height: 6336
+mode: RGB
+format: MPO
+datetime_taken: 2025:07:29 09:41:37
+camera_make: SONY
+camera_model: ILCE-7RM4
+```
+
+---
+### 🔗 NAS 원본 파일 링크
+* 🖥️ 맥북 로컬 열기: [DSC05739_7d06ba4df5.txt 열기](file:///mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05739_7d06ba4df5.txt)

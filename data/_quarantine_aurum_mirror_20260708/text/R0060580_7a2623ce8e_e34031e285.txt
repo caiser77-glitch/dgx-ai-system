@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: RICOH WG-6, 현장사진, GPS좌표
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 정보입니다.
+- 촬영 일시는 2026년 4월 22일 오전 10시 56분입니다.
+- GPS 좌표(34.842367, 127.639143)가 포함된 사진 데이터입니다.
+=========================================
+source_name: R0060580.JPG
+source_type: jpg
+size_bytes: 3964667
+path: /mnt/dgxbackup/2026 혜인/동북아엘엔지허브터미널(해충조사)/02.사진/R0060580.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:04:22 10:56:32
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 34.842367
+gps_lon: 127.639143

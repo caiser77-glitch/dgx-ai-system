@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039411_06143ee710.txt",
+  "source_name": "R0039411_06143ee710.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:55:13+09:00",
+  "processed_at": "2026-07-08T14:55:22+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039411_06143ee710_ba7b683d49.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039411_06143ee710_ba7b683d49.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 줄몰개 사진 데이터입니다.",
+      "촬영 일시는 2026년 1월 9일 오전 10시 23분입니다.",
+      "위도 37.067762, 경도 127.206905 지점의 현장 기록입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "줄몰개",
+      "RICOH WG-6",
+      "현장 사진"
+    ]
+  }
+}

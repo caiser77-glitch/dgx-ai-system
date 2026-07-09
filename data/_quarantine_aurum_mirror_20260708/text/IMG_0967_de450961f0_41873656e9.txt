@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: Canon PowerShot SX70 HS, GPS 좌표, RGB 모드
+● 3줄 요약:
+- 2025년 11월 18일에 촬영된 Canon PowerShot SX70 HS 카메라 사진
+- GPS 좌표 (35.771595, 128.8284)에서 촬영
+- 5184x3888 해상도의 RGB 모드 이미지
+=========================================
+source_name: IMG_0967.JPG
+source_type: jpg
+size_bytes: 5248594
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/IMG_0967.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:11:18 10:31:20
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.771595
+gps_lon: 128.8284

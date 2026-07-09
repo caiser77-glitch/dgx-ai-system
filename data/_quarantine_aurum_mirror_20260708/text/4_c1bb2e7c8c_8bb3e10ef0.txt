@@ -1,0 +1,17 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 고라니 (4).JPG
+source_type: jpg
+size_bytes: 958457
+path: /mnt/dgxbackup/2026 아라기술/오천항 정비공사 사후/02. 사진/03.17/남이/고라니 (4).JPG
+width: 1124
+height: 843
+mode: RGB
+format: JPEG
+datetime_taken: 2026:03:20 09:12:30
+camera_make: Panasonic
+camera_model: DC-TZ99

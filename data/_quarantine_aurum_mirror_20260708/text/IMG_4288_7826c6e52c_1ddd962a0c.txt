@@ -1,0 +1,11 @@
+source_name: IMG_4288.JPG
+source_type: jpg
+size_bytes: 368412
+path: /mnt/dgxbackup/2026 이산/포항-안동/02. 사진/2026.03.12-13/산속 무인카메라/100_BTCF/IMG_4288.JPG
+width: 4208
+height: 2368
+mode: RGB
+format: MPO
+datetime_taken: 2020:04:07 15:08:06
+camera_make: Prometheus
+camera_model: BTC-5PXD

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1_cb9434215f.txt",
+  "source_name": "1_cb9434215f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T23:42:53+09:00",
+  "processed_at": "2026-06-22T23:44:14+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/1_cb9434215f_779040a0b1.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/1_cb9434215f_779040a0b1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 KCI",
+    "project_name": "숨편한 힐링숲 소규모",
+    "class_name": "포유류",
+    "tags": [
+      "#Panasonic",
+      "#DC-TZ99",
+      "#GPS"
+    ],
+    "summary": "2025년 11월 17일 경북 경산에서 촬영된 두더지 사진. 카메라: Panasonic DC-TZ99, GPS 위치: 35.768381, 128.829914.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 11월 17일 경북 경산에서 촬영된 두더지 사진",
+      "Panasonic DC-TZ99 카메라로 촬영, GPS 좌표: 35.768381, 128.829914",
+      "JPEG 형식, 1024x768 해상도, 366,215 바이트 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "두더지",
+      "경북 경산",
+      "Panasonic DC-TZ99"
+    ]
+  }
+}

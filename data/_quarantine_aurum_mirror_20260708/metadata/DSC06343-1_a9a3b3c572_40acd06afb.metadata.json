@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC06343-1_a9a3b3c572.txt",
+  "source_name": "DSC06343-1_a9a3b3c572.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T23:16:45+09:00",
+  "processed_at": "2026-06-24T23:18:25+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC06343-1_a9a3b3c572_40acd06afb.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC06343-1_a9a3b3c572_40acd06afb.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 9월 2일에 촬영된 곤충 사진\nSONY ILCE-7RM4 카메라로 촬영\nJPEG 형식, 1600x1066 해상도",
+    "tags": [
+      "#곤충",
+      "#사진",
+      "#SONY ILCE-7RM4"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 9월 2일에 촬영된 곤충 사진",
+      "SONY ILCE-7RM4 카메라로 촬영",
+      "JPEG 형식, 1600x1066 해상도"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "곤충",
+      "사진",
+      "SONY ILCE-7RM4"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05831-_46289fc9c9.txt",
+  "source_name": "DSC05831-_46289fc9c9.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T21:57:14+09:00",
+  "processed_at": "2026-06-24T21:59:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05831-_46289fc9c9_f8e36bb99a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05831-_46289fc9c9_f8e36bb99a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 고화질 사진\n울산 온산국가산업단지에서 진행된 1차 조사 결과\n박부 지역에서 발견된 덤붙이들명나방",
+    "tags": [
+      "#울산 온산국가산업단지",
+      "#곤충",
+      "#덤붙이들명나방"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 고화질 사진",
+      "울산 온산국가산업단지에서 진행된 1차 조사 결과",
+      "박부 지역에서 발견된 덤붙이들명나방"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "울산 온산국가산업단지",
+      "곤충",
+      "덤붙이들명나방"
+    ]
+  }
+}

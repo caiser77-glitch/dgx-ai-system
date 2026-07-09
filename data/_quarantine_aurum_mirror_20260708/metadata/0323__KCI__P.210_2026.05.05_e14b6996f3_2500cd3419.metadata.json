@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0323__KCI__P.210_2026.05.05_e14b6996f3.txt",
+  "source_name": "0323__KCI__P.210_2026.05.05_e14b6996f3.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:46:31+09:00",
+  "processed_at": "2026-07-08T11:46:38+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0323__KCI__P.210_2026.05.05_e14b6996f3_2500cd3419.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0323__KCI__P.210_2026.05.05_e14b6996f3_2500cd3419.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "맹꽁이 모니터링 결과에 대한 조치 및 평가 보고서",
+      "2026년 5월 5일 KCI 검토 완료",
+      "동식물상에 대한 환경영향조사 결과 반영"
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "맹꽁이",
+      "모니터링",
+      "환경영향조사"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0039827_14268f82db.txt",
+  "source_name": "R0039827_14268f82db.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T14:36:40+09:00",
+  "processed_at": "2026-07-08T14:36:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0039827_14268f82db_f1ea138e35.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0039827_14268f82db_f1ea138e35.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RICOH WG-6 카메라로 촬영된 부채하루살이 사진 데이터입니다.",
+      "2026년 3월 12일 오후 3시경 포항-안동 지역에서 촬영되었습니다.",
+      "파일 형식은 MPO이며 RGB 모드의 이미지 파일입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "부채하루살이",
+      "RICOH WG-6",
+      "생태사진"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0800_86__2026.04.02_cf0894ce1c.txt",
+  "source_name": "0800_86__2026.04.02_cf0894ce1c.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:51:21+09:00",
+  "processed_at": "2026-07-08T11:51:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0800_86__2026.04.02_cf0894ce1c_2be17e3c98.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0800_86__2026.04.02_cf0894ce1c_2be17e3c98.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소에서 작성한 국지도86호선 확장에 대한 종합평가 및 결론 문서입니다.",
+      "해당 문서는 2026년 4월 2일에 작성되었으며 파일 크기는 37,888바이트입니다.",
+      "현재 hwp 파일 형식으로 인해 직접적인 내용 추출은 지원되지 않습니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "국지도86호선",
+      "확장",
+      "종합평가"
+    ]
+  }
+}

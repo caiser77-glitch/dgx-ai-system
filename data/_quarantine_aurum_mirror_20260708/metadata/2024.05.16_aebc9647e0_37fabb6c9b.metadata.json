@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.05.16_aebc9647e0.txt",
+  "source_name": "2024.05.16_aebc9647e0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:38:52+09:00",
+  "processed_at": "2026-06-29T17:40:55+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2024.05.16_aebc9647e0_37fabb6c9b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2024.05.16_aebc9647e0_37fabb6c9b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 5월 16일 서산 부장리 고분군에서 촬영한 육상곤충류 사진",
+      "JPEG 형식, 2480x3507 픽셀, 597,327 바이트 크기",
+      "야장 자료로 분류됨"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "육상곤충류",
+      "고분군",
+      "서산 부장리"
+    ]
+  }
+}

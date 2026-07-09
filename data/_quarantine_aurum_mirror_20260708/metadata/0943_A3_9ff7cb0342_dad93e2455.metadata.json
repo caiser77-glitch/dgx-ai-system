@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0943_A3_9ff7cb0342.txt",
+  "source_name": "0943_A3_9ff7cb0342.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:18:41+09:00",
+  "processed_at": "2026-07-08T12:18:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0943_A3_9ff7cb0342_dad93e2455.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0943_A3_9ff7cb0342_dad93e2455.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 A3 크기의 지형지질 관련 자료를 포함하고 있습니다.",
+      "파일 크기는 9,374,130 바이트이며, OCR 처리에 문제가 발생했습니다.",
+      "문서의 내용 추출이 지원되지 않는 파일 형식으로 인해 제한적입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "지형지질",
+      "A3",
+      "OCR 오류"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: 
+● 3줄 요약:
+- 요약을 생성하지 못했습니다.
+=========================================
+source_name: 02 00 우수공.xlsx
+source_type: xlsx
+sheet: 간(우), rows: 50, columns: 8
+sheet: 우내역, rows: 88, columns: 6
+sheet: 우집, rows: 65434, columns: 26
+sheet: 1호구체, rows: 92, columns: 41
+sheet: 관집, rows: 30, columns: 25
+sheet: 우단, rows: 502, columns: 24
+sheet: 집수, rows: 42, columns: 35
+sheet: 집단, rows: 47, columns: 85
+sheet: 면수, rows: 21, columns: 20
+sheet: 면단, rows: 45, columns: 39
+sheet: 면단 (2), rows: 45, columns: 40
+sheet: 날벽, rows: 12, columns: 30
+sheet: 날단(3), rows: 117, columns: 40
+sheet: 2호토공, rows: 45, columns: 23
+sheet: 3호토공, rows: 45, columns: 23
+sheet: 관조서(450), rows: 27, columns: 17
+sheet: 종횡구조, rows: 192, columns: 31
+sheet: 횡관, rows: 176, columns: 27
+sheet: 날집, rows: 14, columns: 10
+sheet: 날단, rows: 52, columns: 8
+sheet: 배조, rows: 82, columns: 268
+sheet: 수단, rows: 61, columns: 22
+sheet: 수조, rows: 186, columns: 32
+sheet: 석집, rows: 54, columns: 18
+sheet: 500x200, rows: 40, columns: 46
+sheet: 500x200~500, rows: 40, columns: 46
+sheet: 500x500, rows: 39, columns: 46
+sheet: 800x500, rows: 39, columns: 46
+sheet: 1000x500, rows: 39, columns: 46
+sheet: 마감석, rows: 42, columns: 46
+sheet: 석배, rows: 69, columns: 17
+sheet: 빗조, rows: 182, columns: 33
+sheet: Sheet1, rows: 0, columns: 1
+sheet: 맨집, rows: 19, columns: 11
+sheet: 1맨, rows: 45, columns: 23
+sheet: 종D600, rows: 52, columns: 24
+sheet: 개집, rows: 14, columns: 12
+sheet: 종관, rows: 194, columns: 46
+sheet: 개단1.5, rows: 179, columns: 25
+sheet: 박1.2, rows: 47, columns: 53
+sheet: 박1.5, rows: 44, columns: 53
+sheet: 3맨, rows: 45, columns: 23
+sheet: 종D800, rows: 51, columns: 24
+sheet: 종D1000, rows: 51, columns: 24
+sheet: 횡D600, rows: 51, columns: 24
+sheet: 횡D800, rows: 51, columns: 24
+sheet: 횡D1000, rows: 51, columns: 24
+sheet: 우수공산출서, rows: 30, columns: 19

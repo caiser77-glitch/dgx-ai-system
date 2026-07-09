@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/11111_____2023.10.20_a73152a38f.txt",
+  "source_name": "11111_____2023.10.20_a73152a38f.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:46:19+09:00",
+  "processed_at": "2026-07-08T13:46:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/11111_____2023.10.20_a73152a38f_8a876065f2.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/11111_____2023.10.20_a73152a38f_8a876065f2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천의 육상동식물에 대한 조사 결과를 담고 있습니다.",
+      "2023년 10월 20일에 (주)아우룸생태연구소에서 작성되었습니다.",
+      "문서 크기는 약 141MB이며, 내용 추출이 지원되지 않는 파일 형식입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "육상동식물",
+      "아우룸생태연구소"
+    ]
+  }
+}

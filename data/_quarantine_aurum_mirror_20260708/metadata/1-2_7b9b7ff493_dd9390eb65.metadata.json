@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/1-2_7b9b7ff493.txt",
+  "source_name": "1-2_7b9b7ff493.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:17:12+09:00",
+  "processed_at": "2026-07-08T12:17:19+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/1-2_7b9b7ff493_dd9390eb65.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/1-2_7b9b7ff493_dd9390eb65.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아산 방축지구의 조류 데이터를 담은 엑셀 파일로, 여러 시트로 구성되어 있습니다.",
+      "각 시트는 특정 생물군집(포, 조, 양, 어, 저 등)에 대한 상세한 정보를 제공합니다.",
+      "마 시트가 가장 많은 데이터를 포함하고 있으며, Pi 시트는 상대적으로 적은 열 수를 가집니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "아산 방축지구",
+      "조류",
+      "엑셀 파일"
+    ]
+  }
+}

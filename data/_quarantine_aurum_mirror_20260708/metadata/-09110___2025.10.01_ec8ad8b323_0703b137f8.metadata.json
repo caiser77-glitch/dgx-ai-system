@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-09110___2025.10.01_ec8ad8b323.txt",
+  "source_name": "-09110___2025.10.01_ec8ad8b323.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:04:43+09:00",
+  "processed_at": "2026-07-08T12:04:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-09110___2025.10.01_ec8ad8b323_0703b137f8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-09110___2025.10.01_ec8ad8b323_0703b137f8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "문서는 고흥 지역의 동식물상을 조사한 결과를 담고 있습니다.",
+      "조사 기간은 2025년 10월 1일로 예정되어 있습니다.",
+      "아우룸생태연구소에서 작성한 문서로, 파일 형식은 HWP입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥",
+      "동식물상",
+      "아우룸생태연구소"
+    ]
+  }
+}

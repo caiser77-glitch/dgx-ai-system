@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-v2_bad8697874_ddcf9c5978.txt",
+  "source_name": "-v2_bad8697874_ddcf9c5978.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:30:11+09:00",
+  "processed_at": "2026-07-08T11:30:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/-v2_bad8697874_ddcf9c5978_d8453bc1c8.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/-v2_bad8697874_ddcf9c5978_d8453bc1c8.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "지역개황도-v2.jpg는 고흥 산단의 환경 평가 자료에 포함된 이미지입니다.",
+      "이미지는 6637x3378 픽셀 크기로, RGB 모드의 JPEG 형식입니다.",
+      "파일 크기는 5,680,551 바이트이며, 2025년 3월 13일 착수 보고회 자료에 속합니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "지역개황도",
+      "고흥 산단",
+      "환경 평가"
+    ]
+  }
+}

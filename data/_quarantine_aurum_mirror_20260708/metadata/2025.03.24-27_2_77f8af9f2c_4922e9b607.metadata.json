@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/mnt/gigabyte-atom-nas/nas2026/_AURUM_AI_PROCESSED/processed/text/2025.03.24-27_2_77f8af9f2c.txt",
+  "source_name": "2025.03.24-27_2_77f8af9f2c.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T17:52:59+09:00",
+  "processed_at": "2026-06-29T17:54:35+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/text/2025.03.24-27_2_77f8af9f2c_4922e9b607.txt",
+    "tables": [],
+    "metadata": "/Users/nams/caiser77@192.168.219.100:/home/caiser77/dgx_workspace/data/processed/metadata/2025.03.24-27_2_77f8af9f2c_4922e9b607.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 산단에 대한 탐문 활동 기록 사진",
+      "2025년 3월 24일부터 27일까지 진행",
+      "사진은 흑백 모드로 촬영"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "고흥산단",
+      "탐문",
+      "흑백사진"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/03__2___9_3495f931cd.4_5.csv",
+  "source_name": "03__2___9_3495f931cd.4_5.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:01:27+09:00",
+  "processed_at": "2026-07-08T12:01:34+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_3495f931cd.4_5_f515d898e4.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/03__2___9_3495f931cd.4_5_f515d898e4.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_3495f931cd.4_5_f515d898e4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "공사 시 출장여비 산출을 위한 공무원 여비규정 근거 문서입니다.",
+      "낙찰률 0.84156이 적용된 여비 산출 내역을 포함하고 있습니다.",
+      "총 877개의 행으로 구성된 CSV 형식의 데이터 파일입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "출장여비",
+      "공무원 여비규정",
+      "낙찰률"
+    ]
+  }
+}

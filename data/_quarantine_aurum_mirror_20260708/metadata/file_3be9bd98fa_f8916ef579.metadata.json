@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_3be9bd98fa.txt",
+  "source_name": "file_3be9bd98fa.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:19+09:00",
+  "processed_at": "2026-07-08T13:51:27+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_3be9bd98fa_f8916ef579.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_3be9bd98fa_f8916ef579.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 파일은 '생태자연도'라는 명칭의 이미지 파일입니다.",
+      "고흥 산단 관련 착수보고회 자료로 분류되는 도면 데이터입니다.",
+      "이미지 형식(JPEG)이며 해상도는 3693x5223 픽셀입니다."
+    ],
+    "category": "도면",
+    "keywords": [
+      "생태자연도",
+      "고흥 산단",
+      "도면"
+    ]
+  }
+}

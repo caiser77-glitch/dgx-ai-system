@@ -1,0 +1,16 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 서수평장, 파충류, 사진
+● 3줄 요약:
+- 서수평장에서 촬영된 파충류 사진
+- JPEG 형식, 2480x3507 픽셀, 459KB 크기
+- OCR 처리 시 서버 오류 발생
+=========================================
+source_name: 2026.02.03-04 서수평장 파충류.jpg
+source_type: jpg
+size_bytes: 459002
+width: 2480
+height: 3507
+mode: L
+format: JPEG
+ocr_error: HTTP Error 500: Internal Server Error

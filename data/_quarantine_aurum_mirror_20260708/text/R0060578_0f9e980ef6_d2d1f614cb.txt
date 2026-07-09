@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: RICOH WG-6, 현장 사진, GPS 위치 정보
+● 3줄 요약:
+- RICOH WG-6 카메라로 촬영된 이미지 파일 데이터입니다.
+- 2026년 4월 22일 오전 10시 55분에 촬영되었습니다.
+- 전남 지역(위도 34.84, 경도 127.63)의 위치 정보를 포함하고 있습니다.
+=========================================
+source_name: R0060578.JPG
+source_type: jpg
+size_bytes: 3926341
+path: /mnt/dgxbackup/2026 혜인/동북아엘엔지허브터미널(해충조사)/02.사진/R0060578.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2026:04:22 10:55:43
+camera_make: RICOH
+camera_model: RICOH WG-6
+gps_lat: 34.842338
+gps_lon: 127.639107

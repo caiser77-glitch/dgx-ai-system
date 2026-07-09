@@ -1,0 +1,4 @@
+source_name: 02_00_a970e51739.1_148f71132e.csv
+source_type: csv
+row_count: 44
+columns: 1호맨홀 토공산출, , , , , , , , , , , , , , , , , , , , , , 

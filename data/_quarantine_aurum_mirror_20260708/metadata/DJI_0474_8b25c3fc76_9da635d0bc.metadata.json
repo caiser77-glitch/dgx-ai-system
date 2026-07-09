@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_0474_8b25c3fc76.txt",
+  "source_name": "DJI_0474_8b25c3fc76.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T10:07:19+09:00",
+  "processed_at": "2026-06-24T10:08:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DJI_0474_8b25c3fc76_9da635d0bc.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DJI_0474_8b25c3fc76_9da635d0bc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 DJI",
+    "project_name": "고흥 산단 드론 영상",
+    "class_name": "드론 영상",
+    "tags": [
+      "#드론",
+      "#고흥",
+      "#산단"
+    ],
+    "summary": "2025년 2월 7일에 촬영된 DJI FC3582 카메라의 드론 영상. GPS 좌표는 34.451646, 127.492286입니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "DJI 드론 촬영 이미지, 2025년 2월 7일 16시 55분 15초에 촬영",
+      "GPS 좌표: 위도 34.451646, 경도 127.492286",
+      "해상도 4032x3024, RGB 모드, MPO 포맷"
+    ],
+    "category": "드론영상",
+    "keywords": [
+      "DJI",
+      "드론",
+      "GPS"
+    ]
+  }
+}

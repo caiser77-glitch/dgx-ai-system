@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2-1_a8ee2f366a.txt",
+  "source_name": "2-1_a8ee2f366a.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:46:43+09:00",
+  "processed_at": "2026-07-08T13:46:51+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/2-1_a8ee2f366a_9886b329c1.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/2-1_a8ee2f366a_9886b329c1.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제주시 해안동 산2-1번지 소재 육계 종계장 시설 사업 관련 부록 문서입니다.",
+      "파일 크기는 약 54.6MB이며, 현재 시스템상에서 직접적인 텍스트 추출이 제한적입니다.",
+      "OCR 처리 실패로 인해 파일 내부의 상세 데이터 확인을 위한 추가 작업이 필요할 수 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "육계 종계장",
+      "시설사업",
+      "제주시 해안동"
+    ]
+  }
+}

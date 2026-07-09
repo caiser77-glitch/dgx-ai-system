@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/RCNX0040_7b7d877a04.txt",
+  "source_name": "RCNX0040_7b7d877a04.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T09:12:15+09:00",
+  "processed_at": "2026-07-08T09:12:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/RCNX0040_7b7d877a04_948b4fd3f7.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/RCNX0040_7b7d877a04_948b4fd3f7.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "RECONYX사의 HYPERFIRE 2 COVERT 모델로 촬영된 이미지 파일 정보입니다.",
+      "울산 온산국가산업단지 내 무인카메라 설치 구역의 중간 부분 데이터입니다.",
+      "2025년 11월 28일 낮 시간대에 촬영된 RGB 모드의 JPEG 형식 사진입니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "울산 온산국가산업단지",
+      "RECONYX"
+    ]
+  }
+}

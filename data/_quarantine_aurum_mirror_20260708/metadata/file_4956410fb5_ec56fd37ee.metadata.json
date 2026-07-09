@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_4956410fb5.txt",
+  "source_name": "file_4956410fb5.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:51:41+09:00",
+  "processed_at": "2026-07-08T13:51:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_4956410fb5_ec56fd37ee.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_4956410fb5_ec56fd37ee.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 '플라워버켓 이미지.jpg'라는 파일명의 이미지 파일 정보입니다.",
+      "파일 경로는 설계도면 폴더 내에 위치하며, 규격은 2338x3508 해상도의 RGB 모드입니다.",
+      "이미지 자체의 시각적 내용이 아닌 파일의 메타데이터(크기, 경로, 형식)를 포함하고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "플라워버켓",
+      "이미지 메타데이터",
+      "설계도면"
+    ]
+  }
+}

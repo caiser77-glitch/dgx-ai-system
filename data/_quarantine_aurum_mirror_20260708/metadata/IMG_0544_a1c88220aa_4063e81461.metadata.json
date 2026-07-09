@@ -1,0 +1,45 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0544_a1c88220aa.txt",
+  "source_name": "IMG_0544_a1c88220aa.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-07-01T05:07:46+09:00",
+  "processed_at": "2026-07-01T05:08:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0544_a1c88220aa_4063e81461.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0544_a1c88220aa_4063e81461.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 포항-안동",
+    "project_name": "무덤옆 무인카메라",
+    "taxon_group": "미확정",
+    "document_type": "사진",
+    "class_name": "사진",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#포항-안동",
+      "#무인카메라"
+    ],
+    "summary": "2026년 1월 11일 13:12:27에 포항-안동에서 촬영된 무인카메라 사진.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 1월 11일 13시 12분 27초에 촬영된 무인카메라 사진",
+      "카메라 모델: Prometheus BTC-5PXD, 해상도: 4208x2368, RGB 모드",
+      "사진 크기: 2,879,098 바이트, MPO 포맷"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "무인카메라",
+      "사진",
+      "Prometheus"
+    ]
+  }
+}

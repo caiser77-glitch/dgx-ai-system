@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-01_-_712a101d35.txt",
+  "source_name": "01-01_-_712a101d35.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:40:53+09:00",
+  "processed_at": "2026-07-08T13:41:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-01_-_712a101d35_e76e11a3a4.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-01_-_712a101d35_e76e11a3a4.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "토공 작업 관련 다양한 데이터 시트로 구성된 엑셀 파일",
+      "토공 총괄, 유용 계획, 운반 거리, 임목 폐기물, 비옥토 등의 수량 집계 포함",
+      "총 31개의 시트로, 각 시트는 특정 항목의 상세 정보를 제공"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "토공",
+      "수량집계",
+      "운반거리"
+    ]
+  }
+}

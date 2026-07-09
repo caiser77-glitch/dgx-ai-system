@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0712_-_2026.05.27_51daba90e0.txt",
+  "source_name": "0712_-_2026.05.27_51daba90e0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:38:39+09:00",
+  "processed_at": "2026-07-08T11:38:47+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0712_-_2026.05.27_51daba90e0_8d45c6fb4f.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0712_-_2026.05.27_51daba90e0_8d45c6fb4f.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "(주)아우룸생태연구소에서 작성한 2026년 5월 27일자 자연환경자산 관련 자료입니다.",
+      "파일 형식은 .hwp로, 현재 지원되지 않는 파일 형식으로 인해 내용 추출이 불가능합니다.",
+      "문서 크기는 1,534,976 바이트입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "자연환경자산",
+      "아우룸생태연구소",
+      "hwp"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/25.08.19_bec65251ba.txt",
+  "source_name": "25.08.19_bec65251ba.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:06:21+09:00",
+  "processed_at": "2026-07-08T12:06:29+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/25.08.19_bec65251ba_e62ea70da5.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/25.08.19_bec65251ba_e62ea70da5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "고흥 국가산단의 기평 및 환평 초안 검토 의견 반영 계획에 대한 문서입니다.",
+      "재해 검토를 포함한 다양한 측면에서의 검토 의견 반영 방안을 제시합니다.",
+      "현재 .hwp 파일 형식으로 콘텐츠 추출이 지원되지 않는 상태의 문서입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "고흥 국가산단",
+      "기평 환평",
+      "초안 검토 의견"
+    ]
+  }
+}

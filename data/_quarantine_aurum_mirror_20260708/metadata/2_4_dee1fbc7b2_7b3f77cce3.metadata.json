@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2_4_dee1fbc7b2.txt",
+  "source_name": "2_4_dee1fbc7b2.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T20:15:07+09:00",
+  "processed_at": "2026-06-23T20:16:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2_4_dee1fbc7b2_7b3f77cce3.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2_4_dee1fbc7b2_7b3f77cce3.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "class_name": "파충류",
+    "tags": [
+      "#파충류",
+      "#홍익기술",
+      "#진천초평산업단지"
+    ],
+    "summary": "파충류 이미지, 1051x1331 RGB JPEG, 231163 bytes",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파충류 관련 이미지 파일로 보임",
+      "파일 크기: 231,163 바이트, 해상도: 1051x1331 픽셀",
+      "RGB 모드의 JPEG 형식 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "파충류",
+      "이미지",
+      "현장조사"
+    ]
+  }
+}

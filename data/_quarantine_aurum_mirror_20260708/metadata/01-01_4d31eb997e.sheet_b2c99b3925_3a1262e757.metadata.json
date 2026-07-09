@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-01_4d31eb997e.sheet_b2c99b3925.csv",
+  "source_name": "01-01_4d31eb997e.sheet_b2c99b3925.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:36:44+09:00",
+  "processed_at": "2026-07-08T11:36:52+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-01_4d31eb997e.sheet_b2c99b3925_3a1262e757.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-01_4d31eb997e.sheet_b2c99b3925_3a1262e757.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-01_4d31eb997e.sheet_b2c99b3925_3a1262e757.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 마운딩 수량 산출을 목적으로 하는 데이터 파일입니다.",
+      "CSV 형식의 문서로 총 18개의 행(row)으로 구성되어 있습니다.",
+      "마운딩 관련 수량 산출을 위한 기초 자료를 포함하고 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "마운딩",
+      "수량 산출",
+      "CSV 데이터"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 포항 기업혁신파크, 동식물상, 현지조사
+● 3줄 요약:
+- 포항 기업혁신파크 환평 지역의 동식물상에 대한 현지 조사 결과를 담은 문서입니다.
+- 문서는 PDF 형태로 약 131MB의 용량을 가지고 있습니다.
+- OCR 처리 과정에서 파일명 내 제어 문자로 인한 오류가 발생하였습니다.
+=========================================
+source_name: 포항 기업혁신파크 환평(초안) 동식물상 수정요청사항(현지조사).pdf
+source_type: pdf
+size_bytes: 131351691
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/포항 기업혁신파크 환평(초안) 동식물상 수정요청사항(현지조사)_pages_1_taxa.xlsx' (found at least ' ')

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.04_-2_8f45376ef1.txt",
+  "source_name": "2026.03.04_-2_8f45376ef1.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:01:19+09:00",
+  "processed_at": "2026-06-23T18:01:59+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.04_-2_8f45376ef1_1be4ccd5fc.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.04_-2_8f45376ef1_1be4ccd5fc.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "과천주암",
+    "class_name": "식물상",
+    "tags": [
+      "#식물상",
+      "#과천주암",
+      "#2026"
+    ],
+    "summary": "2026년 3월 4일 과천주암 지역에서 촬영된 식물상 이미지입니다.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "과천주암 지역의 식물상을 촬영한 사진",
+      "2026년 3월 4일에 촬영됨",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "과천주암",
+      "식물상",
+      "야장"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0500_891732210b.txt",
+  "source_name": "0500_891732210b.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:17:46+09:00",
+  "processed_at": "2026-07-08T12:17:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0500_891732210b_6d987689ae.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0500_891732210b_6d987689ae.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "사후 환경 영향 조사에 관한 PDF 파일 문서입니다.",
+      "파일 크기는 71,796 바이트이며 OCR 처리 중 인코딩 오류가 발생했습니다.",
+      "콘텐츠 추출이 지원되지 않는 파일 유형으로 확인됩니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "사후환경영향조사",
+      "PDF",
+      "OCR오류"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.03-04_2_32967a4ec0.txt",
+  "source_name": "2026.02.03-04_2_32967a4ec0.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T16:59:07+09:00",
+  "processed_at": "2026-06-23T17:00:16+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.03-04_2_32967a4ec0_78d52df6fa.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.03-04_2_32967a4ec0_78d52df6fa.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "서수평장 식물상",
+    "class_name": "식물",
+    "tags": [
+      "#식물",
+      "#서수평장",
+      "#2026"
+    ],
+    "summary": "2026년 2월 3-4일 촬영된 서수평장 식물상 이미지. OCR 처리 중 에러 발생.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 3일부터 4일까지 서수평장에서 촬영된 식물상 이미지",
+      "이미지 크기는 2480x3507 픽셀이며, 단색 모드의 JPEG 형식",
+      "OCR 처리 중 서버 오류로 인해 텍스트 추출 실패"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "서수평장",
+      "식물상",
+      "JPEG"
+    ]
+  }
+}

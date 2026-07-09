@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 현장사진첩, PDF, OCR 오류
+● 3줄 요약:
+- 현장 사진첩 파일이 PDF 형식으로 제공되었습니다.
+- 파일 크기는 80,752,815 바이트입니다.
+- OCR 처리 중 인코딩 오류가 발생하여 콘텐츠 추출이 지원되지 않습니다.
+=========================================
+source_name: 현장사진첩_고흥.pdf
+source_type: pdf
+size_bytes: 80752815
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 13-17: ordinal not in range(128)

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/-_2_f216a13a23.txt",
+  "source_name": "-_2_f216a13a23.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:02:51+09:00",
+  "processed_at": "2026-06-22T22:03:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/-_2_f216a13a23_27eb582f3a.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/-_2_f216a13a23_27eb582f3a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 아라기술",
+    "project_name": "음성천",
+    "class_name": "야장",
+    "tags": [
+      "#음성천",
+      "#야장",
+      "#영수증"
+    ],
+    "summary": "음성천-탐문 2.jpg, 크기: 367257 bytes, 해상도: 1729x2487, 카메라: SEIKO EPSON CORP. ES-580W",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "음성천 탐문 조사 결과를 담은 사진 파일",
+      "EPSON ES-580W 카메라로 촬영",
+      "JPEG 형식, RGB 모드, 1729x2487 픽셀 크기"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "음성천",
+      "탐문",
+      "EPSON ES-580W"
+    ]
+  }
+}

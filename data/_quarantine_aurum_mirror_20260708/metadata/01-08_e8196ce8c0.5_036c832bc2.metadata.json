@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/01-08_e8196ce8c0.5.csv",
+  "source_name": "01-08_e8196ce8c0.5.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:48+09:00",
+  "processed_at": "2026-07-08T11:43:56+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0.5_036c832bc2.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/01-08_e8196ce8c0.5_036c832bc2.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0.5_036c832bc2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 01-08_e8196ce8c0.5.csv 파일의 메타데이터 정보를 포함하고 있습니다.",
+      "총 47개의 행(row)으로 구성되어 있으며, 데이터 형식은 CSV 파일입니다.",
+      "컬럼 정보에는 '2X2@1 BOX 단위수량'을 포함한 다수의 빈 컬럼이 존재합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "CSV 데이터",
+      "파일 메타데이터",
+      "단위수량"
+    ]
+  }
+}

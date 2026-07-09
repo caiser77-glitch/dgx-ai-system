@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/10112__-_-2025.04.30_9b6670d509.txt",
+  "source_name": "10112__-_-2025.04.30_9b6670d509.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:14:14+09:00",
+  "processed_at": "2026-07-08T12:14:23+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/10112__-_-2025.04.30_9b6670d509_f2b5fc766c.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/10112__-_-2025.04.30_9b6670d509_f2b5fc766c.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "아우룸생태연구소에서 작성한 생물다양성 서식지 보전에 관한 자료입니다.",
+      "문서의 형식은 .hwp로, 현재 콘텐츠 추출이 지원되지 않는 파일 유형입니다.",
+      "문서의 크기는 68,608 바이트입니다."
+    ],
+    "category": "연구보고서",
+    "keywords": [
+      "생물다양성",
+      "서식지 보전",
+      "아우룸생태연구소"
+    ]
+  }
+}

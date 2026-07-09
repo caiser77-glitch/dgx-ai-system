@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-08_e8196ce8c0.txt",
+  "source_name": "01-08_e8196ce8c0.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:43:41+09:00",
+  "processed_at": "2026-07-08T11:43:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-08_e8196ce8c0_2cb478a48a.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-08_e8196ce8c0_2cb478a48a.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "파일 '01-08 깨기수량.xlsx'은 여러 시트로 구성된 엑셀 파일입니다.",
+      "각 시트는 다양한 종류의 깨기 수량 데이터를 포함하고 있습니다.",
+      "시트의 크기는 각각 다르며, 가장 큰 시트는 45행 50열까지 달합니다."
+    ],
+    "category": "데이터 집계표",
+    "keywords": [
+      "엑셀",
+      "깨기수량",
+      "데이터"
+    ]
+  }
+}

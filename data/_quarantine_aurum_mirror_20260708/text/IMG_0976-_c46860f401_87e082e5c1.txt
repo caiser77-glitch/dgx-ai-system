@@ -1,0 +1,21 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 사진
+● 핵심 키워드: 붉은머리오목눈이, Canon PowerShot SX70 HS, GPS 좌표
+● 3줄 요약:
+- 2025년 11월 18일 촬영된 붉은머리오목눈이 사진
+- Canon PowerShot SX70 HS 카메라로 촬영, 해상도 5184x3888
+- GPS 좌표 (35.767318, 128.822768)에서 촬영
+=========================================
+source_name: IMG_0976-붉은머리오목눈이.JPG
+source_type: jpg
+size_bytes: 7227792
+path: /mnt/dgxbackup/2026 KCI/숨편한 힐링숲 소규모/02. 사진/권이/IMG_0976-붉은머리오목눈이.JPG
+width: 5184
+height: 3888
+mode: RGB
+format: MPO
+datetime_taken: 2025:11:18 11:33:46
+camera_make: Canon
+camera_model: Canon PowerShot SX70 HS
+gps_lat: 35.767318
+gps_lon: 128.822768

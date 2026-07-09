@@ -1,0 +1,4 @@
+source_name: 250605 설계자료.zip
+source_type: zip
+size_bytes: 130533075
+content_extraction: unsupported_file_type

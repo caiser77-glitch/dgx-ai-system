@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DJI_0510_a5b13e39ef.txt",
+  "source_name": "DJI_0510_a5b13e39ef.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T12:01:00+09:00",
+  "processed_at": "2026-06-24T12:02:45+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DJI_0510_a5b13e39ef_bc57e032dd.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DJI_0510_a5b13e39ef_bc57e032dd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "드론 영상",
+    "summary": "DJI 드론 카메라로 촬영된 고화질 이미지\n2025년 2월 7일 17시 24분에 촬영, 위치: 34.468833, 127.479184\n이미지 크기: 4032x3024, 파일 크기: 3,438,091 바이트",
+    "tags": [
+      "#DJI",
+      "#드론 영상",
+      "#GPS 위치 정보"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "DJI 드론 카메라로 촬영된 고화질 이미지",
+      "2025년 2월 7일 17시 24분에 촬영, 위치: 34.468833, 127.479184",
+      "이미지 크기: 4032x3024, 파일 크기: 3,438,091 바이트"
+    ],
+    "category": "드론 영상",
+    "keywords": [
+      "DJI",
+      "드론 영상",
+      "GPS 위치 정보"
+    ]
+  }
+}

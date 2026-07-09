@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/i_418Ud018svc1sa0w81s0sh0i_1xd6at_ef7c511c92.txt",
+  "source_name": "i_418Ud018svc1sa0w81s0sh0i_1xd6at_ef7c511c92.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:41+09:00",
+  "processed_at": "2026-07-08T13:49:49+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/i_418Ud018svc1sa0w81s0sh0i_1xd6at_ef7c511c92_29b7f7d4a6.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/i_418Ud018svc1sa0w81s0sh0i_1xd6at_ef7c511c92_29b7f7d4a6.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "삼성 갤럭시 S25 울트라 기기로 촬영된 이미지 파일 정보입니다.",
+      "2026년 3월 19일 오후 12시 53분에 촬영되었습니다.",
+      "광주도시철도 관련 영수증 폴더 내에 저장된 JPEG 이미지입니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "삼성 갤럭시 S25 Ultra",
+      "영수증 파일"
+    ]
+  }
+}

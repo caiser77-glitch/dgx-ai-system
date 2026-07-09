@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 기타
+● 핵심 키워드: PDF, OCR 오류, ascii 코덱
+● 3줄 요약:
+- 문서 '03050_토양.pdf'는 약 9.1MB 크기의 PDF 파일입니다.
+- 파일 유형 문제로 인해 내용 추출이 지원되지 않습니다.
+- OCR 처리 과정에서 'ascii' 코덱 인코딩 오류가 발생했습니다.
+=========================================
+source_name: 03050_토양.pdf
+source_type: pdf
+size_bytes: 9126232
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 19-20: ordinal not in range(128)

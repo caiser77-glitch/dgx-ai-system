@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.03.04_bb77bdee17.txt",
+  "source_name": "2026.03.04_bb77bdee17.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T18:07:38+09:00",
+  "processed_at": "2026-06-23T18:08:21+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.03.04_bb77bdee17_fbc3699a0b.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.03.04_bb77bdee17_fbc3699a0b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "과천주암",
+    "class_name": "파충류",
+    "tags": [
+      "#파충류",
+      "#과천주암",
+      "#2026"
+    ],
+    "summary": "2026년 3월 4일 과천주암에서 촬영된 파충류 사진. 크기는 2480x3507 픽셀, 446,152바이트.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 3월 4일 과천주암에서 촬영된 파충류 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "파충류 관찰 기록으로 보이는 야장(野帳) 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "파충류",
+      "과천주암",
+      "야장"
+    ]
+  }
+}

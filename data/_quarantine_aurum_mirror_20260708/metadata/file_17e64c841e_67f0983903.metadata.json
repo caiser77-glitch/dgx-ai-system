@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_17e64c841e.txt",
+  "source_name": "file_17e64c841e.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:54:35+09:00",
+  "processed_at": "2026-07-08T13:54:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_17e64c841e_67f0983903.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_17e64c841e_67f0983903.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 파일은 '숨편한 힐링숲 진입도로' 현장에서 촬영된 곤충 관련 이미지 문서입니다.",
+      "이미지 파일 형식(JPG)으로 저장되어 있으며, 야장 기록의 일부로 판단됩니다.",
+      "파일 경로를 통해 소규모 사업 구역 내 조사 데이터임을 확인할 수 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "숨편한 힐링숲",
+      "진입도로",
+      "곤충"
+    ]
+  }
+}

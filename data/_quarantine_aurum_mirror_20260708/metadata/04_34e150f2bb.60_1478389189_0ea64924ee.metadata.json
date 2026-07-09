@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/04_34e150f2bb.60_1478389189.csv",
+  "source_name": "04_34e150f2bb.60_1478389189.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:34:43+09:00",
+  "processed_at": "2026-07-08T11:34:50+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/04_34e150f2bb.60_1478389189_0ea64924ee.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/04_34e150f2bb.60_1478389189_0ea64924ee.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/04_34e150f2bb.60_1478389189_0ea64924ee.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "해당 문서는 보도블럭(T60) 품목의 단위 수량을 포함한 데이터셋입니다.",
+      "총 37개의 행으로 구성된 CSV 형식의 자료입니다.",
+      "자재 수량 관리를 위한 기초 데이터로 판단됩니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "보도블럭(T60)",
+      "단위수량",
+      "CSV데이터"
+    ]
+  }
+}

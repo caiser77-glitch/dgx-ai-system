@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/DSC05693-_55fdb0dc76.txt",
+  "source_name": "DSC05693-_55fdb0dc76.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-24T18:18:05+09:00",
+  "processed_at": "2026-06-24T18:19:53+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/DSC05693-_55fdb0dc76_d9974f2cf2.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/DSC05693-_55fdb0dc76_d9974f2cf2.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "현장조사",
+    "summary": "2025년 7월 29일에 촬영된 몸노랑들명나방 사진\n울산 온산국가산업단지에서 진행된 1차 조사 결과\nSONY ILCE-7RM4 카메라로 촬영, RGB 모드, 9504x6336 해상도",
+    "tags": [
+      "#몸노랑들명나방",
+      "#울산 온산국가산업단지",
+      "#1차조사"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 7월 29일에 촬영된 몸노랑들명나방 사진",
+      "울산 온산국가산업단지에서 진행된 1차 조사 결과",
+      "SONY ILCE-7RM4 카메라로 촬영, RGB 모드, 9504x6336 해상도"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "몸노랑들명나방",
+      "울산 온산국가산업단지",
+      "1차조사"
+    ]
+  }
+}

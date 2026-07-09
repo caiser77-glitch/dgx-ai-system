@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/019-34710019_58f8692567.txt",
+  "source_name": "019-34710019_58f8692567.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-22T22:13:12+09:00",
+  "processed_at": "2026-06-22T22:14:15+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/019-34710019_58f8692567_ebdfc334f5.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/019-34710019_58f8692567_ebdfc334f5.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "인천용역",
+    "class_name": "손죽",
+    "tags": [
+      "#인천",
+      "#용역",
+      "#손죽"
+    ],
+    "summary": "손죽019-34710019.zip 파일, 크기 66,961 바이트, 지원되지 않는 파일 형식",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "손죽019-34710019.zip 파일은 지원되지 않는 파일 유형입니다.",
+      "파일 크기는 66,961 바이트입니다.",
+      "파일 내용 추출이 불가능합니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "손죽019-34710019",
+      "zip",
+      "지원되지 않는 파일 유형"
+    ]
+  }
+}

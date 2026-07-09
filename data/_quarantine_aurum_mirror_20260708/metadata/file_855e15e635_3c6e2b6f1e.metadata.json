@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_855e15e635.txt",
+  "source_name": "file_855e15e635.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:49:59+09:00",
+  "processed_at": "2026-07-08T13:50:07+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_855e15e635_3c6e2b6f1e.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_855e15e635_3c6e2b6f1e.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "오폐수처리시설 방류지점 변경과 관련된 토지이용계획 자료입니다.",
+      "해당 문서는 고흥 산단 설계자료의 일환으로 작성되었습니다.",
+      "방류지점의 위치 및 주변 토지 이용 현황을 포함하고 있습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "토지이용계획",
+      "방류지점",
+      "오폐수처리시설"
+    ]
+  }
+}

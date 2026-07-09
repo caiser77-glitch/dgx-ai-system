@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 연구보고서
+● 핵심 키워드: 사전환경성검토서, 협의내용, OCR 오류
+● 3줄 요약:
+- 사전환경성검토서의 협의내용 반영 여부를 확인하기 위한 PDF 문서입니다.
+- 파일 크기는 약 13.5MB이며, OCR 처리 과정에서 오류가 발생하였습니다.
+- URL 내 제어 문자 포함으로 인해 파일 내용 추출이 불가능한 상태입니다.
+=========================================
+source_name: 우주센터-13000(사전환경성검토서 협의내용 반영여부).pdf
+source_type: pdf
+size_bytes: 13496074
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/우주센터-13000(사전환경성검토서 협의내용 반영여부)_pages_1_taxa.xlsx' (found at least ' ')

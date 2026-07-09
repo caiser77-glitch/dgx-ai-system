@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/file_59a9d375db.txt",
+  "source_name": "file_59a9d375db.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:02:02+09:00",
+  "processed_at": "2026-07-08T12:02:09+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/file_59a9d375db_cefcfc6c07.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/file_59a9d375db_cefcfc6c07.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "현장조사 시 활용되는 안전점검 체크리스트 양식 문서입니다.",
+      "문서의 파일 크기는 87,552 바이트입니다.",
+      "해당 파일은 내용 추출이 지원되지 않는 유형입니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "안전점검",
+      "체크리스트",
+      "현장조사"
+    ]
+  }
+}

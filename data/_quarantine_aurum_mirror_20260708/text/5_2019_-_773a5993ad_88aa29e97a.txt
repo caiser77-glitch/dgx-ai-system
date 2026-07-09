@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 전국자연환경조사, 아산, 양서파충류
+● 3줄 요약:
+- 제5차 전국자연환경조사의 2019년도 아산 지역 양서파충류 조사 결과 문서입니다.
+- 파일 크기는 약 949KB이며, OCR 처리 과정에서 오류가 발생하였습니다.
+- 파일 경로 내 공백 포함으로 인해 URL 접근 및 데이터 추출에 문제가 확인되었습니다.
+=========================================
+source_name: 제5차 전국자연환경조사 2019 아산-양서파충류.pdf
+source_type: pdf
+size_bytes: 949201
+content_extraction: unsupported_file_type
+ocr_error: URL can't contain control characters. '/outputs/제5차 전국자연환경조사 2019 아산-양서파충류_pages_1_taxa.xlsx' (found at least ' ')

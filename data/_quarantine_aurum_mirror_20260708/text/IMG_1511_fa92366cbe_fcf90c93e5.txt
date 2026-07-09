@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 무인카메라, 산속, Prometheus
+● 3줄 요약:
+- 산속 무인카메라로 촬영된 사진
+- 2020년 2월 6일 21시 09분 55초에 촬영
+- Prometheus BTC-5PXD 카메라 사용
+=========================================
+source_name: IMG_1511.JPG
+source_type: jpg
+size_bytes: 2950945
+path: /mnt/dgxbackup/2026 이산/포항-안동/02. 사진/2026.03.12-13/산속 무인카메라/101_BTCF/IMG_1511.JPG
+width: 4208
+height: 2368
+mode: RGB
+format: MPO
+datetime_taken: 2020:02:06 21:09:55
+camera_make: Prometheus
+camera_model: BTC-5PXD

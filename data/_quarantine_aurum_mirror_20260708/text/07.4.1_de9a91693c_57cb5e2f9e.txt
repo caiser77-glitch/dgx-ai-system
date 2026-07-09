@@ -1,0 +1,13 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 행정문서
+● 핵심 키워드: PDF, 파일크기, OCR에러
+● 3줄 요약:
+- 해당 문서는 PDF 형식의 파일로 크기는 약 4.39MB입니다.
+- 파일 유형 문제로 인해 문서 내용 추출이 지원되지 않습니다.
+- OCR 처리 과정에서 'ascii' 코덱 관련 인코딩 에러가 발생했습니다.
+=========================================
+source_name: (본안)+07.4.1+토지이용(국가종합비행성능시험장).pdf
+source_type: pdf
+size_bytes: 4393496
+content_extraction: unsupported_file_type
+ocr_error: 'ascii' codec can't encode characters in position 14-15: ordinal not in range(128)

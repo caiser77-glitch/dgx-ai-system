@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/R0060447_e6cc077abd.txt",
+  "source_name": "R0060447_e6cc077abd.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T10:14:55+09:00",
+  "processed_at": "2026-07-08T10:15:03+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/R0060447_e6cc077abd_19ed252478.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/R0060447_e6cc077abd_19ed252478.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "제공된 데이터는 이미지 파일(R0060447.jpg)에 대한 메타데이터 정보입니다.",
+      "파일의 크기는 88,517 바이트이며 해상도는 400x300 픽셀입니다.",
+      "경로를 통해 소래포구 지역의 해충 모니터링 관련 사진임을 알 수 있습니다."
+    ],
+    "category": "기타",
+    "keywords": [
+      "이미지 메타데이터",
+      "해충 모니터링",
+      "소래포구"
+    ]
+  }
+}

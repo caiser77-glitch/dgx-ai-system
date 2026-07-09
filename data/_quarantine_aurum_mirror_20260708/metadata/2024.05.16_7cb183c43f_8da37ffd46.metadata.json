@@ -1,0 +1,39 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2024.05.16_7cb183c43f.txt",
+  "source_name": "2024.05.16_7cb183c43f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T00:29:04+09:00",
+  "processed_at": "2026-06-23T00:30:37+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2024.05.16_7cb183c43f_8da37ffd46.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2024.05.16_7cb183c43f_8da37ffd46.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "class_name": "행정문서",
+    "summary": "2024년 5월 16일 육수 종료 관련 영수증 이미지\nJPEG 형식, RGB 모드, 640x1563 픽셀 크기\n247,409 바이트 크기의 파일",
+    "tags": [
+      "#영수증",
+      "#육수 종료",
+      "#2024.05.16"
+    ],
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 5월 16일 육수 종료 관련 영수증 이미지",
+      "JPEG 형식, RGB 모드, 640x1563 픽셀 크기",
+      "247,409 바이트 크기의 파일"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "영수증",
+      "육수 종료",
+      "2024.05.16"
+    ]
+  }
+}

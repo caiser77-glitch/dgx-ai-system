@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.05_c946ab94a4.txt",
+  "source_name": "2026.02.05_c946ab94a4.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:13:45+09:00",
+  "processed_at": "2026-06-23T17:14:48+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.05_c946ab94a4_6dcf864806.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.05_c946ab94a4_6dcf864806.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "안산장상 생태조사",
+    "class_name": "파충류",
+    "tags": [
+      "#파충류",
+      "#안산장상",
+      "#생태조사"
+    ],
+    "summary": "2026년 2월 5일 안산장상에서 촬영된 파충류 이미지. 크기는 2480x3507 픽셀이며, OCR 처리 중 에러 발생.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 5일 안산장상에서 촬영된 파충류 사진",
+      "JPEG 형식, 2480x3507 픽셀, 481,915 바이트 크기",
+      "OCR 처리 시 서버 오류 발생"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "안산장상",
+      "파충류",
+      "사진"
+    ]
+  }
+}

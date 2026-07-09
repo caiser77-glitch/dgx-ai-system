@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/C0021001-001_006__260113_f45594be78.txt",
+  "source_name": "C0021001-001_006__260113_f45594be78.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:39:51+09:00",
+  "processed_at": "2026-07-08T11:39:58+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/C0021001-001_006__260113_f45594be78_b1b29fb27b.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/C0021001-001_006__260113_f45594be78_b1b29fb27b.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "AutoCAD 도면 파일(C0021001-001~006) 업로드 및 관련 XREF 파일 연결 작업 수행",
+      "플롯 설정 파일(.ctb) 및 다양한 폰트 파일(SHX, TTF 등) 포함 데이터 구성",
+      "FONTALT 설정을 통한 특정 폰트 대체 및 외부 참조 파일 경로 최적화"
+    ],
+    "category": "장비",
+    "keywords": [
+      "AutoCAD",
+      "DWG",
+      "XREF",
+      "CTB",
+      "폰트"
+    ]
+  }
+}

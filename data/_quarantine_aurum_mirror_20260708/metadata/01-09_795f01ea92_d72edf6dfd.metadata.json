@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/01-09_795f01ea92.txt",
+  "source_name": "01-09_795f01ea92.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:39:53+09:00",
+  "processed_at": "2026-07-08T13:40:01+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/01-09_795f01ea92_d72edf6dfd.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/01-09_795f01ea92_d72edf6dfd.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "여러 시트로 구성된 엑셀 파일로 임목 및 비옥토 관련 데이터를 포함하고 있음",
+      "임목폐기물 수량 산출 및 벌개제근수량 등 임목 관리 정보를 제공함",
+      "비옥토의 수량 집계, 적치장 단위, 산출 조서 등 상세 관리 데이터를 포함함"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "임목폐기물",
+      "비옥토",
+      "산림조사"
+    ]
+  }
+}

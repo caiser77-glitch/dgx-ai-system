@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.23_2_fa6453806f.txt",
+  "source_name": "2026.02.23_2_fa6453806f.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:33:13+09:00",
+  "processed_at": "2026-06-23T17:34:13+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.23_2_fa6453806f_c97797de25.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.23_2_fa6453806f_c97797de25.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 LH",
+    "project_name": "평택통복 사후",
+    "class_name": "야장",
+    "tags": [
+      "#야장",
+      "#평택통복",
+      "#2026"
+    ],
+    "summary": "2026년 2월 23일 평택통복 탐문 관련 야장 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 23일 평택통복 지역에 대한 탐문 조사 기록 사진",
+      "JPEG 형식, 2480x3507 픽셀 크기의 흑백 이미지",
+      "1분기 야장 자료로 분류"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "평택통복",
+      "탐문조사",
+      "야장"
+    ]
+  }
+}

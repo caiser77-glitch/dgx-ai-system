@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/Canon_PowerShot_SX70_HS_293_-_8c28bf10c6.txt",
+  "source_name": "Canon_PowerShot_SX70_HS_293_-_8c28bf10c6.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T22:26:31+09:00",
+  "processed_at": "2026-06-23T22:27:43+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/Canon_PowerShot_SX70_HS_293_-_8c28bf10c6_c1c1b03939.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/Canon_PowerShot_SX70_HS_293_-_8c28bf10c6_c1c1b03939.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 AURUM",
+    "project_name": "고흥 산단",
+    "class_name": "개 배설물",
+    "tags": [
+      "#고흥산단",
+      "#개배설물",
+      "#CanonPowerShotSX70HS"
+    ],
+    "summary": "2025년 3월 25일 촬영된 Canon PowerShot SX70 HS 카메라로 촬영한 개 배설물 추정 사진.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2025년 3월 25일 09:44:50에 촬영된 개 배설물 추정 사진",
+      "Canon PowerShot SX70 HS 카메라로 촬영, GPS 좌표: 34.452023, 127.493408",
+      "사진 크기: 5184x3888, RGB 모드, MPO 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "개 배설물",
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표"
+    ]
+  }
+}

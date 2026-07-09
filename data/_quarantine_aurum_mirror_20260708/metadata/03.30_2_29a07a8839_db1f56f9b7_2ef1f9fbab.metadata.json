@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03.30_2_29a07a8839_db1f56f9b7.txt",
+  "source_name": "03.30_2_29a07a8839_db1f56f9b7.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:28:58+09:00",
+  "processed_at": "2026-07-08T11:29:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03.30_2_29a07a8839_db1f56f9b7_2ef1f9fbab.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03.30_2_29a07a8839_db1f56f9b7_2ef1f9fbab.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "하천 식생 단면도 사진",
+      "2026 장맥 서산 남부일반산업단지 진입도로 프로젝트 관련",
+      "야장 자료에 포함"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "하천",
+      "식생",
+      "단면도"
+    ]
+  }
+}

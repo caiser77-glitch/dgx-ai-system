@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/4_2018_-_7fcfb407a2.txt",
+  "source_name": "4_2018_-_7fcfb407a2.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T13:45:39+09:00",
+  "processed_at": "2026-07-08T13:45:46+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/4_2018_-_7fcfb407a2_501cc91162.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/4_2018_-_7fcfb407a2_501cc91162.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2018년 증평 지역의 식물 조사 결과를 담은 문서입니다.",
+      "PDF 파일 처리 과정에서 OCR 오류가 발생하였습니다.",
+      "파일 경로 내 공백 포함으로 인해 URL 접근 오류가 확인되었습니다."
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "증평",
+      "식물조사",
+      "OCR오류"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/2026.02.11_1_5b0f1fae68.txt",
+  "source_name": "2026.02.11_1_5b0f1fae68.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-23T17:26:19+09:00",
+  "processed_at": "2026-06-23T17:26:41+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/2026.02.11_1_5b0f1fae68_71b447a327.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/2026.02.11_1_5b0f1fae68_71b447a327.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 대일소각",
+    "project_name": "대일소각장",
+    "class_name": "식물상",
+    "tags": [
+      "#식물상",
+      "#대일소각장",
+      "#2026"
+    ],
+    "summary": "2026년 2월 11일 대일소각장에서 촬영한 식물상 이미지",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2026년 2월 11일 대일소각장에서 촬영한 식물상 이미지",
+      "JPEG 형식, 2480x3507 픽셀, 595,297 바이트 크기",
+      "흑백 모드(L)로 저장된 사진"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "대일소각장",
+      "식물상",
+      "현장조사"
+    ]
+  }
+}

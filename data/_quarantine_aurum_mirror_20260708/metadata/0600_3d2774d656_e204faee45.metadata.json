@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/0600_3d2774d656.txt",
+  "source_name": "0600_3d2774d656.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:19:02+09:00",
+  "processed_at": "2026-07-08T12:19:10+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/0600_3d2774d656_e204faee45.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/0600_3d2774d656_e204faee45.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "주민 의견 수렴을 위한 수정된 PDF 파일 문서입니다.",
+      "파일 크기는 약 7.8MB이며, OCR 처리 과정에서 오류가 발생했습니다.",
+      "에러 원인은 ASCII 인코딩 범위를 벗어난 문자 처리 실패로 확인됩니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "주민 의견",
+      "PDF",
+      "OCR 에러"
+    ]
+  }
+}

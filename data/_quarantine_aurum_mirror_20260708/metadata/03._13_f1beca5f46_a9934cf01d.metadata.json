@@ -1,0 +1,43 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/03._13_f1beca5f46.txt",
+  "source_name": "03._13_f1beca5f46.txt",
+  "source_type": "txt",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T11:51:57+09:00",
+  "processed_at": "2026-07-08T11:52:05+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03._13_f1beca5f46_a9934cf01d.txt",
+    "tables": [],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03._13_f1beca5f46_a9934cf01d.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "TXT",
+    "class_name": "TXT",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#TXT"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "용지조서 파일이 엑셀 형식으로 제공됨",
+      "파일 크기는 212,992 바이트임",
+      "내용 추출이 지원되지 않는 파일 유형임"
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "용지조서",
+      "엑셀",
+      "지원되지 않음"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+[AI 기반 사전 요약 및 메타데이터]
+● 분류 카테고리: 현장조사
+● 핵심 키워드: 무인카메라, 사진, Prometheus
+● 3줄 요약:
+- 2026년 2월 9일 14시 00분 18초에 촬영된 무인카메라 사진
+- Prometheus BTC-5PXD 카메라로 촬영, MPO 형식, RGB 모드
+- 해상도 4208x2368, 파일 크기 2,850,160 바이트
+=========================================
+source_name: IMG_2700.JPG
+source_type: jpg
+size_bytes: 2850160
+path: /mnt/dgxbackup/2026 이산/포항-안동/02. 사진/2026.03.12-13/무덤옆 무인카메라/IMG_2700.JPG
+width: 4208
+height: 2368
+mode: RGB
+format: MPO
+datetime_taken: 2026:02:09 14:00:18
+camera_make: Prometheus
+camera_model: BTC-5PXD

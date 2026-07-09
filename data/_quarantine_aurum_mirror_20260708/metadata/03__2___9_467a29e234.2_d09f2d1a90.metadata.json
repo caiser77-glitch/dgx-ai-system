@@ -1,0 +1,45 @@
+{
+  "source_path": "/Users/nams/nas_mnt/nas2026/_AURUM_AI_PROCESSED/processed/tables/03__2___9_467a29e234.2.csv",
+  "source_name": "03__2___9_467a29e234.2.csv",
+  "source_type": "csv",
+  "device_name": "aurum_macbook",
+  "detected_at": "2026-07-08T12:00:56+09:00",
+  "processed_at": "2026-07-08T12:01:02+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/Users/nams/AI_BASE/data/processed/text/03__2___9_467a29e234.2_d09f2d1a90.txt",
+    "tables": [
+      "/Users/nams/AI_BASE/data/processed/tables/03__2___9_467a29e234.2_d09f2d1a90.csv"
+    ],
+    "metadata": "/Users/nams/AI_BASE/data/processed/metadata/03__2___9_467a29e234.2_d09f2d1a90.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "unknown",
+    "project_name": "unknown",
+    "taxon_group": "미확정",
+    "document_type": "CSV",
+    "class_name": "CSV",
+    "tags": [
+      "#Users",
+      "#nams",
+      "#CSV"
+    ],
+    "summary": "Hermes binary not found locally.",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "손해배상공제료 산출을 위한 세부 내역이 포함된 데이터 파일입니다.",
+      "총 865개의 행으로 구성되어 있으며 CSV 형식의 문서입니다.",
+      "별첨2 양식에 따른 공제료 산출 근거를 담고 있습니다."
+    ],
+    "category": "행정문서",
+    "keywords": [
+      "손해배상공제료",
+      "산출내역",
+      "CSV데이터"
+    ]
+  }
+}

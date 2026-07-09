@@ -1,0 +1,46 @@
+{
+  "source_path": "/mnt/nas2026/_AURUM_AI_PROCESSED/processed/text/IMG_0281_42ce726415.txt",
+  "source_name": "IMG_0281_42ce726415.txt",
+  "source_type": "txt",
+  "device_name": "overnight_batch",
+  "detected_at": "2026-06-29T14:34:58+09:00",
+  "processed_at": "2026-06-29T14:35:24+09:00",
+  "status": "success",
+  "outputs": {
+    "text": "/home/caiser77/dgx_workspace/data/processed/text/IMG_0281_42ce726415_6679ee48ac.txt",
+    "tables": [],
+    "metadata": "/home/caiser77/dgx_workspace/data/processed/metadata/IMG_0281_42ce726415_6679ee48ac.metadata.json"
+  },
+  "error": null,
+  "ai_classification": {
+    "year_vendor": "2026 홍익기술",
+    "project_name": "진천초평산업단지",
+    "taxon_group": "미확정",
+    "document_type": "사진",
+    "class_name": "사진",
+    "tags": [
+      "#_AURUM_AI_PROCESSED",
+      "#processed",
+      "#TXT",
+      "#사진",
+      "#Canon",
+      "#GPS"
+    ],
+    "summary": "2024년 4월 4일 Canon PowerShot SX70 HS로 촬영된 사진. GPS 좌표: 36.795067, 127.524123",
+    "is_ambiguous": false,
+    "question": ""
+  },
+  "ai_summary": {
+    "summary": [
+      "2024년 4월 4일에 촬영된 Canon PowerShot SX70 HS 카메라로 찍은 사진",
+      "위치: GPS 좌표 (36.795067, 127.524123)에서 촬영",
+      "사진 크기: 5184x3888 픽셀, RGB 모드, MPO 형식"
+    ],
+    "category": "현장조사",
+    "keywords": [
+      "Canon PowerShot SX70 HS",
+      "GPS 좌표",
+      "사진"
+    ]
+  }
+}
