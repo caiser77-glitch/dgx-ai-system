@@ -1,0 +1,35 @@
+{
+  // VSCode 성능 최적화 — 파이프라인 생성물(96만+ 파일) 감시/인덱싱 제외
+  // .gitignore 패턴 미러링 (2026-07-09 by Claude). 워처 제외가 핵심.
+  "files.watcherExclude": {
+    "**/.git/**": true,
+    "**/venv/**": true,
+    "**/node_modules/**": true,
+    "**/__pycache__/**": true,
+    "**/data/**": true,
+    "**/logs/**": true,
+    "**/cache/**": true,
+    "**/outputs/**": true,
+    "**/uploads/**": true,
+    "**/.obsidian/**": true,
+    "**/.trash/**": true,
+    "**/.smart-env/**": true
+  },
+  "search.exclude": {
+    "**/venv": true,
+    "**/node_modules": true,
+    "**/__pycache__": true,
+    "**/data/indexes": true,
+    "**/data/processed": true,
+    "**/logs": true,
+    "**/cache": true,
+    "**/outputs": true,
+    "**/*.log": true,
+    "**/*.db": true
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/.DS_Store": true
+  }
+}
