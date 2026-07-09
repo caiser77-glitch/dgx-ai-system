@@ -65,5 +65,8 @@ data/atom_watcher/
 cache/
 **/analysis_temp/
 **/Legacy_Pipelines/**/Vector_DB/
+**/Legacy_Pipelines/**/03_Processed_Data/Papers_Markdown/
+**/Legacy_Pipelines/**/03_Processed_Data/Images/
+**/Legacy_Pipelines/**/03_Processed_Data/Attachments/
 **/pending_queue.jsonl
 **/last_pending.json
