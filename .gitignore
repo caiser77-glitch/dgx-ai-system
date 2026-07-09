@@ -60,3 +60,10 @@ obsidian/.trash/
 .env.production.local
 # Atom watcher baseline runtime DB
 data/atom_watcher/
+
+# ── 생성물/런타임 아티팩트 (2026-07-09 히스토리 다이어트) ──
+cache/
+**/analysis_temp/
+**/Legacy_Pipelines/**/Vector_DB/
+**/pending_queue.jsonl
+**/last_pending.json
