@@ -8,7 +8,6 @@ import json
 import time
 import glob
 import subprocess
-import threading
 from pathlib import Path
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
@@ -16,12 +15,9 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 METADATA_DIR = PROCESSED_DIR / "metadata"
-NAS_SCAN_ROOT = "/mnt"
-TARGET_EXTENSIONS = [".pdf", ".docx", ".txt", ".pptx", ".xlsx", ".csv", ".hwp", ".hwpx", ".xls"]
-
-# 전수조사 대상 총량 추정치 (하드코딩 대신 백그라운드에서 주기적으로 재계산)
-total_files_estimate = 94513
-total_files_lock = threading.Lock()
+TOTAL_FILES = 94513
+# 005 아톰-모하비-아우룸 협업 파이프라인 스테이징 루트 (아톰)
+PIPELINE_ROOT = Path("/home/caiser77/AI_BASE")
 
 def get_gpu_status():
     try:
@@ -91,34 +87,95 @@ def get_mac_status():
         "status": "Sleeping"
     }
 
-# 파일별 status 판정 캐시: path -> (mtime, is_success 또는 None(처리중/손상))
-# 매 5초마다 전체를 다시 json.load 하면 파일이 20만개 넘는 시점에 감당이 안 되므로
-# mtime이 바뀌지 않은 파일은 캐시된 판정을 재사용한다.
-_status_cache = {}
+# AI 요약 결과가 '미생성/실패' 인지 판정하기 위한 마커
+# (예: "요약을 생성하지 못했습니다.", "Hermes binary not found locally.")
+SUMMARY_FAIL_MARKERS = ("생성하지 못", "not found", "hermes binary")
 
-def _resolve_status(path, size, mtime):
-    cached = _status_cache.get(path)
-    if cached is not None and cached[0] == mtime:
-        return cached[1]
+# 틱당 상세 read 상한 (요약본이 늘어나도 서버가 멈추지 않도록 하는 성능 가드)
+READ_CAP = 60000
 
-    if size < 64:
-        # 아직 쓰는 중이거나 비정상적으로 작은 파일 -> 완료도 실패도 아닌 "처리중"으로 취급
-        _status_cache[path] = (mtime, None)
-        return None
 
+def _summary_state(meta):
+    """메타데이터 1건의 실제 파이프라인 상태를 판정한다.
+
+    - 'extract_failed' : 텍스트 추출 자체가 실패 (status == failed)
+    - 'pending'        : 추출/분류는 됐으나 AI 요약이 아직 생성되지 않음
+    - 'failed'         : AI 요약을 시도했으나 실패 placeholder 만 존재
+    - 'done'           : 유효한 AI 요약이 정상 생성됨
+    """
+    if meta.get("status") == "failed":
+        return "extract_failed"
+    summary_block = meta.get("ai_summary")
+    if not summary_block:
+        return "pending"
+    summ = summary_block.get("summary")
+    txt = " ".join(summ) if isinstance(summ, list) else str(summ or "")
+    low = txt.lower()
+    if not txt.strip() or any(m in txt or m in low for m in SUMMARY_FAIL_MARKERS):
+        return "failed"
+    return "done"
+
+
+def _proc_alive(pat):
+    """프로세스 존재로 서비스 생존 판정(systemctl --user 세션 의존 회피)."""
     try:
-        with open(path, "r", encoding="utf-8") as f:
-            meta = json.load(f)
-        is_success = meta.get("status") == "success"
+        r = subprocess.run(["pgrep", "-f", pat], capture_output=True, text=True, timeout=3)
+        return "active" if r.returncode == 0 else "stopped"
     except Exception:
-        is_success = None
+        return "unknown"
 
-    _status_cache[path] = (mtime, is_success)
-    return is_success
+
+def get_pipeline_status():
+    """005 아톰-모하비-아우룸 협업 파이프라인의 실시간 작업 현황."""
+    p = PIPELINE_ROOT
+
+    def cnt(stage):
+        try:
+            return sum(1 for f in os.listdir(p / stage) if f.endswith(".summary.md"))
+        except Exception:
+            return 0
+
+    corpus, overnight = 0, ""
+    try:
+        st = json.load(open(p / "overnight_status.json", encoding="utf-8"))
+        corpus, overnight = st.get("corpus_docs", 0), st.get("updated", "")
+    except Exception:
+        pass
+    try:
+        nas = len({f.rsplit(".", 1)[0] for f in os.listdir(p / "NAS_Distribution") if "." in f})
+    except Exception:
+        nas = 0
+    mac = {}
+    try:
+        f = p / "pipeline_mac_status.json"
+        if time.time() - os.path.getmtime(f) < 900:
+            mac = json.load(open(f, encoding="utf-8"))
+    except Exception:
+        pass
+    return {
+        "raw": cnt("01_raw_analyzed"),
+        "drafting_atom": cnt("02_drafting"),
+        "review_pending": cnt("03_review_pending"),
+        "published": cnt("04_published"),
+        "nas_deliverables": nas,
+        "corpus_docs": corpus,
+        "overnight_updated": overnight,
+        "svc_engine": _proc_alive("pipeline_engine.py"),
+        "svc_tracker": _proc_alive("track_pipeline_status.py"),
+        "svc_deployer": _proc_alive("aurum_deployer.py"),
+        "admin_pending": mac.get("admin_pending", -1),
+        "mac_drafting": mac.get("drafting", -1),
+        "mac_launchd": mac.get("launchd", "unknown"),
+        "mac_updated": mac.get("updated", ""),
+    }
+
 
 def collect_metrics():
-    success_count = 0
-    failed_count = 0
+    catalogued = 0        # 텍스트 추출·분류가 끝나 카탈로그된 파일 수 (= metadata 파일 수)
+    summary_done = 0      # AI 요약 정상 완료
+    summary_failed = 0    # AI 요약 시도했으나 실패
+    summary_pending = 0   # AI 요약 대기 (아직 미시도)
+    extract_failed = 0    # 텍스트 추출 자체 실패
     recent_files_mac = []
     recent_files_atom = []
 
@@ -135,20 +192,31 @@ def collect_metrics():
         except Exception:
             pass
 
-        current_paths = set()
-        for path, _, size, mtime in file_entries:
-            current_paths.add(path)
-            is_success = _resolve_status(path, size, mtime)
-            if is_success is True:
-                success_count += 1
-            elif is_success is False:
-                failed_count += 1
-            # None(처리중/손상)은 성공도 실패도 아니므로 어느 쪽에도 집계하지 않는다
+        catalogued = len(file_entries)
+        # ai_summary 블록이 붙으면 파일이 1KB를 넘는다 → <1KB 는 read 없이 '요약 대기'로 확정(초고속).
+        # 1KB 이상인 소수 파일만 실제로 열어 요약 정상/실패를 정확히 구분한다.
+        big_entries = [e for e in file_entries if e[2] >= 1024]
+        summary_pending = catalogued - len(big_entries)
 
-        # 삭제/이동된 파일의 캐시 항목 정리 (무한 증가 방지)
-        for stale_path in (set(_status_cache) - current_paths):
-            del _status_cache[stale_path]
+        if len(big_entries) <= READ_CAP:
+            for path, _, _, _ in big_entries:
+                try:
+                    with open(path, "r", encoding="utf-8") as f:
+                        state = _summary_state(json.load(f))
+                except Exception:
+                    state = "failed"
+                if state == "done":
+                    summary_done += 1
+                elif state == "extract_failed":
+                    extract_failed += 1
+                else:
+                    summary_failed += 1
+        else:
+            # 상세 read 상한 초과 시 요약본이 있으면 완료로 근사하여 성능을 보호한다.
+            summary_done = len(big_entries)
 
+        # 최근 이력: mtime 최신순 상위 150개만 열어 맥북/아톰 각각 10개 확보
+        STATE_KR = {"done": "요약완료", "failed": "요약실패", "pending": "요약대기", "extract_failed": "추출실패"}
         file_entries.sort(key=lambda x: x[3], reverse=True)
         for path, name, _, mtime in file_entries[:150]:
             if len(recent_files_mac) >= 10 and len(recent_files_atom) >= 10:
@@ -156,18 +224,21 @@ def collect_metrics():
             try:
                 with open(path, "r", encoding="utf-8") as file:
                     meta = json.load(file)
-                status = meta.get("status", "success")
+                state = _summary_state(meta)
                 source_path = meta.get("source_path", "")
                 outputs = meta.get("outputs", {})
                 meta_path_str = outputs.get("metadata", "")
-                
+                category = (meta.get("ai_summary") or {}).get("category") \
+                    or (meta.get("ai_classification") or {}).get("taxon_group") \
+                    or meta.get("category", "미정")
+
                 item = {
-                    "filename": meta.get("filename", name.replace(".metadata.json", "")),
-                    "category": meta.get("ai_summary", {}).get("category", meta.get("category", "미정")),
-                    "status": "성공" if status == "success" else "실패",
+                    "filename": meta.get("filename", meta.get("source_name", name.replace(".metadata.json", ""))),
+                    "category": category,
+                    "status": STATE_KR.get(state, "요약대기"),
                     "time": time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(mtime))
                 }
-                
+
                 # 경로 명세를 기반으로 로컬 맥북 가공 여부 필터링
                 if "/Users/nams" in source_path or "/Users/nams" in meta_path_str:
                     if len(recent_files_mac) < 10:
@@ -178,24 +249,24 @@ def collect_metrics():
             except Exception:
                 pass
 
-    processed_count = success_count + failed_count
-    with total_files_lock:
-        # 스캔 추정치가 실제 처리량보다 뒤처져도(NAS 재스캔 지연 등) 210%처럼 100%를 넘겨 보이지 않도록 하한을 처리량으로 고정
-        total_files = max(total_files_estimate, processed_count)
-    progress_percent = (processed_count / total_files) * 100 if total_files > 0 else 0
-    remaining_count = max(total_files - processed_count, 0)
+    # 진행률: 실제 남은 작업인 'AI 요약' 완료율을 기준으로 하며 100%를 넘지 않도록 clamp.
+    # (기존엔 metadata 수 / 고정분모(94513) 라서 서버에서 210% 같은 값이 나왔다.)
+    summary_progress = round(min(summary_done / catalogued * 100, 100.0), 2) if catalogued else 0.0
+    catalog_progress = round(min(catalogued / TOTAL_FILES * 100, 100.0), 2) if TOTAL_FILES else 0.0
 
     cpu_val, ram_val = get_cpu_ram_status()
     gpu_info = get_gpu_status()
     mac_data = get_mac_status()
 
     return {
-        "success_count": success_count,
-        "failed_count": failed_count,
-        "processed_count": processed_count,
-        "progress_percent": round(progress_percent, 2),
-        "remaining_count": remaining_count,
-        "total_files": total_files,
+        "catalogued": catalogued,
+        "summary_done": summary_done,
+        "summary_failed": summary_failed,
+        "summary_pending": summary_pending,
+        "extract_failed": extract_failed,
+        "summary_progress": summary_progress,
+        "catalog_progress": catalog_progress,
+        "total_target": TOTAL_FILES,
         "atom": {
             "cpu": cpu_val,
             "ram": ram_val,
@@ -214,40 +285,22 @@ def collect_metrics():
             "workers": mac_data.get("workers", 0)
         },
         "recent_files_mac": recent_files_mac,
-        "recent_files_atom": recent_files_atom
+        "recent_files_atom": recent_files_atom,
+        "pipeline": get_pipeline_status()
     }
 
-# 전역 캐시 딕셔너리
+# 전역 캐시 딕셔너리 및 동기화 락
+import threading
 cached_data = {
-    "success_count": 0, "failed_count": 0, "processed_count": 0, "progress_percent": 0.0, "remaining_count": 0, "total_files": total_files_estimate,
+    "catalogued": 0, "summary_done": 0, "summary_failed": 0, "summary_pending": 0, "extract_failed": 0,
+    "summary_progress": 0.0, "catalog_progress": 0.0, "total_target": TOTAL_FILES,
     "atom": {"cpu": "N/A", "ram": "N/A", "temp": "N/A", "gpu_util": "N/A", "gpu_vram": "N/A", "gpu_temp": "N/A"},
     "mac": {"cpu": "Offline", "ram": "Offline", "gpu": "Offline", "temp": "Offline", "status": "Offline", "ollama": "Offline", "workers": 0},
-    "recent_files": []
+    "recent_files_mac": [], "recent_files_atom": [],
+    "pipeline": {"raw": 0, "drafting_atom": 0, "review_pending": 0, "published": 0, "nas_deliverables": 0,
+                 "corpus_docs": 0, "overnight_updated": "", "svc_engine": "unknown", "svc_tracker": "unknown",
+                 "svc_deployer": "unknown", "admin_pending": -1, "mac_drafting": -1, "mac_launchd": "unknown", "mac_updated": ""}
 }
-
-def total_files_updater_loop():
-    """전수조사 대상 총량(/mnt 내 확장자 매칭 파일 수)을 무겁지 않게 주기적으로 재계산.
-    NAS 트리 전체를 find로 훑는 건 느릴 수 있어 5초짜리 메트릭 루프와 분리하고,
-    타임아웃 시 이전 추정치를 그대로 유지한다."""
-    global total_files_estimate
-    find_args = ["find", NAS_SCAN_ROOT, "-type", "f", "("]
-    for i, ext in enumerate(TARGET_EXTENSIONS):
-        if i > 0:
-            find_args.append("-o")
-        find_args += ["-iname", f"*{ext}"]
-    find_args.append(")")
-
-    while True:
-        try:
-            result = subprocess.run(find_args, capture_output=True, text=True, timeout=1800)
-            count = sum(1 for line in result.stdout.splitlines() if line.strip())
-            if count > 0:
-                with total_files_lock:
-                    total_files_estimate = count
-                print(f"[Total Files Updater] /mnt 대상 파일 재계산: {count}개", flush=True)
-        except Exception as e:
-            print(f"[Total Files Updater Error] {e}", file=sys.stderr, flush=True)
-        time.sleep(7200)  # 2시간마다 재계산 (NAS I/O 부하 고려)
 
 def cache_updater_loop():
     global cached_data
@@ -585,6 +638,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             background: rgba(248, 113, 113, 0.12);
             color: var(--accent-red);
         }
+
+        .badge-pending {
+            background: rgba(148, 163, 184, 0.12);
+            color: var(--text-sub);
+        }
     </style>
 </head>
 <body>
@@ -606,30 +664,61 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <div class="metric-grid">
         <div class="metric-card">
             <div class="metric-value" id="val-processed">0</div>
-            <div class="metric-label">총 가공 처리 파일</div>
+            <div class="metric-label">카탈로그 완료 (추출·분류)</div>
         </div>
         <div class="metric-card">
             <div class="metric-value" style="color: var(--accent-green);" id="val-success">0</div>
-            <div class="metric-label">가공 성공 파일</div>
+            <div class="metric-label">AI 요약 완료</div>
         </div>
         <div class="metric-card">
             <div class="metric-value" style="color: var(--accent-red);" id="val-failed">0</div>
-            <div class="metric-label">가공 실패 파일</div>
+            <div class="metric-label">AI 요약 실패</div>
         </div>
         <div class="metric-card">
             <div class="metric-value" style="color: #cbd5e1;" id="val-remaining">0</div>
-            <div class="metric-label">남은 대기 파일</div>
+            <div class="metric-label">AI 요약 대기</div>
         </div>
     </div>
 
     <!-- 진행 바 세션 -->
     <div class="progress-section">
         <div class="progress-info">
-            <div class="progress-title">전수 조사 진행률</div>
+            <div class="progress-title">AI 요약 진행률 <span style="color: var(--text-sub); font-weight: 400; font-size: 0.85rem;" id="catalog-info"></span></div>
             <div class="progress-percentage" id="progress-text">0%</div>
         </div>
         <div class="progress-bar-bg">
             <div class="progress-bar-fill" id="progress-bar"></div>
+        </div>
+    </div>
+
+    <!-- 005 아톰·아우룸맥 협업 파이프라인 현황 -->
+    <div class="progress-section" style="margin-top:16px;">
+        <div class="progress-info">
+            <div class="progress-title">🔄 아톰·아우룸맥 협업 파이프라인 (법정보호종 보고서)
+                <span style="color: var(--text-sub); font-weight: 400; font-size: 0.8rem;" id="pipe-updated"></span>
+            </div>
+        </div>
+        <div class="hw-grid" style="margin-top: 12px;">
+            <div class="hw-metric">
+                <div class="hw-metric-label">📄 배포 완료(납품물)</div>
+                <div class="hw-metric-value" id="pipe-published" style="color: var(--accent-green);">-</div>
+            </div>
+            <div class="hw-metric">
+                <div class="hw-metric-label">✅ 관리자 승인대기</div>
+                <div class="hw-metric-value" id="pipe-admin" style="color: #fbbf24;">-</div>
+            </div>
+            <div class="hw-metric">
+                <div class="hw-metric-label">⚙️ 처리중(추출·초안·검토)</div>
+                <div class="hw-metric-value" id="pipe-inflight">-</div>
+            </div>
+            <div class="hw-metric">
+                <div class="hw-metric-label">🌙 클린 코퍼스(야간 재추출)</div>
+                <div class="hw-metric-value" id="pipe-corpus" style="color: var(--accent-blue);">-</div>
+            </div>
+        </div>
+        <div style="margin-top: 12px; font-size: 0.85rem; color: var(--text-sub); display:flex; gap:24px; flex-wrap:wrap;">
+            <span>🤖 아톰: <span id="pipe-svc-atom">-</span></span>
+            <span>💻 아우룸맥: <span id="pipe-svc-mac">-</span></span>
         </div>
     </div>
 
@@ -757,14 +846,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 const data = await response.json();
 
                 // 1. 최상단 지표 갱신
-                document.getElementById('val-processed').innerText = data.processed_count.toLocaleString();
-                document.getElementById('val-success').innerText = data.success_count.toLocaleString();
-                document.getElementById('val-failed').innerText = data.failed_count.toLocaleString();
-                document.getElementById('val-remaining').innerText = data.remaining_count.toLocaleString();
+                document.getElementById('val-processed').innerText = data.catalogued.toLocaleString();
+                document.getElementById('val-success').innerText = data.summary_done.toLocaleString();
+                document.getElementById('val-failed').innerText = data.summary_failed.toLocaleString();
+                document.getElementById('val-remaining').innerText = data.summary_pending.toLocaleString();
 
-                // 2. 진행률 바 갱신
-                document.getElementById('progress-text').innerText = data.progress_percent + '%';
-                document.getElementById('progress-bar').style.width = data.progress_percent + '%';
+                // 2. 진행률 바 갱신 (실제 잔여 작업 = AI 요약 기준, 100% clamp)
+                document.getElementById('progress-text').innerText = data.summary_progress + '%';
+                document.getElementById('progress-bar').style.width = data.summary_progress + '%';
+                document.getElementById('catalog-info').innerText =
+                    `· 카탈로그 ${data.catalogued.toLocaleString()}건 (${data.catalog_progress}%)`
+                    + (data.extract_failed ? ` · 추출실패 ${data.extract_failed.toLocaleString()}` : '');
 
                 // 3. 아톰 리소스 갱신
                 document.getElementById('atom-cpu').innerText = data.atom.cpu;
@@ -787,12 +879,30 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 document.getElementById('mac-title-status').innerText = data.mac.cpu === 'Offline' ? 'Offline' : 'Online';
                 document.getElementById('mac-title-status').style.color = data.mac.cpu === 'Offline' ? 'var(--accent-red)' : 'var(--accent-green)';
 
+                // 4.5 005 협업 파이프라인 현황
+                if (data.pipeline) {
+                    const pp = data.pipeline;
+                    document.getElementById('pipe-published').innerText = (pp.published || 0).toLocaleString();
+                    document.getElementById('pipe-admin').innerText = (pp.admin_pending >= 0 ? pp.admin_pending : '—');
+                    document.getElementById('pipe-inflight').innerText = ((pp.raw||0)+(pp.drafting_atom||0)+(pp.review_pending||0));
+                    document.getElementById('pipe-corpus').innerText = (pp.corpus_docs || 0).toLocaleString();
+                    document.getElementById('pipe-updated').innerText = pp.overnight_updated ? ('· 코퍼스 갱신 ' + pp.overnight_updated) : '';
+                    const dot = (s) => s === 'active' ? '🟢' : (s === 'stopped' ? '🔴' : '⚪');
+                    document.getElementById('pipe-svc-atom').innerText =
+                        `엔진${dot(pp.svc_engine)} 추적기${dot(pp.svc_tracker)} 배포기${dot(pp.svc_deployer)}`;
+                    document.getElementById('pipe-svc-mac').innerText =
+                        `launchd ${pp.mac_launchd === 'active' ? '🟢' : (pp.mac_launchd === 'inactive' ? '🔴' : '⚪')}`
+                        + (pp.mac_drafting > 0 ? ` · 초안작성중 ${pp.mac_drafting}` : '')
+                        + (pp.mac_updated ? ` (${pp.mac_updated})` : '');
+                }
+
                 // 5. 가공 이력 테이블 갱신 (부드럽게 각각 덮어쓰기)
                 const buildTableRows = (files) => {
                     let html = '';
                     if (files && files.length > 0) {
                         files.forEach(file => {
-                            const badgeClass = file.status === '성공' ? 'badge-success' : 'badge-fail';
+                            const badgeClass = file.status === '요약완료' ? 'badge-success'
+                                : (file.status === '요약대기' ? 'badge-pending' : 'badge-fail');
                             html += `
                                 <tr>
                                     <td>${file.filename}</td>
@@ -883,10 +993,6 @@ def run(server_class=HTTPServer, handler_class=LiveMonitorHandler, port=8502):
     # 백그라운드 캐시 수집 데몬 활성화
     t = threading.Thread(target=cache_updater_loop, daemon=True)
     t.start()
-
-    # 전수조사 대상 총량 백그라운드 재계산 데몬 활성화
-    t2 = threading.Thread(target=total_files_updater_loop, daemon=True)
-    t2.start()
 
     server_address = ('', port)
     httpd = server_class(server_address, handler_class)
