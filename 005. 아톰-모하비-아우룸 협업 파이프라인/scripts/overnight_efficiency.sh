@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # 005/monitoring — 야간 효율화 배치 래퍼 (아톰). 21시~06시에만 실행.
 # Created: 2026-07-21 by Antigravity(Claude Opus 4.8)
+# Updated: 2026-07-22 by Antigravity(Claude Opus 4.8) — HWP 재추출 backfill 편입(같은 시간창·lock).
 # cron 이 상시 호출해도 시간창 밖이면 즉시 종료(안전). 중복실행 lock.
 set -uo pipefail
 
@@ -20,3 +21,13 @@ LOG=/home/caiser77/AI_BASE/overnight_efficiency.log
 BATCH="${OVERNIGHT_BATCH:-30}"
 
 "$VENV" "$PY" "$BATCH" >> "$LOG" 2>&1
+
+# ── HWP 재추출 backfill: 실패 HWP 본문을 hwp5txt로 복구(코퍼스 96% 회복). ──
+# 같은 시간창·lock 안에서 순차 실행. 회복 완료분은 자동 skip(idempotent).
+REEXTRACT=/home/caiser77/AI_BASE/reextract_hwp.py
+RELOG=/home/caiser77/AI_BASE/reextract_hwp.log
+REBATCH="${REEXTRACT_BATCH:-80}"
+if [ -f "$REEXTRACT" ]; then
+  echo "$(date '+%F %T') [reextract] batch=$REBATCH 시작" >> "$RELOG"
+  "$VENV" "$REEXTRACT" "$REBATCH" >> "$RELOG" 2>&1
+fi
