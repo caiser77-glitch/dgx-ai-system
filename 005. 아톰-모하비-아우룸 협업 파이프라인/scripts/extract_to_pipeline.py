@@ -91,6 +91,80 @@ def extract_text(path):
         except Exception: pass
     return nfc(t or "")
 
+import urllib.request
+
+def _clean_passage(s):
+    """PDF 추출 잡음 정리: 불릿 'w '/'ㅇ ', 과도 공백 축소."""
+    s = re.sub(r'(^|\s)[wㅇ]\s+', ' ', s)     # 불릿 마커 제거
+    s = re.sub(r' {2,}', ' ', s)
+    return s.strip()
+
+def _sentences(text):
+    """추출 blob을 문장 단위로 대략 분할."""
+    t = re.sub(r'\s+', ' ', text)
+    parts = re.split(r'(?<=[.。])\s+|(?<=다)\s+|(?<=함)\s+|(?<=음)\s+|(?<=됨)\s+', t)
+    return [_clean_passage(s) for s in parts if len(s.strip()) >= 15]
+
+def extract_overview(text):
+    """원문에서 조사 개요(기간·차수·지역·기관) 자동 추출."""
+    ov = {}
+    m = re.search(r'(20\d{2}\s*년\s*[0-9]\s*분기|[0-9]\s*차\s*년도?|[0-9]\s*분기)', text)
+    if m: ov["기간_차수"] = re.sub(r'\s+', '', m.group(1))
+    m = re.search(r'(사업|공사|지구|단지|정비사업)[^\n]{0,20}', text)
+    m2 = re.search(r'조사\s*지역[^\n]{0,40}', text)
+    if m2: ov["조사지역"] = re.sub(r'\s+', ' ', m2.group(0))[:60]
+    m3 = re.search(r'((?:주식회사|㈜)?\s*아우룸생태연구소)', text)
+    ov["조사기관"] = "㈜아우룸생태연구소" if m3 else ""
+    return ov
+
+def species_passages(text, sp, n=3):
+    """특정 종이 등장하는 문장 중 서식/저감 맥락 문장 상위 n개."""
+    KW = re.compile(r'서식|이주|저감|웅덩이|산란|서식지|둥지|번식|출현|개체|이동|보호|펜스|울타리|모니터링|확인|포획')
+    out, seen = [], set()
+    for s in _sentences(text):
+        if sp in s and KW.search(s):
+            k = s[:40]
+            if k not in seen:
+                seen.add(k); out.append(s[:220])
+            if len(out) >= n:
+                break
+    return out
+
+def mitigation_passages(text, n=4):
+    KW = re.compile(r'저감\s*대책|저감\s*방안|이주|포획|보호\s*휀스|보호\s*펜스|대체\s*서식|모니터링|저감을|훼손')
+    out, seen = [], set()
+    for s in _sentences(text):
+        if KW.search(s):
+            k = s[:40]
+            if k not in seen:
+                seen.add(k); out.append(s[:220])
+            if len(out) >= n:
+                break
+    return out
+
+def disturbance_species(text):
+    m = re.search(r'생태계\s*교란[^\n]{0,120}', text)
+    return re.sub(r'\s+', ' ', m.group(0))[:150] if m else ""
+
+def vllm_overview(text):
+    """아톰 vLLM(Qwen)으로 3~4문장 개관 요약. 실패 시 빈 문자열."""
+    try:
+        chunk = text[:1600]   # vLLM max-model-len 4096 대비 안전 청크
+        payload = json.dumps({
+            "model": "Qwen/Qwen2.5-72B-Instruct-AWQ",
+            "messages": [
+                {"role": "system", "content": "생태조사 보고서 요약가. 아래 발췌를 3~4문장 한국어 존댓말로 요약. 사업/조사 성격·확인 종·핵심 조치만. 없는 사실 지어내지 말 것."},
+                {"role": "user", "content": chunk}],
+            "max_tokens": 220, "temperature": 0.2
+        }, ensure_ascii=False).encode("utf-8")
+        req = urllib.request.Request("http://localhost:8088/v1/chat/completions",
+                                     data=payload, headers={"Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=40) as r:
+            d = json.loads(r.read().decode("utf-8"))
+        return nfc(d["choices"][0]["message"]["content"].strip())
+    except Exception:
+        return ""
+
 def infer_meta(path):
     parts = [p for p in nfc(path).split("/") if p]
     year_vendor, project = "", ""
@@ -113,25 +187,47 @@ def make_job(path):
     year_vendor, project = infer_meta(path)
     src = os.path.basename(path)
     detected = sorted({s for s in PROTECTED if s and s in text})[:30]
+
+    # 구조화 상세 요약 구성 (전체 텍스트 대상 추출 + vLLM 개관)
+    ov = extract_overview(text)
+    dist = disturbance_species(text)
+    mits = mitigation_passages(text)
+    ai_overview = vllm_overview(text) if len(text) > 200 else ""
     preview = text[:PREVIEW_CHARS]
 
-    summary = (
-        "---\n"
-        "status: raw_analyzed\n"
-        "assigned_agent: Mohave\n"
-        f'source_file: "{src}"\n'
-        f'original_nas_path: "{path}"\n'
-        f'year_vendor: "{year_vendor}"\n'
-        f'project_name: "{project}"\n'
-        "document_type: 생태조사보고서\n"
-        f'detected_protected_species: {json.dumps(detected, ensure_ascii=False)}\n'
-        f'last_updated: "{now_iso()}"\n'
-        "---\n\n"
-        f"# {src} 1차 추출 요약\n\n"
-        f"## 추출 정보\n- 추출 글자수: {len(text):,}\n"
-        f"- 탐지된 법정보호종: {', '.join(detected) if detected else '자동탐지 없음(본문 확인 필요)'}\n\n"
-        f"## 원문(추출 텍스트, 상위 {PREVIEW_CHARS:,}자)\n```text\n{preview}\n```\n"
-    )
+    sp_sections = []
+    for sp in detected[:12]:
+        ps = species_passages(text, sp)
+        block = f"### {sp}\n" + ("\n".join(f"> {p}" for p in ps) if ps
+                                  else "> (본문 내 서식/저감 맥락 문구 미확인 — 종 출현만 기록)")
+        sp_sections.append(block)
+
+    L = ["---", "status: raw_analyzed", "assigned_agent: Mohave",
+         f'source_file: "{src}"', f'original_nas_path: "{path}"',
+         f'year_vendor: "{year_vendor}"', f'project_name: "{project}"',
+         f'survey_period: "{ov.get("기간_차수","")}"',
+         "document_type: 생태조사보고서",
+         f'detected_protected_species: {json.dumps(detected, ensure_ascii=False)}',
+         f'last_updated: "{now_iso()}"', "---", "",
+         f"# {src} 상세 1차 요약", "",
+         "## 📋 조사 개요",
+         f"- 사업명: {project or '미상'}",
+         f"- 조사 기간/차수: {ov.get('기간_차수','미확인')}",
+         f"- 조사 지역: {ov.get('조사지역','본문 참조')}",
+         f"- 조사 기관: {ov.get('조사기관') or '㈜아우룸생태연구소'}",
+         f"- 추출 글자수: {len(text):,}", ""]
+    if ai_overview:
+        L += ["## 🤖 AI 개관 (Qwen2.5-72B)", ai_overview, ""]
+    L += [f"## 🐸 확인된 법정보호종 ({len(detected)}종)",
+          (", ".join(detected) if detected else "자동탐지 없음(본문 확인 필요)"), ""]
+    if sp_sections:
+        L += sp_sections + [""]
+    if dist:
+        L += ["## 🌿 생태계교란종", f"- {dist}", ""]
+    if mits:
+        L += ["## 🛠️ 주요 조치·저감 내용"] + [f"- {m}" for m in mits] + [""]
+    L += [f"## 원문 발췌 (상위 {len(preview):,}자)", "```text", preview, "```"]
+    summary = "\n".join(L) + "\n"
     result = {
         "metadata": {"job_id": job_id, "source_file": src, "original_nas_path": path,
                      "timestamp": now_iso(), "extractor": "hangul_mcp.HWPParser"},
