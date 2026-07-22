@@ -158,8 +158,8 @@ def get_pipeline_status():
         pass
     return {
         "raw": cnt("01_raw_analyzed"),
-        "drafting_atom": cnt("02_drafting"),
-        "review_pending": cnt("03_review_pending"),
+        "drafting_atom": _drafting_count(),
+        "review_pending": _review_pending_count(),
         "published": cnt("04_published"),
         "nas_deliverables": nas,
         "corpus_docs": corpus,
@@ -167,7 +167,8 @@ def get_pipeline_status():
         "svc_engine": _proc_alive("pipeline_engine.py"),
         "svc_tracker": _proc_alive("track_pipeline_status.py"),
         "svc_deployer": _proc_alive("aurum_deployer.py"),
-        "admin_pending": mac.get("admin_pending", -1),
+        "admin_pending": _review_pending_count(),
+        "mac_admin_pending": mac.get("admin_pending", -1),
         "mac_drafting": mac.get("drafting", -1),
         "mac_launchd": mac.get("launchd", "unknown"),
         "mac_updated": mac.get("updated", ""),
@@ -303,7 +304,7 @@ cached_data = {
     "recent_files_mac": [], "recent_files_atom": [],
     "pipeline": {"raw": 0, "drafting_atom": 0, "review_pending": 0, "published": 0, "nas_deliverables": 0,
                  "corpus_docs": 0, "overnight_updated": "", "svc_engine": "unknown", "svc_tracker": "unknown",
-                 "svc_deployer": "unknown", "admin_pending": -1, "mac_drafting": -1, "mac_launchd": "unknown", "mac_updated": ""}
+                 "svc_deployer": "unknown", "admin_pending": 0, "mac_admin_pending": -1, "mac_drafting": -1, "mac_launchd": "unknown", "mac_updated": ""}
 }
 
 def cache_updater_loop():
@@ -323,6 +324,7 @@ JOB_ID_RE = re.compile(r"^[A-Za-z0-9_.-]+$")
 MAC_PIPELINE_SSH = os.environ.get("AURUM_MAC_SSH", "aurum-mac")
 MAC_PIPELINE_ROOT = os.environ.get("MOHAVE_PIPELINE_ROOT", "/Users/nams/AI_BASE/AurumPipeline_mohave")
 SYNCABLE_MAC_STATUSES = {"admin_pending", "review_pending", "reviewed"}
+BALANCER_SCRIPT = PROJECT_ROOT / "005. 아톰-모하비-아우룸 협업 파이프라인" / "scripts" / "pipeline_balancer.py"
 
 
 def _stage_dir(stage):
@@ -335,6 +337,63 @@ def _stage_dir(stage):
         "corpus": PIPELINE_ROOT / "clean_corpus",
     }
     return mapping.get(stage)
+
+
+def _published_job_ids():
+    published = _stage_dir("published")
+    if not published or not published.exists():
+        return set()
+    ids = set()
+    for path in published.glob("*.draft.md"):
+        ids.add(_job_id_from_path(path))
+    for path in published.glob("*.summary.md"):
+        ids.add(_job_id_from_path(path))
+    return ids
+
+
+def _review_job_ids():
+    review = _stage_dir("review")
+    if not review or not review.exists():
+        return set()
+    ids = set()
+    for path in list(review.glob("*.draft.md")) + list(review.glob("*.summary.md")):
+        ids.add(_job_id_from_path(path))
+    return ids
+
+
+def _advanced_job_ids():
+    return _published_job_ids() | _review_job_ids()
+
+
+def _drafting_count():
+    drafting = _stage_dir("drafting")
+    advanced = _advanced_job_ids()
+    if not drafting or not drafting.exists():
+        return 0
+    ids = set()
+    for path in drafting.glob("*.summary.md"):
+        job_id = _job_id_from_path(path)
+        if job_id not in advanced:
+            ids.add(job_id)
+    return len(ids)
+
+
+def _review_pending_count():
+    review = _stage_dir("review")
+    published = _published_job_ids()
+    if not review or not review.exists():
+        return 0
+    count = 0
+    seen = set()
+    for draft in review.glob("*.draft.md"):
+        job_id = _job_id_from_path(draft)
+        if job_id in seen or job_id in published:
+            continue
+        meta = _parse_frontmatter_text(_read_text_safe(draft, limit=1200))
+        if meta.get("status", "") in {"admin_pending", "review_pending"}:
+            seen.add(job_id)
+            count += 1
+    return count
 
 
 def _read_text_safe(path, limit=1800):
@@ -429,7 +488,8 @@ print(json.dumps(jobs, ensure_ascii=False))
 
 
 def sync_mac_pending_to_atom():
-    jobs = _mac_pending_jobs()
+    published = _published_job_ids()
+    jobs = [job for job in _mac_pending_jobs() if job not in published]
     review_dir = _stage_dir("review")
     review_dir.mkdir(parents=True, exist_ok=True)
     copied = []
@@ -508,7 +568,7 @@ def get_pipeline_items(kind, limit=80):
                     "preview": _read_text_safe(txt_path if txt_path.exists() else path, limit=1800),
                     "actionable": False,
                 })
-        return {"kind": kind, "items": items, "local_count": len(items), "mac_admin_pending": cached_data.get("pipeline", {}).get("admin_pending", -1)}
+        return {"kind": kind, "items": items, "local_count": len(items), "mac_admin_pending": cached_data.get("pipeline", {}).get("mac_admin_pending", -1)}
     else:
         dirs = []
 
@@ -523,15 +583,50 @@ def get_pipeline_items(kind, limit=80):
             if key in seen:
                 continue
             seen.add(key)
-            items.append(_pipeline_item(stage_name, path))
+            item = _pipeline_item(stage_name, path)
+            if kind == "admin":
+                if item["job_id"] in _published_job_ids():
+                    continue
+                if item.get("status") not in {"admin_pending", "review_pending"}:
+                    continue
+            elif kind == "inflight":
+                if stage_name in {"raw", "drafting"} and item["job_id"] in _advanced_job_ids():
+                    continue
+                if stage_name == "review" and item["job_id"] in _published_job_ids():
+                    continue
+            elif stage_name == "review" and item["job_id"] in _published_job_ids():
+                continue
+            items.append(item)
             if len(items) >= limit:
                 break
-    return {"kind": kind, "items": items, "local_count": len(items), "mac_admin_pending": cached_data.get("pipeline", {}).get("admin_pending", -1)}
+    return {"kind": kind, "items": items, "local_count": len(items), "mac_admin_pending": cached_data.get("pipeline", {}).get("mac_admin_pending", -1)}
+
+
+def run_pipeline_balancer():
+    result = subprocess.run(
+        [sys.executable, str(BALANCER_SCRIPT)],
+        capture_output=True,
+        text=True,
+        timeout=30,
+    )
+    if result.returncode != 0:
+        raise RuntimeError((result.stderr or result.stdout or "맥 작업 배정 점검 실패").strip())
+    payload = json.loads(result.stdout or "{}")
+    payload["message"] = (
+        f"판단: {payload.get('decision', 'unknown')} · "
+        f"아톰 여유 {payload.get('atom_pressure', {}).get('available_gib', '?')}GiB · "
+        f"PSI {payload.get('atom_pressure', {}).get('psi_some_avg60', '?')} · "
+        f"후보 {len(payload.get('candidate_jobs', []))}건 · "
+        f"선택 {len(payload.get('selected_jobs', []))}건"
+    )
+    return payload
 
 
 def apply_pipeline_action(job_id, action):
     if action == "sync_mac_pending":
         return sync_mac_pending_to_atom()
+    if action == "balance_mac_work":
+        return run_pipeline_balancer()
     if not JOB_ID_RE.match(job_id or ""):
         raise ValueError("잘못된 작업 ID입니다.")
     if action not in {"approve", "reject"}:
@@ -1554,8 +1649,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 const syncNote = kind === 'admin' && macPending > localCount
                     ? `<div class="modal-note">맥 승인대기 ${macPending.toLocaleString()}건 중 아톰에 동기화된 항목은 ${localCount.toLocaleString()}건입니다. <button class="action-btn" data-action="sync_mac_pending" type="button">맥 승인대기 회수</button></div>`
                     : '';
+                const balanceNote = kind === 'inflight'
+                    ? '<div class="modal-note">아톰 RAM 사용률 대신 MemAvailable·PSI·swap·맥 큐를 기준으로 점검합니다. <button class="action-btn" data-action="balance_mac_work" type="button">맥 배정 점검</button></div>'
+                    : '';
                 const rows = (data.items || []).map(renderPipelineItem).join('');
-                modalBody.innerHTML = syncNote + (rows || '<div class="modal-note">표시할 로컬 항목이 없습니다.</div>');
+                modalBody.innerHTML = syncNote + balanceNote + (rows || '<div class="modal-note">표시할 로컬 항목이 없습니다.</div>');
             } catch (error) {
                 modalBody.innerHTML = `<div class="modal-note">${escapeHtml(error.message)}</div>`;
             }
@@ -1597,6 +1695,21 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             await fetchMetrics();
         };
 
+        const runMacWorkBalance = async () => {
+            const response = await fetch('/api/pipeline/action', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'balance_mac_work' })
+            });
+            const data = await response.json();
+            if (!response.ok || data.ok === false) {
+                alert(data.error || '맥 배정 점검 실패');
+                return;
+            }
+            const selected = (data.selected_jobs || []).join(', ') || '없음';
+            alert(`${data.message || '맥 배정 점검 완료'}\n선택 후보: ${selected}\n실제 복사는 수행하지 않았습니다.`);
+        };
+
         const runPipelineAction = async (jobId, action) => {
             const label = action === 'approve' ? '승인' : '거절';
             if (!confirm(`${jobId} 항목을 ${label}하시겠습니까?`)) return;
@@ -1626,6 +1739,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             const syncButton = event.target.closest('[data-action="sync_mac_pending"]');
             if (syncButton) {
                 runMacPendingSync();
+                return;
+            }
+            const balanceButton = event.target.closest('[data-action="balance_mac_work"]');
+            if (balanceButton) {
+                runMacWorkBalance();
                 return;
             }
             const button = event.target.closest('[data-action][data-job-id]');
