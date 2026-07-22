@@ -286,14 +286,20 @@ def count_mac_status(mac_jobs):
     return admin_pending, drafting
 
 
-def write_status_file(path, mac_jobs, execute=False):
+def write_status_file(path, mac_jobs, execute=False, idle_reason="", last_action="", available_slots=-1):
     admin_pending, drafting = count_mac_status(mac_jobs)
+    active_jobs = [job for job in mac_jobs if job.get("status") not in DONE_MAC_STATUSES]
     payload = {
         "admin_pending": admin_pending,
         "drafting": drafting,
         "launchd": "active",
         "updated": time.strftime("%Y-%m-%d %H:%M:%S"),
         "source": "atom-balancer",
+        "jobs": mac_jobs[:20],
+        "active_jobs": active_jobs[:20],
+        "idle_reason": idle_reason,
+        "last_action": last_action,
+        "available_slots": available_slots,
     }
     if execute:
         Path(path).write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
@@ -339,16 +345,26 @@ def main():
         postprocessed = postprocess_mac_published(args.mac_host, args.mac_root, published_ids, execute=args.execute)
     mac = mac_status(args.mac_host, args.mac_root)
     mac_jobs = mac.get("jobs", [])
-    status_payload = write_status_file(args.status_file, mac_jobs, execute=args.execute)
     mac_active = [j for j in mac_jobs if j.get("status") not in DONE_MAC_STATUSES]
     mac_ids = {j.get("job_id") for j in mac_jobs}
     candidates = [j for j in atom_jobs if j["job_id"] not in mac_ids]
 
     # RAM 사용률은 판단 조건에서 제외한다. 실제 압박과 맥 큐 여유를 본다.
+    available_slots = max(args.min_mac_free_slots - len(mac_active), 0) if mac.get("ok") else -1
     mac_has_room = mac.get("ok") and len(mac_active) <= args.min_mac_free_slots
     should_assign = bool(candidates) and mac_has_room
     selected = candidates[: args.max_assign] if should_assign else []
     copied = assign_to_mac(atom_root, args.mac_host, args.mac_root, selected, execute=args.execute) if selected else []
+    decision = "assign" if selected else "hold"
+    reason = "맥 큐에 여유가 있고 아톰 drafting 후보가 있음" if selected else "배정할 신규 후보가 없거나 맥 큐 여유가 부족함"
+    status_payload = write_status_file(
+        args.status_file,
+        mac_jobs,
+        execute=args.execute,
+        idle_reason=reason,
+        last_action=decision,
+        available_slots=available_slots,
+    )
 
     print(json.dumps({
         "ok": True,
@@ -368,8 +384,8 @@ def main():
         "candidate_jobs": [j["job_id"] for j in candidates],
         "selected_jobs": [j["job_id"] for j in selected],
         "copied_files": copied,
-        "decision": "assign" if selected else "hold",
-        "reason": "맥 큐에 여유가 있고 아톰 drafting 후보가 있음" if selected else "배정할 신규 후보가 없거나 맥 큐 여유가 부족함",
+        "decision": decision,
+        "reason": reason,
     }, ensure_ascii=False, indent=2))
 
 

@@ -5,6 +5,7 @@
 import os
 import sys
 import json
+import sqlite3
 import time
 import glob
 import re
@@ -19,6 +20,7 @@ from urllib.parse import parse_qs, urlparse
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 METADATA_DIR = PROCESSED_DIR / "metadata"
+EVENT_QUEUE_DB = PROJECT_ROOT / "data" / "atom_watcher" / "atom_baseline.sqlite"
 TOTAL_FILES = 94513
 # 005 아톰-모하비-아우룸 협업 파이프라인 스테이징 루트 (아톰)
 PIPELINE_ROOT = Path("/home/caiser77/AI_BASE")
@@ -191,6 +193,120 @@ def get_pipeline_status():
         "mac_drafting": mac.get("drafting", -1),
         "mac_launchd": mac.get("launchd", "unknown"),
         "mac_updated": mac.get("updated", ""),
+        "mac_jobs": mac.get("jobs", []),
+        "mac_active_jobs": mac.get("active_jobs", []),
+        "mac_idle_reason": mac.get("idle_reason", ""),
+        "mac_last_action": mac.get("last_action", ""),
+        "mac_available_slots": mac.get("available_slots", -1),
+    }
+
+
+def _event_queue_counts():
+    counts = {"pending": 0, "processing": 0, "failed": 0}
+    try:
+        conn = sqlite3.connect(str(EVENT_QUEUE_DB))
+        try:
+            for status, count in conn.execute("SELECT status, COUNT(*) FROM event_queue GROUP BY status"):
+                counts[str(status)] = int(count)
+        finally:
+            conn.close()
+    except Exception:
+        pass
+    return counts
+
+
+def _latest_stage_job(stage):
+    stage_dir = _stage_dir(stage)
+    if not stage_dir or not stage_dir.exists():
+        return None
+    paths = []
+    for pattern in ("*.draft.md", "*.summary.md"):
+        paths.extend(stage_dir.glob(pattern))
+    if not paths:
+        return None
+    path = max(paths, key=lambda item: item.stat().st_mtime)
+    try:
+        return _pipeline_item(stage, path)
+    except Exception:
+        return {
+            "job_id": _job_id_from_path(path),
+            "title": path.name,
+            "status": "",
+            "updated": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(path.stat().st_mtime)),
+        }
+
+
+def _activity_state(active, waiting):
+    if active:
+        return "active"
+    if waiting:
+        return "waiting"
+    return "idle"
+
+
+def build_ai_activity(pipeline, atom_gpu_util):
+    q = _event_queue_counts()
+    raw = int(pipeline.get("raw") or 0)
+    drafting = int(pipeline.get("drafting_atom") or 0)
+    admin = int(pipeline.get("admin_pending") or 0)
+    mac_admin = int(pipeline.get("mac_admin_pending") or 0)
+    mac_drafting = int(pipeline.get("mac_drafting") or 0)
+    gpu_num = 0.0
+    try:
+        gpu_num = float(str(atom_gpu_util).replace("%", ""))
+    except Exception:
+        pass
+
+    atom_latest = _latest_stage_job("raw") or _latest_stage_job("drafting") or _latest_stage_job("review")
+    atom_title = atom_latest.get("title") if atom_latest else "신규 NAS 이벤트 감시"
+    atom_active = raw > 0 or q.get("pending", 0) > 0 or q.get("processing", 0) > 0 or gpu_num >= 5
+    atom_waiting = admin > 0 or drafting > 0
+    if raw > 0:
+        atom_task = "1차 요약 입력을 협업 파이프라인으로 넘기는 중"
+        atom_next = "엔진이 02_drafting으로 전이 후 맥에 배정"
+    elif q.get("pending", 0) or q.get("processing", 0):
+        atom_task = "NAS 신규/변경 이벤트 추출 처리 중"
+        atom_next = "처리 완료 후 요약 산출물 생성"
+    elif admin > 0:
+        atom_task = "검토 완료본 승인 대기"
+        atom_next = "승인 또는 거절 필요"
+    elif drafting > 0:
+        atom_task = "맥 작업 결과 동기화/후처리 대기"
+        atom_next = "맥 상태 회수 또는 중복 아카이브"
+    else:
+        atom_task = "신규 파일 감시 및 vLLM 대기"
+        atom_next = "신규 입력 발생 시 즉시 처리"
+
+    mac_jobs = pipeline.get("mac_jobs") or []
+    mac_job = next((j for j in mac_jobs if j.get("status") == "drafting"), None) or next((j for j in mac_jobs if j.get("status") in {"admin_pending", "review_pending", "reviewed"}), None)
+    mac_title = (mac_job or {}).get("job_id") or "맥 큐 대기"
+    mac_active = mac_drafting > 0
+    mac_waiting = mac_admin > 0
+    if mac_drafting > 0:
+        mac_task = "모하비 초안 작성 또는 아우룸 검토 중"
+        mac_next = "완료 시 승인대기로 전환"
+    elif mac_admin > 0:
+        mac_task = "초안/검토 완료, 운영자 승인 대기"
+        mac_next = "대시보드 승인/거절 또는 아톰 회수"
+    else:
+        mac_task = "작업 슬롯 대기"
+        mac_next = pipeline.get("mac_idle_reason") or "아톰 후보 발생 시 자동 배정"
+
+    return {
+        "atom": {
+            "state": _activity_state(atom_active, atom_waiting),
+            "headline": atom_task,
+            "job": atom_title,
+            "queue": f"이벤트 {q.get('pending', 0)} · raw {raw} · 처리중 {drafting} · 승인대기 {admin}",
+            "next": atom_next,
+        },
+        "mac": {
+            "state": _activity_state(mac_active, mac_waiting),
+            "headline": mac_task,
+            "job": mac_title,
+            "queue": f"초안작성 {mac_drafting} · 승인대기 {mac_admin} · 여유슬롯 {pipeline.get('mac_available_slots', '-')}",
+            "next": mac_next,
+        }
     }
 
 
@@ -283,6 +399,8 @@ def collect_metrics():
     cpu_val, ram_val = get_cpu_ram_status()
     gpu_info = get_gpu_status()
     mac_data = get_mac_status()
+    pipeline_data = get_pipeline_status()
+    ai_activity = build_ai_activity(pipeline_data, gpu_info["util"])
 
     return {
         "catalogued": catalogued,
@@ -312,7 +430,8 @@ def collect_metrics():
         },
         "recent_files_mac": recent_files_mac,
         "recent_files_atom": recent_files_atom,
-        "pipeline": get_pipeline_status()
+        "pipeline": pipeline_data,
+        "ai_activity": ai_activity
     }
 
 # 전역 캐시 딕셔너리 및 동기화 락
@@ -323,9 +442,11 @@ cached_data = {
     "atom": {"cpu": "N/A", "ram": "N/A", "temp": "N/A", "gpu_util": "N/A", "gpu_vram": "N/A", "gpu_temp": "N/A"},
     "mac": {"cpu": "Offline", "ram": "Offline", "gpu": "Offline", "temp": "Offline", "status": "Offline", "ollama": "Offline", "workers": 0},
     "recent_files_mac": [], "recent_files_atom": [],
+    "ai_activity": {"atom": {"state": "idle", "headline": "대기", "job": "-", "queue": "-", "next": "-"}, "mac": {"state": "idle", "headline": "대기", "job": "-", "queue": "-", "next": "-"}},
     "pipeline": {"raw": 0, "drafting_atom": 0, "review_pending": 0, "published": 0, "nas_deliverables": 0,
                  "corpus_docs": 0, "overnight_updated": "", "svc_engine": "unknown", "svc_tracker": "unknown",
-                 "svc_deployer": "unknown", "admin_pending": 0, "mac_admin_pending": -1, "mac_drafting": -1, "mac_launchd": "unknown", "mac_updated": ""}
+                 "svc_deployer": "unknown", "admin_pending": 0, "mac_admin_pending": -1, "mac_drafting": -1, "mac_launchd": "unknown", "mac_updated": "",
+                 "mac_jobs": [], "mac_active_jobs": [], "mac_idle_reason": "", "mac_last_action": "", "mac_available_slots": -1}
 }
 
 def cache_updater_loop():
@@ -466,6 +587,24 @@ def _job_files(stage_dir, job_id):
     return paths
 
 
+def _infer_job_title(content, fallback):
+    for line in (content or "").splitlines():
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if stripped.startswith("- Project Name:"):
+            value = stripped.split(":", 1)[1].strip()
+            if value:
+                return value
+    for line in (content or "").splitlines():
+        stripped = line.strip()
+        if stripped.startswith("#"):
+            title = stripped.lstrip("#").strip()
+            if title:
+                return title
+    return fallback
+
+
 def _mac_pending_jobs():
     script = r"""
 import glob
@@ -546,7 +685,7 @@ def _pipeline_item(stage_name, draft_or_summary):
     content = _read_text_safe(main, limit=2200)
     meta = _parse_frontmatter_text(content)
     stat = main.stat()
-    title = meta.get("project_name") or meta.get("source_file") or main.name
+    title = meta.get("project_name") or meta.get("source_file") or _infer_job_title(content, main.name)
     return {
         "job_id": job_id,
         "stage": stage_name,
@@ -867,6 +1006,81 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         }
 
         .service-row span {
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .ai-activity {
+            max-width: 1760px;
+            margin: 0 auto 10px;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 10px;
+        }
+
+        .ai-card {
+            background: var(--surface);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 10px 12px;
+            box-shadow: var(--shadow);
+            min-width: 0;
+        }
+
+        .ai-card.is-active {
+            border-color: rgba(126, 227, 154, 0.58);
+            background: linear-gradient(180deg, rgba(126, 227, 154, 0.12), var(--surface));
+        }
+
+        .ai-card.is-waiting {
+            border-color: rgba(255, 209, 102, 0.58);
+            background: linear-gradient(180deg, rgba(255, 209, 102, 0.12), var(--surface));
+        }
+
+        .ai-card-header {
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 0.8rem;
+            font-weight: 700;
+        }
+
+        .ai-state {
+            flex: 0 0 auto;
+            border: 1px solid var(--border-color);
+            border-radius: 999px;
+            padding: 3px 8px;
+            color: var(--text-sub);
+            font-size: 0.68rem;
+            font-weight: 700;
+        }
+
+        .ai-card.is-active .ai-state { color: var(--accent-green); border-color: rgba(126, 227, 154, 0.5); }
+        .ai-card.is-waiting .ai-state { color: var(--accent-amber); border-color: rgba(255, 209, 102, 0.5); }
+
+        .ai-task {
+            color: var(--text-main);
+            font-size: 0.9rem;
+            font-weight: 700;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .ai-meta {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6px 12px;
+            margin-top: 8px;
+            color: var(--text-sub);
+            font-size: 0.73rem;
+        }
+
+        .ai-meta div {
             min-width: 0;
             overflow: hidden;
             text-overflow: ellipsis;
@@ -1341,7 +1555,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             }
 
             .summary-layout,
-            .content-layout {
+            .content-layout,
+            .ai-activity {
                 grid-template-columns: 1fr;
             }
 
@@ -1358,6 +1573,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 align-items: flex-start;
                 flex-direction: column;
                 gap: 6px;
+            }
+
+            .ai-meta {
+                grid-template-columns: 1fr;
             }
 
             .history-section {
@@ -1456,6 +1675,35 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             <div class="service-row">
                 <span>아톰: <span id="pipe-svc-atom">-</span></span>
                 <span>아우룸맥: <span id="pipe-svc-mac">-</span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="ai-activity">
+        <div class="ai-card" id="atom-ai-card">
+            <div class="ai-card-header">
+                <span>ATOM AI 작업 현황</span>
+                <span class="ai-state" id="atom-ai-state">대기</span>
+            </div>
+            <div class="ai-task" id="atom-ai-task">신규 파일 감시 중</div>
+            <div class="ai-meta">
+                <div id="atom-ai-job">작업: -</div>
+                <div id="atom-ai-queue">큐: -</div>
+                <div id="atom-ai-next">다음: -</div>
+                <div id="atom-ai-role">역할: 1차 요약·분류·배정</div>
+            </div>
+        </div>
+        <div class="ai-card" id="mac-ai-card">
+            <div class="ai-card-header">
+                <span>AURUM MAC AI 작업 현황</span>
+                <span class="ai-state" id="mac-ai-state">대기</span>
+            </div>
+            <div class="ai-task" id="mac-ai-task">작업 슬롯 대기</div>
+            <div class="ai-meta">
+                <div id="mac-ai-job">작업: -</div>
+                <div id="mac-ai-queue">큐: -</div>
+                <div id="mac-ai-next">다음: -</div>
+                <div id="mac-ai-role">역할: 초안·RAG·검토</div>
             </div>
         </div>
     </div>
@@ -1772,6 +2020,20 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             runPipelineAction(button.dataset.jobId, button.dataset.action);
         });
 
+        const activityLabels = { active: '작업중', waiting: '대기중', idle: '감시중' };
+        const updateActivity = (prefix, activity) => {
+            const card = document.getElementById(`${prefix}-ai-card`);
+            if (!card || !activity) return;
+            card.classList.remove('is-active', 'is-waiting');
+            if (activity.state === 'active') card.classList.add('is-active');
+            if (activity.state === 'waiting') card.classList.add('is-waiting');
+            document.getElementById(`${prefix}-ai-state`).textContent = activityLabels[activity.state] || activity.state || '대기';
+            document.getElementById(`${prefix}-ai-task`).textContent = activity.headline || '-';
+            document.getElementById(`${prefix}-ai-job`).textContent = `작업: ${activity.job || '-'}`;
+            document.getElementById(`${prefix}-ai-queue`).textContent = `큐: ${activity.queue || '-'}`;
+            document.getElementById(`${prefix}-ai-next`).textContent = `다음: ${activity.next || '-'}`;
+        };
+
         async function fetchMetrics() {
             try {
                 const response = await fetch('/api/metrics');
@@ -1827,6 +2089,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                         `launchd ${pp.mac_launchd === 'active' ? '🟢' : (pp.mac_launchd === 'inactive' ? '🔴' : '⚪')}`
                         + (pp.mac_drafting > 0 ? ` · 초안작성중 ${pp.mac_drafting}` : '')
                         + (pp.mac_updated ? ` (${pp.mac_updated})` : '');
+                }
+
+                if (data.ai_activity) {
+                    updateActivity('atom', data.ai_activity.atom);
+                    updateActivity('mac', data.ai_activity.mac);
                 }
 
                 // 5. 가공 이력 테이블 갱신 (부드럽게 각각 덮어쓰기)
