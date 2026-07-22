@@ -26,10 +26,14 @@ STATUS_FILE = os.environ.get("AUTOFEED_STATUS_FILE", os.path.join(ATOM_ROOT, "au
 MAC_STATUS_FILE = os.environ.get("PIPELINE_MAC_STATUS_FILE", os.path.join(ATOM_ROOT, "pipeline_mac_status.json"))
 DASHBOARD_API = os.environ.get("AUTOFEED_DASHBOARD_API", "http://127.0.0.1:8502/api/metrics")
 
-TARGET_DAY = int(os.environ.get("AUTOFEED_TARGET_DAY", "3"))
-TARGET_NIGHT = int(os.environ.get("AUTOFEED_TARGET_NIGHT", "8"))
-MAX_ADMIN_PENDING = int(os.environ.get("AUTOFEED_MAX_ADMIN_PENDING", "5"))
-MAX_PER_RUN = int(os.environ.get("AUTOFEED_MAX_PER_RUN", "4"))
+# 1차 목표(레퍼런스 구축)는 작업량 제한 없이 최대 처리 — 주/야 구분 없이 동일 고재고 버퍼로
+# 파이프라인을 상시 포화시킨다. 실제 처리속도는 모하비 초안 동시성이 상한이므로 재고를 크게
+# 잡아도 01_raw 가 과도히 불어나지 않는 선에서 맥/아톰이 절대 굶지 않게 한다.
+TARGET_DAY = int(os.environ.get("AUTOFEED_TARGET_DAY", "12"))
+TARGET_NIGHT = int(os.environ.get("AUTOFEED_TARGET_NIGHT", "12"))
+# 승인대기 상한: 지금 코퍼스는 대부분 참고용이라 승인 대상이 적음 → 사실상 역압 완화(안전선만 유지).
+MAX_ADMIN_PENDING = int(os.environ.get("AUTOFEED_MAX_ADMIN_PENDING", "30"))
+MAX_PER_RUN = int(os.environ.get("AUTOFEED_MAX_PER_RUN", "8"))
 NIGHT_START = int(os.environ.get("AUTOFEED_NIGHT_START", "21"))
 NIGHT_END = int(os.environ.get("AUTOFEED_NIGHT_END", "6"))
 
