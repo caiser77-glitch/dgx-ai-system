@@ -99,6 +99,22 @@ SUMMARY_FAIL_MARKERS = ("생성하지 못", "not found", "hermes binary")
 READ_CAP = 60000
 
 
+def _is_ignored_history_path(*paths):
+    """운영 이력에서 Git 저장소/시스템 산출물처럼 업무 파일이 아닌 항목을 숨긴다."""
+    ignored_parts = {
+        "#recycle", "@eadir", "@eaDir", "_AURUM_AI_PROCESSED",
+        ".git", ".hg", ".svn", ".@__thumb", ".snapshot", "@recycle",
+    }
+    for raw in paths:
+        if not raw:
+            continue
+        parts = Path(str(raw)).parts
+        for part in parts:
+            if part in ignored_parts or part.endswith(".git"):
+                return True
+    return False
+
+
 def _summary_state(meta):
     """메타데이터 1건의 실제 파이프라인 상태를 판정한다.
 
@@ -110,9 +126,12 @@ def _summary_state(meta):
     if meta.get("status") == "failed":
         return "extract_failed"
     summary_block = meta.get("ai_summary")
-    if not summary_block:
+    classification_block = meta.get("ai_classification")
+    if not summary_block and not classification_block:
         return "pending"
-    summ = summary_block.get("summary")
+
+    block = summary_block if isinstance(summary_block, dict) and summary_block else classification_block
+    summ = block.get("summary") if isinstance(block, dict) else None
     txt = " ".join(summ) if isinstance(summ, list) else str(summ or "")
     low = txt.lower()
     if not txt.strip() or any(m in txt or m in low for m in SUMMARY_FAIL_MARKERS):
@@ -233,6 +252,8 @@ def collect_metrics():
                 source_path = meta.get("source_path", "")
                 outputs = meta.get("outputs", {})
                 meta_path_str = outputs.get("metadata", "")
+                if _is_ignored_history_path(source_path, meta_path_str):
+                    continue
                 category = (meta.get("ai_summary") or {}).get("category") \
                     or (meta.get("ai_classification") or {}).get("taxon_group") \
                     or meta.get("category", "미정")

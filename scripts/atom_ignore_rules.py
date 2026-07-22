@@ -10,6 +10,9 @@ IGNORED_DIR_NAMES = {
     "@eadir",
     "@eaDir",
     "_AURUM_AI_PROCESSED",
+    ".git",
+    ".hg",
+    ".svn",
     ".@__thumb",
     ".snapshot",
     "@recycle",
@@ -56,6 +59,6 @@ def should_exclude_path(path: Path | str, *, is_dir: bool = False) -> bool:
     p = Path(path)
     parts = p.parts
     for part in parts:
-        if part in IGNORED_DIR_NAMES:
+        if part in IGNORED_DIR_NAMES or part.endswith(".git"):
             return True
     return should_exclude_name(p.name, is_dir=is_dir)
