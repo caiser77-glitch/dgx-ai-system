@@ -352,17 +352,22 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aurum Live Dashboard</title>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Noto+Sans+KR:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-color: #0b0f19;
-            --card-bg: rgba(30, 41, 59, 0.45);
-            --border-color: rgba(255, 255, 255, 0.08);
-            --accent-blue: #38bdf8;
-            --accent-green: #4ade80;
-            --accent-red: #f87171;
-            --text-main: #f8fafc;
-            --text-sub: #94a3b8;
+            --bg-color: #05070a;
+            --surface: #1b222c;
+            --surface-2: #242d39;
+            --surface-3: #303b49;
+            --border-color: #465365;
+            --border-strong: #6b7a90;
+            --accent-blue: #7bc7ff;
+            --accent-green: #7ee39a;
+            --accent-red: #ff8585;
+            --accent-amber: #ffd166;
+            --text-main: #f7fbff;
+            --text-sub: #c0cad6;
+            --text-muted: #8d9aaa;
+            --shadow: 0 12px 28px rgba(0, 0, 0, 0.38);
         }
 
         * {
@@ -372,51 +377,82 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         }
 
         body {
-            font-family: 'Outfit', 'Noto Sans KR', sans-serif;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
             background-color: var(--bg-color);
             color: var(--text-main);
-            padding: 30px;
+            padding: 12px 14px;
             overflow-x: hidden;
-            background-image: radial-gradient(circle at 10% 20%, rgba(56, 189, 248, 0.05) 0%, transparent 40%),
-                              radial-gradient(circle at 90% 80%, rgba(74, 222, 128, 0.03) 0%, transparent 40%);
-            background-attachment: fixed;
+            line-height: 1.45;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            z-index: -2;
+            background:
+                linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255,255,255,0.024) 1px, transparent 1px);
+            background-size: 36px 36px;
+            mask-image: linear-gradient(to bottom, rgba(0,0,0,0.9), rgba(0,0,0,0.2));
+        }
+
+        #particle-canvas {
+            display: none;
+        }
+
+        .header,
+        .metric-grid,
+        .progress-section,
+        .summary-layout,
+        .content-layout {
+            max-width: 1760px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         .header {
             display: flex;
             justify-content: space-between;
-            align-items: center;
-            margin-bottom: 30px;
+            align-items: flex-end;
+            gap: 14px;
+            margin-bottom: 8px;
             border-bottom: 1px solid var(--border-color);
-            padding-bottom: 20px;
+            padding: 6px 0 14px;
         }
 
         .header-title h1 {
-            font-size: 1.8rem;
+            font-size: clamp(1.15rem, 1.6vw, 1.55rem);
             font-weight: 700;
-            letter-spacing: -0.02em;
-            background: linear-gradient(to right, #38bdf8, #4ade80);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            color: var(--text-main);
+            letter-spacing: 0;
         }
 
         .header-title p {
-            font-size: 0.9rem;
+            font-size: 0.72rem;
             color: var(--text-sub);
-            margin-top: 5px;
+            margin-top: 4px;
         }
 
         .live-badge {
-            background: rgba(74, 222, 128, 0.15);
+            flex: 0 0 auto;
+            background: rgba(126, 227, 154, 0.16);
             color: var(--accent-green);
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 0.8rem;
+            padding: 7px 10px;
+            border-radius: 6px;
+            font-size: 0.72rem;
             font-weight: 700;
             display: flex;
             align-items: center;
             gap: 6px;
-            border: 1px solid rgba(74, 222, 128, 0.25);
+            border: 1px solid rgba(126, 227, 154, 0.52);
+        }
+
+        .header-actions {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 7px;
         }
 
         .live-dot {
@@ -427,221 +463,396 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             animation: pulse 1.5s infinite;
         }
 
+        .sync-meta {
+            color: var(--text-muted);
+            font-size: 0.76rem;
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+        }
+
+        .sync-meta.is-error {
+            color: var(--accent-red);
+        }
+
+        .service-row {
+            margin-top: 8px;
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 5px;
+            color: var(--text-sub);
+            font-size: 0.76rem;
+            min-width: 0;
+        }
+
+        .service-row span {
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
         @keyframes pulse {
             0% { transform: scale(0.9); opacity: 0.5; }
             50% { transform: scale(1.2); opacity: 1; }
             100% { transform: scale(0.9); opacity: 0.5; }
         }
 
+        .summary-layout {
+            display: grid;
+            grid-template-columns: minmax(0, 1.35fr) minmax(340px, 0.85fr);
+            gap: 10px;
+            max-width: 1760px;
+            margin: 0 auto 10px;
+            align-items: stretch;
+        }
+
+        .summary-main,
+        .pipeline-panel {
+            background: var(--surface);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 12px;
+            box-shadow: var(--shadow);
+        }
+
         .metric-grid {
             display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 20px;
-            margin-bottom: 30px;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 8px;
+            margin-bottom: 8px;
         }
 
         .metric-card {
-            background: var(--card-bg);
+            background: var(--surface);
             border: 1px solid var(--border-color);
-            border-radius: 16px;
-            padding: 24px;
-            text-align: center;
-            backdrop-filter: blur(12px);
-            transition: transform 0.2s, border-color 0.2s;
+            border-radius: 8px;
+            padding: 10px 12px;
+            text-align: left;
+            box-shadow: var(--shadow);
         }
 
         .metric-card:hover {
-            border-color: rgba(56, 189, 248, 0.2);
-            transform: translateY(-2px);
+            border-color: var(--border-strong);
         }
 
         .metric-value {
-            font-size: 2.2rem;
+            font-size: clamp(1.18rem, 1.7vw, 1.55rem);
+            line-height: 1.05;
             font-weight: 700;
             color: var(--accent-blue);
-            margin-bottom: 8px;
-            transition: color 0.3s;
+            margin-bottom: 3px;
+            font-variant-numeric: tabular-nums;
         }
 
         .metric-label {
-            font-size: 0.85rem;
+            font-size: 0.72rem;
             color: var(--text-sub);
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
+            letter-spacing: 0;
         }
 
         .progress-section {
-            background: var(--card-bg);
+            background: var(--surface);
             border: 1px solid var(--border-color);
-            border-radius: 16px;
-            padding: 24px;
-            margin-bottom: 30px;
-            backdrop-filter: blur(12px);
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 8px;
         }
 
         .progress-info {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 12px;
+            gap: 16px;
+            margin-bottom: 8px;
         }
 
         .progress-title {
             font-weight: 600;
-            font-size: 1rem;
+            font-size: 0.95rem;
         }
 
         .progress-percentage {
             font-weight: 700;
             color: var(--accent-blue);
-            font-size: 1.1rem;
+            font-size: 0.92rem;
+            font-variant-numeric: tabular-nums;
         }
 
         .progress-bar-bg {
-            background: rgba(255, 255, 255, 0.05);
-            height: 12px;
-            border-radius: 6px;
+            background: #121821;
+            height: 8px;
+            border-radius: 999px;
             overflow: hidden;
             border: 1px solid var(--border-color);
         }
 
         .progress-bar-fill {
-            background: linear-gradient(to right, #38bdf8, #4ade80);
+            background: linear-gradient(90deg, var(--accent-blue), var(--accent-green));
             height: 100%;
             width: 0%;
-            border-radius: 6px;
+            border-radius: 999px;
             transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
         .content-layout {
             display: grid;
-            grid-template-columns: 1fr 1.3fr 1.3fr;
-            gap: 25px;
+            grid-template-columns: minmax(360px, 0.85fr) minmax(420px, 1.15fr) minmax(420px, 1.15fr);
+            gap: 10px;
+            align-items: stretch;
         }
 
         .panel-title {
-            font-size: 1.1rem;
+            font-size: 0.95rem;
             font-weight: 600;
-            margin-bottom: 20px;
+            margin-bottom: 8px;
             display: flex;
             align-items: center;
             gap: 8px;
+            color: var(--text-main);
             border-left: 3px solid var(--accent-blue);
-            padding-left: 10px;
+            padding-left: 9px;
         }
 
         .hw-section {
             display: flex;
             flex-direction: column;
-            gap: 24px;
+            gap: 10px;
         }
 
         .hw-card {
-            background: var(--card-bg);
+            background: var(--surface);
             border: 1px solid var(--border-color);
-            border-radius: 16px;
-            padding: 24px;
-            backdrop-filter: blur(12px);
+            border-radius: 8px;
+            padding: 8px;
+            box-shadow: var(--shadow);
         }
 
         .hw-card-header {
             font-weight: 700;
-            font-size: 0.95rem;
-            margin-bottom: 16px;
+            font-size: 0.72rem;
+            margin-bottom: 8px;
             color: var(--text-main);
             border-bottom: 1px solid var(--border-color);
-            padding-bottom: 10px;
+            padding-bottom: 9px;
             display: flex;
             justify-content: space-between;
+            gap: 10px;
+            align-items: center;
         }
 
         .hw-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 15px;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 8px;
         }
 
         .hw-metric {
-            background: rgba(255, 255, 255, 0.02);
-            border: 1px solid rgba(255, 255, 255, 0.03);
-            border-radius: 10px;
-            padding: 12px;
-            text-align: center;
+            background: var(--surface-2);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 8px;
+            min-width: 0;
+            transition: border-color 0.2s ease, background 0.2s ease;
+        }
+
+        .hw-metric.is-normal,
+        .metric-card.is-normal {
+            border-color: rgba(126, 227, 154, 0.54);
+            background: linear-gradient(180deg, rgba(126, 227, 154, 0.14), var(--surface-2));
+        }
+
+        .hw-metric.is-warn,
+        .metric-card.is-warn {
+            border-color: rgba(255, 209, 102, 0.62);
+            background: linear-gradient(180deg, rgba(255, 209, 102, 0.16), var(--surface-2));
+        }
+
+        .hw-metric.is-critical,
+        .metric-card.is-critical {
+            border-color: rgba(255, 133, 133, 0.68);
+            background: linear-gradient(180deg, rgba(255, 133, 133, 0.18), var(--surface-2));
+        }
+
+        .hw-metric.is-offline,
+        .metric-card.is-offline {
+            border-color: rgba(192, 202, 214, 0.32);
+            background: linear-gradient(180deg, rgba(192, 202, 214, 0.08), var(--surface-2));
+            opacity: 0.82;
         }
 
         .hw-metric-value {
-            font-size: 1.1rem;
+            font-size: 0.92rem;
             font-weight: 600;
             color: var(--text-main);
             margin-top: 4px;
+            min-height: 1.45em;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-variant-numeric: tabular-nums;
         }
 
         .hw-metric-label {
-            font-size: 0.75rem;
+            font-size: 0.72rem;
             color: var(--text-sub);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
         .history-section {
-            background: var(--card-bg);
+            background: var(--surface);
             border: 1px solid var(--border-color);
-            border-radius: 16px;
-            padding: 24px;
-            backdrop-filter: blur(12px);
+            border-radius: 8px;
+            padding: 8px;
             display: flex;
             flex-direction: column;
             height: 100%;
+            min-height: 370px;
+            box-shadow: var(--shadow);
         }
 
         .table-container {
             flex-grow: 1;
             overflow-y: auto;
+            overflow-x: auto;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            background: #121821;
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
             text-align: left;
-            font-size: 0.85rem;
+            font-size: 0.76rem;
         }
 
         th {
             color: var(--text-sub);
             font-weight: 600;
-            padding: 12px;
+            padding: 7px 8px;
             border-bottom: 1px solid var(--border-color);
+            background: var(--surface-3);
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            white-space: nowrap;
         }
 
         td {
-            padding: 12px;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.03);
-            color: #cbd5e1;
+            padding: 7px 8px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.075);
+            color: #dbe5ef;
+            vertical-align: middle;
         }
 
         tr:hover td {
-            background: rgba(255, 255, 255, 0.01);
+            background: rgba(123, 199, 255, 0.12);
             color: var(--text-main);
         }
 
+        td:first-child {
+            max-width: 260px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
         .badge {
-            padding: 3px 8px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 64px;
+            padding: 3px 7px;
             border-radius: 4px;
-            font-size: 0.75rem;
+            font-size: 0.72rem;
             font-weight: 600;
+            white-space: nowrap;
         }
 
         .badge-success {
-            background: rgba(74, 222, 128, 0.12);
+            background: rgba(126, 227, 154, 0.16);
             color: var(--accent-green);
+            border: 1px solid rgba(126, 227, 154, 0.40);
         }
 
         .badge-fail {
-            background: rgba(248, 113, 113, 0.12);
+            background: rgba(255, 133, 133, 0.16);
             color: var(--accent-red);
+            border: 1px solid rgba(255, 133, 133, 0.42);
         }
 
         .badge-pending {
-            background: rgba(148, 163, 184, 0.12);
+            background: rgba(192, 202, 214, 0.14);
             color: var(--text-sub);
+            border: 1px solid rgba(192, 202, 214, 0.34);
+        }
+
+        @media (max-width: 1280px) {
+            .summary-layout,
+            .content-layout {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            .hw-section {
+                grid-column: 1 / -1;
+            }
+
+            .hw-card .hw-grid {
+                grid-template-columns: repeat(6, minmax(0, 1fr));
+            }
+        }
+
+        @media (max-width: 860px) {
+            body {
+                padding: 12px;
+            }
+
+            .header {
+                align-items: flex-start;
+                flex-direction: column;
+            }
+
+            .header-actions {
+                align-items: flex-start;
+            }
+
+            .summary-layout,
+            .content-layout {
+                grid-template-columns: 1fr;
+            }
+
+            .metric-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+
+            .hw-card .hw-grid,
+            .hw-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+
+            .progress-info {
+                align-items: flex-start;
+                flex-direction: column;
+                gap: 6px;
+            }
+
+            .history-section {
+                min-height: 360px;
+            }
+        }
+
+        @media (max-width: 520px) {
+            .metric-grid,
+            .hw-card .hw-grid,
+            .hw-grid {
+                grid-template-columns: 1fr;
+            }
+
+            td:first-child {
+                max-width: 180px;
+            }
         }
     </style>
 </head>
@@ -654,71 +865,76 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             <h1>⚕ 아우룸 AI 실시간 관제 시스템 (Aurum Live Monitor)</h1>
             <p>1차 전수조사 진행률 및 시스템 자원 실시간 모니터링 (No Blinking, Low Memory)</p>
         </div>
-        <div class="live-badge">
-            <div class="live-dot"></div>
-            <span>LIVE (2s Refresh)</span>
+        <div class="header-actions">
+            <div class="live-badge">
+                <div class="live-dot"></div>
+                <span>LIVE (5s Refresh)</span>
+            </div>
+            <div class="sync-meta" id="last-sync">동기화 대기</div>
         </div>
     </div>
 
-    <!-- 진행 지표 카드 그리드 -->
-    <div class="metric-grid">
-        <div class="metric-card">
-            <div class="metric-value" id="val-processed">0</div>
-            <div class="metric-label">카탈로그 완료 (추출·분류)</div>
-        </div>
-        <div class="metric-card">
-            <div class="metric-value" style="color: var(--accent-green);" id="val-success">0</div>
-            <div class="metric-label">AI 요약 완료</div>
-        </div>
-        <div class="metric-card">
-            <div class="metric-value" style="color: var(--accent-red);" id="val-failed">0</div>
-            <div class="metric-label">AI 요약 실패</div>
-        </div>
-        <div class="metric-card">
-            <div class="metric-value" style="color: #cbd5e1;" id="val-remaining">0</div>
-            <div class="metric-label">AI 요약 대기</div>
-        </div>
-    </div>
+    <div class="summary-layout">
+        <div class="summary-main">
+            <!-- 진행 지표 카드 그리드 -->
+            <div class="metric-grid">
+                <div class="metric-card">
+                    <div class="metric-value" id="val-processed">0</div>
+                    <div class="metric-label">카탈로그 완료</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" style="color: var(--accent-green);" id="val-success">0</div>
+                    <div class="metric-label">AI 요약 완료</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" style="color: var(--accent-red);" id="val-failed">0</div>
+                    <div class="metric-label">요약 실패</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" style="color: #dbe5ef;" id="val-remaining">0</div>
+                    <div class="metric-label">요약 대기</div>
+                </div>
+            </div>
 
-    <!-- 진행 바 세션 -->
-    <div class="progress-section">
-        <div class="progress-info">
-            <div class="progress-title">AI 요약 진행률 <span style="color: var(--text-sub); font-weight: 400; font-size: 0.85rem;" id="catalog-info"></span></div>
-            <div class="progress-percentage" id="progress-text">0%</div>
+            <!-- 진행 바 세션 -->
+            <div class="progress-info">
+                <div class="progress-title">AI 요약 진행률 <span style="color: var(--text-sub); font-weight: 400; font-size: 0.78rem;" id="catalog-info"></span></div>
+                <div class="progress-percentage" id="progress-text">0%</div>
+            </div>
+            <div class="progress-bar-bg">
+                <div class="progress-bar-fill" id="progress-bar"></div>
+            </div>
         </div>
-        <div class="progress-bar-bg">
-            <div class="progress-bar-fill" id="progress-bar"></div>
-        </div>
-    </div>
 
-    <!-- 005 아톰·아우룸맥 협업 파이프라인 현황 -->
-    <div class="progress-section" style="margin-top:16px;">
-        <div class="progress-info">
-            <div class="progress-title">🔄 아톰·아우룸맥 협업 파이프라인 (법정보호종 보고서)
-                <span style="color: var(--text-sub); font-weight: 400; font-size: 0.8rem;" id="pipe-updated"></span>
+        <!-- 005 아톰·아우룸맥 협업 파이프라인 현황 -->
+        <div class="pipeline-panel">
+            <div class="progress-info">
+                <div class="progress-title">🔄 협업 파이프라인
+                    <span style="color: var(--text-sub); font-weight: 400; font-size: 0.76rem;" id="pipe-updated"></span>
+                </div>
             </div>
-        </div>
-        <div class="hw-grid" style="margin-top: 12px;">
-            <div class="hw-metric">
-                <div class="hw-metric-label">📄 배포 완료(납품물)</div>
-                <div class="hw-metric-value" id="pipe-published" style="color: var(--accent-green);">-</div>
+            <div class="hw-grid">
+                <div class="hw-metric">
+                    <div class="hw-metric-label">배포 완료</div>
+                    <div class="hw-metric-value" id="pipe-published" style="color: var(--accent-green);">-</div>
+                </div>
+                <div class="hw-metric">
+                    <div class="hw-metric-label">승인대기</div>
+                    <div class="hw-metric-value" id="pipe-admin" style="color: var(--accent-amber);">-</div>
+                </div>
+                <div class="hw-metric">
+                    <div class="hw-metric-label">처리중</div>
+                    <div class="hw-metric-value" id="pipe-inflight">-</div>
+                </div>
+                <div class="hw-metric">
+                    <div class="hw-metric-label">코퍼스</div>
+                    <div class="hw-metric-value" id="pipe-corpus" style="color: var(--accent-blue);">-</div>
+                </div>
             </div>
-            <div class="hw-metric">
-                <div class="hw-metric-label">✅ 관리자 승인대기</div>
-                <div class="hw-metric-value" id="pipe-admin" style="color: #fbbf24;">-</div>
+            <div class="service-row">
+                <span>아톰: <span id="pipe-svc-atom">-</span></span>
+                <span>아우룸맥: <span id="pipe-svc-mac">-</span></span>
             </div>
-            <div class="hw-metric">
-                <div class="hw-metric-label">⚙️ 처리중(추출·초안·검토)</div>
-                <div class="hw-metric-value" id="pipe-inflight">-</div>
-            </div>
-            <div class="hw-metric">
-                <div class="hw-metric-label">🌙 클린 코퍼스(야간 재추출)</div>
-                <div class="hw-metric-value" id="pipe-corpus" style="color: var(--accent-blue);">-</div>
-            </div>
-        </div>
-        <div style="margin-top: 12px; font-size: 0.85rem; color: var(--text-sub); display:flex; gap:24px; flex-wrap:wrap;">
-            <span>🤖 아톰: <span id="pipe-svc-atom">-</span></span>
-            <span>💻 아우룸맥: <span id="pipe-svc-mac">-</span></span>
         </div>
     </div>
 
@@ -839,6 +1055,49 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <script>
+        const numberFromText = (value) => {
+            if (value === null || value === undefined) return NaN;
+            const matched = String(value).match(/[0-9]+(?:[.][0-9]+)?/);
+            return matched ? Number(matched[0]) : NaN;
+        };
+
+        const clearState = (el) => {
+            if (!el) return;
+            el.classList.remove('is-normal', 'is-warn', 'is-critical', 'is-offline');
+        };
+
+        const applyState = (el, state) => {
+            if (!el) return;
+            clearState(el);
+            if (state) el.classList.add(state);
+        };
+
+        const stateForMetric = (value, kind) => {
+            const text = String(value || '');
+            const low = text.toLowerCase();
+            if (low.includes('offline') || low.includes('n/a') || low.includes('unknown')) return 'is-offline';
+            const num = numberFromText(text);
+            if (!Number.isFinite(num)) return '';
+            if (kind === 'temp') return num >= 82 ? 'is-critical' : (num >= 70 ? 'is-warn' : 'is-normal');
+            if (kind === 'load') return num >= 92 ? 'is-critical' : (num >= 80 ? 'is-warn' : 'is-normal');
+            if (kind === 'count-risk') return num > 0 ? 'is-warn' : 'is-normal';
+            return '';
+        };
+
+        const updateMetric = (id, value, kind) => {
+            const el = document.getElementById(id);
+            if (!el) return;
+            el.textContent = value;
+            applyState(el.closest('.hw-metric, .metric-card'), stateForMetric(value, kind));
+        };
+
+        const updateSyncMeta = (text, isError) => {
+            const el = document.getElementById('last-sync');
+            if (!el) return;
+            el.textContent = text;
+            el.classList.toggle('is-error', Boolean(isError));
+        };
+
         async function fetchMetrics() {
             try {
                 const response = await fetch('/api/metrics');
@@ -846,10 +1105,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 const data = await response.json();
 
                 // 1. 최상단 지표 갱신
-                document.getElementById('val-processed').innerText = data.catalogued.toLocaleString();
-                document.getElementById('val-success').innerText = data.summary_done.toLocaleString();
-                document.getElementById('val-failed').innerText = data.summary_failed.toLocaleString();
-                document.getElementById('val-remaining').innerText = data.summary_pending.toLocaleString();
+                updateMetric('val-processed', data.catalogued.toLocaleString(), '');
+                updateMetric('val-success', data.summary_done.toLocaleString(), '');
+                updateMetric('val-failed', data.summary_failed.toLocaleString(), 'count-risk');
+                updateMetric('val-remaining', data.summary_pending.toLocaleString(), '');
 
                 // 2. 진행률 바 갱신 (실제 잔여 작업 = AI 요약 기준, 100% clamp)
                 document.getElementById('progress-text').innerText = data.summary_progress + '%';
@@ -859,20 +1118,20 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                     + (data.extract_failed ? ` · 추출실패 ${data.extract_failed.toLocaleString()}` : '');
 
                 // 3. 아톰 리소스 갱신
-                document.getElementById('atom-cpu').innerText = data.atom.cpu;
-                document.getElementById('atom-ram').innerText = data.atom.ram;
-                document.getElementById('atom-temp').innerText = data.atom.temp;
-                document.getElementById('atom-gpu-util').innerText = data.atom.gpu_util;
-                document.getElementById('atom-gpu-temp').innerText = data.atom.gpu_temp;
-                document.getElementById('atom-gpu-vram').innerText = data.atom.gpu_vram;
+                updateMetric('atom-cpu', data.atom.cpu, 'load');
+                updateMetric('atom-ram', data.atom.ram, 'load');
+                updateMetric('atom-temp', data.atom.temp, 'temp');
+                updateMetric('atom-gpu-util', data.atom.gpu_util, 'load');
+                updateMetric('atom-gpu-temp', data.atom.gpu_temp, 'temp');
+                updateMetric('atom-gpu-vram', data.atom.gpu_vram, '');
 
                 // 4. 맥북 리소스 갱신
-                document.getElementById('mac-cpu').innerText = data.mac.cpu;
-                document.getElementById('mac-ram').innerText = data.mac.ram;
-                document.getElementById('mac-temp').innerText = data.mac.temp;
-                document.getElementById('mac-gpu').innerText = data.mac.gpu;
-                document.getElementById('mac-status').innerText = data.mac.status;
-                document.getElementById('mac-ollama').innerText = data.mac.ollama;
+                updateMetric('mac-cpu', data.mac.cpu, 'load');
+                updateMetric('mac-ram', data.mac.ram, 'load');
+                updateMetric('mac-temp', data.mac.temp, 'temp');
+                updateMetric('mac-gpu', data.mac.gpu, 'load');
+                updateMetric('mac-status', data.mac.status, '');
+                updateMetric('mac-ollama', data.mac.ollama, '');
 
                 const macTitle = `💻 AURUM MACBOOK (아우룸 맥북 - ${data.mac.workers} Workers)`;
                 document.getElementById('mac-title-status').previousElementSibling.innerText = macTitle;
@@ -882,10 +1141,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 // 4.5 005 협업 파이프라인 현황
                 if (data.pipeline) {
                     const pp = data.pipeline;
-                    document.getElementById('pipe-published').innerText = (pp.published || 0).toLocaleString();
-                    document.getElementById('pipe-admin').innerText = (pp.admin_pending >= 0 ? pp.admin_pending : '—');
-                    document.getElementById('pipe-inflight').innerText = ((pp.raw||0)+(pp.drafting_atom||0)+(pp.review_pending||0));
-                    document.getElementById('pipe-corpus').innerText = (pp.corpus_docs || 0).toLocaleString();
+                    updateMetric('pipe-published', (pp.published || 0).toLocaleString(), '');
+                    updateMetric('pipe-admin', (pp.admin_pending >= 0 ? pp.admin_pending : '—'), 'count-risk');
+                    updateMetric('pipe-inflight', ((pp.raw||0)+(pp.drafting_atom||0)+(pp.review_pending||0)), '');
+                    updateMetric('pipe-corpus', (pp.corpus_docs || 0).toLocaleString(), '');
                     document.getElementById('pipe-updated').innerText = pp.overnight_updated ? ('· 코퍼스 갱신 ' + pp.overnight_updated) : '';
                     const dot = (s) => s === 'active' ? '🟢' : (s === 'stopped' ? '🔴' : '⚪');
                     document.getElementById('pipe-svc-atom').innerText =
@@ -920,70 +1179,21 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
                 document.getElementById('mac-history-table-body').innerHTML = buildTableRows(data.recent_files_mac);
                 document.getElementById('atom-history-table-body').innerHTML = buildTableRows(data.recent_files_atom);
+                updateSyncMeta('마지막 동기화 ' + new Date().toLocaleTimeString('ko-KR', { hour12: false }), false);
 
             } catch (error) {
+                updateSyncMeta('동기화 실패', true);
                 console.error("Failed to sync metrics:", error);
             }
         }
 
-        // 초기 로드 후 2초마다 깜빡임 없이 데이터만 리액티브 갱신
+        // 초기 로드 후 5초마다 깜빡임 없이 데이터만 리액티브 갱신
         fetchMetrics();
-        setInterval(fetchMetrics, 2000);
+        setInterval(fetchMetrics, 5000);
 
-        // --- 실시간 별무리 파티클 유영 효과 ---
+        // 운영 관제형 화면에서는 장식 애니메이션을 비활성화한다.
         const canvas = document.getElementById('particle-canvas');
-        const ctx = canvas.getContext('2d');
-        let width = canvas.width = window.innerWidth;
-        let height = canvas.height = window.innerHeight;
-
-        window.addEventListener('resize', () => {
-            width = canvas.width = window.innerWidth;
-            height = canvas.height = window.innerHeight;
-        });
-
-        const particles = [];
-        // 작은 점들 45개 생성
-        for (let i = 0; i < 45; i++) {
-            particles.push({
-                x: Math.random() * width,
-                y: Math.random() * height,
-                vx: (Math.random() - 0.5) * 0.35,
-                vy: (Math.random() - 0.5) * 0.35,
-                r: Math.random() * 2 + 1
-            });
-        }
-
-        function animate() {
-            ctx.clearRect(0, 0, width, height);
-            ctx.fillStyle = 'rgba(56, 189, 248, 0.45)';
-            ctx.strokeStyle = 'rgba(56, 189, 248, 0.05)';
-
-            particles.forEach(p => {
-                p.x += p.vx;
-                p.y += p.vy;
-
-                if (p.x < 0 || p.x > width) p.vx *= -1;
-                if (p.y < 0 || p.y > height) p.vy *= -1;
-
-                ctx.beginPath();
-                ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-                ctx.fill();
-            });
-
-            for (let i = 0; i < particles.length; i++) {
-                for (let j = i + 1; j < particles.length; j++) {
-                    const dist = Math.hypot(particles[i].x - particles[j].x, particles[i].y - particles[j].y);
-                    if (dist < 130) {
-                        ctx.beginPath();
-                        ctx.moveTo(particles[i].x, particles[i].y);
-                        ctx.lineTo(particles[j].x, particles[j].y);
-                        ctx.stroke();
-                    }
-                }
-            }
-            requestAnimationFrame(animate);
-        }
-        animate();
+        if (canvas) canvas.width = canvas.height = 0;
     </script>
 </body>
 </html>
