@@ -121,10 +121,43 @@ def is_night(h):
     return h >= NIGHT_START or h < NIGHT_END   # 자정 넘김(21~06)
 
 
+# ── 보호종·동식물상 우선 선별(1차 목표: 생태 보고서 레퍼런스) ──
+# taxon_group 은 대부분 비어 있으므로 class_name·tags·summary·파일명 텍스트로 판정.
+PROTECTED_KW = re.compile(r"법정보호종|멸종위기|천연기념물|보호종|멸종위기야생생물|적색목록|국가적색|지정관리")
+FAUNA_KW = re.compile(
+    r"동식물상|동물상|식물상|생물상|생태|서식|저감|환경영향|자연환경|훼손|생물다양성|"
+    r"조류|포유류|포유동물|양서|파충|어류|어류상|곤충|저서|육수|식생|식물군|플랑크톤|부착조류|"
+    r"멸종위기|보호종|천연기념물")
+NONFAUNA_KW = re.compile(
+    r"설계도|제안서|VE|터널|굴착|지보|순서도|측량|토양|지형지질|지질|상세도|개황도|조경|"
+    r"영수증|회계|계약|견적|시방서|내역서|구조계산|공정표|도로건설|포장|교량|옹벽")
+SCAN_BUDGET = int(os.environ.get("AUTOFEED_SCAN_BUDGET", "3000"))
+
+
+def fauna_score(aic, name):
+    """3=법정보호종 신호, 2=동식물상/생태조사, 1=일반, 0=비-fauna(설계·회계 등 후순위)."""
+    blob = " ".join([
+        str(aic.get("class_name") or ""),
+        " ".join(aic.get("tags") or []),
+        str(aic.get("summary") or ""),
+        str(aic.get("document_type") or ""),
+        name,
+    ])
+    if PROTECTED_KW.search(blob):
+        return 3
+    if FAUNA_KW.search(blob):
+        return 2
+    if NONFAUNA_KW.search(blob):
+        return 0
+    return 1
+
+
 def find_candidates(need, exclude):
-    """정결·성공·미투입 문서 metadata 경로를 need 개 찾는다(충분히 모이면 조기 종료)."""
+    """정결·성공·미투입 문서를 보호종>동식물상>일반 순으로 선별.
+    점수>=2(fauna) 후보가 need 개 모이면 조기 종료(빠름). 부족하면 SCAN_BUDGET까지
+    훑어 하위 tier(일반→비-fauna)로 폴백해 파이프라인이 굶지 않게 채운다."""
     md = os.path.join(PROCESSED_DIR, "metadata")
-    out = []
+    tiers = {3: [], 2: [], 1: [], 0: []}
     scanned = 0
     for p in glob.iglob(md + "/*.metadata.json"):
         scanned += 1
@@ -148,10 +181,15 @@ def find_candidates(need, exclude):
         summ = aic.get("summary") or ""
         if cls == "UNKNOWN" or not str(summ).strip():
             continue
-        out.append((p, name))
-        if len(out) >= need:
+        sc = fauna_score(aic, name)
+        tiers[sc].append((p, name, sc))
+        # 보호종+동식물상(>=2)만으로 need 채워지면 즉시 종료(우선 목표 달성)
+        if len(tiers[3]) + len(tiers[2]) >= need:
             break
-    return out, scanned
+        if scanned >= SCAN_BUDGET:
+            break
+    ranked = tiers[3] + tiers[2] + tiers[1] + tiers[0]
+    return ranked[:need], scanned
 
 
 def write_status(payload):
@@ -198,22 +236,24 @@ def main():
         base.update(decision="hold", reason="미투입 정결후보 없음(scanned=%d)" % scanned, fed=[])
         write_status(base); print(json.dumps(base, ensure_ascii=False)); return
 
-    fed_ids = [os.path.basename(p)[: -len(".metadata.json")] for p, _ in cands]
+    fed_ids = [os.path.basename(p)[: -len(".metadata.json")] for p, _, _ in cands]
+    scores = [s for _, _, s in cands]
+    tiers = {"보호종": scores.count(3), "동식물상": scores.count(2), "일반": scores.count(1), "기타": scores.count(0)}
     if not execute:
         base.update(decision="would-feed", reason="투입 후보 %d건(dry-run)" % len(cands),
-                    fed=fed_ids, names=[n for _, n in cands], scanned=scanned)
+                    fed=fed_ids, names=[n for _, n, _ in cands], tiers=tiers, scanned=scanned)
         write_status(base); print(json.dumps(base, ensure_ascii=False)); return
 
     cmd = ["python3", EXPORT_SCRIPT, "--processed-dir", PROCESSED_DIR, "--pipeline-root", ATOM_ROOT]
-    for p, _ in cands:
+    for p, _, _ in cands:
         cmd += ["--metadata-file", p]
     r = subprocess.run(cmd, capture_output=True, text=True)
     ok = (r.returncode == 0)
     if ok:
         append_ledger(fed_ids)   # 성공분만 원장에 기록 → 재투입 영구 차단
     base.update(decision="feed" if ok else "error",
-                reason=("투입 %d건 완료" % len(fed_ids)) if ok else ("export 실패 rc=%d: %s" % (r.returncode, r.stderr[-200:])),
-                fed=fed_ids, names=[n for _, n in cands], scanned=scanned)
+                reason=("투입 %d건 완료(보호종%d·동식물상%d)" % (len(fed_ids), tiers["보호종"], tiers["동식물상"])) if ok else ("export 실패 rc=%d: %s" % (r.returncode, r.stderr[-200:])),
+                fed=fed_ids, names=[n for _, n, _ in cands], tiers=tiers, scanned=scanned)
     write_status(base)
     print(json.dumps(base, ensure_ascii=False))
     if verbose:
