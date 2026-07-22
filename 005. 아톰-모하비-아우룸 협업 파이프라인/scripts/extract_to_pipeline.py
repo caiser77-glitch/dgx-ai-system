@@ -51,6 +51,38 @@ def load_protected():
 
 PROTECTED = load_protected()
 
+
+def detect_protected(text, protected=PROTECTED):
+    """보호종 탐지(부분일치 오탐 제거). 짧은 종명은 '더 긴 보호종명에 흡수되지 않는
+    단독 등장'이 하나라도 있을 때만 인정한다. 예: '왕은점표범나비'만 있으면 '표범'은
+    탐지하지 않지만, '표범'이 단독으로도 등장하면 '표범'과 나비를 모두 인정한다."""
+    raw = {s for s in protected if s and s in text}
+
+    def has_standalone(s):
+        idx = 0
+        while True:
+            i = text.find(s, idx)
+            if i < 0:
+                return False
+            absorbed = False
+            for t in raw:
+                if t == s or s not in t:
+                    continue
+                j = text.find(t)
+                while j >= 0:
+                    if j <= i and i + len(s) <= j + len(t):
+                        absorbed = True
+                        break
+                    j = text.find(t, j + 1)
+                if absorbed:
+                    break
+            if not absorbed:
+                return True
+            idx = i + 1
+
+    return sorted({s for s in raw if has_standalone(s)})
+
+
 def extract_pdf(path):
     """PDF 본문 + 표 추출(pdfplumber). 페이지 상한으로 런타임 제한."""
     import pdfplumber
@@ -186,7 +218,7 @@ def make_job(path):
     job_id = "doc_" + hashlib.sha1(path.encode("utf-8")).hexdigest()[:12]  # ASCII 안전
     year_vendor, project = infer_meta(path)
     src = os.path.basename(path)
-    detected = sorted({s for s in PROTECTED if s and s in text})[:30]
+    detected = detect_protected(text)[:30]
 
     # 구조화 상세 요약 구성 (전체 텍스트 대상 추출 + vLLM 개관)
     ov = extract_overview(text)
