@@ -39,3 +39,12 @@ if [ -f "$HWPX_RE" ]; then
   echo "$(date +%F %T) [reextract-hwpx] batch=${HWPX_BATCH:-100} 시작" >> "$HWPX_LOG"
   python3 "$HWPX_RE" "${HWPX_BATCH:-100}" >> "$HWPX_LOG" 2>&1
 fi
+
+# ── 이미지잠금 HWP OCR 회복: BinData 스캔이미지에 잠긴 본문을 tesseract(kor+eng, CPU)로 추출. ──
+# 가장 무거운 단계(마지막). GPU 무경합. 회복분은 ocr_extracted 마커로 재시도 방지.
+OCR_RE=/home/caiser77/AI_BASE/reextract_hwp_ocr.py
+OCR_LOG=/home/caiser77/AI_BASE/reextract_hwp_ocr.log
+if [ -f "$OCR_RE" ]; then
+  echo "$(date +%F %T) [reextract-ocr] batch=${OCR_BATCH:-15} 시작" >> "$OCR_LOG"
+  "$VENV" "$OCR_RE" "${OCR_BATCH:-15}" >> "$OCR_LOG" 2>&1
+fi
