@@ -31,3 +31,11 @@ if [ -f "$REEXTRACT" ]; then
   echo "$(date '+%F %T') [reextract] batch=$REBATCH 시작" >> "$RELOG"
   "$VENV" "$REEXTRACT" "$REBATCH" >> "$RELOG" 2>&1
 fi
+
+# ── HWPX 재추출 backfill: PK포맷(HWPX) 본문을 XML파서로 복구(hwp5txt 미지원 포맷). ──
+HWPX_RE=/home/caiser77/AI_BASE/reextract_hwpx.py
+HWPX_LOG=/home/caiser77/AI_BASE/reextract_hwpx.log
+if [ -f "$HWPX_RE" ]; then
+  echo "$(date +%F %T) [reextract-hwpx] batch=${HWPX_BATCH:-100} 시작" >> "$HWPX_LOG"
+  python3 "$HWPX_RE" "${HWPX_BATCH:-100}" >> "$HWPX_LOG" 2>&1
+fi
