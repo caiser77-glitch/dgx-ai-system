@@ -20,6 +20,9 @@ CSV_EXTENSIONS = {".csv"}
 XLSX_EXTENSIONS = {".xlsx"}
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png"}
 PDF_EXTENSIONS = {".pdf"}
+HWP_EXTENSIONS = {".hwp"}   # 한글 HWP 5.x(OLE). HWPX(zip/xml)는 별도 처리 필요
+# pyhwp의 hwp5txt (검증: 11KB~1GB 견고 추출). 환경변수로 재정의 가능.
+HWP5TXT_BIN = os.environ.get("HWP5TXT_BIN", "/home/caiser77/hwp_extract_venv/bin/hwp5txt")
 
 TAXON_GROUPS = [
     "양서파충류",
@@ -88,6 +91,22 @@ def extract_text(source_path: Path, dirs: dict[str, Path], stem: str) -> dict:
     output_path = dirs["text"] / f"{stem}.txt"
     write_text(output_path, read_text_file(source_path))
     return {"text": str(output_path), "tables": []}
+
+
+def extract_hwp(source_path: Path, dirs: dict[str, Path], stem: str) -> dict:
+    """한글 HWP(5.x, OLE) 본문 추출 — pyhwp의 hwp5txt 사용.
+    실패(HWPX·손상·구형 3.x 등) 시 기존 동작(기본 메타데이터)으로 폴백한다."""
+    text_path = dirs["text"] / f"{stem}.txt"
+    try:
+        r = subprocess.run([HWP5TXT_BIN, str(source_path)],
+                           capture_output=True, text=True, timeout=300)
+        text = (r.stdout or "").strip()
+        if r.returncode == 0 and len(text) >= 20:
+            write_text(text_path, text + "\n")
+            return {"text": str(text_path), "tables": []}
+    except Exception:
+        pass
+    return extract_basic_metadata(source_path, dirs, stem)
 
 
 def read_csv_rows_with_fallback(source_path: Path) -> list:
@@ -414,6 +433,8 @@ def run_extraction(source_path: Path, output_dir: Path, no_ocr: bool = False, oc
     elif suffix in PDF_EXTENSIONS:
         # 로컬 아톰 서버에서는 고성능 Marker로 파싱을 우선 시도
         outputs = extract_via_marker(source_path, dirs, stem)
+    elif suffix in HWP_EXTENSIONS:
+        outputs = extract_hwp(source_path, dirs, stem)
     else:
         outputs = extract_basic_metadata(source_path, dirs, stem)
 
