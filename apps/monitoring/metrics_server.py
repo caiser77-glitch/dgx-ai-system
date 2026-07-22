@@ -190,6 +190,9 @@ def get_pipeline_status():
         "svc_deployer": _proc_alive("aurum_deployer.py"),
         "admin_pending": _review_pending_count(),
         "mac_admin_pending": mac.get("admin_pending", -1),
+        # 사람 승인이 필요한 총 대기 = 아톰 review_pending + 맥 admin_pending(신선할 때만).
+        # autofeeder 역압과 동일한 '총 승인대기' 개념(맥 stale 시 -1은 0으로 간주).
+        "total_admin_pending": _review_pending_count() + (mac.get("admin_pending", 0) if mac.get("admin_pending", -1) > 0 else 0),
         "mac_drafting": mac.get("drafting", -1),
         "mac_launchd": mac.get("launchd", "unknown"),
         "mac_updated": mac.get("updated", ""),
@@ -445,7 +448,7 @@ cached_data = {
     "ai_activity": {"atom": {"state": "idle", "headline": "대기", "job": "-", "queue": "-", "next": "-"}, "mac": {"state": "idle", "headline": "대기", "job": "-", "queue": "-", "next": "-"}},
     "pipeline": {"raw": 0, "drafting_atom": 0, "review_pending": 0, "published": 0, "nas_deliverables": 0,
                  "corpus_docs": 0, "overnight_updated": "", "svc_engine": "unknown", "svc_tracker": "unknown",
-                 "svc_deployer": "unknown", "admin_pending": 0, "mac_admin_pending": -1, "mac_drafting": -1, "mac_launchd": "unknown", "mac_updated": "",
+                 "svc_deployer": "unknown", "admin_pending": 0, "mac_admin_pending": -1, "total_admin_pending": 0, "mac_drafting": -1, "mac_launchd": "unknown", "mac_updated": "",
                  "mac_jobs": [], "mac_active_jobs": [], "mac_idle_reason": "", "mac_last_action": "", "mac_available_slots": -1}
 }
 
@@ -1662,6 +1665,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 <div class="hw-metric pipeline-action" data-pipeline-kind="admin">
                     <div class="hw-metric-label">승인대기</div>
                     <div class="hw-metric-value" id="pipe-admin" style="color: var(--accent-amber);">-</div>
+                    <div class="hw-metric-sub" id="pipe-admin-sub" style="font-size:0.62rem;color:var(--text-sub);line-height:1;"></div>
                 </div>
                 <div class="hw-metric pipeline-action" data-pipeline-kind="inflight">
                     <div class="hw-metric-label">처리중</div>
@@ -2078,7 +2082,14 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 if (data.pipeline) {
                     const pp = data.pipeline;
                     updateMetric('pipe-published', (pp.published || 0).toLocaleString(), '');
-                    updateMetric('pipe-admin', (pp.admin_pending >= 0 ? pp.admin_pending : '—'), 'count-risk');
+                    // 승인대기 = 아톰 review_pending + 맥 admin_pending 합산(사람 승인 총 대기).
+                    const atomAdmin = (pp.admin_pending >= 0 ? pp.admin_pending : 0);
+                    const macAdmin = (pp.mac_admin_pending >= 0 ? pp.mac_admin_pending : 0);
+                    const totalAdmin = (typeof pp.total_admin_pending === 'number' && pp.total_admin_pending >= 0)
+                        ? pp.total_admin_pending : (atomAdmin + macAdmin);
+                    updateMetric('pipe-admin', totalAdmin, totalAdmin > 0 ? 'count-risk' : '');
+                    const adminSub = document.getElementById('pipe-admin-sub');
+                    if (adminSub) adminSub.innerText = totalAdmin > 0 ? `아톰 ${atomAdmin} · 맥 ${macAdmin}` : '';
                     updateMetric('pipe-inflight', ((pp.raw||0)+(pp.drafting_atom||0)+(pp.review_pending||0)), '');
                     updateMetric('pipe-corpus', (pp.corpus_docs || 0).toLocaleString(), '');
                     document.getElementById('pipe-updated').innerText = pp.overnight_updated ? ('· 코퍼스 갱신 ' + pp.overnight_updated) : '';

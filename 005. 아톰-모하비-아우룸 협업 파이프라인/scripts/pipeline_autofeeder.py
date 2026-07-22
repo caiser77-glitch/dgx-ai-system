@@ -24,6 +24,7 @@ EXPORT_SCRIPT = os.environ.get(
 LEDGER = os.environ.get("AUTOFEED_LEDGER", os.path.join(ATOM_ROOT, "autofeed_ledger.txt"))
 STATUS_FILE = os.environ.get("AUTOFEED_STATUS_FILE", os.path.join(ATOM_ROOT, "autofeed_status.json"))
 MAC_STATUS_FILE = os.environ.get("PIPELINE_MAC_STATUS_FILE", os.path.join(ATOM_ROOT, "pipeline_mac_status.json"))
+DASHBOARD_API = os.environ.get("AUTOFEED_DASHBOARD_API", "http://127.0.0.1:8502/api/metrics")
 
 TARGET_DAY = int(os.environ.get("AUTOFEED_TARGET_DAY", "3"))
 TARGET_NIGHT = int(os.environ.get("AUTOFEED_TARGET_NIGHT", "8"))
@@ -58,8 +59,9 @@ def _ids_in(stages):
 
 
 def inflight_ids():
-    """진행 중(raw+drafting+review) 잡 — 목표재고 판정용."""
-    return _ids_in(STAGES_INFLIGHT)
+    """진행 중(raw+drafting+review) 잡 — 목표재고 판정용.
+    완료(published/NAS)와 중복되는 stale 파일은 제외(대시보드 카운트와 동일 정의)."""
+    return _ids_in(STAGES_INFLIGHT) - _ids_in(STAGES_DONE)
 
 
 def all_stage_ids():
@@ -80,13 +82,33 @@ def append_ledger(job_ids):
             f.write(j + "\n")
 
 
-def read_admin_pending():
-    """balancer 가 2분마다 갱신하는 mac 상태에서 미승인 수를 읽는다(없으면 0)."""
+def read_mac_admin_pending():
+    """balancer 가 2분마다 갱신하는 mac 상태에서 맥 미승인 수를 읽는다(없으면 0)."""
     try:
         m = json.load(open(MAC_STATUS_FILE, encoding="utf-8"))
-        return int(m.get("admin_pending", 0))
+        v = int(m.get("admin_pending", 0))
+        return v if v > 0 else 0
     except Exception:
         return 0
+
+
+def read_total_admin_pending():
+    """사람 승인이 필요한 총 대기(총 승인대기)를 반환. (total, atom_review) 튜플.
+    조화의 핵심: 대시보드가 계산한 정본값(pipeline.total_admin_pending)을 그대로 읽어
+    역압 기준과 화면 숫자가 항상 일치하게 한다. API 불가 시에만 로컬 추정으로 폴백."""
+    try:
+        import urllib.request
+        with urllib.request.urlopen(DASHBOARD_API, timeout=3) as r:
+            p = json.load(r).get("pipeline", {})
+            t = p.get("total_admin_pending")
+            a = p.get("admin_pending", 0)
+            if isinstance(t, int) and t >= 0:
+                return t, (a if isinstance(a, int) and a >= 0 else 0)
+    except Exception:
+        pass
+    # 폴백: published/NAS 중복 제외한 아톰 review + 맥 admin (대시보드 미가동 시)
+    atom_review = len(_ids_in(("03_review_pending",)) - _ids_in(STAGES_DONE))
+    return atom_review + read_mac_admin_pending(), atom_review
 
 
 def is_night(h):
@@ -144,18 +166,20 @@ def main():
     inflight_set = inflight_ids()
     ledger = load_ledger()
     inflight = len(inflight_set)
-    admin_pending = read_admin_pending()
+    admin_pending, atom_review = read_total_admin_pending()   # 총 승인대기(아톰+맥), 아톰 내역
     h = time.localtime().tm_hour
     target = TARGET_NIGHT if is_night(h) else TARGET_DAY
 
     base = {
         "inflight": inflight, "target": target, "admin_pending": admin_pending,
+        "admin_atom": atom_review, "admin_mac": admin_pending - atom_review,
         "night": is_night(h), "mode": "execute" if execute else "dry-run",
     }
 
-    # 역압 1: 미승인 적체
+    # 역압 1: 사람 승인이 필요한 총 대기가 상한 이상이면 투입 중단(검토 적체 방지)
     if admin_pending >= MAX_ADMIN_PENDING:
-        base.update(decision="hold", reason="미승인(admin_pending) %d ≥ 상한 %d — 검토 대기" % (admin_pending, MAX_ADMIN_PENDING), fed=[])
+        base.update(decision="hold", reason="총 승인대기(아톰%d+맥%d)=%d ≥ 상한 %d — 검토 대기"
+                    % (atom_review, admin_pending - atom_review, admin_pending, MAX_ADMIN_PENDING), fed=[])
         write_status(base); print(json.dumps(base, ensure_ascii=False)); return
 
     # 역압 2: 목표재고 충족
