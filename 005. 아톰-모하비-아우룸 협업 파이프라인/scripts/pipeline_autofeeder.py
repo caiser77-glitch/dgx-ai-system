@@ -132,6 +132,10 @@ NONFAUNA_KW = re.compile(
     r"설계도|제안서|VE|터널|굴착|지보|순서도|측량|토양|지형지질|지질|상세도|개황도|조경|"
     r"영수증|회계|계약|견적|시방서|내역서|구조계산|공정표|도로건설|포장|교량|옹벽")
 SCAN_BUDGET = int(os.environ.get("AUTOFEED_SCAN_BUDGET", "3000"))
+# 추출 본문 최소 크기(바이트). 이하이거나 실패마커 포함이면 빈 문서로 보고 투입 제외.
+MIN_TEXT_BYTES = int(os.environ.get("AUTOFEED_MIN_TEXT_BYTES", "1500"))
+EXTRACT_FAIL_MARKERS = ("unsupported_file_type", "추출이 지원되지 않", "내용 분석은 불가능",
+                        "content_extraction: unsupported")
 
 
 def fauna_score(aic, name):
@@ -180,6 +184,17 @@ def find_candidates(need, exclude):
         cls = (aic.get("class_name") or "").upper()
         summ = aic.get("summary") or ""
         if cls == "UNKNOWN" or not str(summ).strip():
+            continue
+        # ★ 본문 추출 실재 검증: 추출된 text 파일이 충분히 커야 함(HWP unsupported 등 빈 문서 제외).
+        #   코퍼스 96%가 추출실패 보일러플레이트(~110~665B)라, 이걸 투입하면 mohave가 빈 보고서를 씀.
+        tpath = (m.get("outputs") or {}).get("text")
+        if not tpath or not os.path.exists(tpath) or os.path.getsize(tpath) < MIN_TEXT_BYTES:
+            continue
+        try:
+            head = open(tpath, encoding="utf-8", errors="ignore").read(1200)
+        except Exception:
+            continue
+        if any(k in head for k in EXTRACT_FAIL_MARKERS):   # 추출 실패 마커
             continue
         sc = fauna_score(aic, name)
         tiers[sc].append((p, name, sc))
