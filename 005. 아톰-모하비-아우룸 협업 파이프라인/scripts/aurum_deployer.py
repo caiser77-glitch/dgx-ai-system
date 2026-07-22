@@ -163,7 +163,7 @@ class AurumDeployer:
         return True
 
     def process_review_pending(self, draft_filename: str):
-        """review_pending 문서를 최종 검수 후 NAS 배포 및 published 스테이지로 아카이빙합니다."""
+        """대시보드에서 reviewed 승인된 문서를 NAS 배포 및 published 스테이지로 아카이빙합니다."""
         job_id = draft_filename.replace(".draft.md", "")
         full_draft_path = NFCGuard.normalize(os.path.join(self.watch_dir, draft_filename))
         result_file = NFCGuard.normalize(os.path.join(self.watch_dir, f"{job_id}.result.json"))
@@ -174,8 +174,8 @@ class AurumDeployer:
         try:
             meta = self.parse_metadata(full_draft_path)
             status = meta.get('status', 'review_pending')
-            if status not in {'review_pending', 'reviewed'}:
-                self.logger.info(f"[{job_id}] 배포 대상 상태가 아니므로 건너뜁니다: {status}")
+            if status != 'reviewed':
+                self.logger.info(f"[{job_id}] 대시보드 승인 전 상태이므로 건너뜁니다: {status}")
                 return
             self.send_telegram_notification(job_id, meta)
 

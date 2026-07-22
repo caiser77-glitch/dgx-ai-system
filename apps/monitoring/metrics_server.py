@@ -7,9 +7,13 @@ import sys
 import json
 import time
 import glob
+import re
+import shutil
+import shlex
 import subprocess
 from pathlib import Path
 from http.server import HTTPServer, BaseHTTPRequestHandler
+from urllib.parse import parse_qs, urlparse
 
 # 경로 바인딩
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -314,23 +318,271 @@ def cache_updater_loop():
             print(f"[Cache Daemon Error] {e}", file=sys.stderr, flush=True)
         time.sleep(5)
 
+JOB_SUFFIXES = ("summary.md", "result.json", "draft.md")
+JOB_ID_RE = re.compile(r"^[A-Za-z0-9_.-]+$")
+MAC_PIPELINE_SSH = os.environ.get("AURUM_MAC_SSH", "aurum-mac")
+MAC_PIPELINE_ROOT = os.environ.get("MOHAVE_PIPELINE_ROOT", "/Users/nams/AI_BASE/AurumPipeline_mohave")
+SYNCABLE_MAC_STATUSES = {"admin_pending", "review_pending", "reviewed"}
+
+
+def _stage_dir(stage):
+    mapping = {
+        "raw": PIPELINE_ROOT / "01_raw_analyzed",
+        "drafting": PIPELINE_ROOT / "02_drafting",
+        "review": PIPELINE_ROOT / "03_review_pending",
+        "published": PIPELINE_ROOT / "04_published",
+        "error": PIPELINE_ROOT / "00_error_failed",
+        "corpus": PIPELINE_ROOT / "clean_corpus",
+    }
+    return mapping.get(stage)
+
+
+def _read_text_safe(path, limit=1800):
+    try:
+        txt = Path(path).read_text(encoding="utf-8", errors="replace")
+        return txt[:limit]
+    except Exception:
+        return ""
+
+
+def _parse_frontmatter_text(content):
+    meta = {}
+    match = re.match(r"^---\s*\n(.*?)\n---\s*\n", content or "", re.DOTALL)
+    if not match:
+        return meta
+    for line in match.group(1).splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        meta[key.strip()] = value.strip().strip('"').strip("'")
+    return meta
+
+
+def _write_frontmatter(path, updates):
+    path = Path(path)
+    content = path.read_text(encoding="utf-8", errors="replace")
+    match = re.match(r"^---\s*\n(.*?)\n---\s*\n", content, re.DOTALL)
+    meta = _parse_frontmatter_text(content)
+    body = re.sub(r"^---\s*\n(.*?)\n---\s*\n", "", content, count=1, flags=re.DOTALL) if match else content
+    meta.update(updates)
+    fm = "---\n" + "\n".join(f"{k}: {v}" for k, v in meta.items()) + "\n---\n"
+    path.write_text(fm + "\n" + body.lstrip("\n"), encoding="utf-8")
+
+
+def _job_id_from_path(path):
+    name = Path(path).name
+    for suffix in (".draft.md", ".summary.md", ".result.json"):
+        if name.endswith(suffix):
+            return name[:-len(suffix)]
+    return Path(path).stem
+
+
+def _job_files(stage_dir, job_id):
+    paths = []
+    for suffix in JOB_SUFFIXES:
+        path = Path(stage_dir) / f"{job_id}.{suffix}"
+        if path.exists():
+            paths.append(path)
+    return paths
+
+
+def _mac_pending_jobs():
+    script = r"""
+import glob
+import json
+import os
+import re
+import sys
+
+root = sys.argv[1]
+jobs = []
+for path in glob.glob(os.path.join(root, "02_drafting", "*.draft.md")):
+    try:
+        with open(path, encoding="utf-8", errors="replace") as f:
+            content = f.read(4096)
+    except Exception:
+        continue
+    match = re.match(r"^---\s*\n(.*?)\n---\s*\n", content, re.DOTALL)
+    meta = {}
+    if match:
+        for line in match.group(1).splitlines():
+            if ":" not in line:
+                continue
+            key, value = line.split(":", 1)
+            meta[key.strip()] = value.strip().strip('"').strip("'")
+    if meta.get("status") in {"admin_pending", "review_pending", "reviewed"}:
+        name = os.path.basename(path)
+        jobs.append(name[:-len(".draft.md")])
+print(json.dumps(jobs, ensure_ascii=False))
+"""
+    remote_cmd = "python3 -c " + shlex.quote(script) + " " + shlex.quote(MAC_PIPELINE_ROOT)
+    result = subprocess.run(
+        ["ssh", MAC_PIPELINE_SSH, remote_cmd],
+        capture_output=True,
+        text=True,
+        timeout=15,
+    )
+    if result.returncode != 0:
+        raise RuntimeError((result.stderr or result.stdout or "맥 승인대기 조회 실패").strip())
+    jobs = json.loads(result.stdout or "[]")
+    return [job for job in jobs if JOB_ID_RE.match(job or "")]
+
+
+def sync_mac_pending_to_atom():
+    jobs = _mac_pending_jobs()
+    review_dir = _stage_dir("review")
+    review_dir.mkdir(parents=True, exist_ok=True)
+    copied = []
+    for job_id in jobs:
+        for suffix in JOB_SUFFIXES:
+            remote = f"{MAC_PIPELINE_SSH}:{MAC_PIPELINE_ROOT}/02_drafting/{job_id}.{suffix}"
+            result = subprocess.run(
+                ["rsync", "-az", "--update", "--partial", remote, str(review_dir) + "/"],
+                capture_output=True,
+                text=True,
+                timeout=30,
+            )
+            if result.returncode == 0:
+                copied.append(f"{job_id}.{suffix}")
+            elif "No such file" not in (result.stderr or "") and "link_stat" not in (result.stderr or ""):
+                raise RuntimeError((result.stderr or result.stdout or f"{job_id}.{suffix} 동기화 실패").strip())
+    return {
+        "ok": True,
+        "action": "sync_mac_pending",
+        "jobs": jobs,
+        "copied": copied,
+        "message": f"맥 승인대기 {len(jobs)}건을 아톰 승인대기함으로 회수했습니다.",
+    }
+
+
+def _pipeline_item(stage_name, draft_or_summary):
+    path = Path(draft_or_summary)
+    job_id = _job_id_from_path(path)
+    draft = path.parent / f"{job_id}.draft.md"
+    summary = path.parent / f"{job_id}.summary.md"
+    result = path.parent / f"{job_id}.result.json"
+    main = draft if draft.exists() else (summary if summary.exists() else path)
+    content = _read_text_safe(main, limit=2200)
+    meta = _parse_frontmatter_text(content)
+    stat = main.stat()
+    title = meta.get("project_name") or meta.get("source_file") or main.name
+    return {
+        "job_id": job_id,
+        "stage": stage_name,
+        "title": title,
+        "status": meta.get("status", ""),
+        "assigned_agent": meta.get("assigned_agent", ""),
+        "updated": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(stat.st_mtime)),
+        "files": {
+            "draft": draft.name if draft.exists() else "",
+            "summary": summary.name if summary.exists() else "",
+            "result": result.name if result.exists() else "",
+        },
+        "preview": content[:1800],
+        "actionable": stage_name == "review" and draft.exists(),
+    }
+
+
+def get_pipeline_items(kind, limit=80):
+    items = []
+    if kind == "published":
+        dirs = [("published", _stage_dir("published"))]
+    elif kind == "admin":
+        dirs = [("review", _stage_dir("review"))]
+    elif kind == "inflight":
+        dirs = [("raw", _stage_dir("raw")), ("drafting", _stage_dir("drafting")), ("review", _stage_dir("review"))]
+    elif kind == "corpus":
+        corpus = _stage_dir("corpus")
+        if corpus and corpus.exists():
+            for path in sorted(corpus.glob("*.json"), key=lambda x: x.stat().st_mtime, reverse=True)[:limit]:
+                txt_path = path.with_suffix(".txt")
+                stat = path.stat()
+                items.append({
+                    "job_id": path.stem,
+                    "stage": "corpus",
+                    "title": path.name,
+                    "status": "clean_corpus",
+                    "assigned_agent": "",
+                    "updated": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(stat.st_mtime)),
+                    "files": {"json": path.name, "text": txt_path.name if txt_path.exists() else ""},
+                    "preview": _read_text_safe(txt_path if txt_path.exists() else path, limit=1800),
+                    "actionable": False,
+                })
+        return {"kind": kind, "items": items, "local_count": len(items), "mac_admin_pending": cached_data.get("pipeline", {}).get("admin_pending", -1)}
+    else:
+        dirs = []
+
+    seen = set()
+    for stage_name, directory in dirs:
+        if not directory or not directory.exists():
+            continue
+        candidates = list(directory.glob("*.draft.md")) + list(directory.glob("*.summary.md"))
+        for path in sorted(candidates, key=lambda x: x.stat().st_mtime, reverse=True):
+            job_id = _job_id_from_path(path)
+            key = (stage_name, job_id)
+            if key in seen:
+                continue
+            seen.add(key)
+            items.append(_pipeline_item(stage_name, path))
+            if len(items) >= limit:
+                break
+    return {"kind": kind, "items": items, "local_count": len(items), "mac_admin_pending": cached_data.get("pipeline", {}).get("admin_pending", -1)}
+
+
+def apply_pipeline_action(job_id, action):
+    if action == "sync_mac_pending":
+        return sync_mac_pending_to_atom()
+    if not JOB_ID_RE.match(job_id or ""):
+        raise ValueError("잘못된 작업 ID입니다.")
+    if action not in {"approve", "reject"}:
+        raise ValueError("지원하지 않는 액션입니다.")
+    review_dir = _stage_dir("review")
+    error_dir = _stage_dir("error")
+    draft = review_dir / f"{job_id}.draft.md"
+    if not draft.exists():
+        raise FileNotFoundError(f"승인대기 draft를 찾을 수 없습니다: {job_id}")
+    if action == "approve":
+        _write_frontmatter(draft, {"status": "reviewed", "assigned_agent": "Aurum"})
+        return {"ok": True, "job_id": job_id, "action": action, "message": "승인했습니다. 배포기가 reviewed 문서를 배포합니다."}
+    _write_frontmatter(draft, {"status": "rejected", "assigned_agent": "Aurum"})
+    error_dir.mkdir(parents=True, exist_ok=True)
+    moved = []
+    for src in _job_files(review_dir, job_id):
+        dst = error_dir / src.name
+        if dst.exists():
+            dst = error_dir / f"{int(time.time())}.{src.name}"
+        shutil.move(str(src), str(dst))
+        moved.append(dst.name)
+    return {"ok": True, "job_id": job_id, "action": action, "message": "거절했습니다. 관련 파일을 오류 보관함으로 이동했습니다.", "moved": moved}
+
 class LiveMonitorHandler(BaseHTTPRequestHandler):
     def log_message(self, format, *args):
         pass # 로그 출력 억제하여 디스크 I/O 절약
 
+    def _send_json(self, payload, status=200):
+        self.send_response(status)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Access-Control-Allow-Origin", "*")
+        self.end_headers()
+        self.wfile.write(json.dumps(payload, ensure_ascii=False).encode("utf-8"))
+
     def do_GET(self):
-        if self.path == "/api/metrics":
+        parsed = urlparse(self.path)
+        if parsed.path == "/api/metrics":
             try:
-                self.send_response(200)
-                self.send_header("Content-Type", "application/json; charset=utf-8")
-                self.send_header("Access-Control-Allow-Origin", "*")
-                self.end_headers()
-                self.wfile.write(json.dumps(cached_data, ensure_ascii=False).encode("utf-8"))
+                self._send_json(cached_data)
             except (ConnectionError, BrokenPipeError):
                 pass # 브라우저 중도 이탈로 인한 BrokenPipeError 예방 (서버 멈춤 완전 차단)
             except Exception as e:
                 print(f"[API Response Error] {e}", file=sys.stderr)
-        elif self.path == "/" or self.path == "/index.html":
+        elif parsed.path == "/api/pipeline":
+            try:
+                qs = parse_qs(parsed.query)
+                kind = qs.get("kind", ["admin"])[0]
+                self._send_json(get_pipeline_items(kind))
+            except Exception as e:
+                self._send_json({"ok": False, "error": str(e)}, status=500)
+        elif parsed.path == "/" or parsed.path == "/index.html":
             try:
                 self.send_response(200)
                 self.send_header("Content-Type", "text/html; charset=utf-8")
@@ -345,6 +597,20 @@ class LiveMonitorHandler(BaseHTTPRequestHandler):
                 self.send_error(404)
             except Exception:
                 pass
+
+    def do_POST(self):
+        parsed = urlparse(self.path)
+        if parsed.path != "/api/pipeline/action":
+            self.send_error(404)
+            return
+        try:
+            length = int(self.headers.get("Content-Length", "0"))
+            body = self.rfile.read(length).decode("utf-8") if length else "{}"
+            payload = json.loads(body)
+            result = apply_pipeline_action(payload.get("job_id", ""), payload.get("action", ""))
+            self._send_json(result)
+        except Exception as e:
+            self._send_json({"ok": False, "error": str(e)}, status=400)
 
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="ko">
@@ -789,6 +1055,146 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             border: 1px solid rgba(192, 202, 214, 0.34);
         }
 
+        .pipeline-action {
+            cursor: pointer;
+        }
+
+        .pipeline-action:hover {
+            border-color: var(--accent-blue);
+            background: linear-gradient(180deg, rgba(123, 199, 255, 0.14), var(--surface-2));
+        }
+
+        .modal-backdrop {
+            position: fixed;
+            inset: 0;
+            z-index: 20;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            padding: 18px;
+            background: rgba(0, 0, 0, 0.62);
+        }
+
+        .modal-backdrop.is-open {
+            display: flex;
+        }
+
+        .modal-panel {
+            width: min(1120px, 96vw);
+            max-height: 86vh;
+            display: grid;
+            grid-template-rows: auto minmax(0, 1fr);
+            background: var(--surface);
+            border: 1px solid var(--border-strong);
+            border-radius: 8px;
+            box-shadow: 0 22px 60px rgba(0,0,0,0.55);
+            overflow: hidden;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            gap: 12px;
+            align-items: center;
+            padding: 12px 14px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .modal-title {
+            font-weight: 700;
+            font-size: 0.98rem;
+        }
+
+        .modal-close {
+            border: 1px solid var(--border-color);
+            background: var(--surface-2);
+            color: var(--text-main);
+            border-radius: 6px;
+            padding: 6px 10px;
+            cursor: pointer;
+        }
+
+        .modal-body {
+            overflow: auto;
+            padding: 12px;
+        }
+
+        .pipeline-list {
+            display: grid;
+            gap: 8px;
+        }
+
+        .pipeline-item {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) auto;
+            gap: 12px;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            background: var(--surface-2);
+        }
+
+        .pipeline-item-title {
+            font-weight: 700;
+            margin-bottom: 4px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .pipeline-item-meta {
+            color: var(--text-sub);
+            font-size: 0.75rem;
+            margin-bottom: 7px;
+        }
+
+        .pipeline-preview {
+            max-height: 120px;
+            overflow: auto;
+            white-space: pre-wrap;
+            color: #dbe5ef;
+            font-size: 0.74rem;
+            line-height: 1.45;
+            background: #121821;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 8px;
+        }
+
+        .pipeline-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            min-width: 74px;
+        }
+
+        .action-btn {
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 7px 9px;
+            color: var(--text-main);
+            background: var(--surface-3);
+            cursor: pointer;
+            font-weight: 700;
+            font-size: 0.76rem;
+        }
+
+        .action-btn.approve {
+            border-color: rgba(126, 227, 154, 0.58);
+            color: var(--accent-green);
+        }
+
+        .action-btn.reject {
+            border-color: rgba(255, 133, 133, 0.58);
+            color: var(--accent-red);
+        }
+
+        .modal-note {
+            color: var(--text-sub);
+            font-size: 0.78rem;
+            margin-bottom: 10px;
+        }
+
         @media (max-width: 1280px) {
             .summary-layout,
             .content-layout {
@@ -914,19 +1320,19 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 </div>
             </div>
             <div class="hw-grid">
-                <div class="hw-metric">
+                <div class="hw-metric pipeline-action" data-pipeline-kind="published">
                     <div class="hw-metric-label">배포 완료</div>
                     <div class="hw-metric-value" id="pipe-published" style="color: var(--accent-green);">-</div>
                 </div>
-                <div class="hw-metric">
+                <div class="hw-metric pipeline-action" data-pipeline-kind="admin">
                     <div class="hw-metric-label">승인대기</div>
                     <div class="hw-metric-value" id="pipe-admin" style="color: var(--accent-amber);">-</div>
                 </div>
-                <div class="hw-metric">
+                <div class="hw-metric pipeline-action" data-pipeline-kind="inflight">
                     <div class="hw-metric-label">처리중</div>
                     <div class="hw-metric-value" id="pipe-inflight">-</div>
                 </div>
-                <div class="hw-metric">
+                <div class="hw-metric pipeline-action" data-pipeline-kind="corpus">
                     <div class="hw-metric-label">코퍼스</div>
                     <div class="hw-metric-value" id="pipe-corpus" style="color: var(--accent-blue);">-</div>
                 </div>
@@ -1054,6 +1460,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         </div>
     </div>
 
+
+    <div class="modal-backdrop" id="pipeline-modal" aria-hidden="true">
+        <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="pipeline-modal-title">
+            <div class="modal-header">
+                <div class="modal-title" id="pipeline-modal-title">파이프라인 상세</div>
+                <button class="modal-close" id="pipeline-modal-close" type="button">닫기</button>
+            </div>
+            <div class="modal-body" id="pipeline-modal-body">불러오는 중...</div>
+        </div>
+    </div>
+
     <script>
         const numberFromText = (value) => {
             if (value === null || value === undefined) return NaN;
@@ -1097,6 +1514,124 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             el.textContent = text;
             el.classList.toggle('is-error', Boolean(isError));
         };
+
+        const stageLabels = {
+            published: '배포 완료',
+            admin: '승인대기',
+            inflight: '처리중',
+            corpus: '클린 코퍼스',
+            review: '승인대기',
+            drafting: '초안 작성',
+            raw: '원문 분석'
+        };
+
+        const escapeHtml = (value) => String(value ?? '')
+            .replaceAll('&', '&amp;')
+            .replaceAll('<', '&lt;')
+            .replaceAll('>', '&gt;')
+            .replaceAll('"', '&quot;')
+            .replaceAll("'", '&#39;');
+
+        const modal = document.getElementById('pipeline-modal');
+        const modalTitle = document.getElementById('pipeline-modal-title');
+        const modalBody = document.getElementById('pipeline-modal-body');
+        const closePipelineModal = () => {
+            modal.classList.remove('is-open');
+            modal.setAttribute('aria-hidden', 'true');
+        };
+
+        const openPipelineModal = async (kind) => {
+            modal.classList.add('is-open');
+            modal.setAttribute('aria-hidden', 'false');
+            modalTitle.textContent = `${stageLabels[kind] || kind} 상세`;
+            modalBody.innerHTML = '<div class="modal-note">목록을 불러오는 중입니다...</div>';
+            try {
+                const response = await fetch(`/api/pipeline?kind=${encodeURIComponent(kind)}`);
+                const data = await response.json();
+                if (!response.ok || data.ok === false) throw new Error(data.error || '목록 조회 실패');
+                const localCount = data.local_count || 0;
+                const macPending = Number(data.mac_admin_pending);
+                const syncNote = kind === 'admin' && macPending > localCount
+                    ? `<div class="modal-note">맥 승인대기 ${macPending.toLocaleString()}건 중 아톰에 동기화된 항목은 ${localCount.toLocaleString()}건입니다. <button class="action-btn" data-action="sync_mac_pending" type="button">맥 승인대기 회수</button></div>`
+                    : '';
+                const rows = (data.items || []).map(renderPipelineItem).join('');
+                modalBody.innerHTML = syncNote + (rows || '<div class="modal-note">표시할 로컬 항목이 없습니다.</div>');
+            } catch (error) {
+                modalBody.innerHTML = `<div class="modal-note">${escapeHtml(error.message)}</div>`;
+            }
+        };
+
+        const renderPipelineItem = (item) => {
+            const actions = item.actionable ? `
+                <div class="pipeline-buttons">
+                    <button class="action-btn approve" data-action="approve" data-job-id="${escapeHtml(item.job_id)}" type="button">승인</button>
+                    <button class="action-btn reject" data-action="reject" data-job-id="${escapeHtml(item.job_id)}" type="button">거절</button>
+                </div>` : '<div></div>';
+            return `
+                <div class="pipeline-item">
+                    <div>
+                        <div class="pipeline-item-title">${escapeHtml(item.title || item.job_id)}</div>
+                        <div class="pipeline-item-meta">${escapeHtml(stageLabels[item.stage] || item.stage)} · ${escapeHtml(item.status || '상태 없음')} · ${escapeHtml(item.updated || '')} · ${escapeHtml(item.job_id)}</div>
+                        <div class="pipeline-preview">${escapeHtml(item.preview || '미리보기 없음')}</div>
+                    </div>
+                    ${actions}
+                </div>`;
+        };
+
+        const runMacPendingSync = async () => {
+            if (!confirm('맥 승인대기 항목을 아톰 승인대기함으로 회수하시겠습니까?')) return;
+            modalBody.innerHTML = '<div class="modal-note">맥 승인대기 항목을 회수하는 중입니다...</div>';
+            const response = await fetch('/api/pipeline/action', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'sync_mac_pending' })
+            });
+            const data = await response.json();
+            if (!response.ok || data.ok === false) {
+                alert(data.error || '맥 승인대기 회수 실패');
+                await openPipelineModal('admin');
+                return;
+            }
+            alert(data.message || '맥 승인대기 회수 완료');
+            await openPipelineModal('admin');
+            await fetchMetrics();
+        };
+
+        const runPipelineAction = async (jobId, action) => {
+            const label = action === 'approve' ? '승인' : '거절';
+            if (!confirm(`${jobId} 항목을 ${label}하시겠습니까?`)) return;
+            const response = await fetch('/api/pipeline/action', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ job_id: jobId, action })
+            });
+            const data = await response.json();
+            if (!response.ok || data.ok === false) {
+                alert(data.error || `${label} 실패`);
+                return;
+            }
+            alert(data.message || `${label} 완료`);
+            await openPipelineModal('admin');
+            await fetchMetrics();
+        };
+
+        document.querySelectorAll('[data-pipeline-kind]').forEach((el) => {
+            el.addEventListener('click', () => openPipelineModal(el.dataset.pipelineKind));
+        });
+        document.getElementById('pipeline-modal-close').addEventListener('click', closePipelineModal);
+        modal.addEventListener('click', (event) => {
+            if (event.target === modal) closePipelineModal();
+        });
+        modalBody.addEventListener('click', (event) => {
+            const syncButton = event.target.closest('[data-action="sync_mac_pending"]');
+            if (syncButton) {
+                runMacPendingSync();
+                return;
+            }
+            const button = event.target.closest('[data-action][data-job-id]');
+            if (!button) return;
+            runPipelineAction(button.dataset.jobId, button.dataset.action);
+        });
 
         async function fetchMetrics() {
             try {
