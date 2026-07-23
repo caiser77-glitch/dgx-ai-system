@@ -136,6 +136,8 @@ SCAN_BUDGET = int(os.environ.get("AUTOFEED_SCAN_BUDGET", "3000"))
 MIN_TEXT_BYTES = int(os.environ.get("AUTOFEED_MIN_TEXT_BYTES", "1500"))
 EXTRACT_FAIL_MARKERS = ("unsupported_file_type", "추출이 지원되지 않", "내용 분석은 불가능",
                         "content_extraction: unsupported")
+# 본문 4000자 표본에서 표·그림 마커 제외 실제 한글이 이 값 미만이면 '서술 빈약'으로 투입 제외.
+MIN_KOREAN_PROSE = int(os.environ.get("AUTOFEED_MIN_KOREAN_PROSE", "300"))
 
 
 def fauna_score(aic, name):
@@ -191,10 +193,15 @@ def find_candidates(need, exclude):
         if not tpath or not os.path.exists(tpath) or os.path.getsize(tpath) < MIN_TEXT_BYTES:
             continue
         try:
-            head = open(tpath, encoding="utf-8", errors="ignore").read(1200)
+            head = open(tpath, encoding="utf-8", errors="ignore").read(4000)
         except Exception:
             continue
         if any(k in head for k in EXTRACT_FAIL_MARKERS):   # 추출 실패 마커
+            continue
+        # ★ 프로즈 밀도: 표 위주 부록(hwp5txt가 <표>만 뽑는 문서)은 크기는 크지만 서술이 없어
+        #   mohave가 빈 초안을 씀. 표·그림 마커 제거 후 실제 한글이 충분해야 투입.
+        prose = re.sub(r'<표>|<그림>|[\s\d]', '', head)
+        if len(re.findall(r'[가-힣]', prose)) < MIN_KOREAN_PROSE:
             continue
         sc = fauna_score(aic, name)
         tiers[sc].append((p, name, sc))
