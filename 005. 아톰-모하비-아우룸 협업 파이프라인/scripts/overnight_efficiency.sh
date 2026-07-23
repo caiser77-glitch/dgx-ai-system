@@ -20,6 +20,12 @@ PY=/home/caiser77/AI_BASE/overnight_efficiency.py
 LOG=/home/caiser77/AI_BASE/overnight_efficiency.log
 BATCH="${OVERNIGHT_BATCH:-30}"
 
+# ── 볼트 동기화: 맥 문헌 연구원이 갱신한 종노트를 아톰으로 pull(2차 KB를 아톰 드래프터에 반영). ──
+VAULT_LOG=/home/caiser77/AI_BASE/vault_sync.log
+if rsync -az -e ssh aurum-mac:/Users/nams/AI_BASE/ObsidianVault/ /home/caiser77/AI_BASE/ObsidianVault/ >>"$VAULT_LOG" 2>&1; then
+  echo "$(date '+%F %T') [vault-sync] pull 완료" >> "$VAULT_LOG"
+fi
+
 "$VENV" "$PY" "$BATCH" >> "$LOG" 2>&1
 
 # ── HWP 재추출 backfill: 실패 HWP 본문을 hwp5txt로 복구(코퍼스 96% 회복). ──

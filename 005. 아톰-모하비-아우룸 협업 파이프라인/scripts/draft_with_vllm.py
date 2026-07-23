@@ -38,7 +38,19 @@ def build_notelist(summ_text):
         terms.add(m.group(1).strip().strip('"'))
     terms = {nfc(t) for t in terms if t and len(t) >= 2}
 
+    LIT_MARK = "## 문헌 근거 저감·보전 방안"
     def excerpt(content, span=260):
+        # 2차 문헌 연구원이 붙인 방안 카탈로그 전체를 우선 제공(2차 KB 실활용). 인용은 종노트만 → 〔근거:논문〕 제거.
+        li = content.find(LIT_MARK)
+        if li != -1:
+            seg = content[li:]
+            ri = seg.find("## 참고문헌")
+            if ri != -1:
+                seg = seg[:ri]
+            seg = re.sub(r'〔근거:[^〕]*〕', '', seg)
+            seg = re.sub(r'[ \t]+', ' ', seg[:1600]).strip()
+            if len(seg) > 40:
+                return seg
         for t in terms:
             i = content.find(t)
             if i != -1:
@@ -52,7 +64,7 @@ def build_notelist(summ_text):
             continue
         name = nfc(os.path.basename(p)[:-3])
         try:
-            content = nfc(open(p, encoding="utf-8", errors="ignore").read(4000))
+            content = nfc(open(p, encoding="utf-8", errors="ignore").read(12000))
         except Exception:
             continue
         notes.append((name, content))
