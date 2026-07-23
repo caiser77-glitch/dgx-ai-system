@@ -313,6 +313,18 @@ def build_ai_activity(pipeline, atom_gpu_util):
     }
 
 
+def get_lit_coverage():
+    """법정보호종 문헌 커버리지(맥에서 동기화된 literature_coverage.json)."""
+    path = PROCESSED_DIR / "literature_coverage.json"
+    if path.exists():
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return None
+
+
 def collect_metrics():
     catalogued = 0        # 텍스트 추출·분류가 끝나 카탈로그된 파일 수 (= metadata 파일 수)
     summary_done = 0      # AI 요약 정상 완료
@@ -434,7 +446,8 @@ def collect_metrics():
         "recent_files_mac": recent_files_mac,
         "recent_files_atom": recent_files_atom,
         "pipeline": pipeline_data,
-        "ai_activity": ai_activity
+        "ai_activity": ai_activity,
+        "literature": get_lit_coverage()
     }
 
 # 전역 캐시 딕셔너리 및 동기화 락
@@ -1683,6 +1696,41 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         </div>
     </div>
 
+    <!-- 문헌 연구원: 법정보호종 문헌 커버리지 (2차 지식축적) -->
+    <div class="progress-section">
+        <div class="pipeline-panel">
+            <div class="progress-info">
+                <div class="progress-title">📚 법정보호종 문헌 커버리지
+                    <span style="color: var(--text-sub); font-weight: 400; font-size: 0.76rem;">2차 지식축적</span>
+                    <span style="color: var(--text-sub); font-weight: 400; font-size: 0.76rem;" id="lit-updated"></span>
+                </div>
+            </div>
+            <div class="hw-grid">
+                <div class="hw-metric">
+                    <div class="hw-metric-label">문헌 수집 종수</div>
+                    <div class="hw-metric-value" id="lit-covered" style="color: var(--accent-green);">-</div>
+                    <div class="hw-metric-sub" id="lit-covered-sub" style="font-size:0.62rem;color:var(--text-sub);line-height:1;"></div>
+                </div>
+                <div class="hw-metric">
+                    <div class="hw-metric-label">수집 문헌 총계</div>
+                    <div class="hw-metric-value" id="lit-papers" style="color: var(--accent-blue);">-</div>
+                </div>
+                <div class="hw-metric">
+                    <div class="hw-metric-label">출처 KCI·웹·해외</div>
+                    <div class="hw-metric-value" id="lit-sources" style="font-size:1.15rem;color: var(--accent-amber);">-</div>
+                </div>
+                <div class="hw-metric">
+                    <div class="hw-metric-label">미탐색 종</div>
+                    <div class="hw-metric-value" id="lit-remaining">-</div>
+                    <div class="hw-metric-sub" id="lit-zero-sub" style="font-size:0.62rem;color:var(--text-sub);line-height:1;"></div>
+                </div>
+            </div>
+            <div class="service-row">
+                <span id="lit-category">분류군: -</span>
+            </div>
+        </div>
+    </div>
+
     <div class="ai-activity">
         <div class="ai-card" id="atom-ai-card">
             <div class="ai-card-header">
@@ -2100,6 +2148,27 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                         `launchd ${pp.mac_launchd === 'active' ? '🟢' : (pp.mac_launchd === 'inactive' ? '🔴' : '⚪')}`
                         + (pp.mac_drafting > 0 ? ` · 초안작성중 ${pp.mac_drafting}` : '')
                         + (pp.mac_updated ? ` (${pp.mac_updated})` : '');
+                }
+
+                // 4.6 법정보호종 문헌 커버리지 (2차 지식축적)
+                if (data.literature) {
+                    const lt = data.literature;
+                    const bs = lt.by_source || {};
+                    updateMetric('lit-covered', `${lt.covered||0} / ${lt.total_species||282}`, '');
+                    const cSub = document.getElementById('lit-covered-sub');
+                    if (cSub) cSub.innerText = `진행 ${lt.progress_pct||0}%`;
+                    updateMetric('lit-papers', (lt.papers_total||0).toLocaleString(), '');
+                    updateMetric('lit-sources', `${bs.KCI||0}·${bs.web||0}·${bs.foreign||0}`, '');
+                    updateMetric('lit-remaining', (lt.remaining||0).toLocaleString(), '');
+                    const zSub = document.getElementById('lit-zero-sub');
+                    if (zSub) zSub.innerText = lt.zero_hit ? `0건 ${lt.zero_hit}` : '';
+                    const luEl = document.getElementById('lit-updated');
+                    if (luEl) luEl.innerText = lt.updated ? ('· 갱신 ' + lt.updated) : '';
+                    const cat = lt.by_category || {};
+                    const parts = Object.keys(cat).filter(k => (cat[k].covered||0) > 0)
+                        .map(k => `${k} ${cat[k].covered}/${cat[k].total}`);
+                    const catEl = document.getElementById('lit-category');
+                    if (catEl) catEl.innerText = '분류군: ' + (parts.length ? parts.join(' · ') : '수집 전');
                 }
 
                 if (data.ai_activity) {
