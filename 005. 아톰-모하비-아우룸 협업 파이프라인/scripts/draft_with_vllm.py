@@ -37,6 +37,15 @@ def build_notelist(summ_text):
     for m in re.finditer(r'^(?:species|project_name|class_name):\s*(.+)$', txt, re.M):
         terms.add(m.group(1).strip().strip('"'))
     terms = {nfc(t) for t in terms if t and len(t) >= 2}
+    # ★근본 보강: detected 필드가 비었어도 요약 본문에서 보호종 직접 탐지(마스킹으로 부분일치 오탐 제거).
+    try:
+        _prot = json.load(open(os.environ.get("PROTECTED", "/home/caiser77/AI_BASE/protected_species.json"), encoding="utf-8"))
+        _masked = txt
+        for _sp in sorted(_prot, key=len, reverse=True):
+            if _sp in _masked:
+                terms.add(nfc(_sp)); _masked = _masked.replace(_sp, "□" * len(_sp))
+    except Exception:
+        pass
 
     LIT_MARK = "## 문헌 근거 저감·보전 방안"
     def excerpt(content, span=260):
