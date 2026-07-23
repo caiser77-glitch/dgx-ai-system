@@ -93,7 +93,24 @@ def build_notelist(summ_text):
             if added >= PER_SPECIES:
                 break
     rows = sorted(picked.values(), key=lambda x: -x[0])[:12]
-    return "\n\n".join(f"### {n}\n발췌: {excerpt(c)}" for s, n, c in rows)
+    # 대상 법정보호종 메타(학명·보호등급) — 보고서 서두 명시(아우룸 '등급/학명 누락' 보완필요 방지).
+    try:
+        _pj = json.load(open(os.environ.get("PROTECTED", "/home/caiser77/AI_BASE/protected_species.json"), encoding="utf-8"))
+    except Exception:
+        _pj = {}
+    try:
+        _sci = json.load(open(os.environ.get("SCI_INDEX", "/home/caiser77/AI_BASE/species_search_index.json"), encoding="utf-8"))
+    except Exception:
+        _sci = {}
+    _meta = []
+    for t in sorted(terms):
+        g = (_pj.get(t) or {}).get("protection", "")
+        if not g:
+            continue
+        sn = (_sci.get(t) or {}).get("Scientific_Name", "")
+        _meta.append("- %s(%s, 멸종위기 야생생물 %s)" % (t, sn or "학명미상", g))
+    _mb = ("[대상 법정보호종] (아래 각 종의 학명·보호등급을 보고서 서두에 반드시 명시)\n" + "\n".join(_meta) + "\n\n") if _meta else ""
+    return _mb + "\n\n".join(f"### {n}\n발췌: {excerpt(c)}" for s, n, c in rows)
 
 
 PROMPT_RULES = """너는 (주)아우룸생태연구소의 생태조사 보고서 작성 담당이다.
@@ -108,6 +125,7 @@ PROMPT_RULES = """너는 (주)아우룸생태연구소의 생태조사 보고서
 (2) 목록의 노트로 뒷받침되는 내용은 충실히 서술하라. 어떤 노트로도 확인되지 않는 특정
     수치·사실만 지어내지 말 것(그런 항목에 한해 '근거자료 미확인'으로 표기).
 (3) '서식특성 → 영향예측 → 저감대책' 구조로 서술할 것. 모든 한글은 조합형으로 작성.
+    각 법정보호종을 다룰 때 [대상 법정보호종]의 학명·보호등급을 종명 옆에 반드시 명시하라(예: "수달(Lutra lutra, 멸종위기 야생생물 I급)"). 이 학명·등급은 근거 인용 불필요.
 (4) 최종 보고서 초안은 반드시 아래 두 마커 사이에만 출력하라. 마커 밖 텍스트는 폐기된다.
     시작 마커: <<<REPORT_START>>>
     끝 마커: <<<REPORT_END>>>"""
