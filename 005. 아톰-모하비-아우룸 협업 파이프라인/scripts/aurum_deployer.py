@@ -126,7 +126,7 @@ class AurumDeployer:
             'DRAFT_PATH': draft_path,
             'JOB_ID': job_id,
             'PUBLISH_DIR': self.publish_dir,
-            'OUTPUT_HWP': os.path.join(self.publish_dir, f'{job_id}.hwp'),
+            'OUTPUT_HWP': os.path.join(self.publish_dir, f'{job_id}.hwpx'),
             'OUTPUT_PDF': os.path.join(self.publish_dir, f'{job_id}.pdf'),
             'OUTPUT_DOCX': os.path.join(self.publish_dir, f'{job_id}.docx'),
         })
@@ -143,7 +143,7 @@ class AurumDeployer:
     def _write_fallback_outputs(self, draft_path: str, job_id: str):
         draft_text = Path(draft_path).read_text(encoding='utf-8')
         # HWP 바이너리 변환 엔진이 없는 환경에서도 handoff 산출물 존재성은 보장한다.
-        Path(self.publish_dir, f"{job_id}.hwp").write_text(
+        Path(self.publish_dir, f"{job_id}.hwpx").write_text(
             "HWP 변환 대기 파일입니다. AURUM_CONVERT_COMMAND를 설정하면 실제 변환 산출물로 대체됩니다.\n\n" + draft_text,
             encoding='utf-8',
         )
