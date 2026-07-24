@@ -46,6 +46,28 @@ def read_text(path: Path | None, max_chars=4000):
     return text[:max_chars]
 
 
+def _load_protected():
+    for p in ("/home/caiser77/AI_BASE/protected_species.json",
+              "/home/caiser77/dgx_workspace/data/protected_species.json"):
+        try:
+            return sorted(json.load(open(p, encoding="utf-8")), key=len, reverse=True)
+        except Exception:
+            pass
+    return []
+
+
+_PROTECTED = _load_protected()
+
+
+def detect_protected(text):
+    """전체 텍스트에서 법정보호종 standalone 탐지(긴 종명 마스킹 소거로 부분일치 오탐 제거)."""
+    out, masked = [], text
+    for sp in _PROTECTED:
+        if sp in masked:
+            out.append(sp); masked = masked.replace(sp, "\u25a1" * len(sp))
+    return out[:30]
+
+
 def yaml_scalar(value):
     text = str(value or "")
     text = text.replace('"', "'").replace("\n", " ").strip()
@@ -103,7 +125,7 @@ def extract_classification(meta: dict):
     }
 
 
-def build_summary_markdown(job_id: str, meta: dict, classification: dict, preview: str):
+def build_summary_markdown(job_id: str, meta: dict, classification: dict, preview: str, detected=None):
     source_path = meta.get("source_path") or ""
     source_name = meta.get("source_name") or Path(source_path).name or job_id
     tags = classification["tags"] or ["#자동색인", "#NAS_데이터"]
@@ -117,11 +139,14 @@ def build_summary_markdown(job_id: str, meta: dict, classification: dict, previe
         f"project_name: {yaml_scalar(classification['project_name'])}",
         f"class_name: {yaml_scalar(classification['class_name'])}",
         f"document_type: {yaml_scalar(classification['document_type'])}",
+        f"detected_protected_species: {json.dumps(detected or [], ensure_ascii=False)}",
         f"tags: {json.dumps(tags, ensure_ascii=False)}",
         f"last_updated: {yaml_scalar(now_iso())}",
         "---",
     ]
-    return "\n".join(frontmatter) + f"\n\n# {source_name} 1차 분석 요약\n\n## AI 요약\n{classification['summary']}\n\n## 원문 미리보기\n\n```text\n{preview}\n```\n"
+    _det = detected or []
+    _sp = ("## \U0001F438 확인된 법정보호종 (%d종)\n%s\n\n" % (len(_det), ", ".join(_det))) if _det else ""
+    return "\n".join(frontmatter) + f"\n\n# {source_name} 1차 분석 요약\n\n{_sp}## AI 요약\n{classification['summary']}\n\n## 원문 미리보기\n\n```text\n{preview}\n```\n"
 
 
 def build_result_json(job_id: str, meta: dict, classification: dict, text_path: Path | None, preview: str):
@@ -172,7 +197,9 @@ def export_one(metadata_path: Path, processed_dir: Path, pipeline_root: Path, ov
     text_path = Path(outputs.get("text", "")) if outputs.get("text") else None
     if text_path and not text_path.is_absolute():
         text_path = processed_dir / text_path
-    preview = read_text(text_path)
+    full_text = read_text(text_path, max_chars=3_000_000)   # 전체(대형 문서 대비)
+    detected = detect_protected(full_text)
+    preview = full_text[:6000]
     classification = extract_classification(meta)
 
     summary_path = raw_dir / f"{job_id}.summary.md"
@@ -181,7 +208,7 @@ def export_one(metadata_path: Path, processed_dir: Path, pipeline_root: Path, ov
         logging.info("skip existing job: %s", job_id)
         return job_id
 
-    summary_path.write_text(build_summary_markdown(job_id, meta, classification, preview), encoding="utf-8")
+    summary_path.write_text(build_summary_markdown(job_id, meta, classification, preview, detected), encoding="utf-8")
     result_path.write_text(
         json.dumps(build_result_json(job_id, meta, classification, text_path, preview), ensure_ascii=False, indent=2),
         encoding="utf-8",
