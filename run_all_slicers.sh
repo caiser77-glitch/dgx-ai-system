@@ -23,7 +23,7 @@ $PYTHON_BIN "$SCRIPT_PATH" \
   --workers 8 \
   --ocr-endpoint http://localhost:7870 \
   --vllm-endpoint http://localhost:8088/v1/chat/completions \
-  --vllm-model Qwen/Qwen2.5-72B-Instruct-AWQ \
+  --vllm-model nvidia/Qwen3.6-35B-A3B-NVFP4 \
   --embedding-model sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 \
   --embedding-device cpu \
   --embedding-batch-size 32 \

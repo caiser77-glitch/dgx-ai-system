@@ -64,10 +64,10 @@ tail -f /var/log/atom-watcher/atom-watcher.log
   --query "질문 내용 입력" \
   --index-dir "data/indexes/faiss" \
   --llm-endpoint "http://localhost:8088/v1/chat/completions" \
-  --model "Qwen/Qwen2.5-72B-Instruct-AWQ"
+  --model "nvidia/Qwen3.6-35B-A3B-NVFP4"
 ```
 
-기본 `high_quality` 프로파일은 기존 72B 모델을 유지합니다. 대규모 NAS 전수조사 중 처리량이 우선인 경우에는 환경 변수로 중형 모델 프로파일을 선택할 수 있으나, 기존 인덱스와 산출물을 덮어쓰기 전에 별도 `index-dir`에서 검증해야 합니다.
+기본 `high_quality` 프로파일은 `nvidia/Qwen3.6-35B-A3B-NVFP4` NVFP4 모델을 사용합니다. 대규모 NAS 전수조사 중 처리량이 우선인 경우에는 환경 변수로 중형 모델 프로파일을 선택할 수 있으나, 기존 인덱스와 산출물을 덮어쓰기 전에 별도 `index-dir`에서 검증해야 합니다.
 
 ---
 

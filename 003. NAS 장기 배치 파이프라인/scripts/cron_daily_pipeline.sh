@@ -17,7 +17,7 @@ INDEX_DIR="${PROJECT_DIR}/data/indexes/faiss"
 # 운영 프로파일: 기본값은 기존 high_quality 계약을 보존한다.
 ATOM_PROFILE="${AURUM_ATOM_PROFILE:-high_quality}"
 VLLM_ENDPOINT="http://localhost:8088/v1/chat/completions"
-VLLM_MODEL="Qwen/Qwen2.5-72B-Instruct-AWQ"
+VLLM_MODEL="nvidia/Qwen3.6-35B-A3B-NVFP4"
 EMBEDDING_MODEL="${AURUM_EMBEDDING_MODEL:-sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2}"
 EMBEDDING_DEVICE="${AURUM_EMBEDDING_DEVICE:-cpu}"
 EMBEDDING_BATCH_SIZE="${AURUM_EMBEDDING_BATCH_SIZE:-32}"

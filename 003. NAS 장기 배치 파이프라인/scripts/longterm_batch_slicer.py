@@ -70,6 +70,7 @@ def call_vllm_for_summary(text: str, endpoint: str, model_name: str) -> dict:
         "temperature": 0.1,
         "max_tokens": 512,
         "stream": False,
+        "chat_template_kwargs": {"enable_thinking": False},
     }
 
     payload = json.dumps(data_dict).encode("utf-8")
@@ -137,7 +138,7 @@ def main():
     parser.add_argument("--extensions", default=".pdf,.docx,.txt,.pptx,.xlsx,.csv,.hwp,.hwpx,.xls", help="대상 확장자 목록 (콤마 구분)")
     parser.add_argument("--device-name", default="overnight_batch", help="장비 식별 식별자")
     parser.add_argument("--vllm-endpoint", default="http://localhost:8088/v1/chat/completions", help="vLLM API 엔드포인트")
-    parser.add_argument("--vllm-model", default="Qwen/Qwen2.5-72B-Instruct-AWQ", help="vLLM 모델명")
+    parser.add_argument("--vllm-model", default="nvidia/Qwen3.6-35B-A3B-NVFP4", help="vLLM 모델명")
     parser.add_argument("--embedding-model", default="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2", help="FAISS 인덱싱에 사용할 임베딩 모델명")
     parser.add_argument("--embedding-device", default="cpu", help="FAISS 인덱싱 임베딩 실행 장치(cpu, cuda 등)")
     parser.add_argument("--embedding-batch-size", type=int, default=32, help="FAISS 인덱싱 임베딩 배치 크기")

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # 007 — 아톰 병렬 드래프터. draft_with_mohave.sh(맥)의 아톰판: 동기화된 볼트로 RAG,
-# vLLM 72B로 생성, cite_utils로 인용 실재검증. 노트선택·프롬프트·규칙은 모하비와 동일 이식.
+# vLLM으로 생성, cite_utils로 인용 실재검증. 노트선택·프롬프트·규칙은 모하비와 동일 이식.
 # Created: 2026-07-22 by Antigravity(Claude Opus 4.8)
 # 사용: draft_with_vllm.py --summary <summary.md> --out <draft.md> [--job <id>]
 #       (Phase1 뼈대: 단일 잡 처리. Phase2에서 라우터가 아톰 로컬 큐로 호출)
@@ -9,7 +9,7 @@ import os, re, sys, json, glob, argparse, unicodedata, urllib.request
 VAULT = os.environ.get("ATOM_VAULT", "/home/caiser77/AI_BASE/ObsidianVault")
 CITE = os.environ.get("CITE_UTILS", "/home/caiser77/AI_BASE/cite_utils.py")
 LLM_URL = os.environ.get("VLLM_URL", "http://127.0.0.1:8088/v1/chat/completions")
-LLM_MODEL = os.environ.get("VLLM_MODEL", "Qwen/Qwen2.5-72B-Instruct-AWQ")
+LLM_MODEL = os.environ.get("VLLM_MODEL", "nvidia/Qwen3.6-35B-A3B-NVFP4")
 PER_SPECIES = 3
 
 sys.path.insert(0, os.path.dirname(CITE))
@@ -135,6 +135,7 @@ def generate(notelist, ctx):
     user = ("%s\n\n[참고 노트] (인용은 이 제목만 사용; 추가 검색 불필요)\n%s\n\n[1차 요약]\n%s"
             % (PROMPT_RULES, notelist or "- (관련 노트 자동검색 결과 없음)", ctx))
     payload = {"model": LLM_MODEL, "temperature": 0.3, "max_tokens": 1800,
+               "chat_template_kwargs": {"enable_thinking": False},
                "messages": [{"role": "user", "content": user}]}
     req = urllib.request.Request(LLM_URL, data=json.dumps(payload).encode(),
                                  headers={"Content-Type": "application/json"})

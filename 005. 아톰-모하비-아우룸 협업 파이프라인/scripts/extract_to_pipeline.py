@@ -181,13 +181,14 @@ def disturbance_species(text):
 def vllm_overview(text):
     """아톰 vLLM(Qwen)으로 3~4문장 개관 요약. 실패 시 빈 문자열."""
     try:
-        chunk = text[:1600]   # vLLM max-model-len 4096 대비 안전 청크
+        chunk = text[:1600]
         payload = json.dumps({
-            "model": "Qwen/Qwen2.5-72B-Instruct-AWQ",
+            "model": os.environ.get("VLLM_MODEL", "nvidia/Qwen3.6-35B-A3B-NVFP4"),
             "messages": [
                 {"role": "system", "content": "생태조사 보고서 요약가. 아래 발췌를 3~4문장 한국어 존댓말로 요약. 사업/조사 성격·확인 종·핵심 조치만. 없는 사실 지어내지 말 것."},
                 {"role": "user", "content": chunk}],
-            "max_tokens": 220, "temperature": 0.2
+            "max_tokens": 220, "temperature": 0.2,
+            "chat_template_kwargs": {"enable_thinking": False}
         }, ensure_ascii=False).encode("utf-8")
         req = urllib.request.Request("http://localhost:8088/v1/chat/completions",
                                      data=payload, headers={"Content-Type": "application/json"})

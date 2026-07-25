@@ -30,7 +30,7 @@
 - **정밀 OCR 엔진**: `fitz` 기반 아톰 OCR 컨테이너 (Port `7870`)
 - **임베딩 모델**: `sentence-transformers/all-MiniLM-L6-v2` (Local)
 - **로컬 벡터 스토어**: `FAISS-CPU` (inner_product metric)
-- **대형 추론 서버 (vLLM)**: `Qwen/Qwen2.5-72B-Instruct-AWQ` (Port `8088`, Marlin 가속)
+- **대형 추론 서버 (vLLM)**: `nvidia/Qwen3.6-35B-A3B-NVFP4` (Port `8088`, NVFP4/Marlin 가속)
 
 ---
 

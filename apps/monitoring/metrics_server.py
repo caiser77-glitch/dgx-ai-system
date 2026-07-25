@@ -177,6 +177,13 @@ def get_pipeline_status():
             mac = json.load(open(f, encoding="utf-8"))
     except Exception:
         pass
+    hold = {}
+    try:
+        hf = p / "pipeline_hold_status.json"
+        if time.time() - os.path.getmtime(hf) < 900:
+            hold = json.load(open(hf, encoding="utf-8"))
+    except Exception:
+        pass
     return {
         "raw": cnt("01_raw_analyzed"),
         "drafting_atom": _drafting_count(),
@@ -201,6 +208,8 @@ def get_pipeline_status():
         "mac_idle_reason": mac.get("idle_reason", ""),
         "mac_last_action": mac.get("last_action", ""),
         "mac_available_slots": mac.get("available_slots", -1),
+        "mac_hold_summary": hold.get("hold_summary", ""),
+        "mac_gate_summary": hold.get("gate_summary", ""),
     }
 
 
@@ -1816,7 +1825,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                         <div class="hw-metric-value" id="mac-ram">-</div>
                     </div>
                     <div class="hw-metric">
-                        <div class="hw-metric-label">맥북 내부온도</div>
+                        <div class="hw-metric-label">맥북 CPU 온도</div>
                         <div class="hw-metric-value" id="mac-temp">-</div>
                     </div>
                     <div class="hw-metric">
@@ -2137,10 +2146,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                         ? pp.total_admin_pending : (atomAdmin + macAdmin);
                     updateMetric('pipe-admin', totalAdmin, totalAdmin > 0 ? 'count-risk' : '');
                     const adminSub = document.getElementById('pipe-admin-sub');
-                    if (adminSub) adminSub.innerText = totalAdmin > 0 ? `아톰 ${atomAdmin} · 맥 ${macAdmin}` : '';
+                    if (adminSub) adminSub.innerText = totalAdmin > 0 ? (`아톰 ${atomAdmin} · 맥 ${macAdmin}` + (pp.mac_hold_summary ? ` │ 보류 ${pp.mac_hold_summary}` : '')) : '';
                     updateMetric('pipe-inflight', ((pp.raw||0)+(pp.drafting_atom||0)+(pp.review_pending||0)), '');
                     updateMetric('pipe-corpus', (pp.corpus_docs || 0).toLocaleString(), '');
-                    document.getElementById('pipe-updated').innerText = pp.overnight_updated ? ('· 코퍼스 갱신 ' + pp.overnight_updated) : '';
+                    document.getElementById('pipe-updated').innerText = (pp.overnight_updated ? ('· 코퍼스 갱신 ' + pp.overnight_updated) : '') + (pp.mac_gate_summary ? ('  🛡 ' + pp.mac_gate_summary) : '');
                     const dot = (s) => s === 'active' ? '🟢' : (s === 'stopped' ? '🔴' : '⚪');
                     document.getElementById('pipe-svc-atom').innerText =
                         `엔진${dot(pp.svc_engine)} 추적기${dot(pp.svc_tracker)} 배포기${dot(pp.svc_deployer)}`;
